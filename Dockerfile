@@ -1,7 +1,4 @@
 FROM nvidia/cuda:12.6.3-base-ubuntu22.04
-RUN ldconfig /usr/local/cuda-12.6/compat/
-RUN ls /usr/local/cuda-12.6/
-ENV CUDA_HOME="/usr/local/cuda-12.6"
 
 # Override the default huggingface cache directory.
 ENV HF_HOME="/runpod-volume/.cache/huggingface/"
@@ -35,6 +32,8 @@ RUN apt-get update && apt-get install -y \
   bash \ 
   curl \
   && rm -rf /var/lib/apt/lists/*
+
+RUN ldconfig /usr/local/cuda-12.6/compat/
 
 WORKDIR /app
 
