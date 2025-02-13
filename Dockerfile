@@ -35,6 +35,9 @@ RUN python3 -m pip install --upgrade pip && \
   python3 -m pip install --upgrade -r requirements.txt --no-cache-dir && \
   rm requirements.txt
 
+# This thing thinks it's special and needs to be here
+RUN pip install -U flash-attn --no-build-isolation
+
 # Copy application code
 COPY app.py .
 COPY examples ./examples
