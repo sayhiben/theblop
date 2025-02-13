@@ -1,4 +1,4 @@
-FROM nvidia/cuda:12.6.3-base-ubuntu22.04
+FROM nvidia/cuda:12.1.0-base-ubuntu22.04
 
 # Override the default huggingface cache directory.
 ENV HF_HOME="/runpod-volume/.cache/huggingface/"
@@ -21,7 +21,7 @@ ENV PYTHON_VERSION="3.10"
 
 # System dependencies for MiniCPM-o 2.6
 RUN apt-get update && apt-get install -y \
-  nvidia-cuda-toolkit \
+  nvidia-container-toolkit \
   tesseract-ocr \
   libgl1 \
   ffmpeg \
@@ -33,7 +33,7 @@ RUN apt-get update && apt-get install -y \
   curl \
   && rm -rf /var/lib/apt/lists/*
 
-RUN ldconfig /usr/local/cuda-12.6/compat/
+RUN ldconfig /usr/local/cuda-12.1/compat/
 
 WORKDIR /app
 
@@ -45,7 +45,7 @@ RUN python3 -m pip install --upgrade pip && \
 RUN python3 -m pip install --upgrade -r requirements.txt --no-cache-dir
 
 # This thing thinks it's special and needs to be here
-RUN pip install -U flash-attn==2.5.8 --no-build-isolation
+RUN pyton3 -m pip install -U flash-attn --no-build-isolation
 
 # Copy application code
 COPY app.py .
