@@ -21,12 +21,9 @@ jobs:
 
       - name: Tag and Push Docker Image
         env:
-          IMAGE_NAME: ${{ secrets.DOCKERHUB_USERNAME }}/event-flyer-parser
+          IMAGE_NAME: ${{ secrets.DOCKERHUB_USERNAME }}/minicpm-o-2.6-events-parser
           IMAGE_TAG: ${{ github.sha }}
         run: |
-          docker tag event-flyer-parser:latest $IMAGE_NAME:$IMAGE_TAG
+          docker tag $IMAGE_NAME:latest $IMAGE_NAME:$IMAGE_TAG
           docker push $IMAGE_NAME:$IMAGE_TAG
-
-      - name: Annotate Deployment with GitHub Actions Job Summary
-        run: |
           echo "Deployed $IMAGE_NAME:$IMAGE_TAG as :latest" >> $GITHUB_STEP_SUMMARY
