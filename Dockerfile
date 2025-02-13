@@ -9,6 +9,11 @@ RUN apt-get update && apt-get install -y \
 
 WORKDIR /app
 
+# Flash-attn is hot garbage and the developers of it should feel bad
+RUN python3.11 -m pip install setuptools \
+  && sudo apt-get install python3-dev \
+  && python3.11 -m pip install flash-attn --no-build-isolation
+
 # Install huggingface-hub and download MiniCPM-o 2.6 model
 RUN python3.11 -m pip install huggingface-hub==0.28.1
 RUN mkdir -p model \
