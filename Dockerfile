@@ -27,6 +27,11 @@ RUN apt-get update && apt-get install -y \
   libgl1 \
   ffmpeg \
   python3-pip \
+  git \
+  jq \
+  vim \
+  bash \ 
+  curl \
   && rm -rf /var/lib/apt/lists/*
 
 WORKDIR /app
