@@ -1,3 +1,4 @@
+--index-url https://download.pytorch.org/whl/cu121
 accelerate==1.2.1
 aiofiles==23.2.1
 fastapi

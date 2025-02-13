@@ -38,7 +38,7 @@ RUN python3 -m pip install --upgrade pip && \
   rm requirements.txt
 
 # This thing thinks it's special and needs to be here
-RUN pip install -U flash-attn --no-build-isolation
+RUN pip install -U flash-attn==2.5.8 --no-build-isolation
 
 # Copy application code
 COPY app.py .
