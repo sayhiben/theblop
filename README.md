@@ -3,14 +3,6 @@ Parses events described in images and posts the event details to a Google Sheet
 
 # Development
 
-## Build the Docker Image
+Mostly just update and push now.
 
-```shell
-make build
-```
-
-## Update the Docker Image on Dockerhub
-
-```shell
-make push
-```
+When you get a new deployed SHA, update the runpod endpoint settings
