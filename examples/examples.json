@@ -1,0 +1,44 @@
+[
+  { 
+    "images": [
+      "example1.png"
+    ],
+    "answer": "{  \"title\": \"Trump is Not a President Rally\",  \"description\": \"A rally celebrating community and strength in opposition to the current administration's actions since January 20th, 2025.\",  \"city\": \"\",  \"state\": \"\",  \"postal_code\": \"\",  \"address\": \"Washington County Building, 111 Tabernacle St\",  \"meeting_location\": \"\",  \"date\": \"2025-02-17\",  \"time\": \"12:00pm - 2:00pm\",  \"links\": [],  \"sponsors\": [],  \"status\": \"success\",  \"admin_notes\": \"\"}"
+  },
+  {
+    "images": [
+      "example2.png"
+    ],
+    "answer": "{  \"title\": \"PRESIDENTS DAY PROTEST\",  \"description\": \"Has been cosigned by 50501, Anonymous, and other large bodies. Be there. Fight on.\",  \"city\": \"\",  \"state\": \"\",  \"postal_code\": \"\",  \"address\": \"\",  \"meeting_location\": \"STATE CAPITOL / WHITE HOUSE\",  \"date\": \"2025-02-17\",  \"time\": \"11 AM\",  \"links\": [],  \"sponsors\": [\"50501\", \"Anonymous\"],  \"status\": \"success\",  \"admin_notes\": \"\"}"
+  },
+  {
+    "images": [
+      "example3.jpeg"
+    ],
+    "answer": "{  \"title\": \"Trump is Not a President Rally\",  \"description\": \"A community gathering to reject the current president and his administration's actions since January 20th, 2025.\",  \"city\": \"St. George\",  \"state\": \"Utah\",  \"postal_code\": \"\",  \"address\": \"Washington County Building, 111 Tabernacle St\",  \"meeting_location\": \"\",  \"date\": \"2025-02-17\",  \"time\": \"12:00pm\",  \"links\": [],  \"sponsors\": [],  \"status\": \"success\",  \"admin_notes\": \"\"}"
+  },
+  {
+    "images": [
+      "example4.jpg"
+    ],
+    "answer": "{  \"title\": \"We Will Not Be Blamed or Erased: Presidents Day Protest\",  \"description\": \"A protest against racist and fascist attacks, organized in front of the White House on Presidents Day.\",  \"city\": \"Washington\",  \"state\": \"DC\",  \"postal_code\": \"\",  \"address\": \"Lafayette Park, White House\",  \"meeting_location\": \"Lafayette Park, White House\",  \"date\": \"2025-02-17\",  \"time\": \"\",  \"links\": [\"https://venmo.com/Rally-Forward\"],  \"sponsors\": [\"People's Organization for Progress\", \"NAACP Newark Branch\"],  \"status\": \"success\",  \"admin_notes\": \"\"}"
+  },
+  {
+    "images": [
+      "example5.jpg"
+    ],
+    "answer": "{  \"title\": \"Peaceful Protest\",  \"description\": \"Peaceful protest in support of the Mexican community. Please abide by all the rules. Bring posters, flags, speakers, etc. to make your voices heard.\",  \"city\": \"Orange\",  \"state\": \"CA\",  \"postal_code\": \"92867\",  \"address\": \"1300 N Tustin St.\",  \"meeting_location\": \"\",  \"date\": \"2025-02-15\",  \"time\": \"10:00am\",  \"links\": [],  \"sponsors\": [\"Pueblo Unido\"],  \"status\": \"success\",  \"admin_notes\": \"\"}"
+  },
+  {
+    "images": [
+      "example6.jpeg"
+    ],
+    "answer": "{  \"title\": \"Rally with AFGE!\",  \"description\": \"A rally to safeguard the civil service and preserve the rights of workers.\",  \"city\": \"Washington\",  \"state\": \"DC\",  \"postal_code\": \"20001\",  \"address\": \"Upper Senate Park, Corner of Constitution Ave. NW and Delaware Ave. NE\",  \"meeting_location\": \"Outside Hyatt Regency, 400 New Jersey Ave., NW, Washington, DC 20001 at 11:30 AM\",  \"date\": \"2025-02-11\",  \"time\": \"12:00 PM - 1:00 PM\",  \"links\": [],  \"sponsors\": [\"American Federation of Government Employees (AFGE), AFL-CIO\"],  \"status\": \"success\",  \"admin_notes\": \"\"}"
+  },
+  {
+    "images": [
+      "example7.jpg"
+    ],
+    "answer": "{  \"title\": \"March Against Trumpism\",  \"description\": \"Join us to make clear that fascism is not welcome here and that we will resist Trump's immoral agenda.\",  \"city\": \"San Diego\",  \"state\": \"CA\",  \"postal_code\": \"\",  \"address\": \"1600 Pacific Highway\",  \"meeting_location\": \"Waterfront Park\",  \"date\": \"2025-02-09\",  \"time\": \"9:00 AM\",  \"links\": [],  \"sponsors\": [],  \"status\": \"success\",  \"admin_notes\": \"\"}"
+  }
+]
