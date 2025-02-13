@@ -24,6 +24,7 @@ ENV PYTHON_VERSION="3.10"
 
 # System dependencies for MiniCPM-o 2.6
 RUN apt-get update && apt-get install -y \
+  nvidia-cuda-toolkit \
   tesseract-ocr \
   libgl1 \
   ffmpeg \
