@@ -12,8 +12,8 @@ WORKDIR /app
 # Install Python dependencies from OpenBMB's spec
 COPY requirements.txt .
 RUN python3.11 -m pip install --upgrade pip && \
-  python3.11 -m pip install --upgrade -r /requirements.txt --no-cache-dir && \
-  rm /requirements.txt
+  python3.11 -m pip install --upgrade -r requirements.txt --no-cache-dir && \
+  rm requirements.txt
 
 # Copy application code
 COPY app.py .
