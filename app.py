@@ -18,6 +18,7 @@ logger = RunPodLogger()
 MODEL_NAME = "openbmb/MiniCPM-o-2_6"
 EXAMPLES_PATH = "./examples"
 SYSTEM_PROMPT_PATH = "./prompt.txt"
+MAX_DIM = 1280
 
 
 def initialize_drive_service():
@@ -60,6 +61,7 @@ def initialize_model():
     Initialize the pretrained model, set it to evaluation mode,
     and move it to the GPU.
     """
+    torch.cuda.empty_cache()
     model = AutoModel.from_pretrained(
         MODEL_NAME,
         trust_remote_code=True,
@@ -89,7 +91,7 @@ def load_few_shot_examples(system_prompt):
     for answer in answers:
         # Load and convert images to RGB.
         images = [
-            Image.open(f"{EXAMPLES_PATH}/{image}").convert("RGB")
+            Image.open(f"{EXAMPLES_PATH}/{image}").convert("RGB").resize((MAX_DIM, MAX_DIM))
             for image in answer["images"]
         ]
         # User example with images and system prompt.
@@ -138,7 +140,7 @@ def handle_inference(event):
         logger.info(f"Downloading images: {submission['imageIds']}")
         try:
             images = [
-                download_image_from_drive(image_id, drive_service).convert("RGB")
+                download_image_from_drive(image_id, drive_service).convert("RGB").thumbnail((MAX_DIM, MAX_DIM))    
                 for image_id in submission["imageIds"]
             ]
         except Exception as e:
