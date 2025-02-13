@@ -50,6 +50,7 @@ RUN FLASH_ATTENTION_SKIP_CUDA_BUILD=TRUE python3 -m pip install -U flash-attn --
 # Copy application code
 COPY app.py .
 COPY examples ./examples
+COPY prompt.txt .
 
 # RunPod serverless configuration
 EXPOSE 8000
