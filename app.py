@@ -90,10 +90,11 @@ def load_few_shot_examples(system_prompt):
     examples = []
     for answer in answers:
         # Load and convert images to RGB.
-        images = [
-            Image.open(f"{EXAMPLES_PATH}/{image}").convert("RGB").resize((MAX_DIM, MAX_DIM))
-            for image in answer["images"]
-        ]
+        images = []
+        for image in answer["images"]:
+            image = Image.open(f"{EXAMPLES_PATH}/{image}").convert("RGB")
+            image.thumbnail((MAX_DIM, MAX_DIM))
+            images.append(image)
         # User example with images and system prompt.
         examples.append({"role": "user", "content": [*images, system_prompt]})
         # Assistant's answer.
@@ -139,10 +140,11 @@ def handle_inference(event):
     for submission in submissions:
         logger.info(f"Downloading images: {submission['imageIds']}")
         try:
-            images = [
-                download_image_from_drive(image_id, drive_service).convert("RGB").thumbnail((MAX_DIM, MAX_DIM))    
-                for image_id in submission["imageIds"]
-            ]
+            images = []
+            for image_id in submission["imageIds"]:
+                image = download_image_from_drive(image_id, drive_service)
+                image.thumbnail((MAX_DIM, MAX_DIM))
+                images.append(image)
         except Exception as e:
             logger.error(f"Error downloading images for submission id {submission['submissionId']}: {e}")
 
