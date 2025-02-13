@@ -45,7 +45,7 @@ RUN python3 -m pip install --upgrade pip && \
 RUN python3 -m pip install --upgrade -r requirements.txt --no-cache-dir
 
 # This thing thinks it's special and needs to be here
-RUN python3 -m pip install -U flash-attn --no-build-isolation
+RUN FLASH_ATTENTION_SKIP_CUDA_BUILD=TRUE python3 -m pip install -U flash-attn --no-build-isolation
 
 # Copy application code
 COPY app.py .
