@@ -34,8 +34,8 @@ WORKDIR /app
 # Install Python dependencies from OpenBMB's spec
 COPY requirements.txt .
 RUN python3 -m pip install --upgrade pip && \
-  python3 -m pip install --upgrade -r requirements.txt --no-cache-dir && \
-  rm requirements.txt
+  python3 -m pip install --upgrade -r requirements-cuda.txt --no-cache-dir
+RUN python3 -m pip install --upgrade -r requirements.txt --no-cache-dir
 
 # This thing thinks it's special and needs to be here
 RUN pip install -U flash-attn==2.5.8 --no-build-isolation
