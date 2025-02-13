@@ -37,7 +37,7 @@
   },
   {
     "images": [
-      "example7.jpg"
+      "example7.jpeg"
     ],
     "answer": "{  \"title\": \"March Against Trumpism\",  \"description\": \"Join us to make clear that fascism is not welcome here and that we will resist Trump's immoral agenda.\",  \"city\": \"San Diego\",  \"state\": \"CA\",  \"postal_code\": \"\",  \"address\": \"1600 Pacific Highway\",  \"meeting_location\": \"Waterfront Park\",  \"date\": \"2025-02-09\",  \"time\": \"9:00 AM\",  \"links\": [],  \"sponsors\": [],  \"status\": \"success\",  \"admin_notes\": \"\"}"
   }
