@@ -1,5 +1,7 @@
 FROM nvidia/cuda:12.6.3-base-ubuntu22.04
-RUN ls -la /usr/local/cuda12.6/
+RUN ls -la /usr/local/
+RUN ls -la /usr/local/nvidia/
+RUN ls -la /usr/local/cuda-12.6/
 RUN ldconfig /usr/local/cuda/compat/
 
 # Override the default huggingface cache directory.
