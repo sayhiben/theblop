@@ -32,6 +32,7 @@ RUN apt-get update && apt-get install -y \
 WORKDIR /app
 
 # Install Python dependencies from OpenBMB's spec
+COPY requirements-cuda.txt .
 COPY requirements.txt .
 RUN python3 -m pip install --upgrade pip && \
   python3 -m pip install --upgrade -r requirements-cuda.txt --no-cache-dir
