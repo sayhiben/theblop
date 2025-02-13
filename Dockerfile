@@ -1,9 +1,4 @@
-FROM runpod/base:0.4.0-cuda11.8.0
-
-# Install huggingface-hub and download MiniCPM-o 2.6 model
-RUN pip install huggingface-hub==0.28.1
-RUN mkdir -p /app/model \
-  && huggingface-cli download openbmb/MiniCPM-o-2_6 --local-dir /app/model
+FROM runpod/base:0.6.2-cuda12.6.2
 
 # System dependencies for MiniCPM-o 2.6
 RUN apt-get update && apt-get install -y \
