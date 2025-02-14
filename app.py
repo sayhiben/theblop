@@ -67,6 +67,9 @@ def initialize_model():
         trust_remote_code=True,
         attn_implementation="sdpa",
         torch_dtype=torch.bfloat16,
+        init_vision=True,
+        init_audio=False,
+        init_tts=False
     )
     model = model.eval().cuda()
     return model
