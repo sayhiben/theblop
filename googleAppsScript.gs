@@ -1,5 +1,5 @@
 /***************************************************
- * Google Apps Script - Main Code
+ * Google Apps Script - Main Code with Verbose Logging
  ***************************************************/
 
 /**
@@ -25,21 +25,36 @@ const JOBS_SHEET_NAME = 'Jobs';
 
 // -----------------------------------------------------------------------------
 // 1. processEmails()
-//    Unchanged: processes unread messages, stores them in 'RawData', marks read.
+//    Processes unread messages, stores them in 'RawData', marks as read, 
+//    and moves the thread to Trash afterward.
 // -----------------------------------------------------------------------------
 
 function processEmails() {
+  Logger.log('Starting processEmails()...');
+  
+  Logger.log('INBOX_SPREADSHEET_ID: ' + INBOX_SPREADSHEET_ID);
+  Logger.log('DRIVE_FOLDER_ID: ' + DRIVE_FOLDER_ID);
+
   const sheet = SpreadsheetApp.openById(INBOX_SPREADSHEET_ID).getSheetByName(RAW_DATA_SHEET_NAME);
   const folder = DriveApp.getFolderById(DRIVE_FOLDER_ID);
 
   // Search only unread messages in the inbox
   const threads = GmailApp.search('in:inbox is:unread');
-  if (!threads.length) return;
+  Logger.log('Found ' + threads.length + ' unread thread(s) in the inbox.');
+
+  if (!threads.length) {
+    Logger.log('No unread threads. Exiting processEmails().');
+    return;
+  }
 
   threads.forEach(thread => {
     const messages = thread.getMessages();
+    Logger.log('Thread has ' + messages.length + ' message(s). Processing each unread message...');
+
     messages.forEach(message => {
       if (message.isUnread()) {
+        Logger.log('Processing unread message with subject: ' + message.getSubject());
+
         const date = message.getDate();
         const uuid = Utilities.getUuid();
         const subject = message.getSubject();
@@ -48,22 +63,28 @@ function processEmails() {
         // Extract links from body
         const linkRegex = /https?:\/\/\S+/g;
         const links = bodyText.match(linkRegex) || [];
-        
+        Logger.log('Extracted ' + links.length + ' link(s) from email body.');
+
         // Handle attachments
         const attachments = message.getAttachments({includeInlineImages: false});
+        Logger.log('Found ' + attachments.length + ' attachment(s) to process for images.');
+
         const images = [];
         attachments.forEach(att => {
           if (att.getContentType().match(/^image\//)) {
             const file = folder.createFile(att.copyBlob());
             const imageUrl = file.getUrl();
             const imageId = file.getId();
-            images.push({ id: imageId, url: imageUrl });
+            images.push({ "id": imageId, "url": imageUrl });
+            Logger.log('Image saved to Drive. ID: ' + imageId + ', URL: ' + imageUrl);
           }
         });
 
         // Append row to RawData
         const imageUrls = images.map((img) => img.url);
         const imageIds = images.map((img) => img.id);
+
+        Logger.log('Appending row to RawData with UUID: ' + uuid);
         sheet.appendRow([
           date,
           uuid,
@@ -77,11 +98,16 @@ function processEmails() {
 
         // Mark message as read
         message.markRead();
+        Logger.log('Marked message as read. Subject: ' + subject);
       }
     });
+
     // Move the entire thread to trash
     thread.moveToTrash();
+    Logger.log('Moved thread to trash.');
   });
+
+  Logger.log('Completed processEmails().');
 }
 
 // -----------------------------------------------------------------------------
@@ -91,11 +117,18 @@ function processEmails() {
 // -----------------------------------------------------------------------------
 
 function launchRunPodJobs() {
+  Logger.log('Starting launchRunPodJobs()...');
+  
+  Logger.log('INBOX_SPREADSHEET_ID: ' + INBOX_SPREADSHEET_ID);
+  Logger.log('RUNPOD_ENDPOINT_URL: ' + RUNPOD_ENDPOINT_URL);
+
   const ss = SpreadsheetApp.openById(INBOX_SPREADSHEET_ID);
   const rawDataSheet = ss.getSheetByName(RAW_DATA_SHEET_NAME);
 
   // Gather unprocessed rows
   const data = rawDataSheet.getDataRange().getValues();
+  Logger.log('RawData sheet contains ' + data.length + ' row(s) (including header).');
+
   const submissions = [];
   // data[0] = header row: [Date, UUID, Subject, Body, Links, Image URLs, Image Ids, Processed]
   for (let i = 1; i < data.length; i++) {
@@ -111,11 +144,13 @@ function launchRunPodJobs() {
   }
 
   if (!submissions.length) {
-    Logger.log('No unprocessed submissions found.');
+    Logger.log('No unprocessed submissions found. Exiting launchRunPodJobs().');
     return;
   }
 
-  const payload = { submissions: submissions };
+  Logger.log('Submitting ' + submissions.length + ' unprocessed submission(s) to RunPod.');
+
+  const payload = { "input": { "submissions": submissions } };
   try {
     const response = UrlFetchApp.fetch(RUNPOD_ENDPOINT_URL, {
       method: 'post',
@@ -126,6 +161,8 @@ function launchRunPodJobs() {
       payload: JSON.stringify(payload),
       muteHttpExceptions: true
     });
+
+    Logger.log('Received response code: ' + response.getResponseCode());
 
     if (response.getResponseCode() !== 200 && response.getResponseCode() !== 201) {
       Logger.log('RunPod submission failed. Code: ' + response.getResponseCode() + ', body: ' + response.getContentText());
@@ -139,6 +176,8 @@ function launchRunPodJobs() {
       return;
     }
 
+    Logger.log('RunPod job created with ID: ' + jobId);
+
     // Record the job in the "Jobs" sheet
     const jobsSheet = getOrCreateJobsSheet(ss);
     // Columns: [ Timestamp, JobID, Status, PollAttempts, NextPollMins, Submissions ]
@@ -151,34 +190,40 @@ function launchRunPodJobs() {
       JSON.stringify(submissions)
     ]);
 
-    Logger.log('RunPod job created with ID: ' + jobId);
-
     // Now schedule a run of pollRunPodJobs() in 5 minutes
+    Logger.log('Creating time-based trigger for pollRunPodJobs() in 5 minutes.');
     createOneTimeTrigger('pollRunPodJobs', 5);
 
   } catch (err) {
     Logger.log('Error creating RunPod job: ' + err);
   }
+
+  Logger.log('Completed launchRunPodJobs().');
 }
 
 // -----------------------------------------------------------------------------
 // 3. pollRunPodJobs()
 //    Runs once, checks all incomplete jobs. Polls them if their nextPollMins 
 //    has elapsed, updates status. If any jobs still not done, schedules 
-//    itself again with appropriate earliest nextPollMins. Then it exits.
+//    itself again with the earliest nextPollMins. Then it exits.
 // -----------------------------------------------------------------------------
 
 function pollRunPodJobs() {
+  Logger.log('Starting pollRunPodJobs()...');
+  
   // 1. Remove any existing triggers for pollRunPodJobs (to prevent duplicates).
   removeTriggersForFunction('pollRunPodJobs');
+  Logger.log('Removed any existing triggers for pollRunPodJobs().');
 
   // 2. Perform the poll logic
   const ss = SpreadsheetApp.openById(INBOX_SPREADSHEET_ID);
   const jobsSheet = getOrCreateJobsSheet(ss);
 
   const data = jobsSheet.getDataRange().getValues();
+  Logger.log('Jobs sheet contains ' + data.length + ' row(s) (including header).');
+
   if (data.length <= 1) {
-    Logger.log('No job records found.');
+    Logger.log('No job records found. Exiting pollRunPodJobs().');
     return;
   }
 
@@ -203,40 +248,52 @@ function pollRunPodJobs() {
 
     // If job is already COMPLETED or FAILED, skip
     if (status === 'COMPLETED' || status === 'FAILED') {
+      Logger.log('Job ' + jobId + ' already ' + status + '. Skipping...');
       continue;
     }
 
     // Check if enough time has passed to poll again
     if (!(lastUpdateTime instanceof Date)) {
       // If there's no valid timestamp, skip or fix
+      Logger.log('Warning: Last update time for job ' + jobId + ' is invalid. Skipping poll for this job.');
       continue;
     }
+
     let diffMs = now - lastUpdateTime; // in ms
     let diffMins = diffMs / 1000 / 60;
+    Logger.log('Job ' + jobId + ' last polled ' + diffMins.toFixed(2) + ' minute(s) ago; next poll is in ' + nextPollMins + ' minute(s).');
 
     if (diffMins < nextPollMins) {
       // Not time to poll yet
       anyStillRunning = true;
-      // track earliest next poll
-      if (earliestNextPoll == null || nextPollMins - diffMins < earliestNextPoll) {
-        earliestNextPoll = nextPollMins - diffMins;
+      let timeUntilNextPoll = nextPollMins - diffMins;
+      Logger.log('Not enough time elapsed for job ' + jobId + '. Will poll again in ~' + timeUntilNextPoll.toFixed(2) + ' minute(s).');
+      if (earliestNextPoll == null || timeUntilNextPoll < earliestNextPoll) {
+        earliestNextPoll = timeUntilNextPoll;
       }
       continue;
     }
 
     // Time to poll RunPod job
+    Logger.log('Polling RunPod for job ' + jobId + '...');
     const pollResult = checkRunPodJobStatus(jobId);
+
     // Update timestamp to "now"
     jobsSheet.getRange(rowIndex, 1).setValue(new Date());
 
     if (!pollResult) {
+      Logger.log('checkRunPodJobStatus() returned null for job ' + jobId + '. Possibly a transient error.');
       // Means an error calling the status endpoint
       // We'll treat it as a transient error: increment pollAttempts, double nextPoll?
       pollAttempts++;
       let newNextPoll = getNewNextPollInterval(pollAttempts, nextPollMins);
-      jobsSheet.getRange(rowIndex, 4).setValue(pollAttempts);        // col=3 is PollAttempts, so +1=4
-      jobsSheet.getRange(rowIndex, 5).setValue(newNextPoll);         // col=4 is NextPollMins, so +1=5
-      jobsSheet.getRange(rowIndex, 3).setValue('RUNNING');           // col=2 is Status, so +1=3
+
+      jobsSheet.getRange(rowIndex, 4).setValue(pollAttempts);        // col=3 is PollAttempts
+      jobsSheet.getRange(rowIndex, 5).setValue(newNextPoll);         // col=4 is NextPollMins
+      jobsSheet.getRange(rowIndex, 3).setValue('RUNNING');           // col=2 is Status
+
+      Logger.log('Job ' + jobId + ' marked as RUNNING with pollAttempts=' + pollAttempts + ' and nextPollMins=' + newNextPoll + '.');
+
       anyStillRunning = true;
       if (earliestNextPoll == null || newNextPoll < earliestNextPoll) {
         earliestNextPoll = newNextPoll;
@@ -248,17 +305,23 @@ function pollRunPodJobs() {
     if (pollResult.status === 'RUNNING') {
       pollAttempts++;
       let newNextPoll = getNewNextPollInterval(pollAttempts, nextPollMins);
+
       jobsSheet.getRange(rowIndex, 3).setValue('RUNNING');        // Status
       jobsSheet.getRange(rowIndex, 4).setValue(pollAttempts);     // PollAttempts
       jobsSheet.getRange(rowIndex, 5).setValue(newNextPoll);      // NextPollMins
+
+      Logger.log('Job ' + jobId + ' still running. Updated pollAttempts=' + pollAttempts + ', nextPollMins=' + newNextPoll + '.');
+
       anyStillRunning = true;
       if (earliestNextPoll == null || newNextPoll < earliestNextPoll) {
         earliestNextPoll = newNextPoll;
       }
     } else if (pollResult.status === 'COMPLETED') {
+      Logger.log('Job ' + jobId + ' completed successfully.');
       jobsSheet.getRange(rowIndex, 3).setValue('COMPLETED');      // Status
       finalizeJobResults(pollResult.data, submissionsStr);
     } else if (pollResult.status === 'FAILED') {
+      Logger.log('Job ' + jobId + ' reported FAILED status.');
       jobsSheet.getRange(rowIndex, 3).setValue('FAILED');         // Status
       markSubmissionsAsFailed(submissionsStr);
     }
@@ -266,14 +329,15 @@ function pollRunPodJobs() {
 
   // 3. If any jobs are still pending, schedule a new run
   if (anyStillRunning && earliestNextPoll != null) {
-    // Round up or pick the integer number of minutes
     let waitMins = Math.ceil(earliestNextPoll);
     if (waitMins < 1) waitMins = 1; // ensure at least 1 minute
-    Logger.log('Scheduling next pollRunPodJobs() in ' + waitMins + ' minutes...');
+    Logger.log('Scheduling next pollRunPodJobs() in ' + waitMins + ' minute(s).');
     createOneTimeTrigger('pollRunPodJobs', waitMins);
   } else {
     Logger.log('No further polling needed at this time.');
   }
+
+  Logger.log('Completed pollRunPodJobs().');
 }
 
 // -----------------------------------------------------------------------------
@@ -285,6 +349,7 @@ function pollRunPodJobs() {
  * This returns the created trigger, but normally we don't need it for anything else.
  */
 function createOneTimeTrigger(functionName, minutesFromNow) {
+  Logger.log('Creating one-time trigger for ' + functionName + ' to run in ' + minutesFromNow + ' minute(s).');
   return ScriptApp.newTrigger(functionName)
     .timeBased()
     .after(minutesFromNow * 60 * 1000)
@@ -295,10 +360,12 @@ function createOneTimeTrigger(functionName, minutesFromNow) {
  * Removes all triggers for a specific function name
  */
 function removeTriggersForFunction(functionName) {
+  Logger.log('Removing triggers for function: ' + functionName);
   const allTriggers = ScriptApp.getProjectTriggers();
   for (let i = 0; i < allTriggers.length; i++) {
     if (allTriggers[i].getHandlerFunction() === functionName) {
       ScriptApp.deleteTrigger(allTriggers[i]);
+      Logger.log('Deleted existing trigger for function: ' + functionName);
     }
   }
 }
@@ -308,8 +375,10 @@ function removeTriggersForFunction(functionName) {
  * Return object: { status: 'RUNNING'|'COMPLETED'|'FAILED', data: array or null }
  */
 function checkRunPodJobStatus(jobId) {
+  Logger.log('Calling RunPod status API for jobId: ' + jobId);
   try {
-    let url = RUNPOD_ENDPOINT_URL + '/' + jobId; // adapt if your endpoint differs
+    let url = RUNPOD_ENDPOINT_URL.replace("/run", "/status/") + jobId; // adapt if your endpoint differs
+    Logger.log('Checking status at ' + url + " ...");
     let response = UrlFetchApp.fetch(url, {
       method: 'get',
       headers: { 'Authorization': 'Bearer ' + RUNPOD_API_KEY },
@@ -317,14 +386,15 @@ function checkRunPodJobStatus(jobId) {
     });
 
     if (response.getResponseCode() !== 200) {
-      Logger.log('Error checking job status: ' + response.getContentText());
+      Logger.log('Error checking job status (code ' + response.getResponseCode() + '): ' + response.getContentText());
       return null;
     }
 
     let data = JSON.parse(response.getContentText());
-    // Example structure: { "status": "COMPLETED", "output": [...] }
-    // Adjust as needed
     let jobStatus = data.status || 'RUNNING';
+
+    Logger.log('Response from RunPod status API for job ' + jobId + ': ' + JSON.stringify(data));
+
     if (jobStatus === 'COMPLETED' && data.output) {
       return { status: 'COMPLETED', data: data.output };
     } else if (jobStatus === 'FAILED') {
@@ -333,7 +403,7 @@ function checkRunPodJobStatus(jobId) {
       return { status: 'RUNNING', data: null };
     }
   } catch (err) {
-    Logger.log('Exception in checkRunPodJobStatus: ' + err);
+    Logger.log('Exception in checkRunPodJobStatus for job ' + jobId + ': ' + err);
     return null;
   }
 }
@@ -347,13 +417,9 @@ function checkRunPodJobStatus(jobId) {
  *  - If pollAttempts == 3 => 4 min
  *  - If pollAttempts == 4 => 8 min
  *  - Then clamp at 10 min
- *
- * `prevInterval` is the old NextPollMins, to see if we continue doubling, or
- * we can simply compute from pollAttempts alone. Here's an example approach:
  */
 function getNewNextPollInterval(pollAttempts, prevInterval) {
-  // If pollAttempts=1 => new is 1 min, if pollAttempts=2 => new is 2 min, etc.
-  // Or do double logic from previous nextPollMins
+  Logger.log('Calculating new next poll interval with pollAttempts=' + pollAttempts + ', prevInterval=' + prevInterval);
   let newInterval;
   if (pollAttempts === 1) {
     // after 1st poll, do 1 min
@@ -364,6 +430,7 @@ function getNewNextPollInterval(pollAttempts, prevInterval) {
   if (newInterval > 10) {
     newInterval = 10;
   }
+  Logger.log('New next poll interval: ' + newInterval + ' minute(s).');
   return newInterval;
 }
 
@@ -373,16 +440,19 @@ function getNewNextPollInterval(pollAttempts, prevInterval) {
  * submissionsStr is the JSON of { submissionId, imageIds }
  */
 function finalizeJobResults(jobData, submissionsStr) {
-  const inboxSS = SpreadsheetApp.openById(INBOX_SPREADSHEET_ID);
-  const rawDataSheet = inboxSS.getSheetByName(RAW_DATA_SHEET_NAME);
-
+  Logger.log('finalizeJobResults() called.');
+  
   // Open the processed spreadsheet
   const processedSS = SpreadsheetApp.openById(PROCESSED_SPREADSHEET_ID);
   const processedSheet = processedSS.getSheetByName(PROCESSED_SHEET_NAME);
+  
+  const inboxSS = SpreadsheetApp.openById(INBOX_SPREADSHEET_ID);
+  const rawDataSheet = inboxSS.getSheetByName(RAW_DATA_SHEET_NAME);
 
   let submissions;
   try {
     submissions = JSON.parse(submissionsStr);
+    Logger.log('Parsed submissions from job: ' + JSON.stringify(submissions));
   } catch (e) {
     Logger.log('Error parsing job submission list: ' + e);
     return;
@@ -394,10 +464,11 @@ function finalizeJobResults(jobData, submissionsStr) {
     const subId = item.submissionId;
     const rawAnswer = item.answer;
     const extracted = extractJsonFromText(rawAnswer);
+
     if (extracted) {
       resultMap[subId] = extracted;
+      Logger.log('Successfully extracted JSON for submission ' + subId);
     } else {
-      // If we can't parse the answer as JSON, store a placeholder
       Logger.log('Could not parse JSON for submission: ' + subId);
       resultMap[subId] = { status: 'failed', reason: 'No valid JSON extracted' };
     }
@@ -418,18 +489,20 @@ function finalizeJobResults(jobData, submissionsStr) {
     let subId = sub.submissionId;
     let rowIndex = uuidToRowIndex[subId];
     let result = resultMap[subId];
+
     if (!result) {
-      // No result => mark failed
+      Logger.log('No result found for submission ' + subId + '; marking as failed.');
       markRowFailed(rawDataSheet, rowIndex);
       return;
     }
 
     if (result.status === 'failed') {
-      // The AI answer was invalid JSON
+      Logger.log('Result for submission ' + subId + ' indicates failure. Marking row as failed.');
       markRowFailed(rawDataSheet, rowIndex);
       return;
     }
 
+    Logger.log('Marking submission ' + subId + ' as processed in RawData sheet.');
     // Mark rawData as processed
     rawDataSheet.getRange(rowIndex, processedCol + 1).setValue('true');
 
@@ -438,31 +511,39 @@ function finalizeJobResults(jobData, submissionsStr) {
     // 0=UUID, 1=Date, 2=Time, 3=Title, 4=Description, 5=City,
     // 6=State, 7=Address, 8=Meeting Location, 9=Links, 10=Sponsors,
     // 11=Image, 12=Source, 13=Extracted Text
+    Logger.log('Storing result: ' + result)
     let rowVals = [];
     rowVals[0]  = subId;
-    rowVals[1]  = result.Date || '';
-    rowVals[2]  = result.Time || '';
-    rowVals[3]  = result.Title || '';
-    rowVals[4]  = result.Description || '';
-    rowVals[5]  = result.City || '';
-    rowVals[6]  = result.State || '';
-    rowVals[7]  = result.Address || '';
-    rowVals[8]  = result.MeetingLocation || '';
-    rowVals[9]  = result.Links || '';
-    rowVals[10] = result.Sponsors || '';
-    rowVals[11] = result.Image || '';
-    rowVals[12] = result.Source || '';
-    rowVals[13] = result.ExtractedText || '';
+    rowVals[1]  = result.date || '';
+    rowVals[2]  = result.time || '';
+    rowVals[3]  = result.title || '';
+    rowVals[4]  = result.description || '';
+    rowVals[5]  = result.city || '';
+    rowVals[6]  = result.state || '';
+    rowVals[7]  = result.address || '';
+    rowVals[8]  = result.meeting_location || '';
+    rowVals[9]  = result.links || '';
+    rowVals[10] = result.sponsors || '';
+    rowVals[11] = result.image || '';
+    rowVals[12] = result.source || '';
+    rowVals[13] = result.extracted_text || '';
 
     processedSheet.appendRow(rowVals);
+    Logger.log('Appended processed data for submission ' + subId + ' into Processed sheet.');
   });
+
+  Logger.log('finalizeJobResults() completed.');
 }
 
 /**
  * Mark a single row in RawData as failed.
  */
 function markRowFailed(sheet, rowIndex) {
-  if (!rowIndex || rowIndex < 2) return; // skip header or invalid
+  if (!rowIndex || rowIndex < 2) {
+    Logger.log('Invalid or header rowIndex (' + rowIndex + ') for markRowFailed(). Skipping...');
+    return;
+  }
+  Logger.log('Marking row ' + rowIndex + ' as failed in RawData sheet.');
   sheet.getRange(rowIndex, 8).setValue('failed');
 }
 
@@ -470,8 +551,11 @@ function markRowFailed(sheet, rowIndex) {
  * Mark entire job's submissions as failed
  */
 function markSubmissionsAsFailed(submissionsStr) {
+  Logger.log('markSubmissionsAsFailed() called.');
+  
   const inboxSS = SpreadsheetApp.openById(INBOX_SPREADSHEET_ID);
   const rawDataSheet = inboxSS.getSheetByName(RAW_DATA_SHEET_NAME);
+
   let submissions;
   try {
     submissions = JSON.parse(submissionsStr);
@@ -479,6 +563,8 @@ function markSubmissionsAsFailed(submissionsStr) {
     Logger.log('Could not parse submissionsStr in markSubmissionsAsFailed: ' + e);
     return;
   }
+
+  Logger.log('Marking ' + submissions.length + ' submission(s) as failed.');
 
   // Map from UUID => row
   const rawValues = rawDataSheet.getDataRange().getValues();
@@ -494,6 +580,8 @@ function markSubmissionsAsFailed(submissionsStr) {
     let rowIndex = uuidToRowIndex[sub.submissionId];
     markRowFailed(rawDataSheet, rowIndex);
   });
+
+  Logger.log('Completed markSubmissionsAsFailed().');
 }
 
 /**
@@ -503,7 +591,10 @@ function extractJsonFromText(text) {
   if (!text) return null;
   let start = text.indexOf('{');
   let end = text.lastIndexOf('}');
-  if (start === -1 || end === -1 || end <= start) return null;
+  if (start === -1 || end === -1 || end <= start) {
+    Logger.log('Could not locate JSON in text. Returning null.');
+    return null;
+  }
 
   let jsonStr = text.substring(start, end + 1);
   try {
@@ -519,8 +610,10 @@ function extractJsonFromText(text) {
  * Columns: [Timestamp, JobID, Status, PollAttempts, NextPollMins, Submissions]
  */
 function getOrCreateJobsSheet(ss) {
+  Logger.log('Retrieving or creating Jobs sheet...');
   let sheet = ss.getSheetByName(JOBS_SHEET_NAME);
   if (!sheet) {
+    Logger.log('Jobs sheet not found. Creating new sheet named ' + JOBS_SHEET_NAME);
     sheet = ss.insertSheet(JOBS_SHEET_NAME);
     sheet.appendRow(['Timestamp', 'JobID', 'Status', 'PollAttempts', 'NextPollMins', 'Submissions']);
   }
