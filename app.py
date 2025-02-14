@@ -15,7 +15,7 @@ from transformers import AutoModel, AutoTokenizer
 logger = RunPodLogger()
 
 # Model and resource configuration
-MODEL_NAME = "openbmb/MiniCPM-o-2_6-int4"
+MODEL_NAME = "openbmb/MiniCPM-o-2_6"
 EXAMPLES_PATH = "./examples"
 SYSTEM_PROMPT_PATH = "./prompt.txt"
 MAX_DIM = 1280
