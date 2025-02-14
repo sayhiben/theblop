@@ -47,6 +47,12 @@ RUN python3 -m pip install --upgrade -r requirements.txt --no-cache-dir
 # This thing thinks it's special and needs to be here
 RUN FLASH_ATTENTION_SKIP_CUDA_BUILD=TRUE python3 -m pip install -U flash-attn --no-build-isolation
 
+# Install autogtpq
+RUN git clone https://github.com/OpenBMB/AutoGPTQ.git \
+    && cd AutoGPTQ \
+    && git checkout minicpmo \
+    && python3 -m pip install -vvv --no-build-isolation -e .
+
 # Copy application code
 COPY app.py .
 COPY examples ./examples

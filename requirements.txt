@@ -15,4 +15,3 @@ vector-quantize-pytorch==1.18.5
 vocos==0.1.0
 google-api-python-client
 google-auth-httplib2
-auto-gptq
