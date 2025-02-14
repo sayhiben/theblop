@@ -10,12 +10,13 @@ from googleapiclient.http import MediaIoBaseDownload
 from PIL import Image
 from runpod import RunPodLogger
 from transformers import AutoModel, AutoTokenizer
+from auto_gptq import AutoGPTQForCausalLM
 
 # Set up logging
 logger = RunPodLogger()
 
 # Model and resource configuration
-MODEL_NAME = "openbmb/MiniCPM-o-2_6"
+MODEL_NAME = "openbmb/MiniCPM-o-2_6-int4"
 EXAMPLES_PATH = "./examples"
 SYSTEM_PROMPT_PATH = "./prompt.txt"
 MAX_DIM = 1280
@@ -62,16 +63,21 @@ def initialize_model():
     and move it to the GPU.
     """
     torch.cuda.empty_cache()
-    model = AutoModel.from_pretrained(
+    # model = AutoModel.from_pretrained(
+    model = AutoGPTQForCausalLM.from_quantized(
         MODEL_NAME,
         trust_remote_code=True,
         attn_implementation="sdpa",
         torch_dtype=torch.bfloat16,
         init_vision=True,
         init_audio=False,
-        init_tts=False
+        init_tts=False,
+        device="cuda:0", # only for autogptq
+        disable_exllama=True, # only for autogptq
+        disable_exllamav2=True # only for autogptq
     )
-    model = model.eval().cuda()
+    model.init_vision() # only for autogptq
+    # model = model.eval().cuda()
     return model
 
 
