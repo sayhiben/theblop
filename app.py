@@ -10,7 +10,6 @@ from googleapiclient.http import MediaIoBaseDownload
 from PIL import Image
 from runpod import RunPodLogger
 from transformers import AutoModel, AutoTokenizer
-from auto_gptq import AutoGPTQForCausalLM
 
 # Set up logging
 logger = RunPodLogger()
@@ -63,8 +62,7 @@ def initialize_model():
     and move it to the GPU.
     """
     torch.cuda.empty_cache()
-    # model = AutoModel.from_pretrained(
-    model = AutoGPTQForCausalLM.from_quantized(
+    model = AutoModel.from_pretrained(
         MODEL_NAME,
         trust_remote_code=True,
         attn_implementation="sdpa",
@@ -72,12 +70,8 @@ def initialize_model():
         init_vision=True,
         init_audio=False,
         init_tts=False,
-        device="cuda:0", # only for autogptq
-        disable_exllama=True, # only for autogptq
-        disable_exllamav2=True # only for autogptq
     )
-    model.init_vision() # only for autogptq
-    # model = model.eval().cuda()
+    model = model.eval().cuda()
     return model
 
 
