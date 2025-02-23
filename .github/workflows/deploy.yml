@@ -4,6 +4,14 @@ on:
   push:
     branches:
       - main
+    paths:
+      - 'app.py'
+      - 'examples/*'
+      - 'requirements.txt'
+      - 'requirements-cuda.txt'
+      - 'prompt.txt'
+      - 'Dockerfile'
+      - '.github/workflows/deploy.yml'
 
 jobs:
   deploy:
