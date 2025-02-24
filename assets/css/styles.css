@@ -1,0 +1,90 @@
+body {
+  margin: 16px;
+  font-family: sans-serif;
+  line-height: 1.5;
+  background-color: #fafafa;
+}
+
+h1 {
+  margin-bottom: 0.5em;
+}
+
+label {
+  display: inline-block;
+  margin-right: 8px;
+}
+
+select {
+  margin-bottom: 16px;
+}
+
+/* Event list on the index page */
+#eventList {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+.event-item {
+  border: 1px solid #ccc;
+  padding: 8px;
+  background-color: #fff;
+}
+
+.event-date {
+  font-weight: bold;
+}
+
+.event-title a {
+  font-size: 1.2em;
+  text-decoration: none;
+  color: #007acc;
+}
+.event-title a:hover {
+  text-decoration: underline;
+}
+
+.event-location {
+  color: #666;
+  margin-top: 4px;
+}
+
+/* Flyout image on event pages */
+.flyer-img {
+  max-width: 300px;
+  border: 1px solid #ccc;
+  cursor: zoom-in;
+}
+
+/* Copy buttons container */
+.copy-buttons {
+  margin-top: 16px;
+}
+.copy-buttons button {
+  margin-right: 8px;
+  padding: 8px 12px;
+  cursor: pointer;
+  background-color: #007acc;
+  color: #fff;
+  border: none;
+  border-radius: 4px;
+}
+.copy-buttons button:hover {
+  background-color: #005ea2;
+}
+
+/* Make sure images scale down on small screens */
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+/* Basic responsiveness */
+@media (max-width: 600px) {
+  .event-item {
+    font-size: 0.95em;
+  }
+  .flyer-img {
+    max-width: 90vw;
+  }
+}

@@ -1,0 +1,52 @@
+name: Build and Deploy Site
+
+on:
+  # schedule:
+    # - cron: "0 * * * *"    # Runs every hour
+  workflow_dispatch:       # Allows manual triggering in GitHub
+  push:
+    branches:
+      - main
+    paths:
+      - 'build.js'
+      - '.github/workflows/build-pages.yml'
+      - 'package.json'
+      - 'assets/*'
+      - 'dist/*'
+      - 'package-lock.json'
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  build-deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repo
+        uses: actions/checkout@v4
+
+      - name: Set up Node
+        uses: actions/setup-node@v4
+        with:
+          cache: 'npm'
+
+      - name: Install dependencies
+        run: |
+          npm install
+
+      - name: Build site
+        run: npm run build
+        env:
+          SHEET_CSV_URL: ${{ secrets.SHEET_CSV_URL }}
+
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git diff-index --quiet HEAD || git commit -m "Automated site update"
+      
+      - name: Push changes if any
+        run: |
+          git push

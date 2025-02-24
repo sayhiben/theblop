@@ -553,7 +553,7 @@ function finalizeJobResults(jobData, submissionsStr) {
     // The processed sheet columns are:
     // 0=UUID, 1=Date, 2=Time, 3=Title, 4=Description, 5=City,
     // 6=State, 7=Address, 8=Meeting Location, 9=Links, 10=Sponsors,
-    // 11=Image, 12=Source, 13=Extracted Text
+    // 11=Image, 12=Image URL, 13=Source, 14=Extracted Text
 
     // Re-initialize for each submission (avoid data bleed)
     let rowVals = Array(14).fill('');
@@ -587,11 +587,12 @@ function finalizeJobResults(jobData, submissionsStr) {
       let firstUrl = rawImageUrlCsv.split(',').map(s => s.trim())[0];
       if (firstUrl) {
         rowVals[11] = `=HYPERLINK("${firstUrl}", image("${firstUrl}"))`;
+        rowVals[12] = firstUrl;
       }
     }
 
-    rowVals[12] = extracted.source || '';
-    rowVals[13] = extracted.extracted_text || '';
+    rowVals[13] = extracted.source || '';
+    rowVals[14] = extracted.extracted_text || '';
 
     // Append the row (the image cell is temporarily placeholder)
     processedSheet.appendRow(rowVals);
