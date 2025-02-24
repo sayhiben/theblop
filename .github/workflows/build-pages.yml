@@ -8,12 +8,15 @@ on:
     branches:
       - main
     paths:
+      - 'src/**'
+      - '.babelrc'
       - 'build.js'
       - '.github/workflows/build-pages.yml'
       - 'package.json'
       - 'assets/*'
       - 'dist/*'
       - 'package-lock.json'
+      - 'webpack.config.js'
 
 permissions:
   contents: write
