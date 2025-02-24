@@ -1,33 +1,19 @@
-<!DOCTYPE html><html lang="en" class="scroll-smooth"><head><meta charSet="utf-8"/><meta name="viewport" content="width=device-width, initial-scale=1.0"/><link rel="preload" as="image" href="../assets/images/f08a4c17-ea31-4917-a977-aa6654d66efb-thumb.jpg"/><title>50501: The People&#x27;s Movement</title><link href="../dist/styles.css" rel="stylesheet"/></head><body class="p-4 lg:p-8 bg-white text-gray-900 dark:bg-gray-900 dark:text-gray-100 font-sans"><nav class="mb-6"><a href="../index.html" class="inline-block text-blue-600 hover:text-blue-800 dark:text-blue-400 dark:hover:text-blue-300 underline">← Back to Events</a></nav><main class="max-w-3xl mx-auto"><h1 class="text-3xl font-bold mb-4">50501: The People&#x27;s Movement</h1><p class="mb-2"><strong>Date &amp; Time:</strong> 2025-03-04 3 PM - 6 PM</p><p class="mb-2"><strong>Location:</strong> Port Townsend, WA</p><p class="mb-2"><strong>Address:</strong> 1820 Jefferson Street, Port Townsend, Washington</p><p class="mb-2"><strong>Meeting Location:</strong> Jefferson County Courthouse</p><p class="mb-2"><strong>Description:</strong> Unite against oppression &amp; dictatorship!</p><p class="mb-2"><strong>Links:</strong> https://fiftyfiftyone.org</p><p class="mb-2"><strong>Sponsors:</strong> 50 States, 50 Protests, 1 Movement</p><div class="my-6"><a href="../assets/images/f08a4c17-ea31-4917-a977-aa6654d66efb-thumb.jpg" data-title="50501: The People&#x27;s Movement"><img src="../assets/images/f08a4c17-ea31-4917-a977-aa6654d66efb-thumb.jpg" alt="Event Flyer" class="w-full h-auto object-cover rounded shadow-md dark:shadow-none"/></a></div><div class="mt-4 flex flex-wrap gap-2"><button id="copyPlain" class="inline-block px-3 py-1 text-sm border border-gray-300 rounded hover:bg-gray-100 dark:hover:bg-gray-800 transition-colors cursor-pointer">Copy Plain Text</button><button id="copyRich" class="inline-block px-3 py-1 text-sm border border-gray-300 rounded hover:bg-gray-100 dark:hover:bg-gray-800 transition-colors cursor-pointer">Copy Rich Text</button><button id="copyMarkdown" class="inline-block px-3 py-1 text-sm border border-gray-300 rounded hover:bg-gray-100 dark:hover:bg-gray-800 transition-colors cursor-pointer">Copy Markdown</button></div></main><script>
-              const copyPlainBtn = document.getElementById('copyPlain');
-              const copyRichBtn = document.getElementById('copyRich');
-              const copyMdBtn = document.getElementById('copyMarkdown');
-
-              const plainText = `50501: The People's Movement\n2025-03-04 3 PM - 6 PM\nPort Townsend, WA\n1820 Jefferson Street, Port Townsend, Washington\nhttps://fiftyfiftyone.org\n50 States, 50 Protests, 1 Movement\n`;
-              const htmlData = `<strong>50501: The People's Movement</strong><br>2025-03-04 3 PM - 6 PM<br>Port Townsend, WA<br>1820 Jefferson Street, Port Townsend, Washington<br>https://fiftyfiftyone.org<br>50 States, 50 Protests, 1 Movement<br>`;
-              const markdownData = `**50501: The People's Movement**\n2025-03-04 3 PM - 6 PM\nPort Townsend, WA\n1820 Jefferson Street, Port Townsend, Washington\nhttps://fiftyfiftyone.org\n50 States, 50 Protests, 1 Movement\n`;
-
-              copyPlainBtn.addEventListener('click', () => {
-                navigator.clipboard.writeText(plainText)
-                  .then(() => alert('Copied plain text!'))
-                  .catch(err => console.error('Failed to copy plain text', err));
-              });
-
-              copyRichBtn.addEventListener('click', () => {
-                const blobPlain = new Blob([plainText], { type: 'text/plain' });
-                const blobHtml = new Blob([htmlData], { type: 'text/html' });
-                const clipboardItem = new ClipboardItem({
-                  'text/plain': blobPlain,
-                  'text/html': blobHtml
-                });
-                navigator.clipboard.write([clipboardItem])
-                  .then(() => alert('Copied as rich text!'))
-                  .catch(err => console.error('Failed to copy rich text', err));
-              });
-
-              copyMdBtn.addEventListener('click', () => {
-                navigator.clipboard.writeText(markdownData)
-                  .then(() => alert('Copied markdown!'))
-                  .catch(err => console.error('Failed to copy markdown', err));
-              });
-            </script></body></html>
+<!DOCTYPE html><html lang="en" class="scroll-smooth"><head><meta charSet="utf-8"/><meta name="viewport" content="width=device-width, initial-scale=1.0"/><link rel="preload" as="image" href="../assets/images/f08a4c17-ea31-4917-a977-aa6654d66efb-thumb.jpg"/><title>50501: The People&#x27;s Movement</title><link href="../dist/styles.css" rel="stylesheet"/></head><body class="p-4 lg:p-8 bg-white text-gray-900 dark:bg-gray-900 dark:text-gray-100 font-sans"><nav class="mb-6"><a href="../index.html" class="inline-block text-blue-600 hover:text-blue-800 dark:text-blue-400 dark:hover:text-blue-300 underline">← Back to Events</a></nav><main class="max-w-3xl mx-auto"><h1 class="text-3xl font-bold mb-4">50501: The People&#x27;s Movement</h1><p class="mb-2"><strong>Date &amp; Time:</strong> 2025-03-04 3 PM - 6 PM</p><p class="mb-2"><strong>Location:</strong> Port Townsend, WA</p><p class="mb-2"><strong>Address:</strong> 1820 Jefferson Street, Port Townsend, Washington</p><p class="mb-2"><strong>Meeting Location:</strong> Jefferson County Courthouse</p><p class="mb-2"><strong>Description:</strong> Unite against oppression &amp; dictatorship!</p><p class="mb-2"><strong>Links:</strong> https://fiftyfiftyone.org</p><p class="mb-2"><strong>Sponsors:</strong> 50 States, 50 Protests, 1 Movement</p><div class="my-6"><a href="../assets/images/f08a4c17-ea31-4917-a977-aa6654d66efb-thumb.jpg" data-title="50501: The People&#x27;s Movement"><img src="../assets/images/f08a4c17-ea31-4917-a977-aa6654d66efb-thumb.jpg" alt="Event Flyer" class="w-full h-auto object-cover rounded shadow-md dark:shadow-none"/></a></div><div class="mt-4 flex flex-wrap gap-2"><button class="copy-btn inline-block px-3 py-1 text-sm border border-gray-300 rounded hover:bg-gray-100 dark:hover:bg-gray-800 transition-colors cursor-pointer copy-plain" data-plain="50501: The People&#x27;s Movement
+2025-03-04 3 PM - 6 PM
+Port Townsend, WA
+1820 Jefferson Street, Port Townsend, Washington
+https://fiftyfiftyone.org
+50 States, 50 Protests, 1 Movement
+">Copy Plain Text</button><button class="copy-btn inline-block px-3 py-1 text-sm border border-gray-300 rounded hover:bg-gray-100 dark:hover:bg-gray-800 transition-colors cursor-pointer copy-rich" data-plain="50501: The People&#x27;s Movement
+2025-03-04 3 PM - 6 PM
+Port Townsend, WA
+1820 Jefferson Street, Port Townsend, Washington
+https://fiftyfiftyone.org
+50 States, 50 Protests, 1 Movement
+" data-html="&lt;strong&gt;50501: The People&#x27;s Movement&lt;/strong&gt;&lt;br&gt;2025-03-04 3 PM - 6 PM&lt;br&gt;Port Townsend, WA&lt;br&gt;1820 Jefferson Street, Port Townsend, Washington&lt;br&gt;https://fiftyfiftyone.org&lt;br&gt;50 States, 50 Protests, 1 Movement&lt;br&gt;">Copy Rich Text</button><button class="copy-btn inline-block px-3 py-1 text-sm border border-gray-300 rounded hover:bg-gray-100 dark:hover:bg-gray-800 transition-colors cursor-pointer copy-md" data-md="**50501: The People&#x27;s Movement**
+2025-03-04 3 PM - 6 PM
+Port Townsend, WA
+1820 Jefferson Street, Port Townsend, Washington
+https://fiftyfiftyone.org
+50 States, 50 Protests, 1 Movement
+">Copy Markdown</button></div></main><script src="../scripts/clipboard.js"></script></body></html>

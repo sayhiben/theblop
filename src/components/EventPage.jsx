@@ -1,14 +1,5 @@
-/* src/components/EventPage.jsx */
 import React from 'react';
 import path from 'path';
-
-function escapeForJS(str = '') {
-  return str
-    .replace(/\\/g, '\\\\')
-    .replace(/`/g, '\\`')
-    .replace(/\$/g, '\\$')
-    .replace(/\n/g, '\\n');
-}
 
 export function EventPage({ eventData }) {
   const {
@@ -29,6 +20,7 @@ export function EventPage({ eventData }) {
   const eventTitle = Title || 'Untitled Event';
   const displayLocation = `${City || ''}, ${State || ''}`.replace(/,\s*$/, '');
 
+  // Prepare copy strings
   const plainText = `${eventTitle}\n${dateStr || ''} ${Time || ''}\n${displayLocation}\n${Address || ''}\n${Links || ''}\n${Sponsors || ''}\n`;
   const htmlData = `<strong>${eventTitle}</strong><br>${dateStr || ''} ${Time || ''}<br>${displayLocation}<br>${Address || ''}<br>${Links || ''}<br>${Sponsors || ''}<br>`;
   const markdownData = `**${eventTitle}**\n${dateStr || ''} ${Time || ''}\n${displayLocation}\n${Address || ''}\n${Links || ''}\n${Sponsors || ''}\n`;
@@ -68,10 +60,7 @@ export function EventPage({ eventData }) {
 
           {filename && (
             <div className="my-6">
-              <a
-                href={`../assets/images/${filename}`}
-                data-title={escapeForJS(eventTitle)}
-              >
+              <a href={`../assets/images/${filename}`} data-title={eventTitle}>
                 <img
                   src={`../assets/images/${filename}`}
                   alt="Event Flyer"
@@ -82,55 +71,30 @@ export function EventPage({ eventData }) {
           )}
 
           <div className="mt-4 flex flex-wrap gap-2">
-            <button id="copyPlain" className="inline-block px-3 py-1 text-sm border border-gray-300 rounded hover:bg-gray-100 dark:hover:bg-gray-800 transition-colors cursor-pointer">
+            <button
+              className="copy-btn inline-block px-3 py-1 text-sm border border-gray-300 rounded hover:bg-gray-100 dark:hover:bg-gray-800 transition-colors cursor-pointer copy-plain"
+              data-plain={plainText}
+            >
               Copy Plain Text
             </button>
-            <button id="copyRich" className="inline-block px-3 py-1 text-sm border border-gray-300 rounded hover:bg-gray-100 dark:hover:bg-gray-800 transition-colors cursor-pointer">
+            <button
+              className="copy-btn inline-block px-3 py-1 text-sm border border-gray-300 rounded hover:bg-gray-100 dark:hover:bg-gray-800 transition-colors cursor-pointer copy-rich"
+              data-plain={plainText}
+              data-html={htmlData}
+            >
               Copy Rich Text
             </button>
-            <button id="copyMarkdown" className="inline-block px-3 py-1 text-sm border border-gray-300 rounded hover:bg-gray-100 dark:hover:bg-gray-800 transition-colors cursor-pointer">
+            <button
+              className="copy-btn inline-block px-3 py-1 text-sm border border-gray-300 rounded hover:bg-gray-100 dark:hover:bg-gray-800 transition-colors cursor-pointer copy-md"
+              data-md={markdownData}
+            >
               Copy Markdown
             </button>
           </div>
         </main>
 
-        <script
-          dangerouslySetInnerHTML={{
-            __html: `
-              const copyPlainBtn = document.getElementById('copyPlain');
-              const copyRichBtn = document.getElementById('copyRich');
-              const copyMdBtn = document.getElementById('copyMarkdown');
-
-              const plainText = \`${escapeForJS(plainText)}\`;
-              const htmlData = \`${escapeForJS(htmlData)}\`;
-              const markdownData = \`${escapeForJS(markdownData)}\`;
-
-              copyPlainBtn.addEventListener('click', () => {
-                navigator.clipboard.writeText(plainText)
-                  .then(() => alert('Copied plain text!'))
-                  .catch(err => console.error('Failed to copy plain text', err));
-              });
-
-              copyRichBtn.addEventListener('click', () => {
-                const blobPlain = new Blob([plainText], { type: 'text/plain' });
-                const blobHtml = new Blob([htmlData], { type: 'text/html' });
-                const clipboardItem = new ClipboardItem({
-                  'text/plain': blobPlain,
-                  'text/html': blobHtml
-                });
-                navigator.clipboard.write([clipboardItem])
-                  .then(() => alert('Copied as rich text!'))
-                  .catch(err => console.error('Failed to copy rich text', err));
-              });
-
-              copyMdBtn.addEventListener('click', () => {
-                navigator.clipboard.writeText(markdownData)
-                  .then(() => alert('Copied markdown!'))
-                  .catch(err => console.error('Failed to copy markdown', err));
-              });
-            `
-          }}
-        />
+        {/* External clipboard script */}
+        <script src="../scripts/clipboard.js"></script>
       </body>
     </html>
   );

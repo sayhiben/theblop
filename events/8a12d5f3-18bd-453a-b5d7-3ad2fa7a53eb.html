@@ -1,33 +1,19 @@
-<!DOCTYPE html><html lang="en" class="scroll-smooth"><head><meta charSet="utf-8"/><meta name="viewport" content="width=device-width, initial-scale=1.0"/><link rel="preload" as="image" href="../assets/images/8a12d5f3-18bd-453a-b5d7-3ad2fa7a53eb-thumb.jpg"/><title>Veterans March Against Fascism</title><link href="../dist/styles.css" rel="stylesheet"/></head><body class="p-4 lg:p-8 bg-white text-gray-900 dark:bg-gray-900 dark:text-gray-100 font-sans"><nav class="mb-6"><a href="../index.html" class="inline-block text-blue-600 hover:text-blue-800 dark:text-blue-400 dark:hover:text-blue-300 underline">← Back to Events</a></nav><main class="max-w-3xl mx-auto"><h1 class="text-3xl font-bold mb-4">Veterans March Against Fascism</h1><p class="mb-2"><strong>Date &amp; Time:</strong> 2025-03-14 9:00 AM</p><p class="mb-2"><strong>Location:</strong> Washington DC</p><p class="mb-2"><strong>Address:</strong> 1600 Pacific Highway</p><p class="mb-2"><strong>Meeting Location:</strong> Waterfront Park</p><p class="mb-2"><strong>Description:</strong> Join us to make clear that fascism is not welcome here and that we will resist Trump&#x27;s immoral agenda.</p><p class="mb-2"><strong>Links:</strong> </p><p class="mb-2"><strong>Sponsors:</strong> </p><div class="my-6"><a href="../assets/images/8a12d5f3-18bd-453a-b5d7-3ad2fa7a53eb-thumb.jpg" data-title="Veterans March Against Fascism"><img src="../assets/images/8a12d5f3-18bd-453a-b5d7-3ad2fa7a53eb-thumb.jpg" alt="Event Flyer" class="w-full h-auto object-cover rounded shadow-md dark:shadow-none"/></a></div><div class="mt-4 flex flex-wrap gap-2"><button id="copyPlain" class="inline-block px-3 py-1 text-sm border border-gray-300 rounded hover:bg-gray-100 dark:hover:bg-gray-800 transition-colors cursor-pointer">Copy Plain Text</button><button id="copyRich" class="inline-block px-3 py-1 text-sm border border-gray-300 rounded hover:bg-gray-100 dark:hover:bg-gray-800 transition-colors cursor-pointer">Copy Rich Text</button><button id="copyMarkdown" class="inline-block px-3 py-1 text-sm border border-gray-300 rounded hover:bg-gray-100 dark:hover:bg-gray-800 transition-colors cursor-pointer">Copy Markdown</button></div></main><script>
-              const copyPlainBtn = document.getElementById('copyPlain');
-              const copyRichBtn = document.getElementById('copyRich');
-              const copyMdBtn = document.getElementById('copyMarkdown');
+<!DOCTYPE html><html lang="en" class="scroll-smooth"><head><meta charSet="utf-8"/><meta name="viewport" content="width=device-width, initial-scale=1.0"/><link rel="preload" as="image" href="../assets/images/8a12d5f3-18bd-453a-b5d7-3ad2fa7a53eb-thumb.jpg"/><title>Veterans March Against Fascism</title><link href="../dist/styles.css" rel="stylesheet"/></head><body class="p-4 lg:p-8 bg-white text-gray-900 dark:bg-gray-900 dark:text-gray-100 font-sans"><nav class="mb-6"><a href="../index.html" class="inline-block text-blue-600 hover:text-blue-800 dark:text-blue-400 dark:hover:text-blue-300 underline">← Back to Events</a></nav><main class="max-w-3xl mx-auto"><h1 class="text-3xl font-bold mb-4">Veterans March Against Fascism</h1><p class="mb-2"><strong>Date &amp; Time:</strong> 2025-03-14 9:00 AM</p><p class="mb-2"><strong>Location:</strong> Washington DC</p><p class="mb-2"><strong>Address:</strong> 1600 Pacific Highway</p><p class="mb-2"><strong>Meeting Location:</strong> Waterfront Park</p><p class="mb-2"><strong>Description:</strong> Join us to make clear that fascism is not welcome here and that we will resist Trump&#x27;s immoral agenda.</p><p class="mb-2"><strong>Links:</strong> </p><p class="mb-2"><strong>Sponsors:</strong> </p><div class="my-6"><a href="../assets/images/8a12d5f3-18bd-453a-b5d7-3ad2fa7a53eb-thumb.jpg" data-title="Veterans March Against Fascism"><img src="../assets/images/8a12d5f3-18bd-453a-b5d7-3ad2fa7a53eb-thumb.jpg" alt="Event Flyer" class="w-full h-auto object-cover rounded shadow-md dark:shadow-none"/></a></div><div class="mt-4 flex flex-wrap gap-2"><button class="copy-btn inline-block px-3 py-1 text-sm border border-gray-300 rounded hover:bg-gray-100 dark:hover:bg-gray-800 transition-colors cursor-pointer copy-plain" data-plain="Veterans March Against Fascism
+2025-03-14 9:00 AM
+Washington DC
+1600 Pacific Highway
 
-              const plainText = `Veterans March Against Fascism\n2025-03-14 9:00 AM\nWashington DC\n1600 Pacific Highway\n\n\n`;
-              const htmlData = `<strong>Veterans March Against Fascism</strong><br>2025-03-14 9:00 AM<br>Washington DC<br>1600 Pacific Highway<br><br><br>`;
-              const markdownData = `**Veterans March Against Fascism**\n2025-03-14 9:00 AM\nWashington DC\n1600 Pacific Highway\n\n\n`;
 
-              copyPlainBtn.addEventListener('click', () => {
-                navigator.clipboard.writeText(plainText)
-                  .then(() => alert('Copied plain text!'))
-                  .catch(err => console.error('Failed to copy plain text', err));
-              });
+">Copy Plain Text</button><button class="copy-btn inline-block px-3 py-1 text-sm border border-gray-300 rounded hover:bg-gray-100 dark:hover:bg-gray-800 transition-colors cursor-pointer copy-rich" data-plain="Veterans March Against Fascism
+2025-03-14 9:00 AM
+Washington DC
+1600 Pacific Highway
 
-              copyRichBtn.addEventListener('click', () => {
-                const blobPlain = new Blob([plainText], { type: 'text/plain' });
-                const blobHtml = new Blob([htmlData], { type: 'text/html' });
-                const clipboardItem = new ClipboardItem({
-                  'text/plain': blobPlain,
-                  'text/html': blobHtml
-                });
-                navigator.clipboard.write([clipboardItem])
-                  .then(() => alert('Copied as rich text!'))
-                  .catch(err => console.error('Failed to copy rich text', err));
-              });
 
-              copyMdBtn.addEventListener('click', () => {
-                navigator.clipboard.writeText(markdownData)
-                  .then(() => alert('Copied markdown!'))
-                  .catch(err => console.error('Failed to copy markdown', err));
-              });
-            </script></body></html>
+" data-html="&lt;strong&gt;Veterans March Against Fascism&lt;/strong&gt;&lt;br&gt;2025-03-14 9:00 AM&lt;br&gt;Washington DC&lt;br&gt;1600 Pacific Highway&lt;br&gt;&lt;br&gt;&lt;br&gt;">Copy Rich Text</button><button class="copy-btn inline-block px-3 py-1 text-sm border border-gray-300 rounded hover:bg-gray-100 dark:hover:bg-gray-800 transition-colors cursor-pointer copy-md" data-md="**Veterans March Against Fascism**
+2025-03-14 9:00 AM
+Washington DC
+1600 Pacific Highway
+
+
+">Copy Markdown</button></div></main><script src="../scripts/clipboard.js"></script></body></html>

@@ -1,6 +1,7 @@
 // webpack.config.js
 const path = require('path');
 const nodeExternals = require('webpack-node-externals');
+const CopyWebpackPlugin = require('copy-webpack-plugin');
 
 module.exports = {
   mode: 'production',             // or 'development'
@@ -29,4 +30,14 @@ module.exports = {
   // Optional if you’re dealing with native modules or want to ensure certain
   // built-in modules remain external:
   externalsPresets: { node: true },
+  plugins: [
+    new CopyWebpackPlugin({
+      patterns: [
+        {
+          from: path.resolve(__dirname, 'src/scripts'),
+          to: 'scripts', // copies to dist/scripts
+        },
+      ],
+    }),
+  ],
 };
