@@ -1,8 +1,8 @@
 name: Build and Deploy Site
 
 on:
-  # schedule:
-    # - cron: "0 * * * *"    # Runs every hour
+  schedule:
+    - cron: "0 */6 * * *"    # Runs every hour
   workflow_dispatch:       # Allows manual triggering in GitHub
   push:
     branches:
