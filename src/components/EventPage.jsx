@@ -38,11 +38,11 @@ export function EventPage({ eventData }) {
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <link href="../dist/styles.css" rel="stylesheet" />
       </head>
-      <body className="p-4 lg:p-8 bg-white text-gray-900 dark:bg-gray-900 dark:text-gray-100 font-sans">
+      <body className="p-4 lg:p-8 bg-white text-gray-900 font-sans">
         <nav className="mb-6">
           <a
             href="../index.html"
-            className="inline-block text-blue-600 hover:text-blue-800 dark:text-blue-400 dark:hover:text-blue-300 underline"
+            className="inline-block text-blue-600 hover:text-blue-800 underline"
           >
             &larr; Back to Events
           </a>
@@ -64,7 +64,7 @@ export function EventPage({ eventData }) {
                 <img
                   src={`../assets/images/${filename}`}
                   alt="Event Flyer"
-                  className="w-full h-auto object-cover rounded shadow-md dark:shadow-none"
+                  className="w-full h-auto object-cover rounded shadow-md"
                 />
               </a>
             </div>
@@ -72,20 +72,20 @@ export function EventPage({ eventData }) {
 
           <div className="mt-4 flex flex-wrap gap-2">
             <button
-              className="copy-btn inline-block px-3 py-1 text-sm border border-gray-300 rounded hover:bg-gray-100 dark:hover:bg-gray-800 transition-colors cursor-pointer copy-plain"
+              className="copy-btn inline-block px-3 py-1 text-sm border border-gray-300 rounded hover:bg-gray-100 transition-colors cursor-pointer copy-plain"
               data-plain={plainText}
             >
               Copy Plain Text
             </button>
             <button
-              className="copy-btn inline-block px-3 py-1 text-sm border border-gray-300 rounded hover:bg-gray-100 dark:hover:bg-gray-800 transition-colors cursor-pointer copy-rich"
+              className="copy-btn inline-block px-3 py-1 text-sm border border-gray-300 rounded hover:bg-gray-100 transition-colors cursor-pointer copy-rich"
               data-plain={plainText}
               data-html={htmlData}
             >
               Copy Rich Text
             </button>
             <button
-              className="copy-btn inline-block px-3 py-1 text-sm border border-gray-300 rounded hover:bg-gray-100 dark:hover:bg-gray-800 transition-colors cursor-pointer copy-md"
+              className="copy-btn inline-block px-3 py-1 text-sm border border-gray-300 rounded hover:bg-gray-100 transition-colors cursor-pointer copy-md"
               data-md={markdownData}
             >
               Copy Markdown

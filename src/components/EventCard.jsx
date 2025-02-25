@@ -39,7 +39,7 @@ export function EventCard({ event, dateKey }) {
       <a
         key={i}
         href={url}
-        className="text-blue-600 hover:text-blue-800 dark:text-blue-400 dark:hover:text-blue-300 underline text-sm"
+        className="text-blue-600 hover:text-blue-800 underline text-sm"
         target='_blank'
         rel='noopener noreferrer'>{link}</a>
     )
@@ -117,7 +117,7 @@ export function EventCard({ event, dateKey }) {
                 <div>{displayTime}</div>
               </div>
               {event.Address &&
-                <div className="flex justify-start mb-2 text-blue-600 hover:text-blue-800 dark:text-blue-400 dark:hover:text-blue-300">
+                <div className="flex justify-start mb-2 text-blue-600 hover:text-blue-800">
                   <div className="mr-2">📍</div>
                   <div className="underline"><a href={mapUrl} rel="nofollow noreferer" target="_blank">{displayAddress}</a></div>
                 </div>}
@@ -144,7 +144,7 @@ export function EventCard({ event, dateKey }) {
           <div className="w-50 inline-flex">
              {/* Add to calendar button */}
              <button
-              className="copy-btn cursor-pointer text-gray-400 hover:text-blue-600 text-sm font-medium px-4 py-2 inline-flex space-x-1 items-center"
+              className="cursor-pointer text-gray-400 hover:text-blue-600 text-sm font-medium px-4 py-2 inline-flex space-x-1 items-center"
               data-plain={escapeAttr(plainText)}
             >
               <svg width="100%" height="100%" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -156,7 +156,7 @@ export function EventCard({ event, dateKey }) {
               href={mapUrl}
               rel="nofollow noreferer"
               target="_blank"
-              className="copy-btn cursor-pointer text-gray-400 hover:text-blue-600 text-sm font-medium px-4 py-2 inline-flex space-x-1 items-center"
+              className="cursor-pointer text-gray-400 hover:text-blue-600 text-sm font-medium px-4 py-2 inline-flex space-x-1 items-center"
             >
               <svg width="100%" height="100%" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
                 <path d="M9 18L2 22V6L9 2M9 18L16 22M9 18V2M16 22L22 18V2L16 6M16 22V6M16 6L9 2" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
