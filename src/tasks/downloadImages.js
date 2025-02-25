@@ -9,7 +9,7 @@ export async function downloadImageIfNeeded(imgUrl, uuid, imagesDir) {
 
   const existingFiles = fs.readdirSync(imagesDir);
   const uuidNoExt = uuid.replace(/\.[^.]+$/, '');
-  const existingFile = existingFiles.find((f) => f.startsWith(uuidNoExt));
+  const existingFile = existingFiles.find((f) => f.startsWith(uuidNoExt + '.'));
   if (existingFile) {
     console.log(`[DownloadImage] Already exists: ${existingFile}, skipping download.`);
     return path.join(imagesDir, existingFile);

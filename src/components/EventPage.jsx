@@ -9,6 +9,7 @@ export function EventPage({ eventData }) {
         <title>{eventData.title}</title>
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <link href="../dist/styles.css" rel="stylesheet" />
+        <link rel="shortcut icon" type="image/x-icon" href="favicon.ico" />
       </head>
       <body className="p-4 lg:p-8 bg-white text-gray-900 font-sans">
         <nav className="mb-6">
@@ -21,11 +22,11 @@ export function EventPage({ eventData }) {
         </nav>
 
         <main className="max-w-3xl mx-auto">
-          <EventCard key={eventData.UUID} event={eventData} dateKey={eventData.Date} />
+          <EventCard key={eventData.UUID} event={eventData} dateKey={eventData.Date} baseAssetPath="../assets/images" />
         </main>
 
         {/* External clipboard script */}
-        <script src="../scripts/clipboard.js"></script>
+        <script src="../dist/scripts/clipboard.js"></script>
       </body>
     </html>
   );

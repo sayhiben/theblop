@@ -13,6 +13,7 @@ export function IndexPage({ futureEvents, grouped, allStates }) {
         <title>Upcoming Events</title>
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <link href="dist/styles.css" rel="stylesheet" />
+        <link rel="shortcut icon" type="image/x-icon" href="favicon.ico" />
       </head>
       <body className="p-4 lg:p-8 bg-stone-50 text-gray-900 font-sans">
         <header className="mb-6">
@@ -59,7 +60,7 @@ export function IndexPage({ futureEvents, grouped, allStates }) {
                 </h2>
                 <div className="grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-4">
                   {eventsForThisDate.map(e => (
-                    <EventCard key={e.UUID} event={e} dateKey={dateKey} />
+                    <EventCard key={e.UUID} event={e} dateKey={dateKey} baseAssetPath='assets/images' />
                   ))}
                 </div>
               </div>

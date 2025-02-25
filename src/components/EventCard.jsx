@@ -13,7 +13,7 @@ function escapeAttr(str = '') {
     .replace(/\n/g, '\\n');
 }
 
-export function EventCard({ event, dateKey }) {
+export function EventCard({ event, dateKey, baseAssetPath }) {
   const eventTitle = event.Title || 'Untitled Event';
   const displayDatetime = humanizeDatetime(`${dateKey} ${event.Time}`);
   const displayDate = humanizeDate(dateKey);
@@ -46,28 +46,13 @@ export function EventCard({ event, dateKey }) {
   }).filter(el => el !== null && el.length > 0);
 
 
-  const plainText = [
+  const copyText = [
     eventTitle,
     displayDatetime,
-    displayLocation,
-    event.Address || '',
+    displayAddress,
     event.Links || '',
     event.Sponsors || ''
   ].join('\n');
-
-  const htmlData = `<strong>${eventTitle}</strong><br>` +
-    `${displayDatetime}<br>` +
-    `${displayLocation}<br>` +
-    `${event.Address || ''}<br>` +
-    `${event.Links || ''}<br>` +
-    `${event.Sponsors || ''}<br>`;
-
-  const markdownData = `**${eventTitle}**\n` +
-    `${displayDatetime}\n` +
-    `${displayLocation}\n` +
-    `${event.Address || ''}\n` +
-    `${event.Links || ''}\n` +
-    `${event.Sponsors || ''}\n`;
 
   return (
     <div
@@ -80,9 +65,9 @@ export function EventCard({ event, dateKey }) {
 
         {localFileName && (
           <div className="relative mx-4 mt-4 overflow-hidden text-white shadow-lg rounded-xl bg-blue-gray-500 bg-clip-border shadow-blue-gray-500/40">
-            <a href={`assets/images/${localFileName}`} data-title={escapeAttr(eventTitle)}>
+            <a href={`${baseAssetPath}/${localFileName}`} data-title={escapeAttr(eventTitle)}>
               <img
-                src={`assets/images/${localThumbnail}`}
+                src={`${baseAssetPath}/${localThumbnail}`}
                 alt="Event Flyer"
                 className="object-cover w-full h-52"
               />
@@ -145,7 +130,6 @@ export function EventCard({ event, dateKey }) {
              {/* Add to calendar button */}
              <button
               className="cursor-pointer text-gray-400 hover:text-blue-600 text-sm font-medium px-4 py-2 inline-flex space-x-1 items-center"
-              data-plain={escapeAttr(plainText)}
             >
               <svg width="100%" height="100%" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
                 <path d="M21 8H3M16 2V5M8 2V5M12 18V12M9 15H15M7.8 22H16.2C17.8802 22 18.7202 22 19.362 21.673C19.9265 21.3854 20.3854 20.9265 20.673 20.362C21 19.7202 21 18.8802 21 17.2V8.8C21 7.11984 21 6.27976 20.673 5.63803C20.3854 5.07354 19.9265 4.6146 19.362 4.32698C18.7202 4 17.8802 4 16.2 4H7.8C6.11984 4 5.27976 4 4.63803 4.32698C4.07354 4.6146 3.6146 5.07354 3.32698 5.63803C3 6.27976 3 7.11984 3 8.8V17.2C3 18.8802 3 19.7202 3.32698 20.362C3.6146 20.9265 4.07354 21.3854 4.63803 21.673C5.27976 22 6.11984 22 7.8 22Z" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
@@ -165,7 +149,7 @@ export function EventCard({ event, dateKey }) {
             {/* Copy button */}
             <button
               className="copy-btn cursor-pointer text-gray-400 hover:text-blue-600 text-sm font-medium px-4 py-2 inline-flex space-x-1 items-center"
-              data-plain={escapeAttr(plainText)}
+              data-plain={escapeAttr(copyText)}
             >
               <svg width="100%" height="100%" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
                 <path d="M5 15C4.06812 15 3.60218 15 3.23463 14.8478C2.74458 14.6448 2.35523 14.2554 2.15224 13.7654C2 13.3978 2 12.9319 2 12V5.2C2 4.0799 2 3.51984 2.21799 3.09202C2.40973 2.71569 2.71569 2.40973 3.09202 2.21799C3.51984 2 4.0799 2 5.2 2H12C12.9319 2 13.3978 2 13.7654 2.15224C14.2554 2.35523 14.6448 2.74458 14.8478 3.23463C15 3.60218 15 4.06812 15 5M12.2 22H18.8C19.9201 22 20.4802 22 20.908 21.782C21.2843 21.5903 21.5903 21.2843 21.782 20.908C22 20.4802 22 19.9201 22 18.8V12.2C22 11.0799 22 10.5198 21.782 10.092C21.5903 9.71569 21.2843 9.40973 20.908 9.21799C20.4802 9 19.9201 9 18.8 9H12.2C11.0799 9 10.5198 9 10.092 9.21799C9.71569 9.40973 9.40973 9.71569 9.21799 10.092C9 10.5198 9 11.0799 9 12.2V18.8C9 19.9201 9 20.4802 9.21799 20.908C9.40973 21.2843 9.71569 21.5903 10.092 21.782C10.5198 22 11.0799 22 12.2 22Z" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
@@ -174,7 +158,7 @@ export function EventCard({ event, dateKey }) {
             {/* Permalink button */}
             <button
               className="copy-btn cursor-pointer text-gray-400 hover:text-blue-600 text-sm font-medium px-4 py-2 inline-flex space-x-1 items-center"
-              data-plain={escapeAttr(plainText)}
+              data-plain={escapeAttr(permalink)}
             >
               <svg width="100%" height="100%" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
                 <path d="M12.7076 18.3639L11.2933 19.7781C9.34072 21.7308 6.1749 21.7308 4.22228 19.7781C2.26966 17.8255 2.26966 14.6597 4.22228 12.7071L5.63649 11.2929M18.3644 12.7071L19.7786 11.2929C21.7312 9.34024 21.7312 6.17441 19.7786 4.22179C17.826 2.26917 14.6602 2.26917 12.7076 4.22179L11.2933 5.636M8.50045 15.4999L15.5005 8.49994" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
