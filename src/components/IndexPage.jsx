@@ -18,10 +18,10 @@ export function IndexPage({ futureEvents, grouped, allStates }) {
         <link rel="shortcut icon" type="image/x-icon" href="favicon.ico" />
       </head>
       <body className="px-4 pb-4 lg:px-8 lg:pb-8 bg-stone-50 text-gray-900 font-sans">
-        <header className="mb-6 top-0 h-24 sticky bg-stone-50 z-99 border-b border-gray-300 pt-4">
+        <header className="mb-6 top-0 sm:h-24 h-35 sticky bg-stone-50 z-99 pt-4">
           <h1 className="text-3xl font-bold mb-4">The Big List of Protests</h1>
           {/* Filters */}
-          <div className="flex flex-col sm:flex-row items-start sm:items-end sm:space-x-4 space-y-2 sm:space-y-0 pb-4">
+          <div className="bg-stone-50 z-98 flex flex-col sm:flex-row items-start sm:items-end sm:space-x-4 space-y-2 sm:space-y-0 pb-4 border-b border-gray-300">
             <div>
               <label htmlFor="stateFilter" className="font-medium mr-2">Filter by State:</label>
               <select
@@ -43,7 +43,7 @@ export function IndexPage({ futureEvents, grouped, allStates }) {
                 <option value="ALL">All Dates</option>
                 <option value="TODAY">Today</option>
                 <option value="WEEK">This Week</option>
-                <option value="WEEKEND">Upcoming Weekends</option>
+                <option value="WEEKEND">Weekends</option>
               </select>
             </div>
           </div>
@@ -59,7 +59,7 @@ export function IndexPage({ futureEvents, grouped, allStates }) {
 
             return (
               <div className="date-group" key={dateKey}>
-                <h2 className="sticky bg-stone-200 rounded-sm p-2 z-89 top-24 text-xl font-semibold my-4 border-b border-gray-300">
+                <h2 className="sticky bg-stone-200 rounded-sm p-2 z-89 sm:top-28 top-37 text-xl font-semibold my-4 border-b border-gray-300">
                   {humanizeDate(dateKey)}
                 </h2>
                 <div className="grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3">
