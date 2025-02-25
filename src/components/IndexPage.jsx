@@ -56,7 +56,7 @@ export function IndexPage({ futureEvents, grouped, allStates }) {
                 <h2 className="text-xl font-semibold my-4 border-b border-gray-300 pb-2 dark:border-gray-700">
                   {dateKey}
                 </h2>
-                <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 mt-4">
+                <div className="grid grid-cols-1 gap-6 mt-4">
                   {eventsForThisDate.map(e => (
                     <EventCard key={e.UUID} event={e} dateKey={dateKey} />
                   ))}

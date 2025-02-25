@@ -43,66 +43,79 @@ export function EventCard({ event, dateKey }) {
 
   return (
     <div
-      className="event-card border border-gray-200 dark:border-gray-700 rounded overflow-hidden shadow-sm dark:shadow-none flex flex-col"
+      className="event-card flex justify-center items-center p-6"
       data-state={event.State || ''}
       data-date={dateKey}
       key={event.UUID}
     >
-      {localFileName && (
-        <div className="relative">
-          <a href={`assets/images/${localFileName}`} data-title={escapeAttr(eventTitle)}>
-            <img
-              src={`assets/images/${localThumbnail}`}
-              alt="Event Flyer"
-              className="w-full h-auto object-cover"
-            />
-          </a>
-        </div>
-      )}
+      <div className="max-w-[720px] mx-auto">
+        <div class="relative flex bg-clip-border rounded-xl bg-white text-gray-700 shadow-md w-full max-w-[48rem] flex-row">
 
-      <div className="p-4 flex flex-col justify-between flex-1">
-        <div>
-          <h3 className="text-lg font-semibold mb-2">{eventTitle}</h3>
-          <p className="text-sm mb-1"><strong>Time:</strong> {displayTime}</p>
-          <p className="text-sm mb-1"><strong>Location:</strong> {displayLocation}</p>
-          <p className="text-sm mb-1"><strong>Address:</strong> {event.Address || ''}</p>
-          <p className="text-sm mb-1"><strong>Meeting Location:</strong> {event["Meeting Location"] || ''}</p>
-          <p className="text-sm mb-1"><strong>Description:</strong> {event.Description || ''}</p>
-          <p className="text-sm mb-1"><strong>Links:</strong> {event.Links || ''}</p>
-          <p className="text-sm mb-2"><strong>Sponsors:</strong> {event.Sponsors || ''}</p>
-        </div>
+        {localFileName && (
+          <div className="relative w-1/2 m-0 overflow-hidden text-gray-700 bg-white rounded-r-none bg-clip-border rounded-xl shrink-0">
+            <a href={`assets/images/${localFileName}`} data-title={escapeAttr(eventTitle)}>
+              <img
+                src={`assets/images/${localThumbnail}`}
+                alt="Event Flyer"
+                className="object-cover w-full h-full"
+              />
+            </a>
+          </div>
+        )}
 
-        <div className="mt-2">
-          <a
-            href={`events/${event.UUID}.html`}
-            className="text-blue-600 hover:text-blue-800 dark:text-blue-400 dark:hover:text-blue-300 underline text-sm"
-          >
-            Details Page
-          </a>
-        </div>
+        <div className="p-4">
+          <h6 className="block mb-4 mt-0 pt-0 font-sans text-base antialiased font-semibold leading-relaxed tracking-normal text-gray-700 uppercase">
+            {displayLocation}
+          </h6>
+          <h4 className="block mb-2 font-sans text-2xl antialiased font-semibold leading-snug tracking-normal text-blue-gray-900">
+            {eventTitle}
+          </h4>
+          <h7 className="block mb-4 mt-0 pt-0 font-sans text-base antialiased font-semibold leading-relaxed tracking-normal text-gray-700 uppercase">
+            <p>🗓️ {dateKey} - {displayTime}</p>
+          </h7>
+          <div className='block mb-8 font-sans text-sm antialiased font-normal leading-relaxed text-gray-700'>
+            <p>{event.Description || ''}</p>
+          </div>
+          <div className='block mb-8 font-sans text-sm antialiased font-normal leading-relaxed text-gray-700'>
+            <p>📍 {event.Address || '' }</p>
+            {event["Meeting Location"] && <p>📝 { event["Meeting Location"] || ''}</p>}
+            {event.Links && <p>🔗 {event.Links}</p>}
+            {event.Sponsors && <p>﹫ {event.Sponsors}</p>}
+          </div>
 
-        <div className="mt-3 flex flex-wrap gap-2">
-          <button
-            className="copy-btn inline-block px-3 py-1 text-sm border border-gray-300 rounded hover:bg-gray-100 dark:hover:bg-gray-800 transition-colors cursor-pointer copy-plain"
-            data-plain={escapeAttr(plainText)}
-          >
-            Copy Plain
-          </button>
-          <button
-            className="copy-btn inline-block px-3 py-1 text-sm border border-gray-300 rounded hover:bg-gray-100 dark:hover:bg-gray-800 transition-colors cursor-pointer copy-rich"
-            data-plain={escapeAttr(plainText)}
-            data-html={escapeAttr(htmlData)}
-          >
-            Copy Rich
-          </button>
-          <button
-            className="copy-btn inline-block px-3 py-1 text-sm border border-gray-300 rounded hover:bg-gray-100 dark:hover:bg-gray-800 transition-colors cursor-pointer copy-md"
-            data-md={escapeAttr(markdownData)}
-          >
-            Copy MD
-          </button>
+          <div className="block mb-8 font-sans text-base antialiased font-normal leading-relaxed text-gray-700">
+            <a
+              href={`events/${event.UUID}.html`}
+              className="text-blue-600 hover:text-blue-800 dark:text-blue-400 dark:hover:text-blue-300 underline text-sm"
+            >
+              Details Page
+            </a>
+          </div>
+
+          <div className="block mb-8 font-sans text-base antialiased font-normal leading-relaxed text-gray-700">
+            <button
+              className="copy-btn inline-block px-3 py-1 text-sm border border-gray-300 rounded hover:bg-gray-100 dark:hover:bg-gray-800 transition-colors cursor-pointer copy-plain"
+              data-plain={escapeAttr(plainText)}
+            >
+              Copy Plain
+            </button>
+            <button
+              className="copy-btn inline-block px-3 py-1 text-sm border border-gray-300 rounded hover:bg-gray-100 dark:hover:bg-gray-800 transition-colors cursor-pointer copy-rich"
+              data-plain={escapeAttr(plainText)}
+              data-html={escapeAttr(htmlData)}
+            >
+              Copy Rich
+            </button>
+            <button
+              className="copy-btn inline-block px-3 py-1 text-sm border border-gray-300 rounded hover:bg-gray-100 dark:hover:bg-gray-800 transition-colors cursor-pointer copy-md"
+              data-md={escapeAttr(markdownData)}
+            >
+              Copy MD
+            </button>
+          </div>
         </div>
       </div>
+    </div>
     </div>
   );
 }

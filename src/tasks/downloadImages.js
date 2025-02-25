@@ -55,7 +55,7 @@ export async function resizeImageIfNeeded(imgPath, uuid, imagesDir) {
 
   try {
     await sharp(imgPath)
-      .resize(200, 300, { fit: 'inside', withoutEnlargement: true })
+      .resize(400, 800, { fit: 'inside', withoutEnlargement: true })
       .toFile(thumbPath);
     console.log(`[ResizeImage] Saved thumbnail: ${thumbPath}`);
     return thumbPath;
