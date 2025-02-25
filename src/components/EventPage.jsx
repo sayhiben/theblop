@@ -13,11 +13,11 @@ export function EventPage({ eventData }) {
         <link href="../dist/styles.css" rel="stylesheet" />
         <link rel="shortcut icon" type="image/x-icon" href="favicon.ico" />
       </head>
-      <body className="p-4 lg:p-8 bg-white text-gray-900 font-sans">
+      <body className="p-4 lg:p-8 bg-white text-gray-900 dark:bg-gray-900 dark:text-stone-50 font-sans">
         <nav className="mb-6">
           <a
             href="../index.html"
-            className="inline-block text-blue-600 hover:text-blue-800 underline"
+            className="inline-block text-blue-600 dark:text-blue-400 hover:text-blue-800 dark:hover:text-blue-300 underline"
           >
             &larr; Back to Events
           </a>

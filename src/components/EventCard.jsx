@@ -39,7 +39,7 @@ export function EventCard({ event, dateKey, baseAssetPath }) {
       <a
         key={i}
         href={url}
-        className="text-blue-600 hover:text-blue-800 underline text-sm"
+        className="text-blue-600 dark:text-blue-200 hover:text-blue-800 underline text-sm"
         target='_blank'
         rel='noopener noreferrer'>{link}</a>
     )
@@ -61,10 +61,10 @@ export function EventCard({ event, dateKey, baseAssetPath }) {
       data-date={dateKey}
       key={event.UUID}
     >
-      <div className="relative flex w-full max-w-[26rem] flex-col rounded-xl bg-white bg-clip-border text-gray-700 shadow-lg">
+      <div className="relative flex w-full max-w-[26rem] flex-col rounded-xl bg-white dark:bg-gray-800 bg-clip-border text-gray-700 dark:text-stone-200 shadow-lg">
 
         {localFileName && (
-          <div className="relative mx-4 mt-4 overflow-hidden text-white shadow-lg rounded-xl bg-blue-gray-500 bg-clip-border shadow-blue-gray-500/40">
+          <div className="relative mx-4 mt-4 overflow-hidden text-white shadow-lg rounded-xl bg-blue-gray-500 dark:bg-blue-gray-700 bg-clip-border shadow-blue-gray-500/40">
             <a href={`${baseAssetPath}/${localFileName}`} data-title={escapeAttr(eventTitle)}>
               <img
                 src={`${baseAssetPath}/${localThumbnail}`}
@@ -79,20 +79,20 @@ export function EventCard({ event, dateKey, baseAssetPath }) {
           <div className="items-center justify-between mb-2">
 
             <div>
-              <h3 className="block mb-1 font-sans text-xl antialiased font-bold leading-snug tracking-normal text-blue-gray-900">
+              <h3 className="block mb-1 font-sans text-xl antialiased font-bold leading-snug tracking-normal text-blue-gray-900 dark:text-stone-200">
                 {eventTitle}
               </h3>
-              <p className="block mb-4 mt-0 pt-0 font-sans text-base antialiased font-semibold leading-relaxed tracking-normal text-gray-700 uppercase">
+              <p className="block mb-4 mt-0 pt-0 font-sans text-base antialiased font-semibold leading-relaxed tracking-normal text-gray-700 dark:text-stone-200 uppercase">
                 {displayLocation}
               </p>
             </div>
 
             {event.Description &&
-              <div className='block font-sans mb-6 text-sm antialiased font-light leading-relaxed text-gray-700'>
+              <div className='block font-sans mb-6 text-sm antialiased font-light leading-relaxed text-gray-700 dark:text-stone-200'>
                 <p>{event.Description || ''}</p>
               </div>}
 
-            <div className='block items-center justify-between text-sm w-full p-5 bg-white border-2 rounded-lg group border-neutral-200/70 text-neutral-600'>
+            <div className='block items-center justify-between text-sm w-full p-5 bg-white dark:bg-gray-900 border-2 rounded-lg group border-neutral-200/70 dark:border-gray-800/70 text-neutral-600 dark:text-stone-200'>
               <div className="flex justify-start mb-2">
                 <div className="mr-2">🗓️</div>
                 <div>{displayDate}</div>
@@ -102,7 +102,7 @@ export function EventCard({ event, dateKey, baseAssetPath }) {
                 <div>{displayTime}</div>
               </div>
               {event.Address &&
-                <div className="flex justify-start mb-2 text-blue-600 hover:text-blue-800">
+                <div className="flex justify-start mb-2 text-blue-600 dark:text-blue-400 hover:text-blue-800 dark:hover:text-blue-300">
                   <div className="mr-2">📍</div>
                   <div className="underline"><a href={mapUrl} rel="nofollow noreferer" target="_blank">{displayAddress}</a></div>
                 </div>}
@@ -129,7 +129,7 @@ export function EventCard({ event, dateKey, baseAssetPath }) {
           <div className="w-50 inline-flex p-2">
             {/* Report button */}
             <button
-              className="cursor-pointer text-gray-400 hover:text-blue-600 text-sm font-medium px-2 py-2 inline-flex space-x-1 items-center"
+              className="cursor-pointer text-gray-400 dark:text-stone-300 hover:text-blue-600 dark:hover:text-blue-400 text-sm font-medium px-2 py-2 inline-flex space-x-1 items-center"
             >
               <svg width="100%" height="100%" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
                 <path d="M4 13H19.587C20.0495 13 20.2808 13 20.4128 12.903C20.528 12.8185 20.6015 12.6887 20.6147 12.5464C20.63 12.3833 20.511 12.185 20.273 11.7884L18.247 8.4116C18.1572 8.26195 18.1123 8.18712 18.0947 8.10724C18.0792 8.03659 18.0792 7.96341 18.0947 7.89276C18.1123 7.81288 18.1572 7.73805 18.247 7.5884L20.273 4.2116C20.511 3.81503 20.63 3.61674 20.6147 3.45359C20.6015 3.31133 20.528 3.18154 20.4128 3.09698C20.2808 3 20.0495 3 19.587 3H4L4 21" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
@@ -137,7 +137,7 @@ export function EventCard({ event, dateKey, baseAssetPath }) {
             </button>
             {/* Add to calendar button */}
             <button
-              className="cursor-pointer text-gray-400 hover:text-blue-600 text-sm font-medium px-2 py-2 inline-flex space-x-1 items-center"
+              className="cursor-pointer text-gray-400 dark:text-stone-300 hover:text-blue-600 dark:hover:text-blue-400 text-sm font-medium px-2 py-2 inline-flex space-x-1 items-center"
             >
               <svg width="100%" height="100%" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
                 <path d="M21 8H3M16 2V5M8 2V5M12 18V12M9 15H15M7.8 22H16.2C17.8802 22 18.7202 22 19.362 21.673C19.9265 21.3854 20.3854 20.9265 20.673 20.362C21 19.7202 21 18.8802 21 17.2V8.8C21 7.11984 21 6.27976 20.673 5.63803C20.3854 5.07354 19.9265 4.6146 19.362 4.32698C18.7202 4 17.8802 4 16.2 4H7.8C6.11984 4 5.27976 4 4.63803 4.32698C4.07354 4.6146 3.6146 5.07354 3.32698 5.63803C3 6.27976 3 7.11984 3 8.8V17.2C3 18.8802 3 19.7202 3.32698 20.362C3.6146 20.9265 4.07354 21.3854 4.63803 21.673C5.27976 22 6.11984 22 7.8 22Z" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
@@ -148,7 +148,7 @@ export function EventCard({ event, dateKey, baseAssetPath }) {
               href={mapUrl}
               rel="nofollow noreferer"
               target="_blank"
-              className="cursor-pointer text-gray-400 hover:text-blue-600 text-sm font-medium px-2 py-2 inline-flex space-x-1 items-center"
+              className="cursor-pointer text-gray-400 dark:text-stone-300 hover:text-blue-600 dark:hover:text-blue-400 text-sm font-medium px-2 py-2 inline-flex space-x-1 items-center"
             >
               <svg width="100%" height="100%" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
                 <path d="M9 18L2 22V6L9 2M9 18L16 22M9 18V2M16 22L22 18V2L16 6M16 22V6M16 6L9 2" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
@@ -156,7 +156,7 @@ export function EventCard({ event, dateKey, baseAssetPath }) {
             </a>
             {/* Copy button */}
             <button
-              className="copy-btn cursor-pointer text-gray-400 hover:text-blue-600 text-sm font-medium px-2 py-2 inline-flex space-x-1 items-center"
+              className="copy-btn cursor-pointer text-gray-400 dark:text-stone-300 hover:text-blue-600 dark:hover:text-blue-400 text-sm font-medium px-2 py-2 inline-flex space-x-1 items-center"
               data-plain={escapeAttr(copyText)}
             >
               <svg width="100%" height="100%" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -165,7 +165,7 @@ export function EventCard({ event, dateKey, baseAssetPath }) {
             </button>
             {/* Permalink button */}
             <button
-              className="copy-btn cursor-pointer text-gray-400 hover:text-blue-600 text-sm font-medium px-2 py-2 inline-flex space-x-1 items-center"
+              className="copy-btn cursor-pointer text-gray-400 dark:text-stone-300 hover:text-blue-600 dark:hover:text-blue-400 text-sm font-medium px-2 py-2 inline-flex space-x-1 items-center"
               data-plain={escapeAttr(permalink)}
             >
               <svg width="100%" height="100%" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
