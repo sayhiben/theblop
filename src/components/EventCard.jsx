@@ -1,6 +1,7 @@
 // language: jsx
 import React from 'react';
 import { humanizeDatetime, humanizeDate, humanizeTime } from '../tasks/parseDates';
+import { getMapsUrl } from '../scripts/maps';
 
 function escapeAttr(str = '') {
   return str
@@ -21,6 +22,16 @@ export function EventCard({ event, dateKey }) {
   const localFileName = event.localImagePath ? event.localImagePath.split('/').pop() : null;
   const localThumbnail = event.localThumbnailPath ? event.localThumbnailPath.split('/').pop() : null;
   const permalink = `events/${event.UUID}.html`;
+
+  const sanitizedCity = event.City ? event.City.replace(/[^a-zA-Z]/g, '').toLowerCase() : '';
+  const sanitizedState = event.State ? event.State.replace(/[^a-zA-Z]/g, '').toLowerCase() : '';
+  const sanitizedAddress = event.Address ? event.Address.replace(/[^a-zA-Z]/g, '').toLowerCase() : '';
+  let displayAddress = event.Address || '';
+  // If sanitizeddisplaylocation doesn't include city and state, append it
+  if (!sanitizedAddress.includes(sanitizedCity) || !sanitizedAddress.includes(sanitizedState)) {
+    displayAddress += `, ${displayLocation}`;
+  }
+  const mapUrl = getMapsUrl(displayAddress);
 
   const linkElements = event.Links.split(',').map((link, i) => {
     const url = link.trim();
@@ -106,9 +117,9 @@ export function EventCard({ event, dateKey }) {
                 <div>{displayTime}</div>
               </div>
               {event.Address &&
-                <div className="flex justify-start mb-2">
+                <div className="flex justify-start mb-2 text-blue-600 hover:text-blue-800 dark:text-blue-400 dark:hover:text-blue-300">
                   <div className="mr-2">📍</div>
-                  <div>{event.Address}<br />{displayLocation}</div>
+                  <div className="underline"><a href={mapUrl} rel="nofollow noreferer" target="_blank">{displayAddress}</a></div>
                 </div>}
               {event["Meeting Location"] &&
                 <div className="flex justify-start mb-2">
@@ -141,14 +152,16 @@ export function EventCard({ event, dateKey }) {
               </svg>
             </button>
             {/* Map link */}
-            <button
+            <a
+              href={mapUrl}
+              rel="nofollow noreferer"
+              target="_blank"
               className="copy-btn cursor-pointer text-gray-400 hover:text-blue-600 text-sm font-medium px-4 py-2 inline-flex space-x-1 items-center"
-              data-plain={escapeAttr(plainText)}
             >
               <svg width="100%" height="100%" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
                 <path d="M9 18L2 22V6L9 2M9 18L16 22M9 18V2M16 22L22 18V2L16 6M16 22V6M16 6L9 2" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
               </svg>
-            </button>
+            </a>
             {/* Copy button */}
             <button
               className="copy-btn cursor-pointer text-gray-400 hover:text-blue-600 text-sm font-medium px-4 py-2 inline-flex space-x-1 items-center"
