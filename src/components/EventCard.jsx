@@ -69,7 +69,7 @@ export function EventCard({ event, dateKey, baseAssetPath }) {
               <img
                 src={`${baseAssetPath}/${localThumbnail}`}
                 alt="Event Flyer"
-                className="object-cover w-full h-52"
+                className="object-cover w-full h-67"
               />
             </a>
           </div>
