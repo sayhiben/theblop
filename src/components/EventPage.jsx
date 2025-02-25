@@ -1,5 +1,7 @@
 import React from 'react';
 import { EventCard } from './EventCard';
+import { SiteAlerts } from './Alerts';
+import { alerts } from '../alerts';
 
 export function EventPage({ eventData }) {
   return (
@@ -20,6 +22,8 @@ export function EventPage({ eventData }) {
             &larr; Back to Events
           </a>
         </nav>
+
+        <SiteAlerts alerts={alerts} />
 
         <main className="max-w-3xl mx-auto">
           <EventCard key={eventData.UUID} event={eventData} dateKey={eventData.Date} baseAssetPath="../assets/images" />

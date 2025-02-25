@@ -1,6 +1,8 @@
 import React from 'react';
 import { EventCard } from './EventCard';
 import { humanizeDate } from '../tasks/parseDates';
+import { SiteAlerts } from './Alerts';
+import { alerts } from '../alerts';
 
 export function IndexPage({ futureEvents, grouped, allStates }) {
   // Get sorted date keys
@@ -10,14 +12,14 @@ export function IndexPage({ futureEvents, grouped, allStates }) {
     <html lang="en" className="scroll-smooth">
       <head>
         <meta charSet="utf-8" />
-        <title>Upcoming Events</title>
+        <title>Big List of Protests: Upcoming</title>
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <link href="dist/styles.css" rel="stylesheet" />
         <link rel="shortcut icon" type="image/x-icon" href="favicon.ico" />
       </head>
       <body className="p-4 lg:p-8 bg-stone-50 text-gray-900 font-sans">
-        <header className="mb-6">
-          <h1 className="text-3xl font-bold mb-4">Upcoming Events</h1>
+        <header className="mb-6 top-0 h-24 sticky bg-stone-50 z-99 border-b border-gray-300">
+          <h1 className="text-3xl font-bold mb-4">Big List of Protests</h1>
           {/* Filters */}
           <div className="flex flex-col sm:flex-row items-start sm:items-end sm:space-x-4 space-y-2 sm:space-y-0 mb-4">
             <div>
@@ -40,12 +42,14 @@ export function IndexPage({ futureEvents, grouped, allStates }) {
               >
                 <option value="ALL">All Dates</option>
                 <option value="TODAY">Today</option>
-                <option value="WEEKEND">This Weekend</option>
                 <option value="WEEK">This Week</option>
+                <option value="WEEKEND">Upcoming Weekends</option>
               </select>
             </div>
           </div>
         </header>
+
+        <SiteAlerts alerts={alerts} />
 
         <div id="eventList" className="space-y-8">
           {dateKeys.map(dateKey => {
@@ -55,7 +59,7 @@ export function IndexPage({ futureEvents, grouped, allStates }) {
 
             return (
               <div className="date-group" key={dateKey}>
-                <h2 className="sticky bg-stone-200 rounded-sm p-2 z-99 top-0 text-xl font-semibold my-4 border-b border-gray-300">
+                <h2 className="sticky bg-stone-200 rounded-sm p-2 z-89 top-24 text-xl font-semibold my-4 border-b border-gray-300">
                   {humanizeDate(dateKey)}
                 </h2>
                 <div className="grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-4">

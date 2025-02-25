@@ -29,8 +29,13 @@
     eventCards.forEach(card => {
       const eventState = card.getAttribute('data-state');
       const matchesState = (stateValue === 'ALL' || eventState === stateValue);
-      // You can add date-based filtering logic here.
-      const matchesDate = true;
+      const eventDate = new Date(card.getAttribute('data-date'));
+
+      // Date filter:
+      let matchesDate = true;
+      if (dateValue !== 'ALL') {
+        matchesDate = checkDateFilter(dateValue, eventDate);
+      }
 
       card.style.display = (matchesState && matchesDate) ? 'block' : 'none';
       if (matchesState && matchesDate) visibleCount++;
@@ -47,6 +52,48 @@
     } else {
       noEventsMsg.classList.add('hidden');
     }
+  }
+
+  function checkDateFilter(selectedValue, eventDate) {
+    const now = new Date();
+
+    console.log('selectedValue:', selectedValue);
+    
+    switch (selectedValue) {
+      case 'TODAY': {
+        // Check if event is the same calendar date as "now":
+        return isSameDay(eventDate, now);
+      }
+      case 'WEEKEND': {
+        // Check if eventDate is Saturday or Sunday:
+        const day = eventDate.getDay();
+        return day === 5 || day === 6; // 5=Sat, 6=Sun
+      }
+      case 'WEEK': {
+        // Check if eventDate is within the next 7 days (including today):
+        const diffDays = daysBetween(now, eventDate);
+        return (diffDays >= 0 && diffDays < 7);
+      }
+      default: 
+        // 'ALL' or unknown
+        return true;
+    }
+  }
+
+  // Helper to check if two dates are the same calendar day:
+  function isSameDay(d1, d2) {
+    return d1.getFullYear() === d2.getFullYear() &&
+          d1.getMonth() === d2.getMonth() &&
+          d1.getDate() === d2.getDate();
+  }
+
+  // Helper to compute day difference (ignoring time of day):
+  function daysBetween(d1, d2) {
+    // Zero-out times to compare only date portion
+    const day1 = new Date(d1.getFullYear(), d1.getMonth(), d1.getDate());
+    const day2 = new Date(d2.getFullYear(), d2.getMonth(), d2.getDate());
+    // 86400000 ms in a day
+    return Math.floor((day2 - day1) / 86400000);
   }
 
   function updateURLParam(key, value) {
