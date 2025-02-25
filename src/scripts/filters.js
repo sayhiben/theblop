@@ -3,6 +3,7 @@
   const filterSelect = document.getElementById('stateFilter');
   const dateSelect = document.getElementById('dateFilter');
   const eventCards = document.querySelectorAll('.event-card');
+  const dateGroups = document.querySelectorAll('.date-group');
   const noEventsMsg = document.getElementById('noEventsMessage');
 
   filterSelect.addEventListener('change', () => {
@@ -33,6 +34,11 @@
 
       card.style.display = (matchesState && matchesDate) ? 'block' : 'none';
       if (matchesState && matchesDate) visibleCount++;
+    });
+
+    dateGroups.forEach(group => {
+      const visibleEvents = group.querySelectorAll('.event-card:not([style*="display: none"])');
+      group.style.display = visibleEvents.length ? 'block' : 'none';
     });
 
     if (visibleCount === 0 && (stateValue !== 'ALL' || dateValue !== 'ALL')) {

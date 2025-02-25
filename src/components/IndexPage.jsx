@@ -1,5 +1,6 @@
 import React from 'react';
 import { EventCard } from './EventCard';
+import { humanizeDate } from '../tasks/parseDates';
 
 export function IndexPage({ futureEvents, grouped, allStates }) {
   // Get sorted date keys
@@ -13,7 +14,7 @@ export function IndexPage({ futureEvents, grouped, allStates }) {
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <link href="dist/styles.css" rel="stylesheet" />
       </head>
-      <body className="p-4 lg:p-8 bg-white text-gray-900 dark:bg-gray-900 dark:text-gray-100 font-sans">
+      <body className="p-4 lg:p-8 bg-stone-50 text-gray-900 dark:bg-gray-900 dark:text-gray-100 font-sans">
         <header className="mb-6">
           <h1 className="text-3xl font-bold mb-4">Upcoming Events</h1>
           {/* Filters */}
@@ -53,10 +54,10 @@ export function IndexPage({ futureEvents, grouped, allStates }) {
 
             return (
               <div className="date-group" key={dateKey}>
-                <h2 className="text-xl font-semibold my-4 border-b border-gray-300 pb-2 dark:border-gray-700">
-                  {dateKey}
+                <h2 className="sticky bg-stone-200 rounded-sm p-2 z-99 top-0 text-xl font-semibold my-4 border-b border-gray-300 dark:border-gray-700">
+                  {humanizeDate(dateKey)}
                 </h2>
-                <div className="grid grid-cols-1 gap-6 mt-4">
+                <div className="grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-4">
                   {eventsForThisDate.map(e => (
                     <EventCard key={e.UUID} event={e} dateKey={dateKey} />
                   ))}

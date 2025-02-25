@@ -30,3 +30,20 @@ export function isFutureEvent(dateStr) {
   const yesterday = dayjs().subtract(1, 'day').endOf('day');
   return eventDate.isAfter(yesterday);
 }
+
+export function humanizeDatetime(dateStr) {
+  const eventDate = parseEventDate(dateStr);
+  if (!eventDate) return '';
+  return eventDate.format('dddd, MMMM D, YYYY @ h:mm A');
+}
+
+export function humanizeDate(dateStr) {
+  const eventDate = parseEventDate(dateStr);
+  if (!eventDate) return '';
+  return eventDate.format('dddd, MMMM D, YYYY');
+}
+
+export function humanizeTime(timeStr) {
+  if (!timeStr) return '';
+  return dayjs(timeStr, 'h:mm A').format('h:mm A');
+}
