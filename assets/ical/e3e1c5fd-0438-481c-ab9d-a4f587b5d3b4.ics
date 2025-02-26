@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:4a4e8718-64e4-4201-829e-c94ae1ca1f41
+SEQUENCE:0
+DTSTAMP:20250226T003353Z
+DTSTART:20250228T000000Z
+SUMMARY:Federal Building Fridays
+LOCATION:915 Second Ave.\, Seattle\, WA
+DESCRIPTION:Shit's happening fast. Refuse to obey in advance NO compromisi
+ ng with fascists Stop the Trump / Musk coup Saving American democracy is u
+ p to us.\n\nFederal Building\, Seattle\, WA 98104
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=915+Second+A
+ ve.%2C+Seattle%2C+WA&zoom=15&basemap=roadmap
+ATTACH:https://theblop.org/assets/images/e3e1c5fd-0438-481c-ab9d-a4f587b5d
+ 3b4-thumb.jpg
+END:VEVENT
+END:VCALENDAR
