@@ -127,31 +127,31 @@ Description: ${event.Description}
 
             <div className='block items-center justify-between text-sm w-full p-5 bg-white dark:bg-gray-900 border-2 rounded-lg group border-neutral-200/70 dark:border-gray-800/70 text-neutral-600 dark:text-stone-200'>
               <div className="flex justify-start mb-2">
-                <div className="mr-2">🗓️</div>
+                <div className="mr-2" title="Date">🗓️</div>
                 <div>{displayDate}</div>
               </div>
               <div className="flex justify-start mb-2">
-                <div className="mr-2">️🕒</div>
+                <div className="mr-2" title="Start time">️🕒</div>
                 <div>{displayTime}</div>
               </div>
               {event.Address &&
                 <div className="flex justify-start mb-2 text-blue-600 dark:text-blue-400 hover:text-blue-800 dark:hover:text-blue-300">
-                  <div className="mr-2">📍</div>
+                  <div className="mr-2" title="Address">📍</div>
                   <div className="underline"><a href={mapUrl} rel="nofollow noreferer" target="_blank">{displayAddress}</a></div>
                 </div>}
               {event["Meeting Location"] &&
                 <div className="flex justify-start mb-2">
-                  <div className="mr-2">📝</div>
+                  <div className="mr-2" title="Meeting Location">📝</div>
                   <div>{event["Meeting Location"]}</div>
                 </div>}
               {linkElements.length > 0 &&
                 <div className="flex justify-start mb-2">
-                  <div className="mr-2">🔗</div>
+                  <div className="mr-2" title="Links">🔗</div>
                   <div>{linkElements}</div>
                 </div>}
               {event.Sponsors &&
                 <div className="flex justify-start mb-2">
-                  <div className="mr-2">﹫</div>
+                  <div className="mr-2" title="Organizations and Sponsors">👥</div>
                   <div>{event.Sponsors}</div>
                 </div>}
             </div>

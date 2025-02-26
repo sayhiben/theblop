@@ -107,7 +107,7 @@ function processEmails() {
         Logger.log('Extracted ' + links.length + ' link(s) from email body.');
 
         // Get attachments
-        const attachments = message.getAttachments({includeInlineImages: false});
+        const attachments = message.getAttachments({includeInlineImages: true});
         Logger.log('Found ' + attachments.length + ' attachment(s).');
 
         const images = [];
