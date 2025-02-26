@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:8e67a671-2aa6-4bcd-ad30-c220ebd6df5a
+SEQUENCE:0
+DTSTAMP:20250226T041525Z
+DTSTART:20250226T080000Z
+SUMMARY:Protest the White House and Congress!
+LOCATION:55 W Church St\, Martinsville\, VA
+DESCRIPTION:Join for a peaceful protest of the actions being taken by the 
+ White House and right-wing Congress Our congressional representative\, Mor
+ gan Griffith\, has scheduled a visit to Martinsville's City Hall. Let's ma
+ ke sure he hears our voice.\n\nCity Municipal Building
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=55+W+Church+
+ St%2C+Martinsville%2C+VA&zoom=15&basemap=roadmap
+ATTACH:https://theblop.org/assets/images/c74d131d-1310-4ae1-9520-7355e5a84
+ 9f5-thumb.jpg
+END:VEVENT
+END:VCALENDAR

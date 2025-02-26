@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:7ed422a5-9bb7-4d41-9f1e-4170aa15a1a4
+SEQUENCE:0
+DTSTAMP:20250226T041525Z
+DTSTART:20250304T080000Z
+SUMMARY:March 4 Liberty
+LOCATION:200 W Washington St\, Indianapolis\, IN
+DESCRIPTION:Unite against fascism and tyranny!\n\nStatehouse
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=200+W+Washin
+ gton+St%2C+Indianapolis%2C+IN&zoom=15&basemap=roadmap
+ATTACH:https://theblop.org/assets/images/3c518761-ec85-4fe1-9694-43773d082
+ 122-thumb.jpg
+END:VEVENT
+END:VCALENDAR

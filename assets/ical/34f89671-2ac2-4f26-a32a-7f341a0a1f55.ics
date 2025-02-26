@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:af1a3989-a797-4091-b04c-bd631a518326
+SEQUENCE:0
+DTSTAMP:20250226T041525Z
+DTSTART:20250304T080000Z
+SUMMARY:Protest @ Fischbach's
+LOCATION:2211 1st St S\, Willmar\, MN 56201-4249\, United States\, Willmar
+ \, Minnesota
+DESCRIPTION:DEFEND OUR DEMOCRACY. 50501: THE PEOPLES MOVEMENT. 50 STATES -
+  50 PROTESTS. NO KINGS - NO BILLIONAIRES.\n\n2211 1st St S\, Willmar\, MN 
+ 56201-4249\, United States
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=2211+1st+St+
+ S%2C+Willmar%2C+MN+56201-4249%2C+United+States%2C+Willmar%2C+Minnesota&zoo
+ m=15&basemap=roadmap
+ATTACH:https://theblop.org/assets/images/34f89671-2ac2-4f26-a32a-7f341a0a1
+ f55-thumb.jpg
+END:VEVENT
+END:VCALENDAR

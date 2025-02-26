@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:f7c62c19-7cee-44b1-bbf9-13f0a9f9740b
+SEQUENCE:0
+DTSTAMP:20250226T041525Z
+DTSTART:20250304T080000Z
+SUMMARY:Non-Partisan March to the Capitol
+LOCATION:Heritage Park\, Olympia\, WA
+DESCRIPTION:Join us for a peaceful\, non-partisan march in support of Amer
+ ican democracy.\n\nMeet at Heritage Park\, downtown Olympia
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Heritage+Par
+ k%2C+Olympia%2C+WA&zoom=15&basemap=roadmap
+ATTACH:https://theblop.org/assets/images/167fa7bd-ff3c-4aad-94a8-37c77822b
+ 9a8-thumb.jpg
+END:VEVENT
+END:VCALENDAR

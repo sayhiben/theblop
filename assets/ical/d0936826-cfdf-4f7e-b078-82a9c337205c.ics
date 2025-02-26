@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:699b8b6c-c3ec-4bb7-8265-f30bd71ecc0f
+SEQUENCE:0
+DTSTAMP:20250226T041525Z
+DTSTART:20250306T080000Z
+SUMMARY:Rally For Gender-Inclusive Rights
+LOCATION:MIT Student Center (84 Mass Ave)\, Cambridge\, MA
+DESCRIPTION:Join the MIT community in declaring that the rights of Women a
+ nd Gender Minorities WILL NOT BE ERASED\n\nOn the Steps of the Student Cen
+ ter
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=MIT+Student+
+ Center+%2884+Mass+Ave%29%2C+Cambridge%2C+MA&zoom=15&basemap=roadmap
+ATTACH:https://theblop.org/assets/images/d0936826-cfdf-4f7e-b078-82a9c3372
+ 05c-thumb.jpg
+END:VEVENT
+END:VCALENDAR

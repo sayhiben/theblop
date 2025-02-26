@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:902c5396-c2aa-4eb8-ab58-2b48f6d1eedf
+SEQUENCE:0
+DTSTAMP:20250226T041525Z
+DTSTART:20250301T080000Z
+SUMMARY:Defend our Constitution\, Save our Democracy!
+LOCATION:5081 N Oracle Rd\, Tucson\, AZ
+DESCRIPTION:A protest in front of the Tucson Tesla dealership against Trum
+ p and Musk's illegal actions. Ours is an action to defend our Constitution
+  and save our democracy. We want this is be the largest dealership protest
+  in the Nation\, aiming for 500+ protesters. Be a part of it and bring you
+ r friends and signs!!\n\nTucson\, AZ 85704
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=5081+N+Oracl
+ e+Rd%2C+Tucson%2C+AZ&zoom=15&basemap=roadmap
+ATTACH:https://theblop.org/assets/images/616c953f-cce3-44f0-b929-6c6cc4491
+ 815-thumb.jpg
+END:VEVENT
+END:VCALENDAR

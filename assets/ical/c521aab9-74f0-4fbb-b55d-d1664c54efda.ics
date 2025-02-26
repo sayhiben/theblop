@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:4b9d15f8-596a-4a90-aea2-50223200ad66
+SEQUENCE:0
+DTSTAMP:20250226T041525Z
+DTSTART:20250301T080000Z
+SUMMARY:No Kings Peaceful Protest
+LOCATION:Near the corner of 10th & Argonne\, Piedmont Park\, 
+DESCRIPTION:Protect our democracy from tyranny. Follow the signs.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Near+the+cor
+ ner+of+10th+%26+Argonne%2C+Piedmont+Park%2C+&zoom=15&basemap=roadmap
+ATTACH:https://theblop.org/assets/images/c521aab9-74f0-4fbb-b55d-d1664c54e
+ fda-thumb.jpg
+END:VEVENT
+END:VCALENDAR

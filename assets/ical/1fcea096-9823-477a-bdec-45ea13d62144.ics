@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:ba56fc0e-aa5d-4f95-a857-b2116f02e420
+SEQUENCE:0
+DTSTAMP:20250226T041525Z
+DTSTART:20250301T080000Z
+SUMMARY:Statewide Protest for Pride
+LOCATION:705 E Walnut St\, Columbia\, MO
+DESCRIPTION:Join us to create LGBTQ+ visibility and remind our government 
+ they cannot erase us!\n\nBoone County Courthouse Plaza
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=705+E+Walnut
+ +St%2C+Columbia%2C+MO&zoom=15&basemap=roadmap
+ATTACH:https://theblop.org/assets/images/1fcea096-9823-477a-bdec-45ea13d62
+ 144-thumb.jpg
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:b1b598ce-3da0-4805-9330-f528661c610a
+SEQUENCE:0
+DTSTAMP:20250226T041525Z
+DTSTART:20250304T080000Z
+SUMMARY:50501: The People's Movement
+LOCATION:316 N 26th St\, Billings\, MT
+DESCRIPTION:Unite against oppression & dictatorship!\n\nBillings\, MT
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=316+N+26th+S
+ t%2C+Billings%2C+MT&zoom=15&basemap=roadmap
+ATTACH:https://theblop.org/assets/images/92f17167-e525-4f88-82ac-4e55899f2
+ f6e-thumb.jpg
+END:VEVENT
+END:VCALENDAR

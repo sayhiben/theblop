@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:f9415fb4-9f8b-49fe-9150-af602ff3f7d4
+SEQUENCE:0
+DTSTAMP:20250226T041525Z
+DTSTART:20250304T080000Z
+SUMMARY:Tuesday\, March 4 @ 4 P.M. Washington D.C.
+LOCATION:1600 Pennsylvania Avenue NW\, Washington\, DC
+DESCRIPTION:On the day Trump addresses Congress\, join in protest in D.C. 
+ to declare: NO In the name of humanity\, we refuse to accept a fascist Ame
+ rica The Fascist Trump Regime Must Go!\n\nUnited States Capitol Building\,
+  National Mall
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=1600+Pennsyl
+ vania+Avenue+NW%2C+Washington%2C+DC&zoom=15&basemap=roadmap
+ATTACH:https://theblop.org/assets/images/5573b645-7cce-4a76-8f3b-b9c6409cf
+ 273-thumb.jpg
+END:VEVENT
+END:VCALENDAR

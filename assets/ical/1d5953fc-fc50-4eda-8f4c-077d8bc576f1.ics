@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:31e0af38-3e28-46a7-8e0e-aac69997467b
+SEQUENCE:0
+DTSTAMP:20250226T041525Z
+DTSTART:20250227T080000Z
+SUMMARY:Pro Democracy Protest
+LOCATION:2902 E Kimberly Rd\, Davenport\, IA 52807-2365\, United States
+DESCRIPTION:A peaceful pro-democracy rally.\n\nThe Golden Leaf Banquet Cen
+ ter
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=2902+E+Kimbe
+ rly+Rd%2C+Davenport%2C+IA+52807-2365%2C+United+States&zoom=15&basemap=road
+ map
+ATTACH:https://theblop.org/assets/images/1d5953fc-fc50-4eda-8f4c-077d8bc57
+ 6f1-thumb.jpg
+END:VEVENT
+END:VCALENDAR

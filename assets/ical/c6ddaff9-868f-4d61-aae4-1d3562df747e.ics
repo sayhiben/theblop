@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:0a0765c2-72db-4695-a512-6be6ec0f8f03
+SEQUENCE:0
+DTSTAMP:20250226T041525Z
+DTSTART:20250329T070000Z
+SUMMARY:United for Democracy
+LOCATION:500 Woodlane St\, Little Rock\, AR 72201
+DESCRIPTION:A compassionate call to action.\n\nArkansas State Capitol Buil
+ ding Sidewalk
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=500+Woodlane
+ +St%2C+Little+Rock%2C+AR+72201&zoom=15&basemap=roadmap
+ATTACH:https://theblop.org/assets/images/c6ddaff9-868f-4d61-aae4-1d3562df7
+ 47e-thumb.jpg
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:e3d25f7f-ab1d-45c9-b7a1-12a7c309972d
+SEQUENCE:0
+DTSTAMP:20250226T041525Z
+DTSTART:20250304T080000Z
+SUMMARY:March Against Oppression & Dictatorship
+LOCATION:1600 Pacific Highway\, Boston\, MA
+DESCRIPTION:Join us to make clear that fascism is not welcome here and tha
+ t we will resist Trump's immoral agenda!\n\nBoston Common\, Parkman Bandst
+ and
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=1600+Pacific
+ +Highway%2C+Boston%2C+MA&zoom=15&basemap=roadmap
+ATTACH:https://theblop.org/assets/images/d305e8ff-62c2-49b5-830f-8c83ded9a
+ 1bf-thumb.jpg
+END:VEVENT
+END:VCALENDAR
