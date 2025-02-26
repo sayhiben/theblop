@@ -62,7 +62,7 @@ export function IndexPage({ futureEvents, grouped, allStates }) {
                 <h2 className="sticky bg-stone-200 dark:bg-gray-600 rounded-sm p-2 z-89 sm:top-28 top-37 text-xl font-semibold my-4 border-b border-gray-300 dark:border-stone-800">
                   {humanizeDate(dateKey)}
                 </h2>
-                <div className="grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3">
+                <div className="grid grid-cols-1 gap-4 sm:grid-cols-2 md:grid-cols-2 lg:grid-cols-3 2xl:grid-cols-4">
                   {eventsForThisDate.map(e => (
                     <EventCard key={e.UUID} event={e} dateKey={dateKey} baseAssetPath='assets/images' />
                   ))}
