@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:792138c8-7ea8-46af-9af9-b77f213e4d6d
+SEQUENCE:0
+DTSTAMP:20250226T002145Z
+DTSTART:20250406T070000Z
+SUMMARY:Trams Day of Visibility
+LOCATION:Trams Day of Visibility\, London\, UK
+DESCRIPTION:An opportunity for trans+ people and their ally friends to hav
+ e a bit of a laugh on the best form of public transport (trams) protest by
+  visibly having a good time the week after trams day of visibility.\n\nMee
+ t at the front of Wimbledon station
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Trams+Day+of
+ +Visibility%2C+London%2C+UK&zoom=15&basemap=roadmap
+ATTACH:https://theblop.org/assets/images/df755871-431c-43bc-8708-b0de925b6
+ bea-thumb.jpg
+END:VEVENT
+END:VCALENDAR

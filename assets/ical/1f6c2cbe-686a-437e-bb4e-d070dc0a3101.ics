@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:3f0323d3-b301-4c2c-9379-67aaab4a960c
+SEQUENCE:0
+DTSTAMP:20250226T002145Z
+DTSTART:20250315T070000Z
+SUMMARY:M.A.G.A.
+LOCATION:19th Street & North University\, San Diego\, CA
+DESCRIPTION:Mexicans Ain't Going Anywhere\n\nTim Cole Memorial
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=19th+Street+
+ %26+North+University%2C+San+Diego%2C+CA&zoom=15&basemap=roadmap
+ATTACH:https://theblop.org/assets/images/1f6c2cbe-686a-437e-bb4e-d070dc0a3
+ 101-thumb.jpg
+END:VEVENT
+END:VCALENDAR

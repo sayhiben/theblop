@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:ee060e39-d672-4fea-b4dc-f7dffe0aaafb
+SEQUENCE:0
+DTSTAMP:20250226T002145Z
+DTSTART:20250301T080000Z
+SUMMARY:Statewide Protest for PRIDE
+LOCATION:1600 Pacific Highway\, Springfield\, MO
+DESCRIPTION:Missouri Friends\, join us to create LGBTQ+ visibility and rem
+ ind our government they cannot erase US!!\n\nWaterfront Park
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=1600+Pacific
+ +Highway%2C+Springfield%2C+MO&zoom=15&basemap=roadmap
+ATTACH:https://theblop.org/assets/images/6c62e82e-fc8b-444b-b9c1-3d5187ae3
+ 189-thumb.jpg
+END:VEVENT
+END:VCALENDAR

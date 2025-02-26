@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:fa7d224a-b8c4-4270-853b-6b4e398457f3
+SEQUENCE:0
+DTSTAMP:20250226T002145Z
+DTSTART:20250301T080000Z
+SUMMARY:Trans Unity Rally in DC - Sat 3/1 at 9:30am
+LOCATION:75 Pennsylvania Ave NW\, Washington\, D.C.\, DC
+DESCRIPTION:The Transgender and gender non conforming individuals and our 
+ allies The Transgender Unity Coalition (@transunitycoalition on socials) i
+ nvite the transgender community and our allies for the Transgender Unity R
+ ally in Washington\, D.C. on Saturday\, March 1st Show up and show out to 
+ send the message to our federal government and its officials that we will 
+ not be erased Please spread the information far and wide within your netwo
+ rks TUC Website: https://transunitycoalition.org\n\nU.S. Capitol
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=75+Pennsylva
+ nia+Ave+NW%2C+Washington%2C+D.C.%2C+DC&zoom=15&basemap=roadmap
+ATTACH:https://theblop.org/assets/images/959f0d2d-4864-48cb-816f-c88509725
+ 7aa-thumb.jpg
+END:VEVENT
+END:VCALENDAR

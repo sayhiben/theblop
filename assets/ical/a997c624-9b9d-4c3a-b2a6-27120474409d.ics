@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:afd1145a-ade4-4f70-b646-0a192c9057c8
+SEQUENCE:0
+DTSTAMP:20250226T002145Z
+DTSTART:20250304T080000Z
+SUMMARY:March for Liberty
+LOCATION:City Hall / Perry Square and State St\, Erie\, PA
+DESCRIPTION:Join us to say no to kings in America.\n\nErie City Hall / Per
+ ry Square and State Street
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=City+Hall+%2
+ F+Perry+Square+and+State+St%2C+Erie%2C+PA&zoom=15&basemap=roadmap
+ATTACH:https://theblop.org/assets/images/a997c624-9b9d-4c3a-b2a6-271204744
+ 09d-thumb.jpg
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:e3eb1416-ec72-4251-9fac-9080a34f17a2
+SEQUENCE:0
+DTSTAMP:20250226T002145Z
+DTSTART:20250307T080000Z
+SUMMARY:Stand Up for Science
+LOCATION:Philadelphia City Hall\, Philadelphia\, PA
+DESCRIPTION:Find your local rally site and other ways to get involved: sta
+ ndupforscience2025.org\n\n1400 John F. Kennedy Blvd.
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Philadelphia
+ +City+Hall%2C+Philadelphia%2C+PA&zoom=15&basemap=roadmap
+ATTACH:https://theblop.org/assets/images/a08a5b7e-b270-438b-b973-022e7b639
+ 284-thumb.jpg
+END:VEVENT
+END:VCALENDAR

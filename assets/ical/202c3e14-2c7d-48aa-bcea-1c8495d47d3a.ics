@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:864923e5-c2e9-4dbb-b72a-8ff3eef1711b
+SEQUENCE:0
+DTSTAMP:20250226T002145Z
+DTSTART:20250228T080000Z
+SUMMARY:March for Democracy
+LOCATION:County of Ventura Government Center\, Corner of Telegraph and Vic
+ toria\, Ventura\, CA
+DESCRIPTION:Join us to make clear that fascism is not welcome here and tha
+ t we will resist Trump's immoral agenda!\n\n11:00 AM - 2:00 PM
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=County+of+Ve
+ ntura+Government+Center%2C+Corner+of+Telegraph+and+Victoria%2C+Ventura%2C+
+ CA&zoom=15&basemap=roadmap
+ATTACH:https://theblop.org/assets/images/202c3e14-2c7d-48aa-bcea-1c8495d47
+ d3a-thumb.jpg
+END:VEVENT
+END:VCALENDAR

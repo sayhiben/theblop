@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:c2a7fbc1-6146-4f1e-b63a-a392b2e5928e
+SEQUENCE:0
+DTSTAMP:20250226T002145Z
+DTSTART:20250301T080000Z
+SUMMARY:Statewide Protest for PRIDE
+LOCATION:120 S. Boonville Ave.\, Springfield\, MO
+DESCRIPTION:Join us to fill the streets of Missouri with LGBTQ+ visibility
+  and stand tall against erasure.\n\nSpringfield\, MO
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=120+S.+Boonv
+ ille+Ave.%2C+Springfield%2C+MO&zoom=15&basemap=roadmap
+ATTACH:https://theblop.org/assets/images/20943f22-441e-4803-8ab7-6532622aa
+ 112-thumb.jpg
+END:VEVENT
+END:VCALENDAR

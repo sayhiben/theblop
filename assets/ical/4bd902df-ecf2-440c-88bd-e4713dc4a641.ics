@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:f1bb4fb1-82db-4305-ac06-9c52e0419f31
+SEQUENCE:0
+DTSTAMP:20250226T002145Z
+DTSTART:20250304T080000Z
+SUMMARY:Double Demonstration
+LOCATION:Minnesota State Capitol Building\, St. Paul\, MN
+DESCRIPTION:Join us to uphold the constitution\, end executive overreach a
+ nd end billionaire oligarchy peacefully.\n\n@Noon
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Minnesota+St
+ ate+Capitol+Building%2C+St.+Paul%2C+MN&zoom=15&basemap=roadmap
+ATTACH:https://theblop.org/assets/images/4bd902df-ecf2-440c-88bd-e4713dc4a
+ 641-thumb.jpg
+END:VEVENT
+END:VCALENDAR

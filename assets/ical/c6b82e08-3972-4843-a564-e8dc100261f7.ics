@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:4797347a-d9ff-41c8-afb6-7d487687793e
+SEQUENCE:0
+DTSTAMP:20250226T002145Z
+DTSTART:20250304T080000Z
+SUMMARY:50501: THE PEOPLE'S MOVEMENT
+LOCATION:400 High Street\, Jackson\, MS
+DESCRIPTION:UNITE AGAINST OPPRESSION & DICTATORSHIP!\n\nMississippi State 
+ Capitol
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=400+High+Str
+ eet%2C+Jackson%2C+MS&zoom=15&basemap=roadmap
+ATTACH:https://theblop.org/assets/images/c6b82e08-3972-4843-a564-e8dc10026
+ 1f7-thumb.jpg
+END:VEVENT
+END:VCALENDAR

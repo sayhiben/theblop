@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:649afec8-289a-45e7-87f6-37e594c95efa
+SEQUENCE:0
+DTSTAMP:20250226T002145Z
+DTSTART:20250308T080000Z
+SUMMARY:Peaceful Plaza Protest
+LOCATION:Mill Creek Park\, Kansas City\, MO
+DESCRIPTION:Join us as we take a stand for LGBTQ+ rights\, women's rights\
+ , abortion access\, immigration justice\, and more. Our voices are stronge
+ r together and now is the time to demand change.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Mill+Creek+P
+ ark%2C+Kansas+City%2C+MO&zoom=15&basemap=roadmap
+ATTACH:https://theblop.org/assets/images/554b2aa9-de8f-4a7d-beaf-d0b5be784
+ 2c7-thumb.jpg
+END:VEVENT
+END:VCALENDAR

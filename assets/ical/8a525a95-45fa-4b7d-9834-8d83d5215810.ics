@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:8083890a-0115-4d11-865b-c05c86dc1c2a
+SEQUENCE:0
+DTSTAMP:20250226T002145Z
+DTSTART:20250304T080000Z
+SUMMARY:We the People Say No to Kings in America
+LOCATION:200 S Bayshore Dr. Coos Bay\, OR 97420
+DESCRIPTION:Join us to make clear that fascism is not welcome here and tha
+ t we will resist Trump's immoral agenda.\n\nCoos Bay Boardwalk
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=200+S+Baysho
+ re+Dr.+Coos+Bay%2C+OR+97420&zoom=15&basemap=roadmap
+ATTACH:https://theblop.org/assets/images/8a525a95-45fa-4b7d-9834-8d83d5215
+ 810-thumb.jpg
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:f63279c7-b172-4a1d-930d-d7fb83f29570
+SEQUENCE:0
+DTSTAMP:20250226T002145Z
+DTSTART:20250301T080000Z
+SUMMARY:Protest at Tesla Dealerships of Elon Musk's Attempted Government T
+ akeover
+LOCATION:400 Hitchcock Way\, Santa Barbara\, CA 93105
+DESCRIPTION:Gather on sidewalks only in front of dealership with signs. Ca
+ n't block sidewalks\, roadways or driveways\n\nTesla Santa Barbara
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=400+Hitchcoc
+ k+Way%2C+Santa+Barbara%2C+CA+93105&zoom=15&basemap=roadmap
+ATTACH:https://theblop.org/assets/images/1de3195f-202e-4b65-ba4c-2dd97624e
+ 48b-thumb.jpg
+END:VEVENT
+END:VCALENDAR

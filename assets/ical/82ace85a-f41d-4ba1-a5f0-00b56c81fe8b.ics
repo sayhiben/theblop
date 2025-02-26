@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:b2d4326a-f906-499c-9874-e181b6ce5cf8
+SEQUENCE:0
+DTSTAMP:20250226T002145Z
+DTSTART:20250304T080000Z
+SUMMARY:50501: THE PEOPLE'S MOVEMENT
+LOCATION:San Francisco City Hall\, San Francisco\, CA
+DESCRIPTION:UNITE AGAINST OPPRESSION & DICTATORSHIP!\n\nSan Francisco City
+  Hall
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=San+Francisc
+ o+City+Hall%2C+San+Francisco%2C+CA&zoom=15&basemap=roadmap
+ATTACH:https://theblop.org/assets/images/82ace85a-f41d-4ba1-a5f0-00b56c81f
+ e8b-thumb.jpg
+END:VEVENT
+END:VCALENDAR

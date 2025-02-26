@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:dab079fc-8c04-473b-903d-922224b7c50e
+SEQUENCE:0
+DTSTAMP:20250226T002145Z
+DTSTART:20250226T080000Z
+SUMMARY:Protest Charlie Kirk
+LOCATION:University of Florida\, Gainesville\, FL
+DESCRIPTION:Join us to debate students. We don't know the time or exact lo
+ cation yet.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=University+o
+ f+Florida%2C+Gainesville%2C+FL&zoom=15&basemap=roadmap
+ATTACH:https://theblop.org/assets/images/711de800-53d0-4ede-bc58-27671a9ce
+ e38-thumb.jpg
+END:VEVENT
+END:VCALENDAR

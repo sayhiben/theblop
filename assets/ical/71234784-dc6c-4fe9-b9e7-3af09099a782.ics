@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:1fa69183-9820-4df4-a3d8-ddba4fe8bb19
+SEQUENCE:0
+DTSTAMP:20250226T002145Z
+DTSTART:20250304T080000Z
+SUMMARY:Peaceful March for Democracy
+LOCATION:The Capitol Steps\, Harrisburg\, PA
+DESCRIPTION:Join us to make clear that fascism is not welcome here and tha
+ t we will resist Trump's immoral agenda.\n\nCity Island to the Capitol Ste
+ ps and Back
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=The+Capitol+
+ Steps%2C+Harrisburg%2C+PA&zoom=15&basemap=roadmap
+ATTACH:https://theblop.org/assets/images/71234784-dc6c-4fe9-b9e7-3af09099a
+ 782-thumb.jpg
+END:VEVENT
+END:VCALENDAR

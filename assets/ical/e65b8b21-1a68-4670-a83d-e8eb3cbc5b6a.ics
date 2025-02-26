@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:1bd211d9-8ebc-4550-be63-04172a78eee8
+SEQUENCE:0
+DTSTAMP:20250226T002145Z
+DTSTART:20250304T080000Z
+SUMMARY:Rally for Reproductive Freedom
+LOCATION:2 East Main Street\, Madison\, WI
+DESCRIPTION:The freedom to make decisions about our own bodies is on the b
+ allot.\n\nWisconsin State Capitol
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=2+East+Main+
+ Street%2C+Madison%2C+WI&zoom=15&basemap=roadmap
+ATTACH:https://theblop.org/assets/images/e65b8b21-1a68-4670-a83d-e8eb3cbc5
+ b6a-thumb.jpg
+END:VEVENT
+END:VCALENDAR

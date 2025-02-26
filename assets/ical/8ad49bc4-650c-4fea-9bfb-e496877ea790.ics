@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:67a99743-2469-4cd8-9532-a5a4106a3a58
+SEQUENCE:0
+DTSTAMP:20250226T002145Z
+DTSTART:20250304T080000Z
+SUMMARY:March for Liberty
+LOCATION:Lincoln Memorial leading up to Trump's Congressional Address at t
+ he Capitol at 9PM\, Washington D.C.\, DC
+DESCRIPTION:We the People say no to kings in America. Come by car\, bus\, 
+ train\, carpool. We are stronger together.\n\nThe DC Capitol
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Lincoln+Memo
+ rial+leading+up+to+Trump%27s+Congressional+Address+at+the+Capitol+at+9PM%2
+ C+Washington+D.C.%2C+DC&zoom=15&basemap=roadmap
+ATTACH:https://theblop.org/assets/images/8ad49bc4-650c-4fea-9bfb-e496877ea
+ 790-thumb.jpg
+END:VEVENT
+END:VCALENDAR

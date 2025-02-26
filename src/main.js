@@ -9,6 +9,7 @@ import { parseCSV } from './tasks/parseCsv.js';
 import { parseEventDate, isFutureEvent } from './tasks/parseDates.js';
 import { downloadImageIfNeeded, resizeImageIfNeeded } from './tasks/downloadImages.js';
 import { generatePages } from './tasks/generatePages.js';
+import { createCalendarEventIfNeeded } from './tasks/createCalendarEvents.js';
 
 // Convert import.meta.url to __dirname style usage
 const __filename = fileURLToPath(import.meta.url);
@@ -24,6 +25,7 @@ if (!CSV_URL) {
 const EVENTS_DIR = path.join(__dirname, '..', 'events');
 const INDEX_HTML = path.join(__dirname, '..', 'index.html');
 const IMAGES_DIR = path.join(__dirname, '..', 'assets', 'images');
+const ICAL_DIR = path.join(__dirname, '..', 'assets', 'ical');
 
 // Main build function
 (async function main() {
@@ -83,7 +85,12 @@ const IMAGES_DIR = path.join(__dirname, '..', 'assets', 'images');
       }
     }
 
-    // 7) Generate pages (index + event pages)
+    // 7) Generate calendar events
+    for (const event of rows) {
+      createCalendarEventIfNeeded(event, ICAL_DIR)
+    }
+
+    // 8) Generate pages (index + event pages)
     await generatePages({
       allEvents: rows,
       futureEvents,

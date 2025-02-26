@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:face56d1-1009-4c91-95c9-d58e44e89cf0
+SEQUENCE:0
+DTSTAMP:20250226T002145Z
+DTSTART:20250304T080000Z
+SUMMARY:Defend Democracy
+LOCATION:1600 Pacific Highway\, Cincinnati\, OH
+DESCRIPTION:Join us to make clear that fascism is not welcome here and tha
+ t we will resist Trump's immoral agenda.\n\nCincinnati City Hall
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=1600+Pacific
+ +Highway%2C+Cincinnati%2C+OH&zoom=15&basemap=roadmap
+ATTACH:https://theblop.org/assets/images/d412a171-51ec-48a7-9f18-7f3a6a2af
+ 6ca-thumb.jpg
+END:VEVENT
+END:VCALENDAR

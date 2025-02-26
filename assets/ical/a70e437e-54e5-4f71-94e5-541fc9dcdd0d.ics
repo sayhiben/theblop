@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:11d9be48-8e3a-44f4-b6f2-853dc8aab2b8
+SEQUENCE:0
+DTSTAMP:20250226T002145Z
+DTSTART:20250304T080000Z
+SUMMARY:50 States Protest March 4th
+LOCATION:State Capitol\, Olympia\, WA
+DESCRIPTION:Join us to protest at your state capitol.\n\nState Capitol\, O
+ lympia\, WA
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=State+Capito
+ l%2C+Olympia%2C+WA&zoom=15&basemap=roadmap
+ATTACH:https://theblop.org/assets/images/a70e437e-54e5-4f71-94e5-541fc9dcd
+ d0d-thumb.jpg
+END:VEVENT
+END:VCALENDAR

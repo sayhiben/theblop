@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:24cc7c2d-9ae0-430d-a977-90fe22d087e9
+SEQUENCE:0
+DTSTAMP:20250226T002145Z
+DTSTART:20250304T080000Z
+SUMMARY:50501: The People's Movement Unite Against Oppression & Dictatorsh
+ ip!
+LOCATION:Henry M Jackson Federal Building\, Seattle\, WA
+DESCRIPTION:Join us to make clear that fascism is not welcome here and tha
+ t we will resist Trump's immoral agenda.\n\nHenry M Jackson Federal Buildi
+ ng\, Seattle\, Washington
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Henry+M+Jack
+ son+Federal+Building%2C+Seattle%2C+WA&zoom=15&basemap=roadmap
+ATTACH:https://theblop.org/assets/images/c047b770-e850-4d1b-b824-95f14f04c
+ 6f4-thumb.jpg
+END:VEVENT
+END:VCALENDAR

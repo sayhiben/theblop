@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:b364b961-0742-48aa-8508-549e9634d023
+SEQUENCE:0
+DTSTAMP:20250226T002145Z
+DTSTART:20250227T080000Z
+SUMMARY:Get Out The Blackout
+LOCATION:405 East 8th Ave.\, Springfield\, OR
+DESCRIPTION:Pre-Economic Blackout Rally to remind neighbors of the Februar
+ y 28th Economic Blackout. We'll buy nothing to protest the billionaire tak
+ eover of the U.S. government.\n\nFederal Courthouse
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=405+East+8th
+ +Ave.%2C+Springfield%2C+OR&zoom=15&basemap=roadmap
+ATTACH:https://theblop.org/assets/images/e69953d6-be36-4b0e-a9fb-8673b209c
+ 436-thumb.jpg
+END:VEVENT
+END:VCALENDAR

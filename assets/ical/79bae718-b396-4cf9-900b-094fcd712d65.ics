@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:c3fdd65c-7252-42ec-a060-1c15c5bd4352
+SEQUENCE:0
+DTSTAMP:20250226T002145Z
+DTSTART:20250304T080000Z
+SUMMARY:March Against Monarchy
+LOCATION:1600 Pacific Highway\, Greenville\, SC
+DESCRIPTION:Join us on Tuesday\, March 4th at Greenville City Hall for a P
+ ERMIT-APPROVED protest against Trump's power grab.\n\nCity Hall
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=1600+Pacific
+ +Highway%2C+Greenville%2C+SC&zoom=15&basemap=roadmap
+ATTACH:https://theblop.org/assets/images/79bae718-b396-4cf9-900b-094fcd712
+ d65-thumb.jpg
+END:VEVENT
+END:VCALENDAR

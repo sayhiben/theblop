@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:935195f2-4544-445f-99bd-af4f5b989895
+SEQUENCE:0
+DTSTAMP:20250226T002145Z
+DTSTART:20250304T080000Z
+SUMMARY:March 4th The People's Movement
+LOCATION:Pine & Carlsbad Blvd. @ Noon-2 PM Next to Harbor Fish
+DESCRIPTION:Join us to make clear that fascism is not welcome here and tha
+ t we will resist Trump's immoral agenda.\n\nPine & Carlsbad Blvd. @ Noon-2
+  PM Next to Harbor Fish
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Pine+%26+Car
+ lsbad+Blvd.+%40+Noon-2+PM+Next+to+Harbor+Fish&zoom=15&basemap=roadmap
+ATTACH:https://theblop.org/assets/images/33698631-cb90-4015-9840-51384752e
+ 838-thumb.jpg
+END:VEVENT
+END:VCALENDAR

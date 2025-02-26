@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:6dc0f3fd-a703-442f-b01a-5b8baa0e4cbb
+SEQUENCE:0
+DTSTAMP:20250226T002145Z
+DTSTART:20250301T080000Z
+SUMMARY:La Resistencia Day
+LOCATION:1623 East J St.\, Tacoma\, WA
+DESCRIPTION:Help us amplify the voices of those detained inside NWDC and l
+ et them know that we are here to listen to them!\n\nTacoma\, WA 98405
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=1623+East+J+
+ St.%2C+Tacoma%2C+WA&zoom=15&basemap=roadmap
+ATTACH:https://theblop.org/assets/images/4a75899e-26f1-4c8f-a229-5cbe25721
+ 327-thumb.jpg
+END:VEVENT
+END:VCALENDAR

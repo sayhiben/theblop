@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:e7e5af7b-cb58-43a7-b998-871c149dba9d
+SEQUENCE:0
+DTSTAMP:20250226T002145Z
+DTSTART:20250301T080000Z
+SUMMARY:March and Rally @ 'Iolani Palace
+LOCATION:1600 Washington Ave\, Honolulu\, HI
+DESCRIPTION:Bring a lei to honor the late U.S. Rep. Patsy Mink – the emb
+ odiment of the values we in Hawaiʻi hold dear.\n\nIolani Palace
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=1600+Washing
+ ton+Ave%2C+Honolulu%2C+HI&zoom=15&basemap=roadmap
+ATTACH:https://theblop.org/assets/images/a91f5393-e64a-4bc8-9823-63744b58f
+ 636-thumb.jpg
+END:VEVENT
+END:VCALENDAR

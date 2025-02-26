@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:53cce5ba-f87d-4c53-baa7-c9bb2e46ebc9
+SEQUENCE:0
+DTSTAMP:20250226T002145Z
+DTSTART:20250301T080000Z
+SUMMARY:Anti-Musk Peaceful Protest
+LOCATION:2 S Marshall Rd\, Superior\, CO 80027
+DESCRIPTION:Join us to make clear that fascism is not welcome here and tha
+ t we will resist Trump's immoral agenda.\n\nTesla Dealership
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=2+S+Marshall
+ +Rd%2C+Superior%2C+CO+80027&zoom=15&basemap=roadmap
+ATTACH:https://theblop.org/assets/images/99b3223a-53e8-40a5-85f0-76ba8c371
+ 7c0-thumb.jpg
+END:VEVENT
+END:VCALENDAR

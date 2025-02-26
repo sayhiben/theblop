@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:4a370135-a709-4d57-8a32-4a6f27fe1c0a
+SEQUENCE:0
+DTSTAMP:20250226T002145Z
+DTSTART:20250309T080000Z
+SUMMARY:Fort Worth Mega March
+LOCATION:100 Fort Worth Trail\, Fort worth\, TX\, 76102
+DESCRIPTION:Join us to make clear that fascism is not welcome here and tha
+ t we will resist Trump's immoral agenda.\n\nFort Worth City Hall
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=100+Fort+Wor
+ th+Trail%2C+Fort+worth%2C+TX%2C+76102&zoom=15&basemap=roadmap
+ATTACH:https://theblop.org/assets/images/cecd20e7-da1e-48b9-8c83-d7d87955d
+ 536-thumb.jpg
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:7c8fb44f-f384-4ec3-b39c-b540c50116c2
+SEQUENCE:0
+DTSTAMP:20250226T002145Z
+DTSTART:20250304T080000Z
+SUMMARY:Trumping Tyranny Protest
+LOCATION:Michigan State Capitol\, Lansing\, MI
+DESCRIPTION:Protesting against Donald Trump's abuse of power and demanding
+  he be held accountable for his actions.\n\nMichigan State Capitol
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Michigan+Sta
+ te+Capitol%2C+Lansing%2C+MI&zoom=15&basemap=roadmap
+ATTACH:https://theblop.org/assets/images/cb7506ed-b0b0-4935-9831-231d45cc5
+ 53f-thumb.jpg
+END:VEVENT
+END:VCALENDAR

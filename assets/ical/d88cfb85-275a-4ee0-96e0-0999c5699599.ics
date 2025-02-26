@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:2dd7cd3c-7db4-45b0-932c-10dc6c84fe92
+SEQUENCE:0
+DTSTAMP:20250226T002145Z
+DTSTART:20250304T080000Z
+SUMMARY:Saving Our Union
+LOCATION:Boston Common\, Parkman Bandstand
+DESCRIPTION:Unite against oppression & dictatorship!\n\nParkman Bandstand
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Boston+Commo
+ n%2C+Parkman+Bandstand&zoom=15&basemap=roadmap
+ATTACH:https://theblop.org/assets/images/d88cfb85-275a-4ee0-96e0-0999c5699
+ 599-thumb.jpg
+END:VEVENT
+END:VCALENDAR

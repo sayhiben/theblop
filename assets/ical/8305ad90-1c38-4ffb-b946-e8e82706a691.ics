@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:0701c3e4-83bd-4cd8-8f9c-9ef607e15992
+SEQUENCE:0
+DTSTAMP:20250226T002145Z
+DTSTART:20250304T080000Z
+SUMMARY:National Day of Protest
+LOCATION:500 E. 4th Ave.\, Eugene\, OR
+DESCRIPTION:Join us!\n\nEugene City Hall
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=500+E.+4th+A
+ ve.%2C+Eugene%2C+OR&zoom=15&basemap=roadmap
+ATTACH:https://theblop.org/assets/images/8305ad90-1c38-4ffb-b946-e8e82706a
+ 691-thumb.jpg
+END:VEVENT
+END:VCALENDAR

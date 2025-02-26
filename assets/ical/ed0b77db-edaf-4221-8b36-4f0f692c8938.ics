@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:d58a3a33-c5de-44b4-97b0-9c24ff59fed9
+SEQUENCE:0
+DTSTAMP:20250226T002145Z
+DTSTART:20250301T080000Z
+SUMMARY:No Kings Peaceful Protest
+LOCATION:Piedmont Park\, near the corner of 10th & Argonne\, Atlanta\, GA
+DESCRIPTION:Protect our democracy from tyranny!\n\nPiedmont Park
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Piedmont+Par
+ k%2C+near+the+corner+of+10th+%26+Argonne%2C+Atlanta%2C+GA&zoom=15&basemap=
+ roadmap
+ATTACH:https://theblop.org/assets/images/ed0b77db-edaf-4221-8b36-4f0f692c8
+ 938-thumb.jpg
+END:VEVENT
+END:VCALENDAR

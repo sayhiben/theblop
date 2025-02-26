@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:ca4a682a-e64f-4713-8b9f-951f0c30b5f9
+SEQUENCE:0
+DTSTAMP:20250226T002145Z
+DTSTART:20250301T080000Z
+SUMMARY:Transgender Unity Rally
+LOCATION:75 Pennsylvania Ave NW\, Washington\, DC
+DESCRIPTION:Join us to make clear that fascism is not welcome here and tha
+ t we will resist Trump's immoral agenda.\n\nU.S. Capitol
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=75+Pennsylva
+ nia+Ave+NW%2C+Washington%2C+DC&zoom=15&basemap=roadmap
+ATTACH:https://theblop.org/assets/images/f6ba955e-6249-4c40-8482-8c57b3edd
+ bcc-thumb.jpg
+END:VEVENT
+END:VCALENDAR

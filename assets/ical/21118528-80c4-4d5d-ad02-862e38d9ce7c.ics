@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:ea66e0e4-3f27-4c13-8ecd-33222ee3b5d7
+SEQUENCE:0
+DTSTAMP:20250226T002145Z
+DTSTART:20250227T080000Z
+SUMMARY:Protest Charlie Kirk
+LOCATION:University of Florida Plaza of the Americas\, Gainesville\, FL
+DESCRIPTION:Join us to reject hate and bigotry. Gainesville Rejects Hate.\
+ n\nUniversity of Florida\, UF Plaza of the Americas
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=University+o
+ f+Florida+Plaza+of+the+Americas%2C+Gainesville%2C+FL&zoom=15&basemap=roadm
+ ap
+ATTACH:https://theblop.org/assets/images/21118528-80c4-4d5d-ad02-862e38d9c
+ e7c-thumb.jpg
+END:VEVENT
+END:VCALENDAR

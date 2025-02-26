@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:031b9994-4163-4bd6-99a5-87afcc306ebf
+SEQUENCE:0
+DTSTAMP:20250226T002145Z
+DTSTART:20250301T080000Z
+SUMMARY:ICE Protest
+LOCATION:RIGHT PARK\, DODGE CITY KANSAS 67801\, Dodge City\, KS
+DESCRIPTION:A peaceful protest to share stories and families' experiences 
+ against fascism\, human rights violations\, racial profiling\, and hateful
+  rhetoric.\n\nRIGHT PARK
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=RIGHT+PARK%2
+ C+DODGE+CITY+KANSAS+67801%2C+Dodge+City%2C+KS&zoom=15&basemap=roadmap
+ATTACH:https://theblop.org/assets/images/a164dad5-568f-4b1f-be62-f1b5137e3
+ 70d-thumb.jpg
+END:VEVENT
+END:VCALENDAR

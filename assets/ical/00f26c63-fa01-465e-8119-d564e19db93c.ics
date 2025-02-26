@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:f4b44455-5dbb-495b-8455-707ddf5bb3cf
+SEQUENCE:0
+DTSTAMP:20250226T002145Z
+DTSTART:20250227T080000Z
+SUMMARY:No Deportations\, ICE off our campus!
+LOCATION:50th & Fowler\, San Francisco\, CA
+DESCRIPTION:Join us in a rally for National Week of Action in solidarity w
+ ith students walking out of school across the country to protest Trump's a
+ ttacks on immigrants\, join us for a rally Thursday Feb 27th at 2 pm at th
+ e corner of 50th and Fowler\n\nUniversity of California San Francisco
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=50th+%26+Fow
+ ler%2C+San+Francisco%2C+CA&zoom=15&basemap=roadmap
+ATTACH:https://theblop.org/assets/images/00f26c63-fa01-465e-8119-d564e19db
+ 93c-thumb.jpg
+END:VEVENT
+END:VCALENDAR

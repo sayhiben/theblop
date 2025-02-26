@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:361af19b-50f6-458b-997b-069150e7000a
+SEQUENCE:0
+DTSTAMP:20250226T002145Z
+DTSTART:20250228T080000Z
+SUMMARY:Ongoing Friday Not My President protest at College & Ashby
+LOCATION:College ave. at Ashby Berkeley CA
+DESCRIPTION:Join us to make clear that fascism is not welcome here and tha
+ t we will resist Trump's immoral agenda.\n\nBerkeley\, CA 94705
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=College+ave.
+ +at+Ashby+Berkeley+CA&zoom=15&basemap=roadmap
+ATTACH:https://theblop.org/assets/images/ff579cba-44d2-48f1-97d5-6fce718cf
+ a97-thumb.jpg
+END:VEVENT
+END:VCALENDAR

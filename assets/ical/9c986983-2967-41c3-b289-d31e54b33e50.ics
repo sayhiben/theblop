@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:ffcbe5ff-5c88-497a-8be6-edc66c5b7a22
+SEQUENCE:0
+DTSTAMP:20250226T002145Z
+DTSTART:20250301T080000Z
+SUMMARY:50501 No Kings in America Protest
+LOCATION:125 W State Street\, Trenton\, NJ 08608
+DESCRIPTION:Join us to protect democracy!\n\nTrenton State House
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=125+W+State+
+ Street%2C+Trenton%2C+NJ+08608&zoom=15&basemap=roadmap
+ATTACH:https://theblop.org/assets/images/9c986983-2967-41c3-b289-d31e54b33
+ e50-thumb.jpg
+END:VEVENT
+END:VCALENDAR

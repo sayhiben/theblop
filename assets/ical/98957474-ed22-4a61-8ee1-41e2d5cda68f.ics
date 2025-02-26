@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:1446bb66-df18-49b5-852c-4add59e09f4c
+SEQUENCE:0
+DTSTAMP:20250226T002145Z
+DTSTART:20250304T080000Z
+SUMMARY:50501: The People's Movement Unite Against Oppression & Dictatorsh
+ ip!
+LOCATION:1717 Pacific Ave\, Tacoma\, WA
+DESCRIPTION:Join us to make clear that fascism is not welcome here and tha
+ t we will resist Trump's immoral agenda!\n\nUnion Station
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=1717+Pacific
+ +Ave%2C+Tacoma%2C+WA&zoom=15&basemap=roadmap
+ATTACH:https://theblop.org/assets/images/98957474-ed22-4a61-8ee1-41e2d5cda
+ 68f-thumb.jpg
+END:VEVENT
+END:VCALENDAR

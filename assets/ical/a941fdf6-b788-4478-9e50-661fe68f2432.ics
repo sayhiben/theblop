@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:99fc6b81-29ec-4b13-bb96-49e005792b00
+SEQUENCE:0
+DTSTAMP:20250226T002145Z
+DTSTART:20250304T080000Z
+SUMMARY:Pensacola Fat Tuesday Protest
+LOCATION:50 N Palafox St\, Pensacola\, FL
+DESCRIPTION:Join us to make clear that fascism is not welcome here and tha
+ t we will resist Trump's immoral agenda!\n\nMLK JR BUST
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=50+N+Palafox
+ +St%2C+Pensacola%2C+FL&zoom=15&basemap=roadmap
+ATTACH:https://theblop.org/assets/images/a941fdf6-b788-4478-9e50-661fe68f2
+ 432-thumb.jpg
+END:VEVENT
+END:VCALENDAR

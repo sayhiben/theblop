@@ -1,0 +1,1 @@
+const TOOLTIP_DELAY=1500;export function showTooltip(t,e){const o=document.createElement("div");o.className="tooltip transition delay-150 duration-1500 rounded-xl bg-gray-800 text-white text-sm px-2 py-1 absolute z-99",o.textContent=e,t.appendChild(o),setTimeout((()=>{o.remove()}),1500)}

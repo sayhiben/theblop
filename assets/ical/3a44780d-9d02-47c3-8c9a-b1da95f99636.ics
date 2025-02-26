@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:c2206c9e-80a3-4716-a300-0479556a0490
+SEQUENCE:0
+DTSTAMP:20250226T002145Z
+DTSTART:20250304T080000Z
+SUMMARY:March for Democracy
+LOCATION:12 Noon Downtown\, Sacramento\, CA
+DESCRIPTION:We the people said no kings in America.\n\nRoute to be announc
+ ed soon
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=12+Noon+Down
+ town%2C+Sacramento%2C+CA&zoom=15&basemap=roadmap
+ATTACH:https://theblop.org/assets/images/3a44780d-9d02-47c3-8c9a-b1da95f99
+ 636-thumb.jpg
+END:VEVENT
+END:VCALENDAR

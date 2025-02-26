@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:8b7571bd-50cd-4158-b0ff-88cd461d6ad0
+SEQUENCE:0
+DTSTAMP:20250226T002145Z
+DTSTART:20250304T080000Z
+SUMMARY:March 4 Democracy
+LOCATION:County of Ventura Government Center\, Corner of Telegraph and Vic
+ toria\, Ventura\, CA
+DESCRIPTION:Bring signs and American flags for a peaceful protest!\n\n11:0
+ 0 AM - 2:00 PM
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=County+of+Ve
+ ntura+Government+Center%2C+Corner+of+Telegraph+and+Victoria%2C+Ventura%2C+
+ CA&zoom=15&basemap=roadmap
+ATTACH:https://theblop.org/assets/images/ebc156c5-2b31-4456-a0ce-800ef9ef7
+ 0b4-thumb.jpg
+END:VEVENT
+END:VCALENDAR

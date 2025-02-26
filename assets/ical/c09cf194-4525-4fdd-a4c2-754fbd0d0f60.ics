@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:3b4d8102-57a0-4e90-bf69-3374863a858a
+SEQUENCE:0
+DTSTAMP:20250226T002145Z
+DTSTART:20250308T080000Z
+SUMMARY:Rally & March for Drag
+LOCATION:500 8th St SE\, Washington\, DC 20003
+DESCRIPTION:Protest the hostile Trump takeover of The Kennedy Center Come 
+ as you are In drag or otherwise Allies welcome\, babes!\n\nWashington Circ
+ le
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=500+8th+St+S
+ E%2C+Washington%2C+DC+20003&zoom=15&basemap=roadmap
+ATTACH:https://theblop.org/assets/images/c09cf194-4525-4fdd-a4c2-754fbd0d0
+ f60-thumb.jpg
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:0366c196-06a1-4859-a827-f30de82066f9
+SEQUENCE:0
+DTSTAMP:20250226T002145Z
+DTSTART:20250309T080000Z
+SUMMARY:Belvidere Community Rally
+LOCATION:Corner of Pearl St. & Chrysler Drive\, Orange County\, CA
+DESCRIPTION:A community rally to support the immigrant community\, featuri
+ ng a Fiesta Market with flags\, posters & banners.\n\nBelvidere Community 
+ Fiesta Market
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Corner+of+Pe
+ arl+St.+%26+Chrysler+Drive%2C+Orange+County%2C+CA&zoom=15&basemap=roadmap
+ATTACH:https://theblop.org/assets/images/f63701e2-ffe1-4b09-8b52-3bcd9da6e
+ f62-thumb.jpg
+END:VEVENT
+END:VCALENDAR

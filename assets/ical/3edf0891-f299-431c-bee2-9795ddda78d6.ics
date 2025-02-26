@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:e45e6f97-16bc-4ab7-bf1a-577e79dee8d9
+SEQUENCE:0
+DTSTAMP:20250226T002145Z
+DTSTART:20250301T080000Z
+SUMMARY:Protest Walks: Saginaw
+LOCATION:Fashion Square Mall\, Sidewalk right on the corner of Bay Rd & Ti
+ ttabawsee\, Saginaw\, MI
+DESCRIPTION:Bring your signs to the Fashion Square Mall on March 1 at 1:00
+  pm. Meet right on the corner of Bay Rd & Tittabawsee.\n\nFashion Square M
+ all\, Sidewalk right on the corner of Bay Rd & Tittabawsee
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Fashion+Squa
+ re+Mall%2C+Sidewalk+right+on+the+corner+of+Bay+Rd+%26+Tittabawsee%2C+Sagin
+ aw%2C+MI&zoom=15&basemap=roadmap
+ATTACH:https://theblop.org/assets/images/3edf0891-f299-431c-bee2-9795ddda7
+ 8d6-thumb.jpg
+END:VEVENT
+END:VCALENDAR

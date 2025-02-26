@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:5df2dcdd-97bf-48db-bbd2-0ea88e930ec0
+SEQUENCE:0
+DTSTAMP:20250226T002145Z
+DTSTART:20250304T080000Z
+SUMMARY:March for Democracy
+LOCATION:Lawyer's Mall\, Annapolis\, MD
+DESCRIPTION:Join us for a peaceful protest.\n\n12:00 PM - 2:00 PM
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Lawyer%27s+M
+ all%2C+Annapolis%2C+MD&zoom=15&basemap=roadmap
+ATTACH:https://theblop.org/assets/images/18b31ebb-24c6-4585-8630-929723bb3
+ 661-thumb.jpg
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:91b33477-8163-4d89-811d-d13a42f042ce
+SEQUENCE:0
+DTSTAMP:20250226T002145Z
+DTSTART:20250227T080000Z
+SUMMARY:Public Hearing
+LOCATION:State Capitol Building\, Des Moines\, IA
+DESCRIPTION:A public hearing is scheduled for Thursday\, February 27th at 
+ 9:30 a.m.\n\nRoom TBA
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=State+Capito
+ l+Building%2C+Des+Moines%2C+IA&zoom=15&basemap=roadmap
+ATTACH:https://theblop.org/assets/images/6f0f0679-3473-497b-a501-7102e9c09
+ 0f2-thumb.jpg
+END:VEVENT
+END:VCALENDAR

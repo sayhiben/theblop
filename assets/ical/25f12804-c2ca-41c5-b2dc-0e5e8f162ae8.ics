@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:f492ebd6-60ba-48e1-9aa8-d62677c33dac
+SEQUENCE:0
+DTSTAMP:20250226T002145Z
+DTSTART:20250404T070000Z
+SUMMARY:March for Democracy
+LOCATION:Abner Clay Park\, Richmond\, VA
+DESCRIPTION:Join us to make clear that fascism is not welcome here and tha
+ t we will resist Trump's immoral agenda.\n\n10:00 AM
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Abner+Clay+P
+ ark%2C+Richmond%2C+VA&zoom=15&basemap=roadmap
+ATTACH:https://theblop.org/assets/images/25f12804-c2ca-41c5-b2dc-0e5e8f162
+ ae8-thumb.jpg
+END:VEVENT
+END:VCALENDAR

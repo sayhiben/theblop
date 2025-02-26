@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:e2dfd196-5465-460c-ad48-d442e37a53ae
+SEQUENCE:0
+DTSTAMP:20250226T002145Z
+DTSTART:20250304T080000Z
+SUMMARY:3/4 Santa Cruz Protest
+LOCATION:\, Santa Cruz\, CA
+DESCRIPTION:Noon at the Town Clock\n\nTown Clock
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+Santa+Cr
+ uz%2C+CA&zoom=15&basemap=roadmap
+ATTACH:https://theblop.org/assets/images/26d7b543-bcd0-4c98-93be-547ea7175
+ 48f-thumb.jpg
+END:VEVENT
+END:VCALENDAR

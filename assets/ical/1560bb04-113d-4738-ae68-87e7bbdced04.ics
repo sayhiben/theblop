@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:134eabc4-4507-4c2c-9248-8a8e838056b4
+SEQUENCE:0
+DTSTAMP:20250226T002145Z
+DTSTART:20250304T080000Z
+SUMMARY:March for Democracy
+LOCATION:Kentucky State Capitol Building Steps\, Frankfort\, KY
+DESCRIPTION:A peaceful\, nonviolent march & protest.\n\nKentucky State Cap
+ itol Building Steps
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Kentucky+Sta
+ te+Capitol+Building+Steps%2C+Frankfort%2C+KY&zoom=15&basemap=roadmap
+ATTACH:https://theblop.org/assets/images/1560bb04-113d-4738-ae68-87e7bbdce
+ d04-thumb.jpg
+END:VEVENT
+END:VCALENDAR
