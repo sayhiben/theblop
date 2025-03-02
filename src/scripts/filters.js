@@ -29,7 +29,7 @@
     eventCards.forEach(card => {
       const eventState = card.getAttribute('data-state');
       const matchesState = (stateValue === 'ALL' || eventState === stateValue);
-      const eventDate = new Date(card.getAttribute('data-date'));
+      const eventDate = new Date(card.getAttribute('data-date') + 'T00:00:00-08:00');
 
       // Date filter:
       let matchesDate = true;
@@ -57,17 +57,21 @@
   function checkDateFilter(selectedValue, eventDate) {
     const now = new Date();
 
-    console.log('selectedValue:', selectedValue);
-    
     switch (selectedValue) {
       case 'TODAY': {
         // Check if event is the same calendar date as "now":
         return isSameDay(eventDate, now);
       }
+      case 'TOMORROW': {
+        // Check if event is the calendar date immediately after "now":
+        const tomorrow = new Date(now);
+        tomorrow.setDate(tomorrow.getDate() + 1);
+        return isSameDay(eventDate, tomorrow);
+      }
       case 'WEEKEND': {
-        // Check if eventDate is Saturday or Sunday:
+        // Check if eventDate is Friday, Saturday, or Sunday:
         const day = eventDate.getDay();
-        return day === 5 || day === 6; // 5=Sat, 6=Sun
+        return day === 4 || day === 5 || day === 6; // 5=Sat, 6=Sun
       }
       case 'WEEK': {
         // Check if eventDate is within the next 7 days (including today):

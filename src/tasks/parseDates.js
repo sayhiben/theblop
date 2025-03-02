@@ -62,7 +62,7 @@ export function humanizeDatetime(dateStr) {
 }
 
 export function humanizeDate(dateStr) {
-  const eventDate = parseEventDate(dateStr);
+const eventDate = parseEventDate(dateStr);
   if (!eventDate) return '';
   return eventDate.format('dddd, MMMM D, YYYY');
 }

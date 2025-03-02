@@ -18,33 +18,55 @@ export function IndexPage({ futureEvents, grouped, allStates }) {
         <link rel="shortcut icon" type="image/x-icon" href="favicon.ico" />
       </head>
       <body className="px-4 pb-4 lg:px-8 lg:pb-8 bg-stone-50 text-gray-900 dark:bg-gray-900 dark:text-stone-50 font-sans">
-        <header className="mb-6 top-0 sm:h-24 h-35 sticky bg-stone-50 dark:bg-gray-900 z-99 pt-4">
-          <h1 className="text-3xl font-bold mb-4">✊ The Big List of Protests</h1>
-          {/* Filters */}
-          <div className="bg-stone-50 dark:bg-gray-900 z-98 flex flex-col sm:flex-row items-start sm:items-end sm:space-x-4 space-y-2 sm:space-y-0 pb-4 border-b border-gray-300 dark:border-stone-800">
-            <div>
-              <label htmlFor="stateFilter" className="font-medium mr-2">Filter by State:</label>
-              <select
-                id="stateFilter"
-                className="px-2 py-1 border rounded focus:outline-none focus:ring focus:border-blue-300"
-              >
-                <option value="ALL">All States</option>
-                {allStates.map(st => (
-                  <option key={st} value={st}>{st}</option>
-                ))}
-              </select>
+        <header className="top-0 sm:h-28 h-35 sticky bg-stone-50 dark:bg-gray-900 z-99 pt-4">
+          <div className="flex justify-start">
+            <h1 className="text-2xl sm:text-3xl font-bold mb-4">
+              ✊ The Big List of Protests
+            </h1>
+          </div>
+          <div className="flex text-xs sm:text-sm md:text-md justify-between items-center pb-4 px-2 border-b border-gray-300 dark:border-stone-800">
+            <div className="flex flex-col sm:flex-row space-y-2 sm:space-y-0 sm:space-x-4">
+              <div>
+                <label htmlFor="stateFilter" className="mr-2">
+                  Filter by State:
+                </label>
+                <select
+                  id="stateFilter"
+                  className="px-2 py-1 border rounded focus:outline-none focus:ring focus:border-blue-300"
+                >
+                  <option value="ALL">All States</option>
+                  {allStates.map(st => (
+                    <option key={st} value={st}>{st}</option>
+                  ))}
+                </select>
+              </div>
+              <div>
+                <label htmlFor="dateFilter" className="mr-2">
+                  Filter by Date:
+                </label>
+                <select
+                  id="dateFilter"
+                  className="px-2 py-1 border rounded focus:outline-none focus:ring focus:border-blue-300"
+                >
+                  <option value="ALL">All Dates</option>
+                  <option value="TODAY">Today</option>
+                  <option value="TOMORROW">Tomorrow</option>
+                  <option value="WEEK">This Week</option>
+                  <option value="WEEKEND">Weekends</option>
+                </select>
+              </div>
             </div>
-            <div>
-              <label htmlFor="dateFilter" className="font-medium mr-2">Filter by Date:</label>
-              <select
-                id="dateFilter"
-                className="px-2 py-1 border rounded focus:outline-none focus:ring focus:border-blue-300"
-              >
-                <option value="ALL">All Dates</option>
-                <option value="TODAY">Today</option>
-                <option value="WEEK">This Week</option>
-                <option value="WEEKEND">Weekends</option>
-              </select>
+            <div className="max-w-35">
+              <button className="bg-green-500 hover:bg-green-600 text-white font-bold py-5 sm:py-1 px-2 rounded focus:outline-none focus:shadow-outline">
+                <a href="sms:events@seattleprotestnetwork.org" className="flex items-center">
+                  <svg className="h-4 w-4 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24"
+                    xmlns="http://www.w3.org/2000/svg">
+                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2"
+                      d="M12 4v16m8-8H4"></path>
+                  </svg>
+                  Post a Flyer
+                </a>
+              </button>
             </div>
           </div>
         </header>
@@ -59,7 +81,7 @@ export function IndexPage({ futureEvents, grouped, allStates }) {
 
             return (
               <div className="date-group" key={dateKey}>
-                <h2 className="sticky bg-stone-200 dark:bg-gray-600 rounded-sm p-2 z-89 sm:top-28 top-37 text-xl font-semibold my-4 border-b border-gray-300 dark:border-stone-800">
+                <h2 className="sticky bg-stone-200 dark:bg-gray-600 rounded-sm p-2 z-89 sm:top-28 top-33 text-xl font-semibold my-4 border-b border-gray-300 dark:border-stone-800">
                   {humanizeDate(dateKey)}
                 </h2>
                 <div className="grid grid-cols-1 gap-4 sm:grid-cols-2 md:grid-cols-2 lg:grid-cols-3 2xl:grid-cols-4">
