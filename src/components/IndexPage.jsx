@@ -45,7 +45,7 @@ export function IndexPage({ futureEvents, grouped, allStates }) {
               </a>
             </div>
           </div>
-          <div className="flex text-sm md:text-md justify-between items-center pb-4 px-2 border-b border-gray-300 dark:border-stone-800">
+          <div className="flex text-sm md:text-md justify-between items-center pb-4 px-2">
             <div className="flex flex-col sm:flex-row space-y-2 sm:space-y-0 sm:space-x-4">
               <div>
                 <label htmlFor="stateFilter" className="mr-2">
