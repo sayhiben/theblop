@@ -4,7 +4,6 @@ import customParseFormat from 'dayjs/plugin/customParseFormat.js';
 import utc from 'dayjs/plugin/utc.js';
 
 dayjs.extend(customParseFormat);
-dayjs.extend(utc);
 
 const POSSIBLE_DATE_FORMATS = [
   'YYYY-MM-DD',
@@ -17,13 +16,13 @@ const POSSIBLE_DATE_FORMATS = [
 export function parseEventDate(dateStr) {
   if (!dateStr) return null;
   for (const fmt of POSSIBLE_DATE_FORMATS) {
-    const parsed = dayjs.utc(dateStr, fmt, true);
+    const parsed = dayjs(dateStr, fmt, true);
     if (parsed.isValid()) {
       return parsed;
     }
   }
   // fallback to a loose parse
-  const fallback = dayjs.utc(dateStr);
+  const fallback = dayjs(dateStr);
   return fallback.isValid() ? fallback : null;
 }
 
@@ -38,20 +37,20 @@ const POSSIBLE_DATETIME_FORMATS = [
 export function parseEventDateTime(dateStr) {
   if (!dateStr) return null;
   for (const fmt of POSSIBLE_DATETIME_FORMATS) {
-    const parsed = dayjs.utc(dateStr, fmt, true);
+    const parsed = dayjs(dateStr, fmt, true);
     if (parsed.isValid()) {
       return parsed;
     }
   }
   // fallback to a loose parse
-  const fallback = dayjs.utc(dateStr);
+  const fallback = dayjs(dateStr);
   return fallback.isValid() ? fallback : null;
 }
 
 export function isFutureEvent(dateStr) {
   const eventDate = parseEventDate(dateStr);
   if (!eventDate) return false;
-  const yesterday = dayjs.utc().subtract(1, 'day').endOf('day');
+  const yesterday = dayjs().subtract(1, 'day').endOf('day');
   return eventDate.isAfter(yesterday);
 }
 
@@ -69,5 +68,5 @@ const eventDate = parseEventDate(dateStr);
 
 export function humanizeTime(timeStr) {
   if (!timeStr) return '';
-  return dayjs.utc(timeStr, 'h:mm A').format('h:mm A');
+  return dayjs(timeStr, 'h:mm A').format('h:mm A');
 }

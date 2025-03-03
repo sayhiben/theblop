@@ -13,7 +13,7 @@ export function createCalendarEventIfNeeded(evt, icalDir) {
   }
   // skip if date is before yesterday
   const eventDate = parseEventDate(`${evt.Date}`);
-  if (!eventDate || eventDate.isBefore(dayjs.utc().subtract(1, 'day'))) {
+  if (!eventDate || eventDate.isBefore(dayjs().subtract(1, 'day'))) {
     console.error('[CreateCalendarEvent] Skipping event with past date:', evt.UUID);
     return;
   }
