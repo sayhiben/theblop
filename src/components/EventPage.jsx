@@ -5,15 +5,15 @@ import { alerts } from '../alerts';
 import { humanizeDate } from '../tasks/parseDates';
 
 export function EventPage({ eventData }) {
-  const displayDate = humanizeDate(eventData.dateKey);
-  const metaTitle = `[${eventData.City, eventData.State}] ${eventData.Title}, ${displayDate}`;
-  const metaDescription = `[${eventData.City, eventData.State}] ${displayDate} - ${eventData.Description}`;
+  const displayDate = humanizeDate(eventData.Date);
+  const metaTitle = `[${eventData.City}, ${eventData.State}] ${eventData.Title}, ${displayDate}`;
+  const metaDescription = `[${eventData.City}, ${eventData.State}] ${displayDate} - ${eventData.Description}`;
 
   return (
     <html lang="en" className="scroll-smooth">
       <head>
         <meta charSet="utf-8" />
-        <title>{eventData.Title}</title>
+        <title>{metaTitle}</title>
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <link href="../dist/styles.css" rel="stylesheet" />
         <link rel="shortcut icon" type="image/x-icon" href="favicon.ico" />
