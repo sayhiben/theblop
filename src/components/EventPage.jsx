@@ -12,6 +12,10 @@ export function EventPage({ eventData }) {
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <link href="../dist/styles.css" rel="stylesheet" />
         <link rel="shortcut icon" type="image/x-icon" href="favicon.ico" />
+        <meta property="og:title" content={eventData.title} />
+        <meta property="og:image" content={`https://theblop.org/assets/images/${eventData.UUID}-thumb.jpg`} />
+        <meta property="og:url" content={`https://theblop.org/events/${eventData.UUID}.html`} />
+        <meta property="og:type" content="website" />
       </head>
       <body className="p-4 lg:p-8 bg-white text-gray-900 dark:bg-gray-900 dark:text-stone-50 font-sans">
         <nav className="mb-6">

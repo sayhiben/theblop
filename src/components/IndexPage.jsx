@@ -19,7 +19,13 @@ export function IndexPage({ futureEvents, grouped, allStates }) {
         <title>The Big List of Protests: Upcoming</title>
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <link href="dist/styles.css" rel="stylesheet" />
+
         <link rel="shortcut icon" type="image/x-icon" href="favicon.ico" />
+        <meta property="og:title" content="The Big List of Protests" />
+        <meta property="og:description" content="The BLOP hosts a large and detailed list of protest events submitted by users across the United States." />
+        <meta property="og:image" content="https://theblop.org/theblop-logo.png" />
+        <meta property="og:url" content="https://theblop.org" />
+        <meta property="og:type" content="website" />
       </head>
       <body className="px-4 pb-4 lg:px-8 lg:pb-8 bg-stone-50 text-gray-900 dark:bg-gray-900 dark:text-stone-50 font-sans">
         <header className="top-0 sm:h-28 h-35 sticky bg-stone-50 dark:bg-gray-900 z-99 pt-4">
