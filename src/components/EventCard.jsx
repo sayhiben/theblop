@@ -15,9 +15,7 @@ function escapeAttr(str = '') {
 
 export function EventCard({ event, dateKey, baseAssetPath }) {
   const eventTitle = event.Title || 'Untitled Event';
-  const displayDatetime = humanizeDatetime(`${dateKey} ${event.Time}`);
-  const displayDate = humanizeDate(dateKey);
-  const displayTime = humanizeTime(event.Time);
+  const displayDatetime = `${event.Date} ${event.Time}`;
   const displayLocation = `${event.City || ''}, ${event.State || ''}`.replace(/,\s*$/, '');
   const localFileName = event.localImagePath ? event.localImagePath.split('/').pop() : null;
   const localThumbnail = event.localThumbnailPath ? event.localThumbnailPath.split('/').pop() : null;
@@ -128,11 +126,11 @@ Description: ${event.Description}
             <div className='block items-center justify-between text-sm w-full p-5 bg-white dark:bg-gray-900 border-2 rounded-lg group border-neutral-200/70 dark:border-gray-800/70 text-neutral-600 dark:text-stone-200'>
               <div className="flex justify-start mb-2">
                 <div className="mr-2" title="Date">🗓️</div>
-                <div>{displayDate}</div>
+                <div>{event.Date}</div>
               </div>
               <div className="flex justify-start mb-2">
                 <div className="mr-2" title="Start time">️🕒</div>
-                <div>{displayTime}</div>
+                <div>{event.Time}</div>
               </div>
               {event.Address &&
                 <div className="flex justify-start mb-2 text-blue-600 dark:text-blue-400 hover:text-blue-800 dark:hover:text-blue-300">

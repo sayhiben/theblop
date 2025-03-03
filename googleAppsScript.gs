@@ -612,16 +612,17 @@ function finalizeJobResults(jobData, submissionsStr) {
 
 /** Clean up PII every 48h */
 function cleanTrash() {
-  // This finds threads in Trash that are older than 2 days (48 hours)
-  const threads = GmailApp.search("in:trash older_than:2d");
-  Logger.log("Found " + threads.length + " trash thread(s) older than 2 days.");
+  // Example: permanently delete all threads in Trash older_than:2d
+  const threads = GmailApp.search('in:trash older_than:2d');
+  Logger.log('Found ' + threads.length + ' threads older than 2 days in Trash.');
 
   threads.forEach(thread => {
     try {
-      thread.deleteForever();
-      Logger.log("Permanently deleted thread: " + thread.getId());
+      // Use the advanced Gmail service here:
+      Gmail.Users.Threads.remove('me', thread.getId());
+      Logger.log('Permanently removed thread: ' + thread.getId());
     } catch (err) {
-      Logger.log("Error deleting thread " + thread.getId() + ": " + err);
+      Logger.log('Error removing thread ' + thread.getId() + ': ' + err);
     }
   });
 }
