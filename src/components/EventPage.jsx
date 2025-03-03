@@ -2,17 +2,23 @@ import React from 'react';
 import { EventCard } from './EventCard';
 import { SiteAlerts } from './SiteAlerts';
 import { alerts } from '../alerts';
+import { humanizeDate } from '../tasks/parseDates';
 
 export function EventPage({ eventData }) {
+  const displayDate = humanizeDate(eventData.dateKey);
+  const metaTitle = `[${eventData.City, eventData.State}] ${eventData.Title}, ${displayDate}`;
+  const metaDescription = `[${eventData.City, eventData.State}] ${displayDate} - ${eventData.Description}`;
+
   return (
     <html lang="en" className="scroll-smooth">
       <head>
         <meta charSet="utf-8" />
-        <title>{eventData.title}</title>
+        <title>{eventData.Title}</title>
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <link href="../dist/styles.css" rel="stylesheet" />
         <link rel="shortcut icon" type="image/x-icon" href="favicon.ico" />
-        <meta property="og:title" content={eventData.title} />
+        <meta property="og:title" content={metaTitle} />
+        <meta property="og:description" content={metaDescription} />
         <meta property="og:image" content={`https://theblop.org/assets/images/${eventData.UUID}-thumb.jpg`} />
         <meta property="og:url" content={`https://theblop.org/events/${eventData.UUID}.html`} />
         <meta property="og:type" content="website" />
