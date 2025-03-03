@@ -75,7 +75,7 @@ export function AboutPage() {
             The BLOP attempts to remove any EXIF data from images before storing and re-hosting. We do not guarantee that this process is perfect, so we ask that you do not submit images that contain sensitive metadata.
           </p>
           <p className="mb-4">
-            Received messages, including any PII, email headers, etc., are deleted within 36 hours of receipt, after which time we only have access to the submitted message subject, body, and image(s). The only exception to this retention policy exists for messages that have been identified as abusive or illegal, which are retained for the purpose of reporting and blocking abusive users. Retained data is stored in a single, private email account.
+            Received messages, including any PII, email headers, etc., are deleted within 48 hours of receipt, after which time we only have access to the submitted message subject, body, and image(s). The only exception to this retention policy exists for messages that have been identified as abusive or illegal, which are retained for the purpose of reporting and blocking abusive users. Retained data is stored in a single, private email account.
           </p>
           <h2 className="text-2xl font-bold mb-2">Who made this?</h2>
           <p className='mb-4'>

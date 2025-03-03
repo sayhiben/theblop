@@ -610,6 +610,22 @@ function finalizeJobResults(jobData, submissionsStr) {
   Logger.log('finalizeJobResults() completed.');
 }
 
+/** Clean up PII every 48h */
+function cleanTrash() {
+  // This finds threads in Trash that are older than 2 days (48 hours)
+  const threads = GmailApp.search("in:trash older_than:2d");
+  Logger.log("Found " + threads.length + " trash thread(s) older than 2 days.");
+
+  threads.forEach(thread => {
+    try {
+      thread.deleteForever();
+      Logger.log("Permanently deleted thread: " + thread.getId());
+    } catch (err) {
+      Logger.log("Error deleting thread " + thread.getId() + ": " + err);
+    }
+  });
+}
+
 /**
  * Mark a single row in RawData as failed.
  */

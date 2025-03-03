@@ -29,7 +29,7 @@
     eventCards.forEach(card => {
       const eventState = card.getAttribute('data-state');
       const matchesState = (stateValue === 'ALL' || eventState === stateValue);
-      const eventDate = new Date(card.getAttribute('data-date') + 'T00:00:00-08:00');
+      const eventDate = new Date(card.getAttribute('data-date'));
 
       // Date filter:
       let matchesDate = true;
