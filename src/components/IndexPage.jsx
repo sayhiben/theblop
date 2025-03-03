@@ -29,14 +29,14 @@ export function IndexPage({ futureEvents, grouped, allStates }) {
       </head>
       <body className="px-4 pb-4 lg:px-8 lg:pb-8 bg-stone-50 text-gray-900 dark:bg-gray-900 dark:text-stone-50 font-sans">
         <header className="top-0 sm:h-28 h-35 sticky bg-stone-50 dark:bg-gray-900 z-99 pt-4">
-          <div className="flex justify-start">
-            <h1 className="text-2xl sm:text-3xl font-bold mb-4">
+          <div className="flex justify-start items-left px-2">
+            <h1 className="text-xl xs:text-2xl sm:text-3xl font-bold mb-4">
               ✊ The Big List of Protests
             </h1>
-            <div className="flex items-start justify-start ml-2">
+            <div className="ml-2 w-5">
               <a
                 href="about.html"
-                className="inline-block text-gray-500 dark:text-gray-400 h-5"
+                className="inline-block text-gray-500 dark:text-gray-400"
                 title="About the Big List of Protests"
               >
                 <svg width="100%" height="100%" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -45,7 +45,7 @@ export function IndexPage({ futureEvents, grouped, allStates }) {
               </a>
             </div>
           </div>
-          <div className="flex text-xs sm:text-sm md:text-md justify-between items-center pb-4 px-2 border-b border-gray-300 dark:border-stone-800">
+          <div className="flex text-sm md:text-md justify-between items-center pb-4 px-2 border-b border-gray-300 dark:border-stone-800">
             <div className="flex flex-col sm:flex-row space-y-2 sm:space-y-0 sm:space-x-4">
               <div>
                 <label htmlFor="stateFilter" className="mr-2">
