@@ -7,7 +7,8 @@ import { renderToStaticMarkup } from 'react-dom/server';
 import { IndexPage } from '../components/IndexPage.jsx';
 import { EventPage } from '../components/EventPage.jsx';
 import { groupEventsByDate } from './groupEvents.js';
-import { parseEventDate } from './parseDates.js';
+import { AboutPage } from '../components/AboutPage.jsx';
+import { parseEventDate } from './parseDates.js'; // Keep so that it's rebuilt during webpack
 
 // A fixed list of US state abbreviations:
 const ALL_STATES = [
@@ -18,7 +19,7 @@ const ALL_STATES = [
   'SD','TN','TX','UT','VT','VA','WA','WV','WI','WY'
 ];
 
-export async function generatePages({ allEvents, futureEvents, indexHtmlPath, eventsDir }) {
+export async function generatePages({ allEvents, futureEvents, indexHtmlPath, eventsDir, aboutHtmlPath }) {
   // 1) Generate index.html
   // Group futureEvents by date for the index:
   const grouped = groupEventsByDate(futureEvents);
@@ -50,4 +51,11 @@ export async function generatePages({ allEvents, futureEvents, indexHtmlPath, ev
     fs.writeFileSync(outPath, '<!DOCTYPE html>' + pageHtml, 'utf-8');
     console.log(`Wrote events/${UUID}.html`);
   }
+
+  // 3) Generate about.html     
+  const aboutHtml = renderToStaticMarkup(
+    <AboutPage />
+  );
+  fs.writeFileSync(aboutHtmlPath, '<!DOCTYPE html>' + aboutHtml, 'utf-8');
+  console.log('Wrote about.html');
 }

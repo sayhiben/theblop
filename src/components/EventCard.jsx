@@ -129,7 +129,6 @@ Description: ${event.Description}
               <div className="flex justify-start mb-2">
                 <div className="mr-2" title="Date">🗓️</div>
                 <div>{displayDate}</div>
-                <div>{dateKey}</div>
               </div>
               <div className="flex justify-start mb-2">
                 <div className="mr-2" title="Start time">️🕒</div>

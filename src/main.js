@@ -24,6 +24,7 @@ if (!CSV_URL) {
 // Directory paths
 const EVENTS_DIR = path.join(__dirname, '..', 'events');
 const INDEX_HTML = path.join(__dirname, '..', 'index.html');
+const ABOUT_HTML = path.join(__dirname, '..', 'about.html');
 const IMAGES_DIR = path.join(__dirname, '..', 'assets', 'images');
 const ICAL_DIR = path.join(__dirname, '..', 'assets', 'ical');
 
@@ -95,6 +96,7 @@ const ICAL_DIR = path.join(__dirname, '..', 'assets', 'ical');
       allEvents: rows,
       futureEvents,
       indexHtmlPath: INDEX_HTML,
+      aboutHtmlPath: ABOUT_HTML,
       eventsDir: EVENTS_DIR
     });
 
