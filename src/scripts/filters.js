@@ -69,9 +69,9 @@
         return isSameDay(eventDate, tomorrow);
       }
       case 'WEEKEND': {
-        // Check if eventDate is Friday, Saturday, or Sunday:
+        // Check if eventDate is Saturday, or Sunday:
         const day = eventDate.getDay();
-        return day === 4 || day === 5 || day === 6; // 5=Sat, 6=Sun
+        return day === 6 || day === 0; // 6=Sat, 0=Sun
       }
       case 'WEEK': {
         // Check if eventDate is within the next 7 days (including today):
@@ -80,7 +80,11 @@
       }
       default: 
         // 'ALL' or unknown
-        return true;
+        // there still might be dates in the past due to infrequent updates of the source data
+        // let's only display dates after yesterday
+        const yesterday = new Date(now);
+        yesterday.setDate(yesterday.getDate() - 1);
+        return eventDate > yesterday;
     }
   }
 
