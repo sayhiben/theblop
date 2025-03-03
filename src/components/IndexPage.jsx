@@ -53,7 +53,7 @@ export function IndexPage({ futureEvents, grouped, allStates }) {
                 </label>
                 <select
                   id="stateFilter"
-                  className="px-2 py-1 border rounded focus:outline-none focus:ring focus:border-blue-300"
+                  className="px-2 py-1 border rounded focus:outline-none focus:ring focus:border-blue-300 dark:bg-gray-800"
                 >
                   <option value="ALL">All States</option>
                   {allStates.map(st => (
@@ -67,7 +67,7 @@ export function IndexPage({ futureEvents, grouped, allStates }) {
                 </label>
                 <select
                   id="dateFilter"
-                  className="px-2 py-1 border rounded focus:outline-none focus:ring focus:border-blue-300"
+                  className="px-2 py-1 border rounded focus:outline-none focus:ring focus:border-blue-300 dark:bg-gray-800"
                 >
                   <option value="ALL">All Dates</option>
                   <option value="TODAY">Today</option>
