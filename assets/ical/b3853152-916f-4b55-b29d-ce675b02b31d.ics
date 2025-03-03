@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:c60e40ba-44a0-4d14-b07f-bb1be025aa30
+SEQUENCE:0
+DTSTAMP:20250303T073722Z
+DTSTART:20250309T210000
+DTEND:20250310T010000
+SUMMARY:Community Screening: 'Join Or Die'
+LOCATION:The Hill Arts\, 76 Congress St.\, Portland\, OR
+DESCRIPTION:A film about why you should join a club and why the fate of Am
+ erica depends on it!\n\nPortland
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=The+Hill+Art
+ s%2C+76+Congress+St.%2C+Portland%2C+OR&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

@@ -2,17 +2,16 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:5377e3ce-4a46-4b74-9e44-84b2ea9395f1
+UID:6effd445-b70e-4289-a871-b83832599f41
 SEQUENCE:0
-DTSTAMP:20250226T002145Z
-DTSTART:20250304T080000Z
+DTSTAMP:20250303T073722Z
+DTSTART:20250304T220000
+DTEND:20250305T020000
 SUMMARY:No Kings Protest
 LOCATION:Ohio Statehouse\, Columbus\, OH
 DESCRIPTION:A peaceful protest against monarchy and authoritarian rule\, o
  rganized by The People's Movement.\n\nOhio Statehouse
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Ohio+Stateho
  use%2C+Columbus%2C+OH&zoom=15&basemap=roadmap
-ATTACH:https://theblop.org/assets/images/4f9c5c38-baa1-4488-a97d-5718d5893
- a5b-thumb.jpg
 END:VEVENT
 END:VCALENDAR

@@ -2,17 +2,16 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:92e80abd-ed37-416c-bc37-be41c51b1311
+UID:80c10173-3cb1-4552-afa2-753c296ee034
 SEQUENCE:0
-DTSTAMP:20250226T002145Z
-DTSTART:20250304T080000Z
+DTSTAMP:20250303T073722Z
+DTSTART:20250304T080000
+DTEND:20250304T120000
 SUMMARY:50501: The People's Movement
 LOCATION:1820 Jefferson Street\, Port Townsend\, Washington
 DESCRIPTION:Unite against oppression & dictatorship!\n\nJefferson County C
  ourthouse
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=1820+Jeffers
  on+Street%2C+Port+Townsend%2C+Washington&zoom=15&basemap=roadmap
-ATTACH:https://theblop.org/assets/images/f08a4c17-ea31-4917-a977-aa6654d66
- efb-thumb.jpg
 END:VEVENT
 END:VCALENDAR

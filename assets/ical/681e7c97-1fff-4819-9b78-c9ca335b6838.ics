@@ -2,17 +2,16 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:5b9265c7-a340-45cd-8c3b-0acb97f0237d
+UID:0d81cfaf-269c-4faa-943b-ada626909550
 SEQUENCE:0
-DTSTAMP:20250226T041525Z
-DTSTART:20250304T080000Z
+DTSTAMP:20250303T073722Z
+DTSTART:20250304T080000
+DTEND:20250304T120000
 SUMMARY:A State of Disunion Protest
 LOCATION:Courthouse Sidewalk\, New London CT
 DESCRIPTION:Join us to make clear that fascism is not welcome here and tha
  t we will resist Trump's immoral agenda.\n\n
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Courthouse+S
  idewalk%2C+New+London+CT&zoom=15&basemap=roadmap
-ATTACH:https://theblop.org/assets/images/681e7c97-1fff-4819-9b78-c9ca335b6
- 838-thumb.jpg
 END:VEVENT
 END:VCALENDAR

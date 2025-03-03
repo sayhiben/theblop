@@ -2,17 +2,16 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:43a8b0c3-df3e-44b7-b5ee-ca63804cd9df
+UID:24d3b330-7d50-4f95-bc04-2f073152c08c
 SEQUENCE:0
-DTSTAMP:20250226T002145Z
-DTSTART:20250304T080000Z
+DTSTAMP:20250303T073722Z
+DTSTART:20250304T080000
+DTEND:20250304T120000
 SUMMARY:March Against Monarchy
 LOCATION:City Hall\, Greenville\, SC
 DESCRIPTION:Join us to make clear that fascism is not welcome here and tha
  t we will resist Trump's immoral agenda.\n\nCity Hall\, Greenville\, SC
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=City+Hall%2C
  +Greenville%2C+SC&zoom=15&basemap=roadmap
-ATTACH:https://theblop.org/assets/images/b266d445-90fa-4671-b6d0-e6fe9d57b
- 756-thumb.jpg
 END:VEVENT
 END:VCALENDAR

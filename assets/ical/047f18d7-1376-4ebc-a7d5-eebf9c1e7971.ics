@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:7e868e55-586c-4c1e-9587-5d2de02c1312
+SEQUENCE:0
+DTSTAMP:20250303T073722Z
+DTSTART:20250304T080000
+DTEND:20250304T120000
+SUMMARY:March for Liberty
+LOCATION:Colorado State Capitol\, Denver\, CO
+DESCRIPTION:Uphold the Constitution. Limit executive overreach. Protect de
+ mocracy.\n\nColorado State Capitol
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Colorado+Sta
+ te+Capitol%2C+Denver%2C+CO&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

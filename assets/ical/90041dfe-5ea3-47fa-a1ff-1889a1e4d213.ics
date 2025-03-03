@@ -2,10 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:675a6ba6-029b-4f72-b615-9b0f2da1fc35
+UID:f5aedf98-bc61-447b-9d55-3c2ae994ac39
 SEQUENCE:0
-DTSTAMP:20250226T002145Z
-DTSTART:20250304T080000Z
+DTSTAMP:20250303T073722Z
+DTSTART:20250304T080000
+DTEND:20250304T120000
 SUMMARY:50501: The People's Movement
 LOCATION:City Hall\, 808 W. Spokane Falls Blvd\, Spokane\, Washington
 DESCRIPTION:Unite against oppression & dictatorship!\n\nCity Hall\, 808 W.
@@ -13,7 +14,5 @@ DESCRIPTION:Unite against oppression & dictatorship!\n\nCity Hall\, 808 W.
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=City+Hall%2C
  +808+W.+Spokane+Falls+Blvd%2C+Spokane%2C+Washington&zoom=15&basemap=roadma
  p
-ATTACH:https://theblop.org/assets/images/90041dfe-5ea3-47fa-a1ff-1889a1e4d
- 213-thumb.jpg
 END:VEVENT
 END:VCALENDAR

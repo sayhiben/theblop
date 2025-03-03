@@ -2,17 +2,16 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:4f5e80f1-4c1a-4586-9f91-eeabcc2227cd
+UID:77d875e0-549c-4b74-9630-13530dcf3e10
 SEQUENCE:0
-DTSTAMP:20250226T002145Z
-DTSTART:20250304T080000Z
+DTSTAMP:20250303T073722Z
+DTSTART:20250304T080000
+DTEND:20250304T120000
 SUMMARY:50501: The People's Movement
 LOCATION:Henry M Jackson Federal Building\, Seattle\, Washington
 DESCRIPTION:Unite against oppression and dictatorship!\n\nHenry M Jackson 
  Federal Building\, Seattle\, Washington
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Henry+M+Jack
  son+Federal+Building%2C+Seattle%2C+Washington&zoom=15&basemap=roadmap
-ATTACH:https://theblop.org/assets/images/6f6765f5-02f9-40ad-8e0f-7bfbce7ad
- cc3-thumb.jpg
 END:VEVENT
 END:VCALENDAR

@@ -2,17 +2,16 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:9c933a3d-fb27-4d46-bf16-6d36adef911a
+UID:6cbe790a-1642-4540-8713-9a9be9974c45
 SEQUENCE:0
-DTSTAMP:20250226T041525Z
-DTSTART:20250315T070000Z
+DTSTAMP:20250303T073722Z
+DTSTART:20250315T180000
+DTEND:20250315T220000
 SUMMARY:We The People
 LOCATION:411 West Ocean Blvd\, Long Beach\, CA
 DESCRIPTION:Trans rights are human rights. We reject fascism & the billion
  aires' agenda. SpaceX out of Long Beach.\n\nLong Beach
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=411+West+Oce
  an+Blvd%2C+Long+Beach%2C+CA&zoom=15&basemap=roadmap
-ATTACH:https://theblop.org/assets/images/aa4d6859-d378-4998-8a3d-7dd459087
- 0e4-thumb.jpg
 END:VEVENT
 END:VCALENDAR

@@ -2,10 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:e2b65a8d-0da9-4317-b384-cf1602ecb5c2
+UID:b1d5ea23-d36a-4697-963e-96c3921ec786
 SEQUENCE:0
-DTSTAMP:20250226T002145Z
-DTSTART:20250305T080000Z
+DTSTAMP:20250303T073722Z
+DTSTART:20250306T000000
+DTEND:20250306T040000
 SUMMARY:Silent Vigils
 LOCATION:Louisiana and Indian School\, 5:30-6:30 PM\, Albuquerque\, NM
 DESCRIPTION:Join us as we STAND UP in silent protest to the immoral and il
@@ -14,7 +15,5 @@ DESCRIPTION:Join us as we STAND UP in silent protest to the immoral and il
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Louisiana+an
  d+Indian+School%2C+5%3A30-6%3A30+PM%2C+Albuquerque%2C+NM&zoom=15&basemap=r
  oadmap
-ATTACH:https://theblop.org/assets/images/2c5f051e-1899-4611-b073-b6a8f372a
- 6ca-thumb.jpg
 END:VEVENT
 END:VCALENDAR

@@ -2,17 +2,16 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:24058e20-124c-44d8-a06a-7a02b591aed3
+UID:b5a9273c-7a75-4672-9b3f-3935ff204a14
 SEQUENCE:0
-DTSTAMP:20250226T002145Z
-DTSTART:20250304T080000Z
+DTSTAMP:20250303T073722Z
+DTSTART:20250304T080000
+DTEND:20250304T120000
 SUMMARY:We the People Say No to Kings in America
 LOCATION:Intersection of NW Greenwood Ave & NW Wall St\, Bend\, OR
 DESCRIPTION:Join us on March 4\, 2025 from 12-4 PM at the intersection of 
  NW Greenwood Ave & NW Wall St. Bend\, OR Peace Center.\n\nPeace Center
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Intersection
  +of+NW+Greenwood+Ave+%26+NW+Wall+St%2C+Bend%2C+OR&zoom=15&basemap=roadmap
-ATTACH:https://theblop.org/assets/images/53bc9fb8-ed9b-49d6-8bd1-2e19a8ff3
- c8a-thumb.jpg
 END:VEVENT
 END:VCALENDAR

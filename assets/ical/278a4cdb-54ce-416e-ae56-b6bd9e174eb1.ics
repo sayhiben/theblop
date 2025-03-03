@@ -2,17 +2,16 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:df1d4739-dd9c-4aa3-8b3a-6828548ccba7
+UID:61a9326c-b3b4-4fff-8fcc-3cfaf9e50648
 SEQUENCE:0
-DTSTAMP:20250226T041525Z
-DTSTART:20250308T080000Z
+DTSTAMP:20250303T073722Z
+DTSTART:20250308T080000
+DTEND:20250308T120000
 SUMMARY:Women's Day\, March 8
 LOCATION:107 North Main St.\, Concord\, NH
 DESCRIPTION:Join us to make clear that fascism is not welcome here and tha
  t we will resist Trump's immoral agenda.\n\nNH State House
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=107+North+Ma
  in+St.%2C+Concord%2C+NH&zoom=15&basemap=roadmap
-ATTACH:https://theblop.org/assets/images/278a4cdb-54ce-416e-ae56-b6bd9e174
- eb1-thumb.jpg
 END:VEVENT
 END:VCALENDAR

@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:f17a2627-e596-416b-9880-260e0988d9fe
+SEQUENCE:0
+DTSTAMP:20250303T073722Z
+DTSTART:20250304T170000
+DTEND:20250304T210000
+SUMMARY:Protect Our Kids Day of Action
+LOCATION:1600 Pacific Highway\, San Diego\, CA
+DESCRIPTION:The Protect Our Kids campaign is mobilizing educators\, parent
+ s\, students\, and community allies to fight against devastating cuts to p
+ ublic education. You can bring the impact home and organize a local event 
+ in your community such as a rally\, teach-in\, or press conference to help
+  spread our message and amplify the voices of those impacted.\n\nWaterfron
+ t Park
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=1600+Pacific
+ +Highway%2C+San+Diego%2C+CA&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

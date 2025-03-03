@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:256fdc12-7578-4105-a5f2-dbb1afb6eadc
+SEQUENCE:0
+DTSTAMP:20250303T073722Z
+DTSTART:20250304T080000
+DTEND:20250304T120000
+SUMMARY:NO KINGS!
+LOCATION:State House\, Augusta\, ME
+DESCRIPTION:Join us to defend democracy and fight against kings.\n\n2PM-4P
+ M\, Tues\, March 4
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=State+House%
+ 2C+Augusta%2C+ME&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

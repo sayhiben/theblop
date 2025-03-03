@@ -2,10 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:a323f003-cb81-45e7-a5eb-20e22be39de4
+UID:f74256bb-cb25-418d-8d5d-51803df160c2
 SEQUENCE:0
-DTSTAMP:20250226T002145Z
-DTSTART:20250303T080000Z
+DTSTAMP:20250303T073722Z
+DTSTART:20250304T013000
+DTEND:20250304T053000
 SUMMARY:A Day Without Immigrants March in San Antonio\, Texas
 LOCATION:SW Military and Zarzamora\, San Antonio\, TX
 DESCRIPTION:A day of action to fight back against racist attacks and demon
@@ -14,7 +15,5 @@ DESCRIPTION:A day of action to fight back against racist attacks and demon
   Full rights to all immigrants!\n\nSW Military & Zarzamora
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=SW+Military+
  and+Zarzamora%2C+San+Antonio%2C+TX&zoom=15&basemap=roadmap
-ATTACH:https://theblop.org/assets/images/b30fe210-1296-4d95-8f2d-14561962c
- e81-thumb.jpg
 END:VEVENT
 END:VCALENDAR

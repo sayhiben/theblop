@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:06b8e1f6-ec2c-4960-af5c-6561829f9218
+SEQUENCE:0
+DTSTAMP:20250303T073722Z
+DTSTART:20250304T080000
+DTEND:20250304T120000
+SUMMARY:Rise Up Against the Oligarchy!
+LOCATION:100 Military Plaza #4\, San Antonio\, TX 78205
+DESCRIPTION:Join us to make clear that fascism is not welcome here and tha
+ t we will resist Trump's immoral agenda.\n\nSan Antonio City Hall
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=100+Military
+ +Plaza+%234%2C+San+Antonio%2C+TX+78205&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

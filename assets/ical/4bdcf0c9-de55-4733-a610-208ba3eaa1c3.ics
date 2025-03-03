@@ -2,17 +2,16 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:ade3e7a1-76bb-48b2-afcd-3eb0ddfafb87
+UID:9f43cee2-32ad-42d6-b5b2-b67ed6077878
 SEQUENCE:0
-DTSTAMP:20250226T041525Z
-DTSTART:20250304T080000Z
+DTSTAMP:20250303T073722Z
+DTSTART:20250304T080000
+DTEND:20250304T120000
 SUMMARY:Protest with Us!
 LOCATION:16 E Lincolnway\, Valparaiso\, IN
 DESCRIPTION:Join us to make clear that fascism is not welcome here and tha
  t we will resist Trump's immoral agenda.\n\nPorter County Courthouse
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=16+E+Lincoln
  way%2C+Valparaiso%2C+IN&zoom=15&basemap=roadmap
-ATTACH:https://theblop.org/assets/images/4bdcf0c9-de55-4733-a610-208ba3eaa
- 1c3-thumb.jpg
 END:VEVENT
 END:VCALENDAR

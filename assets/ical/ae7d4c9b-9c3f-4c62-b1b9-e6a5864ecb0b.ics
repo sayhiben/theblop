@@ -2,17 +2,16 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:a77ae1cf-6d02-4067-9b14-5e36ebe8fe47
+UID:a28f96d9-1bab-4572-9e53-95a99de90611
 SEQUENCE:0
-DTSTAMP:20250226T002145Z
-DTSTART:20250304T080000Z
+DTSTAMP:20250303T073722Z
+DTSTART:20250304T080000
+DTEND:20250304T120000
 SUMMARY:50501: The People's Movement
 LOCATION:Benton County Circuit Court\, Corvallis\, OR
 DESCRIPTION:Unite against oppression & dictatorship!\n\nFront of Benton Co
  unty Circuit Court
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Benton+Count
  y+Circuit+Court%2C+Corvallis%2C+OR&zoom=15&basemap=roadmap
-ATTACH:https://theblop.org/assets/images/ae7d4c9b-9c3f-4c62-b1b9-e6a5864ec
- b0b-thumb.jpg
 END:VEVENT
 END:VCALENDAR

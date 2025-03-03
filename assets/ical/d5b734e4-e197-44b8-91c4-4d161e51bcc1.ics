@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:78353d7e-e412-4363-a1bf-e55cd657ceed
+SEQUENCE:0
+DTSTAMP:20250303T073722Z
+DTSTART:20250304T080000
+DTEND:20250304T120000
+SUMMARY:50501: The People's Movement
+LOCATION:1100 Gervais St\, Columbia\, SC
+DESCRIPTION:Unite against oppression & dictatorship!\n\nSC State House
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=1100+Gervais
+ +St%2C+Columbia%2C+SC&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

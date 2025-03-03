@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:c6214f58-ae5a-4eef-b759-c9d759106159
+SEQUENCE:0
+DTSTAMP:20250303T073722Z
+DTSTART:20250304T080000
+DTEND:20250304T120000
+SUMMARY:March for Liberty
+LOCATION:Colorado State Capitol\, Colorado Springs\, CO
+DESCRIPTION:Uphold the Constitution\, limit executive overreach\, and prot
+ ect democracy.\n\n12:00 PM - 4:00 PM
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Colorado+Sta
+ te+Capitol%2C+Colorado+Springs%2C+CO&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

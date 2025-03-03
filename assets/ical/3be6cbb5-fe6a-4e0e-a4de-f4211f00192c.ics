@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:d18af268-66a4-4390-8cbd-377755f205d2
+SEQUENCE:0
+DTSTAMP:20250303T073722Z
+DTSTART:20250304T200000
+DTEND:20250305T000000
+SUMMARY:RESIST Central Maine Call To Action Rally
+LOCATION:72 Lisbon St.\, Lewiston\, ME
+DESCRIPTION:Bring your signs!\n\nacross from Susan Collins office
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=72+Lisbon+St
+ .%2C+Lewiston%2C+ME&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

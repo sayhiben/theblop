@@ -2,16 +2,15 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:ff7178a4-a7d2-4a57-a2a6-e12e4045b2aa
+UID:35d5e865-3a8d-4e62-93be-e715d56c3c5d
 SEQUENCE:0
-DTSTAMP:20250226T002145Z
-DTSTART:20250304T080000Z
+DTSTAMP:20250303T073722Z
+DTSTART:20250304T080000
+DTEND:20250304T120000
 SUMMARY:March For Liberty
 LOCATION:200 W Washington St\, Indianapolis\, IN
 DESCRIPTION:Unite against fascism and tyranny!\n\nStatehouse
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=200+W+Washin
  gton+St%2C+Indianapolis%2C+IN&zoom=15&basemap=roadmap
-ATTACH:https://theblop.org/assets/images/e34d3b76-5a17-4ddd-a39e-847e022e6
- a1b-thumb.jpg
 END:VEVENT
 END:VCALENDAR

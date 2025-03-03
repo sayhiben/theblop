@@ -2,17 +2,16 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:87a9cd38-5e89-441c-a0e2-04ff4fe1a63c
+UID:e40bfc74-ac7c-401a-afbe-bb04ed394076
 SEQUENCE:0
-DTSTAMP:20250226T002145Z
-DTSTART:20250304T080000Z
+DTSTAMP:20250303T073722Z
+DTSTART:20250304T080000
+DTEND:20250304T120000
 SUMMARY:Protest at San Francisco City Hall
 LOCATION:1 Dr. Carlton B Goodlett Place\, San Francisco\, CA
 DESCRIPTION:Join the Movement: www.fiftyfifty.one This is a peaceful & non
  -violent event.\n\nSan Francisco City Hall
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=1+Dr.+Carlto
  n+B+Goodlett+Place%2C+San+Francisco%2C+CA&zoom=15&basemap=roadmap
-ATTACH:https://theblop.org/assets/images/3d13edbb-caf7-4a2a-9dec-2a8e26187
- 452-thumb.jpg
 END:VEVENT
 END:VCALENDAR

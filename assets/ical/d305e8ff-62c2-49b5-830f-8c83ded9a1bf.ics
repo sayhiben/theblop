@@ -2,10 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:e3d25f7f-ab1d-45c9-b7a1-12a7c309972d
+UID:b6292bee-ef77-41d5-8312-179c65aaf531
 SEQUENCE:0
-DTSTAMP:20250226T041525Z
-DTSTART:20250304T080000Z
+DTSTAMP:20250303T073722Z
+DTSTART:20250305T000000
+DTEND:20250305T040000
 SUMMARY:March Against Oppression & Dictatorship
 LOCATION:1600 Pacific Highway\, Boston\, MA
 DESCRIPTION:Join us to make clear that fascism is not welcome here and tha
@@ -13,7 +14,5 @@ DESCRIPTION:Join us to make clear that fascism is not welcome here and tha
  and
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=1600+Pacific
  +Highway%2C+Boston%2C+MA&zoom=15&basemap=roadmap
-ATTACH:https://theblop.org/assets/images/d305e8ff-62c2-49b5-830f-8c83ded9a
- 1bf-thumb.jpg
 END:VEVENT
 END:VCALENDAR

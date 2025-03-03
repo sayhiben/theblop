@@ -2,10 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:8e1ace09-80c5-4581-926a-4e8e5868b2ef
+UID:e93b3eb4-868a-4c47-b6c4-eec857e42e60
 SEQUENCE:0
-DTSTAMP:20250226T002145Z
-DTSTART:20250311T070000Z
+DTSTAMP:20250303T073722Z
+DTSTART:20250311T070000
+DTEND:20250311T110000
 SUMMARY:Paint the Protest
 LOCATION:2836 W Houston St\, 74012\, Broken Arrow\, OK
 DESCRIPTION:Join Queer the Vote and Advocate Alliance of Broken Arrow to p
@@ -13,7 +14,5 @@ DESCRIPTION:Join Queer the Vote and Advocate Alliance of Broken Arrow to p
  ersions Crafting Studio
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=2836+W+Houst
  on+St%2C+74012%2C+Broken+Arrow%2C+OK&zoom=15&basemap=roadmap
-ATTACH:https://theblop.org/assets/images/81a15e4c-ec71-4c2c-b3d0-44747584d
- fa7-thumb.jpg
 END:VEVENT
 END:VCALENDAR

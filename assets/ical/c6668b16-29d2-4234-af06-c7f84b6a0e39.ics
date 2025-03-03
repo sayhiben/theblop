@@ -2,17 +2,16 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:679960fb-b227-4b3b-8338-f1bd4e763ae0
+UID:bc1eea80-9568-4cbd-9d75-cdbde92f6b1c
 SEQUENCE:0
-DTSTAMP:20250226T002145Z
-DTSTART:20250304T080000Z
+DTSTAMP:20250303T073722Z
+DTSTART:20250304T080000
+DTEND:20250304T120000
 SUMMARY:March for Truth
 LOCATION:1211 6th Ave\, New York\, NY
 DESCRIPTION:We the People\, not the billionaires\, truth tuesdays peaceful
   protest\n\nFOX HQ
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=1211+6th+Ave
  %2C+New+York%2C+NY&zoom=15&basemap=roadmap
-ATTACH:https://theblop.org/assets/images/c6668b16-29d2-4234-af06-c7f84b6a0
- e39-thumb.jpg
 END:VEVENT
 END:VCALENDAR

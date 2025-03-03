@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:4dbc1f46-08d0-4059-a567-31556be2f350
+SEQUENCE:0
+DTSTAMP:20250303T073722Z
+DTSTART:20250304T170000
+DTEND:20250304T210000
+SUMMARY:March for Our Union
+LOCATION:1600 Pacific Highway\, Boston\, MA
+DESCRIPTION:Join us on March 4th\, 2025 to save our union and preserve dem
+ ocracy.\n\nWaterfront Park
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=1600+Pacific
+ +Highway%2C+Boston%2C+MA&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

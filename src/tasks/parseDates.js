@@ -4,6 +4,7 @@ import customParseFormat from 'dayjs/plugin/customParseFormat.js';
 import utc from 'dayjs/plugin/utc.js';
 
 dayjs.extend(customParseFormat);
+dayjs.extend(utc);
 
 const POSSIBLE_DATE_FORMATS = [
   'YYYY-MM-DD',

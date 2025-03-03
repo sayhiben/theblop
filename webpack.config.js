@@ -48,4 +48,5 @@ module.exports = {
       }
     })
   ],
+  cache: { type: 'filesystem' },  // enable persistent caching for faster rebuilds
 };

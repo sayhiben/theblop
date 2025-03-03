@@ -2,17 +2,16 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:ba5ae7ef-1d95-4ab6-8d5b-6b3cd0b6d882
+UID:815fd7bc-2097-4ee0-9edd-81c251c50fc9
 SEQUENCE:0
-DTSTAMP:20250226T041525Z
-DTSTART:20250304T080000Z
+DTSTAMP:20250303T073722Z
+DTSTART:20250304T080000
+DTEND:20250304T120000
 SUMMARY:Truth Tuesdays Peaceful Protest
 LOCATION:1211 6th Ave\, New York\, NY
 DESCRIPTION:Join us to make clear that fascism is not welcome here and tha
  t we will resist Trump's immoral agenda.\n\nFOX HQ
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=1211+6th+Ave
  %2C+New+York%2C+NY&zoom=15&basemap=roadmap
-ATTACH:https://theblop.org/assets/images/50bb369d-2a1d-41c8-93cd-ac8a28c94
- 99b-thumb.jpg
 END:VEVENT
 END:VCALENDAR

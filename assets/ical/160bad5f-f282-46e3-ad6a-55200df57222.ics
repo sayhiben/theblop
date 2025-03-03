@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:ee1345e1-eae4-4bf5-9b27-f0d4a03c37d7
+SEQUENCE:0
+DTSTAMP:20250303T073722Z
+DTSTART:20250303T080000
+DTEND:20250303T120000
+SUMMARY:Hands Off Housing
+LOCATION:451 7th St SW\, Washington DC\, 
+DESCRIPTION:Join us to demand that Congress halt their attempt to decimate
+  HUD\, undermine housing justice\, and worsen America's housing and homele
+ ssness crisis!\n\nHUD Headquarters
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=451+7th+St+S
+ W%2C+Washington+DC%2C+&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

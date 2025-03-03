@@ -2,17 +2,16 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:3ac4d1d4-1fe3-491e-84f9-24865b4b5eac
+UID:a6d47567-e38f-46fc-ac5b-9f13cf9604dc
 SEQUENCE:0
-DTSTAMP:20250226T002145Z
-DTSTART:20250304T080000Z
+DTSTAMP:20250303T073722Z
+DTSTART:20250304T080000
+DTEND:20250304T120000
 SUMMARY:March for Liberty
 LOCATION:Oklahoma State Capitol\, Oklahoma City\, OK
 DESCRIPTION:We the People take care of each other Join us for a peaceful m
  arch for liberty and justice.\n\n12PM - 4PM
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Oklahoma+Sta
  te+Capitol%2C+Oklahoma+City%2C+OK&zoom=15&basemap=roadmap
-ATTACH:https://theblop.org/assets/images/224b0a83-e1ce-402a-b97a-d0b42a21b
- 9ba-thumb.jpg
 END:VEVENT
 END:VCALENDAR

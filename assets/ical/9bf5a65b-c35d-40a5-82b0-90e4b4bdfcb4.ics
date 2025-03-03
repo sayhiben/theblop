@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:d96a9822-b72d-4ca0-97ba-f40591d0ebcf
+SEQUENCE:0
+DTSTAMP:20250303T073722Z
+DTSTART:20250314T070000
+DTEND:20250314T110000
+SUMMARY:Demand Democracy March
+LOCATION:Capitol Protests Against Unconstitutional Government\, Washington
+ \, DC\, 
+DESCRIPTION:Join the 'Demand Democracy' march on the Capitol on 3.14.25\, 
+ hosted by NOWDC.\n\nCapitol Protests Against Unconstitutional Government
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Capitol+Prot
+ ests+Against+Unconstitutional+Government%2C+Washington%2C+DC%2C+&zoom=15&b
+ asemap=roadmap
+END:VEVENT
+END:VCALENDAR

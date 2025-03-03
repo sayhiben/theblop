@@ -2,17 +2,16 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:0fc23f3b-633f-45ed-a665-81b5b2a3eed1
+UID:a0f86c25-8e30-478c-b677-d5e505504f77
 SEQUENCE:0
-DTSTAMP:20250226T002145Z
-DTSTART:20250308T080000Z
+DTSTAMP:20250303T073722Z
+DTSTART:20250308T080000
+DTEND:20250308T120000
 SUMMARY:March for Liberty
 LOCATION:1 SE Broadway St. Ocala\, Florida 34471
 DESCRIPTION:Join us to make clear that fascism is not welcome here and tha
  t we will resist Trump's immoral agenda.\n\nOcala Historic Downtown Square
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=1+SE+Broadwa
  y+St.+Ocala%2C+Florida+34471&zoom=15&basemap=roadmap
-ATTACH:https://theblop.org/assets/images/ff0e9439-9752-496c-a4a5-35235e016
- fcd-thumb.jpg
 END:VEVENT
 END:VCALENDAR

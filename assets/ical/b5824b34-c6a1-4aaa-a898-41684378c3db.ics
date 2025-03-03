@@ -2,16 +2,15 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:162a3e90-ddfd-44de-8ed0-b1e4dcd9665a
+UID:d5c68a75-c355-4fe8-85f1-8aaeea32d5ea
 SEQUENCE:0
-DTSTAMP:20250226T002145Z
-DTSTART:20250304T080000Z
+DTSTAMP:20250303T073722Z
+DTSTART:20250304T080000
+DTEND:20250304T120000
 SUMMARY:50501: The People's Movement
 LOCATION:415 W. 6th Street\, Vancouver\, WA
 DESCRIPTION:Unite against oppression and dictatorship!\n\nCity Hall
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=415+W.+6th+S
  treet%2C+Vancouver%2C+WA&zoom=15&basemap=roadmap
-ATTACH:https://theblop.org/assets/images/b5824b34-c6a1-4aaa-a898-41684378c
- 3db-thumb.jpg
 END:VEVENT
 END:VCALENDAR

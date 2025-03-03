@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:92837b1c-31c6-4ba1-9e4e-b17ef6f7ec5f
+SEQUENCE:0
+DTSTAMP:20250303T073722Z
+DTSTART:20250308T210000
+DTEND:20250309T010000
+SUMMARY:Journée Internationale des Femmes Contre le Trumpisme
+LOCATION:Monument Sir Georges-Étienne-Cartier\, Montréal\, 
+DESCRIPTION:International Women's Day Against Nazism & Trumpism\n\nTio'tia
+ :ke / Montréal - (Marche @ 14h)
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Monument+Sir
+ +Georges-%C3%89tienne-Cartier%2C+Montr%C3%A9al%2C+&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

@@ -2,10 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:88e98637-1b10-4fef-b885-d6d569c2326b
+UID:89650789-618a-423c-aba7-60e29ffe938a
 SEQUENCE:0
-DTSTAMP:20250226T002145Z
-DTSTART:20250331T070000Z
+DTSTAMP:20250303T073722Z
+DTSTART:20250401T023000
+DTEND:20250401T063000
 SUMMARY:Trans Day of Visibility Vengeance 2025
 LOCATION:Place Vauquelin (site of the last counter-protest)\, Paris\, 
 DESCRIPTION:Trans rights are non-negotiable\, let us take what is ours!\n\
@@ -13,7 +14,5 @@ DESCRIPTION:Trans rights are non-negotiable\, let us take what is ours!\n\
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Place+Vauque
  lin+%28site+of+the+last+counter-protest%29%2C+Paris%2C+&zoom=15&basemap=ro
  admap
-ATTACH:https://theblop.org/assets/images/fe84031e-6df1-4e2a-98aa-e218e4184
- 603-thumb.jpg
 END:VEVENT
 END:VCALENDAR

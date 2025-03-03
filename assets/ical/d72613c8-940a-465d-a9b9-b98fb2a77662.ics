@@ -2,10 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:8ea3aa7d-f9b8-4816-a66e-af94a5b32a1f
+UID:a68c27b6-5292-4178-93bc-810b1eaf332f
 SEQUENCE:0
-DTSTAMP:20250226T002145Z
-DTSTART:20250304T080000Z
+DTSTAMP:20250303T073722Z
+DTSTART:20250304T080000
+DTEND:20250304T120000
 SUMMARY:50501: The People's Movement Unite Against Oppression & Dictatorsh
  ip!
 LOCATION:2 Chelan Ave.\, Wenatchee\, WA
@@ -13,7 +14,5 @@ DESCRIPTION:Join us to make clear that fascism is not welcome here and tha
  t we will resist Trump's immoral agenda!\n\nMemorial Park
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=2+Chelan+Ave
  .%2C+Wenatchee%2C+WA&zoom=15&basemap=roadmap
-ATTACH:https://theblop.org/assets/images/d72613c8-940a-465d-a9b9-b98fb2a77
- 662-thumb.jpg
 END:VEVENT
 END:VCALENDAR

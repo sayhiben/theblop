@@ -2,10 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:f4377994-81a7-4659-80a6-3699120e76b0
+UID:058a283f-2696-4946-90ac-9700f08cd20b
 SEQUENCE:0
-DTSTAMP:20250226T041525Z
-DTSTART:20250304T080000Z
+DTSTAMP:20250303T073722Z
+DTSTART:20250305T000000
+DTEND:20250305T040000
 SUMMARY:No In the name of humanity\, we refuse to accept a fascist America
   The Fascist Trump Regime must go!
 LOCATION:1600 Pennsylvania Ave NW\, Washington\, DC
@@ -13,7 +14,5 @@ DESCRIPTION:Join in protest against fascism and the Trump regime. Learn mo
  re at RefuseFascism.org.\n\nUpper Senate Park
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=1600+Pennsyl
  vania+Ave+NW%2C+Washington%2C+DC&zoom=15&basemap=roadmap
-ATTACH:https://theblop.org/assets/images/1ab89204-00e7-4e04-909f-04e392950
- 745-thumb.jpg
 END:VEVENT
 END:VCALENDAR

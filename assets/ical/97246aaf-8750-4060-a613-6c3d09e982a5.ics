@@ -2,17 +2,16 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:9930ca06-e146-40a1-be04-ee42d6b7260f
+UID:ed964e88-7b73-4af3-8a7a-ca876c997232
 SEQUENCE:0
-DTSTAMP:20250226T002145Z
-DTSTART:20250304T080000Z
+DTSTAMP:20250303T073722Z
+DTSTART:20250304T080000
+DTEND:20250304T120000
 SUMMARY:We The People Say No To Kings In America
 LOCATION:State Capitol\, Salem\, OR
 DESCRIPTION:Join us to make clear that fascism is not welcome here and tha
  t we will resist Trump's immoral agenda.\n\nSprague Fountain
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=State+Capito
  l%2C+Salem%2C+OR&zoom=15&basemap=roadmap
-ATTACH:https://theblop.org/assets/images/97246aaf-8750-4060-a613-6c3d09e98
- 2a5-thumb.jpg
 END:VEVENT
 END:VCALENDAR

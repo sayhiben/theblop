@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:79f16ba6-2c72-4ae4-88d1-fdaa0c7b8ab8
+SEQUENCE:0
+DTSTAMP:20250303T073722Z
+DTSTART:20250304T080000
+DTEND:20250304T120000
+SUMMARY:Truth Tuesdays Peaceful Protest
+LOCATION:1211 6th Ave\, New York\, NY
+DESCRIPTION:We the people\, not the billionaires.\n\nFOX HQ
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=1211+6th+Ave
+ %2C+New+York%2C+NY&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

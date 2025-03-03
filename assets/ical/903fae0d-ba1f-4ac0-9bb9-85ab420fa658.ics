@@ -2,17 +2,16 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:7cb2d488-bc6f-42d4-ad80-00eb49c59f34
+UID:93614dce-74ab-4d69-b311-83b5b176612b
 SEQUENCE:0
-DTSTAMP:20250226T002145Z
-DTSTART:20250304T080000Z
+DTSTAMP:20250303T073722Z
+DTSTART:20250304T080000
+DTEND:20250304T120000
 SUMMARY:March Against Monarchy
 LOCATION:Oklahoma State Capitol\, Oklahoma City\, OK
 DESCRIPTION:Join us to make clear that fascism is not welcome here and tha
  t we will resist monarchy.\n\n12PM-4PM
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Oklahoma+Sta
  te+Capitol%2C+Oklahoma+City%2C+OK&zoom=15&basemap=roadmap
-ATTACH:https://theblop.org/assets/images/903fae0d-ba1f-4ac0-9bb9-85ab420fa
- 658-thumb.jpg
 END:VEVENT
 END:VCALENDAR

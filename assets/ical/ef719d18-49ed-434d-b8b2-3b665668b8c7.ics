@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:893e4a9a-e68e-4431-b897-5a7e16839f8d
+SEQUENCE:0
+DTSTAMP:20250303T073722Z
+DTSTART:20250306T080000
+DTEND:20250306T120000
+SUMMARY:Indivisible Cumberland County (ICC) Meeting
+LOCATION:810 Main St.\, Westbrook\, ME
+DESCRIPTION:Meeting of INDIVISIBLE Cumberland County to discuss community 
+ issues and organize local actions.\n\nCongregational Church
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=810+Main+St.
+ %2C+Westbrook%2C+ME&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

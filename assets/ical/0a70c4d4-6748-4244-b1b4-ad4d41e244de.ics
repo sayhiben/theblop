@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:55b23e26-70a0-434d-a396-f7bd595322bf
+SEQUENCE:0
+DTSTAMP:20250303T073722Z
+DTSTART:20250304T230000
+DTEND:20250305T030000
+SUMMARY:March for Democracy CLE
+LOCATION:601 Lakeside Ave E\, Cleveland\, OH
+DESCRIPTION:By 50501 Movement\n\nFREE STAMP
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=601+Lakeside
+ +Ave+E%2C+Cleveland%2C+OH&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

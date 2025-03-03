@@ -2,17 +2,16 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:672e7189-b0b1-4ebf-ab11-b8d70ef7398e
+UID:74237c10-45bd-4218-a711-1e97b73a2878
 SEQUENCE:0
-DTSTAMP:20250226T002145Z
-DTSTART:20250304T080000Z
+DTSTAMP:20250303T073722Z
+DTSTART:20250304T200000
+DTEND:20250305T000000
 SUMMARY:March Fourth Against Tyranny on March 4th
 LOCATION:Oak Hill Entrance\, Piedmont Park\, GA
 DESCRIPTION:50 States\, 50 Protests\, 1 Movement. Freedom-March against op
  pression and dictatorship.\n\nPiedmont Park - Oak Hill Entrance
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Oak+Hill+Ent
  rance%2C+Piedmont+Park%2C+GA&zoom=15&basemap=roadmap
-ATTACH:https://theblop.org/assets/images/07465206-e78d-4b79-9e9b-79ccff80f
- 3c1-thumb.jpg
 END:VEVENT
 END:VCALENDAR

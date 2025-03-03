@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:8132c27a-510a-4f4d-a00f-22ccfcf3f417
+SEQUENCE:0
+DTSTAMP:20250303T073722Z
+DTSTART:20250304T200000
+DTEND:20250305T000000
+SUMMARY:March for Liberty
+LOCATION:Capitol Bldg\, Denver\, Denver\, CO
+DESCRIPTION:We the people say no to kings in America.\n\n12:00 PM
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Capitol+Bldg
+ %2C+Denver%2C+Denver%2C+CO&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

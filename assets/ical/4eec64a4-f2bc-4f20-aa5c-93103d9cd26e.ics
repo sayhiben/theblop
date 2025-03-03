@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:4f85f5c4-569b-411e-9a11-542cdb6a626d
+SEQUENCE:0
+DTSTAMP:20250303T073722Z
+DTSTART:20250308T210000
+DTEND:20250309T010000
+SUMMARY:March Against Trumpism
+LOCATION:Monument Sir Georges-Étienne-Cartier\, Montréal\, 
+DESCRIPTION:Join us to make clear that fascism is not welcome here and tha
+ t we will resist Trump's immoral agenda.\n\nMontréal
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Monument+Sir
+ +Georges-%C3%89tienne-Cartier%2C+Montr%C3%A9al%2C+&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

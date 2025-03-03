@@ -2,17 +2,16 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:b01bcdf7-72f1-4f11-a119-7db2d40dea55
+UID:60d7d7fc-00c1-4ba2-b4eb-cb2917090a44
 SEQUENCE:0
-DTSTAMP:20250226T002145Z
-DTSTART:20250304T080000Z
+DTSTAMP:20250303T073722Z
+DTSTART:20250304T080000
+DTEND:20250304T120000
 SUMMARY:March for Liberty
 LOCATION:Colorado State Capitol\, Denver\, CO
 DESCRIPTION:Join us to connect to the Colorado Chapter on your preferred p
  latform.\n\n1700 East Colfax Avenue\, Denver\, CO 80204
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Colorado+Sta
  te+Capitol%2C+Denver%2C+CO&zoom=15&basemap=roadmap
-ATTACH:https://theblop.org/assets/images/8f55f024-57cf-4217-b890-0bf0bdddc
- 325-thumb.jpg
 END:VEVENT
 END:VCALENDAR

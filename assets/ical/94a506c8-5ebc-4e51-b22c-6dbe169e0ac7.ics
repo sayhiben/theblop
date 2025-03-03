@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:8fa9c12c-f4d3-4a69-9305-36f048aaf657
+SEQUENCE:0
+DTSTAMP:20250303T073722Z
+DTSTART:20250307T080000
+DTEND:20250307T120000
+SUMMARY:Stand Up for Science
+LOCATION:Civic Center Plaza\, San Francisco\, 
+DESCRIPTION:Join us to stand up for science and evidence-based policy.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Civic+Center
+ +Plaza%2C+San+Francisco%2C+&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

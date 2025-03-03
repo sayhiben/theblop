@@ -2,16 +2,15 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:462bb2a9-2c28-4c56-a4f5-0b877aa75a7c
+UID:84935dd8-4fd1-4de0-a2f0-5aefc7b4601c
 SEQUENCE:0
-DTSTAMP:20250226T002145Z
-DTSTART:20250330T070000Z
+DTSTAMP:20250303T073722Z
+DTSTART:20250330T070000
+DTEND:20250330T110000
 SUMMARY:Trans Day of Visibility
 LOCATION:Dallas City Hall\, Dallas\, TX
 DESCRIPTION:We fight back!\n\nTBD
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Dallas+City+
  Hall%2C+Dallas%2C+TX&zoom=15&basemap=roadmap
-ATTACH:https://theblop.org/assets/images/35a2d709-b99f-4581-9d59-9896a21be
- e5f-thumb.jpg
 END:VEVENT
 END:VCALENDAR

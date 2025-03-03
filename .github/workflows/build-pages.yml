@@ -18,6 +18,11 @@ on:
       - 'package-lock.json'
       - 'webpack.config.js'
 
+# Cancel previous runs on the same branch and workflow
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
+
 permissions:
   contents: write
   pull-requests: write
@@ -25,33 +30,75 @@ permissions:
   id-token: write
 
 jobs:
-  build-deploy:
+  build:
     runs-on: ubuntu-latest
+    outputs:
+      changed: ${{ steps.check_diff.outputs.changed }}
     steps:
-      - name: Check out repo
+      - name: 📥 Checkout code
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0  # Full git history to allow diff and pushing
 
-      - name: Set up Node
+      - name: 🔧 Setup Node.js
         uses: actions/setup-node@v4
         with:
+          node-version: "23.6.0"
           cache: 'npm'
+          cache-dependency-path: "package-lock.json"
 
-      - name: Install dependencies
-        run: |
-          npm install
+      - name: 📦 Install dependencies
+        run: npm ci
 
-      - name: Build site
+      - name: 🏗️ Build project
         run: npm run build
         env:
           SHEET_CSV_URL: ${{ secrets.SHEET_CSV_URL }}
 
-      - name: Commit changes
+      - name: 🔍 Check for changes after build
+        id: check_diff
+        run: |
+          # Git diff returns non-zero if differences are found
+          git diff --quiet || echo "changed=true" >> $GITHUB_OUTPUT
+
+      - name: ✅ Commit changes (if any)
+        if: steps.check_diff.outputs.changed == 'true'
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add -A
-          git diff-index --quiet HEAD || git commit -m "Automated site update"
-      
-      - name: Push changes if any
+          git commit -m "chore: update generated site content"
+
+      - name: 📤 Push changes to main
+        if: steps.check_diff.outputs.changed == 'true'
+        run: git push origin HEAD:main
+
+      - name: ⚠️ Warn about environment discrepancies
+        if: steps.check_diff.outputs.changed == 'true'
         run: |
-          git push
+          echo "::warning::Build output differed from the repository. This may indicate environment-specific issues (e.g., timezone or datetime differences). Ensure consistent settings (e.g., set TZ=UTC) and use fixed timestamps (SOURCE_DATE_EPOCH) for reproducible builds."
+
+      - name: 📦 Upload Pages artifact
+        if: steps.check_diff.outputs.changed == 'true'
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: .
+        # Packages the site files into an artifact for deployment
+
+  deploy:
+    name: Deploy to GitHub Pages
+    needs: build
+    if: needs.build.outputs.changed == 'true'   # Only run if build reported changes
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read   # read access to repo (if needed by Pages)
+      pages: write     # allow publishing to Pages
+      id-token: write  # allow OIDC authentication for Pages
+    environment:
+      name: github-pages    # default Pages environment
+      url: ${{ steps.deploy.outputs.page_url }}
+    steps:
+      - name: 🚀 Deploy to GitHub Pages
+        id: deploy
+        uses: actions/deploy-pages@v4
+        # Publishes the artifact to GitHub Pages (official action)

@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:d3e8294c-e257-4165-b9c7-8c8ce64d762c
+SEQUENCE:0
+DTSTAMP:20250303T073722Z
+DTSTART:20250304T080000
+DTEND:20250304T120000
+SUMMARY:No Kings!
+LOCATION:State House\, Augusta\, ME
+DESCRIPTION:Join us to defend democracy. Dirigo Maine leads in the fight t
+ o protect our freedoms.\n\nState House
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=State+House%
+ 2C+Augusta%2C+ME&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

@@ -2,17 +2,16 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:c52e8bb5-dd78-404e-b0a6-1916b40bc83c
+UID:949a93d3-b2b0-405d-9d87-e36bca6418bb
 SEQUENCE:0
-DTSTAMP:20250226T041525Z
-DTSTART:20250304T080000Z
+DTSTAMP:20250303T073722Z
+DTSTART:20250304T080000
+DTEND:20250304T120000
 SUMMARY:National Day of Protest
 LOCATION:101 N. Carson St.\, Carson City\, NV
 DESCRIPTION:Join us to defend the Constitution and reject any attempts at 
  fascism.\n\nState Capitol
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=101+N.+Carso
  n+St.%2C+Carson+City%2C+NV&zoom=15&basemap=roadmap
-ATTACH:https://theblop.org/assets/images/bf5e25bc-c934-48ac-82b3-d08bcb1cf
- 042-thumb.jpg
 END:VEVENT
 END:VCALENDAR

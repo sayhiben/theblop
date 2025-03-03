@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:9f26bde2-696b-455a-affa-f5b090a01451
+SEQUENCE:0
+DTSTAMP:20250303T073722Z
+DTSTART:20250304T080000
+DTEND:20250304T120000
+SUMMARY:The Peoples Picnic
+LOCATION:Capitol Grounds\, Raleigh\, NC
+DESCRIPTION:Sit in protest against executive overreach and protect democra
+ cy.\n\nNorth Carolina State Capitol
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Capitol+Grou
+ nds%2C+Raleigh%2C+NC&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

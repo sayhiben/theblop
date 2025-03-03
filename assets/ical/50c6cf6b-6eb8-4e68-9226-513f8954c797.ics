@@ -2,10 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:6e811579-34ca-44d9-bffa-c485356f03f7
+UID:91e54519-7d2e-4280-a982-41f414f4146b
 SEQUENCE:0
-DTSTAMP:20250226T002145Z
-DTSTART:20250304T080000Z
+DTSTAMP:20250303T073722Z
+DTSTART:20250304T230000
+DTEND:20250305T030000
 SUMMARY:50 States\, 50 Protests in One Day
 LOCATION:City Island\, Harrisburg\, PA
 DESCRIPTION:Peaceful March for Democracy on March 4\, 2025 from City Islan
@@ -13,7 +14,5 @@ DESCRIPTION:Peaceful March for Democracy on March 4\, 2025 from City Islan
  tol Steps
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=City+Island%
  2C+Harrisburg%2C+PA&zoom=15&basemap=roadmap
-ATTACH:https://theblop.org/assets/images/50c6cf6b-6eb8-4e68-9226-513f8954c
- 797-thumb.jpg
 END:VEVENT
 END:VCALENDAR

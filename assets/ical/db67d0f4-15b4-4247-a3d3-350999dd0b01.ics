@@ -2,17 +2,16 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:7824856e-47fb-4779-ac55-61304225b039
+UID:fbf00c53-cd0e-4338-a4c5-c15a18623562
 SEQUENCE:0
-DTSTAMP:20250226T002145Z
-DTSTART:20250307T080000Z
+DTSTAMP:20250303T073722Z
+DTSTART:20250307T210000
+DTEND:20250308T010000
 SUMMARY:Stand Up for Science
 LOCATION:1600 Pennsylvania Ave NW\, Washington\, D.C.\, DC
 DESCRIPTION:Join us to stand up for science and fight against anti-science
   policies.\n\nCapitol Hill
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=1600+Pennsyl
  vania+Ave+NW%2C+Washington%2C+D.C.%2C+DC&zoom=15&basemap=roadmap
-ATTACH:https://theblop.org/assets/images/db67d0f4-15b4-4247-a3d3-350999dd0
- b01-thumb.jpg
 END:VEVENT
 END:VCALENDAR

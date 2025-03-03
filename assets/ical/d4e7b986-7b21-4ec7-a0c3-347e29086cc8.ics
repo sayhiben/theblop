@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:4539cd77-8d26-4aae-ac21-1d6d0eca3bf7
+SEQUENCE:0
+DTSTAMP:20250303T073722Z
+DTSTART:20250308T080000
+DTEND:20250308T120000
+SUMMARY:No Kings in America!
+LOCATION:1600 Pacific Highway\, Monterey\, CA
+DESCRIPTION:Nation wide protesting on International Women's Day Monterey C
+ ity Hall\n\nMonterey City Hall
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=1600+Pacific
+ +Highway%2C+Monterey%2C+CA&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

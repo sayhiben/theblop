@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:212ebe0f-1ce5-4bc2-a32b-8ef98c922d23
+SEQUENCE:0
+DTSTAMP:20250303T073722Z
+DTSTART:20250304T080000
+DTEND:20250304T120000
+SUMMARY:No Kings: Maine Leads the Fight for Democracy
+LOCATION:210 US-201\, Augusta\, ME
+DESCRIPTION:Join us to make clear that fascism is not welcome here and tha
+ t we will resist Trump's immoral agenda.\n\nState House Capitol Plaza
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=210+US-201%2
+ C+Augusta%2C+ME&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

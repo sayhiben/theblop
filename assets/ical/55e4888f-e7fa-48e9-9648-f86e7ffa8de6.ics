@@ -2,17 +2,16 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:91ba334f-3976-4911-8902-76419cb04552
+UID:f02c4212-e0c3-43b3-a3cb-79813944833f
 SEQUENCE:0
-DTSTAMP:20250226T002145Z
-DTSTART:20250304T080000Z
+DTSTAMP:20250303T073722Z
+DTSTART:20250304T190000
+DTEND:20250304T230000
 SUMMARY:March Forth Protest
 LOCATION:Colorado State Capitol\, Denver\, CO
 DESCRIPTION:Join us to make clear that fascism is not welcome here and tha
  t we will resist Trump's immoral agenda.\n\nColorado State Capitol
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Colorado+Sta
  te+Capitol%2C+Denver%2C+CO&zoom=15&basemap=roadmap
-ATTACH:https://theblop.org/assets/images/55e4888f-e7fa-48e9-9648-f86e7ffa8
- de6-thumb.jpg
 END:VEVENT
 END:VCALENDAR

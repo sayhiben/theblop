@@ -2,10 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:661b87fb-2aae-41f2-b692-28e8092b8af4
+UID:d30fd38a-1402-4fda-a3e4-9aaff7ef791c
 SEQUENCE:0
-DTSTAMP:20250226T002145Z
-DTSTART:20250304T080000Z
+DTSTAMP:20250303T073722Z
+DTSTART:20250304T080000
+DTEND:20250304T120000
 SUMMARY:50501: THE PEOPLE'S MOVEMENT
 LOCATION:Medford Municipal Court & Marching to Criterion Theater Plaza\, M
  edford\, Oregon
@@ -13,7 +14,5 @@ DESCRIPTION:UNITE AGAINST OPPRESSION & DICTATORSHIP!\n\n
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Medford+Muni
  cipal+Court+%26+Marching+to+Criterion+Theater+Plaza%2C+Medford%2C+Oregon&z
  oom=15&basemap=roadmap
-ATTACH:https://theblop.org/assets/images/1ee2621c-705f-438c-8df8-f05125b8f
- 001-thumb.jpg
 END:VEVENT
 END:VCALENDAR

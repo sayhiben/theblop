@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:62b10bec-4ecd-46b3-a2e7-960a42d4509b
+SEQUENCE:0
+DTSTAMP:20250303T073722Z
+DTSTART:20250304T080000
+DTEND:20250304T120000
+SUMMARY:Statewide Day of Action
+LOCATION:Thompson Statue\, OSU Oval\, Columbus\, OH
+DESCRIPTION:Join faculty\, staff\, students\, and admins in a protest agai
+ nst SB1.\n\nOSU Oval
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Thompson+Sta
+ tue%2C+OSU+Oval%2C+Columbus%2C+OH&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

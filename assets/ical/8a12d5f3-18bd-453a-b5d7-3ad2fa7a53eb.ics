@@ -2,17 +2,16 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:1c890068-02c9-41f4-bdd3-7d9d6b38737c
+UID:694f7418-04f1-460c-b333-7fd653b78d25
 SEQUENCE:0
-DTSTAMP:20250226T002145Z
-DTSTART:20250314T070000Z
+DTSTAMP:20250303T073722Z
+DTSTART:20250314T160000
+DTEND:20250314T200000
 SUMMARY:Veterans March Against Fascism
 LOCATION:1600 Pacific Highway\, Washington DC\, 
 DESCRIPTION:Join us to make clear that fascism is not welcome here and tha
  t we will resist Trump's immoral agenda.\n\nWaterfront Park
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=1600+Pacific
  +Highway%2C+Washington+DC%2C+&zoom=15&basemap=roadmap
-ATTACH:https://theblop.org/assets/images/8a12d5f3-18bd-453a-b5d7-3ad2fa7a5
- 3eb-thumb.jpg
 END:VEVENT
 END:VCALENDAR

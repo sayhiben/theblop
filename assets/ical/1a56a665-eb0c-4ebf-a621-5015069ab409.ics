@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:59cd28a7-c787-43e4-935b-9dd5303de33b
+SEQUENCE:0
+DTSTAMP:20250303T073722Z
+DTSTART:20250308T080000
+DTEND:20250308T120000
+SUMMARY:Stand Up for Science and Stand Up for Women
+LOCATION:Forsyth Park (East Lawn by the Amphitheater)\, Orange\, CA
+DESCRIPTION:Join us to unite and resist. Let's stand up for science and wo
+ men.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Forsyth+Park
+ +%28East+Lawn+by+the+Amphitheater%29%2C+Orange%2C+CA&zoom=15&basemap=roadm
+ ap
+END:VEVENT
+END:VCALENDAR

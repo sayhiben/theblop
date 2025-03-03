@@ -2,10 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:a5730dff-60f3-4528-bce0-783f490c6fbe
+UID:108a972b-b49d-4a9b-90ef-d5126a6515de
 SEQUENCE:0
-DTSTAMP:20250226T002145Z
-DTSTART:20250302T080000Z
+DTSTAMP:20250303T073722Z
+DTSTART:20250302T080000
+DTEND:20250302T120000
 SUMMARY:Parasol Patrol
 LOCATION:Hollywood United Methodist Church (6817 Franklin Ave.\, LA)\, Los
   Angeles\, CA
@@ -14,7 +15,5 @@ DESCRIPTION:Help shield children & families from hostile protesters\n\nHol
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Hollywood+Un
  ited+Methodist+Church+%286817+Franklin+Ave.%2C+LA%29%2C+Los+Angeles%2C+CA&
  zoom=15&basemap=roadmap
-ATTACH:https://theblop.org/assets/images/4d580222-24d2-4134-91e4-43ac7364a
- fb7-thumb.jpg
 END:VEVENT
 END:VCALENDAR

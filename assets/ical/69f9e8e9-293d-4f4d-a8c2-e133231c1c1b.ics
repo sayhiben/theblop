@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:306cc47f-3b2e-4eb0-a3ad-56db9126bc83
+SEQUENCE:0
+DTSTAMP:20250303T073722Z
+DTSTART:20250304T200000
+DTEND:20250305T000000
+SUMMARY:March for Democracy
+LOCATION:Minnesota State Capitol\, Saint Paul\, MN
+DESCRIPTION:Peaceful protest to support democracy.\n\nTues 03/04 & Sat 03/
+ 08 at 12PM
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Minnesota+St
+ ate+Capitol%2C+Saint+Paul%2C+MN&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

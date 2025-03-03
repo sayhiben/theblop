@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:9eac311d-1337-43c9-908e-3666b18df496
+SEQUENCE:0
+DTSTAMP:20250303T073722Z
+DTSTART:20250304T080000
+DTEND:20250304T120000
+SUMMARY:Support Democracy
+LOCATION:George Washington Park S. Pearl St.\, Centralia\, WA
+DESCRIPTION:Join us to protect immigrants and protest Trump’s policies a
+ nd Elon Musk.\n\nsidewalk
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=George+Washi
+ ngton+Park+S.+Pearl+St.%2C+Centralia%2C+WA&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

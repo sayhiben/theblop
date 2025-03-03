@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:70b4a105-dedc-4dff-81a2-1a3cc8346b74
+SEQUENCE:0
+DTSTAMP:20250303T073722Z
+DTSTART:20250304T080000
+DTEND:20250304T120000
+SUMMARY:50501: The People's Movement
+LOCATION:2 E. Bay St.\, Savannah\, GA
+DESCRIPTION:Unite against oppression and dictatorship!\n\nCity Hall
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=2+E.+Bay+St.
+ %2C+Savannah%2C+GA&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

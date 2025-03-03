@@ -2,10 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:3b4d8102-57a0-4e90-bf69-3374863a858a
+UID:d518e0ce-549a-4da7-b790-30b6f6a29d5e
 SEQUENCE:0
-DTSTAMP:20250226T002145Z
-DTSTART:20250308T080000Z
+DTSTAMP:20250303T073722Z
+DTSTART:20250309T020000
+DTEND:20250309T060000
 SUMMARY:Rally & March for Drag
 LOCATION:500 8th St SE\, Washington\, DC 20003
 DESCRIPTION:Protest the hostile Trump takeover of The Kennedy Center Come 
@@ -13,7 +14,5 @@ DESCRIPTION:Protest the hostile Trump takeover of The Kennedy Center Come
  le
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=500+8th+St+S
  E%2C+Washington%2C+DC+20003&zoom=15&basemap=roadmap
-ATTACH:https://theblop.org/assets/images/c09cf194-4525-4fdd-a4c2-754fbd0d0
- f60-thumb.jpg
 END:VEVENT
 END:VCALENDAR

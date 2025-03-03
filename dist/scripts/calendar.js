@@ -1,0 +1,1 @@
+document.querySelectorAll(".add-to-calendar").forEach((e=>{e.addEventListener("click",(function(){var e,t;e=this.getAttribute("data-menu-id"),(t=document.getElementById(e))&&t.classList.toggle("hidden")}))}));

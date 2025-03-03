@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:708f1666-026b-4675-98aa-3ecc476d2339
+SEQUENCE:0
+DTSTAMP:20250303T073722Z
+DTSTART:20250304T170000
+DTEND:20250304T210000
+SUMMARY:March 4th\, 2025 - SAVING OUR UNION Brought together by Mass 50501
+LOCATION:1600 Pacific Highway\, Boston\, MA
+DESCRIPTION:Join us to preserve American democracy. Through organizing and
+  nonviolent demonstrations\, we will push every institution and elected of
+ ficial in this country to oppose Trump's dictatorial ambitions\, Elon Musk
+ 's attempts to dismantle our government\, and the Project 2025 agenda that
+  threatens our Constitution.\n\nWaterfront Park
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=1600+Pacific
+ +Highway%2C+Boston%2C+MA&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

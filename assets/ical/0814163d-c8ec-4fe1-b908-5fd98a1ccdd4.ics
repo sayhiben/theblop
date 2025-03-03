@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:246b6f90-761b-46f3-962c-1dda9bd06c5d
+SEQUENCE:0
+DTSTAMP:20250303T073722Z
+DTSTART:20250304T080000
+DTEND:20250304T120000
+SUMMARY:50501: The People's Movement
+LOCATION:Corner of Woodland & New York Avenue\, Deland\, Deland\, FL
+DESCRIPTION:Unite against oppression and dictatorship!\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Corner+of+Wo
+ odland+%26+New+York+Avenue%2C+Deland%2C+Deland%2C+FL&zoom=15&basemap=roadm
+ ap
+END:VEVENT
+END:VCALENDAR

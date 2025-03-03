@@ -2,17 +2,16 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:a4ead19c-0caf-41b9-8418-7dd826181cb4
+UID:ba8d7e7e-1dbd-47d4-bd45-0bc7440c3957
 SEQUENCE:0
-DTSTAMP:20250226T002145Z
-DTSTART:20250304T080000Z
+DTSTAMP:20250303T073722Z
+DTSTART:20250304T200000
+DTEND:20250305T000000
 SUMMARY:March for America
 LOCATION:Capitol Building\, Springfield\, IL
 DESCRIPTION:Uphold the constitution. End executive overreach.\n\nLincoln S
  tatue
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Capitol+Buil
  ding%2C+Springfield%2C+IL&zoom=15&basemap=roadmap
-ATTACH:https://theblop.org/assets/images/2d67deb6-9226-48df-acc4-13641dc3f
- adc-thumb.jpg
 END:VEVENT
 END:VCALENDAR

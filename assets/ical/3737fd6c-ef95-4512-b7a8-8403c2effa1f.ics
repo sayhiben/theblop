@@ -2,17 +2,16 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:3e8131c0-4a58-4901-878a-f6ea6963ac07
+UID:4cfde9c5-77ec-41df-8b5d-51c453c54bed
 SEQUENCE:0
-DTSTAMP:20250226T002145Z
-DTSTART:20250304T080000Z
+DTSTAMP:20250303T073722Z
+DTSTART:20250304T080000
+DTEND:20250304T120000
 SUMMARY:March Forth Against Monarchy
 LOCATION:1600 Pacific Highway\, Orlando\, FL
 DESCRIPTION:Join us to make clear that fascism is not welcome here and tha
  t we will resist Trump's immoral agenda.\n\nOrlando City Hall
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=1600+Pacific
  +Highway%2C+Orlando%2C+FL&zoom=15&basemap=roadmap
-ATTACH:https://theblop.org/assets/images/3737fd6c-ef95-4512-b7a8-8403c2eff
- a1f-thumb.jpg
 END:VEVENT
 END:VCALENDAR

@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:eade79d3-9420-4928-b72e-c2e8a0dd3567
+SEQUENCE:0
+DTSTAMP:20250303T073722Z
+DTSTART:20250304T080000
+DTEND:20250304T120000
+SUMMARY:March 4th for Democracy
+LOCATION:Monroe Park\, Richmond\, VA
+DESCRIPTION:Join us to make clear that fascism is not welcome here and tha
+ t we will resist Trump's immoral agenda!\n\nCapitol Square
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Monroe+Park%
+ 2C+Richmond%2C+VA&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

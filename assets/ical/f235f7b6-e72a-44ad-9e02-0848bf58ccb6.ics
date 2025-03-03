@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:30cee6df-2d55-4914-a763-b490baa93951
+SEQUENCE:0
+DTSTAMP:20250303T073722Z
+DTSTART:20250308T080000
+DTEND:20250308T120000
+SUMMARY:March for Liberty
+LOCATION:1 SE Broadway St. Ocala\, Florida 34471
+DESCRIPTION:Join us on March 8th from 12 - 2 pm at Ocala Historic Downtown
+  Square\, 1 SE Broadway St. Ocala\, Florida 34471.\n\nOcala Historic Downt
+ own Square
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=1+SE+Broadwa
+ y+St.+Ocala%2C+Florida+34471&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

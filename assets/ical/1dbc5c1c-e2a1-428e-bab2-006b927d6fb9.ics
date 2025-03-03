@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:4114f762-5f58-49d4-8b0d-e2e5f4bab17b
+SEQUENCE:0
+DTSTAMP:20250303T073722Z
+DTSTART:20250308T200000
+DTEND:20250309T000000
+SUMMARY:#TESLATAKEDOWN ALHAMBRA
+LOCATION:1200 W Main St\, Alhambra\, CA 91801 US
+DESCRIPTION:Join us to make clear that fascism is not welcome here and tha
+ t we will resist Trump's immoral agenda.\n\n1200 W Main St\, Alhambra\, CA
+  91801 US
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=1200+W+Main+
+ St%2C+Alhambra%2C+CA+91801+US&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

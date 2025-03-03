@@ -2,17 +2,16 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:789e3f5c-e662-4f1d-9de1-bffff51c1726
+UID:f4204db5-f549-418b-94cf-e89b8d783498
 SEQUENCE:0
-DTSTAMP:20250226T002145Z
-DTSTART:20250304T080000Z
+DTSTAMP:20250303T073722Z
+DTSTART:20250304T080000
+DTEND:20250304T120000
 SUMMARY:50501: The People's Movement
 LOCATION:901 Bagby St Houston\, TX 77002
 DESCRIPTION:Unite against oppression and dictatorship!\n\nHouston City Hal
  l
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=901+Bagby+St
  +Houston%2C+TX+77002&zoom=15&basemap=roadmap
-ATTACH:https://theblop.org/assets/images/bdd6a121-35a2-4807-8710-17ec04491
- 73b-thumb.jpg
 END:VEVENT
 END:VCALENDAR

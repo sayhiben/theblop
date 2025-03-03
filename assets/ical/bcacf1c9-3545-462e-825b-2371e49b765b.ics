@@ -2,17 +2,16 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:b12e1896-05f1-4983-ad5c-669083584bb9
+UID:8196a564-3f86-45c6-8abc-d59136804729
 SEQUENCE:0
-DTSTAMP:20250226T002145Z
-DTSTART:20250304T080000Z
+DTSTAMP:20250303T073722Z
+DTSTART:20250304T080000
+DTEND:20250304T120000
 SUMMARY:50501: The People's Movement
 LOCATION:WA State Capitol Building\, Olympia\, Washington
 DESCRIPTION:Unite against oppression and dictatorship!\n\nWA State Capitol
   Building
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=WA+State+Cap
  itol+Building%2C+Olympia%2C+Washington&zoom=15&basemap=roadmap
-ATTACH:https://theblop.org/assets/images/bcacf1c9-3545-462e-825b-2371e49b7
- 65b-thumb.jpg
 END:VEVENT
 END:VCALENDAR

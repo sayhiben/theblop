@@ -2,17 +2,16 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:2ae3ecc4-daa8-48ff-93b5-6e4b83c87df1
+UID:64076a2d-fbfc-4097-a673-c72bc4cab67c
 SEQUENCE:0
-DTSTAMP:20250226T002145Z
-DTSTART:20250329T070000Z
+DTSTAMP:20250303T073722Z
+DTSTART:20250329T070000
+DTEND:20250329T110000
 SUMMARY:Protest & Boycott Against Elon Musk
 LOCATION:1600 Pacific Highway\, San Diego\, CA
 DESCRIPTION:Join us to make clear that fascism is not welcome here and tha
  t we will resist Trump's immoral agenda.\n\nWaterfront Park
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=1600+Pacific
  +Highway%2C+San+Diego%2C+CA&zoom=15&basemap=roadmap
-ATTACH:https://theblop.org/assets/images/40dbe1c7-bcf3-43ee-ad75-062f193c2
- 0db-thumb.jpg
 END:VEVENT
 END:VCALENDAR

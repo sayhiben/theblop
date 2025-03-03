@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:c1baf29c-4205-44b1-81ef-521371c41899
+SEQUENCE:0
+DTSTAMP:20250303T073722Z
+DTSTART:20250305T000000
+DTEND:20250305T040000
+SUMMARY:March for Democracy
+LOCATION:Armory Park\, Tucson City Hall\, Tucson\, AZ
+DESCRIPTION:Join us to make clear that fascism is not welcome here and tha
+ t we will resist Trump's immoral agenda.\n\nArmory Park
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Armory+Park%
+ 2C+Tucson+City+Hall%2C+Tucson%2C+AZ&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

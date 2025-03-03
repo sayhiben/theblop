@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:5da1e71f-0457-4f1d-810c-20a147a1c951
+SEQUENCE:0
+DTSTAMP:20250303T073722Z
+DTSTART:20250314T070000
+DTEND:20250314T110000
+SUMMARY:Listen Up Washington\, DC
+LOCATION:1600 Pennsylvania Avenue NW\, Washington\, DC\, 
+DESCRIPTION:Join the 'Demand Democracy' March on the Capitol on 3.14.25\, 
+ hosted by NOWDC. If you're a true patriot and want Agent Krasnov out of th
+ e Oval Office\, join fellow Americans at the Capitol protests against our 
+ unconstitutional government.\n\nUnited States Capitol
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=1600+Pennsyl
+ vania+Avenue+NW%2C+Washington%2C+DC%2C+&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

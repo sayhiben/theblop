@@ -9,7 +9,7 @@ import { parseCSV } from './tasks/parseCsv.js';
 import { parseEventDate, isFutureEvent } from './tasks/parseDates.js';
 import { downloadImageIfNeeded, resizeImageIfNeeded } from './tasks/downloadImages.js';
 import { generatePages } from './tasks/generatePages.js';
-import { createCalendarEventIfNeeded } from './tasks/createCalendarEvents.js';
+import { createCalendarEventIfNeeded } from './tasks/createCalendarEventIfNeeded.js';
 
 // Convert import.meta.url to __dirname style usage
 const __filename = fileURLToPath(import.meta.url);

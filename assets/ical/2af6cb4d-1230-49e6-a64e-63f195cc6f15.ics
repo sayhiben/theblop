@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:2bf978fe-74a8-4a4e-9f5e-14ab5481f5f5
+SEQUENCE:0
+DTSTAMP:20250303T073722Z
+DTSTART:20250304T080000
+DTEND:20250304T120000
+SUMMARY:50501: The People's Movement
+LOCATION:500 Woodlane St.\, Little Rock\, AR
+DESCRIPTION:Unite against oppression & dictatorship!\n\nArkansas State Cap
+ itol
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=500+Woodlane
+ +St.%2C+Little+Rock%2C+AR&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:ccc29ddd-c42a-42a8-8aa3-d8fe976e299c
+SEQUENCE:0
+DTSTAMP:20250303T073722Z
+DTSTART:20250309T190000
+DTEND:20250309T230000
+SUMMARY:Tesla Takedown - Alhambra
+LOCATION:1200 W Main Street\, Alhambra\, CA 91801 US
+DESCRIPTION:Join us to make clear that fascism is not welcome here and tha
+ t we will resist Trump's immoral agenda.\n\nTesla Dealership Alhambra
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=1200+W+Main+
+ Street%2C+Alhambra%2C+CA+91801+US&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR
