@@ -22,7 +22,7 @@ export function IndexPage({ futureEvents, grouped, allStates }) {
 
         <link rel="shortcut icon" type="image/x-icon" href="favicon.ico" />
         <meta property="og:title" content="The Big List of Protests" />
-        <meta property="og:description" content="The BLOP hosts a large and detailed list of protest events submitted by users across the United States." />
+        <meta property="og:description" content="The BLOP hosts a large and detailed list of upcoming protest events submitted by users across the United States." />
         <meta property="og:image" content="https://theblop.org/theblop-logo.png" />
         <meta property="og:url" content="https://theblop.org" />
         <meta property="og:type" content="website" />
