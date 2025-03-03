@@ -465,7 +465,8 @@ function checkRunPodJobStatus(jobId) {
  * - pollAttempts=2 => 2 min
  * - pollAttempts=3 => 4 min
  * - pollAttempts=4 => 8 min
- * - clamp at 10
+ * - pollAttempts=5 => 16 min
+ * - clamp at 25
  */
 function getNewNextPollInterval(pollAttempts, prevInterval) {
   Logger.log('Calculating new next poll interval with pollAttempts=' +
@@ -476,8 +477,8 @@ function getNewNextPollInterval(pollAttempts, prevInterval) {
   } else {
     newInterval = prevInterval * 2;
   }
-  if (newInterval > 10) {
-    newInterval = 10;
+  if (newInterval > 25) {
+    newInterval = 25;
   }
   Logger.log('New next poll interval: ' + newInterval + ' minute(s).');
   return newInterval;
