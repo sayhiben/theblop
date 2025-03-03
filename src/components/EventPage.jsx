@@ -1,6 +1,6 @@
 import React from 'react';
 import { EventCard } from './EventCard';
-import { SiteAlerts } from './Alerts';
+import { SiteAlerts } from './SiteAlerts';
 import { alerts } from '../alerts';
 
 export function EventPage({ eventData }) {

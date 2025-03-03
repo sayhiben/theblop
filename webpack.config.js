@@ -2,6 +2,7 @@
 const path = require('path');
 const nodeExternals = require('webpack-node-externals');
 const CopyWebpackPlugin = require('copy-webpack-plugin');
+const WebpackShellPluginNext = require('webpack-shell-plugin-next');
 
 module.exports = {
   mode: 'production',             // or 'development'
@@ -39,5 +40,12 @@ module.exports = {
         },
       ],
     }),
+    new WebpackShellPluginNext({
+      onAfterDone: {
+        scripts: ['node dist/build.js'],
+        blocking: false, // runs asynchronously so it won’t block the next build
+        parallel: true  // run in parallel with webpack's watch process
+      }
+    })
   ],
 };

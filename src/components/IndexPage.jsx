@@ -1,12 +1,16 @@
 import React from 'react';
 import { EventCard } from './EventCard';
 import { humanizeDate } from '../tasks/parseDates';
-import { SiteAlerts } from './Alerts';
+import { SiteAlerts } from './SiteAlerts';
 import { alerts } from '../alerts';
+import { PostFlyerModal } from './PostFlyerModal';
 
 export function IndexPage({ futureEvents, grouped, allStates }) {
   // Get sorted date keys
   const dateKeys = Object.keys(grouped).sort();
+  const submissionEmail = "events@seattleprotestnetwork.org";
+  const smsLink = `sms:${submissionEmail}?body=Please%20attach%20a%20flyer%20image%20only.`;
+  const emailLink = `mailto:${submissionEmail}?subject=New%20Protest%20Flyer&body=Please%20attach%20a%20flyer%20image%20only.`;
 
   return (
     <html lang="en" className="scroll-smooth">
@@ -56,22 +60,21 @@ export function IndexPage({ futureEvents, grouped, allStates }) {
                 </select>
               </div>
             </div>
-            <div className="max-w-35">
-              <button className="bg-green-500 hover:bg-green-600 text-white font-bold py-5 sm:py-1 px-2 rounded focus:outline-none focus:shadow-outline">
-                <a href="sms:events@seattleprotestnetwork.org" className="flex items-center">
-                  <svg className="h-4 w-4 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24"
-                    xmlns="http://www.w3.org/2000/svg">
-                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2"
-                      d="M12 4v16m8-8H4"></path>
-                  </svg>
-                  Post a Flyer
-                </a>
+            <div className="max-w-35 flex">
+              <button id="openModalButton" className="flex cursor-pointer bg-green-500 hover:bg-green-600 text-white font-bold py-5 sm:py-1 px-2 rounded focus:outline-none focus:shadow-outline">
+                <svg className="h-5 mr-2 object-center" fill="none" stroke="currentColor" viewBox="0 0 24 24"
+                  xmlns="http://www.w3.org/2000/svg">
+                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2"
+                    d="M12 4v16m8-8H4"></path>
+                </svg>
+                <p>Post a Flyer</p>
               </button>
             </div>
           </div>
         </header>
 
         <SiteAlerts alerts={alerts} />
+        <PostFlyerModal smsLink={smsLink} emailLink={emailLink} />
 
         <div id="eventList" className="space-y-8">
           {dateKeys.map(dateKey => {
@@ -97,8 +100,9 @@ export function IndexPage({ futureEvents, grouped, allStates }) {
         <div id="noEventsMessage" className="hidden text-gray-500 dark:text-stone-500 mt-4 italic"></div>
 
         {/* External scripts for filtering and clipboard behavior */}
-        <script src="dist/scripts/filters.js"></script>
         <script src="dist/scripts/clipboard.js"></script>
+        <script src="dist/scripts/filters.js"></script>
+        <script src="dist/scripts/modal.js"></script>
       </body>
     </html>
   );

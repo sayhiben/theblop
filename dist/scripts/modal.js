@@ -1,0 +1,1 @@
+!function(){const e=document.getElementById("submitNewEventModal"),n=document.getElementById("openModalButton"),o=document.getElementById("closeModalButton");n.addEventListener("click",(function(){console.log("openModal"),e.classList.remove("hidden")})),o.addEventListener("click",(function(){console.log("closeModal"),e.classList.add("hidden")}))}();
