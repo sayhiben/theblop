@@ -12,7 +12,7 @@ import { parseEventDate } from './parseDates.js'; // Keep so that it's rebuilt d
 
 // A fixed list of US state abbreviations:
 const ALL_STATES = [
-  'AL','AK','AZ','AR','CA','CO','CT','DE','FL','GA',
+  'AL','AK','AZ','AR','CA','CO','CT','DC', 'DE','FL','GA',
   'HI','ID','IL','IN','IA','KS','KY','LA','ME','MD',
   'MA','MI','MN','MS','MO','MT','NE','NV','NH','NJ',
   'NM','NY','NC','ND','OH','OK','OR','PA','RI','SC',
