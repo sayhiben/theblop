@@ -9,8 +9,8 @@ export function IndexPage({ futureEvents, grouped, allStates }) {
   // Get sorted date keys
   const dateKeys = Object.keys(grouped).sort();
   const submissionEmail = "events@seattleprotestnetwork.org";
-  const smsLink = `sms:${submissionEmail}?body=Please%20attach%20a%20flyer%20image%20only.`;
-  const emailLink = `mailto:${submissionEmail}?subject=New%20Protest%20Flyer&body=Please%20attach%20a%20flyer%20image%20only.`;
+  const smsLink = `sms:${submissionEmail}?body=Please%20attach%20one%20flyer%20image%20at%20a%20time.`;
+  const emailLink = `mailto:${submissionEmail}?subject=New%20Protest%20Flyer&body=Please%20attach%20one%20flyer%20image%20at%20a%20time.`;
 
   return (
     <html lang="en" className="scroll-smooth">
