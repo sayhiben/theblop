@@ -1,11 +1,22 @@
-// language: javascript
-(function() {
+/* src/tasks/parseDates.js */
+import dayjs from 'dayjs';
+import dayjsParser from 'dayjs-parser';
+import customParseFormat from 'dayjs/plugin/customParseFormat.js';
+import utc from 'dayjs/plugin/utc.js';
+
+dayjs.extend(customParseFormat);
+dayjs.extend(dayjsParser);
+dayjs.extend(utc);
+
+(function () {
+  // Grab your DOM references
   const filterSelect = document.getElementById('stateFilter');
   const dateSelect = document.getElementById('dateFilter');
   const eventCards = document.querySelectorAll('.event-card');
   const dateGroups = document.querySelectorAll('.date-group');
   const noEventsMsg = document.getElementById('noEventsMessage');
 
+  // Listen to dropdown changes
   filterSelect.addEventListener('change', () => {
     updateURLParam('state', filterSelect.value === 'ALL' ? '' : filterSelect.value);
     applyFilters();
@@ -16,36 +27,46 @@
     applyFilters();
   });
 
+  // Initialize dropdowns from URL
   const urlParams = new URLSearchParams(window.location.search);
   filterSelect.value = urlParams.get('state') || 'ALL';
   dateSelect.value  = urlParams.get('date')  || 'ALL';
+
   applyFilters();
 
+  // Core function to apply both filters
   function applyFilters() {
     const stateValue = filterSelect.value;
     const dateValue = dateSelect.value;
     let visibleCount = 0;
 
     eventCards.forEach(card => {
+      // State filter
       const eventState = card.getAttribute('data-state');
       const matchesState = (stateValue === 'ALL' || eventState === stateValue);
-      const eventDate = new Date(card.getAttribute('data-date'));
 
-      // Date filter:
+      // Day.js parse in local time
+      // e.g. <div data-date="2025-03-05"> => dayjs("2025-03-05").local()
+      const eventDate = dayjs(card.getAttribute('data-date')).local();
+
+      // Date filter
       let matchesDate = true;
       if (dateValue !== 'ALL') {
         matchesDate = checkDateFilter(dateValue, eventDate);
       }
 
+      // Show/hide based on both filters
       card.style.display = (matchesState && matchesDate) ? 'block' : 'none';
       if (matchesState && matchesDate) visibleCount++;
     });
 
+    // Hide/show each date group if it has visible event cards
     dateGroups.forEach(group => {
       const visibleEvents = group.querySelectorAll('.event-card:not([style*="display: none"])');
       group.style.display = visibleEvents.length ? 'block' : 'none';
     });
 
+    // If no events are visible (and a filter is set), show "No matching events"
     if (visibleCount === 0 && (stateValue !== 'ALL' || dateValue !== 'ALL')) {
       noEventsMsg.textContent = 'No matching events';
       noEventsMsg.classList.remove('hidden');
@@ -54,58 +75,49 @@
     }
   }
 
+  /**
+   * Check dateFilter logic using dayjs in local time.
+   * @param {string} selectedValue - the user-selected date filter (TODAY, TOMORROW, WEEKEND, WEEK, or ALL).
+   * @param {dayjs.Dayjs} eventDate - dayjs object of the event’s date in local time.
+   * @returns {boolean} True if the event passes the filter.
+   */
   function checkDateFilter(selectedValue, eventDate) {
-    const now = new Date();
+    const now = dayjs().local();
 
     switch (selectedValue) {
       case 'TODAY': {
-        // Check if event is the same calendar date as "now":
-        return isSameDay(eventDate, now);
+        // Check if the event is the same local calendar date as "now"
+        return eventDate.isSame(now, 'day');
       }
       case 'TOMORROW': {
-        // Check if event is the calendar date immediately after "now":
-        const tomorrow = new Date(now);
-        tomorrow.setDate(tomorrow.getDate() + 1);
-        return isSameDay(eventDate, tomorrow);
+        // Check if the event is the next calendar day
+        const tomorrow = now.add(1, 'day');
+        return eventDate.isSame(tomorrow, 'day');
       }
       case 'WEEKEND': {
-        // Check if eventDate is Saturday, or Sunday:
-        const day = eventDate.getDay();
-        return day === 6 || day === 0; // 6=Sat, 0=Sun
+        // Check if eventDate is Saturday (6) or Sunday (0)
+        const dayNum = eventDate.day(); // 0=Sunday, 6=Saturday
+        return dayNum === 6 || dayNum === 0;
       }
       case 'WEEK': {
-        // Check if eventDate is within the next 7 days (including today):
-        const diffDays = daysBetween(now, eventDate);
-        return (diffDays >= 0 && diffDays < 7);
+        // Check if eventDate is within the next 7 days (including today)
+        // dayjs .diff(otherDayjs, 'day') => how many whole days
+        const diffDays = eventDate.startOf('day').diff(now.startOf('day'), 'day');
+        return diffDays >= 0 && diffDays < 7;
       }
-      default: 
-        // 'ALL' or unknown
-        // there still might be dates in the past due to infrequent updates of the source data
-        // let's only display dates after yesterday
-        const yesterday = new Date(now);
-        yesterday.setDate(yesterday.getDate() - 1);
-        return eventDate > yesterday;
+      default:
+        // 'ALL' or unknown -> filter out dates before yesterday
+        const yesterday = now.subtract(1, 'day').startOf('day');
+        return eventDate.isAfter(yesterday);
     }
   }
 
-  // Helper to check if two dates are the same calendar day:
-  function isSameDay(d1, d2) {
-    return d1.getFullYear() === d2.getFullYear() &&
-          d1.getMonth() === d2.getMonth() &&
-          d1.getDate() === d2.getDate();
-  }
-
-  // Helper to compute day difference (ignoring time of day):
-  function daysBetween(d1, d2) {
-    // Zero-out times to compare only date portion
-    const day1 = new Date(d1.getFullYear(), d1.getMonth(), d1.getDate());
-    const day2 = new Date(d2.getFullYear(), d2.getMonth(), d2.getDate());
-    // 86400000 ms in a day
-    return Math.floor((day2 - day1) / 86400000);
-  }
-
+  /**
+   * Update the URL parameters without forcing a page reload
+   */
   function updateURLParam(key, value) {
     const sp = new URLSearchParams(window.location.search);
+    // set or delete param
     value ? sp.set(key, value) : sp.delete(key);
     const newUrl = window.location.pathname + (sp.toString() ? '?' + sp.toString() : '');
     window.history.replaceState({}, '', newUrl);

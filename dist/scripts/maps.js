@@ -1,1 +1,1 @@
-export function getMapsUrl(a,e=15,r="roadmap"){return`${new URL("https://www.google.com/maps/search/")}?${new URLSearchParams({api:1,query:a,zoom:Math.min(Math.max(e,0),21),basemap:r})}`}
+(()=>{"use strict"})();
