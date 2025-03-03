@@ -27,7 +27,7 @@ export function IndexPage({ futureEvents, grouped, allStates }) {
         <meta property="og:url" content="https://theblop.org" />
         <meta property="og:type" content="website" />
       </head>
-      <body className="px-4 pb-4 lg:px-8 lg:pb-8 bg-stone-50 text-gray-900 dark:bg-gray-900 dark:text-stone-50 font-sans">
+      <body className="px-4 pb-4 lg:px-8 lg:pb-8 bg-stone-50 text-gray-900 dark:bg-gray-900 dark:text-stone-50 font-sans min-w-[375px]">
         <header className="top-0 sm:h-28 h-35 sticky bg-stone-50 dark:bg-gray-900 z-99 pt-4">
           <div className="flex justify-start items-left px-2">
             <h1 className="text-xl xs:text-2xl sm:text-3xl font-bold mb-4">
@@ -101,7 +101,7 @@ export function IndexPage({ futureEvents, grouped, allStates }) {
 
             return (
               <div className="date-group" key={dateKey}>
-                <h2 className="sticky bg-stone-200 dark:bg-gray-600 rounded-sm p-2 z-89 sm:top-28 top-33 text-xl font-semibold my-4 border-b border-gray-300 dark:border-stone-800">
+                <h2 className="sticky bg-stone-200 dark:bg-gray-600 rounded-sm p-2 z-89 sm:top-28 top-34 text-xl font-semibold my-4 border-b border-gray-300 dark:border-stone-800">
                   {humanizeDate(dateKey)}
                 </h2>
                 <div className="grid grid-cols-1 gap-4 sm:grid-cols-2 md:grid-cols-2 lg:grid-cols-3 2xl:grid-cols-4">
