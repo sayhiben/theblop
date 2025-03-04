@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:ce540f05-48a7-46dc-b7fc-2d9299194444
+SEQUENCE:0
+DTSTAMP:20250304T211742Z
+DTSTART:20250308T110000
+DTEND:20250308T150000
+SUMMARY:International Women's Day
+LOCATION:Baltimore City Hall 100 Holliday Street\, Baltimore\, MD
+DESCRIPTION:Unite and resist in Baltimore. On International Women's Day\, 
+ we're taking to the streets to fight back against the fascist takeover. Jo
+ in us to defend our rights\, our bodies\, and our future. No permission ne
+ eded—just show up and bring others.\n\nBaltimore City Hall
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Baltimore+Ci
+ ty+Hall+100+Holliday+Street%2C+Baltimore%2C+MD&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

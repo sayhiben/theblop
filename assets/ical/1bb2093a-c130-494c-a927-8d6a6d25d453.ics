@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:67141e36-535b-430d-b2eb-d39d18ae43df
+SEQUENCE:0
+DTSTAMP:20250304T211742Z
+DTSTART:20250314T000000
+DTEND:20250314T040000
+SUMMARY:National March Washington\, D.C.
+LOCATION:National Mall between 4th & 6th\, Washington\, DC
+DESCRIPTION:Join the movement to stop the coup and support democracy.\n\nN
+ ational Mall
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=National+Mal
+ l+between+4th+%26+6th%2C+Washington%2C+DC&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

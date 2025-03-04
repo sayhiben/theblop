@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:172b118a-b634-49f0-aab9-4faf08b96616
+SEQUENCE:0
+DTSTAMP:20250304T211742Z
+DTSTART:20250310T120000
+DTEND:20250310T160000
+SUMMARY:Shut Down the Coup!
+LOCATION:Capitol Bldg West Front Lawn\, Washington DC\, DC
+DESCRIPTION:Stop the dismantlement of the Government.\n\nCapitol Building\
+ , Washington D.C.
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Capitol+Bldg
+ +West+Front+Lawn%2C+Washington+DC%2C+DC&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

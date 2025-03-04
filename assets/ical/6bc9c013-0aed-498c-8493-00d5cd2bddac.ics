@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:c07a0957-30ae-4c50-b298-5454445f6855
+SEQUENCE:0
+DTSTAMP:20250304T211742Z
+DTSTART:20250314T120000
+DTEND:20250314T160000
+SUMMARY:Veterans March Against Tyranny
+LOCATION:State Capitols\, Orange\, CA
+DESCRIPTION:Join us to support and defend the Constitution of the United S
+ tates against all enemies foreign and domestic\; that I will bear true fai
+ th and allegiance to the same.\n\nNoon
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=State+Capito
+ ls%2C+Orange%2C+CA&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

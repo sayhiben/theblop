@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:d383b08c-92da-4eaf-aba9-2ab87955a567
+SEQUENCE:0
+DTSTAMP:20250304T211742Z
+DTSTART:20250329T120000
+DTEND:20250329T160000
+SUMMARY:Fed Up with Firings
+LOCATION:1600 Clifton Rd N E\, Atlanta\, GA
+DESCRIPTION:Protect Our Federal Employees\n\nCDC Atlanta Campus
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=1600+Clifton
+ +Rd+N+E%2C+Atlanta%2C+GA&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

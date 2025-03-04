@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:fb498409-ab98-4939-8f81-2ad017795489
+SEQUENCE:0
+DTSTAMP:20250304T211742Z
+DTSTART:20250307T161500
+DTEND:20250307T201500
+SUMMARY:Stand in Solidarity with Federal Workers at the Milwaukee V.A.
+LOCATION:VA Medical Center\, National Avenue & 49th St.\, Milwaukee\, WI
+DESCRIPTION:Join us to make clear that fascism is not welcome here and tha
+ t we will resist Trump's immoral agenda.\n\nNational Avenue & 49th Street
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=VA+Medical+C
+ enter%2C+National+Avenue+%26+49th+St.%2C+Milwaukee%2C+WI&zoom=15&basemap=r
+ oadmap
+END:VEVENT
+END:VCALENDAR

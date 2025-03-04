@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:808d8c55-1d0c-431e-bf28-f3826bfbb7c3
+SEQUENCE:0
+DTSTAMP:20250304T211742Z
+DTSTART:20250304T180000
+DTEND:20250304T220000
+SUMMARY:We Stand With Ukraine
+LOCATION:Charlottesville Federal Building\, Charlottesville\, VA
+DESCRIPTION:Show your support. Wear blue/yellow\, bring a flag\, bring a s
+ ign or make one onsite.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Charlottesvi
+ lle+Federal+Building%2C+Charlottesville%2C+VA&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR
