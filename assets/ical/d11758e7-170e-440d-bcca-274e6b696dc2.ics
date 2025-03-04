@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:5c8b3567-07f9-41cc-af14-37addfeafa8d
+SEQUENCE:0
+DTSTAMP:20250304T074215Z
+DTSTART:20250304T180000
+DTEND:20250304T220000
+SUMMARY:March for Liberty
+LOCATION:El Pueblo de Los Angeles Historical Monument\, 125 Paseo de la Pl
+ z.\, LA Paz/Marguerite\, Mission Viejo\, CA
+DESCRIPTION:Join us in a peaceful protest to uphold the Constitution and d
+ efend our democracy. Bring signs\, flags\, banners.\n\nLA Paz/Marguerite\,
+  Mission Viejo\, CA
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=El+Pueblo+de
+ +Los+Angeles+Historical+Monument%2C+125+Paseo+de+la+Plz.%2C+LA+Paz%2FMargu
+ erite%2C+Mission+Viejo%2C+CA&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR
