@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:9ef098f8-8587-46ec-954c-4476ec191813
+SEQUENCE:0
+DTSTAMP:20250304T061224Z
+DTSTART:20250305T093000
+DTEND:20250305T133000
+SUMMARY:Prayer at the Time of Testimony
+LOCATION:138 Tremont Street\, Boston MA
+DESCRIPTION:Join us to pray for Mayor Michelle Wu\, our city\, new neighbo
+ rs and justice. Then we will watch or join the protest on the Common.\n\nC
+ athedral Church of St. Paul
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=138+Tremont+
+ Street%2C+Boston+MA&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

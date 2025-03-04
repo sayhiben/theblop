@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:850b335a-85d6-4962-83ed-1359f4b26346
+SEQUENCE:0
+DTSTAMP:20250304T061224Z
+DTSTART:20250304T150000
+DTEND:20250304T190000
+SUMMARY:We Deserve a Town Hall!
+LOCATION:70 N Mason St\, Harrisonburg\, VA
+DESCRIPTION:Join us to make clear that fascism is not welcome here and tha
+ t we will resist Trump's immoral agenda.\n\nBen Cline’s Office
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=70+N+Mason+S
+ t%2C+Harrisonburg%2C+VA&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

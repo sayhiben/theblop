@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:92865425-625e-4df7-9b89-afb2b1e2ceaa
+SEQUENCE:0
+DTSTAMP:20250304T061224Z
+DTSTART:20250306T160000
+DTEND:20250306T200000
+SUMMARY:Tesla Dealership Protest
+LOCATION:7101 Glenwood Ave\, Raleigh\, NC 27612
+DESCRIPTION:No one voted for Elon Musk\n\nDurhamites 4 Democracy
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=7101+Glenwoo
+ d+Ave%2C+Raleigh%2C+NC+27612&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

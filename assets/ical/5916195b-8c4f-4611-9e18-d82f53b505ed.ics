@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:7ddeeacd-fd8f-4142-aaba-f387bc9ff981
+SEQUENCE:0
+DTSTAMP:20250304T061224Z
+DTSTART:20250305T173000
+DTEND:20250305T213000
+SUMMARY:Emergency Demonstration at the U.S. Embassy
+LOCATION:Nine Elms\, SW11 7US\, London\, 
+DESCRIPTION:Called by Ukraine Solidarity Campaign and Ukrainian organisati
+ ons. Speakers including John McDonnell MP.\n\nUS Embassy
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Nine+Elms%2C
+ +SW11+7US%2C+London%2C+&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

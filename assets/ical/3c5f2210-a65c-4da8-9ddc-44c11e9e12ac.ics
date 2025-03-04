@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:a4f021bb-7b55-459f-a02f-8366323364fc
+SEQUENCE:0
+DTSTAMP:20250304T061224Z
+DTSTART:20250304T120000
+DTEND:20250304T160000
+SUMMARY:March for Democracy
+LOCATION:Daley Plaza\, Chicago\, IL
+DESCRIPTION:Join us for a peaceful protest 50 STATES\, 50 PROTESTS\, 1 MOV
+ EMENT\n\nChicago\, Illinois
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Daley+Plaza%
+ 2C+Chicago%2C+IL&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:5db6b928-5571-4b5c-ad56-ddc7662aad03
+SEQUENCE:0
+DTSTAMP:20250304T061224Z
+DTSTART:20250304T160000
+DTEND:20250304T200000
+SUMMARY:50501: The People's Movement
+LOCATION:Superior Street & Lake Avenue\, Duluth\, MN
+DESCRIPTION:Unite against oppression and dictatorship Defend our democracy
+ \, stand up for human rights!\n\nDuluth
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Superior+Str
+ eet+%26+Lake+Avenue%2C+Duluth%2C+MN&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:07c614d2-4acc-4d27-8d14-7753610b5f2b
+SEQUENCE:0
+DTSTAMP:20250304T061224Z
+DTSTART:20250304T120000
+DTEND:20250304T160000
+SUMMARY:Rise Against Tyranny!
+LOCATION:Town Clock\, Santa Cruz\, California
+DESCRIPTION:Defend our democracy Stand up for human rights 50 states\, 50 
+ protests\, 1 movement\n\nSanta Cruz\, California
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Town+Clock%2
+ C+Santa+Cruz%2C+California&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

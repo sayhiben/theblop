@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:814ab602-e493-435f-a41d-69c5026ccecb
+SEQUENCE:0
+DTSTAMP:20250304T061224Z
+DTSTART:20250304T050000
+DTEND:20250304T090000
+SUMMARY:We The People
+LOCATION:Capitol Building\, North Carolina State Capitol\, Raleigh\, NC 27
+ 601
+DESCRIPTION:Say no to fascism\, no to oligarchs\, no to Trump.\n\nCapitol 
+ Building\, North Carolina State Capitol\, Raleigh\, NC 27601
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Capitol+Buil
+ ding%2C+North+Carolina+State+Capitol%2C+Raleigh%2C+NC+27601&zoom=15&basema
+ p=roadmap
+END:VEVENT
+END:VCALENDAR

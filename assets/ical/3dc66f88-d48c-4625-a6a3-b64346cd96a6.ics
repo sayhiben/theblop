@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:518cfda5-cbc8-420b-a43c-570ce60bbbd7
+SEQUENCE:0
+DTSTAMP:20250304T061224Z
+DTSTART:20250304T120000
+DTEND:20250304T160000
+SUMMARY:March for Democracy
+LOCATION:Niagara Square\, Buffalo\, NY
+DESCRIPTION:Join us to demand democracy and social justice.\n\nBuffalo\, N
+ Y
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Niagara+Squa
+ re%2C+Buffalo%2C+NY&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

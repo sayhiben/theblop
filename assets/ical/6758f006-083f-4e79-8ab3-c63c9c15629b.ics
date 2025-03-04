@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:2e24d478-ba74-4b44-a145-9ad648afedad
+SEQUENCE:0
+DTSTAMP:20250304T061224Z
+DTSTART:20250306T170000
+DTEND:20250306T210000
+SUMMARY:Rally & Petition Delivery
+LOCATION:201 W Second Street\, Davenport\, IA
+DESCRIPTION:Come out to support Iowa's over 20\,000 federal employees & te
+ ll Miller-Meeks to start STANDING UP for Iowans\n\nMiller-Meeks' Davenport
+  office
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=201+W+Second
+ +Street%2C+Davenport%2C+IA&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

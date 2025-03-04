@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:2a837c93-cc37-4c15-bafe-62a6cbcc8890
+SEQUENCE:0
+DTSTAMP:20250304T061224Z
+DTSTART:20250308T000000
+DTEND:20250308T040000
+SUMMARY:People's March
+LOCATION:State Capitol Building\, AR\, AR
+DESCRIPTION:I will not quietly go back to the 1950s.\n\n10 AM - 4 PM
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=State+Capito
+ l+Building%2C+AR%2C+AR&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

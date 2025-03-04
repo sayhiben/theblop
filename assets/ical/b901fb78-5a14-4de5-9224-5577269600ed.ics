@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:03d112f3-9480-4f80-b4a3-60fbc85aae63
+SEQUENCE:0
+DTSTAMP:20250304T061224Z
+DTSTART:20250304T120000
+DTEND:20250304T160000
+SUMMARY:Canadians March on March 4!
+LOCATION:490 Sussex Drive\, Ottawa\, Canada
+DESCRIPTION:Across the street of the American Embassy\, 490 Sussex Drive\,
+  Ottawa\, Canada. On March 4\, Americans are marching nationwide against t
+ heir 'King' Trump. Canadians march in solidarity\, peacefully. We do NOT w
+ ant Ford\, Poilievre to give in to Trump.\n\nAcross the street of the Amer
+ ican Embassy
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=490+Sussex+D
+ rive%2C+Ottawa%2C+Canada&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

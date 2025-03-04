@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:9b977a4b-460f-4ec8-8bbc-8f0271c70a8a
+SEQUENCE:0
+DTSTAMP:20250304T061224Z
+DTSTART:20250304T000000
+DTEND:20250304T040000
+SUMMARY:Sacramento's March for Democracy
+LOCATION:211 O St. 95814\, Sacramento\, CA
+DESCRIPTION:Join us to make clear that fascism is not welcome here and tha
+ t we will resist Trump's immoral agenda.\n\nCrocker Park
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=211+O+St.+95
+ 814%2C+Sacramento%2C+CA&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

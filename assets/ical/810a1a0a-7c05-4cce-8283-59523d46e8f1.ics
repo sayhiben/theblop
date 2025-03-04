@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:13057ace-1619-4b77-9100-00d263ad53d0
+SEQUENCE:0
+DTSTAMP:20250304T061224Z
+DTSTART:20250314T000000
+DTEND:20250314T040000
+SUMMARY:Veterans March
+LOCATION:1400 New Jersey Ave\, NW\, Washington\, DC 20549
+DESCRIPTION:I will support and defend the Constitution of the United State
+ s against all enemies foreign and domestic\; that I will bear true faith a
+ nd allegiance to the same. Project 2025 will decimate programs veterans re
+ ly on and has already eliminated vital lifelines (Veterans Crisis Line).\n
+ \nUnited States Capitol
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=1400+New+Jer
+ sey+Ave%2C+NW%2C+Washington%2C+DC+20549&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:6426becf-7146-4daa-9203-0254bd117e9c
+SEQUENCE:0
+DTSTAMP:20250304T061224Z
+DTSTART:20250304T160000
+DTEND:20250304T200000
+SUMMARY:50501: The People's Movement
+LOCATION:800 Cushman St\, Fairbanks\, AK
+DESCRIPTION:Unite against oppression & dictatorship!\n\nFairbanks City Hal
+ l
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=800+Cushman+
+ St%2C+Fairbanks%2C+AK&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:77be8135-373c-43b3-b13b-62c3b62b3654
+SEQUENCE:0
+DTSTAMP:20250304T061224Z
+DTSTART:20250304T120000
+DTEND:20250304T160000
+SUMMARY:Sacramento's March for Democracy
+LOCATION:Capitol Mall between 4th & 10th\, Sacramento\, CA
+DESCRIPTION:Join AFGE President Kelley\, key lawmakers\, dynamic labor lea
+ ders and fellow union members as we march to defend our democracy.\n\nCapi
+ tol Mall between 4th & 10th
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Capitol+Mall
+ +between+4th+%26+10th%2C+Sacramento%2C+CA&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

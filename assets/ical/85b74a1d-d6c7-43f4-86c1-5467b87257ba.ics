@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:57ee1178-861e-4578-83e2-f1056d9b7edc
+SEQUENCE:0
+DTSTAMP:20250304T061224Z
+DTSTART:20250304T180000
+DTEND:20250304T220000
+SUMMARY:Philadelphia Stands with Ukraine
+LOCATION:1600 John F. Kennedy Blvd.\, Philadelphia\, PA
+DESCRIPTION:In light of recent discussions between Ukrainian President Vol
+ odymyr Zelenskyy and U.S. President Donald Trump\, the Philadelphia commun
+ ity is coming together to reaffirm the United States' commitment to democr
+ acy and the fight against Russian aggression. This is not just about Ukrai
+ ne\; this is about the core principles of freedom and democracy that the U
+ nited States has always championed. We are calling on all Americans to rem
+ ember what this country stands for and to stand in solidarity with Ukraine
+ . Please bring signs and Ukrainian flags to show your support.\n\nPhiladel
+ phia City Hall
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=1600+John+F.
+ +Kennedy+Blvd.%2C+Philadelphia%2C+PA&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

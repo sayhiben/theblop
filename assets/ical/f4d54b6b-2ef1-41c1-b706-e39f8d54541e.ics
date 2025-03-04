@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:e1c552cb-b9ce-4e56-87c3-d075d905f0ca
+SEQUENCE:0
+DTSTAMP:20250304T061224Z
+DTSTART:20250308T000000
+DTEND:20250308T040000
+SUMMARY:Women's Day March
+LOCATION:100 NW Naito Pkwy\, Portland\, OR 97209
+DESCRIPTION:Join us to make clear that fascism is not welcome here and tha
+ t we will resist Trump's immoral agenda.\n\nJapanese American Historical P
+ laza
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=100+NW+Naito
+ +Pkwy%2C+Portland%2C+OR+97209&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

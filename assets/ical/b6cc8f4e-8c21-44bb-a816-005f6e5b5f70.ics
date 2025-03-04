@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:75254744-ec7c-49fe-b910-2ddab8e0252d
+SEQUENCE:0
+DTSTAMP:20250304T061224Z
+DTSTART:20250304T170000
+DTEND:20250304T210000
+SUMMARY:No Kings in America March
+LOCATION:1600 Pacific Highway\, Redding\, CA
+DESCRIPTION:Join us to make clear that fascism is not welcome here and tha
+ t we will resist Trump's immoral agenda.\n\nRedding City Hall
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=1600+Pacific
+ +Highway%2C+Redding%2C+CA&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

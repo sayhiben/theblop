@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:4b202265-01e3-4429-be86-5c86507971c6
+SEQUENCE:0
+DTSTAMP:20250304T061224Z
+DTSTART:20250308T120000
+DTEND:20250308T160000
+SUMMARY:Women's Day March
+LOCATION:100 NW Naito Pkwy Portland\, OR 97209
+DESCRIPTION:No to oligarchy & fascism in USA. Free Palestine. Immigrant ri
+ ghts are human rights. Trans & Queer rights are human rights. Women’s ri
+ ghts are human rights.\n\nJapanese American Historical Plaza
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=100+NW+Naito
+ +Pkwy+Portland%2C+OR+97209&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

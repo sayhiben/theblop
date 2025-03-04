@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:83f21183-5d9b-488c-b63a-56c0bbae8bac
+SEQUENCE:0
+DTSTAMP:20250304T061224Z
+DTSTART:20250306T170000
+DTEND:20250306T210000
+SUMMARY:Rally For Gender-Inclusive Rights
+LOCATION:84 Massachusetts Avenue\, Cambridge\, MA
+DESCRIPTION:Join the MIT community in declaring that the rights of Women a
+ nd Gender Minorities WILL NOT BE ERASED. Come learn from the experienced h
+ ow ANYBODY can help protect them.\n\nMIT Media Lab\, Lobby 13
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=84+Massachus
+ etts+Avenue%2C+Cambridge%2C+MA&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

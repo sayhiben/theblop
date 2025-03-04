@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:2ada27fc-e622-4c6f-a118-1f3226668547
+SEQUENCE:0
+DTSTAMP:20250304T061224Z
+DTSTART:20250304T120000
+DTEND:20250304T160000
+SUMMARY:National Day of Protest
+LOCATION:1221 SW 4th Ave\, Portland\, OR
+DESCRIPTION:Join us to resist fascism and end executive overreach.\n\nPort
+ land City Hall
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=1221+SW+4th+
+ Ave%2C+Portland%2C+OR&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

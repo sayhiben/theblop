@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:17b61fb0-aafb-4da9-9c08-f48d7e145ab1
+SEQUENCE:0
+DTSTAMP:20250304T061224Z
+DTSTART:20250304T180000
+DTEND:20250304T220000
+SUMMARY:50501: THE PEOPLE'S MOVEMENT
+LOCATION:1 Civic Center\, Irvine\, CA
+DESCRIPTION:Unite against oppression & dictatorship!\n\nIrvine City Hall
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=1+Civic+Cent
+ er%2C+Irvine%2C+CA&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

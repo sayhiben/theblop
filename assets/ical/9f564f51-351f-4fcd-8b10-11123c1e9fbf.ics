@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:de7febe2-04d3-408a-8566-239bb51611b0
+SEQUENCE:0
+DTSTAMP:20250304T061224Z
+DTSTART:20250304T160000
+DTEND:20250304T200000
+SUMMARY:50501: The People's Movement
+LOCATION:Orlando City Hall\, Orlando\, FL
+DESCRIPTION:Unite against oppression & dictatorship!\n\n4-6PM\, Tuesday\, 
+ March 4th
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Orlando+City
+ +Hall%2C+Orlando%2C+FL&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

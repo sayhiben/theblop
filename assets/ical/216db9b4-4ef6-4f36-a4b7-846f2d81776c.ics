@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:e7762df3-ed15-427a-a6cf-106c22b12c81
+SEQUENCE:0
+DTSTAMP:20250304T061224Z
+DTSTART:20250308T140000
+DTEND:20250308T180000
+SUMMARY:International Women's Day Rally
+LOCATION:Principal River Walk\, Des Moines\, IA\, 50309.
+DESCRIPTION:Join us for a celebration of women and women’s empowerment o
+ n International Women’s Day!\n\nEAST SIDE OF THE WOMEN’S ACHIEVEMENT B
+ RIDGE
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Principal+Ri
+ ver+Walk%2C+Des+Moines%2C+IA%2C+50309.&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:e87a10f9-b413-40ee-a8d7-107b86a55e2c
+SEQUENCE:0
+DTSTAMP:20250304T061224Z
+DTSTART:20250306T190000
+DTEND:20250306T230000
+SUMMARY:Washtenaw Community Town Hall
+LOCATION:4800 E. Huron River Dr.\, Ann Arbor\, MI
+DESCRIPTION:Hosted by Congresswoman Dingell\, State Senators Irwin and Shi
+ nk\, and State Representatives Morgan\, Rheingans\, Conlin\, and Wilson.\n
+ \nTowsley Auditorium\, Washtenaw Community College Campus
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=4800+E.+Huro
+ n+River+Dr.%2C+Ann+Arbor%2C+MI&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

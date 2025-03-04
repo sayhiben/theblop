@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:eb746027-c3c8-4a08-8e9c-76c1e6a37b27
+SEQUENCE:0
+DTSTAMP:20250304T061224Z
+DTSTART:20250310T150000
+DTEND:20250310T190000
+SUMMARY:Protest Nefesh B'Nefesh Settler Fair!
+LOCATION:370 Glenwood Ave.\, Teaneck\, NJ
+DESCRIPTION:Join us in protesting Nefesh B'Nefesh for its role in land the
+ ft\, ethnic cleansing\, and recruiting for a military actively committing 
+ war crimes in occupied Palestine. Their Aliyah Fair promotes the displacem
+ ent of Palestinians by encouraging Jewish immigration to 'Israel' and ille
+ gal settlements\, fueling land theft and demographic engineering in violat
+ ion of Palestinian human rights. Bring FLAGS\, Kufiyyehs\, and signs Dress
+  warmly and move in groups!\n\nTEANECK\, NJ
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=370+Glenwood
+ +Ave.%2C+Teaneck%2C+NJ&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

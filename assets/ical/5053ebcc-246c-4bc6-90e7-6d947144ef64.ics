@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:48d560a6-0ab5-47a1-9035-d35810b3c8f7
+SEQUENCE:0
+DTSTAMP:20250304T061224Z
+DTSTART:20250304T120000
+DTEND:20250304T160000
+SUMMARY:March for Liberty
+LOCATION:Oklahoma State Capitol\, Oklahoma City\, OK
+DESCRIPTION:Join us to show your vision of America by bringing your flag. 
+ Extremist symbols (Nazi\, Confederate) are not welcome.\n\n12PM - 4PM
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Oklahoma+Sta
+ te+Capitol%2C+Oklahoma+City%2C+OK&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

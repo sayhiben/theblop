@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:50f433e6-4cd9-4fa1-a005-d48a6632d7c6
+SEQUENCE:0
+DTSTAMP:20250304T061224Z
+DTSTART:20250308T133000
+DTEND:20250308T173000
+SUMMARY:Rally for Science
+LOCATION:Cougar Plaza Opening Remarks\, Moscow\, ID
+DESCRIPTION:Good science heals\, protects\, advances and prevails. Stand u
+ p for science.\n\nReaney Park
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Cougar+Plaza
+ +Opening+Remarks%2C+Moscow%2C+ID&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:b0480793-0921-4904-b8ab-322e1facb2c7
+SEQUENCE:0
+DTSTAMP:20250304T061224Z
+DTSTART:20250304T120000
+DTEND:20250304T160000
+SUMMARY:We The People Say No To Kings
+LOCATION:1221 Southwest 4th Avenue\, Portland\, Oregon\, 97204
+DESCRIPTION:Join us to uphold the Constitution and end executive overreach
+ .\n\nCity Hall
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=1221+Southwe
+ st+4th+Avenue%2C+Portland%2C+Oregon%2C+97204&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

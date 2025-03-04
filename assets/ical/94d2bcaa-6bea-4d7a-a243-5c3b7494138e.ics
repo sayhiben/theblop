@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:f0b7d844-7eda-404b-a441-41000f571dda
+SEQUENCE:0
+DTSTAMP:20250304T061224Z
+DTSTART:20250803T110000
+DTEND:20250803T150000
+SUMMARY:WOMXNS MARCH COME MARCH W/ US
+LOCATION:Washington Square\, San Francisco\, CA
+DESCRIPTION:Day of Unity\, Between All Sisters\n\nUnion Square
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Washington+S
+ quare%2C+San+Francisco%2C+CA&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

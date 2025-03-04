@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:24ac469f-fdd4-4b61-b4f5-248dfae675a7
+SEQUENCE:0
+DTSTAMP:20250304T061224Z
+DTSTART:20250304T120000
+DTEND:20250304T160000
+SUMMARY:March Forth Against Tyranny
+LOCATION:350 State Street\, Salt Lake City\, UT
+DESCRIPTION:National Day of Protest\, Uphold the Constitution\, End Execut
+ ive Overreach\, Reject Fascist Takeover\n\nUtah State Capitol
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=350+State+St
+ reet%2C+Salt+Lake+City%2C+UT&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

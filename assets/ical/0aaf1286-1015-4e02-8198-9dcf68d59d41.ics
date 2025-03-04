@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:16477254-6ea9-4043-b448-e9a12a81efc6
+SEQUENCE:0
+DTSTAMP:20250304T061224Z
+DTSTART:20250304T150000
+DTEND:20250304T190000
+SUMMARY:Protest the Trump Agenda Stand Up for Human Rights
+LOCATION:Kennedy Blvd\, Tampa FL 33602
+DESCRIPTION:Join us to make clear that fascism is not welcome here and tha
+ t we will resist Trump's immoral agenda.\n\nTampa City Hall
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Kennedy+Blvd
+ %2C+Tampa+FL+33602&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

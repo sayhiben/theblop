@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:a4c4894b-9c6e-4438-91a9-6a9936877c92
+SEQUENCE:0
+DTSTAMP:20250304T061224Z
+DTSTART:20250304T120000
+DTEND:20250304T160000
+SUMMARY:March for Democracy
+LOCATION:Daley Plaza\, Chicago\, Illinois
+DESCRIPTION:Join us for a peaceful protest to uphold the Constitution and 
+ end executive overreach.\n\nDaley Plaza
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Daley+Plaza%
+ 2C+Chicago%2C+Illinois&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

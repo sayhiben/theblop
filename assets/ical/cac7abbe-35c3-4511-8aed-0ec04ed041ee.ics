@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:57f5aa7b-f622-4987-b3eb-2c381eb394ae
+SEQUENCE:0
+DTSTAMP:20250304T061224Z
+DTSTART:20250305T013000
+DTEND:20250305T053000
+SUMMARY:Light for Our Democracy
+LOCATION:Black Lives Matter Plaza NW (corner of H St. & 16th St.)\, Washin
+ gton\, DC\, DC
+DESCRIPTION:Join us to light candles and show our support for democracy!\n
+ \nBlack Lives Matter Plaza NW
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Black+Lives+
+ Matter+Plaza+NW+%28corner+of+H+St.+%26+16th+St.%29%2C+Washington%2C+DC%2C+
+ DC&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

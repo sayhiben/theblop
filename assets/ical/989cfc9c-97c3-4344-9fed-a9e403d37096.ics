@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:55b0c3ec-d164-4661-b192-449a1f289670
+SEQUENCE:0
+DTSTAMP:20250304T061224Z
+DTSTART:20250304T120000
+DTEND:20250304T160000
+SUMMARY:March for Democracy
+LOCATION:East Capitol Park\, Albany\, NY
+DESCRIPTION:Join us to defend democracy and resist authoritarianism.\n\nAl
+ bany\, NY
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=East+Capitol
+ +Park%2C+Albany%2C+NY&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

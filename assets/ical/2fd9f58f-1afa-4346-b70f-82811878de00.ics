@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:fa880552-e549-46dd-9698-7c89f7b5e6ef
+SEQUENCE:0
+DTSTAMP:20250304T061224Z
+DTSTART:20250308T120000
+DTEND:20250308T160000
+SUMMARY:Keep Up the Protests!
+LOCATION:205 Government St.\, Mobile\, AL
+DESCRIPTION:Join us to make clear that fascism is not welcome here and we 
+ will resist authoritarianism\, fascism\, and injustice.\n\nGovernment Plaz
+ a
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=205+Governme
+ nt+St.%2C+Mobile%2C+AL&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

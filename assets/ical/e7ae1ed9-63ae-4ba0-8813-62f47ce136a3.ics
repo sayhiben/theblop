@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:5468b99f-ffc1-414f-96c6-c3cf1bc86737
+SEQUENCE:0
+DTSTAMP:20250304T061224Z
+DTSTART:20250304T000000
+DTEND:20250304T040000
+SUMMARY:March for Democracy
+LOCATION:4th Downtown\, Sacramento\, CA
+DESCRIPTION:Join us to make clear that fascism is not welcome here and tha
+ t we will resist Trump's immoral agenda.\n\nRoute to be announced soon
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=4th+Downtown
+ %2C+Sacramento%2C+CA&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

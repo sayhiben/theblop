@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:649e604c-1717-4cf3-9312-7579fffa298c
+SEQUENCE:0
+DTSTAMP:20250304T061224Z
+DTSTART:20250308T120000
+DTEND:20250308T160000
+SUMMARY:International Women's Day Unite & Resist in Montpelier\, VT
+LOCATION:Vermont State House\, Montpelier\, VT
+DESCRIPTION:Join us to make clear that fascism is not welcome here and tha
+ t we will resist Trump's immoral agenda.\n\nGather at the Vermont State Ho
+ use
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Vermont+Stat
+ e+House%2C+Montpelier%2C+VT&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

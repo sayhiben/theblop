@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:eb3e6aa7-8256-4a56-9d82-6fe03693e90b
+SEQUENCE:0
+DTSTAMP:20250304T061224Z
+DTSTART:20250308T130000
+DTEND:20250308T170000
+SUMMARY:Stand With Ukraine March For Democracy
+LOCATION:3315 Tamiami Trl E\, Naples\, FL
+DESCRIPTION:Join us to stand with the people of Ukraine and march for demo
+ cracy.\n\nCollier County Courthouse
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=3315+Tamiami
+ +Trl+E%2C+Naples%2C+FL&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

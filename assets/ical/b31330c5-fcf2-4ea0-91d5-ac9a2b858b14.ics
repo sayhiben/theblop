@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:f8dcc951-6cd5-4462-a175-cb7df8286485
+SEQUENCE:0
+DTSTAMP:20250304T061224Z
+DTSTART:20250307T120000
+DTEND:20250307T160000
+SUMMARY:Stand Up for Science
+LOCATION:University of Arizona Main Mall\, Tucson\, AZ
+DESCRIPTION:Join us to make clear that science is not welcome here and tha
+ t we will resist Trump's immoral agenda.\n\nUniversity of Arizona Main Mal
+ l
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=University+o
+ f+Arizona+Main+Mall%2C+Tucson%2C+AZ&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

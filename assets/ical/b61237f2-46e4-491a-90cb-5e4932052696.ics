@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:458e4f50-26bb-4227-8bbb-79d6cb161d6b
+SEQUENCE:0
+DTSTAMP:20250304T061224Z
+DTSTART:20250304T120000
+DTEND:20250304T160000
+SUMMARY:Preserve Freedom & Democracy
+LOCATION:Corner of Tucker x W Tehachapi Blvd\, San Luis Obispo\, CA
+DESCRIPTION:Join us for a peaceful protest to preserve freedom and democra
+ cy.\n\nCounty of Ventura Government Center
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Corner+of+Tu
+ cker+x+W+Tehachapi+Blvd%2C+San+Luis+Obispo%2C+CA&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

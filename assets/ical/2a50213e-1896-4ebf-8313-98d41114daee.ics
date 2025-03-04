@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:11bb0f06-ff49-4a20-aeca-189c39bfb4d5
+SEQUENCE:0
+DTSTAMP:20250304T061224Z
+DTSTART:20250304T170000
+DTEND:20250304T210000
+SUMMARY:March 4th for Democracy
+LOCATION:105 S San Mateo Dr.\, San Mateo\, CA
+DESCRIPTION:Join us to make clear that fascism is not welcome here and tha
+ t we will resist Trump's immoral agenda!\n\nOld Library Parking Lot\, Palm
+ er
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=105+S+San+Ma
+ teo+Dr.%2C+San+Mateo%2C+CA&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

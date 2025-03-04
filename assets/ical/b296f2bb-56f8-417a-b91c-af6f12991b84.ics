@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:6ddf3fea-131a-4d07-862e-b2299fa9b7fb
+SEQUENCE:0
+DTSTAMP:20250304T061224Z
+DTSTART:20250305T163000
+DTEND:20250305T203000
+SUMMARY:Standout to Support President Trump\, Tom Homan & ICE
+LOCATION:Bourne Rotary\, Bourne\, MA
+DESCRIPTION:Join us as we show our support for President Trump\, Tom Homan
+  and the men and women of ICE who work tirelessly to uphold our nation's l
+ aws and protect our communities.\n\nBourne Rotary
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Bourne+Rotar
+ y%2C+Bourne%2C+MA&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:66b89527-78f0-4e49-88bd-1552804b7e2e
+SEQUENCE:0
+DTSTAMP:20250304T061224Z
+DTSTART:20250304T000000
+DTEND:20250304T040000
+SUMMARY:Protest the Trump Administration
+LOCATION:Capitol Building\, Topeka\, KS
+DESCRIPTION:Stand up to the oligarchy. Dress for the weather because we pr
+ otest rain or shine.\n\nCapitol Building
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Capitol+Buil
+ ding%2C+Topeka%2C+KS&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

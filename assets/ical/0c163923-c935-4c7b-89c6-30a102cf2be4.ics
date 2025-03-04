@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:8af22bd1-7e75-46f4-b228-80ae5bfc4b89
+SEQUENCE:0
+DTSTAMP:20250304T061224Z
+DTSTART:20250304T160000
+DTEND:20250304T200000
+SUMMARY:50501: The People's Movement
+LOCATION:150 Concord St.\, Framingham\, MA
+DESCRIPTION:Unite against oppression & dictatorship!\n\nMemorial Building
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=150+Concord+
+ St.%2C+Framingham%2C+MA&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

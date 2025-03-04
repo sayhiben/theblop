@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:3af09a4f-990d-44db-818c-6569816c3262
+SEQUENCE:0
+DTSTAMP:20250304T061224Z
+DTSTART:20250403T170000
+DTEND:20250403T210000
+SUMMARY:March Against Trumpism
+LOCATION:3299 Tamiami Trail\, Naples\, FL
+DESCRIPTION:Join us to make clear that fascism is not welcome here and tha
+ t we will resist Trump's immoral agenda.\n\nOn the corner\, outside Rep. D
+ onald's office
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=3299+Tamiami
+ +Trail%2C+Naples%2C+FL&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:c5a3ac5d-5ee6-450d-8708-7b070c8fa79f
+SEQUENCE:0
+DTSTAMP:20250304T061224Z
+DTSTART:20250315T120000
+DTEND:20250315T160000
+SUMMARY:Dance for Democracy
+LOCATION:Memorial Drive\, Chicopee\, Chicopee\, MA
+DESCRIPTION:Western Mass Solidarity & Action Presents: Dance for Democracy
+ . Join us to make clear that fascism is not welcome here and that we will 
+ resist Trump's immoral agenda!\n\nMemorial Drive\, Chicopee
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Memorial+Dri
+ ve%2C+Chicopee%2C+Chicopee%2C+MA&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

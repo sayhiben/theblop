@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:5d37242f-07b9-4d48-ab98-ec9b048586ad
+SEQUENCE:0
+DTSTAMP:20250304T061224Z
+DTSTART:20250304T120000
+DTEND:20250304T160000
+SUMMARY:50501: THE PEOPLE'S MOVEMENT
+LOCATION:401 Bosley Avenue\, Baltimore\, MD
+DESCRIPTION:Join us for a peaceful\, family-friendly protest to defend dem
+ ocracy.\n\nBaltimore County Circuit Court
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=401+Bosley+A
+ venue%2C+Baltimore%2C+MD&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

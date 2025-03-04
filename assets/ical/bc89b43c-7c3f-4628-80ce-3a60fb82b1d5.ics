@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:fb0fac85-6878-42e4-b04b-e55b53601464
+SEQUENCE:0
+DTSTAMP:20250304T061224Z
+DTSTART:20250305T170000
+DTEND:20250305T210000
+SUMMARY:Tesla Protest
+LOCATION:Waikiki Tesla Dealership (2330 Kalākaua Ave)\, Honolulu\, HI
+DESCRIPTION:Join us to make clear that Elon Musk is unqualified\, unelecte
+ d\, and unaccountable. He must go.\n\nWaikiki Tesla Dealership
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Waikiki+Tesl
+ a+Dealership+%282330+Kal%C4%81kaua+Ave%29%2C+Honolulu%2C+HI&zoom=15&basema
+ p=roadmap
+END:VEVENT
+END:VCALENDAR

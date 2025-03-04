@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:7ed63c87-3022-40fa-8d22-2e43e44ea0bf
+SEQUENCE:0
+DTSTAMP:20250304T061224Z
+DTSTART:20250307T120000
+DTEND:20250307T160000
+SUMMARY:Stand Up for Science
+LOCATION:Washington Square Park\, New York City\, NY
+DESCRIPTION:Join us to stand up for science and fight against anti-science
+  policies.\n\n12-3 PM
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Washington+S
+ quare+Park%2C+New+York+City%2C+NY&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

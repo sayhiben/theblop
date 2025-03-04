@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:90836b13-0c25-4c26-a824-7f331cda1a2e
+SEQUENCE:0
+DTSTAMP:20250304T061224Z
+DTSTART:20250304T120000
+DTEND:20250304T160000
+SUMMARY:50501: THE PEOPLE'S MOVEMENT
+LOCATION:200 Lincoln Ave.\, Salinas\, CA
+DESCRIPTION:Unite against oppression & dictatorship!\n\nSalinas City Hall
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=200+Lincoln+
+ Ave.%2C+Salinas%2C+CA&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

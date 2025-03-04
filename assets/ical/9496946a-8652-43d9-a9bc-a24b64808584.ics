@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:eb4432a4-7c16-46dd-9116-e990338f292b
+SEQUENCE:0
+DTSTAMP:20250304T061224Z
+DTSTART:20250305T070000
+DTEND:20250305T110000
+SUMMARY:Stand for Democracy
+LOCATION:Capaha Park on the corner of West End & Broadway\, San Diego\, CA
+DESCRIPTION:Join us to make clear that fascism is not welcome here and tha
+ t we will resist Trump's immoral agenda!\n\nCapaha Park at Freedom Corner
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Capaha+Park+
+ on+the+corner+of+West+End+%26+Broadway%2C+San+Diego%2C+CA&zoom=15&basemap=
+ roadmap
+END:VEVENT
+END:VCALENDAR

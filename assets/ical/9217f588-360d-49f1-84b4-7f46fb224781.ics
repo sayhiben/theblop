@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:222b45fb-df12-40d0-8673-c9ec1ff6354c
+SEQUENCE:0
+DTSTAMP:20250304T061223Z
+DTSTART:20250304T140000
+DTEND:20250304T180000
+SUMMARY:No Kings!
+LOCATION:State House Augusta\, Augusta\, ME
+DESCRIPTION:Join us to make clear that fascism is not welcome here and tha
+ t we will resist Trump's immoral agenda.\n\nDirigo Maine leads in the figh
+ t to defend democracy!
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=State+House+
+ Augusta%2C+Augusta%2C+ME&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:1767b1f8-4f32-4f4b-b55b-f401655a6f83
+SEQUENCE:0
+DTSTAMP:20250304T061224Z
+DTSTART:20250304T220000
+DTEND:20250305T020000
+SUMMARY:Illuminate Los Angeles: A Candlelight Vigil for the Death of Democ
+ racy
+LOCATION:El Pueblo de Los Angeles Historical Monument\, 125 Paseo de la Pl
+ aza\, Los Angeles\, CA 90012
+DESCRIPTION:Join us to gather dressed in mourning\, traveling together by 
+ bus\, train\, or subway to Union Station and then to El Pueblo where we wi
+ ll place our grief\, memories\, and resistance onto a pop-up altar at the 
+ Paseo.\n\nSunset Until 10:00 PM
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=El+Pueblo+de
+ +Los+Angeles+Historical+Monument%2C+125+Paseo+de+la+Plaza%2C+Los+Angeles%2
+ C+CA+90012&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

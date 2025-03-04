@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:b4975255-dd16-4740-b3ea-7ae06af3e655
+SEQUENCE:0
+DTSTAMP:20250304T061224Z
+DTSTART:20250307T000000
+DTEND:20250307T040000
+SUMMARY:Stand Up for Science
+LOCATION:UCSD Geisel Library/Silent Tree\, Washington\, DC\, 
+DESCRIPTION:Join us to stand up against the attack on science and evidence
+ -based policy.\n\nUniversity of California San Diego
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=UCSD+Geisel+
+ Library%2FSilent+Tree%2C+Washington%2C+DC%2C+&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:81d0bd15-0f0c-46c0-9bba-ab4b911fb48d
+SEQUENCE:0
+DTSTAMP:20250304T061224Z
+DTSTART:20250308T170000
+DTEND:20250308T210000
+SUMMARY:Unite & Resist
+LOCATION:Island Park Parking 23 N water St.\, Geneva\, IL
+DESCRIPTION:On International Women's Day\, we're taking to the streets to 
+ fight back against the fascist takeover. Join us to defend our rights\, ou
+ r bodies\, and our future. No permission needed—just show up and bring o
+ thers. Bring signs as we will be standing on the side of a bridge with ple
+ nty of vehicle and pedestrian traffic!\n\nGeneva\, IL\, 60134
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Island+Park+
+ Parking+23+N+water+St.%2C+Geneva%2C+IL&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

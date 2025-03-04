@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:c75e7b81-e02b-49d3-9823-1a417330bf17
+SEQUENCE:0
+DTSTAMP:20250304T061224Z
+DTSTART:20250304T000000
+DTEND:20250304T040000
+SUMMARY:Stop the Coup March 4th for Democracy
+LOCATION:Capitol Building\, Santa Fe\, NM
+DESCRIPTION:Join us to make clear that fascism is not welcome here and tha
+ t we will resist Trump's immoral agenda.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Capitol+Buil
+ ding%2C+Santa+Fe%2C+NM&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

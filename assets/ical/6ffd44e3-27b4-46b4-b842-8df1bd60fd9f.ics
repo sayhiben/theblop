@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:2c93b9ec-3d17-487d-90db-4292478cafbc
+SEQUENCE:0
+DTSTAMP:20250304T061224Z
+DTSTART:20250308T130000
+DTEND:20250308T170000
+SUMMARY:Let's Protest for Our Rights
+LOCATION:Colorado State Capitol\, Denver\, CO
+DESCRIPTION:Join us to fight against oppression and inequality on Internat
+ ional Women's Day.\n\nColorado State Capitol
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Colorado+Sta
+ te+Capitol%2C+Denver%2C+CO&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

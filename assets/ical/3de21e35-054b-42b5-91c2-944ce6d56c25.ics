@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:1f20b6fd-8391-40cd-88ee-8ce1378847e7
+SEQUENCE:0
+DTSTAMP:20250304T061224Z
+DTSTART:20250304T150000
+DTEND:20250304T190000
+SUMMARY:March for Democracy
+LOCATION:400 S Phillips Ave\, Sioux Falls\, Sioux Falls\, SD
+DESCRIPTION:Join The Movement @ Web: fiftyfifty.one Facebook: 50501\n\nFed
+ eral Court House
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=400+S+Philli
+ ps+Ave%2C+Sioux+Falls%2C+Sioux+Falls%2C+SD&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

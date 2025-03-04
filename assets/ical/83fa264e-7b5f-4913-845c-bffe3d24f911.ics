@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:2e5376c6-3304-4e5f-bb13-52b4404613c0
+SEQUENCE:0
+DTSTAMP:20250304T061224Z
+DTSTART:20250308T160000
+DTEND:20250308T200000
+SUMMARY:International Women's Day March
+LOCATION:City Hall\, Philadelphia\, PA
+DESCRIPTION:Join us to fight back against Trump's agenda. Peaceful protest
+  in support of women's rights and equality.\n\n401 Chestnut St
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=City+Hall%2C
+ +Philadelphia%2C+PA&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

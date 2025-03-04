@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:562414ff-bd19-4f83-8bfc-fa911b957262
+SEQUENCE:0
+DTSTAMP:20250304T061224Z
+DTSTART:20250304T170000
+DTEND:20250304T210000
+SUMMARY:Our Flag Does Not Stand For This
+LOCATION:Federal Building\, Abingdon\, VA
+DESCRIPTION:Join us to make clear that fascism is not welcome here and tha
+ t we will resist Trump's immoral agenda.\n\nFederal Building\, Abingdon\, 
+ VA
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Federal+Buil
+ ding%2C+Abingdon%2C+VA&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:06647c26-215b-49f7-9dae-d5643e60c54c
+SEQUENCE:0
+DTSTAMP:20250304T061224Z
+DTSTART:20250304T120000
+DTEND:20250304T160000
+SUMMARY:The Peoples Picnic
+LOCATION:Capitol Grounds\, Raleigh\, NC
+DESCRIPTION:Sit to Resist\n\nRaleigh\, North Carolina
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Capitol+Grou
+ nds%2C+Raleigh%2C+NC&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

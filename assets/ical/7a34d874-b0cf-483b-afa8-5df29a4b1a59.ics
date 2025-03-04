@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:2b3e9cb9-4bae-496f-9912-b73b545dc41d
+SEQUENCE:0
+DTSTAMP:20250304T061224Z
+DTSTART:20250304T130000
+DTEND:20250304T170000
+SUMMARY:Just Say No!!! Shred SB1!
+LOCATION:Thompson Statue\, OSU Oval\, Columbus\, OH
+DESCRIPTION:Join us to make clear that the Higher Education Destruction Ac
+ t (HB 1) is not welcome here and we will resist it. Let's all protest HB 1
+ !\n\nOSU Oval
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Thompson+Sta
+ tue%2C+OSU+Oval%2C+Columbus%2C+OH&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR
