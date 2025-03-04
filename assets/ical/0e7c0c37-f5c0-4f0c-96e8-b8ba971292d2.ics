@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:17286273-9a0c-43dd-bcef-fb244a09f9d4
+SEQUENCE:0
+DTSTAMP:20250304T121035Z
+DTSTART:20250304T120000
+DTEND:20250304T160000
+SUMMARY:Peaceful Protest
+LOCATION:Albert Johnson Park\, Intersection of Main & Picacho\, Las Cruces
+ \, NM
+DESCRIPTION:Unite against oppression & dictatorship!\n\n12 Noon - 1:30pm
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Albert+Johns
+ on+Park%2C+Intersection+of+Main+%26+Picacho%2C+Las+Cruces%2C+NM&zoom=15&ba
+ semap=roadmap
+END:VEVENT
+END:VCALENDAR

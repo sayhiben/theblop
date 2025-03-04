@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:a4a19fa9-2779-47a6-bf24-eeaa4b3e529f
+SEQUENCE:0
+DTSTAMP:20250304T121035Z
+DTSTART:20250304T120000
+DTEND:20250304T160000
+SUMMARY:March for Democracy
+LOCATION:401 Bosley Avenue\, Towson\, MD
+DESCRIPTION:Join us for a peaceful\, family-friendly protest to defend dem
+ ocracy.\n\nBaltimore County Circuit Court
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=401+Bosley+A
+ venue%2C+Towson%2C+MD&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

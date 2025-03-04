@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:07177f8d-790c-4996-9ac2-b8b592181c4f
+SEQUENCE:0
+DTSTAMP:20250304T121035Z
+DTSTART:20250308T120000
+DTEND:20250308T160000
+SUMMARY:We Fight For Democracy!
+LOCATION:Daley Plaza\, Chicago\, IL
+DESCRIPTION:Join us to make clear that fascism is not welcome here and tha
+ t we will resist Trump's immoral agenda.\n\nChicago\, Illinois
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Daley+Plaza%
+ 2C+Chicago%2C+IL&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:2ea99412-b304-4ae5-8d1a-fa4082b37c59
+SEQUENCE:0
+DTSTAMP:20250304T121035Z
+DTSTART:20250304T120000
+DTEND:20250304T160000
+SUMMARY:March Forth Against Monacrchy
+LOCATION:Mill Creek Park\, Kansas City\, MO
+DESCRIPTION:Join us to make clear that fascism is not welcome here and tha
+ t we will resist Trump's immoral agenda.\n\n12:00 PM
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Mill+Creek+P
+ ark%2C+Kansas+City%2C+MO&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

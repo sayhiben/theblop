@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:790b8025-41a1-463c-ace4-16c35f15690e
+SEQUENCE:0
+DTSTAMP:20250304T121035Z
+DTSTART:20250304T120000
+DTEND:20250304T160000
+SUMMARY:March 4th for Democracy
+LOCATION:4th St NW & Lomas Blvd NW\, Albuquerque\, NM
+DESCRIPTION:Uphold the Constitution Limit Executive Overreach Protect Demo
+ cracy!\n\nAlbuquerque
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=4th+St+NW+%2
+ 6+Lomas+Blvd+NW%2C+Albuquerque%2C+NM&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:9e7100c6-2216-41f5-9f21-7a65706e9556
+SEQUENCE:0
+DTSTAMP:20250304T121035Z
+DTSTART:20250304T120000
+DTEND:20250304T160000
+SUMMARY:Protest Against Monarchy
+LOCATION:The Queen Ka'ahumanu Hwy\, South of Henry St. Kailua Kona\, Hawai
+ i\, Kailua Kona\, HI\, 
+DESCRIPTION:Unite against oppression & dictatorship!\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=The+Queen+Ka
+ %27ahumanu+Hwy%2C+South+of+Henry+St.+Kailua+Kona%2C+Hawaii%2C+Kailua+Kona%
+ 2C+HI%2C+&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

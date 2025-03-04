@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:827d70d0-2937-46ac-9f3f-cf5320776392
+SEQUENCE:0
+DTSTAMP:20250304T121035Z
+DTSTART:20250304T160000
+DTEND:20250304T200000
+SUMMARY:March Forth Against Fascism
+LOCATION:1007 E Grand Avenue\, Des Moines\, IA
+DESCRIPTION:Join us to make clear that fascism is not welcome here and tha
+ t we will resist Trump's immoral agenda.\n\nState Capitol
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=1007+E+Grand
+ +Avenue%2C+Des+Moines%2C+IA&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

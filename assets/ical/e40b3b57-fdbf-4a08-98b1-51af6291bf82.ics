@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:80abb9db-7309-488e-a8a0-3475dedae645
+SEQUENCE:0
+DTSTAMP:20250304T121035Z
+DTSTART:20250304T120000
+DTEND:20250304T160000
+SUMMARY:March 4 America
+LOCATION:1100 Congress Ave.\, Austin\, TX 78701
+DESCRIPTION:Join us to form a more perfect union\, uphold the constitution
+ \, and resist peace.\n\nTexas State Capitol
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=1100+Congres
+ s+Ave.%2C+Austin%2C+TX+78701&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

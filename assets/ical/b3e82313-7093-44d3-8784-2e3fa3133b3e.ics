@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:6c2b6a15-96e4-4f5e-892a-b34318abe4f2
+SEQUENCE:0
+DTSTAMP:20250304T121035Z
+DTSTART:20250304T140000
+DTEND:20250304T180000
+SUMMARY:50501: The People's Movement
+LOCATION:Bell Tower\, Esther Short Park\, Vancouver\, WA
+DESCRIPTION:Non-partisan movement of people united against oppression and 
+ dictatorship!\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Bell+Tower%2
+ C+Esther+Short+Park%2C+Vancouver%2C+WA&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

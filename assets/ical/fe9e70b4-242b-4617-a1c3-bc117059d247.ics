@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:b2203776-8711-422c-9c19-7b233b05497a
+SEQUENCE:0
+DTSTAMP:20250304T121035Z
+DTSTART:20250304T110000
+DTEND:20250304T150000
+SUMMARY:March 4th For Democracy
+LOCATION:Kentucky State Capitol Building Steps\, Frankfort\, KY
+DESCRIPTION:Join us for the real state of the union.\n\nKentucky State Cap
+ itol Building Steps
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Kentucky+Sta
+ te+Capitol+Building+Steps%2C+Frankfort%2C+KY&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR
