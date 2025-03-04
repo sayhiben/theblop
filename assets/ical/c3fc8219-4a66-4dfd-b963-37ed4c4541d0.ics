@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:665ff231-9467-4765-a1e0-142c0bd42967
+SEQUENCE:0
+DTSTAMP:20250304T232325Z
+DTSTART:20250308T083000
+DTEND:20250308T123000
+SUMMARY:March Against Trumpism
+LOCATION:921 Fulton St\, Brooklyn\, NY 11206\, New York\, NY
+DESCRIPTION:Join us to make clear that fascism is not welcome here and tha
+ t we will resist Trump's immoral agenda.\n\nSing Sing Correctional Facilit
+ y
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=921+Fulton+S
+ t%2C+Brooklyn%2C+NY+11206%2C+New+York%2C+NY&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:b3ba0472-e7dd-45ff-b9fa-3daa7acfeb96
+SEQUENCE:0
+DTSTAMP:20250304T232325Z
+DTSTART:20250309T160000
+DTEND:20250309T200000
+SUMMARY:Letter Writing Campaign
+LOCATION:213 N Linn\, Iowa City\, IA
+DESCRIPTION:Join us for a Letter Writing Campaign to make our discontent k
+ nown by writing letters to politicians.\n\nSacred Collective
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=213+N+Linn%2
+ C+Iowa+City%2C+IA&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR
