@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:40fdb71f-f191-4855-8a98-4ed6a45eb66c
+SEQUENCE:0
+DTSTAMP:20250304T015830Z
+DTSTART:20250313T160000
+DTEND:20250313T200000
+SUMMARY:Protest Against Medicaid Cuts
+LOCATION:1001 Tilton Road\, Northfield\, NJ
+DESCRIPTION:Join us to protest against the cuts to Medicaid\, which affect
+ s thousands of people in NJ-2\, including children.\n\nRep Jefferson Van D
+ rew's Office
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=1001+Tilton+
+ Road%2C+Northfield%2C+NJ&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

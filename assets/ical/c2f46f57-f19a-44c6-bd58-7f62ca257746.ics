@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:12acb90b-9091-4502-9bbf-29c373cbae30
+SEQUENCE:0
+DTSTAMP:20250304T015830Z
+DTSTART:20250308T210000
+DTEND:20250309T010000
+SUMMARY:Women's Day March
+LOCATION:200 East Colfax Avenue\, West Side Steps\, Denver\, CO
+DESCRIPTION:\n\nColorado State Capitol Building
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=200+East+Col
+ fax+Avenue%2C+West+Side+Steps%2C+Denver%2C+CO&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

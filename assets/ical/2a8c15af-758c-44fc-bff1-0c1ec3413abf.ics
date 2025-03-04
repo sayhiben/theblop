@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:2c850e9a-15c4-488f-a072-abfdec6f888f
+SEQUENCE:0
+DTSTAMP:20250304T015830Z
+DTSTART:20250307T200000
+DTEND:20250308T000000
+SUMMARY:Stand Up For Science - Let our representatives know supporting tru
+ mp is not okay
+LOCATION:Colorado State Capitol Building\, Colorado Springs\, CO
+DESCRIPTION:\n\nColorado State Capitol Building
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Colorado+Sta
+ te+Capitol+Building%2C+Colorado+Springs%2C+CO&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR
