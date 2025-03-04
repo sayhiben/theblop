@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:69f64fe5-cb00-4f0a-ae61-720fa9dc10e6
+SEQUENCE:0
+DTSTAMP:20250304T021432Z
+DTSTART:20250304T160000
+DTEND:20250304T200000
+SUMMARY:Let's Hear Your Voice!
+LOCATION:Riverside City Hall\, Riverside\, CA
+DESCRIPTION:We need: People who want to speak out how their lives are affe
+ cted by Trump & Doge. Civil servants\, teachers\, healthcare professionals
+ \, federal employees\, etc. Would you be willing to give a 2-4 min speech 
+ about this executive overreach?\n\n12 – 4PM PST
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Riverside+Ci
+ ty+Hall%2C+Riverside%2C+CA&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

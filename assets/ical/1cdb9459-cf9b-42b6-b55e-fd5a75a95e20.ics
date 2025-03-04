@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:b1e93bdd-a8c9-4b00-ae03-f60e11e0a380
+SEQUENCE:0
+DTSTAMP:20250304T021432Z
+DTSTART:20250307T130000
+DTEND:20250307T170000
+SUMMARY:Stand Up for Science
+LOCATION:Capitol Building\, Denver\, CO
+DESCRIPTION:Join us to make clear that fascism is not welcome here and tha
+ t we will resist Trump's immoral agenda.\n\n1-4 PM
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Capitol+Buil
+ ding%2C+Denver%2C+CO&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR
