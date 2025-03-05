@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:48bcf723-91fb-4854-8a77-21b6d90f04ba
+SEQUENCE:0
+DTSTAMP:20250305T002608Z
+DTSTART:20250315T180000
+DTEND:20250315T220000
+SUMMARY:March 15th Protest!
+LOCATION:12 Huttleston Avenue\, Fairhaven\, MA 02719
+DESCRIPTION:Join us Let your voice be heard #ResistTrump\n\nFairhaven High
+  School
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=12+Huttlesto
+ n+Avenue%2C+Fairhaven%2C+MA+02719&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:22d9b010-e6c8-4edb-987d-f94aaed1f07a
+SEQUENCE:0
+DTSTAMP:20250305T002607Z
+DTSTART:20250308T130000
+DTEND:20250308T170000
+SUMMARY:Stand up Fight back!
+LOCATION:Northeast corner of Walton and Livernois\, Rochester Hills\, MI
+DESCRIPTION:Protest fascism!\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Northeast+co
+ rner+of+Walton+and+Livernois%2C+Rochester+Hills%2C+MI&zoom=15&basemap=road
+ map
+END:VEVENT
+END:VCALENDAR

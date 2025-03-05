@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:e2c26de4-4a19-4684-8ac5-6134cab5c5ee
+SEQUENCE:0
+DTSTAMP:20250305T002607Z
+DTSTART:20250308T103000
+DTEND:20250308T143000
+SUMMARY:Womens Day March
+LOCATION:400 S Phillips\, Sioux Falls\, SD
+DESCRIPTION:Join us to make clear that fascism is not welcome here and tha
+ t we will resist Trump's immoral agenda.\n\nFederal Courthouse
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=400+S+Philli
+ ps%2C+Sioux+Falls%2C+SD&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

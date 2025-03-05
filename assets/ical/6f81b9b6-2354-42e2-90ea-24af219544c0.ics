@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:4b8143c3-9694-4d38-a09f-e62e0a23ad1b
+SEQUENCE:0
+DTSTAMP:20250305T002607Z
+DTSTART:20250308T160000
+DTEND:20250308T200000
+SUMMARY:Peaceful Plaza Protest
+LOCATION:47th Mill Creek Pkwy\, Kansas City\, MO
+DESCRIPTION:Join us as we take a stand for LGBTQ+ rights\, women's rights\
+ , abortion access\, immigration justice\, and more. Our voices are stronge
+ r together and now is the time to demand change.\n\nKansas City\, MO
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=47th+Mill+Cr
+ eek+Pkwy%2C+Kansas+City%2C+MO&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

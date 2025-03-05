@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:24e43570-e5c6-4ae2-ba88-d84e4b22edab
+SEQUENCE:0
+DTSTAMP:20250305T002607Z
+DTSTART:20250308T093000
+DTEND:20250308T133000
+SUMMARY:Tesla Protest
+LOCATION:159th & 86th Ave\, Orland Park\, IL 60462-4804\, United States
+DESCRIPTION:Come help protest at the Tesla dealership in Orland. We will p
+ ark along 86th Ave and walk across the street at the light on 84th Ave. Si
+ gns and friends welcome and encouraged Please invite anyone you think woul
+ d like to get involved!\n\n159th & 86th Ave\, Orland Park\, IL
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=159th+%26+86
+ th+Ave%2C+Orland+Park%2C+IL+60462-4804%2C+United+States&zoom=15&basemap=ro
+ admap
+END:VEVENT
+END:VCALENDAR

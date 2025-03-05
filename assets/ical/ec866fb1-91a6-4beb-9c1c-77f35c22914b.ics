@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:4d679a31-1fce-4e3e-aaf5-5ce569b0a71a
+SEQUENCE:0
+DTSTAMP:20250305T002607Z
+DTSTART:20250308T170000
+DTEND:20250308T210000
+SUMMARY:International Women's Day - Unite & Resist Protest in Brentwood\, 
+ MO
+LOCATION:1600 Pacific Highway\, Brentwood\, MO
+DESCRIPTION:Join us to defend our rights\, our bodies\, and our future. We
+  will be in Brentwood from 11am-1pm\, Saturday March 8th\, 2025.\n\nWaterf
+ ront Park
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=1600+Pacific
+ +Highway%2C+Brentwood%2C+MO&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

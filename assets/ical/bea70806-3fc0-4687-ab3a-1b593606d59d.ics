@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:b441b552-9df3-4332-a982-be926147a2ed
+SEQUENCE:0
+DTSTAMP:20250305T002607Z
+DTSTART:20250308T120000
+DTEND:20250308T160000
+SUMMARY:International Women's Day
+LOCATION:1915 Veterans Blvd\, Del Rio\, TX 78840
+DESCRIPTION:Join us to make clear that fascism is not welcome here and tha
+ t we will resist Trump's immoral agenda.\n\nDel Rio Civic Center
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=1915+Veteran
+ s+Blvd%2C+Del+Rio%2C+TX+78840&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR
