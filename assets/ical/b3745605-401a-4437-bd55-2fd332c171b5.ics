@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:f83eef8c-6041-4f05-b772-ce2adcee0595
+SEQUENCE:0
+DTSTAMP:20250305T031051Z
+DTSTART:20250314T000000
+DTEND:20250314T040000
+SUMMARY:Veterans March Against Tyranny
+LOCATION:1400 Pennsylvania Ave NW\, Washington\, DC
+DESCRIPTION:I will support and defend the Constitution of the United State
+ s against all enemies foreign and domestic\; that I will bear true faith a
+ nd allegiance to the same.\n\n@State Capitol
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=1400+Pennsyl
+ vania+Ave+NW%2C+Washington%2C+DC&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

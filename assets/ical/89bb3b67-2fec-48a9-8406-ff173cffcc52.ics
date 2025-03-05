@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:039b698f-8336-42ee-8ca8-a327cf005f26
+SEQUENCE:0
+DTSTAMP:20250305T031051Z
+DTSTART:20250307T000000
+DTEND:20250307T040000
+SUMMARY:Anti Trump Protest
+LOCATION:UWL Clocktower\, San Diego\, CA
+DESCRIPTION:Join us to make clear that fascism is not welcome here and tha
+ t we will resist Trump's immoral agenda.\n\nResist
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=UWL+Clocktow
+ er%2C+San+Diego%2C+CA&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

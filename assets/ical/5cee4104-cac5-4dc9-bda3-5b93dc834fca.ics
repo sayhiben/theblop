@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:2a4a4258-4ec8-43e0-ad35-cf1509d938f8
+SEQUENCE:0
+DTSTAMP:20250305T031051Z
+DTSTART:20250308T120000
+DTEND:20250308T160000
+SUMMARY:International Women's Day Rally
+LOCATION:Utah State Capitol\, Salt Lake City\, UT
+DESCRIPTION:Join the rally for women's rights on March 8th at the Utah Cap
+ itol @12 p.m. to stand against attacks on reproductive and trans women's r
+ ights. Wear purple\, green\, or white\, and bring your voice and power to 
+ show women's strength!\n\nState Capitol Grounds
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Utah+State+C
+ apitol%2C+Salt+Lake+City%2C+UT&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

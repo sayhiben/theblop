@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:4c2ea760-39b9-4952-98dc-e90afa190167
+SEQUENCE:0
+DTSTAMP:20250305T031051Z
+DTSTART:20250307T120000
+DTEND:20250307T160000
+SUMMARY:Stand Up for Science
+LOCATION:Utah State Capitol\, Salt Lake City\, UT
+DESCRIPTION:Join us to stand up against the attacks on science and evidenc
+ e-based policies.\n\n12:00 PM
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Utah+State+C
+ apitol%2C+Salt+Lake+City%2C+UT&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

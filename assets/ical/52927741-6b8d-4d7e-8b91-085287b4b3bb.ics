@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:9716d862-5e81-4d82-8d55-dc9fd5e584ae
+SEQUENCE:0
+DTSTAMP:20250305T031051Z
+DTSTART:20250307T140000
+DTEND:20250307T180000
+SUMMARY:Stand Up for Science
+LOCATION:1600 Pennsylvania Ave NW\, Washington\, DC\, 
+DESCRIPTION:Join us to stand up for science and fight against those who tr
+ y to silence scientific truth!\n\nWashington\, DC
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=1600+Pennsyl
+ vania+Ave+NW%2C+Washington%2C+DC%2C+&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR
