@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:6b5de3b9-de63-4220-89ea-bfeebab2fdde
+SEQUENCE:0
+DTSTAMP:20250305T121043Z
+DTSTART:20250307T180000
+DTEND:20250307T220000
+SUMMARY:Believe\, Protect & Support BLACK WOMEN
+DESCRIPTION:#FUCKADASTRA\n\nMeet-up on 4th & Adams St!
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=&zoom=15&bas
+ emap=roadmap
+END:VEVENT
+END:VCALENDAR

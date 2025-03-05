@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:cd98cfaa-32d6-4f7d-968f-620eb12e9443
+SEQUENCE:0
+DTSTAMP:20250305T121043Z
+DTSTART:20250322T140000
+DTEND:20250322T180000
+SUMMARY:Protest for Democracy
+LOCATION:Statehouse\, Columbus\, OH
+DESCRIPTION:Join us to make clear that fascism is not welcome here and tha
+ t we will resist Trump's immoral agenda.\n\nDayton Courthouse Square\, Cle
+ veland City Hall\, Youngstown Federal Courthouse\, All Other Cities Your L
+ ocal City Hall
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Statehouse%2
+ C+Columbus%2C+OH&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

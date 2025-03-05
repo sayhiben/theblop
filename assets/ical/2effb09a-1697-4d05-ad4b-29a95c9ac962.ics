@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:878ab469-5e02-48e8-9b97-dd8aebbc4db9
+SEQUENCE:0
+DTSTAMP:20250305T121043Z
+DTSTART:20250308T120000
+DTEND:20250308T160000
+SUMMARY:International Women's Day
+LOCATION:2607 E. South Temple Street\, Salt Lake City\, UT
+DESCRIPTION:Join us March 8th For... Rally @12-2 p.m. Utah State Capitol\,
+  Please wear purple\, white and green Show up Rally for women's rights!\n\
+ nUtah State Capitol
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=2607+E.+Sout
+ h+Temple+Street%2C+Salt+Lake+City%2C+UT&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:1585cfec-343a-4a9f-8d5c-171cf9e5bb03
+SEQUENCE:0
+DTSTAMP:20250305T121043Z
+DTSTART:20250307T120000
+DTEND:20250307T160000
+SUMMARY:Stand Up for Science
+LOCATION:100 W Ocean View Ave\, Norfolk\, VA
+DESCRIPTION:Join us to make clear that science is not welcome here and tha
+ t we will resist Trump's immoral agenda.\n\nNorfolk\, VA 23503
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=100+W+Ocean+
+ View+Ave%2C+Norfolk%2C+VA&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

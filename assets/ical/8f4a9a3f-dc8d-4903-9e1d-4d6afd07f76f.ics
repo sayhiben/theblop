@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:bb90ed2b-f7d1-4239-a9b5-54536035035e
+SEQUENCE:0
+DTSTAMP:20250305T121043Z
+DTSTART:20250405T000000
+DTEND:20250405T040000
+SUMMARY:Next 50 State Nationwide Protest
+DESCRIPTION:Join the 50501 movement. Next 50 state nationwide protest Apri
+ l 5th (A weekend!). Visit www.50501.one for location details.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=&zoom=15&bas
+ emap=roadmap
+END:VEVENT
+END:VCALENDAR

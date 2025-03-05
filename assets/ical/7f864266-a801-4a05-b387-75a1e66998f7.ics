@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:d81f171d-2971-4c8c-9fdd-12b32d45b3c5
+SEQUENCE:0
+DTSTAMP:20250305T121043Z
+DTSTART:20250305T210000
+DTEND:20250306T010000
+SUMMARY:National Update & Call to Action
+DESCRIPTION:A virtual event featuring DNC Chair Ken Martin and Leader Hake
+ em Jeffries. Join us for a National Update and Call to Action.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=&zoom=15&bas
+ emap=roadmap
+END:VEVENT
+END:VCALENDAR

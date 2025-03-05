@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:a1748efd-55b6-415b-8c0e-5e1fa6b2d9e8
+SEQUENCE:0
+DTSTAMP:20250305T121043Z
+DTSTART:20250308T100000
+DTEND:20250308T140000
+SUMMARY:Meet Me at the March
+LOCATION:532 S Olive St.\, Los Angeles\, CA
+DESCRIPTION:Join us to make clear that fascism is not welcome here and tha
+ t we will resist Trump's immoral agenda.\n\nPershing Square Downtown Los A
+ ngeles
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=532+S+Olive+
+ St.%2C+Los+Angeles%2C+CA&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR
