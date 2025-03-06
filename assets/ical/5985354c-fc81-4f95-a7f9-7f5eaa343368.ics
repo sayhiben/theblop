@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:f4912a6a-d5dd-457d-938f-d0858addfe56
+SEQUENCE:0
+DTSTAMP:20250306T184511Z
+DTSTART:20250310T120000
+DTEND:20250310T160000
+SUMMARY:Shut Down the Coup
+LOCATION:Capitol Bldg West Front Lawn\, Washington DC\, DC
+DESCRIPTION:Stop the dismantlement of the Government. Walk times from the 
+ Metro: Capitol South - 16 min\, L'Enfant - 12 min\, Federal Center - 8 min
+ \, Archives-Navy - 13 min\, Judiciary Sq - 10 min\, Union Station - 25 min
+ \n\nWASHINGTON DC\, CAPITOL BLDG WEST FRONT LAWN
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Capitol+Bldg
+ +West+Front+Lawn%2C+Washington+DC%2C+DC&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

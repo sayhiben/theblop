@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:a15b9611-1447-4a81-b9b7-9269161b1907
+SEQUENCE:0
+DTSTAMP:20250306T184511Z
+DTSTART:20250315T090000
+DTEND:20250315T130000
+SUMMARY:All Hands On Deck
+LOCATION:University of Cincinnati\, Cincinnati\, OH
+DESCRIPTION:Join the protest to stand up for our teachers\, students and f
+ uture. Let's say 'No' to SB1 & HB6.\n\nLibrary - University of Cincinnati
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=University+o
+ f+Cincinnati%2C+Cincinnati%2C+OH&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

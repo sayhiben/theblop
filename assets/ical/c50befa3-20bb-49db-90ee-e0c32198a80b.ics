@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:4fd6b973-2b52-410a-b2f2-1f72c275b0a1
+SEQUENCE:0
+DTSTAMP:20250306T184511Z
+DTSTART:20250308T110000
+DTEND:20250308T150000
+SUMMARY:Defend the NIH Against Trump-Musk-Doge Tyranny!
+LOCATION:Medical Center Metro Station\, Bethesda\, MD
+DESCRIPTION:Rally with Congressional and Maryland leaders to protest the a
+ dministration's reckless attacks on the NIH.\n\nSouth Drive & Rockville Pi
+ ke
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Medical+Cent
+ er+Metro+Station%2C+Bethesda%2C+MD&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

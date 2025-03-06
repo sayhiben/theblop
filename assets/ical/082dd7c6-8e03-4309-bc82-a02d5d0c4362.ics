@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:6953be1e-9597-41b9-8909-2574836c0360
+SEQUENCE:0
+DTSTAMP:20250306T184511Z
+DTSTART:20250308T103000
+DTEND:20250308T143000
+SUMMARY:Rally for Democracy\, Freedom and to Push Back on Trump/Musk Wrong
+ doing
+LOCATION:Texas State Capitol\, South Steps\, Austin\, TX
+DESCRIPTION:Join me and Rep. Greg Casar to rally for democracy\, freedom a
+ nd to push back on Trump/Musk wrongdoing\, with special guest\, Senator El
+ izabeth Warren.\n\nSaturday\, March\, 8
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Texas+State+
+ Capitol%2C+South+Steps%2C+Austin%2C+TX&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

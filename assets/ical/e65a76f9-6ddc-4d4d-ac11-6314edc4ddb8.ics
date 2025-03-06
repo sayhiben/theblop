@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:ee4a35f4-cd65-4b1e-807d-72f0d1728471
+SEQUENCE:0
+DTSTAMP:20250306T184511Z
+DTSTART:20250306T173000
+DTEND:20250306T213000
+SUMMARY:ICE Lawyer Exposed as White Supremacist
+LOCATION:Civic Garden Park\, San Diego\, CA
+DESCRIPTION:Join us to protest and investigate his cases. America is a whi
+ te nation\, founded by whites. We are the historical and majority populati
+ on\, and it was founded for our benefit. Our country should favor us.\n\n5
+ :30 PM - Protest | 8:00 PM - Vigil
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Civic+Garden
+ +Park%2C+San+Diego%2C+CA&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

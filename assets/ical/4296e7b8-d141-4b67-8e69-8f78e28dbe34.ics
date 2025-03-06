@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:165f0f1f-dc17-4aa5-ab13-6ab907062a9c
+SEQUENCE:0
+DTSTAMP:20250306T184511Z
+DTSTART:20250308T120000
+DTEND:20250308T160000
+SUMMARY:International Women's Day
+LOCATION:15 East Churchville Rd\, Bel Air\, MD
+DESCRIPTION:Join us to make clear that fascism is not welcome here and tha
+ t we will resist Trump's immoral agenda.\n\nAcross the street from Andy Ha
+ rris's Bel Air Office
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=15+East+Chur
+ chville+Rd%2C+Bel+Air%2C+MD&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:2da9ed65-71c0-4a4d-a87a-ccbbddbc2e10
+SEQUENCE:0
+DTSTAMP:20250306T184511Z
+DTSTART:20250311T110000
+DTEND:20250311T150000
+SUMMARY:March for America
+LOCATION:526 E. Adams Street across from Old State Capitol Building\, Oran
+ ge\, CA
+DESCRIPTION:Join us to uphold the constitution and end executive overreach
+  peacefully.\n\nPedestrian Plaza
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=526+E.+Adams
+ +Street+across+from+Old+State+Capitol+Building%2C+Orange%2C+CA&zoom=15&bas
+ emap=roadmap
+END:VEVENT
+END:VCALENDAR

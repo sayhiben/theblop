@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:fd70221f-6afb-4b02-84a6-3971d5f4eeea
+SEQUENCE:0
+DTSTAMP:20250306T184511Z
+DTSTART:20250307T160000
+DTEND:20250307T200000
+SUMMARY:Stop the Coup Protest
+LOCATION:160 Main St.\, Biddeford\, ME
+DESCRIPTION:Join us in front of Senator Susan Collins' office to show up f
+ or racial justice.\n\nSenator Susan Collins' office
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=160+Main+St.
+ %2C+Biddeford%2C+ME&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR
