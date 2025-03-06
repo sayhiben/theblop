@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:5742998a-6d21-4250-be65-dd02b7c106ea
+SEQUENCE:0
+DTSTAMP:20250306T002554Z
+DTSTART:20250308T120000
+DTEND:20250308T160000
+SUMMARY:Saturday March 8 International Women's Day
+LOCATION:Broadway & East Pine Street\, Capitol Hill\, Seattle
+DESCRIPTION:Rally and march\, Saturday\, March 8\, 12 noon\, Broadway & Ea
+ st Pine Street\, Capitol Hill\, Seattle. International Women's Day 2025 Pr
+ otest Nationwide to Demand: Stop the War on Women and LGBTQ People The Fas
+ cist Trump Regime Must Go In the Name of Humanity\, We Refuse to Accept a 
+ Fascist America!\n\nCapitol Hill\, Seattle
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Broadway+%26
+ +East+Pine+Street%2C+Capitol+Hill%2C+Seattle&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

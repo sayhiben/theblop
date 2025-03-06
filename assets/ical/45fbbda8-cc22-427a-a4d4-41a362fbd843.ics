@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:e0a50190-3a99-46df-b10a-12cdad6f5a3b
+SEQUENCE:0
+DTSTAMP:20250306T002554Z
+DTSTART:20250308T113000
+DTEND:20250308T153000
+SUMMARY:International Women's Day March
+LOCATION:50 W. Washington\, Chicago\, IL
+DESCRIPTION:Join us to make clear that fascism is not welcome here and tha
+ t we will resist Trump's immoral agenda.\n\nDaley Plaza
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=50+W.+Washin
+ gton%2C+Chicago%2C+IL&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

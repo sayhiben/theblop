@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:4c2c43d6-011d-4989-9f75-102b23e029f7
+SEQUENCE:0
+DTSTAMP:20250306T002553Z
+DTSTART:20250307T103000
+DTEND:20250307T143000
+SUMMARY:Vigil for the Death of Democracy
+LOCATION:24336 El Toro Rd\, Laguna Woods\, CA
+DESCRIPTION:Join us in a vigil to mourn the true victims of January 6th\, 
+ the brave Capitol police officers who stood their watch and did their duty
+  defending the fragile democracy of our nation.\n\nLaguna Woods
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=24336+El+Tor
+ o+Rd%2C+Laguna+Woods%2C+CA&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR
