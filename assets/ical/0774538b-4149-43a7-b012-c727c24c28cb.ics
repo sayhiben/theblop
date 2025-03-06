@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:a8ed9edd-3d43-4965-be56-435f4eeeca84
+SEQUENCE:0
+DTSTAMP:20250306T121054Z
+DTSTART:20250308T110000
+DTEND:20250308T150000
+SUMMARY:Elon Musk / Doge Protest
+LOCATION:Schaper Park\, Golden Valley\, San Francisco\, CA
+DESCRIPTION:Join us to make clear that fascism is not welcome here and tha
+ t we will resist Trump's immoral agenda.\n\nSchaper Park\, Golden Valley
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Schaper+Park
+ %2C+Golden+Valley%2C+San+Francisco%2C+CA&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

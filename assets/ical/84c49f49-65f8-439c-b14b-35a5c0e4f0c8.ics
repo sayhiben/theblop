@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:66c7af4a-007c-4c5a-aa5c-122f53b9a8b3
+SEQUENCE:0
+DTSTAMP:20250306T121054Z
+DTSTART:20250314T130000
+DTEND:20250314T170000
+SUMMARY:Capitol Protest Against Our Unconstitutional Government
+LOCATION:Capitol Building\, Washington DC
+DESCRIPTION:Join us to make clear that fascism is not welcome here and tha
+ t we will resist Trump's immoral agenda.\n\nCapitol Building
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Capitol+Buil
+ ding%2C+Washington+DC&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:830550a6-e684-49a8-9918-0aadc359d328
+SEQUENCE:0
+DTSTAMP:20250306T121054Z
+DTSTART:20250308T110000
+DTEND:20250308T150000
+SUMMARY:International Women's Day - Unite & Resist in Sacramento\, CA
+LOCATION:1001 L Street\, Sacramento\, CA
+DESCRIPTION:Join us to unite and resist in Sacramento\, California State C
+ apitol on March 8th.\n\nCalifornia State Capitol
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=1001+L+Stree
+ t%2C+Sacramento%2C+CA&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

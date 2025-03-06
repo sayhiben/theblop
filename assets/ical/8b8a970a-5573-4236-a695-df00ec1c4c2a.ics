@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:a46dab1d-c3ee-4cc5-a06c-fba9c8b0c066
+SEQUENCE:0
+DTSTAMP:20250306T121054Z
+DTSTART:20250307T120000
+DTEND:20250307T160000
+SUMMARY:Stand Up for Science
+LOCATION:Biomedical Building Quad\, Mudd Field\, San Francisco\, CA
+DESCRIPTION:Let's show our appreciation of science and its benefits to soc
+ iety. In solidarity with the National Stand Up For Science movement.\n\nMe
+ d Campus: Couch\, Danforth Campus: Mudd Field
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Biomedical+B
+ uilding+Quad%2C+Mudd+Field%2C+San+Francisco%2C+CA&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:714606d0-532a-4187-9973-59ccc03455fb
+SEQUENCE:0
+DTSTAMP:20250306T121054Z
+DTSTART:20250308T110000
+DTEND:20250308T150000
+SUMMARY:Let's Go Out and Protest!
+LOCATION:20th street\, Republican HQ\, Farmington\, NM
+DESCRIPTION:Join us to make clear that fascism is not welcome here and tha
+ t we will resist Trump's immoral agenda.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=20th+street%
+ 2C+Republican+HQ%2C+Farmington%2C+NM&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

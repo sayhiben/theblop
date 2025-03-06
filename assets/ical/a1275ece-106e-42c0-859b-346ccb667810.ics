@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:7f32be1a-1520-4a73-8038-86d85e64eb1c
+SEQUENCE:0
+DTSTAMP:20250306T121054Z
+DTSTART:20250308T190000
+DTEND:20250308T230000
+SUMMARY:International Women's Day - Unite & Resist in San Luis Obispo
+LOCATION:1050 Monterey Street\, San Luis Obispo\, CA\, 93408
+DESCRIPTION:Join us to make clear that fascism is not welcome here and tha
+ t we will resist Trump's immoral agenda.\n\nSuperior Court
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=1050+Montere
+ y+Street%2C+San+Luis+Obispo%2C+CA%2C+93408&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

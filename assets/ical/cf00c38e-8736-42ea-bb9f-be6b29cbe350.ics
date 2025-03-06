@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:5662f200-1b01-4293-a58d-18ff96d36bfe
+SEQUENCE:0
+DTSTAMP:20250306T121054Z
+DTSTART:20250307T170000
+DTEND:20250307T210000
+SUMMARY:Protest at Whole Foods - Coddingtontown
+LOCATION:Across street from Whole Foods Guerneville Road & Range Avenue Sa
+ nta Rosa\, CA 95403
+DESCRIPTION:A visibility event hosted by Indivisible Sonoma County.\n\nMap
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Across+stree
+ t+from+Whole+Foods+Guerneville+Road+%26+Range+Avenue+Santa+Rosa%2C+CA+9540
+ 3&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

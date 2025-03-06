@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:d62d303f-89fd-4ff7-a387-d6cb84532874
+SEQUENCE:0
+DTSTAMP:20250306T121054Z
+DTSTART:20250308T190000
+DTEND:20250308T230000
+SUMMARY:Women's March
+LOCATION:17000 Monterey Road\, Morgan Hill\, CA\, 95037\, San Jose\, CA
+DESCRIPTION:Join us to make clear that fascism is not welcome here and tha
+ t we will resist Trump's immoral agenda.\n\nCorner of Monterey and E. Dunn
+ e.
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=17000+Monter
+ ey+Road%2C+Morgan+Hill%2C+CA%2C+95037%2C+San+Jose%2C+CA&zoom=15&basemap=ro
+ admap
+END:VEVENT
+END:VCALENDAR

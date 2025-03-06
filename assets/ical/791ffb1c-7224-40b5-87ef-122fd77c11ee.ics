@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:ca288c89-ba77-4ea7-9125-7a3382b17856
+SEQUENCE:0
+DTSTAMP:20250306T121054Z
+DTSTART:20250308T103000
+DTEND:20250308T143000
+SUMMARY:Protest with Us!
+LOCATION:1600 Pacific Highway\, San Diego\, CA
+DESCRIPTION:Join us to make clear that fascism is not welcome here and tha
+ t we will resist Trump's immoral agenda.\n\nWaterfront Park
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=1600+Pacific
+ +Highway%2C+San+Diego%2C+CA&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

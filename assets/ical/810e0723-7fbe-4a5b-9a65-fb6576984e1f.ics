@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:e682ba82-92fb-4935-8a33-99c9c351a596
+SEQUENCE:0
+DTSTAMP:20250306T121054Z
+DTSTART:20250308T120000
+DTEND:20250308T160000
+SUMMARY:Takeover Tesla
+LOCATION:4180 El Camino Real\, Palo Alto\, CA
+DESCRIPTION:Join us to make clear that fascism is not welcome here and tha
+ t we will resist Trump's immoral agenda.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=4180+El+Cami
+ no+Real%2C+Palo+Alto%2C+CA&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

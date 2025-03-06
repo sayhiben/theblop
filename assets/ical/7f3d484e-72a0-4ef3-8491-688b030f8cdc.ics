@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:33bbf3d4-26b0-4927-b251-649f31b0af70
+SEQUENCE:0
+DTSTAMP:20250306T121054Z
+DTSTART:20250308T120000
+DTEND:20250308T160000
+SUMMARY:#TESLATAKEDOWN
+LOCATION:2214 John Young Pkwy\, Orlando\, FL
+DESCRIPTION:Elon Musk is destroying our government. Let’s hit him where 
+ it hurts—his wallet.\n\nTesla Showroom Orlando
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=2214+John+Yo
+ ung+Pkwy%2C+Orlando%2C+FL&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:8ca4070f-0b7c-4a25-b4dc-9f1c14ae2a4b
+SEQUENCE:0
+DTSTAMP:20250306T121054Z
+DTSTART:20250306T093000
+DTEND:20250306T133000
+SUMMARY:Protest Pete Marocco's Lies!
+LOCATION:1600 Constitution Ave NE\, Washington DC
+DESCRIPTION:Join us to make clear that fascism is not welcome here and tha
+ t we will resist Trump's immoral agenda.\n\nOutside the Capitol near Const
+ itution Ave & Delaware Ave NE
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=1600+Constit
+ ution+Ave+NE%2C+Washington+DC&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

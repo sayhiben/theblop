@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:23533ffe-4f24-4651-b4e3-6b142d3d8869
+SEQUENCE:0
+DTSTAMP:20250306T121054Z
+DTSTART:20250308T110000
+DTEND:20250308T150000
+SUMMARY:Women's Day Unite Resist In Milwaukee
+LOCATION:920\, 53202\, Milwaukee
+DESCRIPTION:The 50501 Milwaukee chapter will be supporting the Internation
+ al Women's Day March in Downtown Milwaukee.\n\nRed Arrow Park
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=920%2C+53202
+ %2C+Milwaukee&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR
