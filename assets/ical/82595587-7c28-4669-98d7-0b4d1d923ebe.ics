@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:a53df525-4ee1-4134-8aec-aade0e31069d
+SEQUENCE:0
+DTSTAMP:20250306T175339Z
+DTSTART:20250315T110000
+DTEND:20250315T150000
+SUMMARY:New Bedford Calling for Democracy
+LOCATION:Buttonwood Park\, MA\, New Bedford\, MA
+DESCRIPTION:Join us to rise. Be loud. Be proud. Be seen.\n\nButtonwood Par
+ k\, MA
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Buttonwood+P
+ ark%2C+MA%2C+New+Bedford%2C+MA&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

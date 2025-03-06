@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:6568ee9f-88ce-4d2f-a1cf-663809905a3d
+SEQUENCE:0
+DTSTAMP:20250306T175339Z
+DTSTART:20250308T110000
+DTEND:20250308T150000
+SUMMARY:UNITE & RESIST
+LOCATION:Capital Square\, Monroe Park\, Richmond\, VA
+DESCRIPTION:On International Women's Day\, we're taking to the streets to 
+ fight back against the fascist takeover. Join us to defend our rights and 
+ the many vulnerable communities at risk.\n\nRichmond\, VA
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Capital+Squa
+ re%2C+Monroe+Park%2C+Richmond%2C+VA&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

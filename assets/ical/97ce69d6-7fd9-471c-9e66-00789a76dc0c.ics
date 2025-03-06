@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:924df457-79e4-4309-924a-dddf7a093604
+SEQUENCE:0
+DTSTAMP:20250306T175339Z
+DTSTART:20250315T130000
+DTEND:20250315T170000
+SUMMARY:Rally for Trans Visibility
+LOCATION:1600 Pacific Highway\, Washington\, DC
+DESCRIPTION:Join us to make clear that fascism is not welcome here and tha
+ t we will resist Trump's immoral agenda.\n\nDupont Circle
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=1600+Pacific
+ +Highway%2C+Washington%2C+DC&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

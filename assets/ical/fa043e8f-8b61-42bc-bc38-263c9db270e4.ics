@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:8673afe8-75d6-4ac9-81b7-398493d979c4
+SEQUENCE:0
+DTSTAMP:20250306T175339Z
+DTSTART:20250314T160000
+DTEND:20250314T200000
+SUMMARY:Protest Congresswoman Kat Cammack
+LOCATION:2630 SE 3RD STREET Ocala\, FL34471
+DESCRIPTION:Proudly serving Florida's 3rd District\, Trump's agenda.\n\nMa
+ rion Co. Board of County Commissioners Complex
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=2630+SE+3RD+
+ STREET+Ocala%2C+FL34471&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

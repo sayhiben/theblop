@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:95bca20b-5bb1-4da5-aa06-65b998fe0548
+SEQUENCE:0
+DTSTAMP:20250306T175339Z
+DTSTART:20250308T120000
+DTEND:20250308T160000
+SUMMARY:We The People Demonstration On International Women's Day
+LOCATION:72nd and Dodge\, Omaha\, NE
+DESCRIPTION:Join us to make clear that fascism is not welcome here and tha
+ t we will resist Trump's immoral agenda.\n\n@ 12pm
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=72nd+and+Dod
+ ge%2C+Omaha%2C+NE&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

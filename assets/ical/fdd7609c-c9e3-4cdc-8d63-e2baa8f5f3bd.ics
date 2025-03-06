@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:2bff7a1d-f127-4983-a007-a90bb7180629
+SEQUENCE:0
+DTSTAMP:20250306T175339Z
+DTSTART:20250308T130000
+DTEND:20250308T170000
+SUMMARY:Protest to Save Democracy
+LOCATION:at the corner of College and Lafayette in Fayetteville\, Fayettev
+ ille\, NC
+DESCRIPTION:Protest against the fascist oligarchy forming in the United St
+ ates. Against Trump\, Vance\, Musk\, and their supporters.\n\n1600 Pacific
+  Highway
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=at+the+corne
+ r+of+College+and+Lafayette+in+Fayetteville%2C+Fayetteville%2C+NC&zoom=15&b
+ asemap=roadmap
+END:VEVENT
+END:VCALENDAR

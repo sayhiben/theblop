@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:d625acd6-b96e-4939-8c3e-096ab7477115
+SEQUENCE:0
+DTSTAMP:20250306T175339Z
+DTSTART:20250307T120000
+DTEND:20250307T160000
+SUMMARY:Stand Up for Science Berkeley
+LOCATION:Upper Sproul\, UC Berkeley\, Berkeley\, CA
+DESCRIPTION:Join us to stand up for science and support evidence-based pol
+ icies.\n\nUpper Sproul\, UC Berkeley
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Upper+Sproul
+ %2C+UC+Berkeley%2C+Berkeley%2C+CA&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

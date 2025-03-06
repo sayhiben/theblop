@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:a9150114-3856-42f3-bf9a-beccb8885786
+SEQUENCE:0
+DTSTAMP:20250306T175339Z
+DTSTART:20250308T120000
+DTEND:20250308T160000
+SUMMARY:March Against Monarchy
+LOCATION:72nd & Dodge\, Omaha\, NE
+DESCRIPTION:Join the Omaha Womens March. Defend our democracy Stand up for
+  human rights!\n\nJoining the Omaha Womens March
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=72nd+%26+Dod
+ ge%2C+Omaha%2C+NE&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

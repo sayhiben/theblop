@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:cf640206-387b-4f6c-ad83-50d6ec22590b
+SEQUENCE:0
+DTSTAMP:20250306T175339Z
+DTSTART:20250307T110000
+DTEND:20250307T150000
+SUMMARY:Stand Up for Science
+LOCATION:Schenley Plaza\, Pittsburgh\, PA
+DESCRIPTION:Join us to stand up for science and other ways to get involved
+ .\n\n11 AM - 1:30 PM
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Schenley+Pla
+ za%2C+Pittsburgh%2C+PA&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

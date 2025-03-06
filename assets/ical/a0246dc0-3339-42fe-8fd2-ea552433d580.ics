@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:8c5c8105-fed7-4fe8-bb9b-03ae07c54378
+SEQUENCE:0
+DTSTAMP:20250306T175339Z
+DTSTART:20250328T180000
+DTEND:20250328T220000
+SUMMARY:Stop Farage & Reform UK
+LOCATION:Utilita Arena B1 2AA\, Centenary Square B1 2AE\, Birmingham\, 
+DESCRIPTION:Protest and Unity Rally with Speakers\, Musicians\, Drummers &
+  Poets.\n\nUtilita Arena B1 2AA\, Centenary Square B1 2AE
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Utilita+Aren
+ a+B1+2AA%2C+Centenary+Square+B1+2AE%2C+Birmingham%2C+&zoom=15&basemap=road
+ map
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:4f6cb917-b4f2-4e6e-b8d1-27a4b0b0b370
+SEQUENCE:0
+DTSTAMP:20250306T175339Z
+DTSTART:20250308T103000
+DTEND:20250308T143000
+SUMMARY:Protest with Us!
+LOCATION:400 S. Phillips Ave.\, Sioux Falls\, SD
+DESCRIPTION:Join us to make clear that fascism is not welcome here and tha
+ t we will resist Trump's immoral agenda.\n\nThe United States Court House
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=400+S.+Phill
+ ips+Ave.%2C+Sioux+Falls%2C+SD&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

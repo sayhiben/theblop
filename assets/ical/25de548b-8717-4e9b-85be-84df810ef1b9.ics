@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:6f6f1e02-2f4d-4105-9c29-6128fbfd8786
+SEQUENCE:0
+DTSTAMP:20250306T175339Z
+DTSTART:20250314T150000
+DTEND:20250314T190000
+SUMMARY:Worcester Rally on National Strike Day
+LOCATION:Worcester City Hall in downtown Worcester\, Worcester\, MA
+DESCRIPTION:Join us as we rally for our democracy!!\n\nWorcester City Hall
+  in downtown Worcester
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Worcester+Ci
+ ty+Hall+in+downtown+Worcester%2C+Worcester%2C+MA&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

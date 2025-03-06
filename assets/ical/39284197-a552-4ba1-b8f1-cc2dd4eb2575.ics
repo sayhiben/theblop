@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:eae08bbe-67d8-4a62-b013-e01c679a9312
+SEQUENCE:0
+DTSTAMP:20250306T175339Z
+DTSTART:20250307T173000
+DTEND:20250307T213000
+SUMMARY:Stand Up for Science
+LOCATION:1600 N Capitol St NW Washington\, DC 20004
+DESCRIPTION:Join Knowledge & Action ROC Friday March 7th\, 5:30pm - 6:30pm
+  Corner of East Ave & Goodman (in front of RMSC)\n\nCorner of East Ave & G
+ oodman (in front of RMSC)
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=1600+N+Capit
+ ol+St+NW+Washington%2C+DC+20004&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

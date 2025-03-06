@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:2c3ab408-9b1a-4a35-8d5d-c7dc263b0936
+SEQUENCE:0
+DTSTAMP:20250306T175339Z
+DTSTART:20250308T083000
+DTEND:20250308T123000
+SUMMARY:RSVP: END HALT Rollbacks\, Murders\, and ABUSES
+LOCATION:921 Fulton St\, Brooklyn\, NY
+DESCRIPTION:On Saturday\, March 8\, 2025\, at 8:30 AM sharp\, we will boar
+ d at 921 Fulton St\, Brooklyn (between Waverly and Clinton Ave) and head t
+ o Sing Sing Correctional Facility (arriving time approx 10:30 AM) to deman
+ d an end to the systemic murders\, brutality\, and racism that plague our 
+ prisons. We will not be silent. We will not stand by. Join us and take a s
+ tand for justice Rally will come to end around 1pm.\n\nSing Sing Correctio
+ nal Facility
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=921+Fulton+S
+ t%2C+Brooklyn%2C+NY&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

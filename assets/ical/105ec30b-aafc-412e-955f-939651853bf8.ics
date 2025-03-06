@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:f2ef7181-6090-4dbb-bab2-f0465e9902d2
+SEQUENCE:0
+DTSTAMP:20250306T175339Z
+DTSTART:20250314T090000
+DTEND:20250314T130000
+SUMMARY:Bridge Takeover Protests
+LOCATION:\, Grand Rapids\, MI
+DESCRIPTION:Join us to protest. Bring friends and signs!\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+Grand+Ra
+ pids%2C+MI&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

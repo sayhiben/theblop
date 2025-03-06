@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:f44638e6-937a-4944-a7fb-b18e1791ea5b
+SEQUENCE:0
+DTSTAMP:20250306T175339Z
+DTSTART:20250308T130000
+DTEND:20250308T170000
+SUMMARY:Protest to Save Democracy
+LOCATION:Lafayette St.\, Fayetteville\, NC
+DESCRIPTION:Protest against the fascist oligarchy forming in the United St
+ ates. Against Trump\, Vance\, Musk\, and their supporters.\n\nCorner of Co
+ llege and Lafayette
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Lafayette+St
+ .%2C+Fayetteville%2C+NC&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

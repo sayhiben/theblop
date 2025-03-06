@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:f7eeb31f-a9fd-4975-97e7-31b1d9c19cce
+SEQUENCE:0
+DTSTAMP:20250306T175339Z
+DTSTART:20250308T120000
+DTEND:20250308T160000
+SUMMARY:Orlando Tesla Takedown
+LOCATION:2214 John Young Parkway\, Orlando\, FL 32804 US
+DESCRIPTION:Join us to take down the Orlando Tesla showroom.\n\nTesla Show
+ room
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=2214+John+Yo
+ ung+Parkway%2C+Orlando%2C+FL+32804+US&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

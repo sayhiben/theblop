@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:319a58b6-2209-4910-bf28-8e18b74c843b
+SEQUENCE:0
+DTSTAMP:20250306T175339Z
+DTSTART:20250307T120000
+DTEND:20250307T160000
+SUMMARY:Stand Up for Science
+LOCATION:State Capitol Plaza\, Trenton\, NJ
+DESCRIPTION:Join Rutgers us outside the State House this Friday\, to prote
+ st the federal attacks on research & build a movement to increase public i
+ nvestment in science & higher ed.\n\n145 STATE ST
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=State+Capito
+ l+Plaza%2C+Trenton%2C+NJ&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

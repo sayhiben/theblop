@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:5d897caf-925e-4f3d-b155-cf79a81b4cc2
+SEQUENCE:0
+DTSTAMP:20250306T175339Z
+DTSTART:20250308T110000
+DTEND:20250308T150000
+SUMMARY:Tesla Takedown
+LOCATION:152 Dukes Road\, London\, 
+DESCRIPTION:Stop Musk. Crash Tesla stock. Join us.\n\nTesla Dealership
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=152+Dukes+Ro
+ ad%2C+London%2C+&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:763d9263-cf7a-4e97-af35-7e7184b64d44
+SEQUENCE:0
+DTSTAMP:20250306T175339Z
+DTSTART:20250311T110000
+DTEND:20250311T150000
+SUMMARY:Invest in Communities\, Not Fossil Fuels!
+LOCATION:500 N Lake Ave\, Pasadena\, CA 91101\, Los Angeles\, CA
+DESCRIPTION:Join us to make clear that fascism is not welcome here and tha
+ t we will resist Trump's immoral agenda.\n\nPasadena Community Job Center
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=500+N+Lake+A
+ ve%2C+Pasadena%2C+CA+91101%2C+Los+Angeles%2C+CA&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

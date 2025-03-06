@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:add9564e-46e9-45ca-bb07-625eeb13f3ca
+SEQUENCE:0
+DTSTAMP:20250306T175339Z
+DTSTART:20250317T110000
+DTEND:20250317T150000
+SUMMARY:Invest in Communities\, Not Fossil Fuels!
+LOCATION:400 Q Street\, Sacramento\, CA 95811
+DESCRIPTION:Join us for protest songs\, a drum corps\, Matrix-Themed stree
+ t theater\, and more!\n\nCalPERS HQ
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=400+Q+Street
+ %2C+Sacramento%2C+CA+95811&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:feb37f18-2ed3-4b63-a62d-c44b070cfdbe
+SEQUENCE:0
+DTSTAMP:20250306T175339Z
+DTSTART:20250311T163000
+DTEND:20250311T203000
+SUMMARY:March to Chevron's Richmond Refinery
+LOCATION:1600 Pacific Highway\, Richmond\, CA
+DESCRIPTION:Join us in a peaceful protest against the Chevron refinery\, d
+ emanding investment in communities instead of fossil fuels.\n\nCaroll Park
+  | 110 E Richmond Ave Richmond\, CA 94801
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=1600+Pacific
+ +Highway%2C+Richmond%2C+CA&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

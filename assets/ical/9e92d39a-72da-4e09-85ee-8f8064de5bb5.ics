@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:7914d7f4-5483-42c1-ad82-db442a97843c
+SEQUENCE:0
+DTSTAMP:20250306T175339Z
+DTSTART:20250308T110000
+DTEND:20250308T150000
+SUMMARY:International Women's Day Protest
+LOCATION:Federal Courthouse Steps\, Fort Lauderdale\, Fort Lauderdale\, FL
+DESCRIPTION:Join us in solidarity on March 8th at the Federal Courthouse s
+ teps in Fort Lauderdale.\n\nFederal Courthouse Steps
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Federal+Cour
+ thouse+Steps%2C+Fort+Lauderdale%2C+Fort+Lauderdale%2C+FL&zoom=15&basemap=r
+ oadmap
+END:VEVENT
+END:VCALENDAR

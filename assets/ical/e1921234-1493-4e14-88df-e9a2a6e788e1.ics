@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:d5f0b78e-b775-441e-a7f2-138929605916
+SEQUENCE:0
+DTSTAMP:20250306T175339Z
+DTSTART:20250328T180000
+DTEND:20250328T220000
+SUMMARY:Stop Farage & Reform UK
+LOCATION:Utilita Arena B1 2AA\, Centenary Square B1 2AE\, Birmingham\, UK
+DESCRIPTION:Protest and unity rally against racism\, division\, hate. Spea
+ kers include Samira Ali\, Salma Yaqoob\, Suresh Grover\, Charlie Williams\
+ , Mukhtar Dar\, Tracy Abrahams.\n\nProtest at Utilita Arena from 6-7 PM\, 
+ Rally at Centenary Square from 7-9 PM.
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Utilita+Aren
+ a+B1+2AA%2C+Centenary+Square+B1+2AE%2C+Birmingham%2C+UK&zoom=15&basemap=ro
+ admap
+END:VEVENT
+END:VCALENDAR
