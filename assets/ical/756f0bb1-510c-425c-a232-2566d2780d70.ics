@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:ca7f0eb5-b85a-44e7-a46d-4fd908dd3bf7
+SEQUENCE:0
+DTSTAMP:20250307T172419Z
+DTSTART:20250307T120000
+DTEND:20250307T160000
+SUMMARY:Stand Up For Science Detroit Rally
+LOCATION:320 E. Canfield\, Detroit\, MI
+DESCRIPTION:\n\nMazurek Education Commons
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=320+E.+Canfi
+ eld%2C+Detroit%2C+MI&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

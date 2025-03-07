@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:f74fc8c0-f524-4866-a4d0-5f883e4f7812
+SEQUENCE:0
+DTSTAMP:20250307T172420Z
+DTSTART:20250309T120000
+DTEND:20250309T160000
+SUMMARY:Stand Against White Supremacy
+LOCATION:1230 Elm Street\, Cincinnati\, OH
+DESCRIPTION:\n\nWashington Park
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=1230+Elm+Str
+ eet%2C+Cincinnati%2C+OH&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

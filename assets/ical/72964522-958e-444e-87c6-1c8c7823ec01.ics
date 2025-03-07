@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:8a1b9462-8a9d-4587-b4c7-05e7f0904ab9
+SEQUENCE:0
+DTSTAMP:20250307T172419Z
+DTSTART:20250307T150000
+DTEND:20250307T190000
+SUMMARY:Urgent Demonstration
+LOCATION:State Capitol\, Salt Lake City\, UT
+DESCRIPTION:Join us - Friday March 7th at 3 pm. In response to the passing
+  of HB77\, Utah Pride is calling our community and allies to come together
+  and fly our 200' pride flag. Meet on the South steps of the state capitol
+  at 3 pm.\n\nSouth Steps of State Capitol
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=State+Capito
+ l%2C+Salt+Lake+City%2C+UT&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

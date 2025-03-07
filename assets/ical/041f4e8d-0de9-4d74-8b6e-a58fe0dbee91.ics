@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:49302211-a015-43e2-90fd-aba16cfb1131
+SEQUENCE:0
+DTSTAMP:20250307T172419Z
+DTSTART:20250307T180000
+DTEND:20250307T220000
+SUMMARY:Cincinnati Protest Opportunity
+LOCATION:William Howard Taft & Victoria Pkwy\, Cincinnati\, OH
+DESCRIPTION:\n\nintersection of William Howard Taft & Victoria Parkway
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=William+Howa
+ rd+Taft+%26+Victoria+Pkwy%2C+Cincinnati%2C+OH&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

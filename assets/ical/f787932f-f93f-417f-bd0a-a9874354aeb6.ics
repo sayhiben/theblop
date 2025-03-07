@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:31cd5d58-2a02-443e-bb4d-78c898f4f69c
+SEQUENCE:0
+DTSTAMP:20250307T172419Z
+DTSTART:20250307T130000
+DTEND:20250307T170000
+SUMMARY:Stand Up for Science
+LOCATION:Bailey Park\, Winston Salem\, NC
+DESCRIPTION:Join us to stand up for science and fight against the attacks 
+ on scientific research and education.\n\nBailey Park
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Bailey+Park%
+ 2C+Winston+Salem%2C+NC&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

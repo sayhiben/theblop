@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:86d92414-0dec-4dcb-9a96-3d41bb9b68df
+SEQUENCE:0
+DTSTAMP:20250307T172420Z
+DTSTART:20250312T174500
+DTEND:20250312T214500
+SUMMARY:Wasilla Protest
+LOCATION:821-915 George Park\, Wasilla\, AK 99654
+DESCRIPTION:A protest to stand up and fight back against perceived injusti
+ ces in the community.\n\nNewcomb Park Wasilla Lake
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=821-915+Geor
+ ge+Park%2C+Wasilla%2C+AK+99654&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

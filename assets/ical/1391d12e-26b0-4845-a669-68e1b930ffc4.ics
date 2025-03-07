@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:e54b526b-c9b6-4d85-a3bb-b1afc4a8bd4b
+SEQUENCE:0
+DTSTAMP:20250307T172420Z
+DTSTART:20250310T090000
+DTEND:20250310T130000
+SUMMARY:Rally for Workers with the CFPB Union
+LOCATION:333 Constitution Ave. NW\, Washington\, DC
+DESCRIPTION:Join us to support our union and protect workers' rights!\n\nG
+ eorge Gordon Meade Memorial
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=333+Constitu
+ tion+Ave.+NW%2C+Washington%2C+DC&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

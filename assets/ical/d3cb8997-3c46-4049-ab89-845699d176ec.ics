@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:fda91df7-574f-4405-89ec-179d21cad4ba
+SEQUENCE:0
+DTSTAMP:20250307T172420Z
+DTSTART:20250308T110000
+DTEND:20250308T150000
+SUMMARY:International Women's Day Protest in Fairplay
+LOCATION:The Old Courthouse\, Main St between 4th and 5th St in Fairplay
+DESCRIPTION:Join us to speak up and show solidarity. After the protest\, w
+ e'll head over to Highside Brewing for some social time.\n\nThe Old Courth
+ ouse\, Main St between 4th and 5th St in Fairplay
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=The+Old+Cour
+ thouse%2C+Main+St+between+4th+and+5th+St+in+Fairplay&zoom=15&basemap=roadm
+ ap
+END:VEVENT
+END:VCALENDAR

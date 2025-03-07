@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:337479f4-3199-4b33-a96b-accd9c07b53f
+SEQUENCE:0
+DTSTAMP:20250307T172419Z
+DTSTART:20250307T120000
+DTEND:20250307T160000
+SUMMARY:Stand Up for Science
+LOCATION:RI State House\, Providence\, RI
+DESCRIPTION:Find your local rally site and other ways to get involved: sta
+ ndupforscience2025.org\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=RI+State+Hou
+ se%2C+Providence%2C+RI&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:18ab01ea-8f41-41ba-b243-d5bafd0bc34e
+SEQUENCE:0
+DTSTAMP:20250307T172420Z
+DTSTART:20250311T120000
+DTEND:20250311T160000
+SUMMARY:Protest against the re-opening of Delaney Hall Detention Center
+LOCATION:Delaney Hall\, Newark\, NJ
+DESCRIPTION:Join us to protest ICE's new detention center in Newark\, NJ.\
+ n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Delaney+Hall
+ %2C+Newark%2C+NJ&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:783d631d-b927-4949-a3d5-352c8c567484
+SEQUENCE:0
+DTSTAMP:20250307T172419Z
+DTSTART:20250307T140000
+DTEND:20250307T180000
+SUMMARY:Stand Up for Science
+LOCATION:Waterfront Park\, San Diego\, CA
+DESCRIPTION:Join us to stand up against attacks on science and evidence-ba
+ sed policies.\n\nSan Diego City Hall > Waterfront Park
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Waterfront+P
+ ark%2C+San+Diego%2C+CA&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

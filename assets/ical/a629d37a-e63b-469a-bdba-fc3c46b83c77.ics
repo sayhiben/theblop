@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:c975d7a8-0d49-4b69-ac2c-051ad3b8fce5
+SEQUENCE:0
+DTSTAMP:20250307T172420Z
+DTSTART:20250308T120000
+DTEND:20250308T160000
+SUMMARY:Tony Wied Will Answer to Us
+LOCATION:Townline Pub\, Green Bay\, WI
+DESCRIPTION:Protest Tony Wied\, Brad Schimel\, and the Oligarchy. They're 
+ not saving any of us\, and they're going to hear about it.\n\nThe sidewalk
+ s across the street from Townline Pub\, Green Bay\, WI
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Townline+Pub
+ %2C+Green+Bay%2C+WI&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

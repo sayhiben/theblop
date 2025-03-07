@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:06907245-db03-47c2-958a-f529b91196a8
+SEQUENCE:0
+DTSTAMP:20250307T172420Z
+DTSTART:20250309T163000
+DTEND:20250309T203000
+SUMMARY:Protest Dictators
+LOCATION:5701 Dreher Trail S.\, West Palm Beach\, FL
+DESCRIPTION:Join us to protest Trump as he heads back to DC.\n\nDreher Par
+ k facing Southern Boulevard
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=5701+Dreher+
+ Trail+S.%2C+West+Palm+Beach%2C+FL&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

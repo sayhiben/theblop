@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:52bfda97-d5ca-494e-b9e7-6116ae85be4b
+SEQUENCE:0
+DTSTAMP:20250307T172420Z
+DTSTART:20250308T120000
+DTEND:20250308T160000
+SUMMARY:Protest/Rally
+LOCATION:719 N 10th St\, Renton\, WA
+DESCRIPTION:On International Women's Day\, we're taking to the streets to 
+ fight back against the fascist takeover. Join us to defend our rights\, ou
+ r bodies\, and our future. No permission needed—just show up and bring o
+ thers.\n\nUnited States
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=719+N+10th+S
+ t%2C+Renton%2C+WA&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

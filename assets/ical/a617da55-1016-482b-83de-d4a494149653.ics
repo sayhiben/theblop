@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:d3b95560-bbce-45f5-96b8-ce799d7bf66e
+SEQUENCE:0
+DTSTAMP:20250307T172420Z
+DTSTART:20250315T120000
+DTEND:20250315T160000
+SUMMARY:50 Protests\, 50 States\, 1 Movement
+LOCATION:Ohio Statehouse\, Columbus\, OH
+DESCRIPTION:\n\n1 Capitol Sq.
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Ohio+Stateho
+ use%2C+Columbus%2C+OH&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

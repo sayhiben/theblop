@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:99321c17-3fdb-48dc-8471-749510b45799
+SEQUENCE:0
+DTSTAMP:20250307T172419Z
+DTSTART:20250307T160000
+DTEND:20250307T200000
+SUMMARY:A Peaceful Protest
+LOCATION:134 S Salisbury Blvd\, Salisbury\, MD
+DESCRIPTION:Uphold the Constitution and end executive overreach.\n\nUnity 
+ Square Downtown Salisbury
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=134+S+Salisb
+ ury+Blvd%2C+Salisbury%2C+MD&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:d848ea1f-fd1e-4bff-84a0-52edbd29cf32
+SEQUENCE:0
+DTSTAMP:20250307T172420Z
+DTSTART:20250312T143000
+DTEND:20250312T183000
+SUMMARY:Guantanamo Bay Protest
+LOCATION:\, Livingston\, MT
+DESCRIPTION:Join me in protesting the incoming Genocide being imposed by t
+ his administration. Every Wednesday and Thursday from 3:30-5:30 at 5th str
+ eet and Park traffic light in Livingston.\n\n5th St & Park
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+Livingst
+ on%2C+MT&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

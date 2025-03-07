@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:56616a71-12f2-4045-acae-e0e553598d9e
+SEQUENCE:0
+DTSTAMP:20250307T172420Z
+DTSTART:20250308T090000
+DTEND:20250308T130000
+SUMMARY:International Women's Day
+LOCATION:1915 Veterans Blvd\, Del Rio\, TX
+DESCRIPTION:\n\nDel Rio Civic Center\, 12pm
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=1915+Veteran
+ s+Blvd%2C+Del+Rio%2C+TX&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

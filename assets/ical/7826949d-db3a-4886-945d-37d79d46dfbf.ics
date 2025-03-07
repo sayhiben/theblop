@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:583c209d-dd53-4563-a549-d257de3cc2c4
+SEQUENCE:0
+DTSTAMP:20250307T172420Z
+DTSTART:20250308T130000
+DTEND:20250308T170000
+SUMMARY:Third World Women Resist
+LOCATION:Kennedy Plaza\, Providence\, RI
+DESCRIPTION:Join us for a rally that honors the revolutionary feminist tra
+ dition of the Third World Women's Alliance.\n\nCity Hall\, Kennedy Plaza
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Kennedy+Plaz
+ a%2C+Providence%2C+RI&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

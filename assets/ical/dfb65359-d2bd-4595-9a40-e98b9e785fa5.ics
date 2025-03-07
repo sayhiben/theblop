@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:ae58fbc9-7e6b-444e-90fb-4502dc7fe7bb
+SEQUENCE:0
+DTSTAMP:20250307T172420Z
+DTSTART:20250316T120000
+DTEND:20250316T160000
+SUMMARY:Save America March
+LOCATION:214 Massachusetts Avenue N.E.\, Washington D.C.\, DC
+DESCRIPTION:Join us to save America and protect our freedoms.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=214+Massachu
+ setts+Avenue+N.E.%2C+Washington+D.C.%2C+DC&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

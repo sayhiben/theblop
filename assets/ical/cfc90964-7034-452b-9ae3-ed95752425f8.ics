@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:e46a7d77-1e6c-494a-b8ce-bc8fec1abeb4
+SEQUENCE:0
+DTSTAMP:20250307T172420Z
+DTSTART:20250309T140000
+DTEND:20250309T180000
+SUMMARY:Resistance Unity Rally
+LOCATION:\, \, MN
+DESCRIPTION:\n\nMN: Meet at park near bridge. March over Bridge. -- WI: Me
+ et at SCF Library
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+%2C+MN&z
+ oom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

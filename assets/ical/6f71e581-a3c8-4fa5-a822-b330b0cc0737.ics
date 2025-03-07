@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:723a3254-c58b-413c-8e04-63d2f16a8dab
+SEQUENCE:0
+DTSTAMP:20250307T172420Z
+DTSTART:20250308T150000
+DTEND:20250308T190000
+SUMMARY:On International Women’s day: Stand Up Fight Back Against Trump
+ ’s Agenda
+LOCATION:315 e Kennedy Blvd\, Tampa\, FL
+DESCRIPTION:\n\nTampa City Hall
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=315+e+Kenned
+ y+Blvd%2C+Tampa%2C+FL&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

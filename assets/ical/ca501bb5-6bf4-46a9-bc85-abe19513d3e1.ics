@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:642b5039-6d71-49a9-81b0-4c0d7e33fea6
+SEQUENCE:0
+DTSTAMP:20250307T172420Z
+DTSTART:20250308T133000
+DTEND:20250308T173000
+SUMMARY:Take Action to Protest President Elon Musk
+LOCATION:9850 W Broad Street\, Glen Allen\, VA 23060
+DESCRIPTION:Gather at 1:30PM | Kick Off at 2:00PM\n\nTesla Dealership on B
+ road St
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=9850+W+Broad
+ +Street%2C+Glen+Allen%2C+VA+23060&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

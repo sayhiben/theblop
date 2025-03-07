@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:b06076ee-4477-48b2-80e3-cb74f234ac39
+SEQUENCE:0
+DTSTAMP:20250307T172420Z
+DTSTART:20250310T120000
+DTEND:20250310T160000
+SUMMARY:Shut Down the Coup
+LOCATION:2436 Rayburn House Office Bldg\, Washington\, DC\, DC
+DESCRIPTION:Rally · Volunteer organized for Indivisible\n\nWest Lawn of t
+ he United States Capitol Building
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=2436+Rayburn
+ +House+Office+Bldg%2C+Washington%2C+DC%2C+DC&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

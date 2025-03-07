@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:34dae938-6d5b-48d2-9c21-443493a3b42d
+SEQUENCE:0
+DTSTAMP:20250307T172420Z
+DTSTART:20250308T120000
+DTEND:20250308T160000
+SUMMARY:International Women's Day
+LOCATION:State Capitol Building\, Austin\, TX
+DESCRIPTION:Join us to celebrate and unite for women's rights\, equality\,
+  and justice.\n\nAustin\, TX
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=State+Capito
+ l+Building%2C+Austin%2C+TX&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

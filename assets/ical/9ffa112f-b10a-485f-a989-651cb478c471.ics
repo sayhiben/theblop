@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:84eb61a0-2427-4d75-a94d-cca2c5f4f369
+SEQUENCE:0
+DTSTAMP:20250307T172420Z
+DTSTART:20250308T120000
+DTEND:20250308T160000
+SUMMARY:Rally for Our Rights
+LOCATION:200 South Street\, Morristown Town Hall Lawn\, Morristown\, NJ
+DESCRIPTION:Be Seen & Be Heard. Rally on International Women's Day.\n\nPar
+ king at 25 Franklin St
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=200+South+St
+ reet%2C+Morristown+Town+Hall+Lawn%2C+Morristown%2C+NJ&zoom=15&basemap=road
+ map
+END:VEVENT
+END:VCALENDAR

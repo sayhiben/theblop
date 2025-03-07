@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:76c628b8-a94f-4d1e-8845-2b6f78f626e8
+SEQUENCE:0
+DTSTAMP:20250307T172420Z
+DTSTART:20250308T110000
+DTEND:20250308T150000
+SUMMARY:Protest in Brentwood MO
+LOCATION:EAGER & BRENTWOOD BLVD\, 11am-1pm\, Saturday March 8th\, 2025\, B
+ rentwood\, MO
+DESCRIPTION:Peaceful Rally sign holding. On International Women's Day\, we
+ 're taking to the streets (sidewalks) to fight back against the fascist ta
+ keover. Join us to defend our rights\, our bodies\, and our future. We wil
+ l be at the intersection of EAGER & BRENTWOOD BLVD\, 11am-1pm\, Saturday M
+ arch 8th\, 2025. There is ample public parking in the area as well as the 
+ shopping centers.\n\nIntersection of EAGER & BRENTWOOD BLVD
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=EAGER+%26+BR
+ ENTWOOD+BLVD%2C+11am-1pm%2C+Saturday+March+8th%2C+2025%2C+Brentwood%2C+MO&
+ zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

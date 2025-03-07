@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:264dc2ee-0c07-46ab-8511-2df3111be627
+SEQUENCE:0
+DTSTAMP:20250307T172420Z
+DTSTART:20250309T130000
+DTEND:20250309T170000
+SUMMARY:Tesla Takedown San Francisco
+LOCATION:999 Van Ness Ave\, San Francisco\, CA 94109 US
+DESCRIPTION:Join us to take down the Tesla dealership in support of local 
+ businesses and workers!\n\nTesla Dealership
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=999+Van+Ness
+ +Ave%2C+San+Francisco%2C+CA+94109+US&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

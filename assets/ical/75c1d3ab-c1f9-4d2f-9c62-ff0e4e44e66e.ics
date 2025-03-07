@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:1ae6fd02-3ec8-440c-849b-9aff00bc251e
+SEQUENCE:0
+DTSTAMP:20250307T172420Z
+DTSTART:20250308T110000
+DTEND:20250308T150000
+SUMMARY:Protest/Rally
+LOCATION:1315 White St\, Key West\, FL
+DESCRIPTION:Gather in front of the US Weather Station to connect and resis
+ t against threats to NOAA\, women and our democracy on International Women
+ ’s Day No permission needed—just show up\, bring signs and friends!\n\
+ n1315 White Street
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=1315+White+S
+ t%2C+Key+West%2C+FL&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR
