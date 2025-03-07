@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:658c3323-dc6a-4db6-89ec-95ce801da3fb
+SEQUENCE:0
+DTSTAMP:20250307T085925Z
+DTSTART:20250316T120000
+DTEND:20250316T160000
+SUMMARY:Protest Project 2025
+LOCATION:214 Massachusetts Ave. N.E.\, Washington\, D.C.\, DC
+DESCRIPTION:Save America\n\nHeritage Foundation
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=214+Massachu
+ setts+Ave.+N.E.%2C+Washington%2C+D.C.%2C+DC&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

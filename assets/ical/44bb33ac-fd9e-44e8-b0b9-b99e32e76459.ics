@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:b03af966-9ee4-4d74-b5ed-57795fbc4542
+SEQUENCE:0
+DTSTAMP:20250307T085925Z
+DTSTART:20250307T130000
+DTEND:20250307T170000
+SUMMARY:Trans & Queer Demonstration
+LOCATION:Utah State Capitol South Steps\, Salt Lake City\, UT
+DESCRIPTION:\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Utah+State+C
+ apitol+South+Steps%2C+Salt+Lake+City%2C+UT&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

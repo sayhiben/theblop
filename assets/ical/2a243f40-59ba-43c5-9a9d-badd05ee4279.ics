@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:61b58f7d-12da-47b2-b115-11b2c52abd8c
+SEQUENCE:0
+DTSTAMP:20250307T085925Z
+DTSTART:20250308T110000
+DTEND:20250308T150000
+SUMMARY:Tesla Takedown Atlanta
+LOCATION:1580 Church St.\, Atlanta\, GA
+DESCRIPTION:Join us to stand up against unelected billionaire disruptor El
+ on Musk before it's too late!\n\nDecatur
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=1580+Church+
+ St.%2C+Atlanta%2C+GA&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:4c2463cc-1742-4801-a3ab-397d8fd14151
+SEQUENCE:0
+DTSTAMP:20250307T085925Z
+DTSTART:20250307T120000
+DTEND:20250307T160000
+SUMMARY:Stand Up For Science
+LOCATION:83X6+GGQ Santa Clara\, California\, Santa Clara University\, CA
+DESCRIPTION:Join us to support science and evidence-based policies!\n\nMec
+ hanical Engineering Building
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=83X6%2BGGQ+S
+ anta+Clara%2C+California%2C+Santa+Clara+University%2C+CA&zoom=15&basemap=r
+ oadmap
+END:VEVENT
+END:VCALENDAR

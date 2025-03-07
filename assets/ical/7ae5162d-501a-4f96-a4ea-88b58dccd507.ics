@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:5e87db94-aaef-41b1-829a-9a3e2afed057
+SEQUENCE:0
+DTSTAMP:20250307T085925Z
+DTSTART:20250308T120000
+DTEND:20250308T160000
+SUMMARY:Rising for Our Rights
+LOCATION:Minnesota State Capitol\, St Paul\, MN
+DESCRIPTION:Join us on International Women's Day to demand our rights and 
+ resist any attacks against women\, trans\, or non-binary people. Stay peac
+ eful\, know your rights\, take care of each other.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Minnesota+St
+ ate+Capitol%2C+St+Paul%2C+MN&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

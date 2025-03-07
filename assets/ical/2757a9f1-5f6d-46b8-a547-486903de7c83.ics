@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:b1e468c5-186d-4c54-bf80-e113fe010be5
+SEQUENCE:0
+DTSTAMP:20250307T085925Z
+DTSTART:20250308T120000
+DTEND:20250308T160000
+SUMMARY:Come March with Us!
+LOCATION:Olympia Capitol Building\, Olympia\, WA
+DESCRIPTION:Wear What 'Woman' Means to You!\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Olympia+Capi
+ tol+Building%2C+Olympia%2C+WA&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:acb4d5b1-c128-4706-857a-d02843e21620
+SEQUENCE:0
+DTSTAMP:20250307T085925Z
+DTSTART:20250308T120000
+DTEND:20250308T160000
+SUMMARY:#TESLATAKEDOWN
+LOCATION:1300 N 45th St.\, Seattle\, WA
+DESCRIPTION:Join a protest near you.\n\nMeet at the Tesla dealership
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=1300+N+45th+
+ St.%2C+Seattle%2C+WA&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:d79e83b1-8b03-4033-9c39-d7b42937372c
+SEQUENCE:0
+DTSTAMP:20250307T085925Z
+DTSTART:20250308T110000
+DTEND:20250308T150000
+SUMMARY:Peaceful Protest at Tesla
+LOCATION:700 Ottawa Avenue North\, San Jose\, CA
+DESCRIPTION:Join the protest to voice your opinion about government takeov
+ er by using your constitutional right to protest. Let's hit Elon Musk wher
+ e it hurts his wallet.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=700+Ottawa+A
+ venue+North%2C+San+Jose%2C+CA&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:d0e28f04-0f9b-477e-bf43-cb5af3cf8941
+SEQUENCE:0
+DTSTAMP:20250307T085925Z
+DTSTART:20250308T143000
+DTEND:20250308T183000
+SUMMARY:Protest Sign Making Sesh
+LOCATION:Public Library Basement\, Moorhead\, MN
+DESCRIPTION:\n\nMoorhead Public Library Basement
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Public+Libra
+ ry+Basement%2C+Moorhead%2C+MN&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

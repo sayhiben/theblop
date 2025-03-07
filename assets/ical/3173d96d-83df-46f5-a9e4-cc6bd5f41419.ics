@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:c340223e-838f-4401-a631-fbaf63271aba
+SEQUENCE:0
+DTSTAMP:20250307T085925Z
+DTSTART:20250315T120000
+DTEND:20250315T160000
+SUMMARY:Media March
+LOCATION:400 N. Capitol St. NW\, Unit 550\, Washington\, DC
+DESCRIPTION:Truth Over Propaganda\, Media March at Fox News Headquarters.\
+ n\nFox News Headquarters
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=400+N.+Capit
+ ol+St.+NW%2C+Unit+550%2C+Washington%2C+DC&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR
