@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:9004b22f-acab-4366-86a2-c4763652c2e7
+SEQUENCE:0
+DTSTAMP:20250307T120947Z
+DTSTART:20250316T110000
+DTEND:20250316T150000
+SUMMARY:Tesla Takedown Stamford CT
+LOCATION:106 Commerce Road\, Stamford\, CT
+DESCRIPTION:Join us to make clear that Tesla is not welcome here and that 
+ we will resist Elon Musk's immoral agenda.\n\nTesla Showroom
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=106+Commerce
+ +Road%2C+Stamford%2C+CT&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR
