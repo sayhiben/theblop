@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:f6769ad7-4157-472e-b82c-70b834b61863
+SEQUENCE:0
+DTSTAMP:20250307T002649Z
+DTSTART:20250316T120000
+DTEND:20250316T160000
+SUMMARY:Save America March
+LOCATION:1600 Pacific Highway\, Washington DC\, 
+DESCRIPTION:From the Heritage Foundation\n\nThe Heritage Foundation headqu
+ arters
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=1600+Pacific
+ +Highway%2C+Washington+DC%2C+&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

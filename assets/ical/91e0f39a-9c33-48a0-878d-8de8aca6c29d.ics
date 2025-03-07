@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:1a9c3154-d68d-477e-bbf7-3e777b04cdb2
+SEQUENCE:0
+DTSTAMP:20250307T002649Z
+DTSTART:20250308T150000
+DTEND:20250308T190000
+SUMMARY:Pro-Ukraine Pro-Democracy Rally
+LOCATION:Marcy Field\, Keene Valley\, Keene Valley\, NY\, NY
+DESCRIPTION:Join us to make clear that fascism is not welcome here and tha
+ t we will resist Trump's immoral agenda.\n\nMarcy Field\, Keene Valley
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Marcy+Field%
+ 2C+Keene+Valley%2C+Keene+Valley%2C+NY%2C+NY&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

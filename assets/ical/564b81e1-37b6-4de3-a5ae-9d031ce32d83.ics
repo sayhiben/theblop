@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:8d554fa3-f429-4df2-9e80-345b16b2b6ca
+SEQUENCE:0
+DTSTAMP:20250307T002649Z
+DTSTART:20250307T120000
+DTEND:20250307T160000
+SUMMARY:Stand Up for Science
+LOCATION:Lytton Plaza\, Palo Alto\, CA
+DESCRIPTION:We're standing up for science—because science is for EVERYON
+ E!\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Lytton+Plaza
+ %2C+Palo+Alto%2C+CA&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

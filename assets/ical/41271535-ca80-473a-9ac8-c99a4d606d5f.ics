@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:c0be3314-a353-4ac6-a21e-f5291cd1ac49
+SEQUENCE:0
+DTSTAMP:20250307T002649Z
+DTSTART:20250307T160000
+DTEND:20250307T200000
+SUMMARY:Rally
+LOCATION:Corner of La Paz & Marguerite\, Laguna Beach\, CA
+DESCRIPTION:Stop hiding & meet with us We demand a Town Hall\n\nYoung Kim'
+ s Mission Viejo Office
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Corner+of+La
+ +Paz+%26+Marguerite%2C+Laguna+Beach%2C+CA&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

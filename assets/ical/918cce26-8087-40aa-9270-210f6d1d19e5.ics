@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:d5cbca99-2921-4cff-9d35-faf8766b4e86
+SEQUENCE:0
+DTSTAMP:20250307T002649Z
+DTSTART:20250308T130000
+DTEND:20250308T170000
+SUMMARY:SAVE OUR DEMOCRACY and INTERNATIONAL WOMEN'S DAY RALLY IN NEWARK
+LOCATION:E. Main St. and S. College Ave.\, Newark\, NJ
+DESCRIPTION:Come and march with us as we protest the Trump /Musk Deconstru
+ ction of the US Government.\n\nNewark First State
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=E.+Main+St.+
+ and+S.+College+Ave.%2C+Newark%2C+NJ&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

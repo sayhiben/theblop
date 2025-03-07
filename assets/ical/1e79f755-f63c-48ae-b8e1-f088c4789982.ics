@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:5d74a349-4837-42ae-9078-4676c12b7ed9
+SEQUENCE:0
+DTSTAMP:20250307T002649Z
+DTSTART:20250308T120000
+DTEND:20250308T160000
+SUMMARY:International Women's Day Rally!
+LOCATION:at the corner of Court & Main St Doylestown\, PA
+DESCRIPTION:Join us Saturday at noon for a peaceful protest at the old Cou
+ rthouse in Doylestown. Together\, we will stand up and make our voices hea
+ rd. We can transform our future. Let's be the change we want to see!\n\nCo
+ urt & Main St Doylestown\, PA
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=at+the+corne
+ r+of+Court+%26+Main+St+Doylestown%2C+PA&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

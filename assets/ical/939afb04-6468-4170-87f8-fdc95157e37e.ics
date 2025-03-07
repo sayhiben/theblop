@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:a0e276e0-c124-462a-a399-2c8c6bf9e109
+SEQUENCE:0
+DTSTAMP:20250307T002649Z
+DTSTART:20250308T110000
+DTEND:20250308T150000
+SUMMARY:WOMXNS March
+LOCATION:Union Square\, San Francisco\, CA
+DESCRIPTION:Come march with us\, day of unity between all sisters.\n\nWash
+ ington Square
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Union+Square
+ %2C+San+Francisco%2C+CA&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

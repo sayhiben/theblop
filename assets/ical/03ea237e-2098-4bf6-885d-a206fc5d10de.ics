@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:1a6b0ebb-f849-4543-b5a2-7ca2c7212544
+SEQUENCE:0
+DTSTAMP:20250307T002649Z
+DTSTART:20250308T000000
+DTEND:20250308T040000
+SUMMARY:Mind the Gap Fest
+LOCATION:The Gateway\, Salt Lake City\, UT
+DESCRIPTION:International Women's Day festival featuring local music\, ven
+ dors\, panel discussions\, workshops\, food trucks and more.\n\nThe Gatewa
+ y
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=The+Gateway%
+ 2C+Salt+Lake+City%2C+UT&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

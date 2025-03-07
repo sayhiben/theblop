@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:c773d3fb-704a-460b-b51f-47761eb4f9be
+SEQUENCE:0
+DTSTAMP:20250307T002649Z
+DTSTART:20250308T130000
+DTEND:20250308T170000
+SUMMARY:International Women's Day Protest!
+LOCATION:May Day Plaza\, 301 Cedar Ave\, Mpls\, Minneapolis\, MN
+DESCRIPTION:All out for the women of the working class Protect women’s &
+  reproductive rights Defend the trans community Stop separating families L
+ egalization for all!\n\nMay Day Plaza
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=May+Day+Plaz
+ a%2C+301+Cedar+Ave%2C+Mpls%2C+Minneapolis%2C+MN&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

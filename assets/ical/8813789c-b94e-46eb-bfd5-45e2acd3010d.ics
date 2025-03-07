@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:972a58cd-32e7-40af-9ffd-b6a013df4bb8
+SEQUENCE:0
+DTSTAMP:20250307T002649Z
+DTSTART:20250309T120000
+DTEND:20250309T160000
+SUMMARY:Rally / March
+LOCATION:Delaney Park Strip between I St. & L St.\, Alaska\, AK
+DESCRIPTION:Save Medicaid No Tax Cuts Do your job!\n\nDelaney Park Strip -
+  between I St. & L St.
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Delaney+Park
+ +Strip+between+I+St.+%26+L+St.%2C+Alaska%2C+AK&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR
