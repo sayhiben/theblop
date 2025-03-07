@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:0f633347-40b8-429d-b51a-d2532025a537
+SEQUENCE:0
+DTSTAMP:20250307T232109Z
+DTSTART:20250308T120000
+DTEND:20250308T160000
+SUMMARY:Tu Lucha Es Mi Lucha
+LOCATION:301 E Travis St\, San Antonio\, TX
+DESCRIPTION:Join us to make clear that fascism is not welcome here and tha
+ t we will resist Trump's immoral agenda.\n\nTravis Park
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=301+E+Travis
+ +St%2C+San+Antonio%2C+TX&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

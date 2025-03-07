@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:bc9165a5-0328-4c4b-8dc2-c64ec2e0a859
+SEQUENCE:0
+DTSTAMP:20250307T232109Z
+DTSTART:20250308T120000
+DTEND:20250308T160000
+SUMMARY:Tesla Takedown Lynnwood: Boycott Telsa\, Defund Musk!
+LOCATION:17731 Pacific Hwy\, Lynnwood\, WA
+DESCRIPTION:Join us in Lynnwood to say NO TO TESLA and Elon Musk!\n\nTesla
+  Showroom
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=17731+Pacifi
+ c+Hwy%2C+Lynnwood%2C+WA&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:f26979fa-0c24-4b3b-a59a-763d2d95d91a
+SEQUENCE:0
+DTSTAMP:20250307T232109Z
+DTSTART:20250308T110000
+DTEND:20250308T150000
+SUMMARY:International Women's Day
+LOCATION:1600 Pacific Highway\, San Diego\, CA
+DESCRIPTION:The main rally is happening immediately after at 11am!\n\nSan 
+ Diego CA
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=1600+Pacific
+ +Highway%2C+San+Diego%2C+CA&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

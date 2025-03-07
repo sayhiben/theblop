@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:feae8763-f55d-4e95-9ad2-204d32fbe0c7
+SEQUENCE:0
+DTSTAMP:20250307T232109Z
+DTSTART:20250308T100000
+DTEND:20250308T140000
+SUMMARY:Meet Me at the March
+LOCATION:Pershing Square to LA City Hall\, Los Angeles\, CA
+DESCRIPTION:International Women's Day Protest & Rally in Pershing Square t
+ o LA City Hall.\n\nPershing Square to LA City Hall
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Pershing+Squ
+ are+to+LA+City+Hall%2C+Los+Angeles%2C+CA&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

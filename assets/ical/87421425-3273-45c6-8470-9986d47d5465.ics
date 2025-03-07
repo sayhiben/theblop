@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:57b3048b-37ad-4989-a4da-97b841c1e6b0
+SEQUENCE:0
+DTSTAMP:20250307T232109Z
+DTSTART:20250308T120000
+DTEND:20250308T160000
+SUMMARY:Protest at Wyandotte City Hall
+LOCATION:3200 Biddle Ave\, Wyandotte\, MI
+DESCRIPTION:Join us to protest the Radical Republican Regime This must...\
+ n\nWyandotte City Hall
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=3200+Biddle+
+ Ave%2C+Wyandotte%2C+MI&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

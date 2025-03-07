@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:2070d2a9-68d6-4e3d-abc4-48bc4af66c68
+SEQUENCE:0
+DTSTAMP:20250307T232109Z
+DTSTART:20250308T100000
+DTEND:20250308T140000
+SUMMARY:International Women's Day Protest & Rally!
+LOCATION:309 Esplanade\, Redondo Beach\, CA\, 90277
+DESCRIPTION:Join us to make clear that fascism is not welcome here and tha
+ t we will resist Trump's immoral agenda.\n\nVeterans Park
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=309+Esplanad
+ e%2C+Redondo+Beach%2C+CA%2C+90277&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

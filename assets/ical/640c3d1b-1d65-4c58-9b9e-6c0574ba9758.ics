@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:fd4bb474-ac9b-4958-9b1c-8d656e1b35d3
+SEQUENCE:0
+DTSTAMP:20250307T232109Z
+DTSTART:20250311T100000
+DTEND:20250311T140000
+SUMMARY:Take It To The Senate
+LOCATION:120 Constitution Ave. NE\, Washington\, DC
+DESCRIPTION:Illegally fired and in limbo federal employees\, contractors\,
+  other affected workers & allies will share their stories with Senate offi
+ ces and the media. Lunch provided to laid-off feds.\n\nHART BUILDING ATRIU
+ M
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=120+Constitu
+ tion+Ave.+NE%2C+Washington%2C+DC&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:5c379134-18d9-4bbe-87ee-1b7e2824e15f
+SEQUENCE:0
+DTSTAMP:20250307T232109Z
+DTSTART:20250308T100000
+DTEND:20250308T140000
+SUMMARY:International Women's Day Protest
+LOCATION:3415 N Elizabeth St\, Pueblo\, CO
+DESCRIPTION:Join us to make clear that fascism is not welcome here and tha
+ t we will resist Trump's immoral agenda.\n\nWaterfront Park
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=3415+N+Eliza
+ beth+St%2C+Pueblo%2C+CO&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

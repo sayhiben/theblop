@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:0bb6e5cf-80e4-449f-acf1-cb8091ce248b
+SEQUENCE:0
+DTSTAMP:20250307T232109Z
+DTSTART:20250310T120000
+DTEND:20250310T160000
+SUMMARY:Stop Elon GR
+LOCATION:2919 29th St SE\, Grand Rapids\, MI 49512 US
+DESCRIPTION:Join us to protest against the actions of Elon Musk in Grand R
+ apids.\n\nTesla Showroom
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=2919+29th+St
+ +SE%2C+Grand+Rapids%2C+MI+49512+US&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

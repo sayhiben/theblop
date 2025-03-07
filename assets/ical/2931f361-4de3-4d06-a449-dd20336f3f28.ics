@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:b38694c6-b557-4093-bd9d-cecd1f67f200
+SEQUENCE:0
+DTSTAMP:20250307T232109Z
+DTSTART:20250308T130000
+DTEND:20250308T170000
+SUMMARY:Protest Absence of Reepresentative Mike Kelly
+LOCATION:571-601 State St\, Erie\, PA
+DESCRIPTION:Join us in a press conference protesting Rep. Mike Kelly\n\nPe
+ rry Square Stage\, Erie\, Pa
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=571-601+Stat
+ e+St%2C+Erie%2C+PA&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

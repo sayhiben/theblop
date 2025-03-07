@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:bed9e3f0-d08e-4d4f-a839-3d82c6ff001b
+SEQUENCE:0
+DTSTAMP:20250307T232109Z
+DTSTART:20250308T110000
+DTEND:20250308T150000
+SUMMARY:#TESLATADOWN
+LOCATION:9428 Reisterstown Rd\, Tesla Owings Mills MD\, 
+DESCRIPTION:Elon Musk is destroying our government. Let's hit him where it
+  hurts—his wallet.\n\nWaterfront Park
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=9428+Reister
+ stown+Rd%2C+Tesla+Owings+Mills+MD%2C+&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR
