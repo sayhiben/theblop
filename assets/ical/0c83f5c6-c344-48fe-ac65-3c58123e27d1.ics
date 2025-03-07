@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:4885774a-604b-4c59-9256-36caa62f36e3
+SEQUENCE:0
+DTSTAMP:20250307T060858Z
+DTSTART:20250308T160000
+DTEND:20250308T200000
+SUMMARY:People Power Women's March
+LOCATION:Capitol Mall\, Salem\, Oregon
+DESCRIPTION:Rise & Resist — Salem Activists\n\nSalem\, Oregon
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Capitol+Mall
+ %2C+Salem%2C+Oregon&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

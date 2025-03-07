@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:5ce98033-38ae-48ce-879f-c2ceca469c66
+SEQUENCE:0
+DTSTAMP:20250307T060858Z
+DTSTART:20250308T120000
+DTEND:20250308T160000
+SUMMARY:Keep Up The Protests!
+LOCATION:Government Plaza\, Mobile AL 36602
+DESCRIPTION:Join us on Saturday\, March 8th\, 2025 at Government Plaza for
+  the Annual Women's Day Rally against Authoritarianism\, Fascism and Injus
+ tice.\n\nGovernment Plaza
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Government+P
+ laza%2C+Mobile+AL+36602&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

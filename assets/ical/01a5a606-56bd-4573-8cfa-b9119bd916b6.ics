@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:82c5debf-17ad-4cd0-9e25-249d59eeed30
+SEQUENCE:0
+DTSTAMP:20250307T060858Z
+DTSTART:20250308T120000
+DTEND:20250308T160000
+SUMMARY:Women's March Protest
+LOCATION:Charleston WV State Capitol Building
+DESCRIPTION:There is a women’s march protest scheduled for Saturday\, Ma
+ rch 8 at noon at the Capitol. It is supposed to be inside the rotunda\, bu
+ t could possibly be outside\, so be prepared\, depending on the weather. I
+  am not the organizer\, but I am going\, and I am inviting everyone. I kno
+ w to this protest.\n\nCharleston\, WV
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Charleston+W
+ V+State+Capitol+Building&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

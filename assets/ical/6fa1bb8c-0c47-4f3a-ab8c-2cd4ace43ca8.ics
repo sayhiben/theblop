@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:e0ab61c4-f9d4-405c-9f65-1baf07857f9d
+SEQUENCE:0
+DTSTAMP:20250307T060858Z
+DTSTART:20250308T213000
+DTEND:20250309T013000
+SUMMARY:Tesla Protest
+LOCATION:4005 The Strand W\, Columbus\, OH 43219
+DESCRIPTION:Public Event by ...\n\nTesla Motors\, Easton Town Center
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=4005+The+Str
+ and+W%2C+Columbus%2C+OH+43219&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

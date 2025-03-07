@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:457c91db-86ba-4d20-a626-46b408e89611
+SEQUENCE:0
+DTSTAMP:20250307T060858Z
+DTSTART:20250307T133000
+DTEND:20250307T173000
+SUMMARY:Stand Up for Science
+LOCATION:Schenley Plaza\, Pittsburgh\, PA
+DESCRIPTION:Join us to stand up against science denialism and support evid
+ ence-based policies.\n\n12 PM - 3:30 PM
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Schenley+Pla
+ za%2C+Pittsburgh%2C+PA&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

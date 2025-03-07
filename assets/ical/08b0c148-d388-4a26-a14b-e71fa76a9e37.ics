@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:da82af92-df29-485a-bbd0-4ff779551d84
+SEQUENCE:0
+DTSTAMP:20250307T060858Z
+DTSTART:20250308T130000
+DTEND:20250308T170000
+SUMMARY:Protest to Save Democracy
+LOCATION:College and Lafayette\, Fayetteville\, NC
+DESCRIPTION:Protest against the fascist oligarchy forming in the United St
+ ates. Against Trump\, Vance\, Musk and their supporters.\n\nat the corner 
+ of College and Lafayette in Fayetteville
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=College+and+
+ Lafayette%2C+Fayetteville%2C+NC&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

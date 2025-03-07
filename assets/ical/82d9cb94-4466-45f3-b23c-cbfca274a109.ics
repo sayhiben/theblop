@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:0445a1d6-6667-4604-805f-7a6dc4e88bd5
+SEQUENCE:0
+DTSTAMP:20250307T060858Z
+DTSTART:20250308T100000
+DTEND:20250308T140000
+SUMMARY:Tesla Takedown Protest
+LOCATION:1805 N Pepper Lane\, Liberty Lake\, WA
+DESCRIPTION:Join us to make clear that fascism is not welcome here and tha
+ t we will resist Trump's immoral agenda.\n\nLiberty Lake Tesla
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=1805+N+Peppe
+ r+Lane%2C+Liberty+Lake%2C+WA&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

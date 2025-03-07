@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:9c502c11-185c-4ede-9030-990dcfef0298
+SEQUENCE:0
+DTSTAMP:20250307T060858Z
+DTSTART:20250308T150000
+DTEND:20250308T190000
+SUMMARY:Protest at Tesla
+LOCATION:115 Mount Kisco Ave\, Mount Kisco NY
+DESCRIPTION:Join us to make clear that fascism is not welcome here and tha
+ t we will resist Trump's immoral agenda.\n\nNear the Metro-North Station
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=115+Mount+Ki
+ sco+Ave%2C+Mount+Kisco+NY&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

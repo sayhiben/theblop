@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:ac8ee607-4e85-4c37-b104-056c51882dfb
+SEQUENCE:0
+DTSTAMP:20250307T060858Z
+DTSTART:20250308T100000
+DTEND:20250308T140000
+SUMMARY:A People's Protest
+LOCATION:150 N Limestone\, Lexington\, KY 40507-1154\, United States
+DESCRIPTION:Join us for a kid-friendly\, peaceful protest to let our Repub
+ lican representation know that we do not support their brazen attitude tow
+ ard allies\, immigrants\, and support services. Bring your signs\, your fl
+ ags\, and your VOICE Music will be provided by Fighting Futures!\n\n150 N 
+ Limestone\, Lexington\, KY 40507-1154\, United States
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=150+N+Limest
+ one%2C+Lexington%2C+KY+40507-1154%2C+United+States&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

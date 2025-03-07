@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:5d339342-43b5-44d6-8da4-0fb940a5a8f2
+SEQUENCE:0
+DTSTAMP:20250307T060858Z
+DTSTART:20250308T183000
+DTEND:20250308T223000
+SUMMARY:International Women's Day - Unite & Resist in Portland
+LOCATION:100 NW Naito Pkwy\, Portland\, OR
+DESCRIPTION:On International Women’s Day\, we’re taking to the streets
+  to fight back against the fascist takeover. Join us to defend our rights\
+ , our bodies\, and our future.\n\nJapanese American Historical Plaza
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=100+NW+Naito
+ +Pkwy%2C+Portland%2C+OR&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR
