@@ -1,5 +1,5 @@
 /***************************************************
- * Google Apps Script - Main Code with Verbose Logging
+ * Google Apps Script - Updated per your feedback
  ***************************************************/
 
 /**
@@ -10,7 +10,6 @@
  * - RUNPOD_ENDPOINT_URL
  * - RUNPOD_API_KEY
  */
-
 const scriptProperties = PropertiesService.getScriptProperties();
 const INBOX_SPREADSHEET_ID = scriptProperties.getProperty('INBOX_SPREADSHEET_ID');
 const PROCESSED_SPREADSHEET_ID = scriptProperties.getProperty('PROCESSED_SPREADSHEET_ID');
@@ -18,696 +17,746 @@ const DRIVE_FOLDER_ID = scriptProperties.getProperty('DRIVE_FOLDER_ID');
 const RUNPOD_ENDPOINT_URL = scriptProperties.getProperty('RUNPOD_ENDPOINT_URL');
 const RUNPOD_API_KEY = scriptProperties.getProperty('RUNPOD_API_KEY');
 
-// Names of the sheets (tabs)
+// Names of the sheets
 const RAW_DATA_SHEET_NAME = 'RawData';
 const PROCESSED_SHEET_NAME = 'Processed';
 const JOBS_SHEET_NAME = 'Jobs';
 
+// ---------------------------------------------------------------------
+// Table Header Definitions
+// ---------------------------------------------------------------------
+
 /**
- * Check if a given uuid already exists in either the RawData or Processed sheets.
- * We skip adding if it exists, preventing duplicates.
+ * RawData columns (one row per email image):
+ * 1) Date       (the entire date/time: e.g. "2025-03-15 14:30")
+ * 2) UUID
+ * 3) Subject
+ * 4) Body
+ * 5) Links
+ * 6) Image URL
+ * 7) Image Id
+ * 8) Processed
  */
-function uuidExistsInSheets(uuid) {
-  if (!uuid) return true; // safety
-  const rawSs = SpreadsheetApp.openById(INBOX_SPREADSHEET_ID);
-  const rawSheet = rawSs.getSheetByName(RAW_DATA_SHEET_NAME);
-  const processedSs = SpreadsheetApp.openById(PROCESSED_SPREADSHEET_ID);
-  const procSheet = processedSs.getSheetByName(PROCESSED_SHEET_NAME);
+const RAW_DATA_HEADERS = [
+  'Date',
+  'UUID',
+  'Subject',
+  'Body',
+  'Links',
+  'Image URL',
+  'Image Id',
+  'Processed'
+];
 
-  const rawValues = rawSheet.getDataRange().getValues();
-  const procValues = procSheet.getDataRange().getValues();
+/**
+ * Processed columns:
+ * 1) UUID
+ * 2) Received At       (copy of RawData.Date)
+ * 3) Date             (parsed "event date" from AI, if any)
+ * 4) Time             (parsed "event time" from AI, if any)
+ * 5) Title
+ * 6) Description
+ * 7) City
+ * 8) State
+ * 9) Address
+ * 10) Meeting Location
+ * 11) Links
+ * 12) Sponsors
+ * 13) Image URL
+ * 14) Image Source
+ * 15) Extracted Text
+ * 16) Canonical UUID
+ */
+const PROCESSED_DATA_HEADERS = [
+  'UUID',
+  'Received At',
+  'Date',
+  'Time',
+  'Title',
+  'Description',
+  'City',
+  'State',
+  'Address',
+  'Meeting Location',
+  'Links',
+  'Sponsors',
+  'Image URL',
+  'Image Source',
+  'Extracted Text',
+  'Canonical UUID'
+];
 
-  // In RawData: row format is [Date, UUID, Subject, Body, Links, ImageURLs, ImageIds, Processed]
-  // so UUID is at index 1
-  for (let i = 1; i < rawValues.length; i++) {
-    if (String(rawValues[i][1]) === String(uuid)) {
-      return true;
+/**
+ * Jobs columns
+ */
+const JOBS_HEADERS = [
+  'Timestamp',
+  'JobID',
+  'Status',
+  'PollAttempts',
+  'NextPollMins',
+  'Submissions'
+];
+
+// For poll interval clamp
+const INITIAL_POLL_INTERVAL = 5;
+const MAX_POLL_INTERVAL = 25;
+
+const STATE_MAP = {
+  "Alabama":"AL","Alaska":"AK","Arizona":"AZ","Arkansas":"AR","California":"CA",
+  "Colorado":"CO","Connecticut":"CT","Delaware":"DE","Florida":"FL","Georgia":"GA",
+  "Hawaii":"HI","Idaho":"ID","Illinois":"IL","Indiana":"IN","Iowa":"IA","Kansas":"KS",
+  "Kentucky":"KY","Louisiana":"LA","Maine":"ME","Maryland":"MD","Massachusetts":"MA",
+  "Michigan":"MI","Minnesota":"MN","Mississippi":"MS","Missouri":"MO","Montana":"MT",
+  "Nebraska":"NE","Nevada":"NV","New Hampshire":"NH","New Jersey":"NJ","New Mexico":"NM",
+  "New York":"NY","North Carolina":"NC","North Dakota":"ND","Ohio":"OH","Oklahoma":"OK",
+  "Oregon":"OR","Pennsylvania":"PA","Rhode Island":"RI","South Carolina":"SC",
+  "South Dakota":"SD","Tennessee":"TN","Texas":"TX","Utah":"UT","Vermont":"VT",
+  "Virginia":"VA","Washington":"WA","West Virginia":"WV","Wisconsin":"WI","Wyoming":"WY"
+};
+
+function normalizeState(extracted) {
+  let st = extracted.state ? extracted.state.trim() : '';
+  if (!st) return '';
+
+  // If city includes "Washington DC" or variant => "DC"
+  if (extracted.city) {
+    const cityLower = extracted.city.toLowerCase();
+    if (cityLower.includes('washington') && cityLower.includes('dc')) {
+      return 'DC';
     }
   }
+  // If we have a known US state name => 2-letter
+  if (STATE_MAP[st]) return STATE_MAP[st];
 
-  // In Processed: row format is [UUID, Date, Time, Title, ...]
-  // so UUID is at index 0
-  for (let j = 1; j < procValues.length; j++) {
-    if (String(procValues[j][0]) === String(uuid)) {
-      return true;
-    }
+  // If outside US
+  if (extracted.country && extracted.country.toUpperCase() !== 'USA') {
+    let ccode = extracted.countryCode || 'INT';
+    return ccode.slice(0,3).toUpperCase();
   }
-
-  return false;
+  return st;
 }
 
-// -----------------------------------------------------------------------------
-// 1. processEmails()
-//    Processes unread messages, stores them in 'RawData', marks as read,
-//    and moves the thread to Trash afterward.
-// -----------------------------------------------------------------------------
+// ---------------------------------------------------------------------
+// 1) Safe Setup
+// ---------------------------------------------------------------------
 
-function processEmails() {
-  Logger.log('Starting processEmails()...');
-  
-  Logger.log('INBOX_SPREADSHEET_ID: ' + INBOX_SPREADSHEET_ID);
-  Logger.log('DRIVE_FOLDER_ID: ' + DRIVE_FOLDER_ID);
+function setupSheets() {
+  const inboxSS = SpreadsheetApp.openById(INBOX_SPREADSHEET_ID);
+  const processedSS = SpreadsheetApp.openById(PROCESSED_SPREADSHEET_ID);
 
-  const sheet = SpreadsheetApp.openById(INBOX_SPREADSHEET_ID).getSheetByName(RAW_DATA_SHEET_NAME);
-  const folder = DriveApp.getFolderById(DRIVE_FOLDER_ID);
+  ensureSheetHasHeaders(inboxSS, RAW_DATA_SHEET_NAME, RAW_DATA_HEADERS);
+  ensureSheetHasHeaders(processedSS, PROCESSED_SHEET_NAME, PROCESSED_DATA_HEADERS);
+  ensureSheetHasHeaders(inboxSS, JOBS_SHEET_NAME, JOBS_HEADERS);
+}
 
-  // Search only unread messages with attachments
-  const threads = GmailApp.search('in:inbox is:unread has:attachment');
-  Logger.log('Found ' + threads.length + ' unread thread(s).');
-
-  if (!threads.length) {
-    Logger.log('No unread threads. Exiting processEmails().');
+/**
+ * If a sheet doesn't exist, create it with the required headers.
+ * If it does exist, verify columns match the required list or throw an error.
+ */
+function ensureSheetHasHeaders(ss, sheetName, requiredHeaders) {
+  let sheet = ss.getSheetByName(sheetName);
+  if (!sheet) {
+    sheet = ss.insertSheet(sheetName);
+    sheet.getRange(1, 1, 1, requiredHeaders.length).setValues([requiredHeaders]);
+    Logger.log(`Created sheet "${sheetName}" with required headers.`);
     return;
   }
+
+  const row1 = sheet.getRange(1, 1, 1, sheet.getLastColumn()).getValues()[0];
+  for (let i = 0; i < requiredHeaders.length; i++) {
+    if (row1[i] !== requiredHeaders[i]) {
+      throw new Error(
+        `Sheet "${sheetName}" mismatch at col ${i + 1}. ` +
+        `Expected "${requiredHeaders[i]}", found "${row1[i]}".`
+      );
+    }
+  }
+  Logger.log(`Sheet "${sheetName}" is compatible.`);
+}
+
+// ---------------------------------------------------------------------
+// 2) Memoized "header → column" & row appends
+// ---------------------------------------------------------------------
+const headerMapCache = {};
+
+function getHeaderMap(sheet) {
+  const sheetId = `${sheet.getParent().getId()}--${sheet.getSheetId()}`;
+  if (headerMapCache[sheetId]) return headerMapCache[sheetId];
+
+  const row1 = sheet.getRange(1, 1, 1, sheet.getLastColumn()).getValues()[0];
+  const map = {};
+  row1.forEach((hdr, i) => { map[hdr] = i; });
+  headerMapCache[sheetId] = map;
+  return map;
+}
+
+function appendRowByHeaders(sheet, recordObj) {
+  const hMap = getHeaderMap(sheet);
+  const newRow = new Array(Object.keys(hMap).length).fill('');
+  for (let key in recordObj) {
+    if (hMap.hasOwnProperty(key)) {
+      newRow[hMap[key]] = recordObj[key];
+    }
+  }
+  sheet.appendRow(newRow);
+}
+
+// ---------------------------------------------------------------------
+// 3) Utility: parse & coerce date/time to "recent" if older year
+// ---------------------------------------------------------------------
+function parseAndNormalizeDateTime(dtValue) {
+  const dayjs = loadDayjs();
+  let dt = dayjs(dtValue);
+  if (!dt.isValid()) return ''; // fallback empty
+  let currentYear = dayjs().year();
+  if (dt.year() < currentYear) {
+    dt = dt.year(currentYear);
+  }
+  return dt.format('YYYY-MM-DD HH:mm'); // store full datetime as "YYYY-MM-DD HH:mm"
+}
+
+function extractJsonFromText(text) {
+  if (!text) return null;
+  let start = text.indexOf('{');
+  let end = text.lastIndexOf('}');
+  if (start === -1 || end === -1 || end <= start) return null;
+
+  let snippet = text.substring(start, end + 1);
+  try {
+    return JSON.parse(snippet);
+  } catch (e) {
+    return null;
+  }
+}
+
+function arrayOrString(val) {
+  if (!val) return '';
+  if (Array.isArray(val)) return val.join(', ');
+  return String(val);
+}
+
+// ---------------------------------------------------------------------
+// 4) processEmails => RawData
+// ---------------------------------------------------------------------
+function processEmails() {
+  Logger.log('Starting processEmails()...');
+  const inboxSS = SpreadsheetApp.openById(INBOX_SPREADSHEET_ID);
+  const rawDataSheet = inboxSS.getSheetByName(RAW_DATA_SHEET_NAME);
+
+  const folder = DriveApp.getFolderById(DRIVE_FOLDER_ID);
+  const threads = GmailApp.search('in:inbox is:unread has:attachment');
+  Logger.log(`Found ${threads.length} unread thread(s).`);
+  if (!threads.length) return;
 
   threads.forEach(thread => {
     const messages = thread.getMessages();
     Logger.log('Thread has ' + messages.length + ' message(s). Processing each unread message...');
 
-    messages.forEach(message => {
-      if (message.isUnread()) {
-        Logger.log('Processing unread message with subject: ' + message.getSubject());
+    messages.forEach(msg => {
+      if (!msg.isUnread()) return;
+      Logger.log('Processing unread message with subject: ' + message.getSubject());
 
-        const date = message.getDate();
+      // We'll store the entire date/time in "Date" column
+      let dateStr = parseAndNormalizeDateTime(msg.getDate());
+
+      const subject = msg.getSubject();
+      const bodyText = msg.getPlainBody();
+
+      // Extract links
+      const linkRegex = /https?:\/\/\S+/g;
+      const links = bodyText.match(linkRegex) || [];
+
+      const attachments = msg.getAttachments({ includeInlineImages: true });
+      Logger.log('Found ' + attachments.length + ' attachment(s).');
+
+      attachments.forEach(att => {
+        if (!att.getContentType().match(/^image\//)) return;
+
         const uuid = Utilities.getUuid();
-        const subject = message.getSubject();
-        const bodyText = message.getPlainBody();
 
-        // Check for duplicates by this uuid. If it exists, skip.
-        if (uuidExistsInSheets(uuid)) {
-          Logger.log('UUID already present. Skipping...');
-          message.markRead();
-          thread.moveToTrash();
-          return;
-        }
+        // Re-encode as JPEG to remove metadata
+        let originalName = att.getName() || 'attachment';
+        let baseName = originalName.replace(/\.[^.]+$/, '');
+        let newBlob = Utilities.newBlob(
+          att.copyBlob().getBytes(),
+          'image/jpeg',
+          baseName + '.jpg'
+        );
+        const file = folder.createFile(newBlob);
+        file.setSharing(DriveApp.Access.ANYONE_WITH_LINK, DriveApp.Permission.VIEW);
 
-        // Extract any links from the email body
-        const linkRegex = /https?:\/\/\S+/g;
-        const links = bodyText.match(linkRegex) || [];
-        Logger.log('Extracted ' + links.length + ' link(s) from email body.');
+        const imageId = file.getId();
+        const publicUrl = `https://drive.google.com/uc?export=view&id=${imageId}`;
 
-        // Get attachments
-        const attachments = message.getAttachments({includeInlineImages: true});
-        Logger.log('Found ' + attachments.length + ' attachment(s).');
+        // Insert into RawData
+        let record = {
+          "Date": dateStr,    // includes full datetime
+          "UUID": uuid,
+          "Subject": subject,
+          "Body": bodyText,
+          "Links": links.join(', '),
+          "Image URL": publicUrl,
+          "Image Id": imageId,
+          "Processed": 'false'
+        };
+        appendRowByHeaders(rawDataSheet, record);
+        Logger.log('Stripped EXIF, saved file. ID: ' + imageId + ', URL: ' + publicUrl);
+      });
 
-        const images = [];
-        attachments.forEach(att => {
-          if (att.getContentType().match(/^image\//)) {
-            // 1) Copy the original image blob
-            const originalBlob = att.copyBlob();
-
-            // 2) Re-encode as PNG to remove EXIF/metadata from original (often JPEG)
-            const strippedBlob = Utilities.newBlob(
-              originalBlob.getBytes(),
-              'image/png',             // force PNG
-              'stripped_' + att.getName() // rename as desired
-            );
-
-            // 3) Create the new file in Drive
-            const file = folder.createFile(strippedBlob);
-
-            // Make the file public
-            file.setSharing(DriveApp.Access.ANYONE_WITH_LINK, DriveApp.Permission.VIEW);
-
-            // 4) Build a shareable URL for embedding
-            const imageId = file.getId();
-            const publicUrl = "https://drive.google.com/uc?export=view&id=" + imageId;
-
-            images.push({ id: imageId, url: publicUrl });
-            Logger.log('Stripped EXIF, saved file. ID: ' + imageId + ', URL: ' + publicUrl);
-          }
-        });
-
-        // Prepare CSV fields for RawData
-        const imageUrls = images.map(img => img.url);
-        const imageIds = images.map(img => img.id);
-
-        Logger.log('Appending row to RawData with UUID: ' + uuid);
-        sheet.appendRow([
-          date,
-          uuid,
-          subject,
-          bodyText,
-          links.join(', '),
-          imageUrls.join(', '), // col 5 in 0-based => col 6 in the spreadsheet
-          imageIds.join(', '),  // col 6 => col 7
-          'false'               // col 7 => col 8
-        ]);
-
-        // Mark message as read
-        message.markRead();
-        Logger.log('Marked message as read, subject: ' + subject);
-      }
+      msg.markRead();
     });
-
-    // Move the entire thread to trash
     thread.moveToTrash();
-    Logger.log('Moved thread to trash.');
   });
 
   Logger.log('Completed processEmails().');
 }
 
-// -----------------------------------------------------------------------------
-// 2. launchRunPodJobs()
-//    Finds unprocessed submissions in RawData, starts a RunPod job, logs it in
-//    Jobs sheet, and schedules the FIRST run of pollRunPodJobs() (in 5 minutes).
-// -----------------------------------------------------------------------------
-
+// ---------------------------------------------------------------------
+// 5) launchRunPodJobs / pollRunPodJobs => finalize => Processed
+// ---------------------------------------------------------------------
 function launchRunPodJobs() {
   Logger.log('Starting launchRunPodJobs()...');
-  
-  Logger.log('INBOX_SPREADSHEET_ID: ' + INBOX_SPREADSHEET_ID);
-  Logger.log('RUNPOD_ENDPOINT_URL: ' + RUNPOD_ENDPOINT_URL);
+  const inboxSS = SpreadsheetApp.openById(INBOX_SPREADSHEET_ID);
+  const rawDataSheet = inboxSS.getSheetByName(RAW_DATA_SHEET_NAME);
 
-  const ss = SpreadsheetApp.openById(INBOX_SPREADSHEET_ID);
-  const rawDataSheet = ss.getSheetByName(RAW_DATA_SHEET_NAME);
-
-  // Gather unprocessed rows
-  const data = rawDataSheet.getDataRange().getValues();
-  Logger.log('RawData sheet contains ' + data.length + ' row(s) (including header).');
+  // gather unprocessed
+  const vals = rawDataSheet.getDataRange().getValues();
+  const map = getHeaderMap(rawDataSheet);
+  const processedCol = map["Processed"];
+  const uuidCol = map["UUID"];
+  const imageIdCol = map["Image Id"];
 
   const submissions = [];
-  // data[0] = header row: [Date, UUID, Subject, Body, Links, ImageURLs, ImageIds, Processed]
-  for (let i = 1; i < data.length; i++) {
-    const row = data[i];
-    const processedFlag = String(row[7]).toLowerCase(); // 'false' or 'true' or 'failed'
-    if (processedFlag === 'false') {
-      const uuid = row[1];
-      const imageIdsStr = row[6];
-      if (!uuid || !imageIdsStr) continue;
-      const idArray = imageIdsStr.split(',').map(s => s.trim()).filter(Boolean);
-      submissions.push({ submissionId: uuid, imageIds: idArray });
+  for (let i = 1; i < vals.length; i++) {
+    const row = vals[i];
+    let procVal = row[processedCol].toString().toLowerCase();
+    if (procVal === 'false') {
+      let uuid = row[uuidCol];
+      let imgIds = row[imageIdCol];
+      if (!uuid || !imgIds) continue;
+      let arr = imgIds.split(',').map(s => s.trim()).filter(Boolean);
+      submissions.push({ submissionId: uuid, imageIds: arr });
     }
   }
-
   if (!submissions.length) {
-    Logger.log('No unprocessed submissions found. Exiting launchRunPodJobs().');
+    Logger.log('No unprocessed rows found.');
     return;
   }
+  Logger.log(`Posting ${submissions.length} submitted images to RunPod`);
 
-  Logger.log('Submitting ' + submissions.length + ' unprocessed submission(s) to RunPod.');
-
-  const payload = { "input": { "submissions": submissions } };
+  const payload = { input: { submissions } };
   try {
-    const response = UrlFetchApp.fetch(RUNPOD_ENDPOINT_URL, {
+    let resp = UrlFetchApp.fetch(RUNPOD_ENDPOINT_URL, {
       method: 'post',
       contentType: 'application/json',
-      headers: {
-        'Authorization': 'Bearer ' + RUNPOD_API_KEY
-      },
+      headers: { 'Authorization': 'Bearer ' + RUNPOD_API_KEY },
       payload: JSON.stringify(payload),
       muteHttpExceptions: true
     });
-
-    Logger.log('Received response code: ' + response.getResponseCode());
-
-    if (response.getResponseCode() !== 200 && response.getResponseCode() !== 201) {
-      Logger.log('RunPod submission failed. Code: ' + response.getResponseCode() + ', body: ' + response.getContentText());
+    let code = resp.getResponseCode();
+    Logger.log('RunPod response code: ' + code);
+    if (code !== 200 && code !== 201) {
+      Logger.log('RunPod error: ' + resp.getContentText());
       return;
     }
+    let respData = JSON.parse(resp.getContentText());
+    let jobId = respData.id || respData.jobId || 'UNKNOWN_ID';
+    Logger.log(`RunPod job created with ID: ${jobId}`);
 
-    const respData = JSON.parse(response.getContentText());
-    const jobId = respData.id || respData.jobId || 'UNKNOWN_ID';
-    Logger.log('RunPod job created with ID: ' + jobId);
+    // record job
+    const jobsSheet = inboxSS.getSheetByName(JOBS_SHEET_NAME);
+    let jobRecord = {
+      "Timestamp": new Date(),
+      "JobID": jobId,
+      "Status": "PENDING",
+      "PollAttempts": 0,
+      "NextPollMins": 5,
+      "Submissions": JSON.stringify(submissions)
+    };
+    appendRowByHeaders(jobsSheet, jobRecord);
 
-    // Record the job in the "Jobs" sheet
-    const jobsSheet = getOrCreateJobsSheet(ss);
-    // Columns: [ Timestamp, JobID, Status, PollAttempts, NextPollMins, Submissions ]
-    jobsSheet.appendRow([
-      new Date(),            // Timestamp
-      jobId,                 // Job ID
-      'PENDING',             // Status
-      0,                     // PollAttempts
-      5,                     // NextPollMins (start with 5 minutes)
-      JSON.stringify(submissions)
-    ]);
+    // schedule poll
+    createOneTimeTrigger('pollRunPodJobs', INITIAL_POLL_INTERVAL);
 
-    // Now schedule a run of pollRunPodJobs() in 5 minutes
-    Logger.log('Creating time-based trigger for pollRunPodJobs() in 5 minutes.');
-    createOneTimeTrigger('pollRunPodJobs', 5);
-
-  } catch (err) {
-    Logger.log('Error creating RunPod job: ' + err);
+  } catch (e) {
+    Logger.log('Error in launchRunPodJobs: ' + e);
   }
-
   Logger.log('Completed launchRunPodJobs().');
 }
 
-// -----------------------------------------------------------------------------
-// 3. pollRunPodJobs()
-//    Runs once, checks all incomplete jobs. Polls them if their nextPollMins
-//    has elapsed, updates status. If any jobs still not done, schedules
-//    itself again with the earliest nextPollMins. Then it exits.
-// -----------------------------------------------------------------------------
-
 function pollRunPodJobs() {
   Logger.log('Starting pollRunPodJobs()...');
-  
-  // 1. Remove any existing triggers for pollRunPodJobs (to prevent duplicates).
   removeTriggersForFunction('pollRunPodJobs');
-  Logger.log('Removed any existing triggers for pollRunPodJobs().');
 
-  // 2. Perform the poll logic
-  const ss = SpreadsheetApp.openById(INBOX_SPREADSHEET_ID);
-  const jobsSheet = getOrCreateJobsSheet(ss);
-
+  const inboxSS = SpreadsheetApp.openById(INBOX_SPREADSHEET_ID);
+  const jobsSheet = inboxSS.getSheetByName(JOBS_SHEET_NAME);
   const data = jobsSheet.getDataRange().getValues();
-  Logger.log('Jobs sheet contains ' + data.length + ' row(s) (including header).');
-
   if (data.length <= 1) {
-    Logger.log('No job records found. Exiting pollRunPodJobs().');
+    Logger.log('No jobs to poll.');
     return;
   }
 
-  let anyStillRunning = false;
-  let earliestNextPoll = null;
-  const now = new Date();
+  const hMap = getHeaderMap(jobsSheet);
+  const tsCol = hMap["Timestamp"];
+  const jobIdCol = hMap["JobID"];
+  const statusCol = hMap["Status"];
+  const pollCol = hMap["PollAttempts"];
+  const nextCol = hMap["NextPollMins"];
+  const subsCol = hMap["Submissions"];
 
-  // Identify columns by index:
-  // 0=Timestamp, 1=JobID, 2=Status, 3=PollAttempts, 4=NextPollMins, 5=Submissions
+  let now = new Date();
+  let anyRunning = false;
+  let earliest = null;
+
   for (let i = 1; i < data.length; i++) {
+    const rowIndex = i + 1;
     const row = data[i];
-    const rowIndex = i + 1; // 1-based in the sheet
+    let status = String(row[statusCol]);
+    if (status === 'COMPLETED' || status === 'FAILED') continue;
 
-    let lastUpdateTime = row[0]; // Date
-    let jobId = row[1];
-    let status = row[2];
-    let pollAttempts = row[3];
-    let nextPollMins = row[4];
-    let submissionsStr = row[5];
+    let lastUpdate = row[tsCol];
+    if (!(lastUpdate instanceof Date)) continue;
 
-    if (typeof status !== 'string') {
-      status = String(status);
-    }
-
-    // If job is already COMPLETED or FAILED, skip
-    if (status === 'COMPLETED' || status === 'FAILED') {
+    let pollAtt = +row[pollCol];
+    let nextPoll = +row[nextCol];
+    let diffMins = (now - lastUpdate) / 60000;
+    if (diffMins < nextPoll) {
+      anyRunning = true;
+      let remain = nextPoll - diffMins;
+      if (!earliest || remain < earliest) earliest = remain;
       continue;
     }
 
-    if (!(lastUpdateTime instanceof Date)) {
-      // If there's no valid timestamp, skip or fix
-      Logger.log('Warning: Last update time for job ' + jobId + ' is invalid. Skipping poll for this job.');
+    // poll now
+    let jobId = row[jobIdCol];
+    let pollRes = checkRunPodJobStatus(jobId);
+    jobsSheet.getRange(rowIndex, tsCol + 1).setValue(new Date());
+
+    if (!pollRes) {
+      // transient error
+      jobsSheet.getRange(rowIndex, statusCol + 1).setValue('RUNNING');
+      pollAtt++;
+      let newInt = getNewNextPollInterval(pollAtt, nextPoll);
+      jobsSheet.getRange(rowIndex, pollCol + 1).setValue(pollAtt);
+      jobsSheet.getRange(rowIndex, nextCol + 1).setValue(newInt);
+      anyRunning = true;
+      if (!earliest || newInt < earliest) earliest = newInt;
       continue;
     }
 
-    let diffMs = now - lastUpdateTime; // in ms
-    let diffMins = diffMs / 1000 / 60;
-    Logger.log('Job ' + jobId + ' last polled ' + diffMins.toFixed(2) +
-      ' minute(s) ago; next poll is in ' + nextPollMins + ' minute(s).');
+    if (pollRes.status === 'RUNNING') {
+      jobsSheet.getRange(rowIndex, statusCol + 1).setValue('RUNNING');
+      pollAtt++;
+      let newInt = getNewNextPollInterval(pollAtt, nextPoll);
+      jobsSheet.getRange(rowIndex, pollCol + 1).setValue(pollAtt);
+      jobsSheet.getRange(rowIndex, nextCol + 1).setValue(newInt);
 
-    // Check if enough time has passed to poll again
-    if (diffMins < nextPollMins) {
-      anyStillRunning = true;
-      let timeUntilNextPoll = nextPollMins - diffMins;
-      Logger.log('Not enough time elapsed for job ' + jobId +
-        '. Will poll again in ~' + timeUntilNextPoll.toFixed(2) + ' minute(s).');
-      if (earliestNextPoll == null || timeUntilNextPoll < earliestNextPoll) {
-        earliestNextPoll = timeUntilNextPoll;
-      }
-      continue;
-    }
+      anyRunning = true;
+      if (!earliest || newInt < earliest) earliest = newInt;
 
-    // Time to poll RunPod job
-    Logger.log('Polling RunPod for job ' + jobId + '...');
-    const pollResult = checkRunPodJobStatus(jobId);
+    } else if (pollRes.status === 'COMPLETED') {
+      jobsSheet.getRange(rowIndex, statusCol + 1).setValue('COMPLETED');
+      finalizeJobResults(pollRes.data, row[subsCol]);
 
-    // Update timestamp to "now"
-    jobsSheet.getRange(rowIndex, 1).setValue(new Date());
-
-    if (!pollResult) {
-      Logger.log('checkRunPodJobStatus() returned null for job ' + jobId +
-        '. Possibly a transient error.');
-      pollAttempts++;
-      let newNextPoll = getNewNextPollInterval(pollAttempts, nextPollMins);
-
-      jobsSheet.getRange(rowIndex, 4).setValue(pollAttempts); // PollAttempts
-      jobsSheet.getRange(rowIndex, 5).setValue(newNextPoll);  // NextPollMins
-      jobsSheet.getRange(rowIndex, 3).setValue('RUNNING');    // Status
-
-      anyStillRunning = true;
-      if (earliestNextPoll == null || newNextPoll < earliestNextPoll) {
-        earliestNextPoll = newNextPoll;
-      }
-      continue;
-    }
-
-    // pollResult is { status: 'RUNNING'|'COMPLETED'|'FAILED', data: array or null }
-    if (pollResult.status === 'RUNNING') {
-      pollAttempts++;
-      let newNextPoll = getNewNextPollInterval(pollAttempts, nextPollMins);
-
-      jobsSheet.getRange(rowIndex, 3).setValue('RUNNING');    // Status
-      jobsSheet.getRange(rowIndex, 4).setValue(pollAttempts); // PollAttempts
-      jobsSheet.getRange(rowIndex, 5).setValue(newNextPoll);  // NextPollMins
-
-      anyStillRunning = true;
-      if (earliestNextPoll == null || newNextPoll < earliestNextPoll) {
-        earliestNextPoll = newNextPoll;
-      }
-
-    } else if (pollResult.status === 'COMPLETED') {
-      Logger.log('Job ' + jobId + ' completed successfully.');
-      jobsSheet.getRange(rowIndex, 3).setValue('COMPLETED'); // Status
-      finalizeJobResults(pollResult.data, submissionsStr);
-
-    } else if (pollResult.status === 'FAILED') {
-      Logger.log('Job ' + jobId + ' reported FAILED status.');
-      jobsSheet.getRange(rowIndex, 3).setValue('FAILED'); // Status
-      markSubmissionsAsFailed(submissionsStr);
+    } else if (pollRes.status === 'FAILED') {
+      jobsSheet.getRange(rowIndex, statusCol + 1).setValue('FAILED');
+      markSubmissionsAsFailed(row[subsCol]);
     }
   }
 
-  // 3. If any jobs are still pending, schedule a new run
-  if (anyStillRunning && earliestNextPoll != null) {
-    let waitMins = Math.ceil(earliestNextPoll);
-    if (waitMins < 1) {
-      waitMins = 1; // ensure at least 1 minute
-    }
-    Logger.log('Scheduling next pollRunPodJobs() in ' + waitMins + ' minute(s).');
+  if (anyRunning && earliest != null) {
+    let waitMins = Math.ceil(earliest);
+    if (waitMins < 1) waitMins = 1;
+    Logger.log(`Job(s) still running. Will check again in ${waitMins} minutes`)
     createOneTimeTrigger('pollRunPodJobs', waitMins);
-  } else {
-    Logger.log('No further polling needed at this time.');
   }
-
   Logger.log('Completed pollRunPodJobs().');
 }
 
-/**
- * Creates a one-time time-based trigger for a function to run in "minutesFromNow" minutes.
- */
-function createOneTimeTrigger(functionName, minutesFromNow) {
-  Logger.log('Creating one-time trigger for ' + functionName +
-    ' to run in ' + minutesFromNow + ' minute(s).');
-  return ScriptApp.newTrigger(functionName)
-    .timeBased()
-    .after(minutesFromNow * 60 * 1000)
-    .create();
-}
-
-/**
- * Removes all triggers for a specific function name
- */
-function removeTriggersForFunction(functionName) {
-  Logger.log('Removing triggers for function: ' + functionName);
-  const allTriggers = ScriptApp.getProjectTriggers();
-  for (let i = 0; i < allTriggers.length; i++) {
-    if (allTriggers[i].getHandlerFunction() === functionName) {
-      ScriptApp.deleteTrigger(allTriggers[i]);
-      Logger.log('Deleted existing trigger for function: ' + functionName);
-    }
-  }
-}
-
-/**
- * Queries RunPod job status.
- * Return object: { status: 'RUNNING'|'COMPLETED'|'FAILED', data: array or null }
- */
 function checkRunPodJobStatus(jobId) {
-  Logger.log('Calling RunPod status API for jobId: ' + jobId);
+  Logger.log(`Polling job ${jobId}`)
   try {
     let url = RUNPOD_ENDPOINT_URL.replace("/run", "/status/") + jobId;
-    Logger.log('Checking status at ' + url + " ...");
-    let response = UrlFetchApp.fetch(url, {
+    let resp = UrlFetchApp.fetch(url, {
       method: 'get',
       headers: { 'Authorization': 'Bearer ' + RUNPOD_API_KEY },
       muteHttpExceptions: true
     });
-
-    if (response.getResponseCode() !== 200) {
-      Logger.log('Error checking job status (code ' + response.getResponseCode() +
-        '): ' + response.getContentText());
+    if (resp.getResponseCode() !== 200) {
+      Logger.log(`Error polling job ${jobId}: ` + resp.getContentText());
       return null;
     }
-
-    let data = JSON.parse(response.getContentText());
-    let jobStatus = data.status || 'RUNNING';
-
-    Logger.log('Response from RunPod status API for job ' + jobId + ': ' + JSON.stringify(data));
-
-    if (jobStatus === 'COMPLETED' && data.output) {
+    let data = JSON.parse(resp.getContentText());
+    let st = data.status || 'RUNNING';
+    if (st === 'COMPLETED' && data.output) {
+      Logger.log("Job completed")
       return { status: 'COMPLETED', data: data.output };
-    } else if (jobStatus === 'FAILED') {
+    } else if (st === 'FAILED') {
+      Logger.error("Job failed")
       return { status: 'FAILED', data: null };
-    } else {
-      return { status: 'RUNNING', data: null };
     }
-  } catch (err) {
-    Logger.log('Exception in checkRunPodJobStatus for job ' + jobId + ': ' + err);
+    Logger.log("Job still running")
+    return { status: 'RUNNING', data: null };
+  } catch (e) {
+    Logger.log(`Exception in checkRunPodJobStatus: ${jobId} => ` + e);
     return null;
   }
 }
 
-/**
- * Exponential backoff for NextPollMins.
- * - pollAttempts=1 => 1 min
- * - pollAttempts=2 => 2 min
- * - pollAttempts=3 => 4 min
- * - pollAttempts=4 => 8 min
- * - pollAttempts=5 => 16 min
- * - clamp at 25
- */
-function getNewNextPollInterval(pollAttempts, prevInterval) {
-  Logger.log('Calculating new next poll interval with pollAttempts=' +
-    pollAttempts + ', prevInterval=' + prevInterval);
-  let newInterval;
-  if (pollAttempts === 1) {
-    newInterval = 1;
-  } else {
-    newInterval = prevInterval * 2;
-  }
-  if (newInterval > 25) {
-    newInterval = 25;
-  }
-  Logger.log('New next poll interval: ' + newInterval + ' minute(s).');
-  return newInterval;
+function getNewNextPollInterval(pollAttempts, prevVal) {
+  let newVal = (pollAttempts === 1) ? 1 : (prevVal * 2);
+  return (newVal > MAX_POLL_INTERVAL) ? MAX_POLL_INTERVAL : newVal;
 }
 
-/**
- * After a job completes, write results to "Processed" (if JSON parse is successful),
- * and mark the original row in RawData as processed.
- * jobData is array: [ { submissionId, answer }, ... ]
- * submissionsStr is the JSON of [{ submissionId, imageIds }, ...]
- */
+function extractStartTime(datetimeStr) {
+  if (!datetimeStr) return null;
+  
+  // Regex to capture a numeric time (with optional minutes and period)
+  // or special keywords like noon/midnight (sunrise/sunset are also matched).
+  const timePattern = /(?<time>(?:(?<hour>\d{1,2})(?::(?<minute>\d{2}))?\s*(?<period>am|pm)?)|(?<special>noon|midnight|sunrise|sunset))/ig;
+  const matches = [...datetimeStr.matchAll(timePattern)];
+  
+  // If the regex doesn't match any time-like segment, return the original string.
+  if (matches.length === 0) return datetimeStr;
+  
+  // Use the first match as the candidate for the event's starting time.
+  const first = matches[0].groups;
+  // Optionally capture a second time if provided.
+  const second = matches.length > 1 ? matches[1].groups : null;
+  
+  // Special keywords conversion.
+  if (first.special) {
+    const lower = first.special.toLowerCase();
+    if (lower === 'noon') return "12:00 PM";
+    if (lower === 'midnight') return "12:00 AM";
+    // For sunrise or sunset, simply return a capitalized version.
+    return first.special.charAt(0).toUpperCase() + first.special.slice(1).toLowerCase();
+  }
+  
+  // Parse the first time's components.
+  let hour = first.hour;
+  let minute = first.minute || "00";
+  let period = first.period ? first.period.toLowerCase() : null;
+  
+  // If the first time is missing an AM/PM indicator but a second time is present with one,
+  // infer the correct period based on the relative hours.
+  if (!period && second && second.period) {
+    const firstHour = parseInt(hour, 10);
+    const secondHour = second.hour ? parseInt(second.hour, 10) : null;
+    
+    // For a time like "12", assume it’s noon (PM) since events occur during waking hours.
+    if (firstHour === 12) {
+      period = "pm";
+    } else if (secondHour !== null) {
+      // If the first hour is greater than or equal to the second hour,
+      // assume the first time is in the AM (e.g. "11 - 2pm" → 11 AM);
+      // otherwise, inherit the period from the second time.
+      period = firstHour >= secondHour ? "am" : second.period.toLowerCase();
+    } else {
+      period = second.period.toLowerCase();
+    }
+  }
+  
+  // If still missing a period, default to AM (unless the hour is 12, which we assume means noon/PM).
+  if (!period) {
+    period = parseInt(hour, 10) === 12 ? "pm" : "am";
+  }
+  
+  // Format and return the time in 12h format.
+  return `${parseInt(hour, 10)}:${minute.padStart(2, '0')} ${period.toUpperCase()}`;
+}
+
+function parseEventDatetime(rawDate, rawTime) {
+  const dayjs = loadDayjs();
+  
+  // Clean up date for parsing
+  let dateStr = `${rawDate}`.trim().toLowerCase()
+
+  // Clean up time for parsing
+  let timeStr = `${rawTime}`.trim().toLowerCase()
+  timeStr = extractStartTime(timeStr)
+
+  // 1) Attempt parsing date/time together
+  let dt = dayjs(`${dateStr}, ${timeStr}`);
+  // Skip midnight; it's the default for time failures
+  if (dt.isValid() && dt.get('hour') !== 0) {
+    return {
+      "date": dt.format("YYYY-MM-DD"),
+      "time": dt.format("h:mm A")
+    }
+  }
+
+  // 2) Try parsing date only, pass time through.
+  const time = timeStr.length > 0 ? timeStr : 'See Flyer';
+  const date = dayjs(dateStr)
+  if (date.isValid()) {
+    return {
+      "date": date.format("YYYY-MM-DD"),
+      "time": time,
+    }
+  }
+
+  // Fallback: Pass both through
+  return {
+    "date": dateStr.length > 0 ? dateStr : 'See Flyer',
+    "time": time
+  }
+}
+
+// ---------------------------------------------------------------------
+// finalizeJobResults => add rows to Processed
+// ---------------------------------------------------------------------
 function finalizeJobResults(jobData, submissionsStr) {
-  Logger.log('finalizeJobResults() called.');
-  
-  // Open the processed spreadsheet
-  const processedSS = SpreadsheetApp.openById(PROCESSED_SPREADSHEET_ID);
-  const processedSheet = processedSS.getSheetByName(PROCESSED_SHEET_NAME);
-  
-  // Open the inbox (RawData) spreadsheet
+  const dayjs = loadDayjs();
+
+  if (!jobData || !submissionsStr) return;
+  Logger.log(`finalizeJobResults() with ${jobData.length} item(s).`);
+
+  const procSS = SpreadsheetApp.openById(PROCESSED_SPREADSHEET_ID);
+  const procSheet = procSS.getSheetByName(PROCESSED_SHEET_NAME);
+
   const inboxSS = SpreadsheetApp.openById(INBOX_SPREADSHEET_ID);
   const rawDataSheet = inboxSS.getSheetByName(RAW_DATA_SHEET_NAME);
+  const rdMap = getHeaderMap(rawDataSheet);
 
-  let submissions;
-  try {
-    submissions = JSON.parse(submissionsStr);
-    Logger.log('Parsed submissions from job: ' + JSON.stringify(submissions));
-  } catch (e) {
-    Logger.log('Error parsing job submission list: ' + e);
+  const dateCol = rdMap["Date"];
+  const uuidCol = rdMap["UUID"];
+  const procCol = rdMap["Processed"];
+
+  let rawVals = rawDataSheet.getDataRange().getValues();
+  let rowMap = {};
+  for (let i = 1; i < rawVals.length; i++) {
+    let rid = rawVals[i][uuidCol];
+    rowMap[String(rid)] = i + 1; // row index
+  }
+
+  let subs;
+  try { subs = JSON.parse(submissionsStr); }
+  catch (e) {
+    Logger.log('Cannot parse submissionsStr: ' + e);
     return;
   }
 
-  // Build a map from submissionId => row index in RawData
-  const rawValues = rawDataSheet.getDataRange().getValues();
-  let uuidCol = 1;      // "UUID"
-  let processedCol = 7; // "Processed"
-  let uuidToRowIndex = {};
-  for (let r = 1; r < rawValues.length; r++) {
-    let rid = rawValues[r][uuidCol];
-    uuidToRowIndex[rid] = r + 1; // 1-based row
-  }
-
-  // For each AI result
   jobData.forEach(item => {
     let subId = item.submissionId;
-    let rawAnswer = item.answer;
+    let rowIdx = rowMap[subId];
+    if (!rowIdx) {
+      Logger.log(`No matching RawData row for subId=${subId}.`);
+      return;
+    }
+    // Mark raw row as processed
+    rawDataSheet.getRange(rowIdx, procCol + 1).setValue('true');
 
-    // Extract JSON object from rawAnswer
-    const extracted = extractJsonFromText(rawAnswer);
+    // parse AI answer
+    let extracted = extractJsonFromText(item.answer || '');
     if (!extracted) {
-      Logger.log('Could not parse JSON for submission: ' + subId + '; marking row failed.');
-      let rowIndexFail = uuidToRowIndex[subId];
-      if (rowIndexFail) markRowFailed(rawDataSheet, rowIndexFail);
+      Logger.log(`JSON parse fail for subId=${subId}. Mark row failed.`);
+      markRowFailed(rawDataSheet, rowIdx);
       return;
     }
 
-    let rowIndex = uuidToRowIndex[subId];
-    if (!rowIndex) {
-      Logger.log('No matching RawData row found for submission ' + subId);
-      return;
+    // In the final sheet, we store the RawData.Date as "Received At"
+    let receivedAt = rawVals[rowIdx - 1][dateCol] || '';
+
+    Logger.log(extracted)
+    const parsedDt = parseEventDatetime(extracted.date, extracted.time);
+    Logger.log(`Parsed Date: ${parsedDt.date}, Parsed Time: ${parsedDt.time}`)
+
+    let record = {
+      "UUID": subId,
+      "Received At": receivedAt,  // from RawData
+      "Date": parsedDt.date,            // event date
+      "Time": parsedDt.time,            // event time
+      "Title": extracted.title || '',
+      "Description": extracted.description || '',
+      "City": extracted.city || '',
+      "State": normalizeState(extracted),
+      "Address": extracted.address || '',
+      "Meeting Location": extracted.meeting_location || '',
+      "Links": arrayOrString(extracted.links),
+      "Sponsors": arrayOrString(extracted.sponsors),
+      "Image URL": '',     // We'll fill from raw data if needed
+      "Image Source": extracted.source || '',
+      "Extracted Text": extracted.extracted_text || '',
+      "Canonical UUID": '' // blank by default
+    };
+    Logger.log(record)
+
+    const imageUrlCol = rdMap["Image URL"];
+    if (imageUrlCol != null) {
+      let rawImageUrl = rawDataSheet.getRange(rowIdx, imageUrlCol + 1).getValue() || '';
+      record["Image URL"] = rawImageUrl;
     }
 
-    // Mark rawData as processed
-    rawDataSheet.getRange(rowIndex, processedCol + 1).setValue('true');
-
-    // Also ensure we do not insert duplicates in Processed.
-    const existingProcValues = processedSheet.getDataRange().getValues();
-    let existingUUIDs = existingProcValues.slice(1).map(row => String(row[0])); // col 0 is UUID
-    if (existingUUIDs.includes(String(subId))) {
-      Logger.log('Submission ' + subId + ' already in Processed. Skipping...');
-      return;
-    }
-
-    // The processed sheet columns are:
-    // 0=UUID, 1=Date, 2=Time, 3=Title, 4=Description, 5=City,
-    // 6=State, 7=Address, 8=Meeting Location, 9=Links, 10=Sponsors,
-    // 11=Image, 12=Image URL, 13=Source, 14=Extracted Text
-
-    // Re-initialize for each submission (avoid data bleed)
-    let rowVals = Array(14).fill('');
-    rowVals[0]  = subId;
-    rowVals[1]  = extracted.date || '';
-    rowVals[2]  = extracted.time || '';
-    rowVals[3]  = extracted.title || '';
-    rowVals[4]  = extracted.description || '';
-    rowVals[5]  = extracted.city || '';
-    rowVals[6]  = extracted.state || '';
-    rowVals[7]  = extracted.address || '';
-    rowVals[8]  = extracted.meeting_location || '';
-
-    // Convert arrays for links/sponsors to CSV if needed
-    if (Array.isArray(extracted.links)) {
-      rowVals[9] = extracted.links.join(', ');
-    } else {
-      rowVals[9] = extracted.links || '';
-    }
-    if (Array.isArray(extracted.sponsors)) {
-      rowVals[10] = extracted.sponsors.join(', ');
-    } else {
-      rowVals[10] = extracted.sponsors || '';
-    }
-
-    // [UPDATED] Use the public image URL from column 6 in RawData (1-based).
-    // That is "Image URLs" from processEmails().
-    let rawImageUrlCsv = rawDataSheet.getRange(rowIndex, 6).getValue(); // col 6 = "Image URLs"
-    let newCellImage = null;
-    if (rawImageUrlCsv) {
-      let firstUrl = rawImageUrlCsv.split(',').map(s => s.trim())[0];
-      if (firstUrl) {
-        rowVals[11] = `=HYPERLINK("${firstUrl}", image("${firstUrl}"))`;
-        rowVals[12] = firstUrl;
-      }
-    }
-
-    rowVals[13] = extracted.source || '';
-    rowVals[14] = extracted.extracted_text || '';
-
-    // Append the row (the image cell is temporarily placeholder)
-    processedSheet.appendRow(rowVals);
-    const appendedRow = processedSheet.getLastRow();
-
-    // If there's an actual image, set it in the cell
-    if (newCellImage) {
-      processedSheet.getRange(appendedRow, 12).setValue(newCellImage);
-      // 1-based col=12 => 'L' => rowVals[11]
-    }
-
-    Logger.log('Appended processed data for submission ' + subId + ' into Processed sheet.');
+    appendRowByHeaders(procSheet, record);
+    Logger.log(`Appended result for subId=${subId} to Processed.`);
   });
-
-  Logger.log('finalizeJobResults() completed.');
+  Logger.log('finalizeJobResults() done.');
 }
 
-/** Clean up PII every 48h */
-function cleanTrash() {
-  // Example: permanently delete all threads in Trash older_than:2d
-  const threads = GmailApp.search('in:trash older_than:2d');
-  Logger.log('Found ' + threads.length + ' threads older than 2 days in Trash.');
-
-  threads.forEach(thread => {
-    try {
-      // Use the advanced Gmail service here:
-      Gmail.Users.Threads.remove('me', thread.getId());
-      Logger.log('Permanently removed thread: ' + thread.getId());
-    } catch (err) {
-      Logger.log('Error removing thread ' + thread.getId() + ': ' + err);
-    }
-  });
-}
-
-/**
- * Mark a single row in RawData as failed.
- */
+// markRowFailed
 function markRowFailed(sheet, rowIndex) {
-  if (!rowIndex || rowIndex < 2) {
-    Logger.log('Invalid or header rowIndex (' + rowIndex + ') for markRowFailed(). Skipping...');
+  if (rowIndex < 2) return;
+  const map = getHeaderMap(sheet);
+  let pCol = map["Processed"];
+  sheet.getRange(rowIndex, pCol + 1).setValue('failed');
+}
+
+// markSubmissionsAsFailed
+function markSubmissionsAsFailed(submissionsStr) {
+  if (!submissionsStr) return;
+  let subs;
+  try { subs = JSON.parse(submissionsStr); }
+  catch (e) {
+    Logger.log('Error in markSubmissionsAsFailed: ' + e);
     return;
   }
-  Logger.log('Marking row ' + rowIndex + ' as failed in RawData sheet.');
-  sheet.getRange(rowIndex, 8).setValue('failed');
-}
 
-/**
- * Mark entire job's submissions as failed
- */
-function markSubmissionsAsFailed(submissionsStr) {
-  Logger.log('markSubmissionsAsFailed() called.');
-  
   const inboxSS = SpreadsheetApp.openById(INBOX_SPREADSHEET_ID);
   const rawDataSheet = inboxSS.getSheetByName(RAW_DATA_SHEET_NAME);
-
-  let submissions;
-  try {
-    submissions = JSON.parse(submissionsStr);
-  } catch (e) {
-    Logger.log('Could not parse submissionsStr in markSubmissionsAsFailed: ' + e);
-    return;
+  const vals = rawDataSheet.getDataRange().getValues();
+  const map = getHeaderMap(rawDataSheet);
+  let uCol = map["UUID"], pCol = map["Processed"];
+  let rowMap = {};
+  for (let i = 1; i < vals.length; i++) {
+    rowMap[String(vals[i][uCol])] = i + 1;
   }
 
-  Logger.log('Marking ' + submissions.length + ' submission(s) as failed.');
-
-  // Map from UUID => row
-  const rawValues = rawDataSheet.getDataRange().getValues();
-  let uuidCol = 1;
-  let uuidToRowIndex = {};
-  for (let r = 1; r < rawValues.length; r++) {
-    let uuid = rawValues[r][uuidCol];
-    uuidToRowIndex[uuid] = r + 1;
-  }
-
-  submissions.forEach(sub => {
-    let rowIndex = uuidToRowIndex[sub.submissionId];
-    markRowFailed(rawDataSheet, rowIndex);
+  subs.forEach(s => {
+    let rowIdx = rowMap[s.submissionId];
+    if (rowIdx > 1) {
+      rawDataSheet.getRange(rowIdx, pCol + 1).setValue('failed');
+    }
   });
+}
 
-  Logger.log('Completed markSubmissionsAsFailed().');
+// Triggers
+function createOneTimeTrigger(fnName, minsFromNow) {
+  ScriptApp.newTrigger(fnName)
+    .timeBased()
+    .after(minsFromNow * 60 * 1000)
+    .create();
+}
+
+function removeTriggersForFunction(fnName) {
+  ScriptApp.getProjectTriggers().forEach(tr => {
+    if (tr.getHandlerFunction() === fnName) {
+      ScriptApp.deleteTrigger(tr);
+    }
+  });
 }
 
 /**
- * Extract JSON from a string that might contain extra text around it.
+ * Example cleanup: permanently remove threads in Trash older_than:2d
  */
-function extractJsonFromText(text) {
-  if (!text) return null;
-  let start = text.indexOf('{');
-  let end = text.lastIndexOf('}');
-  if (start === -1 || end === -1 || end <= start) {
-    Logger.log('Could not locate JSON in text. Returning null.');
-    return null;
-  }
-
-  let jsonStr = text.substring(start, end + 1);
-  try {
-    return JSON.parse(jsonStr);
-  } catch (err) {
-    Logger.log('JSON parse error: ' + err);
-    return null;
-  }
-}
-
-/**
- * Return or create the "Jobs" sheet in the main inbox spreadsheet.
- * Columns: [Timestamp, JobID, Status, PollAttempts, NextPollMins, Submissions]
- */
-function getOrCreateJobsSheet(ss) {
-  Logger.log('Retrieving or creating Jobs sheet...');
-  let sheet = ss.getSheetByName(JOBS_SHEET_NAME);
-  if (!sheet) {
-    Logger.log('Jobs sheet not found. Creating new sheet named ' + JOBS_SHEET_NAME);
-    sheet = ss.insertSheet(JOBS_SHEET_NAME);
-    sheet.appendRow(['Timestamp', 'JobID', 'Status', 'PollAttempts', 'NextPollMins', 'Submissions']);
-  }
-  return sheet;
+function cleanTrash() {
+  const threads = GmailApp.search('in:trash older_than:2d');
+  threads.forEach(thread => {
+    try {
+      Gmail.Users.Threads.remove('me', thread.getId());
+    } catch (e) {
+      Logger.log('Error removing thread ' + thread.getId() + ': ' + e);
+    }
+  });
 }
