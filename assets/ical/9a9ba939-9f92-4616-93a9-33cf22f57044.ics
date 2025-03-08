@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:b30126ac-0ef2-415d-8b0c-bb68c368d918
+SEQUENCE:0
+DTSTAMP:20250308T082300Z
+DTSTART:20250308T200000
+DTEND:20250309T000000
+SUMMARY:International Women's Day Everywhere
+LOCATION:104 W Magnolia St\, Bellingham\, WA
+DESCRIPTION:Join us in front of the Federal Building to support and resist
+ . Let your voice be heard!\n\nIn front of Federal Building
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=104+W+Magnol
+ ia+St%2C+Bellingham%2C+WA&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

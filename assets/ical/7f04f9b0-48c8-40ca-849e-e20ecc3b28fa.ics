@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:00444f36-74df-4fab-b43c-d3cfea63cb7d
+SEQUENCE:0
+DTSTAMP:20250308T082300Z
+DTSTART:20250308T200000
+DTEND:20250309T000000
+SUMMARY:March for Democracy
+LOCATION:Martin Luther King Junior Boulevard\, Saint Paul\, MN 55155
+DESCRIPTION:Join us to demonstrate our commitment to upholding the governm
+ ent's accountability to the people. Bring your friends\, your family\, you
+ r signs\, and listen to your fellow Minnesotans stand up and fight for our
+  Democracy.\n\nMinnesota State Capitol
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Martin+Luthe
+ r+King+Junior+Boulevard%2C+Saint+Paul%2C+MN+55155&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:0ec71a7e-c15e-4b24-a402-1ac0f952c46f
+SEQUENCE:0
+DTSTAMP:20250308T082300Z
+DTSTART:20250308T200000
+DTEND:20250309T000000
+SUMMARY:March for International Women's Day
+LOCATION:Broadway and East Pine Street\, Capitol Hill\, Seattle\, Washingt
+ on State.
+DESCRIPTION:Nationwide protest to stop the War on Women and LGBTQ\, and re
+ sist the authoritarian regime!\n\nCapitol Hill\, Seattle\, WA
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Broadway+and
+ +East+Pine+Street%2C+Capitol+Hill%2C+Seattle%2C+Washington+State.&zoom=15&
+ basemap=roadmap
+END:VEVENT
+END:VCALENDAR

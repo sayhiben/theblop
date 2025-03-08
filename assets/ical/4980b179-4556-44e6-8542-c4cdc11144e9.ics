@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:d3ad0d0f-9699-4f3a-9eec-55ccccff70ed
+SEQUENCE:0
+DTSTAMP:20250308T082300Z
+DTSTART:20250308T200000
+DTEND:20250309T000000
+SUMMARY:Women's March
+LOCATION:Blackstone & Shaw to Riverpark\, Fresno\, CA
+DESCRIPTION:Join us to make clear that fascism is not welcome here and tha
+ t we will resist Trump's immoral agenda.\n\nMeet at 11
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Blackstone+%
+ 26+Shaw+to+Riverpark%2C+Fresno%2C+CA&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

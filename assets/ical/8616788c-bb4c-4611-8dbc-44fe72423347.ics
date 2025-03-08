@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:31f49668-d34c-4c74-919a-b30bad82afb3
+SEQUENCE:0
+DTSTAMP:20250308T082300Z
+DTSTART:20250308T213000
+DTEND:20250309T013000
+SUMMARY:Protest/Rally in Normal\, IL
+LOCATION:503 East College Avenue\, Normal\, IL
+DESCRIPTION:On International Women's Day\, we're taking to the sidewalk al
+ ong College Ave at Anderson Park to fight back against the fascist takeove
+ r. Join us to defend our rights\, our bodies\, and our future.\n\nAnderson
+  Park
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=503+East+Col
+ lege+Avenue%2C+Normal%2C+IL&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

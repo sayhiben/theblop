@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:f6540a3b-eb78-4447-a2bf-8c6c5b510d00
+SEQUENCE:0
+DTSTAMP:20250308T082300Z
+DTSTART:20250308T200000
+DTEND:20250309T000000
+SUMMARY:Come March with Us!
+LOCATION:Olympia Capitol Building\, San Francisco\, CA
+DESCRIPTION:Join us to make clear that fascism is not welcome here and tha
+ t we will resist Trump's immoral agenda.\n\n1600 Pacific Highway
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Olympia+Capi
+ tol+Building%2C+San+Francisco%2C+CA&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

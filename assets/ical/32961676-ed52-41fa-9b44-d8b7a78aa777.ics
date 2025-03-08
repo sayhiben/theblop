@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:cf5944f7-3c47-4a4a-99c1-0b105270f041
+SEQUENCE:0
+DTSTAMP:20250308T082300Z
+DTSTART:20250309T200000
+DTEND:20250310T000000
+SUMMARY:Belvidere Community Rally
+LOCATION:Corner of Pearl St. & Chrysler Drive\, Belvidere\, IL
+DESCRIPTION:Standing in solidarity with our immigrant neighbors and allies
+ . Starts at 1:00 p.m. CST.\n\nFiesta Market
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Corner+of+Pe
+ arl+St.+%26+Chrysler+Drive%2C+Belvidere%2C+IL&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

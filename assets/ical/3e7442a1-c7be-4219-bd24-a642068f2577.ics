@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:5e079f94-c39c-4d41-a510-769e320125cf
+SEQUENCE:0
+DTSTAMP:20250308T082300Z
+DTSTART:20250308T113000
+DTEND:20250308T153000
+SUMMARY:International Women's Day
+LOCATION:Miller Park in Chattanooga\, Chattanooga\, TN
+DESCRIPTION:Join Chattanooga Standing Out & The New Suffragettes in standi
+ ng up and speaking out for women’s rights.\n\nMiller Park in Chattanooga
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Miller+Park+
+ in+Chattanooga%2C+Chattanooga%2C+TN&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

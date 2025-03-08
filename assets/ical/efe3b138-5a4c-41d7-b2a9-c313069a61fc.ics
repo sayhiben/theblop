@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:a4818a7c-6ed4-4b21-8012-9b95b6c4b0c0
+SEQUENCE:0
+DTSTAMP:20250308T082300Z
+DTSTART:20250308T180000
+DTEND:20250308T220000
+SUMMARY:Fighting Oligarchy March on Medina
+LOCATION:Downtown Park\, Bellevue\, WA
+DESCRIPTION:With billionaires in our backyard we march in peace to turn th
+ e tide!\n\nMarch to Medina Park
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Downtown+Par
+ k%2C+Bellevue%2C+WA&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

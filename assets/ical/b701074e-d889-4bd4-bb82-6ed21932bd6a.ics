@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:8d496b38-1923-4321-82f6-8435defc8ecf
+SEQUENCE:0
+DTSTAMP:20250308T082300Z
+DTSTART:20250308T200000
+DTEND:20250309T000000
+SUMMARY:International Women's Day - Unite & Resist with San Jose 50501
+LOCATION:180 N. First St.\, San Jose\, CA\, 95113
+DESCRIPTION:Join us to make clear that fascism is not welcome here and tha
+ t we will resist Trump's immoral agenda.\n\nSt James Park
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=180+N.+First
+ +St.%2C+San+Jose%2C+CA%2C+95113&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

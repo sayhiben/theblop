@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:f7dfdcf9-f9cb-4232-9dcd-3e8d4d962958
+SEQUENCE:0
+DTSTAMP:20250308T082300Z
+DTSTART:20250308T190000
+DTEND:20250308T230000
+SUMMARY:International Women's Day - Unite & Resist in New York\, NY
+LOCATION:Washington Square Park\, New York\, NY
+DESCRIPTION:Join us to demonstrate that our bodies are autonomous and we w
+ ill not fit into any box. We are one\, we are united\, and we stand togeth
+ er.\n\nWashington Square
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Washington+S
+ quare+Park%2C+New+York%2C+NY&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR
