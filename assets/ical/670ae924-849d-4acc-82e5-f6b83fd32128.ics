@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:dbc6031a-a45d-4e8f-bab8-9793d42725dd
+SEQUENCE:0
+DTSTAMP:20250308T021331Z
+DTSTART:20250308T100000
+DTEND:20250308T140000
+SUMMARY:International Women's Day Protest & Rally
+LOCATION:134 N Museum Drive\, Palm Springs\, CA
+DESCRIPTION:Join us to celebrate International Women's Day and demand equa
+ lity\, justice\, and dignity for all women. Bring signs that are creative 
+ and colorful.\n\nDowntown Palm Springs Park
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=134+N+Museum
+ +Drive%2C+Palm+Springs%2C+CA&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR
