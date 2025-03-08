@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:a83577b1-feeb-464d-8767-5aa8aaa62f91
+SEQUENCE:0
+DTSTAMP:20250308T042938Z
+DTSTART:20250308T120000
+DTEND:20250308T160000
+SUMMARY:Tesla Takedown
+LOCATION:269 NJ-35\, Eatontown\, NJ
+DESCRIPTION:\n\nMonmouth Mall parking lot past the AMC cinemas next to the
+  access road to Route 35
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=269+NJ-35%2C
+ +Eatontown%2C+NJ&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR
