@@ -10,6 +10,7 @@ import { parseEventDate, isFutureEvent } from './tasks/parseDates.js';
 import { downloadImageIfNeeded, resizeImageIfNeeded } from './tasks/downloadImages.js';
 import { generatePages } from './tasks/generatePages.js';
 import { createCalendarEventIfNeeded } from './tasks/createCalendarEventIfNeeded.js';
+import { Blop } from './blop.js';
 
 // Convert import.meta.url to __dirname style usage
 const __filename = fileURLToPath(import.meta.url);
@@ -25,6 +26,7 @@ if (!CSV_URL) {
 const EVENTS_DIR = path.join(__dirname, '..', 'events');
 const INDEX_HTML = path.join(__dirname, '..', 'index.html');
 const ABOUT_HTML = path.join(__dirname, '..', 'about.html');
+const JSON_API = path.join(__dirname, '..', 'assets', 'data', 'blop.json');
 const IMAGES_DIR = path.join(__dirname, '..', 'assets', 'images');
 const ICAL_DIR = path.join(__dirname, '..', 'assets', 'ical');
 
@@ -99,6 +101,11 @@ const ICAL_DIR = path.join(__dirname, '..', 'assets', 'ical');
       aboutHtmlPath: ABOUT_HTML,
       eventsDir: EVENTS_DIR
     });
+
+    // 9) Generate JSON "API" file
+    const blop = Blop.from_rows(futureEvents);
+    const apiData = blop.to_json();
+    fs.writeFileSync(JSON_API, apiData);
 
     console.log('Site generation complete!');
   } catch (err) {
