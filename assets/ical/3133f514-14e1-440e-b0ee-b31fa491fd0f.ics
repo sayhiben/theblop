@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:22e34e5b-c42c-463c-93e7-7e1435d59991
+SEQUENCE:0
+DTSTAMP:20250308T180559Z
+DTSTART:20250803T120000
+DTEND:20250803T160000
+SUMMARY:International Women's Day
+LOCATION:STATE CAPITOL BUILDING\, Austin\, TX
+DESCRIPTION:Join us to fight for those who help pave the way Our future is
+  bright if we stand today!\n\nAUSTIN\, TX
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=STATE+CAPITO
+ L+BUILDING%2C+Austin%2C+TX&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR
