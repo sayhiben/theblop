@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:23087753-16ee-4be0-b3ec-cbbd0ec8ce39
+SEQUENCE:0
+DTSTAMP:20250308T015929Z
+DTSTART:20250308T140000
+DTEND:20250308T180000
+SUMMARY:Raising Our Voices for Those Who Can't and Are Afraid Houston Prot
+ est
+LOCATION:Buffalo Bayou Park Cistern 105-B Sabine St Houston Texas 77007\, 
+ Houston\, TX
+DESCRIPTION:Join us to make your voice heard!!\n\nBuffalo Bayou Park\, Cis
+ tern 105-B Sabine St.
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Buffalo+Bayo
+ u+Park+Cistern+105-B+Sabine+St+Houston+Texas+77007%2C+Houston%2C+TX&zoom=1
+ 5&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

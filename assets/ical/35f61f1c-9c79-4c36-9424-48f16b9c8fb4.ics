@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:6063803f-bc00-42b4-9568-51a0f5f08bbb
+SEQUENCE:0
+DTSTAMP:20250308T015929Z
+DTSTART:20250308T120000
+DTEND:20250308T160000
+SUMMARY:Keep Up The Protests!
+LOCATION:205 Government St.\, Mobile\, AL
+DESCRIPTION:We the People against Authoritarianism\, Fascism\, and Injusti
+ ce\n\nGovernment Plaza
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=205+Governme
+ nt+St.%2C+Mobile%2C+AL&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

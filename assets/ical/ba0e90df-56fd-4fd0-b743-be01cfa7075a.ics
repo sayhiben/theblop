@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:f25063b4-7adb-4ff2-ad5b-b3c0ecee4816
+SEQUENCE:0
+DTSTAMP:20250308T015929Z
+DTSTART:20250308T130000
+DTEND:20250308T170000
+SUMMARY:Don't Abandon Ukraine
+LOCATION:The Ellipse Southwest (President's Park South)\, Washington DC\, 
+ DC
+DESCRIPTION:\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=The+Ellipse+
+ Southwest+%28President%27s+Park+South%29%2C+Washington+DC%2C+DC&zoom=15&ba
+ semap=roadmap
+END:VEVENT
+END:VCALENDAR

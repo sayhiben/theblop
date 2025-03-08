@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:66e947bf-1e3a-4f42-889a-475773ff2242
+SEQUENCE:0
+DTSTAMP:20250308T015929Z
+DTSTART:20250308T130000
+DTEND:20250308T170000
+SUMMARY:I Want YOU to Stop the Coup!
+LOCATION:Corner of Bernadette Dr. & Hutchens Dr. near Rep. Alford's office
+  and Corner of Wilkes Blvd. & Fay St. near Sen. Schmitt's and Sen. Hawley'
+ s offices\, Columbia\, MO
+DESCRIPTION:Join us for Protests Every Saturday March 8th – May 31st 1-2
+  p.m.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Corner+of+Be
+ rnadette+Dr.+%26+Hutchens+Dr.+near+Rep.+Alford%27s+office+and+Corner+of+Wi
+ lkes+Blvd.+%26+Fay+St.+near+Sen.+Schmitt%27s+and+Sen.+Hawley%27s+offices%2
+ C+Columbia%2C+MO&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

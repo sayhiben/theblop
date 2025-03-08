@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:5d1f3270-ea40-496e-81a6-6e9000525c4e
+SEQUENCE:0
+DTSTAMP:20250308T015929Z
+DTSTART:20250308T130000
+DTEND:20250308T170000
+SUMMARY:March Against Tyranny
+LOCATION:2549 S Washington Blvd\, Ogden\, UT
+DESCRIPTION:Uphold the Constitution. End executive overreach.\n\nMunicipal
+  Building
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=2549+S+Washi
+ ngton+Blvd%2C+Ogden%2C+UT&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:1116ece5-a7a8-40aa-9b53-76a9209808fb
+SEQUENCE:0
+DTSTAMP:20250308T015929Z
+DTSTART:20250308T120000
+DTEND:20250308T160000
+SUMMARY:We March for Our Freedoms
+LOCATION:101 N Carson St
+DESCRIPTION:Join us on International Women's Day to march in support of ou
+ r freedoms.\n\nCarson City Capitol
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=101+N+Carson
+ +St&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

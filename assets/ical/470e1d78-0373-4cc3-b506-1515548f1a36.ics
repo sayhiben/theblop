@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:50675e2f-6e49-4a3d-8fc2-4c5c38a91093
+SEQUENCE:0
+DTSTAMP:20250308T015930Z
+DTSTART:20250314T100000
+DTEND:20250314T140000
+SUMMARY:Rally to Save the VA
+LOCATION:Outside the Dallas VA Hospital\, Dallas\, TX
+DESCRIPTION:Join us at this rally on March 14\, 2025. We will be outside o
+ f the Dallas VA Hospital from 10 a.m. to 2 p.m. Please wear military branc
+ h T-shirts or jackets\, VFW logos\, and bring patriotic songs if you play 
+ an instrument.\n\nTake the DART Blue line\; please don't take a parking sp
+ ot from our veteran-patients.
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Outside+the+
+ Dallas+VA+Hospital%2C+Dallas%2C+TX&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR
