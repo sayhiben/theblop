@@ -734,12 +734,7 @@
     "address": "2601 S College Ave, Fort Collins, CO",
     "meeting_location": "Corner of Drake and College in Fort Collins",
     "links": [],
-    "sponsors": [
-      "Right or Left ... we all know this is WRONG!",
-      " WE THE PEOPLE",
-      " PROTECT OUR PUBLIC LANDS",
-      " OMG GOP WTF"
-    ],
+    "sponsors": [],
     "image_url": "https://theblop.org/assets/images/42253cac-8b3b-47af-87e2-41bd0f995431.png",
     "thumbnail_url": "https://theblop.org/assets/images/42253cac-8b3b-47af-87e2-41bd0f995431-thumb.jpg",
     "canonical_id": "",
@@ -1046,9 +1041,7 @@
     "address": "201 West Capitol Avenue Jefferson City, MO 65101",
     "meeting_location": "Capitol Building",
     "links": [],
-    "sponsors": [
-      "Department of Veterans Affairs"
-    ],
+    "sponsors": [],
     "image_url": "https://theblop.org/assets/images/339fc8fd-652e-4075-9dcd-9a691d996906.png",
     "thumbnail_url": "https://theblop.org/assets/images/339fc8fd-652e-4075-9dcd-9a691d996906-thumb.jpg",
     "canonical_id": "",
@@ -2197,10 +2190,7 @@
     "address": "STATE CAPITOL BUILDING",
     "meeting_location": "AUSTIN, TX",
     "links": [],
-    "sponsors": [
-      "Madalyn Murray O'Hair",
-      " Indya Moore"
-    ],
+    "sponsors": [],
     "image_url": "https://theblop.org/assets/images/3133f514-14e1-440e-b0ee-b31fa491fd0f.jpg",
     "thumbnail_url": "https://theblop.org/assets/images/3133f514-14e1-440e-b0ee-b31fa491fd0f-thumb.jpg",
     "canonical_id": "",
