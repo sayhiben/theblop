@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:506ec105-252b-41bf-8d9c-8bd421b2c89b
+SEQUENCE:0
+DTSTAMP:20250309T063714Z
+DTSTART:20250311T163000
+DTEND:20250311T203000
+SUMMARY:Tesla Takedown Tuesdays
+LOCATION:5700 S. Broadway\, Littleton\, CO
+DESCRIPTION:Join us on Tuesdays beginning March 11th from 4:30pm to 6:00pm
+  on the sidewalk in front of Littleton Tesla\, 5700 S. Broadway\, Littleto
+ n.\n\nLittleton Tesla
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=5700+S.+Broa
+ dway%2C+Littleton%2C+CO&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

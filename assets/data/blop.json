@@ -668,6 +668,27 @@
     "ical": "https://theblop.org/assets/ical/640c3d1b-1d65-4c58-9b9e-6c0574ba9758.ics"
   },
   {
+    "id": "c7beb8d0-eed7-495e-8d48-12ad3dec7034",
+    "title": "Tesla Takedown Tuesdays",
+    "date": "Tuesday, March 11, 2025",
+    "time": "4:30 PM",
+    "description": "Join us on Tuesdays beginning March 11th from 4:30pm to 6:00pm on the sidewalk in front of Littleton Tesla, 5700 S. Broadway, Littleton.",
+    "city": "Littleton",
+    "state": "CO",
+    "address": "5700 S. Broadway",
+    "meeting_location": "Littleton Tesla",
+    "links": [],
+    "sponsors": [
+      "American Federation of Government Employees (AFGE)",
+      " u/TheGreatKittenling"
+    ],
+    "image_url": "https://theblop.org/assets/images/c7beb8d0-eed7-495e-8d48-12ad3dec7034.jpg",
+    "thumbnail_url": "https://theblop.org/assets/images/c7beb8d0-eed7-495e-8d48-12ad3dec7034-thumb.jpg",
+    "canonical_id": "",
+    "permalink": "https://theblop.org/events/c7beb8d0-eed7-495e-8d48-12ad3dec7034.html",
+    "ical": "https://theblop.org/assets/ical/c7beb8d0-eed7-495e-8d48-12ad3dec7034.ics"
+  },
+  {
     "id": "0299b5a4-b411-4eaf-9dd1-cd7f1c0fcec0",
     "title": "Wasilla Protest",
     "date": "Wednesday, March 12, 2025",
@@ -1177,6 +1198,26 @@
     "canonical_id": "",
     "permalink": "https://theblop.org/events/95302f7b-1dfe-4626-9b57-095fe0959e38.html",
     "ical": "https://theblop.org/assets/ical/95302f7b-1dfe-4626-9b57-095fe0959e38.ics"
+  },
+  {
+    "id": "de0dc2d2-f263-47a4-9e07-98ee975e1102",
+    "title": "March on Washington",
+    "date": "Friday, March 14, 2025",
+    "time": "12:00 PM",
+    "description": "Claim your power. Stop the coup.",
+    "city": "Washington",
+    "state": "",
+    "address": "03.14.25",
+    "meeting_location": "Capitol Protest Against Our Unconstitutional Government, National Mall between 4th & 6th",
+    "links": [],
+    "sponsors": [
+      "3.14 Now DC"
+    ],
+    "image_url": "https://theblop.org/assets/images/de0dc2d2-f263-47a4-9e07-98ee975e1102.png",
+    "thumbnail_url": "https://theblop.org/assets/images/de0dc2d2-f263-47a4-9e07-98ee975e1102-thumb.jpg",
+    "canonical_id": "",
+    "permalink": "https://theblop.org/events/de0dc2d2-f263-47a4-9e07-98ee975e1102.html",
+    "ical": "https://theblop.org/assets/ical/de0dc2d2-f263-47a4-9e07-98ee975e1102.ics"
   },
   {
     "id": "1f6c2cbe-686a-437e-bb4e-d070dc0a3101",
@@ -2391,23 +2432,5 @@
     "canonical_id": "",
     "permalink": "https://theblop.org/events/df755871-431c-43bc-8708-b0de925b6bea.html",
     "ical": "https://theblop.org/assets/ical/df755871-431c-43bc-8708-b0de925b6bea.ics"
-  },
-  {
-    "id": "3133f514-14e1-440e-b0ee-b31fa491fd0f",
-    "title": "International Women's Day",
-    "date": "Sunday, August 3, 2025",
-    "time": "12:00 PM",
-    "description": "Join us to fight for those who help pave the way Our future is bright if we stand today!",
-    "city": "Austin",
-    "state": "TX",
-    "address": "STATE CAPITOL BUILDING",
-    "meeting_location": "AUSTIN, TX",
-    "links": [],
-    "sponsors": [],
-    "image_url": "https://theblop.org/assets/images/3133f514-14e1-440e-b0ee-b31fa491fd0f.jpg",
-    "thumbnail_url": "https://theblop.org/assets/images/3133f514-14e1-440e-b0ee-b31fa491fd0f-thumb.jpg",
-    "canonical_id": "",
-    "permalink": "https://theblop.org/events/3133f514-14e1-440e-b0ee-b31fa491fd0f.html",
-    "ical": "https://theblop.org/assets/ical/3133f514-14e1-440e-b0ee-b31fa491fd0f.ics"
   }
 ]
