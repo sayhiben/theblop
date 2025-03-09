@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:61e630b7-7812-450a-927d-e90884587ae5
+SEQUENCE:0
+DTSTAMP:20250309T180602Z
+DTSTART:20250320T113000
+DTEND:20250320T153000
+SUMMARY:No More Education Cuts: Statewide Day of Action
+LOCATION:200 E Colfax Ave\, Denver\, CO 80203
+DESCRIPTION:Advocacy Event to protest against education cuts and advocate 
+ for increased funding.\n\nColorado State Capitol
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=200+E+Colfax
+ +Ave%2C+Denver%2C+CO+80203&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR
