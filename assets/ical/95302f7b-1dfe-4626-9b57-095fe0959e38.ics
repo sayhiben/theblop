@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:661d2d76-a78e-4039-8151-5014bbdd0327
+SEQUENCE:0
+DTSTAMP:20250309T044646Z
+DTSTART:20250314T113000
+DTEND:20250314T153000
+SUMMARY:Stand in Solidarity for Veterans & Federal Workers
+LOCATION:915 N Grand Blvd\, St. Louis\, MO 63106
+DESCRIPTION:\n\nJohn Cochran VA Medical Center
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=915+N+Grand+
+ Blvd%2C+St.+Louis%2C+MO+63106&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

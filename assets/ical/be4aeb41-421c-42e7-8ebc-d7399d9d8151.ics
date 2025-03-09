@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:a2b1162b-aa0a-46a3-9ac0-377eb3ca5786
+SEQUENCE:0
+DTSTAMP:20250309T044646Z
+DTSTART:20250315T120000
+DTEND:20250315T160000
+SUMMARY:50 Protests\, 50 States\, One Movement
+LOCATION:Ohio Statehouse\, Columbus\, OH
+DESCRIPTION:Join the Ohio chapter of 50501 to defend democracy and constit
+ utional rights through peaceful action.\n\nOhio Statehouse
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Ohio+Stateho
+ use%2C+Columbus%2C+OH&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

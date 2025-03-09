@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:25335d47-b9e3-480d-a9a8-b44f491e0c37
+SEQUENCE:0
+DTSTAMP:20250309T044646Z
+DTSTART:20250314T130000
+DTEND:20250314T170000
+SUMMARY:March on Washington
+LOCATION:1600 Pennsylvania Ave NW\, Washington DC 20543
+DESCRIPTION:\n\nUnited States Capitol
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=1600+Pennsyl
+ vania+Ave+NW%2C+Washington+DC+20543&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

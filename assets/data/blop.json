@@ -742,6 +742,28 @@
     "ical": "https://theblop.org/assets/ical/42253cac-8b3b-47af-87e2-41bd0f995431.ics"
   },
   {
+    "id": "454b323e-aac5-425c-ad32-cb767ee4aece",
+    "title": "General Strike U.S.",
+    "date": "Thursday, March 13, 2025",
+    "time": "9:00 AM",
+    "description": "Organize Our Collective Resistance With",
+    "city": "Detroit",
+    "state": "MI",
+    "address": "",
+    "meeting_location": "",
+    "links": [
+      "https://linktr.ee/generalstrikeus_michigan"
+    ],
+    "sponsors": [
+      "GSUS Detroit"
+    ],
+    "image_url": "https://theblop.org/assets/images/454b323e-aac5-425c-ad32-cb767ee4aece.jpg",
+    "thumbnail_url": "https://theblop.org/assets/images/454b323e-aac5-425c-ad32-cb767ee4aece-thumb.jpg",
+    "canonical_id": "",
+    "permalink": "https://theblop.org/events/454b323e-aac5-425c-ad32-cb767ee4aece.html",
+    "ical": "https://theblop.org/assets/ical/454b323e-aac5-425c-ad32-cb767ee4aece.ics"
+  },
+  {
     "id": "e0d3a324-e173-4ff2-9ac7-8ba91018aada",
     "title": "Demand Democracy",
     "date": "Friday, March 14, 2025",
@@ -1047,6 +1069,114 @@
     "canonical_id": "",
     "permalink": "https://theblop.org/events/339fc8fd-652e-4075-9dcd-9a691d996906.html",
     "ical": "https://theblop.org/assets/ical/339fc8fd-652e-4075-9dcd-9a691d996906.ics"
+  },
+  {
+    "id": "edafdd93-ebbb-4c95-9c4a-7359f2572452",
+    "title": "Veterans for Democracy",
+    "date": "Friday, March 14, 2025",
+    "time": "12:00 PM",
+    "description": "",
+    "city": "Washington, D.C.",
+    "state": "DC",
+    "address": "National Mall",
+    "meeting_location": "Between 4th & 6th",
+    "links": [
+      "https://nowmarch.org"
+    ],
+    "sponsors": [
+      "NowDC",
+      " #14thNow"
+    ],
+    "image_url": "https://theblop.org/assets/images/edafdd93-ebbb-4c95-9c4a-7359f2572452.jpg",
+    "thumbnail_url": "https://theblop.org/assets/images/edafdd93-ebbb-4c95-9c4a-7359f2572452-thumb.jpg",
+    "canonical_id": "",
+    "permalink": "https://theblop.org/events/edafdd93-ebbb-4c95-9c4a-7359f2572452.html",
+    "ical": "https://theblop.org/assets/ical/edafdd93-ebbb-4c95-9c4a-7359f2572452.ics"
+  },
+  {
+    "id": "d7182e14-f810-45fb-9c8b-668b24f86566",
+    "title": "March on Washington",
+    "date": "Friday, March 14, 2025",
+    "time": "1:00 PM",
+    "description": "",
+    "city": "Washington",
+    "state": "DC",
+    "address": "1600 Pennsylvania Ave NW, Washington DC 20543",
+    "meeting_location": "United States Capitol",
+    "links": [
+      "https://nowmarch.org"
+    ],
+    "sponsors": [
+      "Liberal Resistance"
+    ],
+    "image_url": "https://theblop.org/assets/images/d7182e14-f810-45fb-9c8b-668b24f86566.jpg",
+    "thumbnail_url": "https://theblop.org/assets/images/d7182e14-f810-45fb-9c8b-668b24f86566-thumb.jpg",
+    "canonical_id": "",
+    "permalink": "https://theblop.org/events/d7182e14-f810-45fb-9c8b-668b24f86566.html",
+    "ical": "https://theblop.org/assets/ical/d7182e14-f810-45fb-9c8b-668b24f86566.ics"
+  },
+  {
+    "id": "da86ef96-17c2-4a8f-86a7-d2a92e0f82f9",
+    "title": "Stop the Coup",
+    "date": "Friday, March 14, 2025",
+    "time": "2:00 PM",
+    "description": "Capitol protest against our unconstitutional government.",
+    "city": "Washington, D.C.",
+    "state": "DC",
+    "address": "1600 Pennsylvania Avenue NW",
+    "meeting_location": "United States Capitol",
+    "links": [
+      "https://nowmarch.org"
+    ],
+    "sponsors": [],
+    "image_url": "https://theblop.org/assets/images/da86ef96-17c2-4a8f-86a7-d2a92e0f82f9.jpg",
+    "thumbnail_url": "https://theblop.org/assets/images/da86ef96-17c2-4a8f-86a7-d2a92e0f82f9-thumb.jpg",
+    "canonical_id": "",
+    "permalink": "https://theblop.org/events/da86ef96-17c2-4a8f-86a7-d2a92e0f82f9.html",
+    "ical": "https://theblop.org/assets/ical/da86ef96-17c2-4a8f-86a7-d2a92e0f82f9.ics"
+  },
+  {
+    "id": "189917ce-74ff-4201-9012-16a289640b5b",
+    "title": "3.14 NOW DC",
+    "date": "Friday, March 14, 2025",
+    "time": "1:00 PM",
+    "description": "Capitol protest against our unconstitutional government.",
+    "city": "Washington, D.C.",
+    "state": "DC",
+    "address": "Capitol Building",
+    "meeting_location": "United States Capitol",
+    "links": [
+      "https://nowmarch.org"
+    ],
+    "sponsors": [
+      "NOW March",
+      " Nowmarch.org"
+    ],
+    "image_url": "https://theblop.org/assets/images/189917ce-74ff-4201-9012-16a289640b5b.jpg",
+    "thumbnail_url": "https://theblop.org/assets/images/189917ce-74ff-4201-9012-16a289640b5b-thumb.jpg",
+    "canonical_id": "",
+    "permalink": "https://theblop.org/events/189917ce-74ff-4201-9012-16a289640b5b.html",
+    "ical": "https://theblop.org/assets/ical/189917ce-74ff-4201-9012-16a289640b5b.ics"
+  },
+  {
+    "id": "95302f7b-1dfe-4626-9b57-095fe0959e38",
+    "title": "Stand in Solidarity for Veterans & Federal Workers",
+    "date": "Friday, March 14, 2025",
+    "time": "11:30 AM",
+    "description": "",
+    "city": "St. Louis",
+    "state": "MO",
+    "address": "915 N Grand Blvd, St. Louis, MO 63106",
+    "meeting_location": "John Cochran VA Medical Center",
+    "links": [],
+    "sponsors": [
+      "St. Louis County Democratic Central Committee"
+    ],
+    "image_url": "https://theblop.org/assets/images/95302f7b-1dfe-4626-9b57-095fe0959e38.jpg",
+    "thumbnail_url": "https://theblop.org/assets/images/95302f7b-1dfe-4626-9b57-095fe0959e38-thumb.jpg",
+    "canonical_id": "",
+    "permalink": "https://theblop.org/events/95302f7b-1dfe-4626-9b57-095fe0959e38.html",
+    "ical": "https://theblop.org/assets/ical/95302f7b-1dfe-4626-9b57-095fe0959e38.ics"
   },
   {
     "id": "1f6c2cbe-686a-437e-bb4e-d070dc0a3101",
@@ -1446,6 +1576,69 @@
     "canonical_id": "",
     "permalink": "https://theblop.org/events/849452ba-6f18-4e3b-a164-af6c06cd6460.html",
     "ical": "https://theblop.org/assets/ical/849452ba-6f18-4e3b-a164-af6c06cd6460.ics"
+  },
+  {
+    "id": "2547b2bb-d54b-4862-b952-16e6d1e28982",
+    "title": "Protest",
+    "date": "Saturday, March 15, 2025",
+    "time": "12:00 PM",
+    "description": "Stand up for human rights & take back our democracy from billionaires and fascists!",
+    "city": "Ohio",
+    "state": "OH",
+    "address": "Ohio Statehouse",
+    "meeting_location": "",
+    "links": [],
+    "sponsors": [
+      "Project 2025"
+    ],
+    "image_url": "https://theblop.org/assets/images/2547b2bb-d54b-4862-b952-16e6d1e28982.png",
+    "thumbnail_url": "https://theblop.org/assets/images/2547b2bb-d54b-4862-b952-16e6d1e28982-thumb.jpg",
+    "canonical_id": "",
+    "permalink": "https://theblop.org/events/2547b2bb-d54b-4862-b952-16e6d1e28982.html",
+    "ical": "https://theblop.org/assets/ical/2547b2bb-d54b-4862-b952-16e6d1e28982.ics"
+  },
+  {
+    "id": "ac933ef7-e45d-4558-a351-3852857e6ba8",
+    "title": "United in Resistance",
+    "date": "Saturday, March 15, 2025",
+    "time": "1:00 PM",
+    "description": "Join the SHUTDOWN315 Movement General Strike/General Boycott March 15th, 2025-TBD Together, We Will Win.",
+    "city": "San Francisco",
+    "state": "CA",
+    "address": "1647 Mission St",
+    "meeting_location": "Union Square",
+    "links": [],
+    "sponsors": [
+      "GeneralStrikeUS"
+    ],
+    "image_url": "https://theblop.org/assets/images/ac933ef7-e45d-4558-a351-3852857e6ba8.jpg",
+    "thumbnail_url": "https://theblop.org/assets/images/ac933ef7-e45d-4558-a351-3852857e6ba8-thumb.jpg",
+    "canonical_id": "",
+    "permalink": "https://theblop.org/events/ac933ef7-e45d-4558-a351-3852857e6ba8.html",
+    "ical": "https://theblop.org/assets/ical/ac933ef7-e45d-4558-a351-3852857e6ba8.ics"
+  },
+  {
+    "id": "be4aeb41-421c-42e7-8ebc-d7399d9d8151",
+    "title": "50 Protests, 50 States, One Movement",
+    "date": "Saturday, March 15, 2025",
+    "time": "12:00 PM",
+    "description": "Join the Ohio chapter of 50501 to defend democracy and constitutional rights through peaceful action.",
+    "city": "Columbus",
+    "state": "OH",
+    "address": "Ohio Statehouse",
+    "meeting_location": "Ohio Statehouse",
+    "links": [
+      "https://ohio.50501.org"
+    ],
+    "sponsors": [
+      "50501",
+      " 50501OH.IO"
+    ],
+    "image_url": "https://theblop.org/assets/images/be4aeb41-421c-42e7-8ebc-d7399d9d8151.png",
+    "thumbnail_url": "https://theblop.org/assets/images/be4aeb41-421c-42e7-8ebc-d7399d9d8151-thumb.jpg",
+    "canonical_id": "",
+    "permalink": "https://theblop.org/events/be4aeb41-421c-42e7-8ebc-d7399d9d8151.html",
+    "ical": "https://theblop.org/assets/ical/be4aeb41-421c-42e7-8ebc-d7399d9d8151.ics"
   },
   {
     "id": "72ae0c00-2ca1-4485-a5ba-5418fba36feb",
@@ -2158,6 +2351,26 @@
     "canonical_id": "",
     "permalink": "https://theblop.org/events/cefc5b6c-9256-42f0-8831-06022312fc46.html",
     "ical": "https://theblop.org/assets/ical/cefc5b6c-9256-42f0-8831-06022312fc46.ics"
+  },
+  {
+    "id": "218f92fa-24b2-40a6-8665-11541944fb95",
+    "title": "50 Protests, 50 States, 1 Movement",
+    "date": "Saturday, April 5, 2025",
+    "time": "12:00 PM",
+    "description": "Remove corrupt politicians from office, reverse the damage and reclaim our democracy.",
+    "city": "Sacramento",
+    "state": "CA",
+    "address": "1310 10th St",
+    "meeting_location": "State Capitol",
+    "links": [
+      "Linktr.ee/Sacramento50501"
+    ],
+    "sponsors": [],
+    "image_url": "https://theblop.org/assets/images/218f92fa-24b2-40a6-8665-11541944fb95.png",
+    "thumbnail_url": "https://theblop.org/assets/images/218f92fa-24b2-40a6-8665-11541944fb95-thumb.jpg",
+    "canonical_id": "",
+    "permalink": "https://theblop.org/events/218f92fa-24b2-40a6-8665-11541944fb95.html",
+    "ical": "https://theblop.org/assets/ical/218f92fa-24b2-40a6-8665-11541944fb95.ics"
   },
   {
     "id": "df755871-431c-43bc-8708-b0de925b6bea",
