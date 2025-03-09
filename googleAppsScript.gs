@@ -122,7 +122,7 @@ function normalizeState(extracted) {
   // If city includes "Washington DC" or variant => "DC"
   if (extracted.city) {
     const cityLower = extracted.city.toLowerCase();
-    if (cityLower.includes('washington') && cityLower.includes('dc')) {
+    if (cityLower.includes('washington') && (cityLower.includes('dc') || cityLower.includes('d.c'))) {
       return 'DC';
     }
   }
@@ -255,7 +255,7 @@ function processEmails() {
 
     messages.forEach(msg => {
       if (!msg.isUnread()) return;
-      Logger.log('Processing unread message with subject: ' + message.getSubject());
+      Logger.log('Processing unread message with subject: ' + msg.getSubject());
 
       // We'll store the entire date/time in "Date" column
       let dateStr = parseAndNormalizeDateTime(msg.getDate());
