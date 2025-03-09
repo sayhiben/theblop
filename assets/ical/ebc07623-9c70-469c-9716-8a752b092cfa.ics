@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:fb3c01d6-e906-4a63-830a-067c12537046
+SEQUENCE:0
+DTSTAMP:20250309T120751Z
+DTSTART:20250315T110000
+DTEND:20250315T150000
+SUMMARY:Tesla Takedown Manchester
+LOCATION:396 Wellington Rd N\, Stockport SK4 5AD\, Manchester\, Greater Ma
+ nchester
+DESCRIPTION:Join us to make clear that fascism is not welcome here and tha
+ t we will resist Trump's immoral agenda.\n\nTesla Centre
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=396+Wellingt
+ on+Rd+N%2C+Stockport+SK4+5AD%2C+Manchester%2C+Greater+Manchester&zoom=15&b
+ asemap=roadmap
+END:VEVENT
+END:VCALENDAR

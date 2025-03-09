@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:5233ae3a-eb99-4b11-b7e6-85296509f959
+SEQUENCE:0
+DTSTAMP:20250309T120751Z
+DTSTART:20250316T120000
+DTEND:20250316T160000
+SUMMARY:Expose The Harm: Bellevue
+LOCATION:NE 4th St & Bellevue Way\, Bellevue\, WA
+DESCRIPTION:Join our peaceful protest/gathering. We will be gathering on t
+ he corner of NE 4th and Bellevue Way across from Bellevue Square.\n\nBelle
+ vue Square
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=NE+4th+St+%2
+ 6+Bellevue+Way%2C+Bellevue%2C+WA&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

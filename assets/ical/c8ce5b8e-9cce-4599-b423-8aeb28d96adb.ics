@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:b72e7981-9cbd-4118-b58e-6dfd8fadc355
+SEQUENCE:0
+DTSTAMP:20250309T120751Z
+DTSTART:20250430T103000
+DTEND:20250430T143000
+SUMMARY:Inclusion Day
+LOCATION:National Mall\, Washington DC\, 
+DESCRIPTION:They ban our books\, they bury our names. They push us down\, 
+ but we rise in flames. On April 30th\, the world will know our names.\n\n1
+ 0:30 AM to 5:00 PM
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=National+Mal
+ l%2C+Washington+DC%2C+&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

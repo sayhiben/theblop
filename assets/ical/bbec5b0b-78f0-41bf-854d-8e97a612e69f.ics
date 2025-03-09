@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:f3d60be7-6749-4a7e-8360-657fb57180f1
+SEQUENCE:0
+DTSTAMP:20250309T120751Z
+DTSTART:20250310T140000
+DTEND:20250310T180000
+SUMMARY:Moral Monday Action
+LOCATION:One Blue Hill Plaza\, Pearl River\, NY 10965\, New York\, NY
+DESCRIPTION:Join us to demand that Congressman Mike Lawler protect New Yor
+ kers from $880 billion in cuts to Medicaid.\n\nOffice of Congressman Mike 
+ Lawler
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=One+Blue+Hil
+ l+Plaza%2C+Pearl+River%2C+NY+10965%2C+New+York%2C+NY&zoom=15&basemap=roadm
+ ap
+END:VEVENT
+END:VCALENDAR
