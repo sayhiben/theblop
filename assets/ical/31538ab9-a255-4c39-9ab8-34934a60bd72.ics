@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:c7b976c9-d437-4901-94b5-d1bda8fb9a6e
+SEQUENCE:0
+DTSTAMP:20250310T235109Z
+DTSTART:20250318T173000
+DTEND:20250318T213000
+SUMMARY:Town Hall Meeting
+LOCATION:Piedmont Oconee Health Center\, Jennings Mill Rd.\, Watkinsville\
+ , Watkinsville\, GA
+DESCRIPTION:Indivisible GA10 and the Oconee & Clarke County Democratic Com
+ mittees have invited District 10 Congressional Rep. Mike Collins to a Town
+  Hall Meeting.\n\nCommunity space off Jennings Mill Rd.
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Piedmont+Oco
+ nee+Health+Center%2C+Jennings+Mill+Rd.%2C+Watkinsville%2C+Watkinsville%2C+
+ GA&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

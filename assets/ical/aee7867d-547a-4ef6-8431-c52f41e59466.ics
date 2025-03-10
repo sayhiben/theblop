@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:588b7f5d-725b-4ead-b989-2f6ef9f36640
+SEQUENCE:0
+DTSTAMP:20250310T235109Z
+DTSTART:20250314T073000
+DTEND:20250314T113000
+SUMMARY:U.S. Weapons Out of Shannon Airport
+LOCATION:65 W Jackson Blvd\, Chicago\, IL
+DESCRIPTION:Join us to demand that they put an end to Irish complicity in 
+ genocide.\n\nUnion League Club
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=65+W+Jackson
+ +Blvd%2C+Chicago%2C+IL&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

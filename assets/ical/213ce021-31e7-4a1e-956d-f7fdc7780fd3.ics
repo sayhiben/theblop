@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:8e308319-244f-4341-bf7f-aca6aa71b0fc
+SEQUENCE:0
+DTSTAMP:20250310T235109Z
+DTSTART:20250314T180000
+DTEND:20250314T220000
+SUMMARY:Town Hall
+LOCATION:1300 N Tustin St\, Jefferson City\, MO
+DESCRIPTION:Join us to discuss the issues that matter\, with or without th
+ em.\n\nZoom: tinyurl.com/MO3THreg
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=1300+N+Tusti
+ n+St%2C+Jefferson+City%2C+MO&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

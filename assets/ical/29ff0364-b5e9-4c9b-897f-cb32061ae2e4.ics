@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:4cfdac3d-1702-4274-b647-aa6df8cd310b
+SEQUENCE:0
+DTSTAMP:20250310T235109Z
+DTSTART:20250310T160000
+DTEND:20250310T200000
+SUMMARY:Emergency Mobilization: Release Mahmoud Khalil
+LOCATION:26 Federal Plaza\, New York City\, NY
+DESCRIPTION:Hands off our students\, ICE off our campuses.\n\nJacob K. Jav
+ its Federal Building
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=26+Federal+P
+ laza%2C+New+York+City%2C+NY&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

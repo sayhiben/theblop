@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:2c1ee9f2-ddd8-4b63-9482-2e1161bd5ba7
+SEQUENCE:0
+DTSTAMP:20250310T235109Z
+DTSTART:20250311T150000
+DTEND:20250311T190000
+SUMMARY:Veterans and Public Lands Virtual Town Hall
+LOCATION:1600 N Tustin Ave\, Orange\, CA
+DESCRIPTION:Join Vet Voice Foundation March 11th at 3PM ET for a Veterans 
+ and Public Lands Virtual Town Hall to learn how we can fight back against 
+ Trump’s attacks and protect the lands we served to defend.\n\nVirtual vi
+ a Zoom
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=1600+N+Tusti
+ n+Ave%2C+Orange%2C+CA&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

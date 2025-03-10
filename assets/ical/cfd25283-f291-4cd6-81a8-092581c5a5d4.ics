@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:41f28adc-0722-4b8e-9f0f-3b2f1bb1babb
+SEQUENCE:0
+DTSTAMP:20250310T235109Z
+DTSTART:20250318T180000
+DTEND:20250318T220000
+SUMMARY:Deschutes County Town Hall
+LOCATION:1700 W. McKinney Butte Rd.\, Sisters\, OR
+DESCRIPTION:\n\nSisters High School gymnasium
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=1700+W.+McKi
+ nney+Butte+Rd.%2C+Sisters%2C+OR&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR
