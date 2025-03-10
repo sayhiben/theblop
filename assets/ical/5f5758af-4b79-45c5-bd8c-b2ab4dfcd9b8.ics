@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:965ffbb4-de33-49af-ba60-6ef974aa3879
+SEQUENCE:0
+DTSTAMP:20250310T021352Z
+DTSTART:20250405T120000
+DTEND:20250405T160000
+SUMMARY:50501 PROTESTS
+LOCATION:Albert Johnson Park (intersection of Main & Picacho)\, Las Cruces
+ \, NM
+DESCRIPTION:Stand up to fascism United we stand!\n\nIntersection of Main &
+  Picacho
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Albert+Johns
+ on+Park+%28intersection+of+Main+%26+Picacho%29%2C+Las+Cruces%2C+NM&zoom=15
+ &basemap=roadmap
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:fe677ae7-d8c4-421d-8e5b-4c23be0e7842
+SEQUENCE:0
+DTSTAMP:20250310T021352Z
+DTSTART:20250310T120000
+DTEND:20250310T160000
+SUMMARY:3/10 TESLA TAKEDOWN - ALHAMBRA
+LOCATION:1200 W. Main Street\, Alhambra\, CA 91801 US
+DESCRIPTION:\n\nTesla Dealership • 1200 W. Main Street\, Alhambra\, CA 9
+ 1801 US
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=1200+W.+Main
+ +Street%2C+Alhambra%2C+CA+91801+US&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

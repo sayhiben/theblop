@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:0960fad6-db46-4b8c-89eb-b526dac7d15a
+SEQUENCE:0
+DTSTAMP:20250310T021352Z
+DTSTART:20250315T093000
+DTEND:20250315T133000
+SUMMARY:Tucson Tesla Protest!
+LOCATION:\, Tucson\, AZ
+DESCRIPTION:We're looking forward to our biggest turnout ever!!!\n\nOracle
+  & River
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+Tucson%2
+ C+AZ&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

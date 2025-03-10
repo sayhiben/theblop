@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:8758cc35-5ecb-4e7c-997c-3c12db548293
+SEQUENCE:0
+DTSTAMP:20250310T021352Z
+DTSTART:20250310T160000
+DTEND:20250310T200000
+SUMMARY:Emergency Mobilization: Release Mahmoud Khalil
+LOCATION:Jacob K. Javits Federal Building\, 26 Federal Plaza\, NYC\, New Y
+ ork City\, NY
+DESCRIPTION:\n\nJacob K. Javits Federal Building
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Jacob+K.+Jav
+ its+Federal+Building%2C+26+Federal+Plaza%2C+NYC%2C+New+York+City%2C+NY&zoo
+ m=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

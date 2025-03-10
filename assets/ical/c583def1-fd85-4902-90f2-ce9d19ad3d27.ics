@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:0bf03f26-6d3b-4b4b-9c4d-2999263e05fd
+SEQUENCE:0
+DTSTAMP:20250310T021352Z
+DTSTART:20250313T080000
+DTEND:20250313T120000
+SUMMARY:Pink Out the Halls!
+LOCATION:Georgia State Captiol\, Atlanta\, GA 30334
+DESCRIPTION:Join PPSEA at the Georgia state capitol for Pink Out the Halls
+ \, our community lobbying day We will be talking with our legislators abou
+ t the work we do at our Planned Parenthood clinics\, the state of sex educ
+ ation\, and ways to protect and expand reproductive health care here in Ge
+ orgia. You can make a difference by engaging with your Georgia state senat
+ or and representative!\n\nGeorgia State Capitol
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Georgia+Stat
+ e+Captiol%2C+Atlanta%2C+GA+30334&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

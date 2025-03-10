@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:744f3013-2825-4f69-9bea-e4c24f78315f
+SEQUENCE:0
+DTSTAMP:20250310T021352Z
+DTSTART:20250310T044500
+DTEND:20250310T084500
+SUMMARY:Pink Slips to Trump!
+LOCATION:313 Eighth Ave SE\, Olympia\, WA 98501
+DESCRIPTION:We will have some supplies to write postcards. Please bring if
+  you have: postcards\, postage\, markers\, etc.\n\nOlympia Timberland Libr
+ ary Meeting Room
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=313+Eighth+A
+ ve+SE%2C+Olympia%2C+WA+98501&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

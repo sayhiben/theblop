@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:0a1b74a4-8e47-42a6-8343-dae3d46e880c
+SEQUENCE:0
+DTSTAMP:20250310T021352Z
+DTSTART:20250315T120000
+DTEND:20250315T160000
+SUMMARY:The People's Movement
+LOCATION:Dealey Plaza\, Downtown Dallas\, Downtown Dallas\, TX
+DESCRIPTION:\n\nDealey Plaza
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Dealey+Plaza
+ %2C+Downtown+Dallas%2C+Downtown+Dallas%2C+TX&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

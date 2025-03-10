@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:d222dccb-11ee-4a75-91be-a7285217a576
+SEQUENCE:0
+DTSTAMP:20250310T021352Z
+DTSTART:20250314T170000
+DTEND:20250314T210000
+SUMMARY:National Day of Protest
+LOCATION:Corner of Blanding & Kingsley Ave\, Orange Park\, FL
+DESCRIPTION:Join us to insist\, persist and resist against fascism. We can
+ not wait. We must act.\n\nFacing Blanding Blvd by Burger King. Park in the
+  public parking lot.
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Corner+of+Bl
+ anding+%26+Kingsley+Ave%2C+Orange+Park%2C+FL&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

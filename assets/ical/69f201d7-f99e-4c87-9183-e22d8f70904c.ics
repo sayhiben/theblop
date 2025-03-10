@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:9dbf5f43-48a0-4a68-a82e-6ee0f1d9e25b
+SEQUENCE:0
+DTSTAMP:20250310T021352Z
+DTSTART:20250314T120000
+DTEND:20250314T160000
+SUMMARY:March 14 Veterans March
+LOCATION:1315 10th Street\, 95814\, Sacramento\, Sacramento\, CA
+DESCRIPTION:\n\nCalifornia State Capitol
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=1315+10th+St
+ reet%2C+95814%2C+Sacramento%2C+Sacramento%2C+CA&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

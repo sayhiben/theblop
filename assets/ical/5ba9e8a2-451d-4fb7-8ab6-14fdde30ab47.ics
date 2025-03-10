@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:5b0efb41-c5f5-4d67-904a-7d9da7101767
+SEQUENCE:0
+DTSTAMP:20250310T021352Z
+DTSTART:20250316T140000
+DTEND:20250316T180000
+SUMMARY:Protest Rally against Musk and #47
+LOCATION:2000 Main Street\, Huntington Beach\, CA
+DESCRIPTION:Join the Resistance Attend a Protest Rally against Musk and #4
+ 7. Bring your signs and friends. Plenty of Parking in City Hall lot.\n\nHu
+ ntington Beach City Hall
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=2000+Main+St
+ reet%2C+Huntington+Beach%2C+CA&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

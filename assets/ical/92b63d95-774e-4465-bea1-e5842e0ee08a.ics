@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:fc3f280b-f798-42fa-a1ee-8bda887042eb
+SEQUENCE:0
+DTSTAMP:20250310T021352Z
+DTSTART:20250311T120000
+DTEND:20250311T160000
+SUMMARY:Truth Tuesdays: 94 Years of Lies!
+LOCATION:1211 6th Ave.\, NYC (48th St.)\, New York City\, NY
+DESCRIPTION:Join the protest outside Fox News headquarters on Rupert Murdo
+ ch's 94th birthday to expose four decades of lies and misinformation.\n\nF
+ OX LIES Headquarters
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=1211+6th+Ave
+ .%2C+NYC+%2848th+St.%29%2C+New+York+City%2C+NY&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:d6e8c7a2-9f12-4096-925d-36bc4a32c537
+SEQUENCE:0
+DTSTAMP:20250310T021352Z
+DTSTART:20250310T110000
+DTEND:20250310T150000
+SUMMARY:Stop Trump's Attack on the EPA and Our Climate!
+LOCATION:US District Court\, 333 West Broadway\, San Diego\, CA 92101
+DESCRIPTION:Join us for a march and rally. For more information: [QR Code]
+ \n\nUS District Court\, 333 West Broadway\, San Diego\, CA 92101
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=US+District+
+ Court%2C+333+West+Broadway%2C+San+Diego%2C+CA+92101&zoom=15&basemap=roadma
+ p
+END:VEVENT
+END:VCALENDAR

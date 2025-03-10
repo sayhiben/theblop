@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:278cab1d-ab91-48f4-8ed7-3ddfd7168b9a
+SEQUENCE:0
+DTSTAMP:20250310T021352Z
+DTSTART:20250317T090000
+DTEND:20250317T130000
+SUMMARY:2025 LGBTQ+ Lobby Day
+LOCATION:131 West State Street\, Trenton\, NJ
+DESCRIPTION:Join us to lobby for the rights and protections of our communi
+ ty at the New Jersey Statehouse Annex.\n\nNew Jersey Statehouse Annex
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=131+West+Sta
+ te+Street%2C+Trenton%2C+NJ&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

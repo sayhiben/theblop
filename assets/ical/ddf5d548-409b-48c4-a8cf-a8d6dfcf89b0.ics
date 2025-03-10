@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:d8e2fce2-eae2-4284-ba3c-3eeb7ddf0e21
+SEQUENCE:0
+DTSTAMP:20250310T021352Z
+DTSTART:20250314T120000
+DTEND:20250314T160000
+SUMMARY:Veterans Stand Out
+LOCATION:Hyannis Airport Rotary\, Hyannis\, MA
+DESCRIPTION:I will support and defend the Constitution of the United State
+ s against all enemies foreign and domestic\; that I will bear true faith a
+ nd allegiance to the same. Project 2025 will decimate programs veterans re
+ ly on and has already eliminated vital lifelines (Veterans Crisis Line). O
+ ur Vets deserve nothing but the best from this country\, NOT this betrayal
+ .\n\nNOON
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Hyannis+Airp
+ ort+Rotary%2C+Hyannis%2C+MA&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:a814998c-cc3c-489b-8083-232c5bd0951e
+SEQUENCE:0
+DTSTAMP:20250310T021352Z
+DTSTART:20250312T170000
+DTEND:20250312T210000
+SUMMARY:Rally to Protect the Civil Service
+LOCATION:Courthouse Newport City Hall\, Corvallis\, OR
+DESCRIPTION:Support Federal Workers\, Protect Vital Research and Services\
+ , End the Funding Freeze\, Reinstatement of Unfairly Fired Workers\, No Ma
+ ss Layoffs\, No Censoring Science\n\nNewport City Hall
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Courthouse+N
+ ewport+City+Hall%2C+Corvallis%2C+OR&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

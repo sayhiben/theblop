@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:b1659c21-bc86-4b29-9d20-e01a7f7602c9
+SEQUENCE:0
+DTSTAMP:20250310T021352Z
+DTSTART:20250315T120000
+DTEND:20250315T160000
+SUMMARY:The Prides of March
+LOCATION:Capital Square\, Richmond\, VA
+DESCRIPTION:Join us as we stand with our trans community and demand more f
+ rom our representatives!\n\nCapital Square\, Richmond\, VA
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Capital+Squa
+ re%2C+Richmond%2C+VA&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

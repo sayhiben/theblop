@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:a53e5d2b-c0fc-471b-8bc8-54ea93e5be6f
+SEQUENCE:0
+DTSTAMP:20250310T021352Z
+DTSTART:20250310T154500
+DTEND:20250310T194500
+SUMMARY:Musk or Us: Peaceful Protest in front of PDX Tesla
+LOCATION:4330 S Macadam Ave\, Portland\, OR
+DESCRIPTION:\n\nPortland\, OR 97239
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=4330+S+Macad
+ am+Ave%2C+Portland%2C+OR&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

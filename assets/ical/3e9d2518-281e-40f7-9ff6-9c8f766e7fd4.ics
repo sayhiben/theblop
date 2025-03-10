@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:d299d2cd-e145-4909-8a02-1adc11dbcf04
+SEQUENCE:0
+DTSTAMP:20250310T021352Z
+DTSTART:20250315T120000
+DTEND:20250315T160000
+SUMMARY:50 Protests\, 50 States\, 1 Movement
+LOCATION:Piatt Park\, 100 Garfield Pl\, Cincinnati\, OH
+DESCRIPTION:\n\nCincinnati\, OH
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Piatt+Park%2
+ C+100+Garfield+Pl%2C+Cincinnati%2C+OH&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

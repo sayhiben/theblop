@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:b8c7b311-6c52-4ca8-8741-f5da1efd7926
+SEQUENCE:0
+DTSTAMP:20250310T021352Z
+DTSTART:20250315T150000
+DTEND:20250315T190000
+SUMMARY:50 Protests\, 50 States\, 1 Movement
+LOCATION:Willard Park\, 'Free Stamp' 601 Lakeside Ave\, Cleveland\, OH
+DESCRIPTION:\n\nWillard Park\, Free Stamp
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Willard+Park
+ %2C+%27Free+Stamp%27+601+Lakeside+Ave%2C+Cleveland%2C+OH&zoom=15&basemap=r
+ oadmap
+END:VEVENT
+END:VCALENDAR

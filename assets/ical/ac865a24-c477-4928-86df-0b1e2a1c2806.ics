@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:33c85217-4e59-48b0-9cfb-484520c7e740
+SEQUENCE:0
+DTSTAMP:20250310T021352Z
+DTSTART:20250310T090000
+DTEND:20250310T130000
+SUMMARY:Rally for Workers with the CFPB Union
+LOCATION:333 Constitution Ave. NW\, Washington\, DC
+DESCRIPTION:Join us to defend the Consumer Financial Protection Bureau whi
+ le they fight in federal court to stop Musk\, DOGE and Vought's illegal at
+ tempts to destroy it. Wear red to show your support!\n\nGeorge Gordon Mead
+ e Memorial
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=333+Constitu
+ tion+Ave.+NW%2C+Washington%2C+DC&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR
