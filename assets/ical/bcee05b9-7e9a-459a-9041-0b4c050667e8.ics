@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:2692f97e-9917-4334-a18e-9d2c8a74d55e
+SEQUENCE:0
+DTSTAMP:20250310T180824Z
+DTSTART:20250310T180000
+DTEND:20250310T220000
+SUMMARY:March Against Trumpism
+LOCATION:89 Jefferson Blvd\, Rhode Island\, RI
+DESCRIPTION:Join us to make clear that fascism is not welcome here and tha
+ t we will resist Trump's immoral agenda.\n\nWarwick\, RI 02888
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=89+Jefferson
+ +Blvd%2C+Rhode+Island%2C+RI&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

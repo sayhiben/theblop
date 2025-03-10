@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:c4d58d9d-50fa-46ea-87ac-9b85f7edb7f1
+SEQUENCE:0
+DTSTAMP:20250310T180824Z
+DTSTART:20250315T110000
+DTEND:20250315T150000
+SUMMARY:Indivisible North Coast Oregon Community Meeting
+LOCATION:Grace Episcopal Church parish hall\, 1545 Franklin Avenue\, Astor
+ ia\, OR
+DESCRIPTION:A meeting to discuss how INCO can respond effectively to the A
+ merican House on Fire\; How INCO can best serve you and the rest of our de
+ mocracy community\; COIN legislation: what bills need our comments\; Wheth
+ er you are 'activist curious' or a longtime follower of politics or somewh
+ ere in-between....\n\nOn-street parking only
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Grace+Episco
+ pal+Church+parish+hall%2C+1545+Franklin+Avenue%2C+Astoria%2C+OR&zoom=15&ba
+ semap=roadmap
+END:VEVENT
+END:VCALENDAR

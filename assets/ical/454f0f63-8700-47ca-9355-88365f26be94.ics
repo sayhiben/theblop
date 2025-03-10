@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:b3434160-2da9-4f83-a66c-6256767675d1
+SEQUENCE:0
+DTSTAMP:20250310T180824Z
+DTSTART:20250315T110000
+DTEND:20250315T150000
+SUMMARY:Elon Musk & Doge Protest
+LOCATION:1600 Pacific Highway\, San Diego\, CA
+DESCRIPTION:Join us to make clear that fascism is not welcome here and tha
+ t we will resist Trump's immoral agenda.\n\nSchaper Park\, Golden Valley
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=1600+Pacific
+ +Highway%2C+San+Diego%2C+CA&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

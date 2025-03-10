@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:fa5be358-3b37-42c0-a52d-869fa543e887
+SEQUENCE:0
+DTSTAMP:20250310T180824Z
+DTSTART:20250315T130000
+DTEND:20250315T170000
+SUMMARY:Protest
+LOCATION:10th St & Argonne Ave\, Atlanta\, GA
+DESCRIPTION:Join us to protest at Piedmont Park. Bring signs\, drums\, meg
+ aphones. We need to fight back. Plus it's a fun time.\n\nPiedmont Park
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=10th+St+%26+
+ Argonne+Ave%2C+Atlanta%2C+GA&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

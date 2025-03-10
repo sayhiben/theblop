@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:79df216e-63a7-4cc8-9a7b-14b6d77d2314
+SEQUENCE:0
+DTSTAMP:20250310T180824Z
+DTSTART:20250310T110000
+DTEND:20250310T150000
+SUMMARY:A Call To Defend Democracy
+LOCATION:Centralia College at the center of the Esplanade - Ward Plaza Are
+ a
+DESCRIPTION:Join us to protect immigrants and protest Trump's policies and
+  Elon Musk\n\nEsplanade - Ward Plaza Area
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Centralia+Co
+ llege+at+the+center+of+the+Esplanade+-+Ward+Plaza+Area&zoom=15&basemap=roa
+ dmap
+END:VEVENT
+END:VCALENDAR

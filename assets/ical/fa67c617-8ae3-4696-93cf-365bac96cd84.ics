@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:6778922a-8776-405d-8da0-503325b370e6
+SEQUENCE:0
+DTSTAMP:20250310T180824Z
+DTSTART:20250310T120000
+DTEND:20250310T160000
+SUMMARY:Sell Your Teslas\, Dump Your Stocks\, Join the Picket!
+LOCATION:2919 29th St SE\, Grand Rapids\, Grand Rapids\, MI
+DESCRIPTION:Join us to make clear that fascism is not welcome here and tha
+ t we will resist Trump's immoral agenda.\n\nTesla Showroom Grand Rapids
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=2919+29th+St
+ +SE%2C+Grand+Rapids%2C+Grand+Rapids%2C+MI&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR
