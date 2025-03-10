@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:92dc4934-592c-4ce9-a65f-bd492684abc3
+SEQUENCE:0
+DTSTAMP:20250310T060757Z
+DTSTART:20250311T120000
+DTEND:20250311T160000
+SUMMARY:Action at Delaney Hall: SAY NO to ICE & Private Prisons in Newark!
+LOCATION:Delaney Hall\, 451 Doremus Ave\, Newark\, NJ 07105
+DESCRIPTION:Join New Jersey families to say: FUERA ICE!\n\nDelaney Hall
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Delaney+Hall
+ %2C+451+Doremus+Ave%2C+Newark%2C+NJ+07105&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

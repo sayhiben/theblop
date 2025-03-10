@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:b084adf0-627b-4bfd-887d-611aae66d4b6
+SEQUENCE:0
+DTSTAMP:20250310T060757Z
+DTSTART:20250313T160000
+DTEND:20250313T200000
+SUMMARY:Protest Thursday March 13 @4pm
+LOCATION:1001 Tilton Road\, Northfield\, NJ
+DESCRIPTION:Voted to Gut Medicaid. This is Representative Jefferson Van Dr
+ ew (NJ-2). He just voted to take away your Medicaid.\n\nOffice of Rep Jeff
+ erson Van Drew
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=1001+Tilton+
+ Road%2C+Northfield%2C+NJ&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR
