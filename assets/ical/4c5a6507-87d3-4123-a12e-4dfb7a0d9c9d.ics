@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:967977c1-7470-47d7-bcb0-1a725a564b58
+SEQUENCE:0
+DTSTAMP:20250310T121109Z
+DTSTART:20250310T160000
+DTEND:20250310T200000
+SUMMARY:Emergency Mobilization: Release Mahmoud Khalil
+LOCATION:26 Federal Plaza\, NYC\, New York City\, NY
+DESCRIPTION:Join us to make clear that fascism is not welcome here and tha
+ t we will resist Trump's immoral agenda.\n\nJacob K. Javits Federal Buildi
+ ng
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=26+Federal+P
+ laza%2C+NYC%2C+New+York+City%2C+NY&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

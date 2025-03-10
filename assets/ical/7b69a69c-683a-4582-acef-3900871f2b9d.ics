@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:e10df6ff-2126-4c61-9ac8-9cb34a872f65
+SEQUENCE:0
+DTSTAMP:20250310T121109Z
+DTSTART:20250315T120000
+DTEND:20250315T160000
+SUMMARY:Tesla Protest
+LOCATION:1018 E 20th St.\, Upland\, CA 91784\, Tesla\, Upland\, CA
+DESCRIPTION:\n\n1018 E 20th St.\, Upland\, CA 91784
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=1018+E+20th+
+ St.%2C+Upland%2C+CA+91784%2C+Tesla%2C+Upland%2C+CA&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

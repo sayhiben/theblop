@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:4db55fae-a5f8-4601-bb90-83bc160bc157
+SEQUENCE:0
+DTSTAMP:20250310T121109Z
+DTSTART:20250316T120000
+DTEND:20250316T160000
+SUMMARY:Project 2025 - a dangerous blueprint for authoritarian rule
+LOCATION:214 Massachusetts Ave NE\, Washington\, DC\, DC
+DESCRIPTION:On March 16\, 2025\, Americans will gather in front of the Her
+ itage Foundation’s Washington\, DC office to protest Project 2025 - a da
+ ngerous blueprint for authoritarian rule drafted by the very architects of
+  Trump’s MAGA movement.\n\nHeritage Foundation
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=214+Massachu
+ setts+Ave+NE%2C+Washington%2C+DC%2C+DC&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

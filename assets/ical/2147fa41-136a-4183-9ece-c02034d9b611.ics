@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:5b00b673-44ec-46ae-9abe-6800621bac1e
+SEQUENCE:0
+DTSTAMP:20250310T121109Z
+DTSTART:20250317T120000
+DTEND:20250317T160000
+SUMMARY:Revenue Day of Action
+LOCATION:17th at 12pm\, Olympia\, WA
+DESCRIPTION:Rally at the Capitol for a fair tax code!\n\nCapitol
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=17th+at+12pm
+ %2C+Olympia%2C+WA&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR
