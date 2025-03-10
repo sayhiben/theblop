@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:16c25e9e-9208-4047-8bb3-dbde918923e4
+SEQUENCE:0
+DTSTAMP:20250310T002409Z
+DTSTART:20250314T143000
+DTEND:20250314T183000
+SUMMARY:Friday Protest!
+LOCATION:200 E Liberty St\, Ann Arbor\, MI 48104-2129\, United States
+DESCRIPTION:A public event by AACAW [Ann Arbor Coalition Against War] on F
+ riday\, March 14th from 2:30 PM to 5:30 PM PDT.\n\n200 E Liberty St\, Ann 
+ Arbor\, MI 48104-2129\, United States
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=200+E+Libert
+ y+St%2C+Ann+Arbor%2C+MI+48104-2129%2C+United+States&zoom=15&basemap=roadma
+ p
+END:VEVENT
+END:VCALENDAR

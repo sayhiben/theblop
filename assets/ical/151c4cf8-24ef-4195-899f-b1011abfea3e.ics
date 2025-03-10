@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:9e49eb15-653c-4c45-8a83-83179be4b32f
+SEQUENCE:0
+DTSTAMP:20250310T002409Z
+DTSTART:20250312T113000
+DTEND:20250312T153000
+SUMMARY:Rally in Support of the Rule of Law
+LOCATION:3470 Twelfth Street\, Riverside\, CA
+DESCRIPTION:A non-partisan demonstration of support for the rule of law an
+ d those who pursue and apply this fundamental democratic principle.\n\nOut
+ side George Brown Federal Building and Courthouse
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=3470+Twelfth
+ +Street%2C+Riverside%2C+CA&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

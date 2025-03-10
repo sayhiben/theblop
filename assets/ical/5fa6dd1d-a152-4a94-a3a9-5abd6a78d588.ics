@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:8cf25bb5-6644-4030-8f61-2e18e934a6bf
+SEQUENCE:0
+DTSTAMP:20250310T002409Z
+DTSTART:20250405T100000
+DTEND:20250405T140000
+SUMMARY:National Day of Protest DeLand
+LOCATION:New York Ave & Woodland Blvd\, Deland\, FL
+DESCRIPTION:Remove corrupt politicians from office. Reverse the damage. Re
+ claim our democracy.\n\n50 New York Ave & 50 Woodland Blvd
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=New+York+Ave
+ +%26+Woodland+Blvd%2C+Deland%2C+FL&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

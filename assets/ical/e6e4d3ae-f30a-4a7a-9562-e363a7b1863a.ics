@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:d5643a55-ea89-4ae0-b856-b62e88a54975
+SEQUENCE:0
+DTSTAMP:20250310T002409Z
+DTSTART:20250315T120000
+DTEND:20250315T160000
+SUMMARY:Prides of March Rally for Democracy
+LOCATION:Boston Common Parade Ground (Corner of Beacon & Charles St)\, Bos
+ ton\, MA
+DESCRIPTION:Uphold the Constitution\, Limit Executive Overreach\, Hold Gov
+ ernment Accountable. Fly your flags Show your pride!\n\nBoston Common Para
+ de Ground (Corner of Beacon & Charles St)
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Boston+Commo
+ n+Parade+Ground+%28Corner+of+Beacon+%26+Charles+St%29%2C+Boston%2C+MA&zoom
+ =15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

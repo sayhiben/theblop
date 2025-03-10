@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:e6385b3c-38eb-48a5-af67-3cfb9dba0d04
+SEQUENCE:0
+DTSTAMP:20250310T002409Z
+DTSTART:20250312T120000
+DTEND:20250312T160000
+SUMMARY:Rally to Save Alaska's Health Care
+LOCATION:Capitol Steps\, Anchorage\, AK
+DESCRIPTION:A rally advocating for the protection of Medicaid and healthca
+ re services in Alaska\, scheduled from noon to 12:45 PM at Capitol Steps.\
+ n\nAlaska State Capitol
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Capitol+Step
+ s%2C+Anchorage%2C+AK&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

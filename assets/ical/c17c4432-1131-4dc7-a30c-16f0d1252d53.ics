@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:7d7d58f8-0e26-4cff-90a7-6a20d713a25a
+SEQUENCE:0
+DTSTAMP:20250310T002409Z
+DTSTART:20250314T120000
+DTEND:20250314T160000
+SUMMARY:March to Protect the VA
+LOCATION:201 West Capitol Avenue Jefferson City\, MO 65101
+DESCRIPTION:The Department of Veterans Affairs is facing a potential Reduc
+ tion In Force of up to 80\,000 nurses\, doctors\, and support staff. The V
+ A already faces staffing shortfalls. Further Reduction In Force will make 
+ our critically understaffed system even more ineffective.\n\n201 West Capi
+ tol Avenue Jefferson City\, MO 65101
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=201+West+Cap
+ itol+Avenue+Jefferson+City%2C+MO+65101&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

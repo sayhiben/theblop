@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:c96e4879-386a-4999-b816-338e7c1dfaee
+SEQUENCE:0
+DTSTAMP:20250310T002409Z
+DTSTART:20250313T190000
+DTEND:20250313T230000
+SUMMARY:WHAT IS TO BE DONE
+LOCATION:40 Maple St.\, Summit\, San Diego\, CA
+DESCRIPTION:Trump and Musk are pursuing a radical plan to dismantle public
+  services in America while abandoning our allies abroad. Congressman Tom K
+ ean refuses to hear his constituents' concerns about this\, remaining invi
+ sible in both Washington and his district.\n\nSummit Elks Lodge
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=40+Maple+St.
+ %2C+Summit%2C+San+Diego%2C+CA&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

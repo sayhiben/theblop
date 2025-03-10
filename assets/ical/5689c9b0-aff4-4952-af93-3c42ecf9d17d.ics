@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:8413ffe9-53f8-4ca3-90d2-d2483f137c76
+SEQUENCE:0
+DTSTAMP:20250310T002409Z
+DTSTART:20250323T070000
+DTEND:20250323T110000
+SUMMARY:Chalk art protest
+LOCATION:221 Palafox Pl\, Pensacola\, FL 32502
+DESCRIPTION:Public • Event by\n\nEscambia County Commissioners Office
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=221+Palafox+
+ Pl%2C+Pensacola%2C+FL+32502&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

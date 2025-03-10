@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:09168fe5-95d3-4e73-a258-e8ae78fa896b
+SEQUENCE:0
+DTSTAMP:20250310T002409Z
+DTSTART:20250314T120000
+DTEND:20250314T160000
+SUMMARY:Veterans March
+LOCATION:510 L Street\, Anchorage\, AK
+DESCRIPTION:I will support and defend the Constitution of the United State
+ s against all enemies foreign and domestic\; that I will bear true faith a
+ nd allegiance to the same.\n\nAnchorage\, AK
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=510+L+Street
+ %2C+Anchorage%2C+AK&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

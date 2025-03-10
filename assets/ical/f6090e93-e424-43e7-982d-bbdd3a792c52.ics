@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:aba40489-78e6-440e-a91d-4e7cb8588e27
+SEQUENCE:0
+DTSTAMP:20250310T002409Z
+DTSTART:20250405T120000
+DTEND:20250405T160000
+SUMMARY:We the People March & Rally
+LOCATION:Cal Anderson Park\, Seattle\, WA
+DESCRIPTION:Supporting Democracy Diversity and Equality\n\nSeattle\, WA
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Cal+Anderson
+ +Park%2C+Seattle%2C+WA&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:ce8568e6-9023-4171-a291-81023de00fa4
+SEQUENCE:0
+DTSTAMP:20250310T002408Z
+DTSTART:20250310T100000
+DTEND:20250310T140000
+SUMMARY:Monday Protest Rally
+LOCATION:Monument Square\, Racine\, WI
+DESCRIPTION:Join us Monday at noon on Racine's Monument Square. Bring a sa
+ ssy sign and dress warmly!\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Monument+Squ
+ are%2C+Racine%2C+WI&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

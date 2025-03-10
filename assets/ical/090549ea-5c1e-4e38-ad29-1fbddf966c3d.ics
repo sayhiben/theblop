@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:dec79106-46db-40af-acf4-5f0be88964a8
+SEQUENCE:0
+DTSTAMP:20250310T002409Z
+DTSTART:20250405T120000
+DTEND:20250405T160000
+SUMMARY:National Day of Protest
+LOCATION:Utah State Capitol\, Salt Lake City\, UT
+DESCRIPTION:Join us to remove reverse reclaim and reclaim our rights\, fre
+ edom\, democracy\, and justice for all.\n\nUtah State Capitol
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Utah+State+C
+ apitol%2C+Salt+Lake+City%2C+UT&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

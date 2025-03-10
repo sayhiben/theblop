@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:d80f50a2-4b31-4122-bd7a-b12ed1b21f7f
+SEQUENCE:0
+DTSTAMP:20250310T002409Z
+DTSTART:20250323T130000
+DTEND:20250323T170000
+SUMMARY:ALL OUT FOR MARCH 23 RALLY!
+LOCATION:Boston Common\, Boston\, MA
+DESCRIPTION:Fight for a strong contract NO to privatization!\n\nBoston\, M
+ A
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Boston+Commo
+ n%2C+Boston%2C+MA&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

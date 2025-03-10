@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:b331f3cd-21e4-49c4-ac41-0d7de068dce9
+SEQUENCE:0
+DTSTAMP:20250310T002409Z
+DTSTART:20250311T170000
+DTEND:20250311T210000
+SUMMARY:Port Townsend Indivisible Meets
+LOCATION:Arts Building\, Jefferson County Fairgrounds Port Townsend\, Port
+  Townsend\, WA
+DESCRIPTION:How Will the MAGA Cuts Affect Us? Team Reports and Team Meet-u
+ ps Social Time and Refreshments Everybody’s Welcome!\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Arts+Buildin
+ g%2C+Jefferson+County+Fairgrounds+Port+Townsend%2C+Port+Townsend%2C+WA&zoo
+ m=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR
