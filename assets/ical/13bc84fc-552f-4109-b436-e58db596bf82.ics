@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:300c934c-10ee-40df-97ee-b1f19f7c5a64
+SEQUENCE:0
+DTSTAMP:20250311T031043Z
+DTSTART:20250315T130000
+DTEND:20250315T170000
+SUMMARY:Peaceful Immigration Protest
+LOCATION:Corner of Monument Blvd & Meadow Ln\, Concord\, CA
+DESCRIPTION:Join us for a peaceful protest to amplify our voices for immig
+ rant rights and legalization. We stand together to ensure our voices are h
+ eard.\n\nCorner of Monument Blvd & Meadow Ln
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Corner+of+Mo
+ nument+Blvd+%26+Meadow+Ln%2C+Concord%2C+CA&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

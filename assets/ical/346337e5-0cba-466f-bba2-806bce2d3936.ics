@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:c5382a9a-05e7-4567-8bf1-e5f249ddeaaf
+SEQUENCE:0
+DTSTAMP:20250311T031043Z
+DTSTART:20250314T160000
+DTEND:20250314T200000
+SUMMARY:Winnebago GOP\, Listen to Us! Protest
+LOCATION:On the corner of W 20th St and W South Park\, in front of the Osh
+ kosh Goodwill
+DESCRIPTION:Peaceful Patriots is organizing a protest against the Winnebag
+ o County GOP Lincoln Day Dinner on March 14\, from 4:00 PM to 6:00 PM. Joi
+ n us with flags and signs to show that we will not be silent.\n\nOn the pu
+ blic sidewalk
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=On+the+corne
+ r+of+W+20th+St+and+W+South+Park%2C+in+front+of+the+Oshkosh+Goodwill&zoom=1
+ 5&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:7620c23b-ef10-4868-9c82-203d0762ad15
+SEQUENCE:0
+DTSTAMP:20250311T031043Z
+DTSTART:20250318T140000
+DTEND:20250318T180000
+SUMMARY:Anti-Nazi Protest
+LOCATION:Theiss Rd above HW 270\, Affton\, MO
+DESCRIPTION:In response to supremacists popping up in Affton and tagging o
+ ne of our local schools\, we decided to hold an anti-Nazi protest. Come to
+  show support to our local schools and share just how much we disapprove o
+ f Nazis. We plan to get loud with this one so please share this for the nu
+ mbers. They need to see just how many people hate Nazis.\n\nTheiss Rd abov
+ e HW 270
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Theiss+Rd+ab
+ ove+HW+270%2C+Affton%2C+MO&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR
