@@ -1,5 +1,5 @@
 /***************************************************
- * Google Apps Script - Updated per your feedback
+ * Google Apps Script - With Batching in processImagesViaApi()
  ***************************************************/
 
 /**
@@ -9,6 +9,7 @@
  * - DRIVE_FOLDER_ID
  * - RUNPOD_ENDPOINT_URL
  * - RUNPOD_API_KEY
+ * - OCR_WORKFLOW
  */
 const scriptProperties = PropertiesService.getScriptProperties();
 const INBOX_SPREADSHEET_ID = scriptProperties.getProperty('INBOX_SPREADSHEET_ID');
@@ -16,6 +17,7 @@ const PROCESSED_SPREADSHEET_ID = scriptProperties.getProperty('PROCESSED_SPREADS
 const DRIVE_FOLDER_ID = scriptProperties.getProperty('DRIVE_FOLDER_ID');
 const RUNPOD_ENDPOINT_URL = scriptProperties.getProperty('RUNPOD_ENDPOINT_URL');
 const RUNPOD_API_KEY = scriptProperties.getProperty('RUNPOD_API_KEY');
+const OCR_WORKFLOW = scriptProperties.getProperty('OCR_WORKFLOW') || 'runpod'; // "runpod" or "api"
 
 // Names of the sheets
 const RAW_DATA_SHEET_NAME = 'RawData';
@@ -83,7 +85,9 @@ const PROCESSED_DATA_HEADERS = [
   'Image URL',
   'Image Source',
   'Extracted Text',
-  'Canonical UUID'
+  'Canonical UUID',
+  'RawText',
+  'RawSummary'
 ];
 
 /**
@@ -310,6 +314,136 @@ function processEmails() {
   });
 
   Logger.log('Completed processEmails().');
+}
+
+
+// ---------------------------------------------------------------------
+// 5) Switchable OCR process => "runpod" or "api"
+// ---------------------------------------------------------------------
+
+/**
+ * This is now your main entry point for OCR processing.
+ * Instead of calling launchRunPodJobs() directly, 
+ * set a time-based trigger or manual button to call processImages().
+ */
+function processImages() {
+  Logger.log('processImages() checking OCR_WORKFLOW=' + OCR_WORKFLOW);
+  if (OCR_WORKFLOW === 'runpod') {
+    launchRunPodJobs();
+  } else {
+    processImagesViaApi();
+  }
+}
+
+/**
+ * Batching-based OCR:
+ *   - Processes up to 15 images across all unprocessed rows.
+ *   - If more remain, automatically re-triggers itself in N minutes.
+ */
+function processImagesViaApi() {
+  Logger.log('Starting processImagesViaApi()...');
+
+  // Remove any existing one-time triggers for this function
+  removeTriggersForFunction('processImagesViaApi');
+
+  const MAX_IMAGES_PER_RUN = 5;
+  const BATCH_INTERVAL_MINS = 3;
+  let imagesProcessed = 0;
+  let totalUnprocessed = 0;
+
+  const inboxSS = SpreadsheetApp.openById(INBOX_SPREADSHEET_ID);
+  const rawDataSheet = inboxSS.getSheetByName(RAW_DATA_SHEET_NAME);
+  const vals = rawDataSheet.getDataRange().getValues();
+  const map = getHeaderMap(rawDataSheet);
+
+  const processedCol = map["Processed"];
+  const uuidCol = map["UUID"];
+  const imageIdCol = map["Image Id"];
+
+  // Loop through all rows in RawData
+  for (let i = 1; i < vals.length; i++) {
+    const row = vals[i];
+    let processedFlag = String(row[processedCol]).toLowerCase();
+
+    // Skip if already processed or failed
+    if (processedFlag !== 'false') {
+      continue;
+    }
+
+    totalUnprocessed++;  // we found an unprocessed row
+    if (imagesProcessed >= MAX_IMAGES_PER_RUN) {
+      // We already hit our limit; don't process this row
+      continue;
+    }
+
+    const submissionId = row[uuidCol];
+    const imageId = row[imageIdCol];
+
+    if (!submissionId || !imageId) {
+      // Edge case: if there's no valid data, just skip it
+      continue;
+    }
+
+    // Attempt API-based OCR
+    try {
+      Logger.log(`API-mode OCR for subId=${submissionId}, imageId=${imageId}`);
+      
+      // 1) The function from inference.gs that returns JSON
+      let localResult = analyzeFlyerByGdriveId(imageId);
+
+      // 2) Convert the returned JSON into the format finalizeJobResults() expects
+      const jobData = [{
+        submissionId: submissionId,
+        answer: JSON.stringify(localResult)
+      }];
+
+      // 3) finalizeJobResults needs a "submissionsStr" referencing the submissionId
+      const submissionsStr = JSON.stringify([{ submissionId: submissionId }]);
+
+      // 4) Reuse the existing finalize function
+      finalizeJobResults(jobData, submissionsStr);
+
+      // If finalize succeeded, mark this row as processed
+      markRowProcessed(rawDataSheet, i + 1);
+
+    } catch (err) {
+      Logger.log(`API-mode OCR failure for subId=${submissionId}, imageId=${imageId} => ` + err);
+      // Mark entire row as failed
+      markRowFailed(rawDataSheet, i + 1);
+    }
+
+    imagesProcessed++;
+  }
+
+  // If we processed 15 images but more remain, schedule another run in 3 minutes
+  if (imagesProcessed >= MAX_IMAGES_PER_RUN && totalUnprocessed > imagesProcessed) {
+    Logger.log(`Reached the ${MAX_IMAGES_PER_RUN}-image limit. Scheduling next batch in ${BATCH_INTERVAL_MINS} minutes...`);
+    createOneTimeTrigger('processImagesViaApi', BATCH_INTERVAL_MINS);
+  } else {
+    Logger.log('No further unprocessed images require batching at this time.');
+  }
+
+  Logger.log('processImagesViaApi() done.');
+}
+
+/**
+ * Helper: Mark row as 'processed' (i.e. set "Processed" = true).
+ */
+function markRowProcessed(sheet, rowIndex) {
+  if (rowIndex < 2) return;
+  const map = getHeaderMap(sheet);
+  let pCol = map["Processed"];
+  sheet.getRange(rowIndex, pCol + 1).setValue('true');
+}
+
+/**
+ * Helper: Mark row as 'failed' (i.e. set "Processed" = failed).
+ */
+function markRowFailed(sheet, rowIndex) {
+  if (rowIndex < 2) return;
+  const map = getHeaderMap(sheet);
+  let pCol = map["Processed"];
+  sheet.getRange(rowIndex, pCol + 1).setValue('failed');
 }
 
 // ---------------------------------------------------------------------
@@ -549,21 +683,19 @@ function extractStartTime(datetimeStr) {
     if (firstHour === 12) {
       period = "pm";
     } else if (secondHour !== null) {
-      // If the first hour is greater than or equal to the second hour,
-      // assume the first time is in the AM (e.g. "11 - 2pm" → 11 AM);
-      // otherwise, inherit the period from the second time.
+      // If the first hour is >= the second, assume the first is AM (e.g. "11 - 2pm").
       period = firstHour >= secondHour ? "am" : second.period.toLowerCase();
     } else {
       period = second.period.toLowerCase();
     }
   }
   
-  // If still missing a period, default to AM (unless the hour is 12, which we assume means noon/PM).
+  // If still missing a period, default to AM (unless the hour is 12 => noon)
   if (!period) {
     period = parseInt(hour, 10) === 12 ? "pm" : "am";
   }
   
-  // Format and return the time in 12h format.
+  // Format
   return `${parseInt(hour, 10)}:${minute.padStart(2, '0')} ${period.toUpperCase()}`;
 }
 
@@ -571,11 +703,11 @@ function parseEventDatetime(rawDate, rawTime) {
   const dayjs = loadDayjs();
   
   // Clean up date for parsing
-  let dateStr = `${rawDate}`.trim().toLowerCase()
+  let dateStr = `${rawDate}`.trim().toLowerCase();
 
   // Clean up time for parsing
-  let timeStr = `${rawTime}`.trim().toLowerCase()
-  timeStr = extractStartTime(timeStr)
+  let timeStr = `${rawTime}`.trim().toLowerCase();
+  timeStr = extractStartTime(timeStr);
 
   // 1) Attempt parsing date/time together
   let dt = dayjs(`${dateStr}, ${timeStr}`);
@@ -584,24 +716,24 @@ function parseEventDatetime(rawDate, rawTime) {
     return {
       "date": dt.format("YYYY-MM-DD"),
       "time": dt.format("h:mm A")
-    }
+    };
   }
 
-  // 2) Try parsing date only, pass time through.
+  // 2) Try parsing date only, pass time through
   const time = timeStr.length > 0 ? timeStr : 'See Flyer';
-  const date = dayjs(dateStr)
+  const date = dayjs(dateStr);
   if (date.isValid()) {
     return {
       "date": date.format("YYYY-MM-DD"),
       "time": time,
-    }
+    };
   }
 
-  // Fallback: Pass both through
+  // Fallback: Pass both strings through
   return {
     "date": dateStr.length > 0 ? dateStr : 'See Flyer',
     "time": time
-  }
+  };
 }
 
 // ---------------------------------------------------------------------
@@ -628,12 +760,13 @@ function finalizeJobResults(jobData, submissionsStr) {
   let rowMap = {};
   for (let i = 1; i < rawVals.length; i++) {
     let rid = rawVals[i][uuidCol];
-    rowMap[String(rid)] = i + 1; // row index
+    rowMap[String(rid)] = i + 1; // row index (1-based)
   }
 
   let subs;
-  try { subs = JSON.parse(submissionsStr); }
-  catch (e) {
+  try {
+    subs = JSON.parse(submissionsStr);
+  } catch (e) {
     Logger.log('Cannot parse submissionsStr: ' + e);
     return;
   }
@@ -645,8 +778,10 @@ function finalizeJobResults(jobData, submissionsStr) {
       Logger.log(`No matching RawData row for subId=${subId}.`);
       return;
     }
-    // Mark raw row as processed
-    rawDataSheet.getRange(rowIdx, procCol + 1).setValue('true');
+
+    // Mark raw row as processed (only if we don't plan partial images).
+    // But in the batch approach we handle partial inside processImagesViaApi, so:
+    // rawDataSheet.getRange(rowIdx, procCol + 1).setValue('true');
 
     // parse AI answer
     let extracted = extractJsonFromText(item.answer || '');
@@ -656,18 +791,18 @@ function finalizeJobResults(jobData, submissionsStr) {
       return;
     }
 
-    // In the final sheet, we store the RawData.Date as "Received At"
+    // In the final sheet, store RawData.Date as "Received At"
     let receivedAt = rawVals[rowIdx - 1][dateCol] || '';
 
-    Logger.log(extracted)
+    Logger.log(extracted);
     const parsedDt = parseEventDatetime(extracted.date, extracted.time);
-    Logger.log(`Parsed Date: ${parsedDt.date}, Parsed Time: ${parsedDt.time}`)
+    Logger.log(`Parsed Date: ${parsedDt.date}, Parsed Time: ${parsedDt.time}`);
 
     let record = {
       "UUID": subId,
       "Received At": receivedAt,  // from RawData
-      "Date": parsedDt.date,            // event date
-      "Time": parsedDt.time,            // event time
+      "Date": parsedDt.date,      // event date
+      "Time": parsedDt.time,      // event time
       "Title": extracted.title || '',
       "Description": extracted.description || '',
       "City": extracted.city || '',
@@ -676,13 +811,16 @@ function finalizeJobResults(jobData, submissionsStr) {
       "Meeting Location": extracted.meeting_location || '',
       "Links": arrayOrString(extracted.links),
       "Sponsors": arrayOrString(extracted.sponsors),
-      "Image URL": '',     // We'll fill from raw data if needed
+      "Image URL": '',            // We'll fill from raw data if needed
       "Image Source": extracted.source || '',
       "Extracted Text": extracted.extracted_text || '',
-      "Canonical UUID": '' // blank by default
+      "Canonical UUID": '',       // blank by default
+      "RawText": extracted.raw_text || '',
+      "RawSummary": extracted.raw_summary || ''
     };
-    Logger.log(record)
+    Logger.log(record);
 
+    // Copy over the original "Image URL" from RawData, if any
     const imageUrlCol = rdMap["Image URL"];
     if (imageUrlCol != null) {
       let rawImageUrl = rawDataSheet.getRange(rowIdx, imageUrlCol + 1).getValue() || '';
@@ -707,8 +845,9 @@ function markRowFailed(sheet, rowIndex) {
 function markSubmissionsAsFailed(submissionsStr) {
   if (!submissionsStr) return;
   let subs;
-  try { subs = JSON.parse(submissionsStr); }
-  catch (e) {
+  try {
+    subs = JSON.parse(submissionsStr);
+  } catch (e) {
     Logger.log('Error in markSubmissionsAsFailed: ' + e);
     return;
   }
