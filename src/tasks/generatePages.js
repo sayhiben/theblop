@@ -24,12 +24,12 @@ export async function generatePages({ allEvents, futureEvents, indexHtmlPath, ev
   // Group futureEvents by date for the index:
   const grouped = groupEventsByDate(futureEvents);
 
-  // Sort date keys? We can rely on IndexPage to do it, or do it here.
-  // We'll let the component do it based on Object.keys() sort.
+  // Filter out events that have a canonical UUID (i.e. duplicates that should be "redirected")
+  const indexPageEvents = futureEvents.filter(e => !e['Canonical UUID'] || e.UUID === e['Canonical UUID'] || e['Canonical UUID'] === '');
 
   const indexHtml = renderToStaticMarkup(
     <IndexPage
-      futureEvents={futureEvents}
+      futureEvents={indexPageEvents}
       grouped={grouped}
       allStates={ALL_STATES}
     />
@@ -43,8 +43,14 @@ export async function generatePages({ allEvents, futureEvents, indexHtmlPath, ev
     const { UUID } = event;
     if (!UUID) continue;
 
+    // If the event has a canonical UUID, use that event's data instead
+    let canonicalEvent = allEvents.find(e => event['Canonical UUID'] && e.UUID === event['Canonical UUID']);
+    if (!canonicalEvent) {
+      canonicalEvent = event;
+    }
+
     const pageHtml = renderToStaticMarkup(
-      <EventPage eventData={event} />
+      <EventPage eventData={canonicalEvent} />
     );
 
     const outPath = path.join(eventsDir, `${UUID}.html`);
