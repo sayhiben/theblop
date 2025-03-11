@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:97b6fa7c-0958-417f-ad53-6e8e1b325ce1
+SEQUENCE:0
+DTSTAMP:20250311T180234Z
+DTSTART:20250316T173000
+DTEND:20250316T213000
+SUMMARY:Clackamas County Town Hall
+LOCATION:19600 Molalla Ave\, Oregon City\, OR
+DESCRIPTION:Join us for a Clackamas County Town Hall hosted by Senator Ron
+  Wyden and Congresswoman Janelle Bynum. This event opens dialogues on comm
+ unity issues and provides an opportunity to engage with your representativ
+ es.\n\nClackamas Community College\, Randall Hall Gym
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=19600+Molall
+ a+Ave%2C+Oregon+City%2C+OR&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

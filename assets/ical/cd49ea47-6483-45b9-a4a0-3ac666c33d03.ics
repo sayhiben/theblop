@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:00be4731-eb76-4343-9a2f-17372a682730
+SEQUENCE:0
+DTSTAMP:20250311T180234Z
+DTSTART:20250314T160000
+DTEND:20250314T200000
+SUMMARY:Veterans March
+LOCATION:Irvine City Hall\, Irvine\, CA
+DESCRIPTION:We welcome all veterans and supporters to join this peaceful p
+ rotest to defend democracy and oppose authoritarianism. Join us to show su
+ pport and defend the Constitution of the United States.\n\nIrvine City Hal
+ l
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Irvine+City+
+ Hall%2C+Irvine%2C+CA&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:04f89a44-fd2f-4b8d-9a15-6d4d126491e0
+SEQUENCE:0
+DTSTAMP:20250311T180234Z
+DTSTART:20250405T120000
+DTEND:20250405T160000
+SUMMARY:Remove Reverse Reclaim
+LOCATION:Empire State Plaza\, Albany\, NY
+DESCRIPTION:Join us as we remove corrupt politicians from office\, reverse
+  the damage\, and reclaim our democracy. Be part of a nationwide movement 
+ with 50 protests across all states.\n\nThe Egg
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Empire+State
+ +Plaza%2C+Albany%2C+NY&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR
