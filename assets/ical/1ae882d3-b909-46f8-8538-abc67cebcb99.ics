@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:f1a2e003-f62b-4c1c-a294-47badb2d1ba9
+SEQUENCE:0
+DTSTAMP:20250311T002602Z
+DTSTART:20250312T090000
+DTEND:20250312T130000
+SUMMARY:Hazel M. Johnson Ordinance: Support
+LOCATION:Outside City Hall\, North LaSalle Street Entrance\, Chicago\, IL
+DESCRIPTION:We are organizing a rally to support the Hazel M. Johnson Ordi
+ nance. Join us outside Chicago's City Hall to show your support and partic
+ ipate in various comment options\, including in-person\, virtual\, and wri
+ tten\, to influence the ordinance process.\n\nCity Hall\, West Washington 
+ Street
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Outside+City
+ +Hall%2C+North+LaSalle+Street+Entrance%2C+Chicago%2C+IL&zoom=15&basemap=ro
+ admap
+END:VEVENT
+END:VCALENDAR
