@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:e6a79b33-2ee8-459c-9782-e14bb0f3084f
+SEQUENCE:0
+DTSTAMP:20250311T090339Z
+DTSTART:20250405T130000
+DTEND:20250405T170000
+SUMMARY:Next 50 State Nationwide Protest
+LOCATION:Poplar & Highland\, Northeast Corner Green Space\, Memphis\, TN
+DESCRIPTION:Join the 50501 Movement in Memphis\, TN\, for a nationwide pro
+ test on April 5th. This event aims to bring people together across the sta
+ te. The gathering will take place at the northeast corner green space of P
+ oplar & Highland.\n\nNortheast Corner Green Space
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Poplar+%26+H
+ ighland%2C+Northeast+Corner+Green+Space%2C+Memphis%2C+TN&zoom=15&basemap=r
+ oadmap
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:c89af8ab-01dc-445a-afe1-d014aa1696e6
+SEQUENCE:0
+DTSTAMP:20250311T090339Z
+DTSTART:20250314T163000
+DTEND:20250314T203000
+SUMMARY:Sign Waving at the Granada Bridge - Democracy is Not a Spectator S
+ port
+LOCATION:\, Ormond Beach\, FL
+DESCRIPTION:We invite you to join us at the Granada Bridge for sign waving
+ . Democracy is a participatory event\, not a spectator sport. Let's make o
+ ur voices heard.\n\nGranada Bridge
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+Ormond+B
+ each%2C+FL&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

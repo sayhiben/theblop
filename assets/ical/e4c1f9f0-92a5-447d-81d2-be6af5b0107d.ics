@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:21c7ac91-54d4-4a07-809f-73911b2e480d
+SEQUENCE:0
+DTSTAMP:20250311T090339Z
+DTSTART:20250311T160000
+DTEND:20250311T200000
+SUMMARY:Gathering on Massachusetts Avenue
+LOCATION:Massachusetts Avenue\, Cambridge\, MA
+DESCRIPTION:We will assemble at the corner of Memorial Drive and Harvard B
+ ridge to walk back and forth on the bridge with our signs on the sidewalk 
+ during rush hour. Please bring signs.\n\nCorner of Memorial Drive and Harv
+ ard Bridge
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Massachusett
+ s+Avenue%2C+Cambridge%2C+MA&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

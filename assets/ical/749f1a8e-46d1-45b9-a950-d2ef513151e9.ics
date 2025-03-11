@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:a0ed2266-a172-49d7-b130-75366e035f83
+SEQUENCE:0
+DTSTAMP:20250311T090339Z
+DTSTART:20250314T120000
+DTEND:20250314T160000
+SUMMARY:General Strike @Washington State Capitol
+LOCATION:416 Sid Snyder Avenue Southwest\, Olympia\, WA
+DESCRIPTION:This grassroots movement is about uniting labor\, workers\, an
+ d the broader public to demand accountability\, disrupt the status quo\, a
+ nd reclaim what is rightfully ours. Together\, we must raise our voices\, 
+ take action\, and prove to those in power that their control over our live
+ s is not sustainable. Our collective strength\, our solidarity\, and our u
+ nwavering commitment to justice will drive this movement forward until we 
+ secure a future that works for all.\n\nWashington State Capitol
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=416+Sid+Snyd
+ er+Avenue+Southwest%2C+Olympia%2C+WA&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

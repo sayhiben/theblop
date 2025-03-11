@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:ae756f9f-1edc-463c-ae7e-83f893317d71
+SEQUENCE:0
+DTSTAMP:20250311T090339Z
+DTSTART:20250315T120000
+DTEND:20250315T160000
+SUMMARY:Halt the Machine
+LOCATION:Idaho State Capitol\, 700 West Jefferson Street\, Boise\, ID
+DESCRIPTION:Join us to "Remove\, Reverse\, Reclaim" as we stand against be
+ ing silent\, funding oligarchs\, and complying in advance. Organized by Ho
+ neyBadger85\, this political movement invites everyone to make their voice
+ s heard.\n\nIdaho State Capitol
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Idaho+State+
+ Capitol%2C+700+West+Jefferson+Street%2C+Boise%2C+ID&zoom=15&basemap=roadma
+ p
+END:VEVENT
+END:VCALENDAR

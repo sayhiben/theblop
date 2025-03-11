@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:9d211275-0735-406a-8812-aabc46a9f88c
+SEQUENCE:0
+DTSTAMP:20250311T090339Z
+DTSTART:20250313T080000
+DTEND:20250313T120000
+SUMMARY:Kirkland Banner Team at NE 70th Street & I-405 Overpass
+LOCATION:NE 70th Street & I-405\, Kirkland\, WA
+DESCRIPTION:We’re organizing a banner deployment in Kirkland to extend o
+ ur overpass bannering efforts. Join us in making a visible impact by volun
+ teering to handle additional banners at the NE 70th Street & I-405 Overpas
+ s. Be part of a wider network fostering political expression.\n\nNE 70th S
+ treet & I-405 Overpass
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=NE+70th+Stre
+ et+%26+I-405%2C+Kirkland%2C+WA&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

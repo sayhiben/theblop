@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:bd748103-2248-4086-aca3-0a153f2bc511
+SEQUENCE:0
+DTSTAMP:20250311T090339Z
+DTSTART:20250313T080000
+DTEND:20250313T120000
+SUMMARY:North Seattle Banner Team North 50th & I-5
+LOCATION:North 50th & I-5\, Seattle\, WA
+DESCRIPTION:Building on multiple successful banner actions\, Backbone is g
+ rowing our overpass bannering by adding people and locations. Volunteers a
+ re building additional banners to increase squads and locations for deploy
+ ment. Join us to deploy a banner in North Seattle this Thursday morning.\n
+ \nAt the North 50th Street and I-5 Overpass
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=North+50th+%
+ 26+I-5%2C+Seattle%2C+WA&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

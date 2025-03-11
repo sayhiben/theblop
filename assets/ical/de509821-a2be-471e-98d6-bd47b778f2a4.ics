@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:40b081a4-636d-410f-91f0-d7e9718a151a
+SEQUENCE:0
+DTSTAMP:20250311T090339Z
+DTSTART:20250314T173000
+DTEND:20250314T213000
+SUMMARY:Veterans for Democracy Rally
+LOCATION:Muriel Iverson Williams Waterfront Park\, 18809 Anderson Parkway\
+ , Poulsbo\, WA
+DESCRIPTION:Join us to peacefully support the rights and benefits of veter
+ ans and their families while upholding democracy at home. Uniforms welcome
+ ! #50501\n\nPoulsbo Waterfront Park
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Muriel+Ivers
+ on+Williams+Waterfront+Park%2C+18809+Anderson+Parkway%2C+Poulsbo%2C+WA&zoo
+ m=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

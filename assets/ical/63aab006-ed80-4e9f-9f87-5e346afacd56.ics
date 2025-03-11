@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:6a48328d-6162-4e07-b763-a509e1b22dc5
+SEQUENCE:0
+DTSTAMP:20250311T090339Z
+DTSTART:20250314T170000
+DTEND:20250314T210000
+SUMMARY:Ypsilanti 50501 Bridge Takeover
+LOCATION:Redwood Avenue pedestrian bridge\, BEHIND ACCE high school\, Ypsi
+ lanti\, MI
+DESCRIPTION:Protest For our Democracy. Bring a sign and your voice! We are
+  all in this together! Corruption Destroys - Community Builds! Remember Re
+ sistance is deeply American. Stand up for Ukraine! Fight the Trump-Musk Co
+ up! Millions of people in the streets have toppled other oligarchies. Nobo
+ dy can do it alone\, but marching together is our power. Let’s build a t
+ rue democracy where every human voice matters more than wealth. Let’s me
+ nd our country together. Let’s begin now. Reminder This is a peaceful pr
+ otest. All laws and 50501 rules MUST be adhered to or you may be asked to 
+ leave. We are a completely grassroots movement\, and our events are planne
+ d by volunteers across the United States.\n\nRedwood Avenue pedestrian bri
+ dge\, BEHIND ACCE high school
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Redwood+Aven
+ ue+pedestrian+bridge%2C+BEHIND+ACCE+high+school%2C+Ypsilanti%2C+MI&zoom=15
+ &basemap=roadmap
+END:VEVENT
+END:VCALENDAR

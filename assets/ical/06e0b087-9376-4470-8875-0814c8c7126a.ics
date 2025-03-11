@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:34d02799-f4fc-468f-b169-dc52568f00e5
+SEQUENCE:0
+DTSTAMP:20250311T090339Z
+DTSTART:20250314T170000
+DTEND:20250314T210000
+SUMMARY:Bridge Takeover
+LOCATION:\, \, MI
+DESCRIPTION:Join 50501 MI in the "Corruption Destroys\, Community Builds" 
+ event. From March 14th at 5 PM to March 16th at 5 PM\, gather with family 
+ and friends on a local high-traffic bridge for a peaceful protest. Make yo
+ ur voices heard while leaving the area clean and ensuring safety. For more
+  details\, visit the provided link.\n\nA local high traffic bridge
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+%2C+MI&z
+ oom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

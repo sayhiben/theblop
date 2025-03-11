@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:453e4085-fb81-4805-916b-eab52f36da5f
+SEQUENCE:0
+DTSTAMP:20250311T090339Z
+DTSTART:20250314T153000
+DTEND:20250314T193000
+SUMMARY:Veterans March - Sioux Falls
+LOCATION:1401 S Western Ave\, Sioux Falls\, SD
+DESCRIPTION:We are hosting a "Veterans March - Sioux Falls" to honor and s
+ upport America's veterans. Join us for a peaceful assembly and march at Sp
+ ellerberg Park. Bring signs and energy as we march along the sidewalks.\n\
+ nSpellerberg Park (NE side)
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=1401+S+Weste
+ rn+Ave%2C+Sioux+Falls%2C+SD&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

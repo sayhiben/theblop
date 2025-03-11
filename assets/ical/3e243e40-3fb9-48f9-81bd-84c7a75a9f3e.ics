@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:ed654eaf-2dde-4f4d-8c7b-3662474a5fb5
+SEQUENCE:0
+DTSTAMP:20250311T090339Z
+DTSTART:20250311T090000
+DTEND:20250311T130000
+SUMMARY:Rockland County Shows Up for Democracy!
+LOCATION:1 South Main Street\, New City\, NY
+DESCRIPTION:We are gathering in front of the courthouse to demonstrate sup
+ port for Democracy\, the Constitution\, and the Rule of Law.\n\nRockland C
+ ounty Courthouse
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=1+South+Main
+ +Street%2C+New+City%2C+NY&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

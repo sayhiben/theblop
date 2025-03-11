@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:aa0465aa-a96a-4edb-8284-079095642e5b
+SEQUENCE:0
+DTSTAMP:20250311T090339Z
+DTSTART:20250313T080000
+DTEND:20250313T120000
+SUMMARY:Yesler & I-5 Overpass Bannering Team
+LOCATION:Yesler Way\, 98104\, Seattle
+DESCRIPTION:Building on multiple successful banner actions\, Backbone is g
+ rowing our overpass bannering by adding people and locations. Volunteers a
+ re building additional banners so we can increase the number of squads and
+  locations for deployment. Can you help deploy a banner in the Seattle are
+ a this Thursday morning at the Yesler & I-5 overpass 8-9 AM? RSVP below if
+  you can help out. Send an email to info@backbonecampaign.org if you live 
+ elsewhere and would like to organize or be part of a bannering squad in yo
+ ur area.\n\nYesler & I-5 Overpass
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Yesler+Way%2
+ C+98104%2C+Seattle&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

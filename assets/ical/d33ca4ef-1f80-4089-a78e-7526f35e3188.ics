@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:25539f20-46b8-4755-a609-9ffd19e02d23
+SEQUENCE:0
+DTSTAMP:20250311T090339Z
+DTSTART:20250315T120000
+DTEND:20250315T160000
+SUMMARY:Peaceful Farmville Protest for Justice
+LOCATION:Prince Edward County Courthouse Lawn\, 608 South Main Street\, Fa
+ rmville\, VA
+DESCRIPTION:Join us in Farmville to protest against executive overreach an
+ d uphold the constitution. Part of the 50 states\, 1 movement\, this event
+  aims to make a stand for justice. Bring your signs and support the cause!
+ \n\nPrince Edward County Courthouse Lawn
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Prince+Edwar
+ d+County+Courthouse+Lawn%2C+608+South+Main+Street%2C+Farmville%2C+VA&zoom=
+ 15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

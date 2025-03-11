@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:9b7977d4-a67d-409f-8812-32f8176db638
+SEQUENCE:0
+DTSTAMP:20250311T090339Z
+DTSTART:20250320T180000
+DTEND:20250320T220000
+SUMMARY:Town Hall Meeting
+LOCATION:Lake Tahoe Community College\, Aspen and Board Rooms\, South Lake
+  Tahoe\, CA
+DESCRIPTION:We invite you to join our upcoming Town Hall Meeting to help s
+ hape the future of our community. Kevin Kiley has been invited\, but we ha
+ ven't heard from him\, so please encourage him to attend!\n\nLake Tahoe Co
+ mmunity College\, Aspen and Board Rooms
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Lake+Tahoe+C
+ ommunity+College%2C+Aspen+and+Board+Rooms%2C+South+Lake+Tahoe%2C+CA&zoom=1
+ 5&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

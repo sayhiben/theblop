@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:f42d034c-7179-48e3-b86c-f39585af8b2a
+SEQUENCE:0
+DTSTAMP:20250311T090339Z
+DTSTART:20250316T140000
+DTEND:20250316T180000
+SUMMARY:Orange County Weekly Rally Against Fascism
+LOCATION:1 Civic Center Plaza\, Irvine\, CA
+DESCRIPTION:Join your community members every week in a peaceful\, family-
+ friendly grassroots rally for solidarity against tyranny supporting all of
+  Orange County and adjacent areas\, hosted by 50501OC and Indivisible. Bri
+ ng your voices\, friends\, water\, snacks\, and sunscreen.\n\nIrvine City 
+ Hall
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=1+Civic+Cent
+ er+Plaza%2C+Irvine%2C+CA&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

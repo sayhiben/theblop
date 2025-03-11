@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:9552171c-1436-4d5c-a0bf-43300938a4e0
+SEQUENCE:0
+DTSTAMP:20250311T090339Z
+DTSTART:20250321T120000
+DTEND:20250321T160000
+SUMMARY:People's March
+LOCATION:123 4th Street\, Juneau\, United States\, Juneau\, AK
+DESCRIPTION:Join us in defending your rights and your future. We will not 
+ be silent. This is a public rally to stand up for our community and make o
+ ur voices heard.\n\nJuneau Capitol Building
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=123+4th+Stre
+ et%2C+Juneau%2C+United+States%2C+Juneau%2C+AK&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:cf3e76c5-a092-49a4-a40f-e32f74b29739
+SEQUENCE:0
+DTSTAMP:20250311T090339Z
+DTSTART:20250315T130000
+DTEND:20250315T170000
+SUMMARY:March Against Tyranny
+LOCATION:495 S Main St\, Las Vegas\, NV 89101
+DESCRIPTION:Join the Las Vegas PolRev Chapter for a peaceful march against
+  tyranny. We welcome all supporters\, whether marching or cheering from Ci
+ ty Hall. The event will include speeches\, and water and safety are priori
+ tized.\n\nLas Vegas City Hall
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=495+S+Main+S
+ t%2C+Las+Vegas%2C+NV+89101&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

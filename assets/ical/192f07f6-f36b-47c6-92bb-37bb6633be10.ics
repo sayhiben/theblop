@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:ad648579-444a-4630-a7de-0e0dd69be833
+SEQUENCE:0
+DTSTAMP:20250311T090339Z
+DTSTART:20250311T153000
+DTEND:20250311T193000
+SUMMARY:Save GUHSD Librarians
+LOCATION:1100 Murray Dr\, El Cajon\, CA
+DESCRIPTION:Support for Grossmont Union High School District libraries\, i
+ ncluding submitting speaker cards\, rally\, and attending the board meetin
+ g.\n\nGrossmont High School's Old Gym
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=1100+Murray+
+ Dr%2C+El+Cajon%2C+CA&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:b4c33dbf-4d7b-4c3e-924e-80b7b541b4fb
+SEQUENCE:0
+DTSTAMP:20250311T090339Z
+DTSTART:20250311T080000
+DTEND:20250311T120000
+SUMMARY:Protest to Support WaPo Journalists
+LOCATION:1301 K Street NW\, Washington\, DC
+DESCRIPTION:We are organizing a protest to support Washington Post journal
+ ists and urge Jeff Bezos to sell the paper. Join us in demanding change an
+ d bringing your energy to help restore the paper’s integrity.\n\nWashing
+ ton Post HQ\, One Franklin Square
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=1301+K+Stree
+ t+NW%2C+Washington%2C+DC&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

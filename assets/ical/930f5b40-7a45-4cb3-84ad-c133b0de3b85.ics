@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:6ef83548-0ccd-4bc2-959d-32a1fad67634
+SEQUENCE:0
+DTSTAMP:20250311T090339Z
+DTSTART:20250315T140000
+DTEND:20250315T180000
+SUMMARY:Remove Reverse Reclaim | Huntsville\, Alabama
+LOCATION:201 Church St\, Huntsville\, Huntsville\, AL
+DESCRIPTION:We invite you to a peaceful protest aimed at removing Donald T
+ rump's influence\, reversing his policies\, and reclaiming the people's vo
+ ice. Join us at Big Spring Park for this political movement organized by G
+ rapa.\n\nBig Spring Park at the Gazebo
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=201+Church+S
+ t%2C+Huntsville%2C+Huntsville%2C+AL&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:23333bc0-3fcb-43e7-b758-91e68bcd8e03
+SEQUENCE:0
+DTSTAMP:20250311T090339Z
+DTSTART:20250316T110000
+DTEND:20250316T150000
+SUMMARY:PROTEST PROJECT 2025 and the HERITAGE FOUNDATION!
+LOCATION:Muriel Iverson Williams Waterfront Park\, 18809 ANDERSON PARKWAY\
+ , Poulsbo\, WA
+DESCRIPTION:Join us as we rally against the actions described in Project 2
+ 025 and the Heritage Foundation’s plans. We aim to oppose what we consid
+ er to be harmful and radical changes affecting government operations and c
+ ivil services.\n\nMuriel Iverson Williams Waterfront Park
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Muriel+Ivers
+ on+Williams+Waterfront+Park%2C+18809+ANDERSON+PARKWAY%2C+Poulsbo%2C+WA&zoo
+ m=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

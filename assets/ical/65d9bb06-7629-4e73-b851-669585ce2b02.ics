@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:3709f604-b614-4317-8990-ea4d1dc6d0f3
+SEQUENCE:0
+DTSTAMP:20250311T090339Z
+DTSTART:20250315T120000
+DTEND:20250315T160000
+SUMMARY:Cancel El Muskito!!
+LOCATION:4039 NE First Ave\, Design District\, Miami\, FL
+DESCRIPTION:Join us for a protest at the Tesla showroom to express concern
+ s. We aim to make our voices heard against the influences symbolized by th
+ e event's figurehead.\n\nTesla Showroom
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=4039+NE+Firs
+ t+Ave%2C+Design+District%2C+Miami%2C+FL&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR
