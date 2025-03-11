@@ -5,7 +5,7 @@ import { SiteAlerts } from './SiteAlerts';
 import { alerts } from '../alerts';
 import { PostFlyerModal } from './PostFlyerModal';
 
-export function IndexPage({ futureEvents, grouped, allStates }) {
+export function IndexPage({ grouped, allStates }) {
   // Get sorted date keys
   const dateKeys = Object.keys(grouped).sort();
   const submissionEmail = "events@seattleprotestnetwork.org";

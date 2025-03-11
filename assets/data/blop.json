@@ -326,7 +326,7 @@
     ],
     "image_url": "https://theblop.org/assets/images/d3f5e404-0c12-4f84-b774-4f3207e57a2c.png",
     "thumbnail_url": "https://theblop.org/assets/images/d3f5e404-0c12-4f84-b774-4f3207e57a2c-thumb.jpg",
-    "canonical_id": "",
+    "canonical_id": "0e34a268-da17-4c46-b2cf-796c1f4dc20a",
     "permalink": "https://theblop.org/events/d3f5e404-0c12-4f84-b774-4f3207e57a2c.html",
     "ical": "https://theblop.org/assets/ical/d3f5e404-0c12-4f84-b774-4f3207e57a2c.ics",
     "raw_text": "",
@@ -591,9 +591,7 @@
     "state": "IL",
     "address": "230 S Dearborn Ave",
     "meeting_location": "Federal Plaza",
-    "links": [
-      "[]"
-    ],
+    "links": [],
     "sponsors": [
       "Students for Justice in Palestine"
     ],

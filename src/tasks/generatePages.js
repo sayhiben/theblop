@@ -22,14 +22,13 @@ const ALL_STATES = [
 export async function generatePages({ allEvents, futureEvents, indexHtmlPath, eventsDir, aboutHtmlPath }) {
   // 1) Generate index.html
   // Group futureEvents by date for the index:
-  const grouped = groupEventsByDate(futureEvents);
 
   // Filter out events that have a canonical UUID (i.e. duplicates that should be "redirected")
   const indexPageEvents = futureEvents.filter(e => !e['Canonical UUID'] || e.UUID === e['Canonical UUID'] || e['Canonical UUID'] === '');
+  const grouped = groupEventsByDate(indexPageEvents);
 
   const indexHtml = renderToStaticMarkup(
     <IndexPage
-      futureEvents={indexPageEvents}
       grouped={grouped}
       allStates={ALL_STATES}
     />
