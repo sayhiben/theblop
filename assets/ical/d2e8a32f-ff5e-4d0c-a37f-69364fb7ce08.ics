@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:2f63acd1-9d15-4873-831d-f20890a0e4bf
+SEQUENCE:0
+DTSTAMP:20250311T204341Z
+DTSTART:20250312T170000
+DTEND:20250312T210000
+SUMMARY:Emergency Protest: Release Mahmoud Khalil
+LOCATION:Five Points South\, Birmingham\, AL
+DESCRIPTION:We are gathering for an emergency protest calling for the rele
+ ase of Mahmoud Khalil. Join us at Five Points South to stand in solidarity
+  with Palestine.\n\nAt the fountain
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Five+Points+
+ South%2C+Birmingham%2C+AL&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

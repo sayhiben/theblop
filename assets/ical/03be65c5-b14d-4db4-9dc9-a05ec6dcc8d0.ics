@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:037f9032-e5d5-4ab6-ad5f-496f689e65d0
+SEQUENCE:0
+DTSTAMP:20250311T204341Z
+DTSTART:20250314T120000
+DTEND:20250314T160000
+SUMMARY:Veterans Rally in Olympia\, WA
+LOCATION:Washington State Capitol\, 103 Capitol Way S\, Olympia\, WA 98501
+DESCRIPTION:We invite you to join us at the Veterans Rally to stand in pro
+ test of Project 2025 and its impact on critical programs supporting former
+  service members. This event is an opportunity to express our commitment t
+ o supporting and defending the Constitution of the United States.\n\nTivol
+ i Fountain
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Washington+S
+ tate+Capitol%2C+103+Capitol+Way+S%2C+Olympia%2C+WA+98501&zoom=15&basemap=r
+ oadmap
+END:VEVENT
+END:VCALENDAR

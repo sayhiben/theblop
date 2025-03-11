@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:1c613be0-c247-4df5-a03f-460d1a8c876c
+SEQUENCE:0
+DTSTAMP:20250311T204341Z
+DTSTART:20250317T100000
+DTEND:20250317T140000
+SUMMARY:Stand Up to Trump & Protect Democracy
+LOCATION:Corner of Cougar Blvd & Canyon Rd\, Provo\, UT
+DESCRIPTION:We are organizing a protest when Senator John Curtis visits BY
+ U\, aiming to urge him to stand up for American values and protect our dem
+ ocracy.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Corner+of+Co
+ ugar+Blvd+%26+Canyon+Rd%2C+Provo%2C+UT&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

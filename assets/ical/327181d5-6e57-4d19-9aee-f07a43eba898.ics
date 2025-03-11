@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:dbc1d4b3-8c26-460a-8f5b-9666bb369880
+SEQUENCE:0
+DTSTAMP:20250311T204341Z
+DTSTART:20250312T160000
+DTEND:20250312T200000
+SUMMARY:Free Mahmoud Khalil
+LOCATION:\, Tulsa\, OK
+DESCRIPTION:Join us to support the release of Mahmoud Khalil\, arrested fo
+ r opposing college investments in arms manufacturers. Condemn these action
+ s and stand for free speech.\n\nTulsa City Hall
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+Tulsa%2C
+ +OK&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

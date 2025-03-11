@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:ec7ed3fb-9af8-4540-a921-e049672dda09
+SEQUENCE:0
+DTSTAMP:20250311T204341Z
+DTSTART:20250501T000000
+DTEND:20250501T040000
+SUMMARY:MAYDAY
+LOCATION:National Mall\, Washington\, DC
+DESCRIPTION:We are organizing a continuous occupation of the National Mall
+  to defend democracy until specific political goals are achieved. The even
+ t includes art\, music\, poetry\, talks\, classes\, performances\, and gue
+ st appearances.\n\nNational Mall
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=National+Mal
+ l%2C+Washington%2C+DC&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR
