@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:088a52b5-2b87-41f4-9735-2559c28690dd
+SEQUENCE:0
+DTSTAMP:20250311T023757Z
+DTSTART:20250316T120000
+DTEND:20250316T160000
+SUMMARY:Together We Rise
+LOCATION:Playground on the Corner of W Howard Pl & Irving St.\, Denver\, C
+ O
+DESCRIPTION:Join us for a march and rally to build education and stop depo
+ rtation. Prepare to walk and consider the weather. Organized by Our Voices
+ \, Our Power\, United.\n\nPaco Sanchez Park
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Playground+o
+ n+the+Corner+of+W+Howard+Pl+%26+Irving+St.%2C+Denver%2C+CO&zoom=15&basemap
+ =roadmap
+END:VEVENT
+END:VCALENDAR

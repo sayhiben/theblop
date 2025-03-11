@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:c446fcc7-c242-4db6-b3b5-561b7eea882f
+SEQUENCE:0
+DTSTAMP:20250311T023757Z
+DTSTART:20250311T170000
+DTEND:20250311T210000
+SUMMARY:Indiana Chamber Day Reception
+LOCATION:140 W Washington St.\, Indianapolis\, IN
+DESCRIPTION:\n\nIndiana Roof Ballroom
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=140+W+Washin
+ gton+St.%2C+Indianapolis%2C+IN&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

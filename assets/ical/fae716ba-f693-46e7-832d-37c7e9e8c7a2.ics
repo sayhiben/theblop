@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:8e5d28cb-5eb4-45ea-92c3-33322caabe94
+SEQUENCE:0
+DTSTAMP:20250311T023757Z
+DTSTART:20250322T150000
+DTEND:20250322T190000
+SUMMARY:Community Meeting Without Rep. Miller
+LOCATION:225 Clay Avenue\, Jacksonville\, IL
+DESCRIPTION:Join us to address pressing concerns about Medicaid\, agricult
+ ure\, funding\, and more in the community of Jacksonville. Despite the abs
+ ence of Rep. Mary E. Miller\, community leaders and field experts will be 
+ present to facilitate discussions and ensure voices are heard.\n\nMidwest 
+ Agriculture & Arts Complex
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=225+Clay+Ave
+ nue%2C+Jacksonville%2C+IL&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

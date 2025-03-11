@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:42599705-83ab-4ba8-a40e-e6e31507c31d
+SEQUENCE:0
+DTSTAMP:20250311T023757Z
+DTSTART:20250403T120000
+DTEND:20250403T160000
+SUMMARY:Lake County Economic Alliance
+LOCATION:905 E Joliet St.\, Schererville\, IN
+DESCRIPTION:\n\nHalls of St. George
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=905+E+Joliet
+ +St.%2C+Schererville%2C+IN&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:b29f0ea9-6c24-43da-9283-1f18dc543438
+SEQUENCE:0
+DTSTAMP:20250311T023757Z
+DTSTART:20250314T120000
+DTEND:20250314T160000
+SUMMARY:Descend on DC
+LOCATION:\, Washington\, DC
+DESCRIPTION:Join us for a series of patriotic events in Washington\, D.C.\
+ , including a March on D.C.\, a Media March\, and a Save America protest. 
+ We gather to support our beliefs and stand for truth over propaganda.\n\nT
+ he National Mall\; Fox News Headquarters\, 400 N. Capitol St. N.W. Unit 55
+ 0\; Heritage Foundation\, 214 Massachusetts Ave. N.E.
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+Washingt
+ on%2C+DC&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

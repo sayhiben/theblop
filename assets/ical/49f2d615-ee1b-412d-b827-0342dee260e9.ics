@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:eda2b760-d204-498a-9f0d-2280da906667
+SEQUENCE:0
+DTSTAMP:20250311T023757Z
+DTSTART:20250311T100000
+DTEND:20250311T140000
+SUMMARY:Terminated Worker Tuesday
+LOCATION:120 Constitution Ave. NE\, Washington\, DC
+DESCRIPTION:We’re inviting senators to address fired feds! Illegally fir
+ ed and in limbo federal employees\, contractors\, other affected workers &
+  allies will share their stories with Senate offices and the media. Lunch 
+ provided to laid-off feds.\n\nHart Building Atrium
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=120+Constitu
+ tion+Ave.+NE%2C+Washington%2C+DC&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

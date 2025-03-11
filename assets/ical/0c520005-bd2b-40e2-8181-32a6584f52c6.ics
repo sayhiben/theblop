@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:986f8174-27fe-476e-ab66-257a68cf544a
+SEQUENCE:0
+DTSTAMP:20250311T023757Z
+DTSTART:20250312T190000
+DTEND:20250312T230000
+SUMMARY:Rally: Stand Up For Trans Rights!
+LOCATION:206 Washington Street Southwest\, Atlanta\, GA\, 30334\, United S
+ tates
+DESCRIPTION:Join us to rally and stand for trans rights in response to leg
+ islative actions against trans Georgians.\n\nEast Steps of GA State Capito
+ l
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=206+Washingt
+ on+Street+Southwest%2C+Atlanta%2C+GA%2C+30334%2C+United+States&zoom=15&bas
+ emap=roadmap
+END:VEVENT
+END:VCALENDAR

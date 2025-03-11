@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:e4d42c88-6eaf-416a-a0a1-d635ce92987e
+SEQUENCE:0
+DTSTAMP:20250311T023757Z
+DTSTART:20250313T170000
+DTEND:20250313T210000
+SUMMARY:Governor's Mansion
+LOCATION:4750 N Meridian St.\, Indianapolis\, IN
+DESCRIPTION:\n\nGovernor's Mansion
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=4750+N+Merid
+ ian+St.%2C+Indianapolis%2C+IN&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

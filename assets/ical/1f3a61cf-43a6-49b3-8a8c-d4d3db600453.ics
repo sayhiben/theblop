@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:dcfdb021-cffe-4496-8c28-31412d19c11b
+SEQUENCE:0
+DTSTAMP:20250311T023757Z
+DTSTART:20250315T120000
+DTEND:20250315T160000
+SUMMARY:Protest Against Medicaid Cuts
+LOCATION:Route 59 & N. Middletown Rd\, Nanuet\, NY
+DESCRIPTION:Join Orangetown Dems & Indivisible Rockland to protest against
+  the Medicaid cuts voted by MAGA Mike. Bring signs and let people know the
+  truth. This is a community effort to stand against the budget cuts propos
+ ed.\n\n4 Corners\, NW corner
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Route+59+%26
+ +N.+Middletown+Rd%2C+Nanuet%2C+NY&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

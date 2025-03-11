@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:8ce1ae17-4c2a-4c3f-9877-003e0eeccd7f
+SEQUENCE:0
+DTSTAMP:20250311T023757Z
+DTSTART:20250311T190000
+DTEND:20250311T230000
+SUMMARY:Art Build: Stand Up for Trans Rights!
+LOCATION:344 Candler Park Drive Northeast\, Atlanta\, GA
+DESCRIPTION:Join us to create visual materials for a trans rights rally. L
+ et's stand up and make an impact through art and solidarity!\n\nAtlanta Li
+ beration Center
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=344+Candler+
+ Park+Drive+Northeast%2C+Atlanta%2C+GA&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

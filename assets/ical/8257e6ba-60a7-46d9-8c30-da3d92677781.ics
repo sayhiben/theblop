@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:2644ddd8-e1c7-45da-aa35-5dc038e8bd5d
+SEQUENCE:0
+DTSTAMP:20250311T023757Z
+DTSTART:20250329T120000
+DTEND:20250329T160000
+SUMMARY:Ann Arbor People's March
+LOCATION:200 East Liberty Street\, Ann Arbor\, MI
+DESCRIPTION:Join us for a march in Ann Arbor to stand against oligarchy an
+ d promote social justice. Let's come together to voice our collective conc
+ erns and demand change.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=200+East+Lib
+ erty+Street%2C+Ann+Arbor%2C+MI&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR
