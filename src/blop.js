@@ -33,6 +33,8 @@ export class Blop {
         "canonical_id": row["Canonical UUID"],
         "permalink": `https://theblop.org/events/${row.UUID}.html`,
         "ical": `https://theblop.org/assets/ical/${row.UUID}.ics`,
+        "raw_text": row.RawText,
+        "raw_description": row.RawDescription,
       };
       return event;
     });
