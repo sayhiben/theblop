@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:58d49623-8504-4f36-9572-480952b1129e
+SEQUENCE:0
+DTSTAMP:20250311T060220Z
+DTSTART:20250312T110000
+DTEND:20250312T150000
+SUMMARY:All Out for Mahmoud Khalil
+LOCATION:Foley Square\, NYC\, NY
+DESCRIPTION:Join us at Foley Square for a rally supporting Mahmoud Khalil.
+  We aim to demonstrate mass global support for Mahmoud's freedom and call 
+ attention to his court proceedings.\n\nCourthouse\, Foley Square
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Foley+Square
+ %2C+NYC%2C+NY&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

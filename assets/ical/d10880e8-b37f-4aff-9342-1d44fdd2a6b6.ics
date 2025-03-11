@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:c43e64d1-b16d-4bc0-ac4a-5af6e58da17b
+SEQUENCE:0
+DTSTAMP:20250311T060220Z
+DTSTART:20250311T120000
+DTEND:20250311T160000
+SUMMARY:Walk out for Mahmoud
+LOCATION:715 State Street\, Madison\, WI
+DESCRIPTION:Join us as we rally against university repression and state vi
+ olence to protect our students.\n\nLibrary Mall - UW Madison
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=715+State+St
+ reet%2C+Madison%2C+WI&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR
