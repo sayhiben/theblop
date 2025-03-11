@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:1d41b13b-854e-4811-8e60-b362bc8eea1a
+SEQUENCE:0
+DTSTAMP:20250311T201242Z
+DTSTART:20250322T210000
+DTEND:20250323T010000
+SUMMARY:Hands Off The VA
+LOCATION:Coastland Mall to Freedom Park
+DESCRIPTION:We are organizing a march to support veterans and protect VA f
+ unding. Join us in sending a message to the Trump administration to keep h
+ ands off VA funding.\n\nCoastland Mall
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Coastland+Ma
+ ll+to+Freedom+Park&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR
