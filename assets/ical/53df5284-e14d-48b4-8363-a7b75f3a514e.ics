@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:58659694-619f-47cc-8290-a94c185c2d76
+SEQUENCE:0
+DTSTAMP:20250311T012444Z
+DTSTART:20250315T120000
+DTEND:20250315T160000
+SUMMARY:Show Pride for Democracy
+LOCATION:\, Boston\, MA
+DESCRIPTION:We aim to bring together a diverse set of voices united in the
+  goal of preserving American democracy through upholding the Constitution 
+ and ending executive overreach.\n\nCarty Parade Ground\, Boston Common
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+Boston%2
+ C+MA&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

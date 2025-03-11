@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:c03a81d5-ca27-4648-bb37-7bef52b195a2
+SEQUENCE:0
+DTSTAMP:20250311T012444Z
+DTSTART:20250316T140000
+DTEND:20250316T180000
+SUMMARY:Stand Up to the Oligarchy
+LOCATION:Saint Croix Public Library\, Saint Croix Falls\, WI
+DESCRIPTION:Join us for a peaceful protest as we stand up to the oligarchy
+ . We will gather at the Saint Croix Public Library\, march to the bridge\,
+  and return to the library. This event is organized by the Saint Croix Riv
+ er Valley Resistance to foster community involvement and resistance.\n\nSa
+ int Croix Public Library
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Saint+Croix+
+ Public+Library%2C+Saint+Croix+Falls%2C+WI&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

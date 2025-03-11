@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:b4e52d6e-eafc-40e1-af9b-e80c22b0895b
+SEQUENCE:0
+DTSTAMP:20250311T012444Z
+DTSTART:20250311T090000
+DTEND:20250311T130000
+SUMMARY:Make your voice heard
+LOCATION:400 Maryland Ave. SW\, Washington\, DC
+DESCRIPTION:We invite civil servants and supporters to join us in standing
+  up for our schools\, communities\, and children at the U.S. Department of
+  Education.\n\nLyndon B. Johnson Building\, U.S. Department of Education
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=400+Maryland
+ +Ave.+SW%2C+Washington%2C+DC&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

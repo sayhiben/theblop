@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:afa8ba2a-67da-43f8-94b2-7be94320a81c
+SEQUENCE:0
+DTSTAMP:20250311T012444Z
+DTSTART:20250319T180000
+DTEND:20250319T220000
+SUMMARY:No Hate in Stockton: Give TPUSA the Boot
+LOCATION:\, Stockton\, CA
+DESCRIPTION:Join us in protesting against the transphobic speaker hosted b
+ y TPUSA at the University of the Pacific. We aim to stand against hate and
+  intolerance. Bring signs and banners.\n\nLong Theatre\, UOP
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+Stockton
+ %2C+CA&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

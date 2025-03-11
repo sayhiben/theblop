@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:5664d20d-52da-4f7b-a18d-5f76c7895838
+SEQUENCE:0
+DTSTAMP:20250311T012444Z
+DTSTART:20250314T160000
+DTEND:20250314T200000
+SUMMARY:Rally & Protest in Warren
+LOCATION:\, Warren\, MI
+DESCRIPTION:We are organizing a protest to demand accountability from Cong
+ ressman John James\, who has been avoiding constituent meetings and suppor
+ ting harmful policies. Join us to voice your concerns and protect educatio
+ n and social security.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+Warren%2
+ C+MI&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

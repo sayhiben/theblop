@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:b64dbe74-df17-42c9-8a61-8e47aaa060f0
+SEQUENCE:0
+DTSTAMP:20250311T012444Z
+DTSTART:20250311T120000
+DTEND:20250311T160000
+SUMMARY:Protest for Political Prisoner\, Mahmoud Khalil
+LOCATION:UC Berkeley\, Berkeley\, CA
+DESCRIPTION:Join us to demand the release of Mahmoud Khalil\, who is consi
+ dered a political prisoner by Trump's administration.\n\nUC Berkeley
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=UC+Berkeley%
+ 2C+Berkeley%2C+CA&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

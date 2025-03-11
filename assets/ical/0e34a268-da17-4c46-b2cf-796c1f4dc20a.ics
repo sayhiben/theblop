@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:026cfa03-5353-450f-a2a0-0fdffa3d44bb
+SEQUENCE:0
+DTSTAMP:20250311T012444Z
+DTSTART:20250311T120000
+DTEND:20250311T160000
+SUMMARY:Rally Against ICE
+LOCATION:Delaney Hall\, \, NJ
+DESCRIPTION:Join us for a rally organized to oppose ICE's detention and de
+ portation practices. Stand with us in solidarity at Delaney Hall.\n\nDelan
+ ey Hall
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Delaney+Hall
+ %2C+%2C+NJ&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR
