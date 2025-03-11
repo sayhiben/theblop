@@ -338,6 +338,28 @@
     "ical": "https://theblop.org/assets/ical/2f26b8a5-ffd5-4cc1-8016-85a4c0d2bc8a.ics"
   },
   {
+    "id": "6ee763f6-06a7-4d5e-84a4-190c87cac30d",
+    "title": "Protecting Federal Workers Webinar",
+    "date": "Tuesday, March 11, 2025",
+    "time": "5:30 PM",
+    "description": "We are hosting a webinar for Colorado federal workers, including current, terminated, or recently separated employees. Join us to share resources and answer your questions with a panel of federal employee rights experts, featuring Sen. Bennet, Rep. Pettersen, and Sen. Hickenlooper.",
+    "city": "Virtual",
+    "state": "CO",
+    "address": "Virtual",
+    "meeting_location": "Virtual",
+    "links": [],
+    "sponsors": [
+      "Sen. Bennet",
+      " Rep. Pettersen",
+      " Sen. Hickenlooper"
+    ],
+    "image_url": "https://theblop.org/assets/images/6ee763f6-06a7-4d5e-84a4-190c87cac30d.jpg",
+    "thumbnail_url": "https://theblop.org/assets/images/6ee763f6-06a7-4d5e-84a4-190c87cac30d-thumb.jpg",
+    "canonical_id": "",
+    "permalink": "https://theblop.org/events/6ee763f6-06a7-4d5e-84a4-190c87cac30d.html",
+    "ical": "https://theblop.org/assets/ical/6ee763f6-06a7-4d5e-84a4-190c87cac30d.ics"
+  },
+  {
     "id": "0299b5a4-b411-4eaf-9dd1-cd7f1c0fcec0",
     "title": "Wasilla Protest",
     "date": "Wednesday, March 12, 2025",
@@ -3729,6 +3751,26 @@
     "canonical_id": "",
     "permalink": "https://theblop.org/events/95991740-98b0-4022-b976-0e4bdcb5351e.html",
     "ical": "https://theblop.org/assets/ical/95991740-98b0-4022-b976-0e4bdcb5351e.ics"
+  },
+  {
+    "id": "96a3d57a-1873-4550-a2d7-2270662cb980",
+    "title": "FED UP WITH FIRINGS: Protect Our Federal Workers",
+    "date": "Saturday, March 29, 2025",
+    "time": "12:00 PM",
+    "description": "Join us at the CDC Roybal Campus to protect federal workers from unjust dismissals. Engage in discussions about federal worker events, protests, and campaigns, and learn how to advocate for their rights. Let's unite to make a difference!",
+    "city": "Atlanta",
+    "state": "GA",
+    "address": "1600 Clifton Rd. NE, Atlanta, Georgia",
+    "meeting_location": "CDC Roybal Campus",
+    "links": [],
+    "sponsors": [
+      "GA Voices United"
+    ],
+    "image_url": "https://theblop.org/assets/images/96a3d57a-1873-4550-a2d7-2270662cb980.jpg",
+    "thumbnail_url": "https://theblop.org/assets/images/96a3d57a-1873-4550-a2d7-2270662cb980-thumb.jpg",
+    "canonical_id": "",
+    "permalink": "https://theblop.org/events/96a3d57a-1873-4550-a2d7-2270662cb980.html",
+    "ical": "https://theblop.org/assets/ical/96a3d57a-1873-4550-a2d7-2270662cb980.ics"
   },
   {
     "id": "35a2d709-b99f-4581-9d59-9896a21bee5f",

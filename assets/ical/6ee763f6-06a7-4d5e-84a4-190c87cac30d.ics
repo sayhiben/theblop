@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:f93da031-09ae-4f6b-b5bc-931a568542d4
+SEQUENCE:0
+DTSTAMP:20250311T004337Z
+DTSTART:20250311T173000
+DTEND:20250311T213000
+SUMMARY:Protecting Federal Workers Webinar
+LOCATION:Virtual\, Virtual\, CO
+DESCRIPTION:We are hosting a webinar for Colorado federal workers\, includ
+ ing current\, terminated\, or recently separated employees. Join us to sha
+ re resources and answer your questions with a panel of federal employee ri
+ ghts experts\, featuring Sen. Bennet\, Rep. Pettersen\, and Sen. Hickenloo
+ per.\n\nVirtual
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Virtual%2C+V
+ irtual%2C+CO&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR
