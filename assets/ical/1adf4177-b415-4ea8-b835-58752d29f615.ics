@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:bb2ae086-df91-452e-95f6-321a2c5d6977
+SEQUENCE:0
+DTSTAMP:20250311T043711Z
+DTSTART:20250315T120000
+DTEND:20250315T160000
+SUMMARY:"Don't buy Nazi cars!" Stop Elon Musk!
+LOCATION:900 N. Rush St.\, Chicago\, IL
+DESCRIPTION:Join us for a protest against Elon Musk's businesses. Stand wi
+ th us to express our discontent with Tesla by gathering at the specified l
+ ocation.\n\nTesla showroom
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=900+N.+Rush+
+ St.%2C+Chicago%2C+IL&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

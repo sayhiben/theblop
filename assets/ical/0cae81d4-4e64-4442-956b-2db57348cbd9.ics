@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:47941eb9-9a88-49a8-874e-3055746b5d50
+SEQUENCE:0
+DTSTAMP:20250311T043711Z
+DTSTART:20250315T133000
+DTEND:20250315T173000
+SUMMARY:Protest Elon Musk
+LOCATION:2829 N Federal Hwy\, Fort Lauderdale\, FL
+DESCRIPTION:\n\nTesla–Fort Lauderdale
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=2829+N+Feder
+ al+Hwy%2C+Fort+Lauderdale%2C+FL&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:ab08b33a-7ec2-4715-8713-19386860cbd5
+SEQUENCE:0
+DTSTAMP:20250311T043711Z
+DTSTART:20250312T151500
+DTEND:20250312T191500
+SUMMARY:Where is Buddy Hiding?
+LOCATION:6604 Abercorn St\, Savannah\, GA
+DESCRIPTION:A local\, recurring Indivisible event in solidarity with Bruns
+ wick\, GA groups who have a standing picket in front of Buddy Carter's off
+ ice there. We meet on Wednesdays at the corner of Jackson Blvd. and Aberco
+ rn St. in Savannah\, GA to show our disgust with Rep. Buddy Carter's hidin
+ g from his constituents\, with his support of the Trump administration's i
+ mperialist designs on Greenland\, and with his support of a budget that cu
+ ts necessary services while adding to the deficit in order to fund tax cut
+ s to his donors.\n\nSavannah\, GA 31405
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=6604+Abercor
+ n+St%2C+Savannah%2C+GA&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

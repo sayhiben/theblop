@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:3ae9ebb4-13bc-4896-bbae-7ba8fb133a9e
+SEQUENCE:0
+DTSTAMP:20250311T043711Z
+DTSTART:20250314T140000
+DTEND:20250314T180000
+SUMMARY:Stand with Veterans
+LOCATION:1651 Rock Prairie Rd\, College Station\, TX 77845
+DESCRIPTION:Join us as we stand in solidarity with Veterans across the Uni
+ ted States against unlawful Veterans Affairs job cuts\n\nPark at St. Josep
+ h’s Hospital
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=1651+Rock+Pr
+ airie+Rd%2C+College+Station%2C+TX+77845&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:d53506d9-2c27-4e81-9beb-e3b382039f6f
+SEQUENCE:0
+DTSTAMP:20250311T043711Z
+DTSTART:20250325T120000
+DTEND:20250325T160000
+SUMMARY:Protect our Public Services Rally
+LOCATION:315 Princess St.\, Wilmington\, NC\, NC
+DESCRIPTION:Join us to protect public services and resist harmful policies
+ .\n\nCounty Courthouse
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=315+Princess
+ +St.%2C+Wilmington%2C+NC%2C+NC&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:a265be6e-e8d3-4d56-b584-a6022b7403a4
+SEQUENCE:0
+DTSTAMP:20250311T043711Z
+DTSTART:20250311T180000
+DTEND:20250311T220000
+SUMMARY:Protest Mayor Adams' Sham Iftar
+LOCATION:31 Chambers St\, New York\, NY
+DESCRIPTION:We are organizing a protest against Mayor Adams’ iftar gathe
+ ring to oppose his policies and actions affecting our communities. Join us
+  as we stand against oppression\, terror\, and injustice.\n\n31 Chambers S
+ t
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=31+Chambers+
+ St%2C+New+York%2C+NY&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

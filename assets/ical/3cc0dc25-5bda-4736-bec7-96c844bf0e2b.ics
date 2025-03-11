@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:859517ae-0404-44f7-b1b9-d5dc75f4b993
+SEQUENCE:0
+DTSTAMP:20250311T043711Z
+DTSTART:20250322T150000
+DTEND:20250322T190000
+SUMMARY:Town Hall Meeting
+LOCATION:629 Poyntz Ave.\, Manhattan\, KS
+DESCRIPTION:Your voice matters Discuss issues facing our community. Ask qu
+ estions of our US Senators and Representative.\n\nMHK Public Library Audit
+ orium
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=629+Poyntz+A
+ ve.%2C+Manhattan%2C+KS&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:d1621011-5b1d-4cfc-98e5-727d7ba4900a
+SEQUENCE:0
+DTSTAMP:20250311T043711Z
+DTSTART:20250312T120000
+DTEND:20250312T160000
+SUMMARY:Stop Hiding We Demand a Town Hall
+LOCATION:La Paz/Marguerite\, Mission Viejo\, Mission Viejo\, CA
+DESCRIPTION:Join our peaceful grassroots protest. Defenders of Democracy: 
+ Young Kim\n\nThe corner of La Paz/Marguerite
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=La+Paz%2FMar
+ guerite%2C+Mission+Viejo%2C+Mission+Viejo%2C+CA&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

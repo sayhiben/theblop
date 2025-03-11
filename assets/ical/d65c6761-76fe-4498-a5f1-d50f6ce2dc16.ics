@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:317f1028-7ef6-472a-8476-8e3a828466c1
+SEQUENCE:0
+DTSTAMP:20250311T043711Z
+DTSTART:20250311T163000
+DTEND:20250311T203000
+SUMMARY:Emergency Protest
+LOCATION:230 S Dearborn Ave\, Chicago\, IL
+DESCRIPTION:We are organizing an emergency protest to protect our students
+  and demand the release of Mahmoud Khalil.\n\nFederal Plaza
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=230+S+Dearbo
+ rn+Ave%2C+Chicago%2C+IL&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

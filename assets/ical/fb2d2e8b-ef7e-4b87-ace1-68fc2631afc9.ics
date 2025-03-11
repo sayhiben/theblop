@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:720fc73d-4c4f-4399-aace-8a3bb43017eb
+SEQUENCE:0
+DTSTAMP:20250311T043711Z
+DTSTART:20250314T120000
+DTEND:20250314T160000
+SUMMARY:March for Civil Service
+LOCATION:915 2nd Ave\, Seattle\, WA
+DESCRIPTION:Refuse Musk's illegal layoffs!\n\nHenry Jackson Federal Buildi
+ ng
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=915+2nd+Ave%
+ 2C+Seattle%2C+WA&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

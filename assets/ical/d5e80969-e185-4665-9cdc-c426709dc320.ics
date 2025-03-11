@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:b34455cc-236a-415d-a923-33e03a5854e3
+SEQUENCE:0
+DTSTAMP:20250311T043711Z
+DTSTART:20250314T120000
+DTEND:20250314T160000
+SUMMARY:Support our Veterans Protest
+LOCATION:930 Harris St. Eureka\, Eureka\, CA
+DESCRIPTION:We are organizing a protest against the cuts to the VA and job
+  losses for veterans\, as well as the disrespect shown by the Trump admini
+ stration. The protest will take place at every state Capitol and locally a
+ t the VA Clinic in Eureka.\n\nVA Clinic
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=930+Harris+S
+ t.+Eureka%2C+Eureka%2C+CA&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

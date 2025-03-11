@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:d79f722a-2890-43fe-9552-255ec692a39c
+SEQUENCE:0
+DTSTAMP:20250311T043711Z
+DTSTART:20250315T130000
+DTEND:20250315T170000
+SUMMARY:Defend American Values
+LOCATION:75 Rev. Dr. Martin Luther King Jr. Blvd.\, St. Paul\, MN
+DESCRIPTION:\n\nMinnesota State Capitol
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=75+Rev.+Dr.+
+ Martin+Luther+King+Jr.+Blvd.%2C+St.+Paul%2C+MN&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

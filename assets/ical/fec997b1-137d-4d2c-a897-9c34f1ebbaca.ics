@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:b595d620-1613-461d-bc0c-e1136d833eac
+SEQUENCE:0
+DTSTAMP:20250311T043711Z
+DTSTART:20250312T130000
+DTEND:20250312T170000
+SUMMARY:Fight for 504
+LOCATION:40 Capitol Sq SW\, Atlanta\, GA
+DESCRIPTION:A day of disabled and trans solidarity.\n\nAtlanta\, GA
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=40+Capitol+S
+ q+SW%2C+Atlanta%2C+GA&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:332e71c0-f827-4621-84e4-c05022d6faa8
+SEQUENCE:0
+DTSTAMP:20250311T043711Z
+DTSTART:20250315T160000
+DTEND:20250315T200000
+SUMMARY:We All Stand Up to Fight Back Rally
+LOCATION:Pack Square\, Asheville\, NC
+DESCRIPTION:Join us in rejection of the Billionaire agenda from disaster r
+ elief\, immigration\, federal workers and teachers.\n\nPack Square
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Pack+Square%
+ 2C+Asheville%2C+NC&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

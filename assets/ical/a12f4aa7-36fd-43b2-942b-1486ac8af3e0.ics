@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:38ee91e2-7c15-495f-8db4-c91d387430da
+SEQUENCE:0
+DTSTAMP:20250311T043711Z
+DTSTART:20250312T100000
+DTEND:20250312T140000
+SUMMARY:Ukraine Protest!!
+LOCATION:Castillo de San Marcos (The Fort) St. Augustine Fl
+DESCRIPTION:Say no to Trump and Putin No to selling out our country!\n\nSt
+ . Johns Democratic Party
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Castillo+de+
+ San+Marcos+%28The+Fort%29+St.+Augustine+Fl&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:b7617105-b536-41d6-8570-a4fdf5b41c24
+SEQUENCE:0
+DTSTAMP:20250311T043711Z
+DTSTART:20250311T170000
+DTEND:20250311T210000
+SUMMARY:Stop the Cuts
+LOCATION:Federal Building\, New Bedford\, New Bedford\, MA
+DESCRIPTION:Join us at the 'Stop the Cuts' rally aimed at protesting cuts 
+ to Medicaid\, dismantling governmental services\, deportations\, and tax g
+ iveaways to the wealthiest. Bring your signs and help spread the word.\n\n
+ Federal Building\, New Bedford
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Federal+Buil
+ ding%2C+New+Bedford%2C+New+Bedford%2C+MA&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

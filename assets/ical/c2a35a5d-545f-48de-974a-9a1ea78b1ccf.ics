@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:c0d9f6b0-dba0-4378-88fd-95e292e0ed5a
+SEQUENCE:0
+DTSTAMP:20250311T043711Z
+DTSTART:20250323T130000
+DTEND:20250323T170000
+SUMMARY:Rally to Save USPS
+LOCATION:1199 Capitol Way S\, Olympia\, WA 98501
+DESCRIPTION:Stand with letter carriers. Rally to save USPS.\n\nTivoli Foun
+ tain (Front of Capitol Building)
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=1199+Capitol
+ +Way+S%2C+Olympia%2C+WA+98501&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

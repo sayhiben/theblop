@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:f2760e31-a4b4-4bbe-9d62-07aef2fbbf8f
+SEQUENCE:0
+DTSTAMP:20250311T043711Z
+DTSTART:20250315T120000
+DTEND:20250315T160000
+SUMMARY:Eject Musk Boycott Tesla
+LOCATION:3535 W Henrietta\, Henrietta\, NY
+DESCRIPTION:We are organizing a public demonstration to oppose a coup rela
+ ted to Tesla. Join us to express your stance at the Tesla Showroom.\n\nTes
+ la Showroom
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=3535+W+Henri
+ etta%2C+Henrietta%2C+NY&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

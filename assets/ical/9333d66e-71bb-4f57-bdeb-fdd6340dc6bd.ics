@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:2467f6f2-a340-4187-8b47-c003fed4429e
+SEQUENCE:0
+DTSTAMP:20250311T043711Z
+DTSTART:20250312T160000
+DTEND:20250312T200000
+SUMMARY:Free Mahmoud Khalil Protest
+LOCATION:Tulsa City Hall\, Tulsa\, OK
+DESCRIPTION:Join us in protesting the arrest of Mahmoud Khalil\, who was d
+ etained for speaking against college investments in arms manufacturers lin
+ ked to violence. We urge you to stand with us in defending freedom of spee
+ ch and condemn these actions.\n\nTulsa City Hall
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Tulsa+City+H
+ all%2C+Tulsa%2C+OK&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

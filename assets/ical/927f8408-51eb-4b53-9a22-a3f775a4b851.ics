@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:805526a7-fe37-46a6-baf2-4de74e8a1db8
+SEQUENCE:0
+DTSTAMP:20250311T043711Z
+DTSTART:20250314T120000
+DTEND:20250314T160000
+SUMMARY:Protest for Veterans\, Women's Rights\, Public Lands\, Alaska\, Eq
+ uality
+LOCATION:510 L St.\, Anchorage\, AK
+DESCRIPTION:\n\nPeterson Tower
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=510+L+St.%2C
+ +Anchorage%2C+AK&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

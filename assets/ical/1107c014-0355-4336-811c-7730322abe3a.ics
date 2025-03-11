@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:94695ac2-e42a-4982-8d5f-cfc6d0be43a2
+SEQUENCE:0
+DTSTAMP:20250311T043711Z
+DTSTART:20250311T120000
+DTEND:20250311T160000
+SUMMARY:Popular University Sanctuary University
+LOCATION:UChicago Center Quad\, Chicago\, IL
+DESCRIPTION:We are organizing a walkout and rally to resist the government
+ 's assault on the student movement for Palestinian liberation. Join us in 
+ solidarity and action.\n\nUChicago Center Quad
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=UChicago+Cen
+ ter+Quad%2C+Chicago%2C+IL&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

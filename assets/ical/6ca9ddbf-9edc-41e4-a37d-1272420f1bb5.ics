@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:fef73886-cef8-4a63-b825-6ea5cf9da086
+SEQUENCE:0
+DTSTAMP:20250311T043711Z
+DTSTART:20250315T130000
+DTEND:20250315T170000
+SUMMARY:Indivisible Chester County
+LOCATION:Tesla Store\, 1568 West Chester Pike\, West Chester\, PA 19382
+DESCRIPTION:Want to join me for this @indivisible.org event? Saturday\, Ma
+ rch 15 - 1pm EDT\n\nTesla Store
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Tesla+Store%
+ 2C+1568+West+Chester+Pike%2C+West+Chester%2C+PA+19382&zoom=15&basemap=road
+ map
+END:VEVENT
+END:VCALENDAR
