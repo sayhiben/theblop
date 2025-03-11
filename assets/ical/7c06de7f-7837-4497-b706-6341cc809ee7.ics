@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:79d5ac7e-38f8-4c78-9a8b-9a930abcddcd
+SEQUENCE:0
+DTSTAMP:20250311T120223Z
+DTSTART:20250311T140000
+DTEND:20250311T180000
+SUMMARY:Rise Up & March
+LOCATION:Washington Sq. Park\, New York City\, NY
+DESCRIPTION:We are organizing a march to stand up for our communities and 
+ resist against certain federal authorities. Join us in New York City to ma
+ ke our voices heard.\n\nWashington Sq. Park
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Washington+S
+ q.+Park%2C+New+York+City%2C+NY&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:dbcdc216-2dd6-480f-a595-2d80a7d3f651
+SEQUENCE:0
+DTSTAMP:20250311T120223Z
+DTSTART:20250311T120000
+DTEND:20250311T160000
+SUMMARY:SJP at UC Davis: Emergency Walkout and Protest
+LOCATION:\, Davis\, CA
+DESCRIPTION:Join us for an emergency walkout and protest at UC Davis organ
+ ized by Students for Justice in Palestine. Bring signs\, posters\, keffiye
+ hs\, and masks. A speaker event will follow.\n\nMU Quad
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+Davis%2C
+ +CA&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR
