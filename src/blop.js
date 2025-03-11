@@ -34,7 +34,7 @@ export class Blop {
         "permalink": `https://theblop.org/events/${row.UUID}.html`,
         "ical": `https://theblop.org/assets/ical/${row.UUID}.ics`,
         "raw_text": row.RawText,
-        "raw_description": row.RawDescription,
+        "raw_summary": row.RawSummary,
       };
       return event;
     });
