@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:8e1ca06b-14bc-49fd-8dee-0bad81d3234e
+SEQUENCE:0
+DTSTAMP:20250311T031638Z
+DTSTART:20250311T130000
+DTEND:20250311T170000
+SUMMARY:Protest Against Medicaid and SNAP Cuts
+LOCATION:Central Park Pavilion\, Milford\, MI
+DESCRIPTION:We invite Southeast Michiganders to join us in protesting agai
+ nst cuts to Medicaid and SNAP. Let's gather to discuss how Medicaid has be
+ nefited millions and the risks of proposed budget cuts.\n\nCentral Park Pa
+ vilion
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Central+Park
+ +Pavilion%2C+Milford%2C+MI&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

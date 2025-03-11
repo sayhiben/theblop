@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:df2d3c16-ed23-4c02-9419-088302d7005e
+SEQUENCE:0
+DTSTAMP:20250311T031638Z
+DTSTART:20250323T140000
+DTEND:20250323T180000
+SUMMARY:Stand up! Fight back! Protest Fascism! 2.0
+LOCATION:Northeast corner Walton & Livernois\, Rochester Hills\, MI
+DESCRIPTION:Join us in standing against fascism and the current administra
+ tion at our peaceful protest. We welcome everyone to exercise their first 
+ amendment rights. Bring signs supporting human rights causes. Please note 
+ it is a protest off a main road\, so consider safety for children and pets
+ .\n\nNortheast corner Walton & Livernois Rochester Hills MI
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Northeast+co
+ rner+Walton+%26+Livernois%2C+Rochester+Hills%2C+MI&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

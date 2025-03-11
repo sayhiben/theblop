@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:f804cb40-ae2c-466c-aa82-883fc8caf504
+SEQUENCE:0
+DTSTAMP:20250311T031638Z
+DTSTART:20250315T140000
+DTEND:20250315T180000
+SUMMARY:Use Your Voice Protest
+LOCATION:Courthouse Square\, N. 7th Street\, Stroudsburg\, PA
+DESCRIPTION:We're organizing a protest to voice grievances to local and fe
+ deral officials on important issues. Bring your signs and participate in r
+ aising awareness!\n\nCourthouse Square
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Courthouse+S
+ quare%2C+N.+7th+Street%2C+Stroudsburg%2C+PA&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

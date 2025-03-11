@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:01421dc7-c76c-43db-a258-cfc05fb3f764
+SEQUENCE:0
+DTSTAMP:20250311T031638Z
+DTSTART:20250311T170000
+DTEND:20250311T210000
+SUMMARY:DEFEND THE RIGHT TO PROTEST FOR PALESTINE!
+LOCATION:Federal Building\, 300 S 4th St\, Minneapolis\, MN
+DESCRIPTION:We demand the release of Mahmoud Khalil\, a Columbia Universit
+ y graduate facing deportation for his pro-Palestine activism. Join us to p
+ rotest against the unjust actions by ICE and support Khalil’s cause.\n\n
+ Federal Building\, 300 S 4th St
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Federal+Buil
+ ding%2C+300+S+4th+St%2C+Minneapolis%2C+MN&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR
