@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:16c054ea-098f-4efd-b75b-81946569fe15
+SEQUENCE:0
+DTSTAMP:20250312T120220Z
+DTSTART:20250314T120000
+DTEND:20250314T160000
+SUMMARY:Veterans March
+LOCATION:\, Nationwide\, Nationwide
+DESCRIPTION:We will support and defend the Constitution of the United Stat
+ es against all enemies foreign and domestic. Join us as we stand together 
+ to raise awareness about Project 2025\, which threatens programs veterans 
+ rely on. All are welcome to stand with us.\n\nEvery state capitol
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+Nationwi
+ de%2C+Nationwide&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR
