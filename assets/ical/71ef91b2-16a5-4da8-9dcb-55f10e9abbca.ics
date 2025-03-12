@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:54d9ab7c-bef5-44ac-b04d-985edce139b1
+SEQUENCE:0
+DTSTAMP:20250312T060241Z
+DTSTART:20250313T170000
+DTEND:20250313T210000
+SUMMARY:Rally & Phone Bank For Trans Rights
+LOCATION:4650 W. Sunset Blvd\, Los Angeles\, CA
+DESCRIPTION:Join us as we demand CHLA fully reinstate access to gender-aff
+ irming care. We will peacefully protest for trans rights and participate i
+ n a phone bank and email campaign targeting the hospital administration.\n
+ \nAt the doorstep of Children's Hospital LA
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=4650+W.+Suns
+ et+Blvd%2C+Los+Angeles%2C+CA&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

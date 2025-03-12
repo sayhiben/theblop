@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:1800362b-65ff-483f-a71e-dcaa816b9b33
+SEQUENCE:0
+DTSTAMP:20250312T060241Z
+DTSTART:20250314T163000
+DTEND:20250314T203000
+SUMMARY:#TeslaTakeDown Protest
+LOCATION:755 E Washington Ave\, Madison\, WI
+DESCRIPTION:We are taking action at Tesla. Join the picket lines to boycot
+ t Tesla activities.\n\nTesla Supercharger near East Wash
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=755+E+Washin
+ gton+Ave%2C+Madison%2C+WI&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

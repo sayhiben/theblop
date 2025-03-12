@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:044067dd-7a20-42ed-b9f5-a21093adb960
+SEQUENCE:0
+DTSTAMP:20250312T060241Z
+DTSTART:20250314T120000
+DTEND:20250314T160000
+SUMMARY:Veterans Rally
+LOCATION:Washington State Capitol Campus\, Tivoli Fountain\, Olympia\, WA
+DESCRIPTION:Join us as we stand together for veterans and their families. 
+ We will protest against attempts to undermine healthcare quality and acces
+ sibility\, preserve earned benefits\, and support veterans who have lost f
+ ederal jobs. Bring your homemade signs and make your voices heard.\n\nTivo
+ li Fountain
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Washington+S
+ tate+Capitol+Campus%2C+Tivoli+Fountain%2C+Olympia%2C+WA&zoom=15&basemap=ro
+ admap
+END:VEVENT
+END:VCALENDAR

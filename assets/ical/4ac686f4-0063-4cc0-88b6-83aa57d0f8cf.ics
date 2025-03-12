@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:7a7c6b7c-6fa4-4b0e-a0fc-7a9f3787eb2b
+SEQUENCE:0
+DTSTAMP:20250312T060241Z
+DTSTART:20250316T120000
+DTEND:20250316T160000
+SUMMARY:Save Our Democracy!
+LOCATION:Cadence Bank 2909 13th St\, Gulfport\, MS 39501 to Federal Courth
+ ouse 2012 15th St\, Gulfport\, MS 39501
+DESCRIPTION:Join us for a march to advocate for the freedom of Ukraine and
+  to stand up for our democracy\, which is currently under attack. We begin
+  at Cadence Bank and end at the Federal Courthouse in Gulfport.\n\nCadence
+  Bank 2909 13th St.\, Gulfport\, MS 39501
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Cadence+Bank
+ +2909+13th+St%2C+Gulfport%2C+MS+39501+to+Federal+Courthouse+2012+15th+St%2
+ C+Gulfport%2C+MS+39501&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

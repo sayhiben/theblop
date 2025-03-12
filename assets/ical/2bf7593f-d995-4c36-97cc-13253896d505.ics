@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:8c891985-c2e1-4b35-9ae2-6491fd51be57
+SEQUENCE:0
+DTSTAMP:20250312T060241Z
+DTSTART:20250315T120000
+DTEND:20250315T160000
+SUMMARY:Protest Elon Musk's Illegal Government Takeover
+LOCATION:1901 Del Monte Blvd\, Seaside\, CA
+DESCRIPTION:We are taking action at Tesla. Elon Musk and DOGE are engaged 
+ in an administrative coup of the federal government. Join us to protest ag
+ ainst these actions.\n\nTesla Dealership
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=1901+Del+Mon
+ te+Blvd%2C+Seaside%2C+CA&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

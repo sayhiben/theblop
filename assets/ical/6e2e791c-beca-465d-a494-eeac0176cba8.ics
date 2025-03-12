@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:23717ed5-f5da-4589-ad40-261a4ab26226
+SEQUENCE:0
+DTSTAMP:20250312T060241Z
+DTSTART:20250314T170000
+DTEND:20250314T210000
+SUMMARY:#TeslaTakeDown Protest
+LOCATION:675 South Whitney Way\, Madison\, WI 53711 US
+DESCRIPTION:Join us once again at the Tesla Supercharger station on Madiso
+ n's West Side to protest.\n\nWest Madison Supercharging Station
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=675+South+Wh
+ itney+Way%2C+Madison%2C+WI+53711+US&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

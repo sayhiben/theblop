@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:b71306d3-33b7-40fe-8d3a-52f1f12e384b
+SEQUENCE:0
+DTSTAMP:20250312T060241Z
+DTSTART:20250312T150000
+DTEND:20250312T190000
+SUMMARY:Pack the Room for Immigrant Rights
+LOCATION:Minnesota State Capitol\, Capitol 120\, St. Paul\, MN
+DESCRIPTION:We are organizing this event to oppose bill HF16 and demand pu
+ blic safety for all Minnesotans. This bill would restrict local government
+  policies regarding federal immigration enforcement\, impacting previously
+  passed sanctuary city resolutions. Join us to demonstrate community power
+  by attending the committee hearing or speaking up through emails. Wear wh
+ ite or blue to show solidarity.\n\nMinnesota State Capitol\, Capitol 120
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Minnesota+St
+ ate+Capitol%2C+Capitol+120%2C+St.+Paul%2C+MN&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR
