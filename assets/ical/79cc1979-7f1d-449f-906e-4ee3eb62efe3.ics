@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:66a903a7-c0ae-43c9-a94a-90b0a977770c
+SEQUENCE:0
+DTSTAMP:20250312T090406Z
+DTSTART:20250315T100000
+DTEND:20250315T140000
+SUMMARY:People’s March—Kenosha
+LOCATION:5602 Sheridan Road\, Kenosha\, WI 53140
+DESCRIPTION:Join us in Kenosha as we march forward on March 15\, 2025\, to
+  show our commitment to progress. Organized by Brittany Nikolai\, this eve
+ nt is open to the public and encourages everyone to participate.\n\nCivic 
+ Center Park
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=5602+Sherida
+ n+Road%2C+Kenosha%2C+WI+53140&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

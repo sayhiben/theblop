@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:8b7d93bf-18cd-4e22-938a-641bded53ba4
+SEQUENCE:0
+DTSTAMP:20250312T090406Z
+DTSTART:20250314T150000
+DTEND:20250314T190000
+SUMMARY:Stand with Veterans
+LOCATION:415 S Beretania St\, Honolulu\, HI
+DESCRIPTION:Join us for a sign holding event with community building and a
+ ctivities for children. Show your support for veterans at the Hawai’i St
+ ate Capitol.\n\nHawai’i State Capitol
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=415+S+Bereta
+ nia+St%2C+Honolulu%2C+HI&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:c4f2e3e6-671c-4d3b-a918-d4b24c75f556
+SEQUENCE:0
+DTSTAMP:20250312T090406Z
+DTSTART:20250315T120000
+DTEND:20250315T160000
+SUMMARY:TakeTeslaDown
+LOCATION:2807 Barranca Pkwy.\, Irvine\, CA
+DESCRIPTION:We are organizing a protest against Tesla in Irvine\, CA. Join
+  us to take action by selling your Tesla vehicles\, dumping stocks\, and j
+ oining the picket lines to protest against fascism.\n\nTesla dealership
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=2807+Barranc
+ a+Pkwy.%2C+Irvine%2C+CA&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

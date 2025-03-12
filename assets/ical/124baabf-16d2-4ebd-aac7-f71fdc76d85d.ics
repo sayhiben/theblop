@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:452a8fea-a7d5-4cff-9253-45d85ce8c5fa
+SEQUENCE:0
+DTSTAMP:20250312T090406Z
+DTSTART:20250312T120000
+DTEND:20250312T160000
+SUMMARY:Anti DOGE Rally
+LOCATION:Bicentennial Plaza\, Raleigh\, NC
+DESCRIPTION:Join us for the Anti DOGE Rally to protest against government 
+ policies that cut essential services for tax cuts benefiting billionaires.
+  Stand with the North Carolina Democrats to oppose the Trump-Musk agenda a
+ nd let them know your stance. The rally will occur in Raleigh at Bicentenn
+ ial Plaza.\n\nBicentennial Plaza
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Bicentennial
+ +Plaza%2C+Raleigh%2C+NC&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

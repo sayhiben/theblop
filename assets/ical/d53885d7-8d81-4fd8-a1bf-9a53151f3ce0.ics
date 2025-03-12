@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:b58a47e8-7b79-464e-ad47-1efabce81498
+SEQUENCE:0
+DTSTAMP:20250312T090406Z
+DTSTART:20250315T150000
+DTEND:20250315T190000
+SUMMARY:America Knows No Caesar
+LOCATION:City Deck\, Green Bay\, WI
+DESCRIPTION:Join us at City Deck in Green Bay to stand against corruption 
+ and executive overreach. Bring your signs\, pots\, and pans to make your v
+ oice heard. Speakers\, including E.J. Tree\, will energize this grassroots
+  movement organized by 50501.\n\nCity Deck
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=City+Deck%2C
+ +Green+Bay%2C+WI&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

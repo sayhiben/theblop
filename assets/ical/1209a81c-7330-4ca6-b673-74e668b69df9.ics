@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:99bc4edd-031a-432c-9061-dad1b5296189
+SEQUENCE:0
+DTSTAMP:20250312T090406Z
+DTSTART:20250314T150000
+DTEND:20250314T190000
+SUMMARY:Stop the War on Veterans
+LOCATION:5250 Ralston St\, Ventura\, CA
+DESCRIPTION:We are organizing a protest to stop the war on veterans. Pleas
+ e join us and show support with signs and flags\, standing in solidarity w
+ ith the Veterans March for Democracy in DC.\n\nDepartment of Veteran Affai
+ rs Ventura Outpatient Medical Clinic
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=5250+Ralston
+ +St%2C+Ventura%2C+CA&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:0b211c43-80dd-46ff-a09e-be8f1ee3fcdb
+SEQUENCE:0
+DTSTAMP:20250312T090406Z
+DTSTART:20250316T120000
+DTEND:20250316T160000
+SUMMARY:50 Protests\, 50 States\, 1 Movement
+LOCATION:50 Lincoln Way\, Massillon\, OH\, 44646
+DESCRIPTION:We invite you to join the Ohio chapter of 50501 as we unite Oh
+ ioans in defending democracy and constitutional rights through peaceful pr
+ otest. This event will focus on ending executive overreach and promoting l
+ iberty and justice for all.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=50+Lincoln+W
+ ay%2C+Massillon%2C+OH%2C+44646&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

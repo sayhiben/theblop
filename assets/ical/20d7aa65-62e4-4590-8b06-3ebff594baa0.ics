@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:ee19ba32-03a9-460d-812b-81db86c24b1d
+SEQUENCE:0
+DTSTAMP:20250312T090406Z
+DTSTART:20250329T140000
+DTEND:20250329T180000
+SUMMARY:Remove\, Reverse\, Reclaim Rally
+LOCATION:Railroad Park\, Birmingham\, AL
+DESCRIPTION:Join us in mobilizing to remove Donald Trump\, reverse his act
+ ions\, and reclaim the people's voice. Let's gather together to make a dif
+ ference.\n\nRailroad Park
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Railroad+Par
+ k%2C+Birmingham%2C+AL&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

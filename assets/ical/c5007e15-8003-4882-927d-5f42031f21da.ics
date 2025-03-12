@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:02cf5a0d-08a8-4854-aa0d-0cc63de8425b
+SEQUENCE:0
+DTSTAMP:20250312T090406Z
+DTSTART:20250312T160000
+DTEND:20250312T200000
+SUMMARY:Protest at Tesla
+LOCATION:530 NJ-17\, Paramus\, NJ
+DESCRIPTION:Join us for a protest at the Tesla location in Paramus. We aim
+  to bring attention to specific issues and rally support for our cause.\n\
+ n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=530+NJ-17%2C
+ +Paramus%2C+NJ&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

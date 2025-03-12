@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:981f03c7-af8d-491b-af65-a4f21d5d6e10
+SEQUENCE:0
+DTSTAMP:20250312T090406Z
+DTSTART:20250330T140000
+DTEND:20250330T180000
+SUMMARY:Trans Day of Visibility
+LOCATION:\, Huntsville\, AL
+DESCRIPTION:Join us for the Trans Day of Visibility\, featuring performanc
+ es by Rainbow Trouble. The event includes a presentation titled "Trans Joy
+ ."\n\nShenanigans Comedy Theatre
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+Huntsvil
+ le%2C+AL&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

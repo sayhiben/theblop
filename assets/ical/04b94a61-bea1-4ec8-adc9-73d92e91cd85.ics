@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:1b4122cb-6f97-4bf4-92d3-001dda4c6a6e
+SEQUENCE:0
+DTSTAMP:20250312T090406Z
+DTSTART:20250320T160000
+DTEND:20250320T200000
+SUMMARY:US Mail Not For Sale - Day of Action
+LOCATION:2105 E Cook St.\, Springfield\, IL
+DESCRIPTION:We are organizing a National Day of Action focused on the them
+ e "US Mail Not For Sale" to rally public support. Join us on March 20\, 20
+ 25\, to stand against the privatization of postal services.\n\nSpringfield
+  Post Office
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=2105+E+Cook+
+ St.%2C+Springfield%2C+IL&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

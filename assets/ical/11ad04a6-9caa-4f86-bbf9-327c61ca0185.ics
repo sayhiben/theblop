@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:d8c75ca9-0904-41d4-83c9-9e6ecda38664
+SEQUENCE:0
+DTSTAMP:20250312T090406Z
+DTSTART:20250318T180000
+DTEND:20250318T220000
+SUMMARY:Congressional Town Hall
+LOCATION:116 South Main Street\, Viroqua\, WI
+DESCRIPTION:Join us for an evening of public engagement. This event invite
+ s the community to share comments regarding the impact of recent congressi
+ onal actions on various issues such as Medicaid\, Social Security\, and fa
+ rm funding. Representatives of both parties have been invited.\n\nHistoric
+  Temple Theatre
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=116+South+Ma
+ in+Street%2C+Viroqua%2C+WI&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

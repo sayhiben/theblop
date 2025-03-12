@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:861a5a69-82c1-42ea-832a-e56d10ef5962
+SEQUENCE:0
+DTSTAMP:20250312T090406Z
+DTSTART:20250329T150000
+DTEND:20250329T190000
+SUMMARY:Transgender Day of Visibility
+LOCATION:\, Salt Lake City\, UT
+DESCRIPTION:Join us in celebrating the Transgender Day of Visibility at th
+ e Utah State Capitol.\n\nUtah State Capitol
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+Salt+Lak
+ e+City%2C+UT&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

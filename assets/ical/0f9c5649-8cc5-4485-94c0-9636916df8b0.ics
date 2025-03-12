@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:ab95c654-9baa-4cee-8239-02e1b7f5be3c
+SEQUENCE:0
+DTSTAMP:20250312T090406Z
+DTSTART:20250315T110000
+DTEND:20250315T150000
+SUMMARY:Santa Rosa Tesla Protest
+LOCATION:3286 Airway Dr\, Santa Rosa\, CA 95403
+DESCRIPTION:Join us in a protest organized by Indivisible Sonoma County to
+  express our concerns and make our voices heard.\n\nSanta Rosa Tesla Showr
+ oom
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=3286+Airway+
+ Dr%2C+Santa+Rosa%2C+CA+95403&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

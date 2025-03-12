@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:d8adfd86-05fb-4c27-8b4a-333529bb4272
+SEQUENCE:0
+DTSTAMP:20250312T090406Z
+DTSTART:20250405T000000
+DTEND:20250405T040000
+SUMMARY:Remove\, Reverse\, Reclaim Rally
+LOCATION:\, \, SC
+DESCRIPTION:Join us for a peaceful\, non-partisan rally aimed at removing 
+ corrupt politicians\, reversing the damage\, and reclaiming our democracy.
+  The rally will occur across various South Carolina locations on April 5\,
+  2025.\n\nCities and Towns across South Carolina
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+%2C+SC&z
+ oom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

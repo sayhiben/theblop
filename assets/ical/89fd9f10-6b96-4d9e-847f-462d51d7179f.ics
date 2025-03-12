@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:52ed7631-d1b7-4db4-918c-0c98ad01aaf5
+SEQUENCE:0
+DTSTAMP:20250312T090406Z
+DTSTART:20250314T120000
+DTEND:20250314T160000
+SUMMARY:Support our Veterans! Spontaneous Rally
+LOCATION:Ashland Plaza\, Ashland\, OR
+DESCRIPTION:We are organizing a rally at Ashland Plaza to stand in support
+  of our veterans against Project 2025\, which threatens essential programs
+  and lifelines.\n\nAshland Plaza
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Ashland+Plaz
+ a%2C+Ashland%2C+OR&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

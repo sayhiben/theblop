@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:dd02329f-b6aa-4b33-926b-d217ec239af0
+SEQUENCE:0
+DTSTAMP:20250312T090406Z
+DTSTART:20250313T160000
+DTEND:20250313T200000
+SUMMARY:Musk or Us: Demand Jefferson Van Drew Fight Back!
+LOCATION:1001 Tilton Rd\, Northfield\, NJ
+DESCRIPTION:Join us in Northfield for a community event organized by volun
+ teers for Indivisible to demand action from Jefferson Van Drew.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=1001+Tilton+
+ Rd%2C+Northfield%2C+NJ&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

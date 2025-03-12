@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:9cff6f51-d20b-47a5-a908-d43c6f84e584
+SEQUENCE:0
+DTSTAMP:20250312T090406Z
+DTSTART:20250315T140000
+DTEND:20250315T180000
+SUMMARY:Strategy and Action Meeting
+LOCATION:660 Flormann St\, Rapid City\, SD
+DESCRIPTION:Join us at our Strategy and Action Meeting to collaborate and 
+ take action as part of Indivisible Rapid City. We aim to strategize and un
+ ify efforts for change. Meet us at 660 Flormann St\, Rapid City\, between 
+ Safeway and the Aspen Center.\n\nBetween Safeway & the Aspen Center. Wests
+ ide entrance - lower level.
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=660+Flormann
+ +St%2C+Rapid+City%2C+SD&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

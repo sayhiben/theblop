@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:b762dfd3-4001-4db5-8bb6-4defda76bc09
+SEQUENCE:0
+DTSTAMP:20250312T090406Z
+DTSTART:20250315T130000
+DTEND:20250315T170000
+SUMMARY:THE IDES OF MARCH
+LOCATION:Forward Statue\, Capitol Loop\, Madison\, WI
+DESCRIPTION:Attendees are encouraged to dress in tunics\, togas\, and stol
+ as\, and bring signs and voices.\n\nForward Statue
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Forward+Stat
+ ue%2C+Capitol+Loop%2C+Madison%2C+WI&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

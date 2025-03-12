@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:1e3c930a-ccf3-4a8b-99de-bfd63c3d416d
+SEQUENCE:0
+DTSTAMP:20250312T090406Z
+DTSTART:20250316T120000
+DTEND:20250316T160000
+SUMMARY:Ridgecrest Protest
+LOCATION:SE & SW corners of Ridgecrest & China Lake Blvd\, Ridgecrest\, CA
+DESCRIPTION:We are organizing a recurring protest to draw attention to uns
+ atisfactory current events and engage the 36% of people who did not vote. 
+ This event occurs at the SE & SW corners of Ridgecrest & China Lake Blvd.\
+ n\nSE & SW corners of Ridgecrest & China Lake Blvd
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=SE+%26+SW+co
+ rners+of+Ridgecrest+%26+China+Lake+Blvd%2C+Ridgecrest%2C+CA&zoom=15&basema
+ p=roadmap
+END:VEVENT
+END:VCALENDAR

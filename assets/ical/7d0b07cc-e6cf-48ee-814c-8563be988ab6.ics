@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:24f8a414-33bc-4d82-8653-d3400ab2b65f
+SEQUENCE:0
+DTSTAMP:20250312T090406Z
+DTSTART:20250315T120000
+DTEND:20250315T160000
+SUMMARY:50 Protests\, 50 States\, 1 Movement
+LOCATION:Oxford Uptown Park\, Corner of High and Main Street\, Oxford\, OH
+DESCRIPTION:We organize civic action to uphold constitutional rights\, end
+  executive overreach\, and achieve liberty and justice for all. Join us in
+  Oxford\, OH\, to stand with Americans who believe in democracy and oppose
+  dictatorship.\n\nOxford Uptown Park
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Oxford+Uptow
+ n+Park%2C+Corner+of+High+and+Main+Street%2C+Oxford%2C+OH&zoom=15&basemap=r
+ oadmap
+END:VEVENT
+END:VCALENDAR

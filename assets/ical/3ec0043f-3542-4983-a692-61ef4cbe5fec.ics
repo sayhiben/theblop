@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:648a705f-ccad-4bda-a3a3-aa84834ccd53
+SEQUENCE:0
+DTSTAMP:20250312T090406Z
+DTSTART:20250314T163000
+DTEND:20250314T203000
+SUMMARY:WTF on WNB
+LOCATION:Corner of Milton and W. North Broadway
+DESCRIPTION:Join us for "Waving Toward Freedom" on W. North Broadway to me
+ et neighbors and strengthen our community. This event promotes democracy t
+ hrough monthly gatherings.\n\nCorner of Milton and W. North Broadway
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Corner+of+Mi
+ lton+and+W.+North+Broadway&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:07989389-5d53-4d33-9c9c-7d4e5a4ff56d
+SEQUENCE:0
+DTSTAMP:20250312T090406Z
+DTSTART:20250317T180000
+DTEND:20250317T220000
+SUMMARY:Citizens' Town Hall
+LOCATION:352 S New Rd\, Pleasantville\, NJ
+DESCRIPTION:Join us at the Citizens' Town Hall to make your voice heard an
+ d engage with representatives of the New Jersey Congressional District 2.\
+ n\nThe WinSan Center at Mount Zion Baptist Church
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=352+S+New+Rd
+ %2C+Pleasantville%2C+NJ&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

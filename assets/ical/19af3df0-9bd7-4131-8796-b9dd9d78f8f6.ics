@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:e9105383-abf8-439b-8285-86d004584ff2
+SEQUENCE:0
+DTSTAMP:20250312T090406Z
+DTSTART:20250315T120000
+DTEND:20250315T160000
+SUMMARY:The Resistance Protests
+LOCATION:315 N Main St\, Oshkosh\, WI
+DESCRIPTION:Join us for a volunteer-organized rally at Opera House Square 
+ in Oshkosh\, WI. Meet by the Sundial across from New Moon Cafe.\n\nOpera H
+ ouse Square
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=315+N+Main+S
+ t%2C+Oshkosh%2C+WI&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR
