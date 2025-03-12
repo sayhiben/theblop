@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:cf4ffdef-7fd1-4d7e-917c-ec7729b8c4b8
+SEQUENCE:0
+DTSTAMP:20250312T180257Z
+DTSTART:20250315T120000
+DTEND:20250315T160000
+SUMMARY:Defend Democracy ICT - Peaceful Protest
+LOCATION:Douglas & Broadway\, Northeast Corner\, Wichita\, KS
+DESCRIPTION:Join our peaceful protest as we stand together to defend democ
+ racy and raise our voices. We're gathering at Douglas & Broadway on the no
+ rtheast corner in Wichita\, Kansas.\n\nNortheast Corner
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Douglas+%26+
+ Broadway%2C+Northeast+Corner%2C+Wichita%2C+KS&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

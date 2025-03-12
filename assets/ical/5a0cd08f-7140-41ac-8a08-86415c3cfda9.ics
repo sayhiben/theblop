@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:94b84909-52c7-4021-87e9-26d1d198808c
+SEQUENCE:0
+DTSTAMP:20250312T180257Z
+DTSTART:20250314T170000
+DTEND:20250314T210000
+SUMMARY:PGH Emergency Protest
+LOCATION:\, Pittsburgh\, PA
+DESCRIPTION:An emergency protest demanding the release of Mahmoud Khalil a
+ nd opposing ICE on campuses.\n\nSchenley Plaza
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+Pittsbur
+ gh%2C+PA&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

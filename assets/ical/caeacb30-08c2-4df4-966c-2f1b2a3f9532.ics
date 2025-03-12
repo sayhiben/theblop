@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:cfb9d36f-65f4-4d17-b873-fdf8c93271da
+SEQUENCE:0
+DTSTAMP:20250312T180257Z
+DTSTART:20250315T100000
+DTEND:20250315T140000
+SUMMARY:#TESLATAKEDOWN
+LOCATION:\, Seattle\, WA
+DESCRIPTION:Join us in a series of planned protests against Tesla at multi
+ ple locations. We aim to voice our concerns and make an impact. Find a pro
+ test near you and participate in this collective action.\n\nMultiple locat
+ ions including Lynnwood\, Seattle (South Lake Union and U-Village)\, Belle
+ vue\, Renton\, and Tacoma (Fife)
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+Seattle%
+ 2C+WA&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

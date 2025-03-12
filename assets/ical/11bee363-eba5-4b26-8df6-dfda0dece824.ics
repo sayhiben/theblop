@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:768764bd-ceca-44a0-be59-d1fb6fd8f624
+SEQUENCE:0
+DTSTAMP:20250312T180258Z
+DTSTART:20250405T120000
+DTEND:20250405T160000
+SUMMARY:REMOVE REVERSE RECLAIM
+LOCATION:Historic Courthouse Park Lawn\, Monroe\, WI
+DESCRIPTION:Join the 50501 Movement for a sit-in event at the historic cou
+ rthouse park lawn in Monroe\, WI. We aim to inspire change and action. Spe
+ akers will begin at noon. Be part of the movement and make your voice hear
+ d.\n\nHistoric Courthouse Park Lawn
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Historic+Cou
+ rthouse+Park+Lawn%2C+Monroe%2C+WI&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

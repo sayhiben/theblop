@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:63ddfcfc-4966-4de7-9ced-86a3e5c505aa
+SEQUENCE:0
+DTSTAMP:20250312T180257Z
+DTSTART:20250314T163000
+DTEND:20250314T203000
+SUMMARY:Rally: Rep. Troy Nehls - “Hold a Town Hall!”
+LOCATION:6510 FM359 200\, Fulshear\, TX
+DESCRIPTION:Join us for an advocacy event with Rep. Troy Nehls as he hosts
+  a town hall to discuss community issues\, gather input\, and engage with 
+ constituents in Fulshear\, Texas.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=6510+FM359+2
+ 00%2C+Fulshear%2C+TX&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR
