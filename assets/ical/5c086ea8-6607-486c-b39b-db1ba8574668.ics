@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:4649223a-602b-4226-a04c-bb4b7ef8609a
+SEQUENCE:0
+DTSTAMP:20250312T203050Z
+DTSTART:20250325T120000
+DTEND:20250325T160000
+SUMMARY:STAND AT TESLA
+LOCATION:334 Main St\, Waterville Maine\, Waterville\, ME
+DESCRIPTION:Join us for a recurring event at the Elm Plaza Tesla charging 
+ station in Waterville\, Maine. We meet every Tuesday from 12 PM to 1 PM. C
+ ome stand with us and show your support.\n\nElm Plaza Tesla charging stati
+ on
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=334+Main+St%
+ 2C+Waterville+Maine%2C+Waterville%2C+ME&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

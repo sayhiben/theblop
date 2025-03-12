@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:a2b9ae92-4112-4e02-b58c-c94cca54a1bd
+SEQUENCE:0
+DTSTAMP:20250312T203050Z
+DTSTART:20250330T130000
+DTEND:20250330T170000
+SUMMARY:Stand Up to Preserve and Restore Our Country
+LOCATION:1 Kennedy Memorial Dr\, Waterville\, ME
+DESCRIPTION:Join us every Sunday to stand up and actively participate in p
+ reserving and restoring our country’s values. This event is held on the 
+ bridge next to CVS in Waterville.\n\nOn the bridge next to CVS
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=1+Kennedy+Me
+ morial+Dr%2C+Waterville%2C+ME&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:06ee18fc-8867-4c98-b53e-5419205405a0
+SEQUENCE:0
+DTSTAMP:20250312T203050Z
+DTSTART:20250315T110000
+DTEND:20250315T150000
+SUMMARY:Indy Against Elon
+LOCATION:8280 Castleton Corner Dr\, Indianapolis\, IN
+DESCRIPTION:We are hosting an event titled "Indy Against Elon" at Tesla Ca
+ stleton. Join us for a gathering against Elon Musk's initiatives.\n\nTesla
+  Castleton
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=8280+Castlet
+ on+Corner+Dr%2C+Indianapolis%2C+IN&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

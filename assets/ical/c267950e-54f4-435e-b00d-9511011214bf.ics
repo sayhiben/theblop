@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:d8fbd5c1-c191-49bf-a6e7-0006eb43ee2f
+SEQUENCE:0
+DTSTAMP:20250312T203050Z
+DTSTART:20250312T130000
+DTEND:20250312T170000
+SUMMARY:We Are The 57%
+LOCATION:Old Florida Capitol\, Tallahassee\, FL
+DESCRIPTION:Join us for a rally to end the abortion ban at the Old Florida
+  Capitol. We aim to amplify our voices and make an impact.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Old+Florida+
+ Capitol%2C+Tallahassee%2C+FL&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:8243c0d0-4ce5-421b-afcf-86545b1d2f68
+SEQUENCE:0
+DTSTAMP:20250312T203050Z
+DTSTART:20250329T120000
+DTEND:20250329T160000
+SUMMARY:General Protest
+LOCATION:Damariscotta-Newcastle bridge\, Bus US Rt1\, Damariscotta\, ME
+DESCRIPTION:We invite you to join us for a general protest at the Damarisc
+ otta-Newcastle bridge. Bring your signs to support the cause every Saturda
+ y at noon.\n\nDamariscotta-Newcastle bridge
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Damariscotta
+ -Newcastle+bridge%2C+Bus+US+Rt1%2C+Damariscotta%2C+ME&zoom=15&basemap=road
+ map
+END:VEVENT
+END:VCALENDAR
