@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:a0ff325f-5a68-48cf-afac-b1e07f4891a7
+SEQUENCE:0
+DTSTAMP:20250313T000603Z
+DTSTART:20250315T120000
+DTEND:20250315T160000
+SUMMARY:Musk or Us: Protest at TESLA Store
+LOCATION:1246 Broadway Plaza #1094\, Walnut Creek\, CA
+DESCRIPTION:Join us in taking action against the Trump-Musk Coup and extre
+ mist budget cuts. Show up at the Walnut Creek Tesla showroom every Saturda
+ y at 12pm. Participate in this consistent protest to make a statement agai
+ nst Tesla's policies.\n\nTesla\, Broadway Plaza
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=1246+Broadwa
+ y+Plaza+%231094%2C+Walnut+Creek%2C+CA&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:e53f6a2f-be9f-4d25-b2b2-d7eabf025a79
+SEQUENCE:0
+DTSTAMP:20250313T000603Z
+DTSTART:20250317T120000
+DTEND:20250317T160000
+SUMMARY:SF - Takedown Tesla!
+LOCATION:999 Van Ness Ave\, San Francisco\, CA
+DESCRIPTION:We are hosting an event to support Federal Workers standing up
+  to Elon Musk. Join us at the Tesla dealership\, participate in picket lin
+ es\, and help us stop the tech-oligarch takeover of the government.\n\nTes
+ la dealership at 999 Van Ness Avenue\, SF
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=999+Van+Ness
+ +Ave%2C+San+Francisco%2C+CA&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

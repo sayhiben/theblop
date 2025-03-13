@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:f126b1ac-a202-423b-8eac-1d1279799fe2
+SEQUENCE:0
+DTSTAMP:20250313T000603Z
+DTSTART:20250318T160000
+DTEND:20250318T200000
+SUMMARY:Oakland - Lake Merritt Trump Vigil
+LOCATION:corner of Grand and Lake Park\, near the Grand Lake cinema\, Oakl
+ and\, CA
+DESCRIPTION:We invite you to join us for the Oakland - Lake Merritt Trump 
+ Vigil\, organized by local Indivisible. Held weekly at the corner of Grand
+  and Lake Park near the Grand Lake cinema\, we gather to express peaceful 
+ dissent and lend support to those feeling targeted by the regime. Join us 
+ as we carry signs and promote a message of solidarity.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=corner+of+Gr
+ and+and+Lake+Park%2C+near+the+Grand+Lake+cinema%2C+Oakland%2C+CA&zoom=15&b
+ asemap=roadmap
+END:VEVENT
+END:VCALENDAR

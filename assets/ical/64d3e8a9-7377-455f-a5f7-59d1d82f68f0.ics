@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:c90ad484-8e21-4441-8926-cd6a4a28a0bb
+SEQUENCE:0
+DTSTAMP:20250313T000603Z
+DTSTART:20250318T170000
+DTEND:20250318T210000
+SUMMARY:Lafayette - Lamorinda Peace & Justice
+LOCATION:Mount Diablo Boulevard & Moraga Road\, Lafayette\, CA
+DESCRIPTION:Since February 2025\, we have been protesting Trump's and Musk
+ 's policies and other injustices every Tuesday from 5 to 6 PM at the corne
+ r of Mt Diablo Blvd and Moraga Road in Lafayette. We’ve attracted around
+  100 to 130 regulars so far.\n\nCorner of Mt Diablo Blvd and Moraga Road
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Mount+Diablo
+ +Boulevard+%26+Moraga+Road%2C+Lafayette%2C+CA&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

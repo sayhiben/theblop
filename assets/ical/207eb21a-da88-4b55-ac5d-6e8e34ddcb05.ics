@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:e639b906-57cf-4ba2-b484-919023813227
+SEQUENCE:0
+DTSTAMP:20250313T000603Z
+DTSTART:20250315T140000
+DTEND:20250315T180000
+SUMMARY:Protest Elon Musk
+LOCATION:750 E El Camino Real\, Sunnyvale\, CA
+DESCRIPTION:We are organizing a nonviolent rally at the Tesla Sunnyvale Sa
+ les to protest against Elon Musk's actions\, which are seen as a threat to
+  democracy. Join us to express our opposition and help push back against h
+ is influence.\n\nTesla Sunnyvale Sales Office
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=750+E+El+Cam
+ ino+Real%2C+Sunnyvale%2C+CA&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

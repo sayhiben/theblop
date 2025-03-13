@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:c3ee9f4b-90a0-4227-9c53-6517a2b067b2
+SEQUENCE:0
+DTSTAMP:20250313T000603Z
+DTSTART:20250320T110000
+DTEND:20250320T150000
+SUMMARY:Hands off! our public Postal Service! RALLY!
+LOCATION:1 Capitol Sq\, Columbus\, OH 43215\; 850 Twin Rivers Dr\, Columbu
+ s\, OH 43216
+DESCRIPTION:Join us for a National Day of Action rally organized by Columb
+ us Area Local 232 of the American Postal Workers Union\, AFL-CIO\, to stan
+ d in support of our public Postal Service.\n\nOhio Statehouse\, Twin River
+ s Post Office
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=1+Capitol+Sq
+ %2C+Columbus%2C+OH+43215%3B+850+Twin+Rivers+Dr%2C+Columbus%2C+OH+43216&zoo
+ m=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:d570daa7-7b5b-4d85-bb2d-7d4d46bc286b
+SEQUENCE:0
+DTSTAMP:20250313T000603Z
+DTSTART:20250315T150000
+DTEND:20250315T190000
+SUMMARY:Corte Madera - Veterans TeslaTakedown
+LOCATION:Tesla\, 201 Casa Buena Dr\, Corte Madera\, CA
+DESCRIPTION:Join us in Corte Madera for a protest against Tesla\, coordina
+ ted by local activists. We'll gather every Saturday from 3:00 PM to 4:00 P
+ M to rally against Tesla and Elon Musk. Activities include selling Tesla s
+ tocks and joining picket lines to fight for our democracy. Show your suppo
+ rt by wearing insignia and hats. RSVP for updates.\n\nTesla\, 201 Casa Bue
+ na Dr
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Tesla%2C+201
+ +Casa+Buena+Dr%2C+Corte+Madera%2C+CA&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

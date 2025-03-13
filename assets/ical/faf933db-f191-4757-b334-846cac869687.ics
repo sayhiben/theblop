@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:9f9aaf76-dfaa-4017-a86e-ef0cc591d125
+SEQUENCE:0
+DTSTAMP:20250313T000603Z
+DTSTART:20250315T120000
+DTEND:20250315T160000
+SUMMARY:Tesla Takedown NYC
+LOCATION:860 Washington Street\, New York\, NY 10014
+DESCRIPTION:Join us for the Tesla Takedown NYC event at the Tesla NYC Show
+ room\, where we will engage in discussions and activities focused on autom
+ otive topics.\n\nTesla NYC Showroom
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=860+Washingt
+ on+Street%2C+New+York%2C+NY+10014&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

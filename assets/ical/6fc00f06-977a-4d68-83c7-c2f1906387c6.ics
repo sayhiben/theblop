@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:848b0c6f-4d09-423c-a18d-000cb67b0f3c
+SEQUENCE:0
+DTSTAMP:20250313T000603Z
+DTSTART:20250315T110000
+DTEND:20250315T150000
+SUMMARY:Vallejo - Tesla Take Down
+LOCATION:1001 Admiral Callaghan Ln\, Vallejo\, CA
+DESCRIPTION:We are organizing a protest at Tesla to take action against th
+ e company and its leadership. Join us to sell your Tesla stocks and partic
+ ipate in the picket lines. Our aim is to stop Musk and help save lives and
+  our democracy.\n\nTesla
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=1001+Admiral
+ +Callaghan+Ln%2C+Vallejo%2C+CA&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

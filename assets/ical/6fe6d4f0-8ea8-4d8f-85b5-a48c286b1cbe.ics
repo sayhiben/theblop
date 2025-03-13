@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:d977a5a5-92d5-47ce-9f21-5fb9910f3f6e
+SEQUENCE:0
+DTSTAMP:20250313T000603Z
+DTSTART:20250315T120000
+DTEND:20250315T160000
+SUMMARY:SF - People Over Profit Protest
+LOCATION:Tesla\, 999 Van Ness Ave\, San Francisco\, CA
+DESCRIPTION:We invite people to join us in a peaceful protest against the 
+ influence of billionaires in America. Our 'People Over Profit' movement ch
+ allenges those like Elon Musk\, advocating for government accountability a
+ nd support for programs that help working people.\n\nTesla\, 999 Van Ness 
+ Ave\, San Francisco\, CA 94109\, USA
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Tesla%2C+999
+ +Van+Ness+Ave%2C+San+Francisco%2C+CA&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

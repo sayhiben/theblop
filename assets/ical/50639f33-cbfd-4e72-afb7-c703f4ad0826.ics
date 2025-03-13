@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:5f76bf3d-2d4f-40ed-a4a9-4b6bef9c37d9
+SEQUENCE:0
+DTSTAMP:20250313T000603Z
+DTSTART:20250315T120000
+DTEND:20250315T160000
+SUMMARY:Dublin - Tesla Takedown
+LOCATION:6701 Amador Plaza Rd\, Dublin\, CA
+DESCRIPTION:We are taking action at Tesla. Sell your Teslas\, dump your st
+ ock\, join the picket lines. Hurting Tesla is stopping Musk. Stopping Musk
+  will help save lives and our democracy. The stakes couldn’t be higher.\
+ n\nTesla
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=6701+Amador+
+ Plaza+Rd%2C+Dublin%2C+CA&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

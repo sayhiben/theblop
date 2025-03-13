@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:a8ca4dff-8d19-4598-a90a-1d284ef5ca54
+SEQUENCE:0
+DTSTAMP:20250313T000603Z
+DTSTART:20250316T160000
+DTEND:20250316T200000
+SUMMARY:Community Vigil for Gaza
+LOCATION:El Camino Real & Embarcadero Rd\, Palo Alto\, CA
+DESCRIPTION:We are organizing a community vigil in Palo Alto to protest ag
+ ainst genocide\, occupation\, and apartheid. Join us as part of our weekly
+  Sunday vigil\, rain or shine\, as we stand in solidarity with Gaza.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=El+Camino+Re
+ al+%26+Embarcadero+Rd%2C+Palo+Alto%2C+CA&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:58e1ab1c-a0e0-44f0-9af6-863d2ad9532c
+SEQUENCE:0
+DTSTAMP:20250313T000603Z
+DTSTART:20250320T183000
+DTEND:20250320T223000
+SUMMARY:Town Hall for District 4
+LOCATION:Faucett Brothers Activity Center\, Northport\, AL
+DESCRIPTION:A platform to discuss matters shaping our lives and community.
+  This event allows you to voice concerns and opinions\, learn about local 
+ impacts of current events\, and engage with neighbors.\n\nFaucett Brothers
+  Activity Center
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Faucett+Brot
+ hers+Activity+Center%2C+Northport%2C+AL&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

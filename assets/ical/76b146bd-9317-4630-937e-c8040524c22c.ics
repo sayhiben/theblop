@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:7e524cfb-893c-4e93-8ddf-4e92142df1d9
+SEQUENCE:0
+DTSTAMP:20250313T000603Z
+DTSTART:20250322T180000
+DTEND:20250322T220000
+SUMMARY:Town Hall Meeting
+LOCATION:24861 Airport Rd\, Athens\, AL
+DESCRIPTION:We invite you to join us for a Town Hall Meeting to show your 
+ support\, voice your concerns\, and collaborate with your community. The t
+ opic of discussion will be the impacts of D.O.G.E. and the administration
+ ’s Executive Orders on the North Alabama Community. Dale Strong\, Alabam
+ a CD 5 Representative\, will be present.\n\nEl Opry Event Center
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=24861+Airpor
+ t+Rd%2C+Athens%2C+AL&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

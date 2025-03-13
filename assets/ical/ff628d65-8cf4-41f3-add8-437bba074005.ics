@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:ce575d8f-77a0-43dc-9ac2-df4f5549a2cc
+SEQUENCE:0
+DTSTAMP:20250313T000603Z
+DTSTART:20250315T120000
+DTEND:20250315T160000
+SUMMARY:Protect Our Public Lands
+LOCATION:1220 SW 3rd Ave\, Portland\, OR
+DESCRIPTION:We are gathering in Portland to advocate for the protection of
+  our public lands. Join us at the Edith Green Federal Building and make yo
+ ur voice heard. Wear green to show your support.\n\nCorner of 3rd and Madi
+ son
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=1220+SW+3rd+
+ Ave%2C+Portland%2C+OR&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR
