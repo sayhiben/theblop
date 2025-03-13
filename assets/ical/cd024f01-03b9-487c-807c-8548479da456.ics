@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:c0b65274-a875-4583-bbd8-fd08726eff96
+SEQUENCE:0
+DTSTAMP:20250313T201358Z
+DTSTART:20250314T160000
+DTEND:20250314T200000
+SUMMARY:Protest - Where is John James?
+LOCATION:30500 Van Dyke Ave\, Warren\, MI
+DESCRIPTION:We are organizing a peaceful protest against John James' lack 
+ of support for veterans\, the elderly\, and democracy. Join us as we rally
+  at his office\, demanding accountability and communication with constitue
+ nts. Parking is suggested nearby at Olive Garden or Fifth Third Bank\, and
+  attendees are advised to keep moving and stay on public sidewalks.\n\nJoh
+ n James Office on the Public Sidewalk
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=30500+Van+Dy
+ ke+Ave%2C+Warren%2C+MI&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

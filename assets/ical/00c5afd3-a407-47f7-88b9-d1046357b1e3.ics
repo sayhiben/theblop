@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:261fa5b6-8943-46f6-9017-c1bedafe413a
+SEQUENCE:0
+DTSTAMP:20250313T201358Z
+DTSTART:20250314T120000
+DTEND:20250314T160000
+SUMMARY:Stand With the Veterans March
+LOCATION:4101 Woolworth Avenue\, Omaha\, NE
+DESCRIPTION:Join us in advocating for the protection of VA benefits\, fund
+ ing\, and federal employees. We will gather at the Omaha VAMC to make our 
+ voices heard and encourage Secretary Collins and others to support a stron
+ g VA. Attendees are asked to line the sidewalk orderly without impeding ho
+ spital traffic.\n\nOmaha VAMC
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=4101+Woolwor
+ th+Avenue%2C+Omaha%2C+NE&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

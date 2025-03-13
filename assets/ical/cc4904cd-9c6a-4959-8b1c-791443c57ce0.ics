@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:56e92a1e-b078-4eef-b24f-445829d4057a
+SEQUENCE:0
+DTSTAMP:20250313T201358Z
+DTSTART:20250314T120000
+DTEND:20250314T160000
+SUMMARY:Peaceful Protest Against Unlawful and Inhumane Detainment
+LOCATION:31 Hopkins Pl\, Baltimore\, MD
+DESCRIPTION:Join us in a peaceful protest against the unlawful and inhuman
+ e detainment of immigrants. We aim to gather in Baltimore City to voice ou
+ r concerns and demand change.\n\nGeorge H. Fallon Federal Building
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=31+Hopkins+P
+ l%2C+Baltimore%2C+MD&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

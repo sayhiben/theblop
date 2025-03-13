@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:4d26ca09-fbd3-41ad-b35b-11dcd19b89ee
+SEQUENCE:0
+DTSTAMP:20250313T201359Z
+DTSTART:20250315T130000
+DTEND:20250315T170000
+SUMMARY:Rally for Trans Visibility
+LOCATION:Dupont Circle\, Washington\, DC
+DESCRIPTION:We intend a peaceful protest to confront with love\, focusing 
+ on trans visibility and stopping digital genocide. Bring signs and essenti
+ als. Prepare for inclement weather.\n\nDupont Circle
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Dupont+Circl
+ e%2C+Washington%2C+DC&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

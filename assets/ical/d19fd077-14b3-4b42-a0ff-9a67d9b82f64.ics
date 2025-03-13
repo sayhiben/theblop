@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:bc692dd7-9c7c-403a-a8b8-eaf37f38a50f
+SEQUENCE:0
+DTSTAMP:20250313T201358Z
+DTSTART:20250314T150000
+DTEND:20250314T190000
+SUMMARY:Veterans for Democracy
+LOCATION:801 Grand Ave\, San Luis Obispo\, CA
+DESCRIPTION:A protest organized to defend the flag we’ve sworn to protec
+ t.\n\nVet's Hall
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=801+Grand+Av
+ e%2C+San+Luis+Obispo%2C+CA&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

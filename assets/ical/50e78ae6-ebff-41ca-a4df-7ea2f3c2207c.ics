@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:58ebf234-ab2a-4f7a-8ba6-91c4fcd4b3b8
+SEQUENCE:0
+DTSTAMP:20250313T201359Z
+DTSTART:20250315T133000
+DTEND:20250315T173000
+SUMMARY:TESLA 'TAKEDOWN'
+LOCATION:2829 N. Federal Highway\, Fort Lauderdale\, FL 33306
+DESCRIPTION:Join us for a peaceful protest at the Tesla showroom in Ft Lau
+ derdale to show your support against billionaires. Bring friends and signs
+ .\n\nTesla Showroom - Fort Lauderdale
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=2829+N.+Fede
+ ral+Highway%2C+Fort+Lauderdale%2C+FL+33306&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

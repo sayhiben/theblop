@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:747a9beb-cdf2-4705-a2b4-5e28a00aa49d
+SEQUENCE:0
+DTSTAMP:20250313T201358Z
+DTSTART:20250314T153000
+DTEND:20250314T193000
+SUMMARY:Federal Employees @ WPAFB
+LOCATION:SR 444 Across from the Main Gate/Hope Hotel entrance\, Fairborn\,
+  OH
+DESCRIPTION:Join us as we show our support for our federal employees at WP
+ AFB. Bring a friend and signs of support!\n\nOn grass strip across from Ma
+ in Gate on 444
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=SR+444+Acros
+ s+from+the+Main+Gate%2FHope+Hotel+entrance%2C+Fairborn%2C+OH&zoom=15&basem
+ ap=roadmap
+END:VEVENT
+END:VCALENDAR
