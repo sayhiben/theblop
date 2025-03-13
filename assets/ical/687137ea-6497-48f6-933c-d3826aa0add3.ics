@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:771d61ec-eb4c-4618-83ec-9ac4edd22a3f
+SEQUENCE:0
+DTSTAMP:20250313T193216Z
+DTSTART:20250314T120000
+DTEND:20250314T160000
+SUMMARY:Rise up for justice! Rally/Protest
+LOCATION:The Federal Plaza\, San Diego\, CA
+DESCRIPTION:We are gathering to protest against Trump's agenda. Join us at
+  the Federal Plaza after meeting at the Westin Gaslamp Quarter to stand up
+  for justice.\n\nMain Entrance of the Westin Gaslamp Quarter
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=The+Federal+
+ Plaza%2C+San+Diego%2C+CA&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

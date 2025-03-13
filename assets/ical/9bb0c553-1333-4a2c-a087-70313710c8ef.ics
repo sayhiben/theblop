@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:48d0f682-b445-4726-9afa-27d5568fb279
+SEQUENCE:0
+DTSTAMP:20250313T193216Z
+DTSTART:20250314T160000
+DTEND:20250314T200000
+SUMMARY:Rally to Defend Democracy
+LOCATION:\, Mansfield\, OH
+DESCRIPTION:Join us in downtown Mansfield\, Ohio\, to defend democracy and
+  uphold constitutional rights against executive overreach. The protest wel
+ comes everyone passionate about protecting democratic principles. Inspirin
+ g leaders will address the crowd at 4:15 PM. Participants are encouraged t
+ o bring signs to voice concerns and show commitment to safeguarding democr
+ acy.\n\nBoth sides of the Square in front of the Gazebo
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+Mansfiel
+ d%2C+OH&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

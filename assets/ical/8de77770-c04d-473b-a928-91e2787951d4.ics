@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:7e01466a-e47f-4a95-a4d7-aeb24ba3fe3b
+SEQUENCE:0
+DTSTAMP:20250313T193217Z
+DTSTART:20250318T164500
+DTEND:20250318T204500
+SUMMARY:TESLA TAKEDOWN DUPAGE
+LOCATION:3200 Ogden Ave\, Lisle\, IL
+DESCRIPTION:The event is a rally to protest against authoritarian actions 
+ threatening democracy. Participants include families\, U.S. Representative
+ s\, and organizations.\n\nIn front of Tesla
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=3200+Ogden+A
+ ve%2C+Lisle%2C+IL&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR
