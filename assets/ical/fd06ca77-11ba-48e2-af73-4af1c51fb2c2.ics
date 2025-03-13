@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:64e038cd-f477-46ac-a5eb-43d2c4c54b87
+SEQUENCE:0
+DTSTAMP:20250313T150216Z
+DTSTART:20250313T170000
+DTEND:20250313T210000
+SUMMARY:Las Vegas-Clark County Library District Board Meeting
+LOCATION:5175 E Tropicana Ave\, Las Vegas\, NV
+DESCRIPTION:Join us to discuss important matters concerning DEIA in librar
+ ies. Your voice matters\, and we encourage public attendance and comments.
+ \n\nWhitney Library
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=5175+E+Tropi
+ cana+Ave%2C+Las+Vegas%2C+NV&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR
