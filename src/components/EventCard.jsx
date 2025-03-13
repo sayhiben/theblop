@@ -94,17 +94,39 @@ export function EventCard({ event, dateKey, baseAssetPath }) {
   }
   const mapUrl = getMapsUrl(displayAddress);
 
-  const linkElements = event.Links.split(',').map((link, i) => {
-    const url = link.trim();
+  function findURLs(text) {
+    const regex = /\b(?:https?:\/\/)?(?:www\.)?[-a-zA-Z0-9@:%._\+~#=]{1,256}\.[a-zA-Z0-9()]{1,6}\b(?:[-a-zA-Z0-9()@:%_\+.~#?&\/=]*)/gi;
+    return text.match(regex) || [];
+  }
+ 
+  // event.Links could be a string like "[link1, link2]", "['link1', 'link2']", or "link1, link2", or might only have one link by itself "link1", so we need to coerce it into an array
+  const links = event.Links.replace(/[\[\]']+/g, '').split(',').map((link) => {
+    const l = link.trim();
+    if (!findURLs(l).length) {
+      return null;
+    }
+    if (!l || l === 'N/A' || l === '' || l === 'null' || l === 'undefined') {
+      return null;
+    }
+    if (!l.startsWith('http')) {
+      return `https://${l}`;
+    }
+    return l;
+  }).filter(l => l);
+  const linkElements = links.map((link) => {
     return (
-      <a
-        key={i}
-        href={url}
-        className="text-blue-600 dark:text-blue-200 hover:text-blue-800 underline text-sm"
-        target='_blank'
-        rel='noopener noreferrer'>{link}</a>
+      <div className="flex justify-start mb-2">
+        <div className="mr-2" title="Links">🔗</div>
+        <a
+          href={link}
+          className="text-blue-600 dark:text-blue-200 hover:text-blue-800 underline text-sm"
+          target='_blank'
+          rel='noopener noreferrer'>
+            {link}
+        </a>
+      </div>
     )
-  }).filter(el => el !== null && el.length > 0);
+  })
 
   const copyHtml = `
   <div>
@@ -201,11 +223,7 @@ Description: ${event.Description}
                   <div className="mr-2" title="Meeting Location">📝</div>
                   <div>{event["Meeting Location"]}</div>
                 </div>}
-              {linkElements.length > 0 &&
-                <div className="flex justify-start mb-2">
-                  <div className="mr-2" title="Links">🔗</div>
-                  <div>{linkElements}</div>
-                </div>}
+              { linkElements && linkElements.length > 0 && linkElements }
               {event.Sponsors &&
                 <div className="flex justify-start mb-2">
                   <div className="mr-2" title="Organizations and Sponsors">👥</div>
