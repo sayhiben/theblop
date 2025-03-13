@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:189d626f-b556-4bf4-9ce0-b97d53bb6e21
+SEQUENCE:0
+DTSTAMP:20250313T060225Z
+DTSTART:20250320T170000
+DTEND:20250320T210000
+SUMMARY:Hands off! Rally to Protect the Public Postal Service
+LOCATION:Daniel J Doffyn Post Office\, 3750 N. Kedzie\, Chicago\, IL
+DESCRIPTION:Join us to rally for the protection of our public Postal Servi
+ ce. This event will gather supporters to stand up for local post offices.\
+ n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Daniel+J+Dof
+ fyn+Post+Office%2C+3750+N.+Kedzie%2C+Chicago%2C+IL&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

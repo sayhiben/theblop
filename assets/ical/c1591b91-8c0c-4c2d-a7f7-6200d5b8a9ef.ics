@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:19d0f790-707d-4f53-8e3f-9bdb64f60cfc
+SEQUENCE:0
+DTSTAMP:20250313T060224Z
+DTSTART:20250314T164500
+DTEND:20250314T204500
+SUMMARY:Tesla Takedown Peaceful Picketing
+LOCATION:320 W Golf Rd\, Schaumburg\, IL
+DESCRIPTION:Join us for a peaceful picketing event at Tesla Schaumburg to 
+ express our concerns and make our voices heard.\n\nTesla Schaumburg
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=320+W+Golf+R
+ d%2C+Schaumburg%2C+IL&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR
