@@ -101,21 +101,29 @@ export function EventCard({ event, dateKey, baseAssetPath }) {
  
   // event.Links could be a string like "[link1, link2]", "['link1', 'link2']", or "link1, link2", or might only have one link by itself "link1", so we need to coerce it into an array
   const links = event.Links.replace(/[\[\]']+/g, '').split(',').map((link) => {
-    const l = link.trim();
+    const l = link.trim().toLowerCase();
+    // handle reddit links
+    if (l.startsWith('/r/') || l.startsWith('r/')) {
+      const path = l.replace('/r/', '').replace('r/', '');
+      return `https://www.reddit.com/r/${path}`;
+    }
+    // otherwise if it's not a URL, toss it
     if (!findURLs(l).length) {
       return null;
     }
     if (!l || l === 'N/A' || l === '' || l === 'null' || l === 'undefined') {
       return null;
     }
+    // add https:// to the link if it doesn't have a protocol
     if (!l.startsWith('http')) {
       return `https://${l}`;
     }
     return l;
   }).filter(l => l);
-  const linkElements = links.map((link) => {
+
+  const linkElements = links.map((link, i) => {
     return (
-      <div className="flex justify-start mb-2">
+      <div key={i} className="flex justify-start mb-2">
         <div className="mr-2" title="Links">🔗</div>
         <a
           href={link}
