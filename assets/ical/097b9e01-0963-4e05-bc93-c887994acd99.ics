@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:5f2d1c66-52d3-4204-9032-66e39f4c44b7
+SEQUENCE:0
+DTSTAMP:20250313T064729Z
+DTSTART:20250314T120000
+DTEND:20250314T160000
+SUMMARY:Veterans March
+LOCATION:City Hall\, Newport\, RI
+DESCRIPTION:We are organizing a rally to support veterans and defend the C
+ onstitution of the United States. Join us in expressing concerns about how
+  Project 2025 affects veteran programs.\n\nNewport City Hall
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=City+Hall%2C
+ +Newport%2C+RI&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

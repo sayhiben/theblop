@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:4e6b3a85-cb34-4435-bc7e-1aa7ed330738
+SEQUENCE:0
+DTSTAMP:20250313T064730Z
+DTSTART:20250328T160000
+DTEND:20250328T200000
+SUMMARY:Rally at Acacia Park
+LOCATION:115E Platte Avenue\, Colorado Springs\, CO
+DESCRIPTION:Join us at Acacia Park to stand against war\, fascism\, and pa
+ rticular political figures. We are gathering to protect essential social a
+ nd economic rights.\n\nAcacia Park
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=115E+Platte+
+ Avenue%2C+Colorado+Springs%2C+CO&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

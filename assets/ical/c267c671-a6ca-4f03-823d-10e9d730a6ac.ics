@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:38059400-8779-40d5-9aac-c3839c36b40f
+SEQUENCE:0
+DTSTAMP:20250313T064730Z
+DTSTART:20250315T120000
+DTEND:20250315T160000
+SUMMARY:Join the protest
+LOCATION:125 W State St\, Trenton\, NJ
+DESCRIPTION:Join us for a protest at the capitol featuring Congressman Her
+ b Conaway as a guest speaker\, focusing on reversing movements across 50 s
+ tates.\n\nCapitol
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=125+W+State+
+ St%2C+Trenton%2C+NJ&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

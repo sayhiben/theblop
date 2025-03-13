@@ -234,9 +234,7 @@
     "state": "RI",
     "address": "Faunce Arch",
     "meeting_location": "Faunce Arch",
-    "links": [
-      "[]"
-    ],
+    "links": [],
     "sponsors": [
       "Brown Divest Coalition",
       " Brown Activist Coalition"
@@ -1789,6 +1787,26 @@
     "raw_summary": "The image is a flyer for a \"Veteran's March\" event happening in Salem, Oregon, on Friday, March 14th, 2025, starting at 12 noon. Participants are instructed to meet at the north end of Capitol Park, at the intersection of Center and Summer Streets."
   },
   {
+    "id": "097b9e01-0963-4e05-bc93-c887994acd99",
+    "title": "Veterans March",
+    "date": "Friday, March 14, 2025",
+    "time": "12:00 PM",
+    "description": "We are organizing a rally to support veterans and defend the Constitution of the United States. Join us in expressing concerns about how Project 2025 affects veteran programs.",
+    "city": "Newport",
+    "state": "RI",
+    "address": "City Hall",
+    "meeting_location": "Newport City Hall",
+    "links": [],
+    "sponsors": [],
+    "image_url": "https://theblop.org/assets/images/097b9e01-0963-4e05-bc93-c887994acd99.png",
+    "thumbnail_url": "https://theblop.org/assets/images/097b9e01-0963-4e05-bc93-c887994acd99-thumb.jpg",
+    "canonical_id": "",
+    "permalink": "https://theblop.org/events/097b9e01-0963-4e05-bc93-c887994acd99.html",
+    "ical": "https://theblop.org/assets/ical/097b9e01-0963-4e05-bc93-c887994acd99.ics",
+    "raw_text": "LETS SUPPORT THIS RALLY FOR VETERANS.\nFRIDAY 3/14/25, NOON\nNEWPORT CITY HALL\n\nWe dont take an oath to a king.\n-Gen Mark Milley\n\nVETERANS MARCH\nI will support and defend the Constitution of the United States against all enemies foreign and domestic; that I will bear true faith and allegiance to the same.\n\nProject 2025 will decimate programs veterans rely on and has already eliminated vital lifelines (Veterans Crisis Line)\n\nFRIDAY\n14 MAR 2025\nNOON",
+    "raw_summary": "This is a rally event named \"Veterans March\" scheduled on March 14, 2025, at noon. The event will take place at Newport City Hall. The march is organized to support veterans and defend the Constitution of the United States. Concerns about \"Project 2025\" affecting veteran programs are also highlighted."
+  },
+  {
     "id": "aaff9646-4336-4b32-b481-da9a93132c3b",
     "title": "Veterans March",
     "date": "Friday, March 14, 2025",
@@ -2394,6 +2412,26 @@
     "raw_summary": "The flyer is for a protest event called \"San Diego Veterans' Protest,\" happening at the San Diego Veterans Museum on March 14, 2025, from 4 to 6 PM. The event is a rally against cuts to veterans services and benefits, organized by Veterans For Peace and Activist San Diego."
   },
   {
+    "id": "e5769b19-17db-412a-be62-f15edc286838",
+    "title": "March to Maralago",
+    "date": "Friday, March 14, 2025",
+    "time": "4:00 PM",
+    "description": "Join us to show support for Ukraine and save Medicaid while opposing oligarchs. Bring flags, signs, and water for this important event at Dreher Park.",
+    "city": "West Palm Beach?",
+    "state": "FL",
+    "address": "Southern Blvd entrance, Dreher Park",
+    "meeting_location": "Southern Blvd entrance ((City/state is best guess))",
+    "links": [],
+    "sponsors": [],
+    "image_url": "https://theblop.org/assets/images/e5769b19-17db-412a-be62-f15edc286838.jpg",
+    "thumbnail_url": "https://theblop.org/assets/images/e5769b19-17db-412a-be62-f15edc286838-thumb.jpg",
+    "canonical_id": "",
+    "permalink": "https://theblop.org/events/e5769b19-17db-412a-be62-f15edc286838.html",
+    "ical": "https://theblop.org/assets/ical/e5769b19-17db-412a-be62-f15edc286838.ics",
+    "raw_text": "March or bring chairs and stay at the park entrance. Bring flags, signs and water!!\n\nMARCH TO MARALAGO\n\nSUPPORT UKRAINE * NO DOGE\nSAVE MEDICAID * NO OLIGARCHS\n\nMarch 14, 2025\nDreher Park\nSouthern Blvd entrance\n4pm-9:30pm\n\nTrump motorcade to drive by 6:30-7pm",
+    "raw_summary": "The flyer promotes an event called \"March to Maralago,\" advocating for supporting Ukraine and saving Medicaid while opposing oligarchs and \"doge.\" It is scheduled for March 14, 2025, at Dreher Park, Southern Blvd entrance, from 4 pm to 9:30 pm, with a Trump motorcade passing by between 6:30 and 7 pm."
+  },
+  {
     "id": "d7d205cb-6066-41a1-8d4d-33475f2967ee",
     "title": "Rally & Protest in Warren",
     "date": "Friday, March 14, 2025",
@@ -2714,26 +2752,6 @@
     "raw_summary": "A protest organized by Peaceful Patriots against the Winnebago County GOP Lincoln Day Dinner is scheduled to occur on March 14, 2025, from 4:00 PM to 6:00 PM in Oshkosh, WI. The protest aims to express discontent with attendees of the GOP dinner. Participants are encouraged to bring flags and signs and are instructed to remain on public sidewalks. A second group may also gather nearby."
   },
   {
-    "id": "e5769b19-17db-412a-be62-f15edc286838",
-    "title": "March to Maralago",
-    "date": "Friday, March 14, 2025",
-    "time": "4:00 PM",
-    "description": "Join us to show support for Ukraine and save Medicaid while opposing oligarchs. Bring flags, signs, and water for this important event at Dreher Park.",
-    "city": "West Palm Beach?",
-    "state": "FL",
-    "address": "Southern Blvd entrance, Dreher Park",
-    "meeting_location": "Southern Blvd entrance ((City/state is best guess))",
-    "links": [],
-    "sponsors": [],
-    "image_url": "https://theblop.org/assets/images/e5769b19-17db-412a-be62-f15edc286838.jpg",
-    "thumbnail_url": "https://theblop.org/assets/images/e5769b19-17db-412a-be62-f15edc286838-thumb.jpg",
-    "canonical_id": "",
-    "permalink": "https://theblop.org/events/e5769b19-17db-412a-be62-f15edc286838.html",
-    "ical": "https://theblop.org/assets/ical/e5769b19-17db-412a-be62-f15edc286838.ics",
-    "raw_text": "March or bring chairs and stay at the park entrance. Bring flags, signs and water!!\n\nMARCH TO MARALAGO\n\nSUPPORT UKRAINE * NO DOGE\nSAVE MEDICAID * NO OLIGARCHS\n\nMarch 14, 2025\nDreher Park\nSouthern Blvd entrance\n4pm-9:30pm\n\nTrump motorcade to drive by 6:30-7pm",
-    "raw_summary": "The flyer promotes an event called \"March to Maralago,\" advocating for supporting Ukraine and saving Medicaid while opposing oligarchs and \"doge.\" It is scheduled for March 14, 2025, at Dreher Park, Southern Blvd entrance, from 4 pm to 9:30 pm, with a Trump motorcade passing by between 6:30 and 7 pm."
-  },
-  {
     "id": "e6446dcc-5b0d-456a-8a5f-013f5bba1ca7",
     "title": "Sign Waving at the Granada Bridge - Democracy Is Not a Spectator Sport",
     "date": "Friday, March 14, 2025",
@@ -2980,6 +2998,26 @@
     "ical": "https://theblop.org/assets/ical/7e14d01a-cc01-441f-9673-0e078f6641ac.ics",
     "raw_text": "Tesla Takedown Peaceful Picketing\n\nStart: Friday, March 14, 2025 • 4:45 PM\nEnd: Friday, March 14, 2025 • 5:45 PM\nLocation: Tesla Schaumburg • 320 W Golf Rd, Schaumburg, IL 60195 US\n\nhttps://actionnetwork.org/events/tesla-takedown-peaceful-picketing\n\nElon Musk is destroying our democracy, and he's using the fortune he built at Tesla to do it. We are taking action at Tesla to stop Musk's illegal coup.\n\nSell your Teslas, dump your stock, join the picket lines.\n\nWe're tanking Tesla's stock price to stop Musk.\n\nStopping Musk will help save lives and protect our democracy.\n\nThe stakes couldn’t be higher. No one is coming to save us. Not politicians, not the media, not the courts.\n\nTesla Takedown is a peaceful protest movement. We oppose violence, vandalism and destruction of property. This protest is a lawful exercise of our First Amendment right to peaceful assembly.",
     "raw_summary": "The flyer announces a peaceful protest event called \"Tesla Takedown Peaceful Picketing\" scheduled for March 14, 2025, starting at 4:45 PM and ending at 5:45 PM at Tesla Schaumburg, located in Schaumburg, IL. The protest aims to oppose Elon Musk and his influence on democracy, advocating for actions like selling Teslas and joining picket lines. The movement emphasizes that it is peaceful and legally protected as a First Amendment right."
+  },
+  {
+    "id": "c1591b91-8c0c-4c2d-a7f7-6200d5b8a9ef",
+    "title": "Tesla Takedown Peaceful Picketing",
+    "date": "Friday, March 14, 2025",
+    "time": "4:45 PM",
+    "description": "Join us for a peaceful picketing event at Tesla Schaumburg to express our concerns and make our voices heard.",
+    "city": "Schaumburg",
+    "state": "IL",
+    "address": "320 W Golf Rd",
+    "meeting_location": "Tesla Schaumburg",
+    "links": [],
+    "sponsors": [],
+    "image_url": "https://theblop.org/assets/images/c1591b91-8c0c-4c2d-a7f7-6200d5b8a9ef.jpg",
+    "thumbnail_url": "https://theblop.org/assets/images/c1591b91-8c0c-4c2d-a7f7-6200d5b8a9ef-thumb.jpg",
+    "canonical_id": "7e14d01a-cc01-441f-9673-0e078f6641ac",
+    "permalink": "https://theblop.org/events/c1591b91-8c0c-4c2d-a7f7-6200d5b8a9ef.html",
+    "ical": "https://theblop.org/assets/ical/c1591b91-8c0c-4c2d-a7f7-6200d5b8a9ef.ics",
+    "raw_text": "Tesla Takedown Peaceful Picketing\n\nSTART:  \nFriday, March 14, 2025  \n4:45 PM  \n\nEND:  \nFriday, March 14, 2025  \n5:45 PM  \n\nLOCATION:  \nTesla Schaumburg  \n320 W Golf Rd, Schaumburg, IL 60195 US",
+    "raw_summary": "The image is advertising a peaceful picketing event titled \"Tesla Takedown\" to be held at Tesla Schaumburg on March 14, 2025. The event starts at 4:45 PM and ends at 5:45 PM."
   },
   {
     "id": "864d9f39-5ce5-403b-b974-501058bef981",
@@ -3409,26 +3447,6 @@
     "ical": "https://theblop.org/assets/ical/085bfa65-427e-4004-aafe-893892c77703.ics",
     "raw_text": "",
     "raw_summary": ""
-  },
-  {
-    "id": "c1591b91-8c0c-4c2d-a7f7-6200d5b8a9ef",
-    "title": "Tesla Takedown Peaceful Picketing",
-    "date": "Friday, March 14, 2025",
-    "time": "4:45 PM",
-    "description": "Join us for a peaceful picketing event at Tesla Schaumburg to express our concerns and make our voices heard.",
-    "city": "Schaumburg",
-    "state": "IL",
-    "address": "320 W Golf Rd",
-    "meeting_location": "Tesla Schaumburg",
-    "links": [],
-    "sponsors": [],
-    "image_url": "https://theblop.org/assets/images/c1591b91-8c0c-4c2d-a7f7-6200d5b8a9ef.jpg",
-    "thumbnail_url": "https://theblop.org/assets/images/c1591b91-8c0c-4c2d-a7f7-6200d5b8a9ef-thumb.jpg",
-    "canonical_id": "",
-    "permalink": "https://theblop.org/events/c1591b91-8c0c-4c2d-a7f7-6200d5b8a9ef.html",
-    "ical": "https://theblop.org/assets/ical/c1591b91-8c0c-4c2d-a7f7-6200d5b8a9ef.ics",
-    "raw_text": "Tesla Takedown Peaceful Picketing\n\nSTART:  \nFriday, March 14, 2025  \n4:45 PM  \n\nEND:  \nFriday, March 14, 2025  \n5:45 PM  \n\nLOCATION:  \nTesla Schaumburg  \n320 W Golf Rd, Schaumburg, IL 60195 US",
-    "raw_summary": "The image is advertising a peaceful picketing event titled \"Tesla Takedown\" to be held at Tesla Schaumburg on March 14, 2025. The event starts at 4:45 PM and ends at 5:45 PM."
   },
   {
     "id": "a131c9c3-9388-4206-828d-be9460f445ec",
@@ -4997,6 +5015,26 @@
     "ical": "https://theblop.org/assets/ical/79cc1979-7f1d-449f-906e-4ee3eb62efe3.ics",
     "raw_text": "WE ARE NOT GOING BACKWARDS. ON MARCH 15, 2025 WE MARCH FORWARD JOIN US MARCH ON KENOSHA, WI—MAR 15 10-2 Saturday at 10 AM People’s March—Kenosha Public · Event by Brittany Nikolai Civic Center Park 5602 Sheridan Road, Kenosha, WI 53140 · 140 mi 23 going · 102 interested Public · Anyone on or off Facebook",
     "raw_summary": "The image is promoting an event called \"People’s March—Kenosha,\" which will take place on March 15, 2025, from 10 AM to 2 PM at Civic Center Park in Kenosha, WI. It is a public event organized by Brittany Nikolai, encouraging people to join a march with the theme \"We March Forward.\""
+  },
+  {
+    "id": "32a1b45b-c0cf-4655-986b-758342476f66",
+    "title": "Lincoln Day Luncheon Protest",
+    "date": "Saturday, March 15, 2025",
+    "time": "10:30 AM",
+    "description": "Join us for a protest against Rep. Darin LaHood who has not held a town hall meeting. We aim to demand a town hall by gathering during the Stark County Republican Lincoln Day Luncheon.",
+    "city": "Toulon",
+    "state": "IL",
+    "address": "101 W Main Street",
+    "meeting_location": "The small park with a gazebo caddy corner from the Bistro",
+    "links": [],
+    "sponsors": [],
+    "image_url": "https://theblop.org/assets/images/32a1b45b-c0cf-4655-986b-758342476f66.jpg",
+    "thumbnail_url": "https://theblop.org/assets/images/32a1b45b-c0cf-4655-986b-758342476f66-thumb.jpg",
+    "canonical_id": "",
+    "permalink": "https://theblop.org/events/32a1b45b-c0cf-4655-986b-758342476f66.html",
+    "ical": "https://theblop.org/assets/ical/32a1b45b-c0cf-4655-986b-758342476f66.ics",
+    "raw_text": "BE HEARD!\n\nLINCOLN DAY LUNCHEON PROTEST\n\nDARIN LAHOOD WON’T HOLD A TOWN HALL\nSO LET’S COME TO HIM!\n\nREP. LAHOOD IS ATTENDING THE STARK COUNTY REPUBLICAN LINCOLN\nDAY LUNCHEON. TOULON IS A SMALL TOWN—A PROTEST DEMANDING A\nTOWN HALL WILL BE NOTICED!\n\nDATE: SATURDAY MARCH 15TH\nTIME: 10:33O AM-?\n\nWHERE: THE SMALL PARK WITH A\nGAZEBO CADDY CORNER FROM THE\nBISTRO (101 W MAIN STREET)\n\nTOULON, IL",
+    "raw_summary": "A protest is being organized against Rep. Darin LaHood, who has not held a town hall meeting. The protest will occur during the Stark County Republican Lincoln Day Luncheon in Toulon, IL, aiming to demand a town hall meeting. The event is set for 10:30 AM on March 15th at a small park with a gazebo near the Bistro."
   },
   {
     "id": "592b18ed-ae83-4cf0-b06e-49512ee7afcd",
@@ -6667,7 +6705,7 @@
     ],
     "image_url": "https://theblop.org/assets/images/8a43f6c2-9f54-4f45-b4b7-ecf864178b68.png",
     "thumbnail_url": "https://theblop.org/assets/images/8a43f6c2-9f54-4f45-b4b7-ecf864178b68-thumb.jpg",
-    "canonical_id": "3f75b73a-0aed-4d27-9c4e-08d1786d0e54",
+    "canonical_id": "f788a2c3-8226-49a3-8a41-f07d47304ed3",
     "permalink": "https://theblop.org/events/8a43f6c2-9f54-4f45-b4b7-ecf864178b68.html",
     "ical": "https://theblop.org/assets/ical/8a43f6c2-9f54-4f45-b4b7-ecf864178b68.ics",
     "raw_text": "REMOVE REVERSE RECLAIM REMOVE corrupt politicians from office REVERSE the damage RECLAIM our democracy SATURDAY MARCH 15TH 2025 RALLY AT NOON MARCH AT 1 PM COLORADO STATE CAPITOL 200 E COLFAX AVE DENVER CO https://www.FiftyFifty.one #50501Movement 50 protests • 50 states • 1 movement 50 50 1",
@@ -6689,11 +6727,35 @@
     ],
     "image_url": "https://theblop.org/assets/images/3f75b73a-0aed-4d27-9c4e-08d1786d0e54.png",
     "thumbnail_url": "https://theblop.org/assets/images/3f75b73a-0aed-4d27-9c4e-08d1786d0e54-thumb.jpg",
-    "canonical_id": "",
+    "canonical_id": "f788a2c3-8226-49a3-8a41-f07d47304ed3",
     "permalink": "https://theblop.org/events/3f75b73a-0aed-4d27-9c4e-08d1786d0e54.html",
     "ical": "https://theblop.org/assets/ical/3f75b73a-0aed-4d27-9c4e-08d1786d0e54.ics",
     "raw_text": "50 50 1 C\nUPHOLD\nLIMIT\nPROTECT\nMARCH 15TH\n12:00PM TO 6:00PM\nAT THE WESTERN STEPS AT THE DENVER CAPITOL BUILDING\nTOGETHER WE MARCH FOR COLORADO!\nJOIN US!\nNIL SINE NUMINE - NOTHING WITHOUT PROVIDENCE OR DEITY",
     "raw_summary": "The flyer is promoting a public event on March 15th, happening from 12:00 PM to 6:00 PM. The location for the event is specified as the western steps at the Denver Capitol Building. It calls for a march with the themes of \"Uphold, Limit, Protect\" and emphasizes unity with the phrase \"Together we march for Colorado! Join us!\""
+  },
+  {
+    "id": "f788a2c3-8226-49a3-8a41-f07d47304ed3",
+    "title": "REMOVE REVERSE RECLAIM",
+    "date": "Saturday, March 15, 2025",
+    "time": "12:00 PM",
+    "description": "We are hosting a movement to remove corrupt politicians, reverse the damage, and reclaim our democracy with protests across 50 states. Join us for a rally and march to make your voice heard.",
+    "city": "Denver",
+    "state": "CO",
+    "address": "200 E Colfax Ave",
+    "meeting_location": "Colorado State Capitol",
+    "links": [
+      "https://www.FiftyFifty.one"
+    ],
+    "sponsors": [
+      "50501Movement"
+    ],
+    "image_url": "https://theblop.org/assets/images/f788a2c3-8226-49a3-8a41-f07d47304ed3.png",
+    "thumbnail_url": "https://theblop.org/assets/images/f788a2c3-8226-49a3-8a41-f07d47304ed3-thumb.jpg",
+    "canonical_id": "",
+    "permalink": "https://theblop.org/events/f788a2c3-8226-49a3-8a41-f07d47304ed3.html",
+    "ical": "https://theblop.org/assets/ical/f788a2c3-8226-49a3-8a41-f07d47304ed3.ics",
+    "raw_text": "50 PROTESTS • 50 STATES • 1 MOVEMENT  REMOVE REVERSE RECLAIM  REMOVE CORRUPT POLITICIANS FROM OFFICE  REVERSE THE DAMAGE  RECLAIM OUR DEMOCRACY  SATURDAY  MARCH 15TH 2025  RALLY AT NOON  MARCH AT 1 PM  COLORADO STATE CAPITOL  200 E COLFAX AVE  DENVER CO    50/50  1  https://www.FiftyFifty.one #50501Movement",
+    "raw_summary": "This flyer announces a movement involving protests across 50 states, emphasizing the themes of removing corrupt politicians, reversing the damage, and reclaiming democracy. The event in question is scheduled for Saturday, March 15th, 2025, with a rally at noon and a march at 1 PM at the Colorado State Capitol, located at 200 East Colfax Avenue, Denver, CO. It is part of the 50/50 movement, with more information available at the provided website and hashtag."
   },
   {
     "id": "cc7401d0-0cb0-4dbf-8df7-d4ede11bfa0f",
@@ -7395,7 +7457,7 @@
     ],
     "image_url": "https://theblop.org/assets/images/dd0c620c-a67a-40df-a291-d34e5a0d29b7.png",
     "thumbnail_url": "https://theblop.org/assets/images/dd0c620c-a67a-40df-a291-d34e5a0d29b7-thumb.jpg",
-    "canonical_id": "08e1fbf9-a847-4fe2-9e82-0cfb5ebda64d",
+    "canonical_id": "c267c671-a6ca-4f03-823d-10e9d730a6ac",
     "permalink": "https://theblop.org/events/dd0c620c-a67a-40df-a291-d34e5a0d29b7.html",
     "ical": "https://theblop.org/assets/ical/dd0c620c-a67a-40df-a291-d34e5a0d29b7.ics",
     "raw_text": "",
@@ -7415,11 +7477,34 @@
     "sponsors": [],
     "image_url": "https://theblop.org/assets/images/08e1fbf9-a847-4fe2-9e82-0cfb5ebda64d.png",
     "thumbnail_url": "https://theblop.org/assets/images/08e1fbf9-a847-4fe2-9e82-0cfb5ebda64d-thumb.jpg",
-    "canonical_id": "",
+    "canonical_id": "c267c671-a6ca-4f03-823d-10e9d730a6ac",
     "permalink": "https://theblop.org/events/08e1fbf9-a847-4fe2-9e82-0cfb5ebda64d.html",
     "ical": "https://theblop.org/assets/ical/08e1fbf9-a847-4fe2-9e82-0cfb5ebda64d.ics",
     "raw_text": "50 States, 50 Capitol, 1 movement\nREMOVE    REVERSE    RECLAIM\n\nMarch Against Tyranny\nAbsolute power corrupts absolutely\n\nWhen: 12-4pm, March 15th\nWhere: 125 W State St, Trenton, NJ\n\nNullus Dictator Perpetuus\nNo Perpetual Dictator",
     "raw_summary": "The flyer announces a march against tyranny, highlighting the theme \"Absolute power corrupts absolutely\". It includes details about the event date and location: March 15th, 12-4pm at 125 W State St, Trenton, NJ."
+  },
+  {
+    "id": "c267c671-a6ca-4f03-823d-10e9d730a6ac",
+    "title": "Join the Protest",
+    "date": "Saturday, March 15, 2025",
+    "time": "12:00 PM",
+    "description": "Join us for a protest at the capitol featuring Congressman Herb Conaway as a guest speaker, focusing on reversing movements across 50 states.",
+    "city": "Trenton",
+    "state": "NJ",
+    "address": "125 W State St",
+    "meeting_location": "Capitol",
+    "links": [],
+    "sponsors": [
+      "Congressman Herb Conaway",
+      " MD"
+    ],
+    "image_url": "https://theblop.org/assets/images/c267c671-a6ca-4f03-823d-10e9d730a6ac.png",
+    "thumbnail_url": "https://theblop.org/assets/images/c267c671-a6ca-4f03-823d-10e9d730a6ac-thumb.jpg",
+    "canonical_id": "",
+    "permalink": "https://theblop.org/events/c267c671-a6ca-4f03-823d-10e9d730a6ac.html",
+    "ical": "https://theblop.org/assets/ical/c267c671-a6ca-4f03-823d-10e9d730a6ac.ics",
+    "raw_text": "50 STATES, 50 CAPITOLS, 1 MOVEMENT\nREMOVE REVERSE\nRECLAIM\n\nCONGRESSMAN\nHERB CONAWAY, MD\nPROUDLY SERVING NEW JERSEY 3RD CONGRESSIONAL DISTRICT\n\nNow attending as a Guest speaker!\nJoin the protest!\n\nWhen: 12-4pm, March 15th\nWhere: 125 W State St, Trenton, NJ",
+    "raw_summary": "The flyer is promoting a protest event at the capitol in Trenton, NJ, with Congressman Herb Conaway attending as a guest speaker. It emphasizes reversing a movement across 50 states."
   },
   {
     "id": "90825734-68f2-414c-8e02-5166d228a538",
@@ -9897,26 +9982,6 @@
     "raw_summary": "The image invites people to join the 50501 Houston group for a \"St. Paddy's Day Parade March\" happening on Saturday, March 15. For more details, visitors are encouraged to visit the provided link."
   },
   {
-    "id": "32a1b45b-c0cf-4655-986b-758342476f66",
-    "title": "Lincoln Day Luncheon Protest",
-    "date": "Saturday, March 15, 2025",
-    "time": "10:30 AM",
-    "description": "Join us for a protest against Rep. Darin LaHood who has not held a town hall meeting. We aim to demand a town hall by gathering during the Stark County Republican Lincoln Day Luncheon.",
-    "city": "Toulon",
-    "state": "IL",
-    "address": "101 W Main Street",
-    "meeting_location": "The small park with a gazebo caddy corner from the Bistro",
-    "links": [],
-    "sponsors": [],
-    "image_url": "https://theblop.org/assets/images/32a1b45b-c0cf-4655-986b-758342476f66.jpg",
-    "thumbnail_url": "https://theblop.org/assets/images/32a1b45b-c0cf-4655-986b-758342476f66-thumb.jpg",
-    "canonical_id": "",
-    "permalink": "https://theblop.org/events/32a1b45b-c0cf-4655-986b-758342476f66.html",
-    "ical": "https://theblop.org/assets/ical/32a1b45b-c0cf-4655-986b-758342476f66.ics",
-    "raw_text": "BE HEARD!\n\nLINCOLN DAY LUNCHEON PROTEST\n\nDARIN LAHOOD WON’T HOLD A TOWN HALL\nSO LET’S COME TO HIM!\n\nREP. LAHOOD IS ATTENDING THE STARK COUNTY REPUBLICAN LINCOLN\nDAY LUNCHEON. TOULON IS A SMALL TOWN—A PROTEST DEMANDING A\nTOWN HALL WILL BE NOTICED!\n\nDATE: SATURDAY MARCH 15TH\nTIME: 10:33O AM-?\n\nWHERE: THE SMALL PARK WITH A\nGAZEBO CADDY CORNER FROM THE\nBISTRO (101 W MAIN STREET)\n\nTOULON, IL",
-    "raw_summary": "A protest is being organized against Rep. Darin LaHood, who has not held a town hall meeting. The protest will occur during the Stark County Republican Lincoln Day Luncheon in Toulon, IL, aiming to demand a town hall meeting. The event is set for 10:30 AM on March 15th at a small park with a gazebo near the Bistro."
-  },
-  {
     "id": "0afccd65-4601-4f03-b2be-7cc388a9ab6c",
     "title": "Tesla Takedown",
     "date": "Sunday, March 16, 2025",
@@ -11562,6 +11627,30 @@
     "raw_summary": "The flyer promotes a \"US Mail Not For Sale - Day of Action,\" part of a national initiative happening on March 20, 2025. It is organized by Lincoln Land Area Local #239. The gathering is scheduled for 4:00 PM at the Springfield Post Office, located at 2105 East Cook Street, Springfield, IL. More information can be found at https://apwu.org/day-of-action."
   },
   {
+    "id": "82851dea-e3fc-4824-9ae2-96a1fc31be62",
+    "title": "Hands Off! Rally to Protect the Public Postal Service",
+    "date": "Thursday, March 20, 2025",
+    "time": "5:00 PM",
+    "description": "Join us to rally for the protection of our public Postal Service. This event will gather supporters to stand up for local post offices.",
+    "city": "Chicago",
+    "state": "IL",
+    "address": "Daniel J Doffyn Post Office, 3750 N. Kedzie",
+    "meeting_location": "",
+    "links": [
+      "APWU.ORG/ACTION"
+    ],
+    "sponsors": [
+      "APWU"
+    ],
+    "image_url": "https://theblop.org/assets/images/82851dea-e3fc-4824-9ae2-96a1fc31be62.png",
+    "thumbnail_url": "https://theblop.org/assets/images/82851dea-e3fc-4824-9ae2-96a1fc31be62-thumb.jpg",
+    "canonical_id": "",
+    "permalink": "https://theblop.org/events/82851dea-e3fc-4824-9ae2-96a1fc31be62.html",
+    "ical": "https://theblop.org/assets/ical/82851dea-e3fc-4824-9ae2-96a1fc31be62.ics",
+    "raw_text": "APWU\nHands off!\nour public Postal Service!\nJoin our rally to protect our public Post Office!\n\nDATE: Thursday, March 20\nTIME: 5:00 p.m.\nADDRESS: Daniel J Doffyn Post Office\n3750 N. Kedzie\nChicago, IL 60618 US\n\nFOR MORE INFO CONTACT:\nKeith M. Richardson\nPresident, APWU Local 0001\nkeithrichardsonapwu@gmail.com\n\nLearn and get involved at:\nAPWU.ORG/ACTION\nor scan the QR code.",
+    "raw_summary": "A rally organized by the APWU to protect the public Postal Service. It will be held at the Daniel J Doffyn Post Office in Chicago on Thursday, March 20, at 5:00 p.m. For more information, contact Keith M. Richardson at keithrichardsonapwu@gmail.com."
+  },
+  {
     "id": "ab245f6e-dd69-45c0-a45d-48016181adb5",
     "title": "Town Hall Meeting",
     "date": "Thursday, March 20, 2025",
@@ -11605,30 +11694,6 @@
     "ical": "https://theblop.org/assets/ical/f180c7aa-61f1-42ba-84cc-c22170b5f1a2.ics",
     "raw_text": "TOWN HALL FOR DISTRICT 4\n\nA platform to discuss matters shaping our lives and community. Whether you’re attending to voice your concerns and opinions, learn about how current events affect us locally, and engage with your neighbors, this event is for you!\n\nWHEN:\n\nThurs, March 20\n\n6:30pm - 7:30pm\n\nWHERE:\n\nFaucett Brothers Activity Center Northport, AL\n\nWE’LL BE THERE!\n\n...Will you be there, Rep. Robert Aderholt? Your constituents have much to discuss!",
     "raw_summary": "A Town Hall for District 4 is being held to discuss community issues on Thursday, March 20, from 6:30 PM to 7:30 PM at Faucett Brothers Activity Center in Northport, AL. The event is aimed at sharing concerns, understanding current events' local impact, and engaging with neighbors."
-  },
-  {
-    "id": "82851dea-e3fc-4824-9ae2-96a1fc31be62",
-    "title": "Hands Off! Rally to Protect the Public Postal Service",
-    "date": "Thursday, March 20, 2025",
-    "time": "5:00 PM",
-    "description": "Join us to rally for the protection of our public Postal Service. This event will gather supporters to stand up for local post offices.",
-    "city": "Chicago",
-    "state": "IL",
-    "address": "Daniel J Doffyn Post Office, 3750 N. Kedzie",
-    "meeting_location": "",
-    "links": [
-      "APWU.ORG/ACTION"
-    ],
-    "sponsors": [
-      "APWU"
-    ],
-    "image_url": "https://theblop.org/assets/images/82851dea-e3fc-4824-9ae2-96a1fc31be62.png",
-    "thumbnail_url": "https://theblop.org/assets/images/82851dea-e3fc-4824-9ae2-96a1fc31be62-thumb.jpg",
-    "canonical_id": "",
-    "permalink": "https://theblop.org/events/82851dea-e3fc-4824-9ae2-96a1fc31be62.html",
-    "ical": "https://theblop.org/assets/ical/82851dea-e3fc-4824-9ae2-96a1fc31be62.ics",
-    "raw_text": "APWU\nHands off!\nour public Postal Service!\nJoin our rally to protect our public Post Office!\n\nDATE: Thursday, March 20\nTIME: 5:00 p.m.\nADDRESS: Daniel J Doffyn Post Office\n3750 N. Kedzie\nChicago, IL 60618 US\n\nFOR MORE INFO CONTACT:\nKeith M. Richardson\nPresident, APWU Local 0001\nkeithrichardsonapwu@gmail.com\n\nLearn and get involved at:\nAPWU.ORG/ACTION\nor scan the QR code.",
-    "raw_summary": "A rally organized by the APWU to protect the public Postal Service. It will be held at the Daniel J Doffyn Post Office in Chicago on Thursday, March 20, at 5:00 p.m. For more information, contact Keith M. Richardson at keithrichardsonapwu@gmail.com."
   },
   {
     "id": "9ab5c021-b5d6-42b0-bd9b-d0fd24e3e783",
@@ -12062,6 +12127,31 @@
     "ical": "https://theblop.org/assets/ical/c603fdc0-d4cc-4c02-90b2-200669010ae2.ics",
     "raw_text": "",
     "raw_summary": ""
+  },
+  {
+    "id": "9dd14fbc-5677-4b41-a4b4-d4d1d4ce249f",
+    "title": "Say No to Fascism!",
+    "date": "Saturday, March 22, 2025",
+    "time": "12:00 PM",
+    "description": "Join us in Eastern Connecticut for a protest against fascism on March 22nd at 12:00 PM, located on the sidewalk in front of Taco Bell at Killingly Commons, Dayville.",
+    "city": "Dayville",
+    "state": "CT",
+    "address": "Killingly Commons, Sidewalk in front of Taco Bell",
+    "meeting_location": "Killingly Commons",
+    "links": [
+      "R/50501",
+      " FIFTYFIFTY.ONE",
+      " LINKTR.EE/CT50501",
+      " CT50501MOVEMENT@GMAIL.COM"
+    ],
+    "sponsors": [],
+    "image_url": "https://theblop.org/assets/images/9dd14fbc-5677-4b41-a4b4-d4d1d4ce249f.png",
+    "thumbnail_url": "https://theblop.org/assets/images/9dd14fbc-5677-4b41-a4b4-d4d1d4ce249f-thumb.jpg",
+    "canonical_id": "",
+    "permalink": "https://theblop.org/events/9dd14fbc-5677-4b41-a4b4-d4d1d4ce249f.html",
+    "ical": "https://theblop.org/assets/ical/9dd14fbc-5677-4b41-a4b4-d4d1d4ce249f.ics",
+    "raw_text": "MARCH 22ND PROTEST\n\nSAY NO TO FASCISM!\nEASTERN CONNECTICUT\n\nDAYVILLE\nKILLINGLY COMMONS\n12:00PM\nSIDEWALK IN FRONT OF TACO BELL\n\nR/50501 FIFTYFIFTY.ONE\nLINKTR.EE/CT50501\nJOIN OUR DISCORD\nCT50501MOVEMENT@GMAIL.COM",
+    "raw_summary": "A protest titled \"Say No to Fascism!\" will take place in Dayville, Eastern Connecticut, at Killingly Commons on March 22nd at 12:00 PM. The location is specified as the sidewalk in front of Taco Bell. Links to additional resources and contact information are provided."
   },
   {
     "id": "1713e467-314a-4b4c-a7a4-20a938020270",
@@ -13144,6 +13234,26 @@
     "raw_summary": ""
   },
   {
+    "id": "36ff0129-cc08-4d7c-a391-d60ead3109a1",
+    "title": "Rally at Acacia Park",
+    "date": "Friday, March 28, 2025",
+    "time": "4:00 PM",
+    "description": "Join us at Acacia Park to stand against war, fascism, and particular political figures. We are gathering to protect essential social and economic rights.",
+    "city": "Colorado Springs",
+    "state": "CO",
+    "address": "115E Platte Avenue",
+    "meeting_location": "Acacia Park",
+    "links": [],
+    "sponsors": [],
+    "image_url": "https://theblop.org/assets/images/36ff0129-cc08-4d7c-a391-d60ead3109a1.png",
+    "thumbnail_url": "https://theblop.org/assets/images/36ff0129-cc08-4d7c-a391-d60ead3109a1-thumb.jpg",
+    "canonical_id": "",
+    "permalink": "https://theblop.org/events/36ff0129-cc08-4d7c-a391-d60ead3109a1.html",
+    "ical": "https://theblop.org/assets/ical/36ff0129-cc08-4d7c-a391-d60ead3109a1.ics",
+    "raw_text": "ACACIA PARK\n115E PLATTE AVENUE\nFRIDAY: 3/28/25\nFAMILIES: 4PM- 6PM\nEVERYBODY:6PM - 8PM\n\nSTOP THE WAR\nSTOP FASCISM\nSTOP TRUMP\n\nPROTECT\n- Medicare\n- Medicaid\n- Social Security\n- Education Dept\n  - NO AA\n  - FAA\n- Public Lands\n- Veterans\n- LGBTQ+ Rights\n- Science\n\nPROTECT\n- NIH\n- Democracy\n- UKRAINE\n- NATO\n- USAID\n- Snap Program\n- Elections\n- Women Rights\n- Cyber Defense\n- PALESTINE\n- NATO",
+    "raw_summary": "The flyer announces a gathering at Acacia Park on March 28, 2025, focused on social and political causes, with activities for families from 4 PM to 6 PM and open to all from 6 PM to 8 PM."
+  },
+  {
     "id": "e1921234-1493-4e14-88df-e9a2a6e788e1",
     "title": "Stop Farage & Reform UK",
     "date": "Friday, March 28, 2025",
@@ -13312,12 +13422,8 @@
     "state": "ME",
     "address": "456 Congress St",
     "meeting_location": "Monument Square",
-    "links": [
-      "[]"
-    ],
-    "sponsors": [
-      "[]"
-    ],
+    "links": [],
+    "sponsors": [],
     "image_url": "https://theblop.org/assets/images/e956b592-eb76-481d-9e4e-a2f418cbba1c.jpg",
     "thumbnail_url": "https://theblop.org/assets/images/e956b592-eb76-481d-9e4e-a2f418cbba1c-thumb.jpg",
     "canonical_id": "",
@@ -13556,12 +13662,8 @@
     "state": "ME",
     "address": "Damariscotta-Newcastle bridge, Bus US Rt1",
     "meeting_location": "Damariscotta-Newcastle bridge",
-    "links": [
-      "[]"
-    ],
-    "sponsors": [
-      "[]"
-    ],
+    "links": [],
+    "sponsors": [],
     "image_url": "https://theblop.org/assets/images/e55c5a4b-4e6f-4959-93a1-df85daae155a.jpg",
     "thumbnail_url": "https://theblop.org/assets/images/e55c5a4b-4e6f-4959-93a1-df85daae155a-thumb.jpg",
     "canonical_id": "",
@@ -13947,9 +14049,7 @@
     "links": [
       "https://www.mobilize.us/indivisible/event/762149/"
     ],
-    "sponsors": [
-      "[]"
-    ],
+    "sponsors": [],
     "image_url": "https://theblop.org/assets/images/bc4a7575-b7b8-40e7-935c-e2f902a7b3e8.jpg",
     "thumbnail_url": "https://theblop.org/assets/images/bc4a7575-b7b8-40e7-935c-e2f902a7b3e8-thumb.jpg",
     "canonical_id": "",
@@ -14468,6 +14568,28 @@
     "raw_summary": "This image is an event flyer promoting a national movement involving protests in all 50 states aimed at removing corrupt politicians, reversing damage, and reclaiming democracy. The event in Albany, New York is scheduled for Saturday, April 5, 2025, at noon at The Egg, Empire State Plaza. More information can be found at www.FiftyFifty.one."
   },
   {
+    "id": "9a9f8689-8fc5-4475-8682-9f46af0d77df",
+    "title": "50501 Portland Rally",
+    "date": "Saturday, April 5, 2025",
+    "time": "12:00 PM",
+    "description": "Join us for the 50501 Portland Rally, a non-violent, family-friendly, and inclusive event featuring a rally and an accessible march. We aim to remember, resist, and rebuild together.",
+    "city": "Portland",
+    "state": "OR",
+    "address": "Japanese American Historical Plaza, Tom McCall Waterfront Park",
+    "meeting_location": "Japanese American Historical Plaza",
+    "links": [
+      "[linktr.ee/50501PortlandOregon]"
+    ],
+    "sponsors": [],
+    "image_url": "https://theblop.org/assets/images/9a9f8689-8fc5-4475-8682-9f46af0d77df.png",
+    "thumbnail_url": "https://theblop.org/assets/images/9a9f8689-8fc5-4475-8682-9f46af0d77df-thumb.jpg",
+    "canonical_id": "",
+    "permalink": "https://theblop.org/events/9a9f8689-8fc5-4475-8682-9f46af0d77df.html",
+    "ical": "https://theblop.org/assets/ical/9a9f8689-8fc5-4475-8682-9f46af0d77df.ics",
+    "raw_text": "REMEMBER. RESIST. REBUILD.\nAPRIL 5\n2025\nJapanese American Historical Plaza\nTom McCall Waterfront Park\nPORTLAND, OREGON\nRally 12PM - 4PM\nAccessible march starts at 1PM\n#50501Portland, and its events, are non-violent, family friendly, and inclusive.\nlinktr.ee/50501PortlandOregon",
+    "raw_summary": "An event on April 5, 2025, held at the Japanese American Historical Plaza, Tom McCall Waterfront Park in Portland, Oregon. The rally is from 12 PM to 4 PM with an accessible march starting at 1 PM. The event is characterized as non-violent, family-friendly, and inclusive."
+  },
+  {
     "id": "090549ea-5c1e-4e38-ad29-1fbddf966c3d",
     "title": "National Day of Protest",
     "date": "Saturday, April 5, 2025",
@@ -14594,6 +14716,28 @@
     "ical": "https://theblop.org/assets/ical/9777aa84-da49-4f55-a35a-19b69db81c17.ics",
     "raw_text": "https://actionnetwork.org/events/tesla-takedown-aliso-viejo\n\nTesla Takedown Aliso Viejo!\n\nStart: Saturday, April 05, 2025 • 1:00 PM\nEnd: Saturday, April 05, 2025 • 2:00 PM\nLocation: Tesla Showroom • 26501 Aliso Creek Rd, Aliso Viejo, CA 92656 US\nHost Contact Info: Aliso Niguel Democratic Club\n\nWe are taking action at Tesla. We don't want DOGE and Musk's minions rampaging through the federal government. We are saying hands off USAID, Social Security, NPS and more!\n⚡ Come protest the extreme damage that Musk is doing to services that we all depend on.\n⚡ We are here to stop Musk and DOGE.\n⚡ Stopping Musk will help save lives and our democracy.\nThe stakes couldn’t be higher.\n\n#TeslaTakedown #BoycottTesla",
     "raw_summary": "The flyer announces a protest event called \"Tesla Takedown Aliso Viejo\" organized by the Aliso Niguel Democratic Club. It is scheduled for April 5, 2025, from 1:00 PM to 2:00 PM at the Tesla Showroom in Aliso Viejo, CA. The event aims to protest against the influence of DOGE and Elon Musk on federal government services."
+  },
+  {
+    "id": "4e667cfd-7051-4381-b529-09fab33b3c66",
+    "title": "Remove Reverse Reclaim",
+    "date": "Saturday, April 5, 2025",
+    "time": "1:00 PM",
+    "description": "Join us in a nationwide protest to remove corrupt politicians from office, reverse the damage, and reclaim our democracy. We'll be hosting a gathering in Buffalo Grove as part of our effort across all 50 states.",
+    "city": "Buffalo Grove",
+    "state": "IL",
+    "address": "Corner of Lake Cook & AH roads",
+    "meeting_location": "",
+    "links": [
+      "https://www.FiftyFifty.one"
+    ],
+    "sponsors": [],
+    "image_url": "https://theblop.org/assets/images/4e667cfd-7051-4381-b529-09fab33b3c66.png",
+    "thumbnail_url": "https://theblop.org/assets/images/4e667cfd-7051-4381-b529-09fab33b3c66-thumb.jpg",
+    "canonical_id": "",
+    "permalink": "https://theblop.org/events/4e667cfd-7051-4381-b529-09fab33b3c66.html",
+    "ical": "https://theblop.org/assets/ical/4e667cfd-7051-4381-b529-09fab33b3c66.ics",
+    "raw_text": "50 PROTESTS • 50 STATES • 1 MOVEMENT\nREMOVE REVERSE RECLAIM\nREMOVE CORRUPT POLITICIANS FROM OFFICE\nREVERSE THE DAMAGE\nRECLAIM OUR DEMOCRACY\n\nSATURDAY\nAPRIL 5, 2025\n\nBuffalo Grove Corner of Lake Cook & AH roads\n1-2 pm\n\nNATION-WIDE PROTESTS AND SIT-INS IN ALL 50 STATES\nFind organizing resources + add your action at https://www.FiftyFifty.one",
+    "raw_summary": "The image promotes a nationwide protest occurring on April 5, 2025, titled 'Remove Reverse Reclaim.' It focuses on removing corrupt politicians, reversing the damage, and reclaiming democracy. This event will happen from 1-2 pm in Buffalo Grove at the corner of Lake Cook and AH roads, and is part of a larger movement with protests in all 50 states. More resources can be found at FiftyFifty.one."
   },
   {
     "id": "c007883b-4243-4825-8d7a-fcfb709b34d6",
@@ -14752,28 +14896,6 @@
     "raw_summary": ""
   },
   {
-    "id": "4e667cfd-7051-4381-b529-09fab33b3c66",
-    "title": "Remove Reverse Reclaim",
-    "date": "Saturday, April 5, 2025",
-    "time": "1:00 PM",
-    "description": "Join us in a nationwide protest to remove corrupt politicians from office, reverse the damage, and reclaim our democracy. We'll be hosting a gathering in Buffalo Grove as part of our effort across all 50 states.",
-    "city": "Buffalo Grove",
-    "state": "IL",
-    "address": "Corner of Lake Cook & AH roads",
-    "meeting_location": "",
-    "links": [
-      "https://www.FiftyFifty.one"
-    ],
-    "sponsors": [],
-    "image_url": "https://theblop.org/assets/images/4e667cfd-7051-4381-b529-09fab33b3c66.png",
-    "thumbnail_url": "https://theblop.org/assets/images/4e667cfd-7051-4381-b529-09fab33b3c66-thumb.jpg",
-    "canonical_id": "",
-    "permalink": "https://theblop.org/events/4e667cfd-7051-4381-b529-09fab33b3c66.html",
-    "ical": "https://theblop.org/assets/ical/4e667cfd-7051-4381-b529-09fab33b3c66.ics",
-    "raw_text": "50 PROTESTS • 50 STATES • 1 MOVEMENT\nREMOVE REVERSE RECLAIM\nREMOVE CORRUPT POLITICIANS FROM OFFICE\nREVERSE THE DAMAGE\nRECLAIM OUR DEMOCRACY\n\nSATURDAY\nAPRIL 5, 2025\n\nBuffalo Grove Corner of Lake Cook & AH roads\n1-2 pm\n\nNATION-WIDE PROTESTS AND SIT-INS IN ALL 50 STATES\nFind organizing resources + add your action at https://www.FiftyFifty.one",
-    "raw_summary": "The image promotes a nationwide protest occurring on April 5, 2025, titled 'Remove Reverse Reclaim.' It focuses on removing corrupt politicians, reversing the damage, and reclaiming democracy. This event will happen from 1-2 pm in Buffalo Grove at the corner of Lake Cook and AH roads, and is part of a larger movement with protests in all 50 states. More resources can be found at FiftyFifty.one."
-  },
-  {
     "id": "df755871-431c-43bc-8708-b0de925b6bea",
     "title": "Trams Day of Visibility",
     "date": "Sunday, April 6, 2025",
@@ -14801,8 +14923,8 @@
     "date": "Friday, April 25, 2025",
     "time": "See Flyer",
     "description": "We are organizing to plant trees on Arbor Day, April 25th, in response to executive orders affecting our forests. Join us to make a difference and plant LiberTREES locally.",
-    "city": "",
-    "state": "",
+    "city": "Nationwide",
+    "state": "Nationwide",
     "address": "",
     "meeting_location": "",
     "links": [

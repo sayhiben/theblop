@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:7876d2e7-083f-45b7-be59-7a4813877d90
+SEQUENCE:0
+DTSTAMP:20250313T064730Z
+DTSTART:20250315T120000
+DTEND:20250315T160000
+SUMMARY:REMOVE REVERSE RECLAIM
+LOCATION:200 E Colfax Ave\, Denver\, CO
+DESCRIPTION:We are hosting a movement to remove corrupt politicians\, reve
+ rse the damage\, and reclaim our democracy with protests across 50 states.
+  Join us for a rally and march to make your voice heard.\n\nColorado State
+  Capitol
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=200+E+Colfax
+ +Ave%2C+Denver%2C+CO&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR
