@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:633937b5-3379-47b0-95af-7884a7c9d04c
+SEQUENCE:0
+DTSTAMP:20250313T180257Z
+DTSTART:20250315T133000
+DTEND:20250315T173000
+SUMMARY:Protest! Defend Democracy
+LOCATION:1302 GA HWY 85\, Fayetteville\, GA
+DESCRIPTION:We invite you to join a peaceful protest to defend democracy. 
+ Let's come together as a community and make our voices heard.\n\nSidewalk 
+ in front of Tesla Service Center
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=1302+GA+HWY+
+ 85%2C+Fayetteville%2C+GA&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

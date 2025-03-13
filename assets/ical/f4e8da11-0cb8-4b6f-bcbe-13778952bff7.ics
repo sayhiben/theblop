@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:b8d6e968-51d9-4116-a5a5-db55a7ceb989
+SEQUENCE:0
+DTSTAMP:20250313T180257Z
+DTSTART:20250314T170000
+DTEND:20250314T210000
+SUMMARY:Protect Social Security
+LOCATION:85 Crystal Run\, Middletown\, NY
+DESCRIPTION:Join us in a rally/vigil to protect Social Security and suppor
+ t saving the Social Security Administration. We will gather by the road to
+  show our commitment and raise awareness.\n\nBy the road
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=85+Crystal+R
+ un%2C+Middletown%2C+NY&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

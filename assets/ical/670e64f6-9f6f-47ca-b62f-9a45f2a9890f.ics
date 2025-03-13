@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:98261fbe-3b65-472d-b422-647cb506037c
+SEQUENCE:0
+DTSTAMP:20250313T180257Z
+DTSTART:20250329T120000
+DTEND:20250329T160000
+SUMMARY:READ OUR LIPS
+LOCATION:State Capitol\, Columbia\, SC
+DESCRIPTION:Join Peace & Progress in fighting and advocating for all women
+  at the State Capitol in Columbia. We're calling all women and allies to s
+ tand together and support women's rights.\n\nState Capitol
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=State+Capito
+ l%2C+Columbia%2C+SC&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

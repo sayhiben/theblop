@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:bf95a469-1b0e-4807-9788-d3044e1a43f2
+SEQUENCE:0
+DTSTAMP:20250313T180257Z
+DTSTART:20250315T120000
+DTEND:20250315T160000
+SUMMARY:Protest Against Musk's Policies
+LOCATION:394 Santa Monica Place\, 3rd St. Promenade & Broadway
+DESCRIPTION:Join us for a picket and speakout to stop Musk's assault on de
+ mocracy. Organized by the Peace & Freedom party.\n\nTesla Santa Monica Pla
+ ce\, near Parking Structure #7
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=394+Santa+Mo
+ nica+Place%2C+3rd+St.+Promenade+%26+Broadway&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

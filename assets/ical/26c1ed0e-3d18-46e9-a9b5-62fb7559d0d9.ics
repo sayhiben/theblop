@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:13ef0e2d-f478-4fb5-a9f7-9adcc24ebe22
+SEQUENCE:0
+DTSTAMP:20250313T180257Z
+DTSTART:20250323T150000
+DTEND:20250323T190000
+SUMMARY:Peaceful Protest / March
+LOCATION:Next to the Baxter Ave entrance of Cave Hill Cemetery\, Louisvill
+ e\, KY
+DESCRIPTION:We are organizing a peaceful march to raise awareness of our C
+ onstitutional Rights as Americans and to preserve the U.S Constitution. We
+  invite everyone to join us and march along the sidewalks of Bardstown Roa
+ d\, starting from the Church of Advent. This is a family-friendly event\, 
+ but please no pets. Join us in unity to promote dignity and respect for al
+ l.\n\nChurch of Advent
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Next+to+the+
+ Baxter+Ave+entrance+of+Cave+Hill+Cemetery%2C+Louisville%2C+KY&zoom=15&base
+ map=roadmap
+END:VEVENT
+END:VCALENDAR

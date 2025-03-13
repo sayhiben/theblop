@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:28e1f262-576e-4c5b-97e6-06f897a35776
+SEQUENCE:0
+DTSTAMP:20250313T180257Z
+DTSTART:20250314T170000
+DTEND:20250314T210000
+SUMMARY:Protest Against Vivek Ramaswamy
+LOCATION:Across from The Pinnacle\, 1772 Indian Wood Circle\, Maumee\, Mau
+ mee\, OH
+DESCRIPTION:We are organizing a protest against Vivek Ramaswamy during the
+  Lucas County Republican Party Lincoln Dinner. Join us to make your voice 
+ heard and beware the 'Broligarchs'!\n\nPark at 1691 Woodlands Drive
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Across+from+
+ The+Pinnacle%2C+1772+Indian+Wood+Circle%2C+Maumee%2C+Maumee%2C+OH&zoom=15&
+ basemap=roadmap
+END:VEVENT
+END:VCALENDAR

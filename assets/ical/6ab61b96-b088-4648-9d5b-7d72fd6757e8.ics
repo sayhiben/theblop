@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:0fa99a7b-4646-4fc4-a9f5-847a217a6328
+SEQUENCE:0
+DTSTAMP:20250313T180257Z
+DTSTART:20250315T110000
+DTEND:20250315T150000
+SUMMARY:Tarrytown Stop The Cuts Rally
+LOCATION:Patriots Park\, Broadway\, Tarrytown\, NY
+DESCRIPTION:Join us for the 'Stop The Cuts' rally to protest against the p
+ roposed $2 trillion cuts in Medicaid\, housing\, and food assistance.\n\nP
+ atriots Park
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Patriots+Par
+ k%2C+Broadway%2C+Tarrytown%2C+NY&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR
