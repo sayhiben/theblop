@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:e4ba1924-6b05-423d-9220-c7ed14706728
+SEQUENCE:0
+DTSTAMP:20250313T031818Z
+DTSTART:20250315T120000
+DTEND:20250315T160000
+SUMMARY:Tesla Takedown in Tom Kean Jr's Backyard
+LOCATION:135 US 22\, Springfield\, NJ
+DESCRIPTION:We are taking action at Tesla. Sell your Teslas\, dump your st
+ ock\, join the picket lines. Hurting Tesla is stopping Musk. Stopping Musk
+  will help save lives and our democracy. The stakes couldn’t be higher. 
+ No one is coming to save us—not politicians\, not the media.\n\nTesla Sh
+ owroom
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=135+US+22%2C
+ +Springfield%2C+NJ&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

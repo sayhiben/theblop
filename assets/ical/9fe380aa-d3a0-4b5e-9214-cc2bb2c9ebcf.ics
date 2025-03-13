@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:6f2b9601-fd59-4ea1-9d9c-16e8007e939f
+SEQUENCE:0
+DTSTAMP:20250313T031818Z
+DTSTART:20250313T183000
+DTEND:20250313T223000
+SUMMARY:OEVA Board Meeting at Tesla Tigard
+LOCATION:10069 SW Cascade Ave\, Tigard Oregon
+DESCRIPTION:The Oregon Electric Vehicle Association is organizing a board 
+ meeting and marketing event at the Tesla store in Tigard. This meeting aim
+ s to address political concerns related to Tesla's operations.\n\nTesla Ti
+ gard
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=10069+SW+Cas
+ cade+Ave%2C+Tigard+Oregon&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:a00d48e9-3e6d-4db3-9635-07a620bca596
+SEQUENCE:0
+DTSTAMP:20250313T031818Z
+DTSTART:20250315T120000
+DTEND:20250315T160000
+SUMMARY:Stand Up Loveland!
+LOCATION:1606 N. Lincoln\, Loveland\, CO 80537 US
+DESCRIPTION:We will line the sidewalks from Eisenhower & 287 to Tesla. All
+  are welcome...kids from 1 to 92 (+)! This peaceful protest is and always 
+ has been about individual voices speaking as a collective against injustic
+ e.\n\nTesla Loveland
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=1606+N.+Linc
+ oln%2C+Loveland%2C+CO+80537+US&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

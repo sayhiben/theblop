@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:023e6464-1712-4654-9ed8-949df6eb3b39
+SEQUENCE:0
+DTSTAMP:20250313T031819Z
+DTSTART:20250322T110000
+DTEND:20250322T150000
+SUMMARY:TeslaTakedown Tysons\, Sat March 22
+LOCATION:8500 Tyco Road\, Tysons Corner\, VA 22182 US
+DESCRIPTION:We are organizing a series of protests against Tesla and Elon 
+ Musk at multiple locations to voice our concerns about Tesla's impact. Joi
+ n us in forming picket lines to take action every Saturday in March.\n\nTy
+ sons Corner Tesla
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=8500+Tyco+Ro
+ ad%2C+Tysons+Corner%2C+VA+22182+US&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:adfea2a2-ce2e-46b3-aa15-e782eec5ba66
+SEQUENCE:0
+DTSTAMP:20250313T031818Z
+DTSTART:20250315T100000
+DTEND:20250315T140000
+SUMMARY:Tesla Takedown NM
+LOCATION:4200 NM-528\, Rio Rancho\, NM
+DESCRIPTION:We are organizing a protest to take action against Tesla on Ma
+ rch 15\, 2025. Participants are encouraged to sell their Teslas\, dump sto
+ ck\, and join the picket lines. Our aim is to impact Tesla and its CEO\, b
+ elieving that stopping his influence will save lives and support democracy
+ . This is an urgent call to action.\n\nTesla Bernalillo
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=4200+NM-528%
+ 2C+Rio+Rancho%2C+NM&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

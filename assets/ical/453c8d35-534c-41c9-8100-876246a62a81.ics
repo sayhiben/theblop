@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:61d5f4c5-027f-414c-aed9-63636e1634a0
+SEQUENCE:0
+DTSTAMP:20250313T031818Z
+DTSTART:20250313T161500
+DTEND:20250313T201500
+SUMMARY:Tesla Takedown SLU Evening Rush Hour Picket
+LOCATION:435 Westlake Ave N\, Seattle\, WA
+DESCRIPTION:We are organizing a low-key\, persistent\, informational picke
+ t at Tesla SLU\, encouraging participants to sell Teslas\, dump stock\, an
+ d join picket lines to take a stand against Tesla and impact Elon Musk\, w
+ ith an aim to save lives and democracy.\n\nTesla SLU Showroom
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=435+Westlake
+ +Ave+N%2C+Seattle%2C+WA&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:d30b4716-ee5a-4ed0-ba17-3dc0679e1a07
+SEQUENCE:0
+DTSTAMP:20250313T031818Z
+DTSTART:20250315T120000
+DTEND:20250315T160000
+SUMMARY:Demonstration at Tesla Vermont. No to Elon! No to DOGE!
+LOCATION:1001 Shelburne Rd\, South Burlington\, VT
+DESCRIPTION:We are organizing a peaceful demonstration in South Burlington
+  on the public sidewalk at the Tesla dealership. Join us with your signs a
+ nd families to express discontent with Elon Musk's actions. By coming toge
+ ther\, we aim to inspire others and impact Tesla's stock\, supporting the 
+ cause of saving democracy.\n\nShelburne Rd in front of Tesla Store
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=1001+Shelbur
+ ne+Rd%2C+South+Burlington%2C+VT&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

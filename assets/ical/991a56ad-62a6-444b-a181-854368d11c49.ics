@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:c83be24c-d67c-4d83-8d70-844b46227ab8
+SEQUENCE:0
+DTSTAMP:20250313T031819Z
+DTSTART:20250316T120000
+DTEND:20250316T160000
+SUMMARY:Not in Our America
+LOCATION:3067 N. Elston\, Chicago\, IL
+DESCRIPTION:We are taking action at Tesla against Elon Musk\, urging peopl
+ e to sell their Teslas\, dump Tesla stock\, and join the picket lines. Thi
+ s protest aims to save democracy.\n\nTesla Service Center
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=3067+N.+Elst
+ on%2C+Chicago%2C+IL&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

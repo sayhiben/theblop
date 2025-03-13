@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:59298d7a-2477-450f-b975-468514846ea1
+SEQUENCE:0
+DTSTAMP:20250313T031818Z
+DTSTART:20250314T170000
+DTEND:20250314T210000
+SUMMARY:Berkeley – Not My President
+LOCATION:College Avenue & Ashby Avenue\, Berkeley\, CA
+DESCRIPTION:Join us for the "Not My President" protest in Berkeley. Hosted
+  by Indivisible Elmwood\, we gather to distribute action item handouts and
+  wave signs at passing traffic\, engaging the community.\n\nCollege Avenue
+  & Ashby Avenue
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=College+Aven
+ ue+%26+Ashby+Avenue%2C+Berkeley%2C+CA&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

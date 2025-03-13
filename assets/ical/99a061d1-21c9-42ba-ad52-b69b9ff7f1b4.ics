@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:ba196127-0baf-4c1b-b988-89c4d7f90de4
+SEQUENCE:0
+DTSTAMP:20250313T031818Z
+DTSTART:20250314T160000
+DTEND:20250314T200000
+SUMMARY:Protest Tesla!
+LOCATION:6500 Cedar Springs Rd\, Dallas\, TX
+DESCRIPTION:We are taking action at Tesla to protest against the company\,
+  encouraging people to sell Teslas\, dump their stock\, and join the picke
+ t lines. We believe that hurting Tesla will stop Musk\, which will\, in tu
+ rn\, help save lives and our democracy. The event highlights that no exter
+ nal entity will intervene\, emphasizing self-action.\n\nTesla Service Cent
+ er
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=6500+Cedar+S
+ prings+Rd%2C+Dallas%2C+TX&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

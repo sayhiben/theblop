@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:b91207c0-fdea-4f29-9a9a-3fefd6ec486c
+SEQUENCE:0
+DTSTAMP:20250313T031819Z
+DTSTART:20250322T140000
+DTEND:20250322T180000
+SUMMARY:Tesla Takedown III
+LOCATION:3371 Brunswick Pike #100\, Lawrence\, NJ
+DESCRIPTION:We are organizing a protest at Tesla urging individuals to sel
+ l their Teslas\, dump their stock\, and join picket lines. This action aim
+ s to challenge Tesla and Elon Musk\, asserting that stopping them is cruci
+ al for saving lives and democracy.\n\nTesla Dealership
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=3371+Brunswi
+ ck+Pike+%23100%2C+Lawrence%2C+NJ&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

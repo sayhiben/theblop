@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:91b1200a-6d20-450e-82d5-ac091ba42d7b
+SEQUENCE:0
+DTSTAMP:20250313T031818Z
+DTSTART:20250315T110000
+DTEND:20250315T150000
+SUMMARY:#TeslaTakedown
+LOCATION:14010 Perry Hwy\, Wexford\, PA
+DESCRIPTION:Join us for the #TeslaTakedown event in Pittsburgh. Connect wi
+ th fellow attendees and discuss key topics related to Tesla in a conducive
+  environment.\n\nTesla Service Pittsburgh-Wexford
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=14010+Perry+
+ Hwy%2C+Wexford%2C+PA&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

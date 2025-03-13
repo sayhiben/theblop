@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:52b63e3f-d63f-4cc9-a713-51d46c7142e3
+SEQUENCE:0
+DTSTAMP:20250313T031818Z
+DTSTART:20250315T120000
+DTEND:20250315T160000
+SUMMARY:Tesla Takedown - Boston Downtown
+LOCATION:888 Boylston St\, Boston\, MA
+DESCRIPTION:We are organizing an event to take action at a Tesla dealershi
+ p. Participants are encouraged to sell their Teslas\, sell stock\, and joi
+ n picket lines. By hurting Tesla\, we aim to stop Elon Musk and potentiall
+ y save lives and our democracy. This is a call to action as no external he
+ lp is expected.\n\nTesla Dealership - Prudential Center
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=888+Boylston
+ +St%2C+Boston%2C+MA&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:35d2f100-f44d-456d-897b-c194bb99f23f
+SEQUENCE:0
+DTSTAMP:20250313T031819Z
+DTSTART:20250315T100000
+DTEND:20250315T140000
+SUMMARY:Tesla Takedown/The Domain in Austin
+LOCATION:11601 Century Oaks Terrace\, Ste. 123\, Austin\, TX
+DESCRIPTION:We are organizing a protest called Tesla Takedown. The aim is 
+ to encourage participants to sell their Teslas\, dump their stock\, and jo
+ in the picket lines as part of a movement against Musk\, which is deemed e
+ ssential to protect democracy and save lives.\n\nTesla Austin
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=11601+Centur
+ y+Oaks+Terrace%2C+Ste.+123%2C+Austin%2C+TX&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

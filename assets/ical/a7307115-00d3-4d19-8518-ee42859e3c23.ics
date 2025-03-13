@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:2512b1bf-b658-4730-9a67-1cf4bf848fc9
+SEQUENCE:0
+DTSTAMP:20250313T031818Z
+DTSTART:20250315T120000
+DTEND:20250315T160000
+SUMMARY:Tech billionaires are not on our side!
+LOCATION:2755 Mission Street\, Salem\, OR
+DESCRIPTION:We are organizing a protest at the Tesla Dealership to stand a
+ gainst tech billionaires. We encourage you to sell your Teslas\, dump your
+  stock\, and join the picket lines. By hurting Tesla\, we aim to stop Musk
+  and save lives and democracy. Join us in making a stand.\n\nTesla Dealers
+ hip
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=2755+Mission
+ +Street%2C+Salem%2C+OR&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

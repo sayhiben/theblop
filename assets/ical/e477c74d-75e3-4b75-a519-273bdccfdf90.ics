@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:1343b69a-9467-498d-afee-20ecdda79e48
+SEQUENCE:0
+DTSTAMP:20250313T031819Z
+DTSTART:20250315T150000
+DTEND:20250315T190000
+SUMMARY:Veterans TeslaTakedown
+LOCATION:201 Casa Buena Drive\, Corte Madera\, CA
+DESCRIPTION:We invite you to join us every Saturday from 3 p.m. to 4 p.m. 
+ at the Corte Madera Tesla as we stand against Tesla and its actions. Bring
+  your insignia\, wear your hats\, and join fellow veterans in the picket l
+ ines. Our goal is to make a strong statement against Musk's influence and 
+ protect our democracy.\n\nCorte Madera Tesla
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=201+Casa+Bue
+ na+Drive%2C+Corte+Madera%2C+CA&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

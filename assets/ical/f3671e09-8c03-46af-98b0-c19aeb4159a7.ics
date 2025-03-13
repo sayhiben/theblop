@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:afbeda2d-f011-4e1b-b167-934ab8e4c6b5
+SEQUENCE:0
+DTSTAMP:20250313T031818Z
+DTSTART:20250315T120000
+DTEND:20250315T160000
+SUMMARY:Tesla Protest - Upland
+LOCATION:1018 E 20th St\, Upland\, CA 91784 US
+DESCRIPTION:Join us in standing against the tyranny of Elon Musk. This is 
+ a nonviolent protest at Tesla Upland to oppose his control and exploitatio
+ n. Join the resistance and make your voice heard.\n\nTesla Upland
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=1018+E+20th+
+ St%2C+Upland%2C+CA+91784+US&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

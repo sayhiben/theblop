@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:a5f63bb6-4de6-499e-bed6-3099d74d9e72
+SEQUENCE:0
+DTSTAMP:20250313T031819Z
+DTSTART:20250331T103000
+DTEND:20250331T143000
+SUMMARY:Cesar Chavez Day: A March For All Workers
+LOCATION:104 S Lexington St\, Delano\, CA
+DESCRIPTION:Join us in a march to show solidarity with immigrant worker co
+ mmunities during Cesar Chavez Day. Let’s unite and march together.\n\nMe
+ morial Park
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=104+S+Lexing
+ ton+St%2C+Delano%2C+CA&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

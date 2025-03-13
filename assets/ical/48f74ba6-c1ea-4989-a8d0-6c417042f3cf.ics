@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:5ab12def-fa37-4583-b4df-469cde09a120
+SEQUENCE:0
+DTSTAMP:20250313T031818Z
+DTSTART:20250315T120000
+DTEND:20250315T160000
+SUMMARY:Saturday Tesla Takedown
+LOCATION:2919 29th Street SE\, Grand Rapids\, MI
+DESCRIPTION:Join us for a peaceful protest at the Tesla Showroom in Grand 
+ Rapids\, MI. We aim to challenge Elon Musk's actions by encouraging partic
+ ipants to sell Tesla stock and join picket lines. This demonstration is a 
+ lawful exercise of our First Amendment right to peaceful assembly.\n\nTesl
+ a Showroom
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=2919+29th+St
+ reet+SE%2C+Grand+Rapids%2C+MI&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

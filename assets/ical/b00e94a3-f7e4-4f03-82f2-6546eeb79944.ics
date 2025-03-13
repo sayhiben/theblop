@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:edd29545-22b4-4a12-b757-977094906652
+SEQUENCE:0
+DTSTAMP:20250313T031818Z
+DTSTART:20250314T160000
+DTEND:20250314T200000
+SUMMARY:Tesla Car Dealership Protest: Stand up against Musk\, DOGE\, and o
+ ur constitutional crisis
+LOCATION:7101 Glenwood Avenue\, Raleigh\, NC
+DESCRIPTION:Engaged Durhamites for Democracy\, in collaboration with Durha
+ m Democrats\, invites everyone to a nonpartisan protest against Musk and t
+ he constitutional crisis. Our mission is to voice our discontent peacefull
+ y and seek accountability from Senators Tillis and Budd.\n\nTesla Car Deal
+ ership
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=7101+Glenwoo
+ d+Avenue%2C+Raleigh%2C+NC&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

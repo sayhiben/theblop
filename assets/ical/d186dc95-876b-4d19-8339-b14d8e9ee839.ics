@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:2e524ff5-c68b-47cb-824e-4c1e70ff4d24
+SEQUENCE:0
+DTSTAMP:20250313T031819Z
+DTSTART:20250316T140000
+DTEND:20250316T180000
+SUMMARY:#TeslaTakedown - Peaceful Protest at Tesla Dealership
+LOCATION:201 Casa Buena Dr\, Corte Madera\, CA 94925
+DESCRIPTION:Join us for a peaceful protest at the Tesla Dealership in Cort
+ e Madera. Let's show our care and concern while following the rules. We wi
+ ll gather on March 16 to express our views respectfully and creatively\, e
+ nsuring we stay on the sidewalk and do not disrupt the property.\n\nTesla 
+ of Marin
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=201+Casa+Bue
+ na+Dr%2C+Corte+Madera%2C+CA+94925&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

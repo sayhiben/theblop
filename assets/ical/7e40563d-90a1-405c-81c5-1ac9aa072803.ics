@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:0a8cdc39-32b7-4c80-a7f7-73e31eb107a8
+SEQUENCE:0
+DTSTAMP:20250313T031818Z
+DTSTART:20250315T120000
+DTEND:20250315T160000
+SUMMARY:Protest Elon Musk's Illegal Government Takeover
+LOCATION:1901 Del Monte Blvd\, Seaside\, CA
+DESCRIPTION:We are organizing a protest against Elon Musk's actions\, beli
+ eved to be an illegal government takeover. Join us to raise awareness and 
+ help drive down Tesla stock through non-violent protest on Saturday\, Marc
+ h 15\, 2025\, at the Tesla Dealership in Seaside\, CA. Stand with us in ex
+ ercising our right to protest and make a statement without obstructing tra
+ ffic.\n\nTesla Dealership
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=1901+Del+Mon
+ te+Blvd%2C+Seaside%2C+CA&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

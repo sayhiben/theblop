@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:9f921246-023d-4cd7-bd68-b027a53a9fd8
+SEQUENCE:0
+DTSTAMP:20250313T031819Z
+DTSTART:20250323T120000
+DTEND:20250323T160000
+SUMMARY:NO MUSK! NO DOGE!
+LOCATION:68080 Perez Rd\, Cathedral City\, CA
+DESCRIPTION:Join us to show solidarity for our beloved community and count
+ ry. Bring a sign or use one we provide. We are taking action at Tesla by s
+ elling Teslas\, dumping stock\, and joining the picket lines.\n\nCathedral
+  City Tesla Hwy 111
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=68080+Perez+
+ Rd%2C+Cathedral+City%2C+CA&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:f8b1d229-c046-45a5-93a6-6d8bfa6c0dd9
+SEQUENCE:0
+DTSTAMP:20250313T031819Z
+DTSTART:20250315T100000
+DTEND:20250315T140000
+SUMMARY:Tesla Takedown Tempe
+LOCATION:2077 E University Dr\, Tempe\, AZ
+DESCRIPTION:We are taking action at Tesla. Sell your Teslas\, dump your st
+ ock\, join the picket lines. Hurting Tesla is stopping Musk. Stopping Musk
+  will help save lives and our democracy.\n\nTempe Tesla
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=2077+E+Unive
+ rsity+Dr%2C+Tempe%2C+AZ&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

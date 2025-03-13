@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:a805d40b-c318-45a4-a3c2-0f1fd75426d3
+SEQUENCE:0
+DTSTAMP:20250313T031818Z
+DTSTART:20250315T110000
+DTEND:20250315T150000
+SUMMARY:1-hour demonstration at Maplewood Tesla Showroom
+LOCATION:2590 Maplewood Drive\, Maplewood\, MN
+DESCRIPTION:We are hosting a 1-hour demonstration at the Maplewood Tesla S
+ howroom. Join us as we picket\, encourage selling Teslas\, and dump Tesla 
+ stock. Our goal is to protest against Musk\, with the belief that this act
+ ion will help save lives and preserve democracy.\n\nTesla Maplewood
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=2590+Maplewo
+ od+Drive%2C+Maplewood%2C+MN&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

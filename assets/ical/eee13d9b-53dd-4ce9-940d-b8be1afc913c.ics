@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:4e6fcfe1-d688-4a04-a8d3-c782f4b28c77
+SEQUENCE:0
+DTSTAMP:20250313T031818Z
+DTSTART:20250315T130000
+DTEND:20250315T170000
+SUMMARY:Tesla Protest - Encinitas
+LOCATION:1302 Encinitas Blvd\, Encinitas\, CA
+DESCRIPTION:We are taking action at Tesla to rally peacefully and bring at
+ tention to the danger that the Trump/Musk agenda poses. The event encourag
+ es participants to sell their Teslas\, dump stock\, and join the picket li
+ nes as a statement against Musk’s influence which is believed to endange
+ r democracy and lives.\n\nTesla
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=1302+Encinit
+ as+Blvd%2C+Encinitas%2C+CA&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

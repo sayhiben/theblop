@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:9ccb4701-7fb2-41a5-8f7f-2e8d05525725
+SEQUENCE:0
+DTSTAMP:20250313T031818Z
+DTSTART:20250313T113000
+DTEND:20250313T153000
+SUMMARY:OKIES RESIST!
+LOCATION:1125 N Broadway Ave\, Oklahoma City\, OK
+DESCRIPTION:We are taking action at Tesla to show the resistance is alive 
+ in deep red Oklahoma! We won't stand by quietly while Musk and his DOGE bo
+ ys take their chainsaw to Federal services. We'll meet at the SE corner of
+  11th and Broadway and walk across Broadway to the sidewalk in front of th
+ e Tesla dealership at 1125 N. Broadway. We'll carry resistance signs and c
+ hant while walking on the public sidewalk. Bring your own signs or we'll h
+ ave some signs to share.\n\nSE corner of 11th and Broadway
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=1125+N+Broad
+ way+Ave%2C+Oklahoma+City%2C+OK&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

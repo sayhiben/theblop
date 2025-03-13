@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:2b934b98-5b4c-4512-a7a7-cdaf3565d94e
+SEQUENCE:0
+DTSTAMP:20250313T031818Z
+DTSTART:20250315T140000
+DTEND:20250315T180000
+SUMMARY:TeslaTakedown - KC
+LOCATION:10111 State Line Rd\, Kansas City\, MO
+DESCRIPTION:Join us as we take action against Tesla and Elon Musk. We enco
+ urage you to sell your Teslas and dump your stock as part of our protest t
+ o hit Musk where it hurts. Together\, we aim to safeguard lives and our de
+ mocracy by stopping Musk. The stakes are high and we need public involveme
+ nt.\n\nTesla Service Center
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=10111+State+
+ Line+Rd%2C+Kansas+City%2C+MO&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

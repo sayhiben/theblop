@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:49f54cb6-9b93-4379-aa5d-cd7477457ebd
+SEQUENCE:0
+DTSTAMP:20250313T031818Z
+DTSTART:20250314T120000
+DTEND:20250314T160000
+SUMMARY:Rally at the Federal Plaza
+LOCATION:910 Broadway Cir\, 333 W Broadway\, San Diego\, CA
+DESCRIPTION:Join us for a rally and march to stand against Trump's agenda.
+  Meet at the Westin Gaslamp for a march to the Federal Plaza\, showcasing 
+ united support for public education and opportunity for all.\n\nOutside th
+ e Westin Gaslamp\, North East corner outside U.S. District Court Southern 
+ District of CA
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=910+Broadway
+ +Cir%2C+333+W+Broadway%2C+San+Diego%2C+CA&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

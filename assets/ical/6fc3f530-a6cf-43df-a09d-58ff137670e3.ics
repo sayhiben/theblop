@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:dcaa0acb-fcb9-40ae-926f-bcf77c813491
+SEQUENCE:0
+DTSTAMP:20250313T031818Z
+DTSTART:20250315T140000
+DTEND:20250315T180000
+SUMMARY:Protest at Merritt Island Tesla
+LOCATION:1545 E Merritt Island Cswy\, Merritt Island\, FL
+DESCRIPTION:Join us for a peaceful demonstration against fascism in front 
+ of the Merritt Island Tesla Dealership. We support federal workers and sta
+ nd for diversity\, equity\, inclusion\, transparency\, accountability\, an
+ d democracy. Bring signs\, friends\, and bottled water!\n\nMerritt Island 
+ Tesla
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=1545+E+Merri
+ tt+Island+Cswy%2C+Merritt+Island%2C+FL&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

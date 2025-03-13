@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:740cd121-777b-4183-a693-a5ad4884772e
+SEQUENCE:0
+DTSTAMP:20250313T031818Z
+DTSTART:20250315T100000
+DTEND:20250315T140000
+SUMMARY:Beware the Ides of March Gainesville Tesla Protest
+LOCATION:2501 N Main St\, Gainesville\, FL
+DESCRIPTION:Join us for a peaceful protest in front of the new Tesla Deale
+ rship in Gainesville on March 15. Bring your signs and friends as we stand
+  against billionaire power grabs following Roman Salutes. This demonstrati
+ on will take place on public grounds. Consider printing flyers if you don
+ ’t have a sign.\n\nTesla Dealership Front Sidewalk
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=2501+N+Main+
+ St%2C+Gainesville%2C+FL&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

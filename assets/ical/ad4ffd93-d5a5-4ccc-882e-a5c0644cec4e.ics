@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:f2565760-d616-4a33-9e34-fce933ca1628
+SEQUENCE:0
+DTSTAMP:20250313T031819Z
+DTSTART:20250316T120000
+DTEND:20250316T160000
+SUMMARY:I didn't vote for Elon!
+LOCATION:888 Boylston St.\, Boston\, MA
+DESCRIPTION:We are organizing a protest against Tesla. Join us in selling 
+ your Teslas\, dumping your stock\, and joining the picket lines. This move
+ ment aims to stop Musk and\, in doing so\, protect lives and our democracy
+ .\n\nTesla Dealership
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=888+Boylston
+ +St.%2C+Boston%2C+MA&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

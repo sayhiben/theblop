@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:9445642f-971c-46f1-a3c7-6f00fb0dc428
+SEQUENCE:0
+DTSTAMP:20250313T031819Z
+DTSTART:20250315T100000
+DTEND:20250315T140000
+SUMMARY:Tesla Takedown Tempe
+LOCATION:2077 E University Dr\, Tempe\, AZ
+DESCRIPTION:We are organizing a protest against Tesla to affect Elon Musk'
+ s influence. Join us in selling your Teslas\, dumping stock\, and particip
+ ating in picket lines to save lives and our democracy. No one is coming to
+  save us—not politicians\, not the media.\n\nTempe Tesla
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=2077+E+Unive
+ rsity+Dr%2C+Tempe%2C+AZ&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

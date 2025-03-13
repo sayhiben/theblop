@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:8e7ad431-b295-4473-80d7-164950b5963e
+SEQUENCE:0
+DTSTAMP:20250313T031819Z
+DTSTART:20250316T120000
+DTEND:20250316T160000
+SUMMARY:3/16 Tesla Takedown - Alhambra
+LOCATION:1200 W. Main Street\, Alhambra\, CA
+DESCRIPTION:Join us for a lunch break protest aimed at selling Teslas\, du
+ mping stock\, and joining the picket lines to stop Elon Musk's influence\,
+  thereby aiding in saving lives and our democracy.\n\nTesla Dealership
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=1200+W.+Main
+ +Street%2C+Alhambra%2C+CA&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

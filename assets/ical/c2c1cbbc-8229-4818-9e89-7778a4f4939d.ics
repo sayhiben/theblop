@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:e94dd611-bfc0-403e-8007-607d3192c947
+SEQUENCE:0
+DTSTAMP:20250313T031818Z
+DTSTART:20250315T130000
+DTEND:20250315T170000
+SUMMARY:Tesla Takedown Fresno
+LOCATION:711 W Palmdon Dr\, Fresno\, CA
+DESCRIPTION:Join us in Fresno to protest Elon Musk and DOGE's illegal and 
+ destructive actions. This event is part of a non-violent national movement
+  to raise awareness and encourage potential Tesla customers not to purchas
+ e vehicles\, divest from Tesla stock\, and demand Musk's removal as CEO. J
+ oin the picket lines—selling your Teslas\, dumping your stock—all to s
+ top Musk and protect our democracy.\n\nTesla Dealership
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=711+W+Palmdo
+ n+Dr%2C+Fresno%2C+CA&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

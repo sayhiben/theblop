@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:ddce0ea3-dfa9-4616-ade4-ebbae2181bf5
+SEQUENCE:0
+DTSTAMP:20250313T031818Z
+DTSTART:20250315T120000
+DTEND:20250315T160000
+SUMMARY:50501: The People’s Movement
+LOCATION:901 Bagby St\, Houston\, TX
+DESCRIPTION:We invite you to join us for "50501: The People’s Movement" 
+ to unite against oppression and dictatorship. The event\, titled "Ides of 
+ March\," aims to stand for democracy and defend human rights as part of a 
+ nationwide call\, featuring protests in all 50 states.\n\nHouston City Hal
+ l
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=901+Bagby+St
+ %2C+Houston%2C+TX&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

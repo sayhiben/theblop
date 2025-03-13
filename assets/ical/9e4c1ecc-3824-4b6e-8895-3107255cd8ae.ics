@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:45135b63-0f0a-40b9-ab37-f18680b52975
+SEQUENCE:0
+DTSTAMP:20250313T031818Z
+DTSTART:20250315T130000
+DTEND:20250315T170000
+SUMMARY:Tesla Takedown-Forest Park Collision Center
+LOCATION:1194 W. Kemper Road\, Cincinnati\, OH
+DESCRIPTION:We are organizing a peaceful protest against Elon Musk's actio
+ ns\, urging participants to sell their Teslas and stocks and join picket l
+ ines. Our aim is to oppose Tesla's influence and promote democratic values
+  through lawful assembly.\n\nTesla Collision Center
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=1194+W.+Kemp
+ er+Road%2C+Cincinnati%2C+OH&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

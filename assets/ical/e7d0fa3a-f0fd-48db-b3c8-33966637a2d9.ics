@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:62e1ff24-ca65-4abe-b1a5-3c804af2d478
+SEQUENCE:0
+DTSTAMP:20250313T031818Z
+DTSTART:20250315T130000
+DTEND:20250315T170000
+SUMMARY:Protest the Trump/Musk Agenda
+LOCATION:\, Encinitas\, CA
+DESCRIPTION:Join us for a peaceful protest against the agendas of Donald T
+ rump and Elon Musk. Let's come together to resist fascism and make our voi
+ ces heard.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+Encinita
+ s%2C+CA&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

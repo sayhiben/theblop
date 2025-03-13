@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:6b83374d-f827-4e95-abb1-4ab910af98aa
+SEQUENCE:0
+DTSTAMP:20250313T031818Z
+DTSTART:20250314T170000
+DTEND:20250314T210000
+SUMMARY:Veterans March @ Tesla Alhambra
+LOCATION:1200 W. Main St\, Alhambra\, CA
+DESCRIPTION:Join us to support our Veterans in a nationwide protest agains
+ t actions by Elon Musk\, which are claimed to undermine democracy. The eve
+ nt aims to engage participants in selling Tesla stocks and joining picket 
+ lines as a form of protest.\n\nTesla Alhambra
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=1200+W.+Main
+ +St%2C+Alhambra%2C+CA&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

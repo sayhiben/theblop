@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:ea263a68-fed3-4034-bab5-d4f979a05bf2
+SEQUENCE:0
+DTSTAMP:20250313T031818Z
+DTSTART:20250315T100000
+DTEND:20250315T140000
+SUMMARY:Tesla Takedown NM
+LOCATION:4200 NM-528\, Rio Rancho\, NM
+DESCRIPTION:We are taking action at Tesla. Sell your Teslas\, dump your st
+ ock\, join the picket lines. Hurting Tesla is stopping Musk. Stopping Musk
+  will help save lives and our democracy. The stakes couldn’t be higher. 
+ No one is coming to save us—not politicians\, not the media.\n\nTesla Be
+ rnalillo
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=4200+NM-528%
+ 2C+Rio+Rancho%2C+NM&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

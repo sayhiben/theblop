@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:a41c01cf-c511-45e1-9b9d-a1cb8b617dbb
+SEQUENCE:0
+DTSTAMP:20250313T031819Z
+DTSTART:20250322T110000
+DTEND:20250322T150000
+SUMMARY:Tesla Takedown Rockville
+LOCATION:1300 Rockville Pike\, Rockville\, MD
+DESCRIPTION:Join us as we take action against Tesla on Saturday\, March 22
+ \, 2025. We're organizing a protest at several Tesla locations to express 
+ our opposition to Elon Musk's policies. Participate by selling your Tesla\
+ , dumping your stock\, and joining our picket lines.\n\nTesla Rockville
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=1300+Rockvil
+ le+Pike%2C+Rockville%2C+MD&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

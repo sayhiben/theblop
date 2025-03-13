@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:bda03d26-e0f9-4790-b8ad-aec7dce91cc3
+SEQUENCE:0
+DTSTAMP:20250313T031818Z
+DTSTART:20250313T113000
+DTEND:20250313T153000
+SUMMARY:DEFEND OUR EDUCATION!
+LOCATION:\, Chicago\, IL
+DESCRIPTION:We are organizing an emergency protest to demand more funding 
+ for education and oppose the UIC administration's plan to merge department
+ s and eliminate majors and minors. Join us in opposing administrative cuts
+  and supporting cultural and linguistic studies.\n\nUIC quad
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+Chicago%
+ 2C+IL&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

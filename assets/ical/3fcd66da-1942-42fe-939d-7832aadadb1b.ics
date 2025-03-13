@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:dfd2d6bb-2c5c-489f-9466-8c1c6b0e5b76
+SEQUENCE:0
+DTSTAMP:20250313T031818Z
+DTSTART:20250315T120000
+DTEND:20250315T160000
+SUMMARY:Tesla Takedown NYC
+LOCATION:860 Washington street\, New York\, NY
+DESCRIPTION:We are taking action at Tesla by encouraging individuals to se
+ ll their Teslas\, dump their stock\, and join the picket lines. This prote
+ st aims to challenge Tesla's influence and its leadership's impact on demo
+ cracy.\n\nTesla NYC Showroom
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=860+Washingt
+ on+street%2C+New+York%2C+NY&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

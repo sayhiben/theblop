@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:5e204fe4-6dbc-41ca-8147-40e15f39b6ee
+SEQUENCE:0
+DTSTAMP:20250313T031818Z
+DTSTART:20250315T120000
+DTEND:20250315T160000
+SUMMARY:"Don't buy Nazi cars!" Stop Elon Musk!
+LOCATION:900 N. Rush St.\, Chicago\, IL
+DESCRIPTION:We are taking action at Tesla. Sell your Teslas\, dump your st
+ ock\, join the picket lines. Hurting Tesla is stopping Musk. Stopping Musk
+  will help save lives and our democracy. The stakes couldn’t be higher. 
+ No one is coming to save us—not politicians\, not the media.\n\nTesla sh
+ owroom
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=900+N.+Rush+
+ St.%2C+Chicago%2C+IL&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

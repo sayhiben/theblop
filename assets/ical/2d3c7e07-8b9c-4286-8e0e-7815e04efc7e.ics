@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:0463ae00-b788-47e3-be34-97c915a2d1e8
+SEQUENCE:0
+DTSTAMP:20250313T031818Z
+DTSTART:20250315T120000
+DTEND:20250315T160000
+SUMMARY:Tesla Takedown-Fire the thieving Muskrat
+LOCATION:16955 Chesterfield Airport Rd\, Chesterfield\, MO
+DESCRIPTION:We are organizing a protest against Tesla. Sell your Teslas\, 
+ dump your stock\, and join the picket lines. Hurting Tesla is stopping Mus
+ k\, which will help save lives and our democracy.\n\nTesla dealer
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=16955+Cheste
+ rfield+Airport+Rd%2C+Chesterfield%2C+MO&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

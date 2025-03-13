@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:380426d1-2041-40ec-a5b5-ee0e99e0749e
+SEQUENCE:0
+DTSTAMP:20250313T031818Z
+DTSTART:20250315T120000
+DTEND:20250315T160000
+SUMMARY:#TeslaTakedown Portland
+LOCATION:4330 S Macadam Street\, Portland\, OR
+DESCRIPTION:Week five of Portland's original #TeslaTakedown protest! Bring
+  friends\, signs\, and bubble makers! We are taking action at Tesla. Sell 
+ your Teslas\, dump your stock\, join the picket lines. Hurting Tesla is st
+ opping Musk. Stopping Musk will help save lives and our democracy.\n\nTesl
+ a Portland Service and Sales Center
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=4330+S+Macad
+ am+Street%2C+Portland%2C+OR&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

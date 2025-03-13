@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:a00e86fd-c792-4fc3-8695-69223abda6d4
+SEQUENCE:0
+DTSTAMP:20250313T031818Z
+DTSTART:20250315T120000
+DTEND:20250315T160000
+SUMMARY:Tesla Takedown
+LOCATION:6701 Amador Plaza Rd\, Dublin\, CA
+DESCRIPTION:We are taking action at a Tesla dealership to protest against 
+ Musk and his operations. Join us in selling Teslas\, dumping stock\, and p
+ icketing to protect democracy and lives.\n\nTesla Dealership
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=6701+Amador+
+ Plaza+Rd%2C+Dublin%2C+CA&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

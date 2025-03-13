@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:7162751f-1266-4af7-9955-00073c756043
+SEQUENCE:0
+DTSTAMP:20250313T031818Z
+DTSTART:20250314T170000
+DTEND:20250314T210000
+SUMMARY:Middle Agers Against Fascism Weekly Friday Protest
+LOCATION:3200 Grand Ave\, Oakland\, CA
+DESCRIPTION:We gather every Friday to protest against fascism and advocate
+  for social issues. Join us as we create a movement through protest and un
+ ity.\n\nGrand Lake Theater
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=3200+Grand+A
+ ve%2C+Oakland%2C+CA&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

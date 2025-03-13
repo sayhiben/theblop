@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:c33d295c-3f5f-44be-b245-d57df5155911
+SEQUENCE:0
+DTSTAMP:20250313T031819Z
+DTSTART:20250405T130000
+DTEND:20250405T170000
+SUMMARY:Tesla Takedown Aliso Viejo!
+LOCATION:26501 Aliso Creek Rd\, Aliso Viejo\, CA
+DESCRIPTION:Join us in taking action against the influence of DOGE and Mus
+ k's associates. We are advocating to protect USAID\, Social Security\, NPS
+ \, and more from their interference. Your participation is crucial to stop
+  Musk and DOGE\, ensuring the protection of services that are vital to our
+  lives and democracy.\n\nTesla Showroom
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=26501+Aliso+
+ Creek+Rd%2C+Aliso+Viejo%2C+CA&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

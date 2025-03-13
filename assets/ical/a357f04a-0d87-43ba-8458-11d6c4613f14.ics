@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:e8633143-c861-44fc-b207-4238bb13e50b
+SEQUENCE:0
+DTSTAMP:20250313T031818Z
+DTSTART:20250314T113000
+DTEND:20250314T153000
+SUMMARY:Boycott Tesla
+LOCATION:Tesla Telegraph Rd Border of Michigan and Ohio\, Tesla\, Toledo\,
+  OH
+DESCRIPTION:Boycott Tesla is a protest movement against Elon Musk's use of
+  his fortune from Tesla to allegedly undermine democracy. Participants are
+  encouraged to join in by selling their Teslas\, dumping Tesla stock\, and
+  joining picket lines at Tesla locations. It’s a peaceful protest withou
+ t violence\, emphasizing lawful First Amendment activities.\n\nAt the Tesl
+ a location near the Michigan and Ohio border
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Tesla+Telegr
+ aph+Rd+Border+of+Michigan+and+Ohio%2C+Tesla%2C+Toledo%2C+OH&zoom=15&basema
+ p=roadmap
+END:VEVENT
+END:VCALENDAR

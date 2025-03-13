@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:cbbe1dc4-4d54-4e0c-b1d8-8d8a7d94005c
+SEQUENCE:0
+DTSTAMP:20250313T031819Z
+DTSTART:20250318T160000
+DTEND:20250318T200000
+SUMMARY:Tesla Tuesdays
+LOCATION:2710 S. Glebe Rd\, Arlington\, VA
+DESCRIPTION:We are taking action at Tesla to stop Elon Musk's alleged ille
+ gal coup by encouraging attendees to sell Teslas\, dump Tesla stock\, and 
+ join picket lines. This is part of the peaceful protest movement "Tesla Ta
+ kedown\," and it emphasizes non-violence while exercising First Amendment 
+ rights to assembly.\n\nTesla
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=2710+S.+Gleb
+ e+Rd%2C+Arlington%2C+VA&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

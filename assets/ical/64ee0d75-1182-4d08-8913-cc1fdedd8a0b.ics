@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:392b0ed7-37b0-4b9f-b76f-b3e93e829ac2
+SEQUENCE:0
+DTSTAMP:20250313T031818Z
+DTSTART:20250314T190000
+DTEND:20250314T230000
+SUMMARY:We Fight Back! Organizing Meeting
+LOCATION:1499 Fruitvale Ave\, Oakland\, CA
+DESCRIPTION:Join us in Oakland to stop the deportations. We are organizing
+  a meeting to unite and plan our actions. Be a part of the fight back effo
+ rt!\n\nOakland Liberation Center
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=1499+Fruitva
+ le+Ave%2C+Oakland%2C+CA&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

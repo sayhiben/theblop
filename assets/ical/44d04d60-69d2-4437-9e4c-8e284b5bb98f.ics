@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:8dce3ea3-936c-4d80-ae51-15d66faf2c4e
+SEQUENCE:0
+DTSTAMP:20250313T031819Z
+DTSTART:20250315T140000
+DTEND:20250315T180000
+SUMMARY:Don't Buy Cars From Nazis
+LOCATION:300 Lexington Dr\, Plano\, TX
+DESCRIPTION:We are taking action at Tesla. Sell your Teslas\, dump your st
+ ock\, and join the picket lines. Hurting Tesla is stopping Musk. Stopping 
+ Musk will help save lives and our democracy.\n\nTesla Plano
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=300+Lexingto
+ n+Dr%2C+Plano%2C+TX&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

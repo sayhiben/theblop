@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:d0617df5-c495-4909-b77a-8f7e61780b12
+SEQUENCE:0
+DTSTAMP:20250313T031819Z
+DTSTART:20250315T140000
+DTEND:20250315T180000
+SUMMARY:Tesla Takedown Chicago
+LOCATION:900 N Rush St\, Chicago\, IL
+DESCRIPTION:We are organizing a protest against Elon Musk\, accusing him o
+ f using Tesla for undemocratic practices. Join us to take action and stop 
+ Musk's actions.\n\nTesla Showroom in the Gold Coast
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=900+N+Rush+S
+ t%2C+Chicago%2C+IL&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

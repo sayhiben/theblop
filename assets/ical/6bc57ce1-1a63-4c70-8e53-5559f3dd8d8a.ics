@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:b8ff4285-1962-4b09-b1c8-0ca460eba1df
+SEQUENCE:0
+DTSTAMP:20250313T031818Z
+DTSTART:20250314T170000
+DTEND:20250314T210000
+SUMMARY:#TeslaTakedown Protest at West Madison Supercharger
+LOCATION:675 South Whitney Way\, Madison\, WI
+DESCRIPTION:Join us once again at the Tesla Supercharger station on Madiso
+ n's West Side to protest Elon Musk and DOGE's illegal and destructive ramp
+ age through our federal government. This is part of a non-violent national
+  movement to raise awareness about the damage Musk is doing to our nation\
+ , and to encourage motorists and potential Tesla customers to not purchase
+  Tesla vehicles\, divest from Tesla stock\, and to get Musk out as CEO.\n\
+ nWest Madison Supercharging Station
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=675+South+Wh
+ itney+Way%2C+Madison%2C+WI&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

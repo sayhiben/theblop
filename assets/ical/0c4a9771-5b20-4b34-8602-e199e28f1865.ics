@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:6d859ad5-5a19-46ed-a0d9-0956bf600bd1
+SEQUENCE:0
+DTSTAMP:20250313T031818Z
+DTSTART:20250315T120000
+DTEND:20250315T160000
+SUMMARY:Tesla Takedown-Lynnwood
+LOCATION:17731 Pacific Highway\, Lynnwood\, WA
+DESCRIPTION:We are taking action at Tesla as part of the Tesla Takedown Mo
+ vement. Join us to protest\, keep the pressure on\, and help save lives an
+ d democracy. Bring signs\, friends\, and family\, and dress for the weathe
+ r.\n\nTesla Store-Lynnwood
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=17731+Pacifi
+ c+Highway%2C+Lynnwood%2C+WA&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

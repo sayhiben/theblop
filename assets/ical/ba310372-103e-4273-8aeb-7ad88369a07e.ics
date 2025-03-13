@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:c94b2ea8-c3e2-42e0-9490-65c45dd69c5f
+SEQUENCE:0
+DTSTAMP:20250313T031819Z
+DTSTART:20250425T000000
+DTEND:20250425T040000
+SUMMARY:Arbor Day Plant Trees
+DESCRIPTION:We are organizing to plant trees on Arbor Day\, April 25th\, i
+ n response to executive orders affecting our forests. Join us to make a di
+ fference and plant LiberTREES locally.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=&zoom=15&bas
+ emap=roadmap
+END:VEVENT
+END:VCALENDAR

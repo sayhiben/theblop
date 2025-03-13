@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:fb060ae3-ba21-4937-8d0e-b47fa232ff6b
+SEQUENCE:0
+DTSTAMP:20250313T031819Z
+DTSTART:20250329T110000
+DTEND:20250329T150000
+SUMMARY:Tesla Takedown Duluth
+LOCATION:3380 Satellite Blvd\, Duluth\, GA
+DESCRIPTION:We are taking action at Tesla. Sell your Teslas\, dump your st
+ ock\, join the picket lines. Hurting Tesla is stopping Musk. Stopping Musk
+  will help save lives and our democracy. The stakes couldn’t be higher. 
+ No one is coming to save us—not politicians\, not the media.\n\nTesla
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=3380+Satelli
+ te+Blvd%2C+Duluth%2C+GA&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

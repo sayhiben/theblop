@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:fc95f982-ad67-498b-afbb-ae400e81dbb4
+SEQUENCE:0
+DTSTAMP:20250313T031818Z
+DTSTART:20250315T110000
+DTEND:20250315T150000
+SUMMARY:NoHo Tesla Takedown
+LOCATION:13005 Sherman Way\, North Hollywood\, CA
+DESCRIPTION:We are organizing a protest at the North Hollywood Tesla Deale
+ rship. Join us in selling your Teslas\, dumping your stock\, and participa
+ ting in the picket lines. Our goal is to impact Tesla's leadership to advo
+ cate for democratic values and safety.\n\nNorth Hollywood Tesla Dealership
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=13005+Sherma
+ n+Way%2C+North+Hollywood%2C+CA&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

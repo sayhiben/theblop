@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:09571d2c-4507-413f-8b07-46656bc052b3
+SEQUENCE:0
+DTSTAMP:20250313T031818Z
+DTSTART:20250315T110000
+DTEND:20250315T150000
+SUMMARY:TeslaTakedown Superior CO
+LOCATION:2 S Marshall Rd\, Superior\, CO
+DESCRIPTION:We are taking action at Tesla. Sell your Teslas\, dump your st
+ ock\, join the picket lines. Hurting Tesla is stopping Musk. Stopping Musk
+  will help save lives and our democracy. The stakes couldn’t be higher. 
+ No one is coming to save us—not politicians\, not the media. #TeslaTaked
+ own #BoycottTesla All are welcome!\n\nTesla Showroom Superior
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=2+S+Marshall
+ +Rd%2C+Superior%2C+CO&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:17e19279-1e06-4009-85dd-98d47aa0b4ff
+SEQUENCE:0
+DTSTAMP:20250313T031819Z
+DTSTART:20250316T120000
+DTEND:20250316T160000
+SUMMARY:Chase Tesla Out of Westchase
+LOCATION:9633 Westheimer\, Houston\, TX
+DESCRIPTION:We are taking action against Tesla by encouraging people to se
+ ll their Tesla products\, dump their stock\, and join the picket lines. Hu
+ rting Tesla is seen as a way to stop Musk\, which is framed as a step towa
+ rd saving lives and protecting democracy. Join us in this cause as no exte
+ rnal saviors like politicians or the media will aid us.\n\nTESLA Service C
+ enter Westchase
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=9633+Westhei
+ mer%2C+Houston%2C+TX&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:3fae9d1b-94b7-4ea7-b179-ed2a1b3ac913
+SEQUENCE:0
+DTSTAMP:20250313T031818Z
+DTSTART:20250314T180000
+DTEND:20250314T220000
+SUMMARY:Defend TPS Rally
+LOCATION:Corner of Newkirk & Nostrand Aves.\, Brooklyn\, NY
+DESCRIPTION:Join us at the Defend TPS Rally as we stand together with Hait
+ ian families and fight for fairness. The event will feature MC DJ Hard Hit
+ tin Harry and promises engaging activities in support of the cause.\n\nOut
+ side St. Jerome Church
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Corner+of+Ne
+ wkirk+%26+Nostrand+Aves.%2C+Brooklyn%2C+NY&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

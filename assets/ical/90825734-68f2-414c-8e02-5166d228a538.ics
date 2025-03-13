@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:d12f92d0-b23e-42a0-a7f0-c4b08de2829d
+SEQUENCE:0
+DTSTAMP:20250313T031818Z
+DTSTART:20250315T120000
+DTEND:20250315T160000
+SUMMARY:TESLA TAKEDOWN - BROOKLYN
+LOCATION:126 9th Street at 2nd Ave\, Brooklyn\, NY
+DESCRIPTION:Join us for the Tesla Takedown event in Brooklyn\, where we wi
+ ll gather at the Tesla location for an engaging and informative session.\n
+ \nTesla
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=126+9th+Stre
+ et+at+2nd+Ave%2C+Brooklyn%2C+NY&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

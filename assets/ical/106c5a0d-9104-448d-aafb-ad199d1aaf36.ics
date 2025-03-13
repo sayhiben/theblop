@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:691ab9af-a2e4-435b-9308-ec31849622e2
+SEQUENCE:0
+DTSTAMP:20250313T031819Z
+DTSTART:20250322T110000
+DTEND:20250322T150000
+SUMMARY:Tesla Takedown Devon PA
+LOCATION:470 Lancaster Ave\, Devon\, PA
+DESCRIPTION:We are organizing a protest at the Tesla location in Devon\, P
+ A\, to take a stand against Elon Musk. Join us by selling your Teslas\, du
+ mping your stock\, and joining the picket lines. Our goal is to take actio
+ n that will support democracy and save lives.\n\nTesla
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=470+Lancaste
+ r+Ave%2C+Devon%2C+PA&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

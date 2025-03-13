@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:80e394f8-36e3-46e4-a740-dc3501c225e5
+SEQUENCE:0
+DTSTAMP:20250313T031819Z
+DTSTART:20250322T140000
+DTEND:20250322T180000
+SUMMARY:Clermont Tesla Takedown
+LOCATION:16775 SR-50 West\, Clermont\, FL
+DESCRIPTION:We are taking action at Tesla. Join us at the Clermont showroo
+ m on state route 50 West on 3/22/25. Find public parking nearby and assemb
+ le on the corner in front of the dealership\, at 50 and Tiny Morse Blvd. 
+ ⚡ Sell your Teslas\, dump your stock\, join the picket lines. ⚡ Hurtin
+ g Tesla is stopping Musk. ⚡ Stopping Musk will help save lives and our d
+ emocracy.\n\nTesla Showroom
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=16775+SR-50+
+ West%2C+Clermont%2C+FL&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

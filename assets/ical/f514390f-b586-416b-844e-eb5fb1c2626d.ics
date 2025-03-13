@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:a180d623-ab37-4542-a58c-f081bb47dc0e
+SEQUENCE:0
+DTSTAMP:20250313T031819Z
+DTSTART:20250327T173000
+DTEND:20250327T213000
+SUMMARY:Don't Mourn\, Organize
+LOCATION:Marmalade Branch Library\, Salt Lake City\, UT
+DESCRIPTION:Join us for an activist networking and political training even
+ t to learn skills such as unionizing\, becoming a delegate\, protesting sa
+ fely\, running for office\, and more.\n\nMarmalade Branch Library
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Marmalade+Br
+ anch+Library%2C+Salt+Lake+City%2C+UT&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

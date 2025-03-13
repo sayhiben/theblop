@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:f7c0f698-f5c9-4174-a536-4a1375c6cc6f
+SEQUENCE:0
+DTSTAMP:20250313T031818Z
+DTSTART:20250315T110000
+DTEND:20250315T150000
+SUMMARY:#TeslaTakedown Littleton
+LOCATION:5700 S Broadway\, Littleton\, CO
+DESCRIPTION:We are organizing a protest against Tesla at the Littleton dea
+ lership. Join us to sell your Teslas\, short their stock\, or join the pic
+ ket lines. Our goal is to challenge Elon Musk and make an impact on democr
+ acy.\n\nTesla Dealership - Littleton
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=5700+S+Broad
+ way%2C+Littleton%2C+CO&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

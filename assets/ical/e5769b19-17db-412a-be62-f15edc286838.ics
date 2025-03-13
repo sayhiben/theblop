@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:cb9b0a8a-9db0-4a4c-a66d-9d624463de14
+SEQUENCE:0
+DTSTAMP:20250313T031818Z
+DTSTART:20250314T160000
+DTEND:20250314T200000
+SUMMARY:March to Maralago
+LOCATION:Southern Blvd entrance\, Dreher Park
+DESCRIPTION:Join us to show support for Ukraine and save Medicaid while op
+ posing oligarchs. Bring flags\, signs\, and water for this important event
+  at Dreher Park.\n\nSouthern Blvd entrance
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Southern+Blv
+ d+entrance%2C+Dreher+Park&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:c65807f2-49d8-4ed3-83a8-9a0606cb6405
+SEQUENCE:0
+DTSTAMP:20250313T031819Z
+DTSTART:20250329T120000
+DTEND:20250329T160000
+SUMMARY:Berkeley Tesla Protest
+LOCATION:1731 4th St\, Berkeley\, CA 94710 US
+DESCRIPTION:We are taking action at Tesla to protest Elon Musk and his ill
+ egal activities. Sell your Teslas\, dump your stock\, join the picket line
+ s. Hurting Tesla is stopping Musk. Stopping Musk will help save lives and 
+ our democracy.\n\nBerkeley Tesla Store
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=1731+4th+St%
+ 2C+Berkeley%2C+CA+94710+US&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

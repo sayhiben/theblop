@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:5a7d749f-0363-4252-bcf4-075daf66fff9
+SEQUENCE:0
+DTSTAMP:20250313T031818Z
+DTSTART:20250313T170000
+DTEND:20250313T210000
+SUMMARY:Boycott Billionaire Bezos in Walnut Creek
+LOCATION:Ygnacio Valley Road & Oak Grove Road\, Walnut Creek\, CA 94598\, 
+ USA
+DESCRIPTION:Join us for a protest event organized by Indivisible ReSisters
+  in Walnut Creek\, where we will stand against billionaire Jeff Bezos. Bri
+ ng your sign and participate in this demonstration. The event is part of a
+  week-long protest happening from March 7-14\, 2025. Join us at the corner
+  of Ygnacio Valley Road and Oak Grove Road near Whole Foods every day at 5
+  p.m.\n\ncorner of Ygnacio Valley Road and Oak Grove Road near Whole Foods
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Ygnacio+Vall
+ ey+Road+%26+Oak+Grove+Road%2C+Walnut+Creek%2C+CA+94598%2C+USA&zoom=15&base
+ map=roadmap
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:d502a51d-e03b-44be-80ff-9f1fe267a20a
+SEQUENCE:0
+DTSTAMP:20250313T031818Z
+DTSTART:20250314T160000
+DTEND:20250314T200000
+SUMMARY:Tesla Takedown Fayetteville NY
+LOCATION:5427 N Burdick St.\, Fayetteville\, NY
+DESCRIPTION:We are organizing a protest at the Tesla Dealer to take action
+  against Tesla and Elon Musk. Join us to sell your Tesla cars\, dump your 
+ Tesla stock\, and participate in picket lines. Our goal is to stop Musk in
+  order to save lives and protect our democracy.\n\nTesla Dealer
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=5427+N+Burdi
+ ck+St.%2C+Fayetteville%2C+NY&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

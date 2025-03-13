@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:e8663dfd-471f-46dc-bfbe-8975099403eb
+SEQUENCE:0
+DTSTAMP:20250313T031818Z
+DTSTART:20250313T183000
+DTEND:20250313T223000
+SUMMARY:Free Mahmoud Khalil Protest and Rally
+LOCATION:MLK Library\, San Jose\, CA
+DESCRIPTION:Join us as we protest for freedom of speech\, stop deportation
+ s\, oppose Trump\, and stand with Palestine. This rally is focused on advo
+ cating for the release of Mahmoud Khalil.\n\nMLK Library San Jose
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=MLK+Library%
+ 2C+San+Jose%2C+CA&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:ca65a810-16d1-4c62-b7ad-41350ee6edad
+SEQUENCE:0
+DTSTAMP:20250313T031818Z
+DTSTART:20250315T120000
+DTEND:20250315T160000
+SUMMARY:TeslaTakedown Northbrook
+LOCATION:1200 Skokie Blvd\, Northbrook\, IL
+DESCRIPTION:We are taking action at Tesla's Northbrook\, IL\, location. Jo
+ in us to sell your Teslas\, dump your stock\, and participate in the picke
+ t lines. Our aim is to stop Tesla and save lives and democracy. We will pr
+ ovide flyers and encourage bringing creative signs to the sidewalk meeting
+  location.\n\nSidewalk in front of Tesla Northbrook
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=1200+Skokie+
+ Blvd%2C+Northbrook%2C+IL&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

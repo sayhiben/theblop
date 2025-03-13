@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:91d9576c-6dc8-4da5-9d7c-96089c59487f
+SEQUENCE:0
+DTSTAMP:20250313T031818Z
+DTSTART:20250314T120000
+DTEND:20250314T160000
+SUMMARY:TESLA TAKEDOWN - Westchester/Ladera Heights
+LOCATION:5840 W Centinela Ave.\, Los Angeles\, CA
+DESCRIPTION:We are taking action at Tesla. Sell your Teslas\, dump your st
+ ock\, and join the picket lines. Hurting Tesla is stopping Musk. Stopping 
+ Musk will help save lives and our democracy.\n\nTesla Dealership
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=5840+W+Centi
+ nela+Ave.%2C+Los+Angeles%2C+CA&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

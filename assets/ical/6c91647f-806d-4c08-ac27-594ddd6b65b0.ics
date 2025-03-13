@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:847e9474-3600-48d9-b589-3224527c6b27
+SEQUENCE:0
+DTSTAMP:20250313T031818Z
+DTSTART:20250315T110000
+DTEND:20250315T150000
+SUMMARY:Tesla Dealership Protest
+LOCATION:2535 Arden Way\, Sacramento\, CA
+DESCRIPTION:Join us for the Tesla Dealership Protest as part of the Tesla 
+ Takedown movement. We aim to peacefully demonstrate against Elon Musk’s 
+ influence\, encouraging participants to sell their Teslas\, dump their sto
+ ck\, and join the picket lines. This lawful assembly is our exercise of Fi
+ rst Amendment rights to protect democracy.\n\nTesla Dealership
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=2535+Arden+W
+ ay%2C+Sacramento%2C+CA&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

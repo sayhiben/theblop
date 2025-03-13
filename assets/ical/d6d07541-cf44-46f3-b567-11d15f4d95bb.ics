@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:bc9d4a16-6bab-414b-887f-b9e7cd102cb6
+SEQUENCE:0
+DTSTAMP:20250313T031818Z
+DTSTART:20250315T110000
+DTEND:20250315T150000
+SUMMARY:Tesla Takedown Indy/Castleton
+LOCATION:8280 Castleton Corner Drive\, Indianapolis\, IN
+DESCRIPTION:Join us for a protest at the Tesla dealership in Indianapolis 
+ as we urge attendees to sell their Teslas and stocks. Let's come together 
+ to voice our opposition.\n\nTelsa Dealer
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=8280+Castlet
+ on+Corner+Drive%2C+Indianapolis%2C+IN&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

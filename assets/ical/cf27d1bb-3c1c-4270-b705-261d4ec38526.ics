@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:5abc5939-6d64-416a-8935-46076951253e
+SEQUENCE:0
+DTSTAMP:20250313T031818Z
+DTSTART:20250314T160000
+DTEND:20250314T200000
+SUMMARY:Tesla Takedown Fayetteville NY
+LOCATION:5427 N Burdick St.\, Fayetteville\, NY
+DESCRIPTION:We are taking action at Tesla. Sell your Teslas\, dump your st
+ ock\, join the picket lines. Hurting Tesla is stopping Musk. Stopping Musk
+  will help save lives and our democracy. The stakes couldn’t be higher. 
+ No one is coming to save us—not politicians\, not the media.\n\nTesla De
+ aler
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=5427+N+Burdi
+ ck+St.%2C+Fayetteville%2C+NY&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

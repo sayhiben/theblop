@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:90775362-1500-457d-a3ab-00f1ca83b438
+SEQUENCE:0
+DTSTAMP:20250313T031819Z
+DTSTART:20250322T120000
+DTEND:20250322T160000
+SUMMARY:Hey Doge\, get your paws out of our government!
+LOCATION:8805 Abercorn St\, Savannah\, GA
+DESCRIPTION:We are taking action at Tesla by organizing a peaceful protest
+  to express our concerns about Elon Musk's influence over government\, his
+  access to personal information\, and his impact on democracy. Join us at 
+ the Savannah Tesla showroom with your friends and signs. Let's sell our Te
+ slas\, join picket lines\, and take a stand.\n\nTesla Showroom
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=8805+Abercor
+ n+St%2C+Savannah%2C+GA&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR
