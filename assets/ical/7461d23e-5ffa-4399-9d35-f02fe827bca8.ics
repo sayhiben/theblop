@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:a5354408-140b-4f1e-ab7a-0700d600623a
+SEQUENCE:0
+DTSTAMP:20250314T120339Z
+DTSTART:20250314T120000
+DTEND:20250314T160000
+SUMMARY:Upcoming Actions Oregon
+LOCATION:Various locations including Capital Park Salem\, 1220 SW 3rd Ave 
+ Portland\, City Hall Portland\, Clackamas Community College Gymnasium Oreg
+ on City.
+DESCRIPTION:We are organizing a series of events: a veteran march in Salem
+ \, a demonstration to protect public lands in Portland\, a taxation protes
+ t in front of Portland City Hall\, and a town hall meeting with Wyden and 
+ Bynum in Oregon City. Join us to voice our collective stance and resist ty
+ ranny.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Various+loca
+ tions+including+Capital+Park+Salem%2C+1220+SW+3rd+Ave+Portland%2C+City+Hal
+ l+Portland%2C+Clackamas+Community+College+Gymnasium+Oregon+City.&zoom=15&b
+ asemap=roadmap
+END:VEVENT
+END:VCALENDAR

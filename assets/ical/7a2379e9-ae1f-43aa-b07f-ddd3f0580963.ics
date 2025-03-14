@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:bb39be5d-4c52-475b-b159-68f71868655f
+SEQUENCE:0
+DTSTAMP:20250314T120340Z
+DTSTART:20250317T093000
+DTEND:20250317T133000
+SUMMARY:Bannering over the 101
+LOCATION:\, Mountain View\, CA
+DESCRIPTION:Join us with very LARGE signs and banners\, or hold up one of 
+ ours on St. Patrick's day near Mountain View at a pedestrian overpass abov
+ e the 101 freeway. Snacks and drinks available from 9:30 - 11. Drop by for
+  a few minutes or stay longer. Please send an email for further informatio
+ n.\n\nUS-101
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+Mountain
+ +View%2C+CA&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

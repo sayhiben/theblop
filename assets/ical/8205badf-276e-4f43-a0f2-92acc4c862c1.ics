@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:87c311f4-5e46-4b51-be47-09108ae7d31d
+SEQUENCE:0
+DTSTAMP:20250314T120340Z
+DTSTART:20250315T110000
+DTEND:20250315T150000
+SUMMARY:Companion Rally to Stop the Cuts!
+LOCATION:Patriots Park\, Tarrytown\, NY
+DESCRIPTION:We are organizing a rally to oppose the proposed cuts in Medic
+ aid\, housing\, and food assistance by Republicans\, which are planned to 
+ fund tax benefits for the wealthy. We aim to mobilize public opinion again
+ st these measures with support from affected organizations. Join us to mak
+ e your voice heard.\n\nPatriots Park
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Patriots+Par
+ k%2C+Tarrytown%2C+NY&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

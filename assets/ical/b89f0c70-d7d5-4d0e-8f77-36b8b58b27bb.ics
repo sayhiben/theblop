@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:7ea89050-12f7-4648-986d-bc756d8a2301
+SEQUENCE:0
+DTSTAMP:20250314T120340Z
+DTSTART:20250315T093000
+DTEND:20250315T133000
+SUMMARY:Mobilize for Mahmoud!
+LOCATION:5081 N Oracle Rd\, Tucson\, AZ
+DESCRIPTION:Join us at the Tesla protest in support of Mahmoud. Let's come
+  together to make a statement.\n\n5081 N Oracle Rd\, Tucson\, AZ 85704
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=5081+N+Oracl
+ e+Rd%2C+Tucson%2C+AZ&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

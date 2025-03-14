@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:353be5c4-d67b-4d42-96bd-48a776eb3c7a
+SEQUENCE:0
+DTSTAMP:20250314T120339Z
+DTSTART:20250314T120000
+DTEND:20250314T160000
+SUMMARY:March to Protect the VA
+LOCATION:201 West Capitol Avenue\, Jefferson City\, MO
+DESCRIPTION:We are organizing a protest to oppose staff reductions in the 
+ Department of Veterans Affairs. Join us as we stand with veterans to preve
+ nt further understaffing at the VA\, which could reduce the effectiveness 
+ of critical services.\n\n201 West Capitol Avenue\, Jefferson City\, MO 651
+ 01
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=201+West+Cap
+ itol+Avenue%2C+Jefferson+City%2C+MO&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

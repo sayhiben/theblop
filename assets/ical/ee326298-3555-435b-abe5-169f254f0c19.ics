@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:d6ee77fd-3a96-4cd8-b843-1a33c3312c65
+SEQUENCE:0
+DTSTAMP:20250314T120339Z
+DTSTART:20250314T090000
+DTEND:20250314T130000
+SUMMARY:Emergency Protest: Schumer Fight Back Or Step Down
+LOCATION:780 3rd Ave\, New York\, NY
+DESCRIPTION:We are organizing an emergency protest at Senator Chuck Schume
+ r's offices in Manhattan and Brooklyn. Join us to demand a "No" vote on cl
+ oture and oppose the Trump/Musk budget.\n\nSenator Chuck Schumer's offices
+  in Manhattan and Brooklyn
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=780+3rd+Ave%
+ 2C+New+York%2C+NY&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

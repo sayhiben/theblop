@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:5906a338-91cd-43f2-a366-ac5a8fb3650e
+SEQUENCE:0
+DTSTAMP:20250314T120339Z
+DTSTART:20250314T130000
+DTEND:20250314T170000
+SUMMARY:3.14 NOW DC
+LOCATION:220 Olympic Ave\, Everett\, WA
+DESCRIPTION:Join us for a "Veterans for Democracy" solidarity sign-waving 
+ event designed to support veterans and allies. The gathering aims to promo
+ te democracy and engage the community.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=220+Olympic+
+ Ave%2C+Everett%2C+WA&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

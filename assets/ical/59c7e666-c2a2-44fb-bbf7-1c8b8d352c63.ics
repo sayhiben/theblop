@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:1bb62e0f-b617-433b-9239-69de8290417f
+SEQUENCE:0
+DTSTAMP:20250314T120339Z
+DTSTART:20250314T120000
+DTEND:20250314T160000
+SUMMARY:Rally to Free Mahmoud Khalil
+LOCATION:Regents Administrative Building\, Boulder\, CO
+DESCRIPTION:Join us in demanding the release of Mahmoud Khalil and more pr
+ otective policies for pro-Palestine voices at CU Boulder.\n\nRegents Admin
+ istrative Building
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Regents+Admi
+ nistrative+Building%2C+Boulder%2C+CO&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

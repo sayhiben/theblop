@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:3dbbd261-d2e4-4325-8199-d6d8389ed999
+SEQUENCE:0
+DTSTAMP:20250314T120340Z
+DTSTART:20250315T120000
+DTEND:20250315T160000
+SUMMARY:STOP MUSK'S ASSAULT ON DEMOCRACY
+LOCATION:394 Santa Monica Place
+DESCRIPTION:Join us for a picket and speakout against the perceived threat
+ s to democracy. Organized by the Peace & Freedom party\, we aim to raise a
+ wareness and take a stand.\n\nTesla Showroom at Santa Monica Place
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=394+Santa+Mo
+ nica+Place&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:72b3a661-5bf0-49d2-bc13-a9a3f884a7a3
+SEQUENCE:0
+DTSTAMP:20250314T120339Z
+DTSTART:20250314T120000
+DTEND:20250314T160000
+SUMMARY:Rally to Save the VA
+LOCATION:9177 Ridgetop Blvd NW\, Silverdale\, WA
+DESCRIPTION:Join us in a volunteer-organized rally to support and save the
+  VA. Participate in a community gathering to show your support.\n\nSilverd
+ ale VA Clinic
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=9177+Ridgeto
+ p+Blvd+NW%2C+Silverdale%2C+WA&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR
