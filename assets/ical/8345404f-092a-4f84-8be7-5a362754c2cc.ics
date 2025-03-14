@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:fd6410d1-a097-4a51-9242-b3e458cf0de7
+SEQUENCE:0
+DTSTAMP:20250314T150227Z
+DTSTART:20250314T120000
+DTEND:20250314T160000
+SUMMARY:Veterans March
+LOCATION:\, Nationwide\, Nationwide
+DESCRIPTION:Join us for a Veterans March to protest against the cuts to ve
+ terans' services as part of Project 2025. We are gathering to support our 
+ veterans and fight against the betrayal of their service.\n\nAll state cap
+ itols and Washington D.C.
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+Nationwi
+ de%2C+Nationwide&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

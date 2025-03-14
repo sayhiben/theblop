@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:76f2e506-c29c-4c57-ac16-3a2ad13a5019
+SEQUENCE:0
+DTSTAMP:20250314T150228Z
+DTSTART:20250323T120000
+DTEND:20250323T160000
+SUMMARY:Rally to Save USPS
+LOCATION:200 E Colfax\, Denver\, CO
+DESCRIPTION:Join us at the "Fight Like Hell Rally" hosted by Branch 47\, B
+ ranch 4405\, and Branch 5996 NALC to support USPS remaining a governmental
+  agency. This event will feature speeches from the National Business Agent
+  office and is geared towards opposing any efforts to privatize USPS. T-sh
+ irts and signage are available for the first 150 participants.\n\nWest ste
+ ps of the Colorado State Capital
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=200+E+Colfax
+ %2C+Denver%2C+CO&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

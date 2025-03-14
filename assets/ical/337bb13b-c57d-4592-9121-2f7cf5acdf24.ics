@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:2b22da05-5885-4189-bb28-3ba7b5ce969d
+SEQUENCE:0
+DTSTAMP:20250314T150227Z
+DTSTART:20250314T123000
+DTEND:20250314T163000
+SUMMARY:Prayer and Protest for Palestine
+LOCATION:116th & Broadway\, New York\, NY
+DESCRIPTION:Join Columbia students in a walkout to show unwavering solidar
+ ity against penalties for resisting genocide and supporting Palestinians a
+ gainst displacement and violence. Bring prayer mats and masks.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=116th+%26+Br
+ oadway%2C+New+York%2C+NY&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR
