@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:4ecbfd82-669c-41ef-86ca-84db74ffd0f8
+SEQUENCE:0
+DTSTAMP:20250314T000543Z
+DTSTART:20250315T120000
+DTEND:20250315T160000
+SUMMARY:Tesla Takedown
+LOCATION:The Shops at Stonefield\, Charlottesville\, VA
+DESCRIPTION:Join us for a protest organized by Indivisible Charlottesville
+  against Elon Musk’s involvement with the Federal government. Bring your
+  big signs and big energy to make a statement.\n\nThe Shops at Stonefield
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=The+Shops+at
+ +Stonefield%2C+Charlottesville%2C+VA&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

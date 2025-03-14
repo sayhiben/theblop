@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:27d44326-5e64-4f4d-96ec-88177e0c95a3
+SEQUENCE:0
+DTSTAMP:20250314T000543Z
+DTSTART:20250317T180000
+DTEND:20250317T220000
+SUMMARY:Empty Chair Town Hall for Congressman Greg Steube
+LOCATION:401 Shreve St\, Punta Gorda\, FL
+DESCRIPTION:Join us for the Empty Chair Town Hall as we discuss important 
+ issues and express our concerns about Congressional actions in Washington\
+ , D.C. This town hall is organized due to Congressman Greg Steube's absenc
+ e. We anticipate media presence to help make our voices heard.\n\nPunta Go
+ rda Charlotte Library
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=401+Shreve+S
+ t%2C+Punta+Gorda%2C+FL&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

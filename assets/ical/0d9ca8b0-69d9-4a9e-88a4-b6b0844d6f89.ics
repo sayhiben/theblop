@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:cd5f1ee0-88e5-41f6-a6be-6850ff053809
+SEQUENCE:0
+DTSTAMP:20250314T000543Z
+DTSTART:20250314T160000
+DTEND:20250314T200000
+SUMMARY:Healthcare Not Wealthcare
+LOCATION:Memorial Park\, \, WA
+DESCRIPTION:We are hosting a student-led protest to advocate for accessibl
+ e healthcare for all\, free from the influence of wealth. Join us as we pu
+ sh for change. Bring your voice and enthusiasm. All ages are welcome\, but
+  please\, no guns\, drugs\, or inappropriate behavior.\n\nMemorial Park
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Memorial+Par
+ k%2C+%2C+WA&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:01f5ed92-c8d1-42b9-8ba8-5954bb73dda0
+SEQUENCE:0
+DTSTAMP:20250314T000543Z
+DTSTART:20250405T100000
+DTEND:20250405T140000
+SUMMARY:Peaceful Protest
+LOCATION:1733 E Young Circle\, Hollywood\, FL
+DESCRIPTION:Join us at the Peaceful Protest\, organized by 50/50. We aim t
+ o remove corrupt politicians\, reverse the damage to society\, and reclaim
+  our democracy. Make your voice heard and take a stand with us.\n\nArts Pa
+ rk
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=1733+E+Young
+ +Circle%2C+Hollywood%2C+FL&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

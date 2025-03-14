@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:8aa57852-9169-428e-806a-7ef6b33e9d45
+SEQUENCE:0
+DTSTAMP:20250314T000543Z
+DTSTART:20250315T150000
+DTEND:20250315T190000
+SUMMARY:Tesla Protest
+LOCATION:Glendale: 539 Americana Way\, Glendale\, CA 91210\, Burbank: 811 
+ S San Fernando Blvd\, Burbank\, CA 91502\, Multiple: Glendale\, Burbank\, 
+ CA
+DESCRIPTION:We are organizing a protest against Tesla and certain politica
+ l figures\, with the aim of highlighting illegal activities and impacting 
+ Tesla stock. Attendees are encouraged to bring signs and maintain a peacef
+ ul and respectful atmosphere.\n\nGlendale: Tesla Showroom Americana\, Burb
+ ank: Tesla Burbank
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Glendale%3A+
+ 539+Americana+Way%2C+Glendale%2C+CA+91210%2C+Burbank%3A+811+S+San+Fernando
+ +Blvd%2C+Burbank%2C+CA+91502%2C+Multiple%3A+Glendale%2C+Burbank%2C+CA&zoom
+ =15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

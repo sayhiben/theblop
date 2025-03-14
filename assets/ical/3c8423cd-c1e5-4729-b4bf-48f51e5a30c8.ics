@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:10afde3d-0f34-426d-a87d-a4ab3bc52a43
+SEQUENCE:0
+DTSTAMP:20250314T000543Z
+DTSTART:20250314T180000
+DTEND:20250314T220000
+SUMMARY:DEFEND TPS RALLY
+LOCATION:Corner of Newkirk & Nostrand Aves.\, Brooklyn\, NY
+DESCRIPTION:We stand together to support Haitian families and fight for fa
+ irness at the Defend TPS Rally.\n\nOutside St. Jerome Church
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Corner+of+Ne
+ wkirk+%26+Nostrand+Aves.%2C+Brooklyn%2C+NY&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:7aeb0aab-3b9f-4c2c-ab87-9c5c2a272466
+SEQUENCE:0
+DTSTAMP:20250314T000543Z
+DTSTART:20250322T130000
+DTEND:20250322T170000
+SUMMARY:The People's Town Hall: Where is Gabe?
+LOCATION:10785 Melody Dr\, Northglenn\, CO
+DESCRIPTION:Join us for The People's Town Hall event in District CO-8 as w
+ e gather the community for a discussion titled 'Where is Gabe?'\n\nGood Sh
+ epherd Presbyterian Church
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=10785+Melody
+ +Dr%2C+Northglenn%2C+CO&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:36f318d1-87a6-4e6c-9eac-a1e1884229d4
+SEQUENCE:0
+DTSTAMP:20250314T000543Z
+DTSTART:20250320T110000
+DTEND:20250320T150000
+SUMMARY:Day of Action!
+LOCATION:2261 S Redwood Rd\, Salt Lake City\, UT
+DESCRIPTION:We are hosting a Day of Action to support our public postal se
+ rvice. Join us to stand against the threats to USPS and to assert the impo
+ rtance of a public postal service. Everyone\, including postal workers\, r
+ etirees\, and customers\, is welcome.\n\nGMF / Main Station 1760 W 2100 S\
+ , NALC Branch 111\, 2261 S Redwood Rd
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=2261+S+Redwo
+ od+Rd%2C+Salt+Lake+City%2C+UT&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

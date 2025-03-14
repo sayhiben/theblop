@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:f0745e7c-b7de-4b7e-a1bb-9df2b1ef3f2e
+SEQUENCE:0
+DTSTAMP:20250314T000543Z
+DTSTART:20250315T130000
+DTEND:20250315T170000
+SUMMARY:WE FIGHT BACK!
+LOCATION:1158 Intervale Ave.\, Bronx\, NY
+DESCRIPTION:We organize weekly meetings to fight against deportations and 
+ advocate for full legalization. Join us in our efforts to create change.\n
+ \n1158 Intervale Ave.
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=1158+Interva
+ le+Ave.%2C+Bronx%2C+NY&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

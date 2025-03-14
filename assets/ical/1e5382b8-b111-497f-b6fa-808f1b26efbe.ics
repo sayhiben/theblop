@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:deac71e6-08a2-4d5e-9a8c-027bde8fff9a
+SEQUENCE:0
+DTSTAMP:20250314T000543Z
+DTSTART:20250315T140000
+DTEND:20250315T180000
+SUMMARY:Worth Fighting For Organizing Meeting at Mariya's in Mountain View
+LOCATION:\, Mountain View\, CA
+DESCRIPTION:Join us to discuss ideas for action\, share new learnings\, an
+ d connect with fellow defenders of democracy. We're coming together to dee
+ pen bonds and strategize on the road ahead. Bring a friend and some food t
+ o share at this potluck!\n\nMariya's
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+Mountain
+ +View%2C+CA&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR
