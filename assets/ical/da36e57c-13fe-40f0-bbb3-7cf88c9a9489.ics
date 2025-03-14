@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:654d7117-69c8-45ae-9095-1d1c6b60b0a5
+SEQUENCE:0
+DTSTAMP:20250314T031001Z
+DTSTART:20250314T120000
+DTEND:20250314T160000
+SUMMARY:Protest at Brian Mast's Office
+LOCATION:59 SW Flagler Ave\, Stuart\, FL
+DESCRIPTION:Join the Martin County Democrats as we protest Brian Mast’s 
+ inaction at the Lyric Theater. We will march to Mast’s office\, demandin
+ g he host a town hall to support Medicaid\, Medicare\, and Social Security
+ . Bring signs to support the cause.\n\nLyric Theatre
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=59+SW+Flagle
+ r+Ave%2C+Stuart%2C+FL&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

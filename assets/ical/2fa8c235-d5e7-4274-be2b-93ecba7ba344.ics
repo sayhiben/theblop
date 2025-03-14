@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:17d12717-b958-4e3e-9919-33b11dc9b4bf
+SEQUENCE:0
+DTSTAMP:20250314T031002Z
+DTSTART:20250316T150000
+DTEND:20250316T190000
+SUMMARY:Protest at St. John's in Far Rockaway
+LOCATION:327 Beach 19th St\, Far Rockaway\, NY
+DESCRIPTION:We are organizing a protest at St. John's in Far Rockaway to g
+ ather support for Justice for Tenisha Evans. Join us on March 16th at 3:00
+  p.m. and make a transportation plan since the subway is down.\n\nSt. John
+ 's
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=327+Beach+19
+ th+St%2C+Far+Rockaway%2C+NY&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

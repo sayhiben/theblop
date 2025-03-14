@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:d0a12d02-52ac-4e5e-baa3-c7c8c320db70
+SEQUENCE:0
+DTSTAMP:20250314T031001Z
+DTSTART:20250314T080000
+DTEND:20250314T120000
+SUMMARY:#EDMatters Rally
+LOCATION:400 Maryland Ave. SW\, Washington\, DC
+DESCRIPTION:We are organizing a rally to support the Department of Educati
+ on's civil servants.\n\nLyndon B. Johnson Building\, US Department of Educ
+ ation (Memorial Side)
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=400+Maryland
+ +Ave.+SW%2C+Washington%2C+DC&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:1176346e-579f-4fc0-a296-81cd6cb526a9
+SEQUENCE:0
+DTSTAMP:20250314T031001Z
+DTSTART:20250314T113000
+DTEND:20250314T153000
+SUMMARY:Federal Building Fridays
+LOCATION:915 2nd Ave\, Seattle\, WA
+DESCRIPTION:Join us to show solidarity with federal workers and groups aff
+ ected by the Trump administration. Bring banners\, chants\, songs\, and no
+ ise-making items as we come together to support American democracy.\n\nThe
+  Federal Building
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=915+2nd+Ave%
+ 2C+Seattle%2C+WA&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR
