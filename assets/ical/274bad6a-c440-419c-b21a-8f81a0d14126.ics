@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:c0a36d64-45e8-4e0a-af2d-88488ac2fab5
+SEQUENCE:0
+DTSTAMP:20250314T180231Z
+DTSTART:20250315T150000
+DTEND:20250315T190000
+SUMMARY:Fight for Our Rights\, Fight for Palestine
+LOCATION:W 42nd St & Broadway\, New York City\, NY
+DESCRIPTION:We are rallying in New York City to show solidarity for Palest
+ inian rights and to advocate for the freedom of Mahmoud Khalil. Join us to
+  make our voices heard.\n\nTimes Sq.
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=W+42nd+St+%2
+ 6+Broadway%2C+New+York+City%2C+NY&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:5ed7f443-f4a1-4efa-a0e2-1abb0eab276d
+SEQUENCE:0
+DTSTAMP:20250314T180231Z
+DTSTART:20250315T120000
+DTEND:20250315T160000
+SUMMARY:Portland Tesla Protest
+LOCATION:4330 S Macadam Avenue\, Portland\, OR
+DESCRIPTION:Join us for a protest at the Tesla Sales and Service Center op
+ posing the perceived labeling of protesters by authorities.\n\nTesla Sales
+  and Service Center
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=4330+S+Macad
+ am+Avenue%2C+Portland%2C+OR&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

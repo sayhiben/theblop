@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:5c19dbac-b89d-46ac-8619-d8c2fe50f05f
+SEQUENCE:0
+DTSTAMP:20250314T180231Z
+DTSTART:20250315T110000
+DTEND:20250315T150000
+SUMMARY:Tesla Protest
+LOCATION:3000 S Federal Hwy\, Delray Beach\, FL
+DESCRIPTION:Join us in Delray Beach to raise your voice against Tesla. We 
+ are standing up for those too afraid to speak out. Be part of the change.\
+ n\n3000 S Federal Hwy\, Delray Beach\, FL 33486
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=3000+S+Feder
+ al+Hwy%2C+Delray+Beach%2C+FL&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR
