@@ -3368,6 +3368,56 @@
     "raw_summary": "A veterans march is planned on March 14, 2025, at all state capitols and Washington D.C. The event is a protest against cuts to veterans' services and aims to support veteran communities."
   },
   {
+    "id": "3d682574-7d39-4cff-8a6c-08b8b5d7cc03",
+    "title": "San Diego Veterans’ Protest",
+    "date": "Friday, March 14, 2025",
+    "time": "4:00 PM",
+    "description": "We are organizing a protest against cuts to veterans' services and benefits. Join us in San Diego for this important cause.",
+    "city": "San Diego",
+    "state": "CA",
+    "address": "2115 Park Blvd",
+    "meeting_location": "The San Diego Veterans Museum; backup location at World Beat Center, 2110 Park Blvd",
+    "links": [],
+    "sponsors": [
+      "Activist San Diego",
+      " DON DIEGO VFW POST 7420",
+      " VETERANS FOR PEACE",
+      " 50 50 1 SAN DIEGO"
+    ],
+    "image_url": "https://theblop.org/assets/images/3d682574-7d39-4cff-8a6c-08b8b5d7cc03.png",
+    "thumbnail_url": "https://theblop.org/assets/images/3d682574-7d39-4cff-8a6c-08b8b5d7cc03-thumb.jpg",
+    "canonical_id": "",
+    "permalink": "https://theblop.org/events/3d682574-7d39-4cff-8a6c-08b8b5d7cc03.html",
+    "ical": "https://theblop.org/assets/ical/3d682574-7d39-4cff-8a6c-08b8b5d7cc03.ics",
+    "raw_text": "San Diego Veterans’ Protest\nopposing cuts to Veterans Services & Veterans Benefits!\n\nFri, March 14, 2025\n4 - 6 pm\n\nTHE SAN DIEGO VETERANS MUSEUM\n2115 PARK BLVD\n\nBACKUP RAIN LOCATION:\nWORLD BEAT CENTER\n2110 PARK BLVD\n\nLIVESTREAM ON YOUTUBE:\n@ActivistSanDiego\n\n[Logos at the bottom]:\nActivist San Diego\nDON DIEGO VFW POST 7420 SAN DIEGO, CA\nVETERANS FOR PEACE\n50 50 1 SAN DIEGO",
+    "raw_summary": "The event is a protest in San Diego against cuts to veterans' services and benefits, scheduled for March 14, 2025, from 4 to 6 PM at The San Diego Veterans Museum, with a backup location at World Beat Center. It will also be livestreamed on YouTube by Activist San Diego and is supported by several organizations."
+  },
+  {
+    "id": "201a6274-a0da-4f5e-9042-6dbe659088c3",
+    "title": "Reject Project 2025-Stand for the Rule of Law CA GOP Convention Protest",
+    "date": "Friday, March 14, 2025",
+    "time": "11:00 AM",
+    "description": "Join us to oppose the dangerous anti-democratic Project 2025 at the CA GOP Convention in Sacramento. We aim to call out harmful policies with a peaceful assembly supporting the rule of law.",
+    "city": "Sacramento",
+    "state": "CA",
+    "address": "",
+    "meeting_location": "Hyatt Regency on L St.",
+    "links": [
+      "OpposeProject2025.org"
+    ],
+    "sponsors": [
+      "Indivisible Sacramento",
+      " Coalition Against Project 2025"
+    ],
+    "image_url": "https://theblop.org/assets/images/201a6274-a0da-4f5e-9042-6dbe659088c3.jpg",
+    "thumbnail_url": "https://theblop.org/assets/images/201a6274-a0da-4f5e-9042-6dbe659088c3-thumb.jpg",
+    "canonical_id": "",
+    "permalink": "https://theblop.org/events/201a6274-a0da-4f5e-9042-6dbe659088c3.html",
+    "ical": "https://theblop.org/assets/ical/201a6274-a0da-4f5e-9042-6dbe659088c3.ics",
+    "raw_text": "INDIVISIBLE\nOppose Project 2025\nSupport the Rule-of-Law!\nPROTEST the California GOP Convention\nOpposeProject2025.org\n\nFri, Sat, Sun\nMarch 14-16, 2025\n11am-5pm\nHyatt Regency on L St.\n\nReject Project 2025-Stand for the Rule of Law CA GOP Convention Protest\nSolidarity Event\n\nFriday, March 14\nMultiple times available\n+ 2 more days\n\nThis event's address is private.\nSign up for more details.\n\nAbout this event\nJoin Indivisible Sacramento and the Coalition Against Project 2025 to oppose the dangerous anti-democratic and immoral Trump agenda at the CA GOP Convention in downtown Sacramento. RAIN OR SHINE!\n\nThis is a peaceful assembly to call out the Republican party for their harmful extreme right-wing Project 2025 policies that are destroying civic institutions. 50 max people are allowed to assemble on the sidewalk outside the hotel at a time without a permit. We will be monitoring the numbers and rotate folks in and out to keep it legal.\n\nSign up for a shift or more! We will be in contact with details as the dates get closer.\n\nYour event coordinator is Jeannette Stevenson with Indivisible Sacramento and the Coalition Against Project 2025.\n\nAccessibility\nHave accessibility questions? Reply to your registration email to confirm your requirements or request more information.",
+    "raw_summary": "The event opposes Project 2025 and is organized by Indivisible Sacramento and the Coalition Against Project 2025. It's a peaceful protest aiming to challenge the California GOP Convention and its support for Project 2025. Scheduled from March 14 to 16, 2025, in Sacramento, CA, but the exact location requires sign-up for further details. It's supported by these organizations to address extreme policies they find harmful."
+  },
+  {
     "id": "d7071eda-b99a-4356-91ca-021a6053cdd7",
     "title": "Rally Outside Easton Tesla",
     "date": "Saturday, March 15, 2025",
@@ -10256,6 +10306,119 @@
     "raw_summary": "The image announces a protest event at a Tesla Sales and Service Center in Portland, Oregon, scheduled for March 15, 2025, at 12:00 PM, expressing dissent against perceived labeling of protesters by authorities."
   },
   {
+    "id": "1912662e-2f2d-48f1-8180-e679e6c8242a",
+    "title": "Tesla Picket",
+    "date": "Saturday, March 15, 2025",
+    "time": "12:00 PM",
+    "description": "Join us for the Beware the Ides of March Tesla Picket event in Grand Rapids. We gather to express our concerns and raise awareness about Tesla's practices.",
+    "city": "Grand Rapids",
+    "state": "MI",
+    "address": "2919 29th St SE",
+    "meeting_location": "Tesla Showroom",
+    "links": [
+      "[]"
+    ],
+    "sponsors": [
+      "[]"
+    ],
+    "image_url": "https://theblop.org/assets/images/1912662e-2f2d-48f1-8180-e679e6c8242a.png",
+    "thumbnail_url": "https://theblop.org/assets/images/1912662e-2f2d-48f1-8180-e679e6c8242a-thumb.jpg",
+    "canonical_id": "",
+    "permalink": "https://theblop.org/events/1912662e-2f2d-48f1-8180-e679e6c8242a.html",
+    "ical": "https://theblop.org/assets/ical/1912662e-2f2d-48f1-8180-e679e6c8242a.ics",
+    "raw_text": "GRAND RAPIDS\nBeware the Ides of March\nTesla Picket!\n#TESLATAKEDOWN\nSATURDAY, MARCH 15TH @ 12 NOON\nTESLA SHOWROOM,\n2919 29TH ST SE, 49512",
+    "raw_summary": "There is a Tesla picket event happening in Grand Rapids, labeled as \"Beware the Ides of March Tesla Picket.\" It is scheduled for Saturday, March 15th at 12 noon. The location is the Tesla Showroom at 2919 29th St SE, with the postal code 49512. The event is associated with the hashtag #TESLATAKEDOWN."
+  },
+  {
+    "id": "0b6ca77d-6d64-4917-87a3-70e934dfeba0",
+    "title": "Rally Outside Easton Tesla",
+    "date": "Saturday, March 15, 2025",
+    "time": "4:30 PM",
+    "description": "We are hosting a rally to advocate for Musk to step down, encouraging attendees to engage with legislators as part of the effort. The rally occurs every Saturday at 4:30.",
+    "city": "Columbus",
+    "state": "OH",
+    "address": "Easton",
+    "meeting_location": "Outside Tesla",
+    "links": [
+      "www.5calls.org",
+      " www.indivisiblecentralohio.org"
+    ],
+    "sponsors": [
+      "Indivisible Central Ohio"
+    ],
+    "image_url": "https://theblop.org/assets/images/0b6ca77d-6d64-4917-87a3-70e934dfeba0.jpg",
+    "thumbnail_url": "https://theblop.org/assets/images/0b6ca77d-6d64-4917-87a3-70e934dfeba0-thumb.jpg",
+    "canonical_id": "",
+    "permalink": "https://theblop.org/events/0b6ca77d-6d64-4917-87a3-70e934dfeba0.html",
+    "ical": "https://theblop.org/assets/ical/0b6ca77d-6d64-4917-87a3-70e934dfeba0.ics",
+    "raw_text": "Rally Outside Easton Tesla\nevery Saturday at 4:30\nUntil MUSK is OUT\n\nCall Congress and Senators\ntell them to STOP MUSK\n\nSenator Bernie Moreno\n202-224-2315\nSenator Jon Husted\n202-224-3353\n\nLocate your Reps phone number here:\nwww.5calls.org\n\nStay Engaged\nwww.indivisiblecentralohio.org\n@indivcentraloh.bsky.social\n\nINDIVISIBLE\nCENTRAL\nOHIO",
+    "raw_summary": "The flyer announces a recurring rally happening every Saturday at 4:30 outside the Easton Tesla, advocating to \"Stop Musk.\" Contact information for Senators and a website link for locating representatives' phone numbers are provided, along with encouragement to engage through Indivisible Central Ohio's platforms."
+  },
+  {
+    "id": "78daa8cf-086d-4eab-b2ca-6663562fe6dc",
+    "title": "Calling All Artists",
+    "date": "Saturday, March 15, 2025",
+    "time": "5:00 PM",
+    "description": "Join us for a night of radical art. Bring your supplies and sit down to “stitch n bitch” with us.",
+    "city": "Denver",
+    "state": "CO",
+    "address": "250 Steele St #108",
+    "meeting_location": "Die Die Must Try Beverage Co.",
+    "links": [],
+    "sponsors": [
+      "Knots of Kindness",
+      " Custom Crochet",
+      " Common Ground People's Collective"
+    ],
+    "image_url": "https://theblop.org/assets/images/78daa8cf-086d-4eab-b2ca-6663562fe6dc.jpg",
+    "thumbnail_url": "https://theblop.org/assets/images/78daa8cf-086d-4eab-b2ca-6663562fe6dc-thumb.jpg",
+    "canonical_id": "",
+    "permalink": "https://theblop.org/events/78daa8cf-086d-4eab-b2ca-6663562fe6dc.html",
+    "ical": "https://theblop.org/assets/ical/78daa8cf-086d-4eab-b2ca-6663562fe6dc.ics",
+    "raw_text": "Calling All Artists!\n\nJoin us for a night of radical art.\nBring your supplies and sit down to “stitch n bitch” with us.\n\nWhen: March 15th, 2025 at 5pm\n\nWhere: Die Die Must Try Beverage Co.\n250 Steele St #108, Denver, CO 80206\n\nTo RSVP: email knots.of.kindness.foco@gmail.com your name and how many will be attending with the subject line “Radical Art Colorado”\n\n[Logos: Knots of Kindness, Custom Crochet, Common Ground People's Collective]",
+    "raw_summary": "The flyer invites artists to an event titled \"Calling All Artists!\" on March 15th, 2025, at 5 PM. It encourages bringing art supplies and participating in a \"stitch n bitch\" session. The location is Die Die Must Try Beverage Co. in Denver, CO. RSVP is via email. The event is supported by Knots of Kindness and other organizations."
+  },
+  {
+    "id": "d591d8f7-b10e-4975-b2dc-7f4f79705f1d",
+    "title": "Anti Musk Peaceful Protest",
+    "date": "Saturday, March 15, 2025",
+    "time": "12:00 PM",
+    "description": "Join us for a peaceful protest against Elon Musk's practices and impact, set to take place at the designated location as a public demonstration.",
+    "city": "Superior",
+    "state": "CO",
+    "address": "2 S Marshall Rd",
+    "meeting_location": "",
+    "links": [],
+    "sponsors": [],
+    "image_url": "https://theblop.org/assets/images/d591d8f7-b10e-4975-b2dc-7f4f79705f1d.jpg",
+    "thumbnail_url": "https://theblop.org/assets/images/d591d8f7-b10e-4975-b2dc-7f4f79705f1d-thumb.jpg",
+    "canonical_id": "",
+    "permalink": "https://theblop.org/events/d591d8f7-b10e-4975-b2dc-7f4f79705f1d.html",
+    "ical": "https://theblop.org/assets/ical/d591d8f7-b10e-4975-b2dc-7f4f79705f1d.ics",
+    "raw_text": "ANTI MUSK PEACEFUL PROTEST\n\n3.15.2025\n12PM - 2PM\n\n2 S MARSHALL RD\nSUPERIOR, CO 80027\n\nGOES FROM\nO TO\n1939\nIN 3 SECONDS\n\nTESLA\nTHE SWASTICAR",
+    "raw_summary": "The image is an announcement for an 'Anti Musk Peaceful Protest' scheduled to take place on March 15, 2025, from 12 PM to 2 PM at 2 S Marshall Rd, Superior, CO 80027. It features a graphic that combines Tesla-related imagery with a controversial symbol and phrase."
+  },
+  {
+    "id": "59c75e23-1558-4fc1-a0b0-04794c8870a5",
+    "title": "Corruption Destroys, Community Builds",
+    "date": "Saturday, March 15, 2025",
+    "time": "3:00 PM",
+    "description": "Join us for a rally at the Federal Building and U.S. Courthouse in Milwaukee as part of a nationwide movement, aiming to address issues of corruption and empower community voices.",
+    "city": "Milwaukee",
+    "state": "WI",
+    "address": "517 E Wisconsin Ave",
+    "meeting_location": "Federal Building & U.S. Courthouse",
+    "links": [],
+    "sponsors": [],
+    "image_url": "https://theblop.org/assets/images/59c75e23-1558-4fc1-a0b0-04794c8870a5.png",
+    "thumbnail_url": "https://theblop.org/assets/images/59c75e23-1558-4fc1-a0b0-04794c8870a5-thumb.jpg",
+    "canonical_id": "",
+    "permalink": "https://theblop.org/events/59c75e23-1558-4fc1-a0b0-04794c8870a5.html",
+    "ical": "https://theblop.org/assets/ical/59c75e23-1558-4fc1-a0b0-04794c8870a5.ics",
+    "raw_text": "50 50 1\n50 PROTESTS • 50 STATES • 1 MOVEMENT\n\nCORRUPTION DESTROYS, COMMUNITY BUILDS\n\nMARCH 15\n3:00 PM - 6:00 PM\n\nFEDERAL BUILDING & U.S. COURTHOUSE\nFOOTSTEPS OF 517 E WISCONSIN AVE, MILWAUKEE\nPROTEST + COMMUNITY VOICES",
+    "raw_summary": "A protest event titled 'Corruption Destroys, Community Builds' will take place on March 15 from 3:00 PM to 6:00 PM at the Federal Building and U.S. Courthouse near 517 E Wisconsin Ave, Milwaukee. It is part of a broader movement involving 50 protests in 50 states."
+  },
+  {
     "id": "d503665d-a4b2-4c63-853a-d11525cfa34d",
     "title": "Expose The Harm Rally",
     "date": "Sunday, March 16, 2025",
@@ -11108,6 +11271,74 @@
     "raw_summary": "The Edmonton Public Library is hosting a Rainbow Read-In at Stanley A. Milner Library to protest against 2SLGTBIA+ discrimination on Sunday, March 16th from 3 to 5 PM."
   },
   {
+    "id": "c32f83ff-a3b7-4591-9f95-cca7d726c013",
+    "title": "Together We Rise",
+    "date": "Sunday, March 16, 2025",
+    "time": "12:00 PM",
+    "description": "Join us for a march and rally focusing on building education and stopping deportation. We invite you to come ready to walk and join us in solidarity. Remember to consider the weather and bring water.",
+    "city": "Denver",
+    "state": "CO",
+    "address": "W Howard Pl & Irving St.",
+    "meeting_location": "Paco Sanchez Park",
+    "links": [],
+    "sponsors": [
+      "Our Voices",
+      " Our Power",
+      " United"
+    ],
+    "image_url": "https://theblop.org/assets/images/c32f83ff-a3b7-4591-9f95-cca7d726c013.jpg",
+    "thumbnail_url": "https://theblop.org/assets/images/c32f83ff-a3b7-4591-9f95-cca7d726c013-thumb.jpg",
+    "canonical_id": "",
+    "permalink": "https://theblop.org/events/c32f83ff-a3b7-4591-9f95-cca7d726c013.html",
+    "ical": "https://theblop.org/assets/ical/c32f83ff-a3b7-4591-9f95-cca7d726c013.ics",
+    "raw_text": "BUILD EDUCATION | STOP DEPORTATION\n\nTOGETHER WE RISE\nMARCH & RALLY\n\nSUNDAY\nMARCH 16\nSTARTING AT 12PM\nPACO SANCHEZ PARK\nPLAYGROUND ON THE CORNER OF\nW HOWARD PL & IRVING ST.\nDENVER, CO 80204\n\n*COME READY TO WALK, CONSIDER WEATHER AND BRING WATER*\n\nORGANIZED BY: OUR VOICES, OUR POWER, UNITED\nCONTACT: NITA@NUEVOAMANECER.BIZ",
+    "raw_summary": "A march and rally event titled \"Together We Rise\" focusing on building education and stopping deportation, held at Paco Sanchez Park in Denver, CO, on March 16, starting at 12 PM. Participants should come prepared to walk."
+  },
+  {
+    "id": "89889aa9-c621-486b-aa07-923dc092caed",
+    "title": "Stand Up to the Oligarchy",
+    "date": "Sunday, March 16, 2025",
+    "time": "2:00 PM",
+    "description": "Join us for a peaceful protest at the Saint Croix Falls Public Library. We are gathering to march to the bridge and stand against a constitutional crisis. Even if you are unable to march, meet us from the Taylor’s Falls side.",
+    "city": "Saint Croix Falls",
+    "state": "WI",
+    "address": "Saint Croix Falls Public Library",
+    "meeting_location": "Taylor's Falls",
+    "links": [],
+    "sponsors": [
+      "Saint Croix River Valley Resistance"
+    ],
+    "image_url": "https://theblop.org/assets/images/89889aa9-c621-486b-aa07-923dc092caed.jpg",
+    "thumbnail_url": "https://theblop.org/assets/images/89889aa9-c621-486b-aa07-923dc092caed-thumb.jpg",
+    "canonical_id": "",
+    "permalink": "https://theblop.org/events/89889aa9-c621-486b-aa07-923dc092caed.html",
+    "ical": "https://theblop.org/assets/ical/89889aa9-c621-486b-aa07-923dc092caed.ics",
+    "raw_text": "NW WI: Please join us at the Saint Croix Falls Public Library at 2pm until 4pm for a march to the bridge.\nSet up at the bridge from the Taylor's Falls side and we will come if you dont want to/are unable to march. ✊\nStand up against this Constitutional crisis!\n#protest #resist #Wisconsin\n\nSTAND UP TO THE OLIGARCHY\nPEACEFUL PROTEST\n☮️ ♥️\nSunday, March 16 @ 2-4 PM\nSaint Croix Public Library\nSAINT CROIX RIVER VALLEY RESISTANCE",
+    "raw_summary": "A peaceful protest titled 'Stand Up to the Oligarchy' is scheduled at the Saint Croix Falls Public Library and near the bridge on the Taylor's Falls side. It aims to address a constitutional crisis, urging participants to join a march on Sunday, March 16, from 2 PM to 4 PM."
+  },
+  {
+    "id": "75b72127-89da-44f1-93a7-da50ce30f5a9",
+    "title": "Speak Up: Town Hall on Federal Cuts & Budget Concerns",
+    "date": "Sunday, March 16, 2025",
+    "time": "3:00 PM",
+    "description": "Join us for a Community Town Hall to discuss the impact of federal agency cuts and upcoming budget changes. This is your opportunity to ask elected officials and candidates questions, share your concerns, and have your voice heard.",
+    "city": "",
+    "state": "",
+    "address": "",
+    "meeting_location": "Link Centre",
+    "links": [],
+    "sponsors": [
+      "Indivisible Northeast Mississippi"
+    ],
+    "image_url": "https://theblop.org/assets/images/75b72127-89da-44f1-93a7-da50ce30f5a9.png",
+    "thumbnail_url": "https://theblop.org/assets/images/75b72127-89da-44f1-93a7-da50ce30f5a9-thumb.jpg",
+    "canonical_id": "",
+    "permalink": "https://theblop.org/events/75b72127-89da-44f1-93a7-da50ce30f5a9.html",
+    "ical": "https://theblop.org/assets/ical/75b72127-89da-44f1-93a7-da50ce30f5a9.ics",
+    "raw_text": "SPEAK UP: TOWN HALL ON FEDERAL CUTS & BUDGET CONCERNS\n\nJoin us for a Community Town Hall to discuss the impact of federal agency cuts and upcoming budget changes. This is your opportunity to ask elected officials and candidates questions, share your concerns, and have your voice heard.\n\nMarch 16, 2025 3:00-5:00 PM\n\nLocation: Link Centre\nReception Hall at the back of the Link Centre. Entrance is on Douglas St. by PAL, Police Athletic League.\n\nHosted By: Indivisible Northeast Mississippi",
+    "raw_summary": "The image is a flyer for a Community Town Hall event focused on discussing the impact of federal agency cuts and budget changes. It's an opportunity for attendees to engage with elected officials and candidates. The event is scheduled for March 16, 2025, from 3:00 to 5:00 PM at the Link Centre. Hosted by Indivisible Northeast Mississippi."
+  },
+  {
     "id": "43070fec-7b5f-4839-a265-fad74cb42d15",
     "title": "LGBTQ+ Lobby Day",
     "date": "Monday, March 17, 2025",
@@ -11592,6 +11823,76 @@
     "raw_summary": "The event \"Bannering over the 101\" is a visibility gathering organized by volunteers, occurring on St. Patrick’s Day, March 17, at the US-101 overpass in Mountain View, CA. Participants are invited to display large banners. Snacks and refreshments will be available. The event promotes political activism against Trump."
   },
   {
+    "id": "7f128b7e-e304-4886-a9a7-4457adeded9c",
+    "title": "Ask Chuck Schumer to \"DO SOMETHING\"",
+    "date": "Monday, March 17, 2025",
+    "time": "5:30 PM",
+    "description": "Join us at Enoch Pratt Free Library to rally and ask Chuck Schumer to take action. Organized by Indivisible.",
+    "city": "Baltimore",
+    "state": "MD",
+    "address": "400 Cathedral St",
+    "meeting_location": "Enoch Pratt Free Library",
+    "links": [],
+    "sponsors": [
+      "INDIVISIBLE"
+    ],
+    "image_url": "https://theblop.org/assets/images/7f128b7e-e304-4886-a9a7-4457adeded9c.jpg",
+    "thumbnail_url": "https://theblop.org/assets/images/7f128b7e-e304-4886-a9a7-4457adeded9c-thumb.jpg",
+    "canonical_id": "",
+    "permalink": "https://theblop.org/events/7f128b7e-e304-4886-a9a7-4457adeded9c.html",
+    "ical": "https://theblop.org/assets/ical/7f128b7e-e304-4886-a9a7-4457adeded9c.ics",
+    "raw_text": "INDIVISIBLE\n\nRSVP NOW\nJOIN US!\n\nAsk Chuck Schumer to \"DO SOMETHING\"\nRally · Volunteer organized\n\nMonday, March 17\n5:30 – 8:30pm EDT\n\nEnoch Pratt Free Library\n400 Cathedral St\nBaltimore, MD 21201\nMap",
+    "raw_summary": "The flyer is promoting a rally organized by Indivisible. Participants are urged to join to ask Chuck Schumer to take action. The rally is happening at the Enoch Pratt Free Library in Baltimore, MD, on March 17, from 5:30 PM to 8:30 PM."
+  },
+  {
+    "id": "bd3a52e7-8c79-4427-8156-c36a24d2b3a5",
+    "title": "Senator Crapo, Do Your Job Protest and Townhall",
+    "date": "Monday, March 17, 2025",
+    "time": "11:15 AM",
+    "description": "Join us for a protest and townhall demanding action from Senator Crapo. Bring your signs to express your voice at the protest starting at N Garden St and Chinden Blvd. Continue the discussion at the citizens' townhall at Roots Market. Let's hold our leaders accountable.",
+    "city": "Garden City",
+    "state": "ID",
+    "address": "N Garden St and Chinden Blvd",
+    "meeting_location": "Roots Market, Garden City",
+    "links": [
+      "http://@idaho50501.bsky.social"
+    ],
+    "sponsors": [
+      "The Idaho 97"
+    ],
+    "image_url": "https://theblop.org/assets/images/bd3a52e7-8c79-4427-8156-c36a24d2b3a5.jpg",
+    "thumbnail_url": "https://theblop.org/assets/images/bd3a52e7-8c79-4427-8156-c36a24d2b3a5-thumb.jpg",
+    "canonical_id": "",
+    "permalink": "https://theblop.org/events/bd3a52e7-8c79-4427-8156-c36a24d2b3a5.html",
+    "ical": "https://theblop.org/assets/ical/bd3a52e7-8c79-4427-8156-c36a24d2b3a5.ics",
+    "raw_text": "The Idaho 97 @theidaho97.bsky.social · 17m\nMonday!!! For protest guidelines, parking info,\netc. check out @idaho50501.bsky.social\n\nSENATOR CRAPO,\nDO YOUR JOB!\nPROTEST, 11:15AM\nN GARDEN ST AND CHINDEN\nBLVD, GARDEN CITY\nBRING SIGNS!\n\nCITIZENS'\nTOWNHALL, 12:15PM\nROOTS MARKET, GARDEN CITY\nMONDAY, MARCH 17TH",
+    "raw_summary": "This image announces a protest and townhall organized by The Idaho 97, to be held on Monday, March 17th. The protest starts at 11:15 AM at the intersection of N Garden St and Chinden Blvd in Garden City, and the townhall will be at 12:15 PM at Roots Market in Garden City. Participants are encouraged to bring signs."
+  },
+  {
+    "id": "399bb912-1b97-411a-8c18-9f72630f9575",
+    "title": "Protest at The Riverside Hotel",
+    "date": "Monday, March 17, 2025",
+    "time": "11:15 AM",
+    "description": "We are organizing a protest against Senator Crapo to stand for democracy and commit to nonviolence. Join us at 11:15 AM at N Garden St and Chinden Blvd, Garden City, with signs. Afterward, participate in a citizens' townhall at 12:15 PM at Roots Market.",
+    "city": "Garden City",
+    "state": "ID",
+    "address": "N Garden St and Chinden Blvd",
+    "meeting_location": "Roots Market",
+    "links": [
+      "[]"
+    ],
+    "sponsors": [
+      "[]"
+    ],
+    "image_url": "https://theblop.org/assets/images/399bb912-1b97-411a-8c18-9f72630f9575.jpg",
+    "thumbnail_url": "https://theblop.org/assets/images/399bb912-1b97-411a-8c18-9f72630f9575-thumb.jpg",
+    "canonical_id": "",
+    "permalink": "https://theblop.org/events/399bb912-1b97-411a-8c18-9f72630f9575.html",
+    "ical": "https://theblop.org/assets/ical/399bb912-1b97-411a-8c18-9f72630f9575.ics",
+    "raw_text": "Idaho 50501 – Protest at The Riverside Hotel\nStanding for Democracy | Committed to Nonviolence\n\nSENATOR CRAPO,\nDO YOUR JOB!\nPROTEST, 11:15AM\nN GARDEN ST AND CHINDEN BLVD,\nGARDEN CITY, BRING SIGNS!\n\nCITIZENS'\nTOWNHALL, 12:15PM\nROOTS MARKET, GARDEN CITY\nMONDAY, MARCH 17TH",
+    "raw_summary": "A protest against Senator Crapo is scheduled on Monday, March 17th in Garden City, Idaho. The protest will start at 11:15 AM at the intersection of N Garden St and Chinden Blvd. Following the protest, a citizens' town hall will take place at 12:15 PM at Roots Market."
+  },
+  {
     "id": "de8ade6d-1275-4b05-ac15-c0ce741da578",
     "title": "2025 NY Health Act Lobby Day",
     "date": "Tuesday, March 18, 2025",
@@ -11894,6 +12195,51 @@
     "raw_summary": "The image promotes a recurring protest event called the 'Corner Protest' that takes place every Tuesday and Thursday from 4:15 PM to 6:00 PM at the corner of Drake and College in Fort Collins. The event on Tuesday, March 18, 2025, is specifically highlighted, taking place at 2601 S College Ave, Fort Collins, CO. Themes include protecting public lands and political engagement."
   },
   {
+    "id": "e7c9313c-3d6b-4dc7-a0ae-f093e1d76718",
+    "title": "Hands Off Medicaid",
+    "date": "Tuesday, March 18, 2025",
+    "time": "12:00 PM",
+    "description": "We are organizing a protest in Missoula to oppose changes to Medicaid. Join us at Union Club Bar for a community gathering to voice concerns and stand together.",
+    "city": "Missoula",
+    "state": "MT",
+    "address": "",
+    "meeting_location": "Union Club Bar",
+    "links": [],
+    "sponsors": [],
+    "image_url": "https://theblop.org/assets/images/e7c9313c-3d6b-4dc7-a0ae-f093e1d76718.png",
+    "thumbnail_url": "https://theblop.org/assets/images/e7c9313c-3d6b-4dc7-a0ae-f093e1d76718-thumb.jpg",
+    "canonical_id": "",
+    "permalink": "https://theblop.org/events/e7c9313c-3d6b-4dc7-a0ae-f093e1d76718.html",
+    "ical": "https://theblop.org/assets/ical/e7c9313c-3d6b-4dc7-a0ae-f093e1d76718.ics",
+    "raw_text": "Hands\nOff\nMedicaid\n\nMissoula Community Protest\n12pm - 1pm\n3/18/25\nMeet at Union Club Bar\n\n- Parking -\nPark Place Parking Garage (1st hour free)\n2 hour parking in front of\nFirst United Methodist Church\nDowntown metered parking also available\n\nFor more info --\nCall/text Owen\n406.304.0521",
+    "raw_summary": "A community protest event titled \"Hands Off Medicaid\" will take place in Missoula on March 18, 2025, from 12 PM to 1 PM at Union Club Bar. It includes information on parking and a contact number for more details."
+  },
+  {
+    "id": "fdd64cd0-3db9-4fbb-9909-e86cfe9c45be",
+    "title": "Democracy Under Attack - We Will Not Stay Silent",
+    "date": "Tuesday, March 18, 2025",
+    "time": "12:00 PM",
+    "description": "Join us as we take a stand against Project 2025, right-wing extremism, attacks on voting and civil rights, and corporate greed. Bring your signs and energy to fight for democracy, equality, and justice.",
+    "city": "Carlsbad",
+    "state": "CA",
+    "address": "Pine & Carlsbad Blvd (Next to Harbor Fish)",
+    "meeting_location": "Pine & Carlsbad Blvd (Next to Harbor Fish)",
+    "links": [
+      "[]"
+    ],
+    "sponsors": [
+      "Indivisible North County",
+      " DEMCCO"
+    ],
+    "image_url": "https://theblop.org/assets/images/fdd64cd0-3db9-4fbb-9909-e86cfe9c45be.jpg",
+    "thumbnail_url": "https://theblop.org/assets/images/fdd64cd0-3db9-4fbb-9909-e86cfe9c45be-thumb.jpg",
+    "canonical_id": "",
+    "permalink": "https://theblop.org/events/fdd64cd0-3db9-4fbb-9909-e86cfe9c45be.html",
+    "ical": "https://theblop.org/assets/ical/fdd64cd0-3db9-4fbb-9909-e86cfe9c45be.ics",
+    "raw_text": "Indivisible North County, San Diego @ind...\nNew protest announced by @demcco.bsky.social\nfor Tuesday, March 18th, 12pm – 2 pm at Pine &\nCarlsbad Blvd (next to Harbor Fish)! Please come\nout and let the country see that we are NOT going\nto be silent while our rights and government are\nbeing attacked!\n\nDEMOCRACY UNDER ATTACK\n— WE WILL NOT STAY SILENT!\n\n📅 When: Tuesday, March 18\n📍 Where: Pine & Carlsbad Blvd\n(Next to Harbor Fish), Carlsbad\n\n⏰ Time: Noon–2 PM\n\nWe're taking a stand against:\n✊ Project 2025 & right-wing extremism\n✊ Attacks on voting rights & fair elections\n✊ Reproductive bans & civil rights rollbacks\n✊ Corporate greed over people & climate action\n\n📢 We will NOT be silenced. We will NOT\nback down. Join us as we raise our voices for\ndemocracy, equality, and justice!\n\n💙 SHOW UP. SPEAK OUT. TAKE ACTION. 💙\nBRING YOUR SIGNS, BRING YOUR ENERGY,\nAND LET’S FIGHT FOR OUR FUTURE\nTOGETHER!\n\nDEMC...\nDemocratic Club of Carlsbad Oceanside",
+    "raw_summary": "A protest organized by Indivisible North County and DEMCCO is scheduled for Tuesday, March 18, from 12 PM to 2 PM at Pine & Carlsbad Blvd in Carlsbad. The protest aims to stand against Project 2025, voting and civil rights issues, and corporate greed. Participants are encouraged to bring signs and join efforts to speak out for democracy, equality, and justice."
+  },
+  {
     "id": "6a81e138-42d3-4394-8eb8-d16d6a53956d",
     "title": "Help Us Find Rep. Andy Biggs",
     "date": "Wednesday, March 19, 2025",
@@ -11959,6 +12305,30 @@
     "ical": "https://theblop.org/assets/ical/186d3158-cefd-4300-8ddf-927e9b7e787c.ics",
     "raw_text": "NorCal Resist \n@norcalresist.bsky.social\n\nStockton March 19 protest hatemongers from tpusa\n\nNO HATE IN STOCKTON!\nGIVE TPUSA THE BOOT!\n\nTurning Point USA is hosting a transphobic speaker on March 19th at University of the Pacific. TPUSA is a campus group known for spreading extremist hate and white supremacist beliefs under a friendly veneer. Its leader, Charlie Kirk, has said that transgender people should be \"dealt with like we did in the 50s and 60s,\" and that the Civil Rights Act was \"a huge mistake.\" TPUSA has hosted racist and transphobic speakers including mass shooter Kyle Rittenhouse and continues to work closely with Proud Boys and literal neo-Nazis.\n\nBring signs, banners, and your friends and get ready to make some noise! WE'VE SHUT THEM DOWN BEFORE AND WE'LL DO IT AGAIN!\n\nMARCH 19th @ 6PM \nLONG THEATRE, UOP\n\n<-- More info about TPUSA’s hateful history.",
     "raw_summary": "This image promotes a protest event against Turning Point USA and its planned speaker at the University of the Pacific on March 19th. The event criticizes the organization's alleged promotion of hate speech. Attendees are encouraged to bring signs and make their voices heard."
+  },
+  {
+    "id": "a62a188f-bc8a-4ce4-ad78-858a50a9488e",
+    "title": "Stand with Indigenous Victims",
+    "date": "Wednesday, March 19, 2025",
+    "time": "9:00 AM",
+    "description": "We are gathering to provide court support for three Indigenous victims of a hate crime. Join us to show solidarity and help pack the courtroom.",
+    "city": "Beaufort",
+    "state": "NC",
+    "address": "300 Courthouse Square",
+    "meeting_location": "Superior Courtroom, Carteret County Courthouse",
+    "links": [
+      "@northcarolina_ppc"
+    ],
+    "sponsors": [
+      "success"
+    ],
+    "image_url": "https://theblop.org/assets/images/a62a188f-bc8a-4ce4-ad78-858a50a9488e.jpg",
+    "thumbnail_url": "https://theblop.org/assets/images/a62a188f-bc8a-4ce4-ad78-858a50a9488e-thumb.jpg",
+    "canonical_id": "",
+    "permalink": "https://theblop.org/events/a62a188f-bc8a-4ce4-ad78-858a50a9488e.html",
+    "ical": "https://theblop.org/assets/ical/a62a188f-bc8a-4ce4-ad78-858a50a9488e.ics",
+    "raw_text": "r/50501NC\nu/nikiimcc • 2h\nStand with three Indigenous victims of a hate crime at the Carteret County Courthouse in Beaufort, NC (Wednesday 03/19 @ 9am)\n\nWE ARE ASKING FOR COURT SUPPORT\n\nWednesday, March 19, 2025\n300 Courthouse Square, Beaufort, NC 28516\n9:00 am - Pack the Superior Courtroom\n\nOn June 23, 2024, a group of unarmed American Indians were subjected to a racist attack during a peaceful time of prayer at indigenous burial grounds that have been exposed and desecrated.\n\nThey are asking for court support on Wednesday, March 19 at 9AM. Help pack the Superior Courtroom in Carteret County!\n\n300 Courthouse Square, Beaufort, NC 28516\n\nSource - IG: @northcarolina_ppc",
+    "raw_summary": "A call for court support for three Indigenous victims of a hate crime is scheduled for March 19, 2025, at the Carteret County Courthouse in Beaufort, North Carolina. Participants are encouraged to gather at 9:00 AM at 300 Courthouse Square to pack the Superior Courtroom and show support."
   },
   {
     "id": "25ad16bb-96dc-4c94-97d0-fe6e7d535cf9",
@@ -12279,6 +12649,74 @@
     "raw_summary": "This image promotes a recurring protest event happening every Tuesday and Thursday from 4:15 PM to 6:00 PM at the corner of Drake and College in Fort Collins. The flyer emphasizes positive engagement and issues like public land protection. The specific highlighted date is Thursday, March 20, 2025, at 2601 S College Ave, Fort Collins, CO."
   },
   {
+    "id": "66381f26-4c4f-45dc-b61e-42c2f369e74b",
+    "title": "Fighting Oligarchy: Where We Go From Here with Bernie Sanders in Tempe",
+    "date": "Thursday, March 20, 2025",
+    "time": "5:00 PM",
+    "description": "We’re hosting an exciting event with Bernie Sanders and special guest Alexandria Ocasio-Cortez to discuss challenging the oligarchy and advocating for an inclusive government for all. Join us as we unite for this cause.",
+    "city": "Tempe",
+    "state": "AZ",
+    "address": "Mullett Arena",
+    "meeting_location": "Arizona State",
+    "links": [
+      "[]"
+    ],
+    "sponsors": [
+      "[]"
+    ],
+    "image_url": "https://theblop.org/assets/images/66381f26-4c4f-45dc-b61e-42c2f369e74b.jpg",
+    "thumbnail_url": "https://theblop.org/assets/images/66381f26-4c4f-45dc-b61e-42c2f369e74b-thumb.jpg",
+    "canonical_id": "",
+    "permalink": "https://theblop.org/events/66381f26-4c4f-45dc-b61e-42c2f369e74b.html",
+    "ical": "https://theblop.org/assets/ical/66381f26-4c4f-45dc-b61e-42c2f369e74b.ics",
+    "raw_text": "Bernie’s coming to Tempe on Thursday, March 20, and you’re invited! We’ve got some exciting news to share: Bernie’s coming to Tempe on Thursday, March 20, and you’re invited! He’ll be speaking about how our movement can come together to take on the Oligarchy and demand government that works for all of us, not just the wealthy few. This is going to be a great event, and we’d love to see you there. So, can you make it? Here’s everything you need to know: Fighting Oligarchy: Where We Go From Here with Bernie Sanders in Tempe With Special Guest Alexandria Ocasio-Cortez Thursday, March 20 5:00pm Doors Open 6:00pm Speaking Program Starts Mullett Arena — Arizona State",
+    "raw_summary": "The flyer announces an event featuring Bernie Sanders and Alexandria Ocasio-Cortez in Tempe, Arizona, scheduled for March 20. The event will discuss taking on the oligarchy and advocating for a government that serves everyone. Doors open at 5:00 PM, and the speaking program begins at 6:00 PM. The gathering is set to take place at Mullett Arena, Arizona State."
+  },
+  {
+    "id": "0670352c-f99d-4e7e-8ab7-3fbb0b4f17a9",
+    "title": "Protect Public Services Rally",
+    "date": "Thursday, March 20, 2025",
+    "time": "12:00 PM",
+    "description": "Stand up for public workers. Stand up for our communities. Together, we can protect public services.",
+    "city": "Helena",
+    "state": "MT",
+    "address": "",
+    "meeting_location": "State Capitol Rotunda",
+    "links": [],
+    "sponsors": [],
+    "image_url": "https://theblop.org/assets/images/0670352c-f99d-4e7e-8ab7-3fbb0b4f17a9.jpg",
+    "thumbnail_url": "https://theblop.org/assets/images/0670352c-f99d-4e7e-8ab7-3fbb0b4f17a9-thumb.jpg",
+    "canonical_id": "",
+    "permalink": "https://theblop.org/events/0670352c-f99d-4e7e-8ab7-3fbb0b4f17a9.html",
+    "ical": "https://theblop.org/assets/ical/0670352c-f99d-4e7e-8ab7-3fbb0b4f17a9.ics",
+    "raw_text": "MARCH 20TH NOON\nPROTECT PUBLIC SERVICES RALLY\nSTATE CAPITOL ROTUNDA\nHELENA, MT\nSTAND UP FOR PUBLIC WORKERS. STAND UP FOR OUR COMMUNITIES. Together, we can protect public services.\nCONTACT ProtectPublicServices@gmail.com",
+    "raw_summary": "The flyer announces a rally to protect public services, scheduled on March 20th at noon, taking place at the State Capitol Rotunda in Helena, MT. It aims to stand up for public workers and communities."
+  },
+  {
+    "id": "a5b50b01-c5a9-4d3c-a9e1-0dd435b87568",
+    "title": "Fighting Oligarchy: Where We Go From Here with Bernie Sanders in Tempe",
+    "date": "Thursday, March 20, 2025",
+    "time": "5:00 PM",
+    "description": "Join us as Bernie Sanders and special guest Alexandria Ocasio-Cortez lead a discussion on fighting oligarchy and the way forward. Doors open at 5:00 PM with the speaking program starting at 6:00 PM.",
+    "city": "Tempe",
+    "state": "AZ",
+    "address": "411 S Packard Dr, Tempe, AZ 85287",
+    "meeting_location": "Mullett Arena, Arizona State University Tempe Campus",
+    "links": [
+      "[]"
+    ],
+    "sponsors": [
+      "[Bernie]"
+    ],
+    "image_url": "https://theblop.org/assets/images/a5b50b01-c5a9-4d3c-a9e1-0dd435b87568.jpg",
+    "thumbnail_url": "https://theblop.org/assets/images/a5b50b01-c5a9-4d3c-a9e1-0dd435b87568-thumb.jpg",
+    "canonical_id": "",
+    "permalink": "https://theblop.org/events/a5b50b01-c5a9-4d3c-a9e1-0dd435b87568.html",
+    "ical": "https://theblop.org/assets/ical/a5b50b01-c5a9-4d3c-a9e1-0dd435b87568.ics",
+    "raw_text": "Bernie\n\nFighting Oligarchy: Where We Go From Here with Bernie Sanders in Tempe!\n\nRSVP today to say you'll join Bernie in Tempe on Thursday, March 20!\n\nFighting Oligarchy: Where We Go From Here\nwith Bernie Sanders in Tempe\nWith Special Guest Alexandria Ocasio-Cortez\nThursday, March 20\n5:00pm MST Doors Open\n6:00pm MST Speaking Program Starts\nMullett Arena\nArizona State University Tempe Campus\n411 S Packard Dr, Tempe, AZ 85287\n\nPlease note: no bags, signs, or firearms are allowed.",
+    "raw_summary": "This flyer announces an upcoming event titled \"Fighting Oligarchy: Where We Go From Here with Bernie Sanders in Tempe\" featuring Bernie Sanders and Alexandria Ocasio-Cortez. The event is scheduled for March 20 at the Mullett Arena on the Arizona State University Tempe Campus."
+  },
+  {
     "id": "9ab5c021-b5d6-42b0-bd9b-d0fd24e3e783",
     "title": "Clermont FI March 21st Protest!",
     "date": "Friday, March 21, 2025",
@@ -12508,6 +12946,50 @@
     "ical": "https://theblop.org/assets/ical/19306aff-0aa1-4178-814c-d60c9aeff527.ics",
     "raw_text": "Protest Outside Gabe Evans' Office\nFriday, 21 March\n11:00 am - 12:00 pm\n10701 Melody Dr suite 500, Northglenn, CO 80234, USA\nAre you in CD8? There is a weekly protest outside of Representative Gabe Evans' Office every Friday at 11 am. This would also be a great time to visit the staff and express your concerns about the impact of his votes on you, your family and your friends. Leave a letter letting him know how he can vote to best represent you!\nThese protests are peaceful. Be angry! Be loud! But be respectful and non-violent.\nwww.indivisiblenoco.com",
     "raw_summary": "Weekly protest outside Representative Gabe Evans' office in Northglenn, Colorado. Held every Friday at 11:00 am. It's peaceful, focusing on expressing concerns about his votes."
+  },
+  {
+    "id": "2e2ec0ed-29b1-4f61-a8cb-2c8ab3a613fb",
+    "title": "DWSOC PROTEST AGAINST \"KING TRUMP\" AND AUTOCRACY",
+    "date": "Friday, March 21, 2025",
+    "time": "3:00 PM",
+    "description": "DWSOC is organizing a protest against \"King Trump\" and his sidekick Musk, aiming to counter perceived autocratic actions with large public protests. Join us to defend democracy and oppose tyranny.",
+    "city": "Laguna Niguel",
+    "state": "CA",
+    "address": "32411 Golden Lantern",
+    "meeting_location": "Gather at Golden Spoon Frozen Yogurt",
+    "links": [],
+    "sponsors": [
+      "Democratic Party of Orange County"
+    ],
+    "image_url": "https://theblop.org/assets/images/2e2ec0ed-29b1-4f61-a8cb-2c8ab3a613fb.jpg",
+    "thumbnail_url": "https://theblop.org/assets/images/2e2ec0ed-29b1-4f61-a8cb-2c8ab3a613fb-thumb.jpg",
+    "canonical_id": "",
+    "permalink": "https://theblop.org/events/2e2ec0ed-29b1-4f61-a8cb-2c8ab3a613fb.html",
+    "ical": "https://theblop.org/assets/ical/2e2ec0ed-29b1-4f61-a8cb-2c8ab3a613fb.ics",
+    "raw_text": "DEMOCRATIC PARTY OF ORANGE COUNTY\nDWSOC PROTEST AGAINST \"KING TRUMP\" AND AUTOCRACY\nMeeting:\nFriday, March 21, 3 – 4pm PDT\n32411 Golden Lantern, Gather at Golden Spoon Frozen Yogurt, Laguna Niguel, CA 92677\nAbout this event:\nDWSOC is fighting back against \"King Trump\" and his sidekick Musk! They operate like mob bosses, making huge power grabs and taking a wrecking ball to our government and our democracy. Their reckless actions endanger lives and cause chaos.\nWe can encourage our neighbors to pay attention and speak up with large public protests!\nTo achieve the most impact, please keep all signs focused on \"King Trump,\" the Musk power grab, and preventing autocracy (please refrain from signs related to cultural issues). For example: - Defend Democracy - Oppose Trump's Tyranny - Stand Up: Fight Trump's Autocracy - Liberty Dies Under Trump's Rule - Unite Against Trump's Power Grab - Democracy Over Dictatorship - No Kings, Democracy for All - We Elect Presidents, Not Monarchs\nThis is a peaceful protest, and we advise you to NOT wear name tags.\nAccessibility: Have accessibility questions? Reply to your registration email to confirm your requirements or request more information.",
+    "raw_summary": "The Democratic Party of Orange County is organizing a protest titled \"DWSOC PROTEST AGAINST 'KING TRUMP' AND AUTOCRACY\" on March 21 from 3 to 4 PM PDT. The event aims to gather individuals in Laguna Niguel, CA, to protest against actions perceived as autocratic by \"King Trump\" and his associate Musk. The peaceful protest encourages signs promoting democracy and opposing tyranny."
+  },
+  {
+    "id": "7ff98279-3af8-4bf1-aec3-224dba6776dc",
+    "title": "Fighting Oligarchy: Where We Go From Here with Bernie Sanders in Denver",
+    "date": "Friday, March 21, 2025",
+    "time": "4:00 PM",
+    "description": "Join Bernie Sanders and special guest Alexandria Ocasio-Cortez for a discussion on fighting oligarchy in Denver, Colorado. Doors open at 4:00 PM MDT, followed by a speaking program at 5:00 PM MDT.",
+    "city": "Denver",
+    "state": "CO",
+    "address": "101 14th Ave",
+    "meeting_location": "Civic Center Park",
+    "links": [],
+    "sponsors": [
+      "Bernie"
+    ],
+    "image_url": "https://theblop.org/assets/images/7ff98279-3af8-4bf1-aec3-224dba6776dc.jpg",
+    "thumbnail_url": "https://theblop.org/assets/images/7ff98279-3af8-4bf1-aec3-224dba6776dc-thumb.jpg",
+    "canonical_id": "",
+    "permalink": "https://theblop.org/events/7ff98279-3af8-4bf1-aec3-224dba6776dc.html",
+    "ical": "https://theblop.org/assets/ical/7ff98279-3af8-4bf1-aec3-224dba6776dc.ics",
+    "raw_text": "Bernie\n\nFighting Oligarchy: Where We Go From Here with Bernie Sanders in Denver\n\nRSVP today to say you'll join Bernie in Denver on Friday, March 21!\n\nFighting Oligarchy: Where We Go From Here with Bernie Sanders in Denver\nWith Special Guest Alexandria Ocasio-Cortez\nFriday, March 21\n4:00pm MDT Doors Open\n5:00pm MDT Speaking Program Starts\nCivic Center Park\n101 14th Ave, Denver, CO 80204\n\nPlease note: no bags, signs, or firearms are allowed.",
+    "raw_summary": "The flyer announces an event titled \"Fighting Oligarchy: Where We Go From Here with Bernie Sanders in Denver,\" featuring Bernie Sanders and Alexandria Ocasio-Cortez. It will occur on March 21 in Denver, Colorado, at Civic Center Park. Doors open at 4:00 PM and the program starts at 5:00 PM MDT."
   },
   {
     "id": "3cc0dc25-5bda-4736-bec7-96c844bf0e2b",
@@ -13347,6 +13829,35 @@
     "raw_summary": "The event is a town hall meeting organized by the Colorado Working Families Party discussing the attendance and accountability of a person named Gabe. It is scheduled for March 22 from 1:00 PM to 3:00 PM at Good Shepherd Presbyterian Church in Northglenn, CO."
   },
   {
+    "id": "5c078bb2-352c-457b-9508-fd5439c053bb",
+    "title": "Town Hall",
+    "date": "Saturday, March 22, 2025",
+    "time": "1:30 PM",
+    "description": "Join us for a Town Hall where we will discuss critical political issues, demanding actions from representatives Schmitt, Hawley, and Cleaver. Engage with speakers like Jess Piper and others committed to change.",
+    "city": "Kansas City",
+    "state": "MO",
+    "address": "Waldo Public Library",
+    "meeting_location": "Waldo Public Library",
+    "links": [
+      "[indivisible.org",
+      " piperformissouri.bsky.social]"
+    ],
+    "sponsors": [
+      "[Indivisible Blue Brookside",
+      " Jobs for Justice",
+      " Jewish Vocational Services",
+      " IRS Union Rep",
+      " Future Democrat Representative]"
+    ],
+    "image_url": "https://theblop.org/assets/images/5c078bb2-352c-457b-9508-fd5439c053bb.jpg",
+    "thumbnail_url": "https://theblop.org/assets/images/5c078bb2-352c-457b-9508-fd5439c053bb-thumb.jpg",
+    "canonical_id": "",
+    "permalink": "https://theblop.org/events/5c078bb2-352c-457b-9508-fd5439c053bb.html",
+    "ical": "https://theblop.org/assets/ical/5c078bb2-352c-457b-9508-fd5439c053bb.ics",
+    "raw_text": "Indivisible Blue Brookside @bluebrookside... If you are in KC join us next Saturday! Looking forward to hearing from all of our speakers. None of our Federally elected people have accepted our invitations to show up. @piperformissouri.bsky.social will be there!!! TOWN HALL MUSK OR US: DEMAND SCHMITT, HAWLEY, AND CLEAVER FIGHT BACK! WALDO PUBLIC LIBRARY MARCH 22 1:30 - 3:30 Judy Morgan - Jobs for Justice Lauren Weinhold - Jewish Vocational Services Daniel Sharpenburg - IRS Union Rep Jess Piper - Future Democrat Representative SIGN UP AT INDIVISIBLE.ORG",
+    "raw_summary": "The flyer invites people to join a Town Hall in Kansas City on March 22 from 1:30 to 3:30 at the Waldo Public Library. The event features speakers who will discuss political issues involving Musk and demand actions from politicians Schmitt, Hawley, and Cleaver. Key attendees include Jess Piper and other notable speakers."
+  },
+  {
     "id": "1f267894-e11d-4557-857d-805eb980bc37",
     "title": "Hell No To Dismantling the Postal Service",
     "date": "Sunday, March 23, 2025",
@@ -13749,8 +14260,8 @@
     "date": "Monday, March 24, 2025",
     "time": "4:00 PM",
     "description": "Join us on March 24th in solidarity with our Canadian allies, as American patriots support Canadian friends against MAGA influences. We will convene at Canadian consulates or the Canadian embassy to show our support.",
-    "city": "",
-    "state": "",
+    "city": "Nationwide",
+    "state": "Nationwide",
     "address": "",
     "meeting_location": "Your nearest Canadian Consulate or the Canadian embassy in Washington DC",
     "links": [],
@@ -14951,6 +15462,30 @@
     "ical": "https://theblop.org/assets/ical/63e1cd24-006d-40e9-a80d-8d3b29fe37b4.ics",
     "raw_text": "",
     "raw_summary": ""
+  },
+  {
+    "id": "adbfdb16-5995-4e68-8f94-97c8af87a6ba",
+    "title": "Fight for Trans Rights",
+    "date": "Sunday, March 30, 2025",
+    "time": "1:00 PM",
+    "description": "Join us in a protest organized by Trans Up Front and supported by Illinois Families for Public Schools to advocate for trans rights.",
+    "city": "Chicago",
+    "state": "IL",
+    "address": "Federal Plaza",
+    "meeting_location": "Federal Plaza, Chicago",
+    "links": [
+      "transupfrontil.com"
+    ],
+    "sponsors": [
+      "Illinois Families for Public Schools"
+    ],
+    "image_url": "https://theblop.org/assets/images/adbfdb16-5995-4e68-8f94-97c8af87a6ba.png",
+    "thumbnail_url": "https://theblop.org/assets/images/adbfdb16-5995-4e68-8f94-97c8af87a6ba-thumb.jpg",
+    "canonical_id": "",
+    "permalink": "https://theblop.org/events/adbfdb16-5995-4e68-8f94-97c8af87a6ba.html",
+    "ical": "https://theblop.org/assets/ical/adbfdb16-5995-4e68-8f94-97c8af87a6ba.ics",
+    "raw_text": "FIGHT FOR TRANS RIGHTS\n\nPROTEST BY TRANS UP FRONT AND ENDORSED BY:\n\nILLINOIS FAMILIES FOR PUBLIC SCHOOLS\n\nSunday, March 30th 1PM\n\nFederal Plaza, Chicago\n\ntransupfrontil.com",
+    "raw_summary": "The image is a flyer announcing a protest for trans rights, organized by \"Trans Up Front\" and endorsed by \"Illinois Families for Public Schools.\" The event is scheduled to occur on Sunday, March 30th at 1 PM in Federal Plaza, Chicago. A website link, transupfrontil.com, is provided for more information."
   },
   {
     "id": "f164618b-921e-4c85-a1e0-4f09e40b62f8",

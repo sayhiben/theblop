@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:e245ee4b-3d6b-4c27-8199-4aa6f7d6f56f
+SEQUENCE:0
+DTSTAMP:20250314T210257Z
+DTSTART:20250330T130000
+DTEND:20250330T170000
+SUMMARY:Fight for Trans Rights
+LOCATION:Federal Plaza\, Chicago\, IL
+DESCRIPTION:Join us in a protest organized by Trans Up Front and supported
+  by Illinois Families for Public Schools to advocate for trans rights.\n\n
+ Federal Plaza\, Chicago
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Federal+Plaz
+ a%2C+Chicago%2C+IL&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

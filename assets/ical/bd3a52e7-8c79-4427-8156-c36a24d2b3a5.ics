@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:cd371e5a-4232-4f2f-9f13-ec8a59f948f7
+SEQUENCE:0
+DTSTAMP:20250314T210257Z
+DTSTART:20250317T111500
+DTEND:20250317T151500
+SUMMARY:Senator Crapo\, Do Your Job Protest and Townhall
+LOCATION:N Garden St and Chinden Blvd\, Garden City\, ID
+DESCRIPTION:Join us for a protest and townhall demanding action from Senat
+ or Crapo. Bring your signs to express your voice at the protest starting a
+ t N Garden St and Chinden Blvd. Continue the discussion at the citizens' t
+ ownhall at Roots Market. Let's hold our leaders accountable.\n\nRoots Mark
+ et\, Garden City
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=N+Garden+St+
+ and+Chinden+Blvd%2C+Garden+City%2C+ID&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:67f0101b-ddaf-40c2-b2c2-456034cb2b1c
+SEQUENCE:0
+DTSTAMP:20250314T210257Z
+DTSTART:20250315T150000
+DTEND:20250315T190000
+SUMMARY:Corruption Destroys\, Community Builds
+LOCATION:517 E Wisconsin Ave\, Milwaukee\, WI
+DESCRIPTION:Join us for a rally at the Federal Building and U.S. Courthous
+ e in Milwaukee as part of a nationwide movement\, aiming to address issues
+  of corruption and empower community voices.\n\nFederal Building & U.S. Co
+ urthouse
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=517+E+Wiscon
+ sin+Ave%2C+Milwaukee%2C+WI&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

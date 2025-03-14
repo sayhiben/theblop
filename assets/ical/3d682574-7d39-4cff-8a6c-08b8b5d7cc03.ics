@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:6b2eeb73-5d37-468b-9219-3da6138fc847
+SEQUENCE:0
+DTSTAMP:20250314T210257Z
+DTSTART:20250314T160000
+DTEND:20250314T200000
+SUMMARY:San Diego Veterans’ Protest
+LOCATION:2115 Park Blvd\, San Diego\, CA
+DESCRIPTION:We are organizing a protest against cuts to veterans' services
+  and benefits. Join us in San Diego for this important cause.\n\nThe San D
+ iego Veterans Museum\; backup location at World Beat Center\, 2110 Park Bl
+ vd
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=2115+Park+Bl
+ vd%2C+San+Diego%2C+CA&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

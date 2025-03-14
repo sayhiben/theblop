@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:de5ce895-cea6-4988-8801-4d93d8cf759b
+SEQUENCE:0
+DTSTAMP:20250314T210257Z
+DTSTART:20250320T170000
+DTEND:20250320T210000
+SUMMARY:Fighting Oligarchy: Where We Go From Here with Bernie Sanders in T
+ empe
+LOCATION:Mullett Arena\, Tempe\, AZ
+DESCRIPTION:We’re hosting an exciting event with Bernie Sanders and spec
+ ial guest Alexandria Ocasio-Cortez to discuss challenging the oligarchy an
+ d advocating for an inclusive government for all. Join us as we unite for 
+ this cause.\n\nArizona State
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Mullett+Aren
+ a%2C+Tempe%2C+AZ&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

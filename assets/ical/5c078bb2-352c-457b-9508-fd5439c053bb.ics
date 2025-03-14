@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:844388a8-fa6d-4742-8df9-2d7dca58c777
+SEQUENCE:0
+DTSTAMP:20250314T210257Z
+DTSTART:20250322T133000
+DTEND:20250322T173000
+SUMMARY:Town Hall
+LOCATION:Waldo Public Library\, Kansas City\, MO
+DESCRIPTION:Join us for a Town Hall where we will discuss critical politic
+ al issues\, demanding actions from representatives Schmitt\, Hawley\, and 
+ Cleaver. Engage with speakers like Jess Piper and others committed to chan
+ ge.\n\nWaldo Public Library
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Waldo+Public
+ +Library%2C+Kansas+City%2C+MO&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:019c74c5-4932-4f30-9d66-9e65d2cba499
+SEQUENCE:0
+DTSTAMP:20250314T210257Z
+DTSTART:20250315T163000
+DTEND:20250315T203000
+SUMMARY:Rally Outside Easton Tesla
+LOCATION:Easton\, Columbus\, OH
+DESCRIPTION:We are hosting a rally to advocate for Musk to step down\, enc
+ ouraging attendees to engage with legislators as part of the effort. The r
+ ally occurs every Saturday at 4:30.\n\nOutside Tesla
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Easton%2C+Co
+ lumbus%2C+OH&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

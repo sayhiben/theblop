@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:d2b91a15-c0cd-461e-826d-7525c0bae713
+SEQUENCE:0
+DTSTAMP:20250314T210257Z
+DTSTART:20250320T120000
+DTEND:20250320T160000
+SUMMARY:Protect Public Services Rally
+LOCATION:\, Helena\, MT
+DESCRIPTION:Stand up for public workers. Stand up for our communities. Tog
+ ether\, we can protect public services.\n\nState Capitol Rotunda
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+Helena%2
+ C+MT&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

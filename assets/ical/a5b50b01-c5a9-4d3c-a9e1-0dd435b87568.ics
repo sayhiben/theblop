@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:1b35c9bd-801b-4e29-a531-8705dad6deea
+SEQUENCE:0
+DTSTAMP:20250314T210257Z
+DTSTART:20250320T170000
+DTEND:20250320T210000
+SUMMARY:Fighting Oligarchy: Where We Go From Here with Bernie Sanders in T
+ empe
+LOCATION:411 S Packard Dr\, Tempe\, AZ 85287
+DESCRIPTION:Join us as Bernie Sanders and special guest Alexandria Ocasio-
+ Cortez lead a discussion on fighting oligarchy and the way forward. Doors 
+ open at 5:00 PM with the speaking program starting at 6:00 PM.\n\nMullett 
+ Arena\, Arizona State University Tempe Campus
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=411+S+Packar
+ d+Dr%2C+Tempe%2C+AZ+85287&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

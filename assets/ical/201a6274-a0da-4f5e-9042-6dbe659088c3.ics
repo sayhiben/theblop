@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:d3769338-950e-41ab-847a-fb923c1da95a
+SEQUENCE:0
+DTSTAMP:20250314T210257Z
+DTSTART:20250314T110000
+DTEND:20250314T150000
+SUMMARY:Reject Project 2025-Stand for the Rule of Law CA GOP Convention Pr
+ otest
+LOCATION:\, Sacramento\, CA
+DESCRIPTION:Join us to oppose the dangerous anti-democratic Project 2025 a
+ t the CA GOP Convention in Sacramento. We aim to call out harmful policies
+  with a peaceful assembly supporting the rule of law.\n\nHyatt Regency on 
+ L St.
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+Sacramen
+ to%2C+CA&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:3508f20d-8e45-4a7a-aa1b-0674c047c613
+SEQUENCE:0
+DTSTAMP:20250314T210257Z
+DTSTART:20250315T120000
+DTEND:20250315T160000
+SUMMARY:Tesla Picket
+LOCATION:2919 29th St SE\, Grand Rapids\, MI
+DESCRIPTION:Join us for the Beware the Ides of March Tesla Picket event in
+  Grand Rapids. We gather to express our concerns and raise awareness about
+  Tesla's practices.\n\nTesla Showroom
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=2919+29th+St
+ +SE%2C+Grand+Rapids%2C+MI&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

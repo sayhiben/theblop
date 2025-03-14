@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:c673202b-eed3-4fcb-a7f5-991654f4ec32
+SEQUENCE:0
+DTSTAMP:20250314T210257Z
+DTSTART:20250319T090000
+DTEND:20250319T130000
+SUMMARY:Stand with Indigenous Victims
+LOCATION:300 Courthouse Square\, Beaufort\, NC
+DESCRIPTION:We are gathering to provide court support for three Indigenous
+  victims of a hate crime. Join us to show solidarity and help pack the cou
+ rtroom.\n\nSuperior Courtroom\, Carteret County Courthouse
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=300+Courthou
+ se+Square%2C+Beaufort%2C+NC&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

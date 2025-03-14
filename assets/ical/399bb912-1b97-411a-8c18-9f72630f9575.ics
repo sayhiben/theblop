@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:dfa3276b-9270-46ba-be78-4cdf9d6be94b
+SEQUENCE:0
+DTSTAMP:20250314T210257Z
+DTSTART:20250317T111500
+DTEND:20250317T151500
+SUMMARY:Protest at The Riverside Hotel
+LOCATION:N Garden St and Chinden Blvd\, Garden City\, ID
+DESCRIPTION:We are organizing a protest against Senator Crapo to stand for
+  democracy and commit to nonviolence. Join us at 11:15 AM at N Garden St a
+ nd Chinden Blvd\, Garden City\, with signs. Afterward\, participate in a c
+ itizens' townhall at 12:15 PM at Roots Market.\n\nRoots Market
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=N+Garden+St+
+ and+Chinden+Blvd%2C+Garden+City%2C+ID&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

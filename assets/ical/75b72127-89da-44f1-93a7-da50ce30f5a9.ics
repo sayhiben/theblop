@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:1678e1e8-18a6-4bc4-8f08-89cb7ca1f621
+SEQUENCE:0
+DTSTAMP:20250314T210257Z
+DTSTART:20250316T150000
+DTEND:20250316T190000
+SUMMARY:Speak Up: Town Hall on Federal Cuts & Budget Concerns
+DESCRIPTION:Join us for a Community Town Hall to discuss the impact of fed
+ eral agency cuts and upcoming budget changes. This is your opportunity to 
+ ask elected officials and candidates questions\, share your concerns\, and
+  have your voice heard.\n\nLink Centre
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=&zoom=15&bas
+ emap=roadmap
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:ed05f305-7f12-4dbd-ae31-d9a6829d04c3
+SEQUENCE:0
+DTSTAMP:20250314T210257Z
+DTSTART:20250321T150000
+DTEND:20250321T190000
+SUMMARY:DWSOC PROTEST AGAINST "KING TRUMP" AND AUTOCRACY
+LOCATION:32411 Golden Lantern\, Laguna Niguel\, CA
+DESCRIPTION:DWSOC is organizing a protest against "King Trump" and his sid
+ ekick Musk\, aiming to counter perceived autocratic actions with large pub
+ lic protests. Join us to defend democracy and oppose tyranny.\n\nGather at
+  Golden Spoon Frozen Yogurt
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=32411+Golden
+ +Lantern%2C+Laguna+Niguel%2C+CA&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR
