@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:1d85f649-1e36-445c-8d8b-afa3ddeba80a
+SEQUENCE:0
+DTSTAMP:20250314T060222Z
+DTSTART:20250315T110000
+DTEND:20250315T150000
+SUMMARY:WE THE PEOPLE
+LOCATION:411 West Ocean Blvd\, Long Beach\, CA
+DESCRIPTION:Join us in supporting trans rights and standing against fascis
+ m and billionaire agendas. Organized by Socal Uprising and 50501. Come and
+  be a part of the movement for equality and justice.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=411+West+Oce
+ an+Blvd%2C+Long+Beach%2C+CA&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

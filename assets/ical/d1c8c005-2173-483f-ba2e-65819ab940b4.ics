@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:f6e1bdd2-0d4f-4e7d-93ac-f95dbd47d7d7
+SEQUENCE:0
+DTSTAMP:20250314T060222Z
+DTSTART:20250315T110000
+DTEND:20250315T150000
+SUMMARY:We the People
+LOCATION:411 West Ocean Blvd\, Long Beach\, CA
+DESCRIPTION:We are organizing a rally to stand up for trans rights\, rejec
+ t fascism and challenge the billionaires' agenda. Join us for this gatheri
+ ng as we raise our voices together.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=411+West+Oce
+ an+Blvd%2C+Long+Beach%2C+CA&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:8e54ef5e-5e73-43ad-ad89-ef2e671f94ac
+SEQUENCE:0
+DTSTAMP:20250314T060223Z
+DTSTART:20250317T114500
+DTEND:20250317T154500
+SUMMARY:Revenue Day of Action
+LOCATION:Washington State Capitol\, Olympia\, WA
+DESCRIPTION:We are organizing a full day of action at the Washington State
+  Capitol to advocate for progressive revenue to prevent cuts to state prog
+ rams. Activities include a lunchtime rally and meetings with lawmakers.\n\
+ nSteps of the Capitol Legislative Building
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Washington+S
+ tate+Capitol%2C+Olympia%2C+WA&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

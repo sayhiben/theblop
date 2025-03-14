@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:00019169-8a68-4b10-8979-ac39e28cdf13
+SEQUENCE:0
+DTSTAMP:20250314T060222Z
+DTSTART:20250314T120000
+DTEND:20250314T160000
+SUMMARY:Just Show Up!
+LOCATION:59 SW Flagler Ave\, Stuart\, FL
+DESCRIPTION:Join us for a protest organized by the St. Lucie County Democr
+ atic Party to voice objections against actions by President Trump and Elon
+  Musk. Representative Brian Mast is expected to appear\, and this is an op
+ portunity to demand accountability and stand up for constitutional rights.
+  Bring signs and make your voices heard.\n\nLyric Theater
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=59+SW+Flagle
+ r+Ave%2C+Stuart%2C+FL&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR
