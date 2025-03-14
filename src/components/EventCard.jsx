@@ -195,8 +195,8 @@ Description: ${event.Description}
           </div>
         )}
 
-        <div className="px-4 pt-4 pb-2">
-          <div className="items-center justify-between mb-2">
+        <div className="overflow-clip px-4 pt-4 pb-2">
+          <div className="overflow-clip items-center justify-between mb-2">
 
             <div>
               <h3 className="block mb-1 font-sans text-xl antialiased font-bold leading-snug tracking-normal text-blue-gray-900 dark:text-stone-200">
@@ -212,7 +212,7 @@ Description: ${event.Description}
                 <p>{event.Description || ''}</p>
               </div>}
 
-            <div className='block items-center justify-between text-sm w-full p-5 bg-white dark:bg-gray-900 border-2 rounded-lg group border-neutral-200/70 dark:border-gray-800/70 text-neutral-600 dark:text-stone-200'>
+            <div className='overflow-clip block items-center justify-between text-sm w-full p-5 bg-white dark:bg-gray-900 border-2 rounded-lg group border-neutral-200/70 dark:border-gray-800/70 text-neutral-600 dark:text-stone-200'>
               <div className="flex justify-start mb-2">
                 <div className="mr-2" title="Date">🗓️</div>
                 <div>{displayDate || dateKey}</div>
@@ -241,7 +241,7 @@ Description: ${event.Description}
           </div>
         </div>
 
-        <div className="flex justify-end p-1">
+        <div className="overflow-clip flex justify-end p-1">
           <div className="w-50 inline-flex p-2">
             {/* Report button */}
             <a
