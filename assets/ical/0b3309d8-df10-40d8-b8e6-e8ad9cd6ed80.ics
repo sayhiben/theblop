@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:c27d9484-948d-4bba-be93-5e95b61d11c3
+SEQUENCE:0
+DTSTAMP:20250315T210323Z
+DTSTART:20250405T120000
+DTEND:20250405T160000
+SUMMARY:Hands Off! Princeton\, NJ Fights Back
+LOCATION:Sylvia Beach Way\, Princeton\, NJ
+DESCRIPTION:We're organizing a rally to protest the actions believed to be
+ nefit Donald Trump and Elon Musk at ordinary citizens' expense. Join us in
+  Princeton\, NJ\, to assert our message against the perceived looting of o
+ ur government and economy. We're committed to nonviolent action and encour
+ age de-escalation during interactions.\n\nHinds Plaza
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Sylvia+Beach
+ +Way%2C+Princeton%2C+NJ&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

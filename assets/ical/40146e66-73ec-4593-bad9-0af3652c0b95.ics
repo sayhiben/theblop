@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:63684502-a549-4986-a692-6e28e16f0909
+SEQUENCE:0
+DTSTAMP:20250315T210323Z
+DTSTART:20250320T190000
+DTEND:20250320T230000
+SUMMARY:Where's Tom? Town Hall
+LOCATION:1528 Oakdale Rd.\, Modesto\, CA
+DESCRIPTION:Join Indivisible Stanislaus for an Empty Chair Town Hall to di
+ scuss the absence of Rep. Tom McClintock and allow community members to vo
+ ice their concerns in his place.\n\nSaint Paul's Episcopal Church
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=1528+Oakdale
+ +Rd.%2C+Modesto%2C+CA&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

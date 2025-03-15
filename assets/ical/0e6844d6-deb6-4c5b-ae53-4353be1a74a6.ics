@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:34d2481e-e861-4685-a1b8-2775dc3bbc17
+SEQUENCE:0
+DTSTAMP:20250315T210323Z
+DTSTART:20250323T140000
+DTEND:20250323T180000
+SUMMARY:PROTEST FASCISM! Join our Sidewalk Demonstration!
+LOCATION:NE corner of Walton & Livernois\, Rochester Hills\, MI
+DESCRIPTION:Join us in a sidewalk demonstration to protest fascism. We inv
+ ite you to stand up and fight back with us.\n\nNE corner of Walton & Liver
+ nois
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=NE+corner+of
+ +Walton+%26+Livernois%2C+Rochester+Hills%2C+MI&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

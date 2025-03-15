@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:6f4886ed-633a-4fba-9ae2-a7423a1ee76f
+SEQUENCE:0
+DTSTAMP:20250315T210323Z
+DTSTART:20250405T110000
+DTEND:20250405T150000
+SUMMARY:Hands Off our Schools: Linda McMahon WWE HQ!
+LOCATION:707 Washington Blvd\, Stamford\, CT
+DESCRIPTION:We're organizing a rally to protest the actions of Donald Trum
+ p and Elon Musk\, advocating for the protection of our rights and services
+ . Join us on April 5th to send a message that we do not consent to the des
+ truction of our government and demand a stop to the chaos. Our event is co
+ mmitted to nonviolent action\, encouraging participants to de-escalate con
+ flicts peacefully.\n\nWWE HQ
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=707+Washingt
+ on+Blvd%2C+Stamford%2C+CT&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

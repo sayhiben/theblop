@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:10c0175d-9290-4c8a-89f2-67dd9999cb75
+SEQUENCE:0
+DTSTAMP:20250315T210323Z
+DTSTART:20250405T150000
+DTEND:20250405T190000
+SUMMARY:Hands Off! Hartford Fights Back
+LOCATION:210 Capitol Ave\, Hartford\, CT
+DESCRIPTION:We are organizing a rally to address the impact of Donald Trum
+ p and Elon Musk's actions on our society. The event emphasizes nonviolent 
+ protest against these influences and aims to mobilize people across the co
+ untry to demand an end to chaos and advocate for constructive change.\n\nC
+ onnecticut State Capitol
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=210+Capitol+
+ Ave%2C+Hartford%2C+CT&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:454bd6ad-b6f2-4ee8-8ff0-1e6c210ef183
+SEQUENCE:0
+DTSTAMP:20250315T210323Z
+DTSTART:20250405T120000
+DTEND:20250405T160000
+SUMMARY:Hands Off! Salt Lake City Fights Back
+LOCATION:This event's address is private.\, Salt Lake City\, UT
+DESCRIPTION:We are rallying to protest the influence of Donald Trump and E
+ lon Musk\, taking action to protect our societal elements like health care
+ \, data\, and jobs. Join us to demand a stop to the chaos and to build a m
+ ovement against the looting of our country. We promote nonviolent action a
+ nd encourage all participants to de-escalate potential confrontations.\n\n
+ Utah Capitol
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=This+event%2
+ 7s+address+is+private.%2C+Salt+Lake+City%2C+UT&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

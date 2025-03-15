@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:f1cf81c3-ff2e-46ff-84d8-67f9481e3503
+SEQUENCE:0
+DTSTAMP:20250315T210323Z
+DTSTART:20250405T120000
+DTEND:20250405T160000
+SUMMARY:Hands Off! National Day of Action Rally and March
+LOCATION:1400 John F Kennedy Blvd\, Philadelphia\, PA
+DESCRIPTION:Join us and The 50501 Movement to rally and march to show that
+  we are fired up and ready to resist the Trump/Musk agenda—in the city w
+ here it all started. Whether you're outraged by skyrocketing healthcare co
+ sts\, job cuts\, attacks on privacy\, or the gutting of essential services
+ —this moment is for you. On April 5\, national and local organizations a
+ re coming together to organize for Hands Off!\, in defiance of the Trump-M
+ usk billionaire takeover and the Republican assault on freedoms and commun
+ ities.\n\nPhiladelphia City Hall
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=1400+John+F+
+ Kennedy+Blvd%2C+Philadelphia%2C+PA&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

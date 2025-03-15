@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:977afe54-76ab-488f-8885-30d2b3bd5343
+SEQUENCE:0
+DTSTAMP:20250315T210323Z
+DTSTART:20250322T120000
+DTEND:20250322T160000
+SUMMARY:March for our Constitution
+LOCATION:11000 Wilshire Blvd\, Los Angeles\, CA
+DESCRIPTION:In solidarity against a Trump Monarchy\, we are holding a rall
+ y and a march to oppose the Trump Administration at the Federal Building i
+ n Westwood / LA.\n\nFederal Building
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=11000+Wilshi
+ re+Blvd%2C+Los+Angeles%2C+CA&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:cfefb195-b15e-4e02-af7b-9987ec605780
+SEQUENCE:0
+DTSTAMP:20250315T210323Z
+DTSTART:20250320T100000
+DTEND:20250320T140000
+SUMMARY:Stand Strong Speak Up Protest
+LOCATION:1636 N Swan Road\, Suite 200\, Tucson\, AZ
+DESCRIPTION:Join us in protesting Representative Juan Ciscomani's actions.
+  We aim to remind him to honor his oath and protect our Constitution. Brin
+ g a sign or use one of ours.\n\nCongressman Juan Ciscomani's Office
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=1636+N+Swan+
+ Road%2C+Suite+200%2C+Tucson%2C+AZ&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

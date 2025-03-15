@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:c873182c-aafd-4c1a-8482-fadce6afab56
+SEQUENCE:0
+DTSTAMP:20250315T210323Z
+DTSTART:20250405T110000
+DTEND:20250405T150000
+SUMMARY:Hands Off! New York City Fights Back
+LOCATION:\, New York\, NY
+DESCRIPTION:We are rallying to fight back against the influence of Donald 
+ Trump\, Elon Musk\, and their allies. They are taking control of health ca
+ re\, data\, jobs\, and services\, creating a crisis situation. Our goal is
+  to stand with Americans across the country in nonviolent protest to deman
+ d change.\n\nManhattan\, final location TBD
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+New+York
+ %2C+NY&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

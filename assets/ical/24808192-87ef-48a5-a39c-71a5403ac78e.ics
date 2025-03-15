@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:de5a97fb-b1ba-4969-82b8-31784d3ee879
+SEQUENCE:0
+DTSTAMP:20250315T210323Z
+DTSTART:20250405T120000
+DTEND:20250405T160000
+SUMMARY:Hands Off! Massachusetts Fights Back
+LOCATION:24 Beacon St\, Boston\, MA
+DESCRIPTION:Massachusetts is taking a stand to oppose the perceived takeov
+ er by figures like Donald Trump and Elon Musk. We believe they are threate
+ ning our healthcare\, data\, jobs\, and services. Join us as we send a cle
+ ar message that Massachusetts will not consent to this destruction.\n\nSte
+ ps of the Massachusetts State House
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=24+Beacon+St
+ %2C+Boston%2C+MA&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

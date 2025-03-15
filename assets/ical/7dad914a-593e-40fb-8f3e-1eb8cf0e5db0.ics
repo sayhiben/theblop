@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:3cb6c611-9cfd-4d6d-9f88-496ea54ad319
+SEQUENCE:0
+DTSTAMP:20250315T210323Z
+DTSTART:20250320T100000
+DTEND:20250320T140000
+SUMMARY:Putting Congressman Murphy on a Plan of Improvement (PIP)
+LOCATION:815 New Bridge\, Jacksonville\, FL
+DESCRIPTION:Join us at the rally to discuss ways Congressman Murphy can im
+ prove and stand up for important issues. Bring your signs and let your voi
+ ce be heard!\n\nFreedom Fountain
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=815+New+Brid
+ ge%2C+Jacksonville%2C+FL&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

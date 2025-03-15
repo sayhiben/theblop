@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:946dd650-f9c3-479e-8664-8aa3c13a0ddb
+SEQUENCE:0
+DTSTAMP:20250315T210323Z
+DTSTART:20250405T150000
+DTEND:20250405T190000
+SUMMARY:Hands Off! Indivisible Sonoma County Fights Back
+LOCATION:Old Courthouse Square\, Between 3rd and 4th street\, Santa Rosa\,
+  CA
+DESCRIPTION:Indivisible Sonoma County is organizing a nonviolent rally and
+  mass mobilization against perceived threats to health care\, data\, jobs\
+ , and services allegedly caused by Donald Trump and Elon Musk. The event a
+ ims to build an opposition movement\, demand an end to chaos\, and prevent
+  the looting of the country.\n\nOld Courthouse Square
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Old+Courthou
+ se+Square%2C+Between+3rd+and+4th+street%2C+Santa+Rosa%2C+CA&zoom=15&basema
+ p=roadmap
+END:VEVENT
+END:VCALENDAR

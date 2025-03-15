@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:26bc48fa-f845-4a5f-8b23-61f04f85d1b4
+SEQUENCE:0
+DTSTAMP:20250315T210323Z
+DTSTART:20250405T120000
+DTEND:20250405T160000
+SUMMARY:Hands Off! Redwood City Fights Back
+LOCATION:Corner of Jefferson Ave and El Camino Real\, Redwood City\, CA
+DESCRIPTION:Join us in Redwood City as we rally against the destructive po
+ licies impacting our nation. We are taking a stand to protect our health c
+ are\, jobs\, and services from exploitation by the wealthy elite. This pea
+ ceful protest is a call to action for all Americans who oppose the chaos a
+ nd seek a just economy for all.\n\nCorner of Jefferson Ave and El Camino R
+ eal
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Corner+of+Je
+ fferson+Ave+and+El+Camino+Real%2C+Redwood+City%2C+CA&zoom=15&basemap=roadm
+ ap
+END:VEVENT
+END:VCALENDAR

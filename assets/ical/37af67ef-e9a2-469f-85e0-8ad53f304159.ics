@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:d132e741-540d-4b6d-b494-744b05931c67
+SEQUENCE:0
+DTSTAMP:20250315T210323Z
+DTSTART:20250405T120000
+DTEND:20250405T160000
+SUMMARY:Hands Off! Reading Fights Back
+LOCATION:SW corner of 5th & Penn Streets\, 5th Street & Penn Street\, Read
+ ing\, PA
+DESCRIPTION:Join us in Reading\, PA\, for a volunteer-organized rally on A
+ pril 5\, 2025\, from 12 to 1 pm. Our nonviolent protest aims to confront t
+ hreats to public welfare and national values\, rallying participants again
+ st such opposition.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=SW+corner+of
+ +5th+%26+Penn+Streets%2C+5th+Street+%26+Penn+Street%2C+Reading%2C+PA&zoom=
+ 15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

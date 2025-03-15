@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:7b68c8de-997f-4f17-8f74-dd825dfbd7e6
+SEQUENCE:0
+DTSTAMP:20250315T210323Z
+DTSTART:20250405T120000
+DTEND:20250405T160000
+SUMMARY:Peaceful Protest
+LOCATION:300 6th Street\, Rapid City\, SD
+DESCRIPTION:We are organizing a peaceful protest as part of the 50501 Peop
+ le’s Movement aimed at uniting against oppression and dictatorship. Join
+  us to defend democracy and stand up for human rights.\n\nCity Hall
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=300+6th+Stre
+ et%2C+Rapid+City%2C+SD&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

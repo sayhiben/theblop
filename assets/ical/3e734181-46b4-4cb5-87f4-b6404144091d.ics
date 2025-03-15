@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:eb760c8c-1d56-4c48-bddd-865892ae7c41
+SEQUENCE:0
+DTSTAMP:20250315T210323Z
+DTSTART:20250405T120000
+DTEND:20250405T160000
+SUMMARY:Bennington VT 50501 Protest – Remove\, Reverse\, Reclaim
+LOCATION:Main Street Bennington Vermont at 4 Corners\, U.S. 7 & Vermont 9\
+ , Bennington\, VT
+DESCRIPTION:Join us in a peaceful protest organized by Bennington County I
+ ndivisible against the Trump Administration. This event\, part of the gras
+ sroots 50501 Movement\, will occur at Main Street where routes 7 and 9 int
+ ersect. We aim to Remove corrupt politicians\, Reverse the damage\, and Re
+ claim our democracy. Bring signs\, friends\, and your voice to help take b
+ ack our democracy!\n\nMain Street where routes 7 and 9 intersect
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Main+Street+
+ Bennington+Vermont+at+4+Corners%2C+U.S.+7+%26+Vermont+9%2C+Bennington%2C+V
+ T&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

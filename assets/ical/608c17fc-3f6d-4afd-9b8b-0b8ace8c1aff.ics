@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:f8292875-2bd9-48a9-9fd2-989ad4832041
+SEQUENCE:0
+DTSTAMP:20250315T210323Z
+DTSTART:20250322T120000
+DTEND:20250322T160000
+SUMMARY:March for our Constitution
+LOCATION:11000 Wilshire Blvd\, Los Angeles\, CA
+DESCRIPTION:We invite you to join us for a peaceful protest to support our
+  Constitution. Bring your friends\, signs\, and voices to this volunteer-o
+ rganized rally.\n\nFederal Building
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=11000+Wilshi
+ re+Blvd%2C+Los+Angeles%2C+CA&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

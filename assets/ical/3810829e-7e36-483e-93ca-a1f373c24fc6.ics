@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:fbf8c83a-e31f-45d3-b68f-cb7e57685c86
+SEQUENCE:0
+DTSTAMP:20250315T210323Z
+DTSTART:20250405T120000
+DTEND:20250405T160000
+SUMMARY:Hands Off! Albany NY Fights Back
+LOCATION:100 S Mall Arterial\, Albany\, NY 12242
+DESCRIPTION:On April 5\, we are gathering at Empire State Plaza in Albany\
+ , NY\, to stand against policies promoted by figures like Donald Trump. Th
+ is rally is a part of a national mobilization for democracy and is organiz
+ ed by groups like Indivisible and Public Citizens. Join us in a nonviolent
+  protest to send a strong message of resistance.\n\nEmpire State Plaza (on
+  the street level\, off State St between Eagle & Swan\, near The Egg)
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=100+S+Mall+A
+ rterial%2C+Albany%2C+NY+12242&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:657a53fb-1115-419f-8ae3-1c279c23e991
+SEQUENCE:0
+DTSTAMP:20250315T210323Z
+DTSTART:20250405T140000
+DTEND:20250405T180000
+SUMMARY:Hands Off! WILLIAMSBURG Fights Back
+LOCATION:5201 Monticello Ave\, Williamsburg\, VA
+DESCRIPTION:On April 5th\, join us in Williamsburg to rally against action
+ s perceived as threats to public interests by Donald Trump and Elon Musk. 
+ We aim to protect healthcare\, jobs\, data\, and more\, delivering a stron
+ g "Hands Off!" message through mass mobilization.\n\nWilliamsburg James Ci
+ ty County Courthouse
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=5201+Montice
+ llo+Ave%2C+Williamsburg%2C+VA&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

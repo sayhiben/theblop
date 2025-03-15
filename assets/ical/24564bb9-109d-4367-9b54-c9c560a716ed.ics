@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:ef8ac633-72ed-45df-9f45-58a66a713c1b
+SEQUENCE:0
+DTSTAMP:20250315T210323Z
+DTSTART:20250403T180000
+DTEND:20250403T220000
+SUMMARY:THE PARDONED J6ERS
+LOCATION:1 McClure Way\, Seaside\, Seaside\, CA
+DESCRIPTION:Join us in celebrating the freedom of pardoned J6 participants
+ . Hear their stories and show your support. Enjoy a buffet and complimenta
+ ry wine.\n\nBayonet Blackhorse Golf Club
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=1+McClure+Wa
+ y%2C+Seaside%2C+Seaside%2C+CA&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

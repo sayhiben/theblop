@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:46c2edf0-d5c8-4ca2-a33d-61d7f23eb3a4
+SEQUENCE:0
+DTSTAMP:20250315T210323Z
+DTSTART:20250501T000000
+DTEND:20250501T040000
+SUMMARY:Mayday Protest
+LOCATION:National Mall\, Washington\, DC
+DESCRIPTION:Join us on May 1\, 2025\, at the National Mall for a protest a
+ dvocating the impeachment and removal of President Trump.\n\nNational Mall
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=National+Mal
+ l%2C+Washington%2C+DC&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR
