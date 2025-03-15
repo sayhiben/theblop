@@ -490,12 +490,8 @@
     "state": "AZ",
     "address": "5081 N Oracle Rd",
     "meeting_location": "5081 N Oracle Rd, Tucson, AZ 85704",
-    "links": [
-      "[]"
-    ],
-    "sponsors": [
-      "[]"
-    ],
+    "links": [],
+    "sponsors": [],
     "image_url": "https://theblop.org/assets/images/b89f0c70-d7d5-4d0e-8f77-36b8b58b27bb.jpg",
     "thumbnail_url": "https://theblop.org/assets/images/b89f0c70-d7d5-4d0e-8f77-36b8b58b27bb-thumb.jpg",
     "canonical_id": "",
@@ -1093,12 +1089,8 @@
     "state": "MO",
     "address": "5711 S Lindbergh Blvd",
     "meeting_location": "Tesla South County",
-    "links": [
-      "[]"
-    ],
-    "sponsors": [
-      "[]"
-    ],
+    "links": [],
+    "sponsors": [],
     "image_url": "https://theblop.org/assets/images/30264ed2-8ed2-4bde-b114-ae7e9e146e66.png",
     "thumbnail_url": "https://theblop.org/assets/images/30264ed2-8ed2-4bde-b114-ae7e9e146e66-thumb.jpg",
     "canonical_id": "",
@@ -1577,12 +1569,8 @@
     "state": "AZ",
     "address": "South Rim Visitor Center",
     "meeting_location": "South Rim Visitor Center",
-    "links": [
-      "[]"
-    ],
-    "sponsors": [
-      "[]"
-    ],
+    "links": [],
+    "sponsors": [],
     "image_url": "https://theblop.org/assets/images/592b18ed-ae83-4cf0-b06e-49512ee7afcd.png",
     "thumbnail_url": "https://theblop.org/assets/images/592b18ed-ae83-4cf0-b06e-49512ee7afcd-thumb.jpg",
     "canonical_id": "",
@@ -2274,9 +2262,7 @@
     "state": "CA",
     "address": "Phillip Burton Federal Building, 450 Golden Gate Ave",
     "meeting_location": "Southeast corner of the Federal Center (corner of Larkin St and Golden Gate Ave)",
-    "links": [
-      "[]"
-    ],
+    "links": [],
     "sponsors": [
       "NTEU",
       " NARFE",
@@ -3893,10 +3879,10 @@
     "address": "4039 NE First Ave, Design District",
     "meeting_location": "Tesla Showroom",
     "links": [
-      "[@miamiindivisible.bluesky.social]"
+      "@miamiindivisible.bluesky.social"
     ],
     "sponsors": [
-      "[miamiindivisible]"
+      "miamiindivisible"
     ],
     "image_url": "https://theblop.org/assets/images/65d9bb06-7629-4e73-b851-669585ce2b02.jpg",
     "thumbnail_url": "https://theblop.org/assets/images/65d9bb06-7629-4e73-b851-669585ce2b02-thumb.jpg",
@@ -4447,11 +4433,9 @@
     "address": "999 Van Ness Ave.",
     "meeting_location": "Tesla SF",
     "links": [
-      "[5calls.org]"
+      "5calls.org"
     ],
-    "sponsors": [
-      "[]"
-    ],
+    "sponsors": [],
     "image_url": "https://theblop.org/assets/images/6e5e595b-fa9e-4521-a782-2aabda5e45dc.png",
     "thumbnail_url": "https://theblop.org/assets/images/6e5e595b-fa9e-4521-a782-2aabda5e45dc-thumb.jpg",
     "canonical_id": "",
@@ -4720,9 +4704,7 @@
     "state": "CO",
     "address": "McCaslin Blvd.",
     "meeting_location": "Public sidewalk near the Tesla Dealership",
-    "links": [
-      "[]"
-    ],
+    "links": [],
     "sponsors": [
       "Indivisible"
     ],
@@ -4921,9 +4903,7 @@
     "state": "CA",
     "address": "1246 Broadway Plaza #1094",
     "meeting_location": "Walnut Creek Tesla showroom",
-    "links": [
-      "[]"
-    ],
+    "links": [],
     "sponsors": [
       "Indivisible ReSisters Contra Costa"
     ],
@@ -4994,12 +4974,8 @@
     "state": "DC",
     "address": "National Mall",
     "meeting_location": "Lincoln Memorial",
-    "links": [
-      "[]"
-    ],
-    "sponsors": [
-      "[]"
-    ],
+    "links": [],
+    "sponsors": [],
     "image_url": "https://theblop.org/assets/images/4c4bd1f2-4c67-45fb-828d-a989c003e8d9.png",
     "thumbnail_url": "https://theblop.org/assets/images/4c4bd1f2-4c67-45fb-828d-a989c003e8d9-thumb.jpg",
     "canonical_id": "",
@@ -5144,11 +5120,9 @@
     "state": "CO",
     "address": "West Steps, Colorado State Capitol",
     "meeting_location": "West Steps, Colorado State Capitol",
-    "links": [
-      "[]"
-    ],
+    "links": [],
     "sponsors": [
-      "501"
+      "50501"
     ],
     "image_url": "https://theblop.org/assets/images/472dee90-5539-4d71-8a59-988acd862c06.jpg",
     "thumbnail_url": "https://theblop.org/assets/images/472dee90-5539-4d71-8a59-988acd862c06-thumb.jpg",
@@ -5253,12 +5227,8 @@
     "state": "NY",
     "address": "1158 Intervale Ave.",
     "meeting_location": "1158 Intervale Ave.",
-    "links": [
-      "[]"
-    ],
-    "sponsors": [
-      "[]"
-    ],
+    "links": [],
+    "sponsors": [],
     "image_url": "https://theblop.org/assets/images/491829f4-5e09-40a3-926a-d10fa1d350fd.png",
     "thumbnail_url": "https://theblop.org/assets/images/491829f4-5e09-40a3-926a-d10fa1d350fd-thumb.jpg",
     "canonical_id": "",
@@ -6842,12 +6812,8 @@
     "state": "OH",
     "address": "4035 Broadway",
     "meeting_location": "Grove City Hall",
-    "links": [
-      "[]"
-    ],
-    "sponsors": [
-      "u/Single_Escape9436"
-    ],
+    "links": [],
+    "sponsors": [],
     "image_url": "https://theblop.org/assets/images/31ae2b0e-5009-4272-a94b-4e525e632fe7.jpg",
     "thumbnail_url": "https://theblop.org/assets/images/31ae2b0e-5009-4272-a94b-4e525e632fe7-thumb.jpg",
     "canonical_id": "",
@@ -7893,9 +7859,7 @@
     "state": "AB",
     "address": "7 Sir Winston Churchill Square NW",
     "meeting_location": "Stanley A Milner Library",
-    "links": [
-      "[]"
-    ],
+    "links": [],
     "sponsors": [
       "Edmonton Public Library"
     ],
@@ -8312,7 +8276,7 @@
     "address": "2919 29th St SE",
     "meeting_location": "Tesla Showroom",
     "links": [
-      "[https://actionnetwork.org/events/monday-picket-week-3]"
+      "https://actionnetwork.org/events/monday-picket-week-3"
     ],
     "sponsors": [],
     "image_url": "https://theblop.org/assets/images/726f931b-a08f-44d0-9bd9-6e11d80434cd.png",
@@ -8669,9 +8633,7 @@
     "state": "CA",
     "address": "Pine & Carlsbad Blvd (Next to Harbor Fish)",
     "meeting_location": "Pine & Carlsbad Blvd (Next to Harbor Fish)",
-    "links": [
-      "[]"
-    ],
+    "links": [],
     "sponsors": [
       "Indivisible North County",
       " DEMCCO"
@@ -9080,6 +9042,28 @@
     "raw_summary": "This image promotes a protest event against Turning Point USA and its planned speaker at the University of the Pacific on March 19th. The event criticizes the organization's alleged promotion of hate speech. Attendees are encouraged to bring signs and make their voices heard."
   },
   {
+    "id": "43d491b8-2fe4-4f61-bf7e-3bfe39c97b86",
+    "title": "Why Is Trump Cutting Their Benefits?",
+    "date": "Wednesday, March 19, 2025",
+    "time": "2:30 PM",
+    "description": "We are gathering to support our veterans and discuss the cuts to their benefits, with Representative Dusty Johnson in attendance.",
+    "city": "Sturgis",
+    "state": "SD",
+    "address": "Sturgis Vets Club",
+    "meeting_location": "Sturgis Vets Club",
+    "links": [],
+    "sponsors": [
+      "Indivisible Rapid City"
+    ],
+    "image_url": "https://theblop.org/assets/images/43d491b8-2fe4-4f61-bf7e-3bfe39c97b86.jpg",
+    "thumbnail_url": "https://theblop.org/assets/images/43d491b8-2fe4-4f61-bf7e-3bfe39c97b86-thumb.jpg",
+    "canonical_id": "",
+    "permalink": "https://theblop.org/events/43d491b8-2fe4-4f61-bf7e-3bfe39c97b86.html",
+    "ical": "https://theblop.org/assets/ical/43d491b8-2fe4-4f61-bf7e-3bfe39c97b86.ics",
+    "raw_text": "Sharing from Indivisible Rapid City! March 19, 2:30PM, at Sturgis Vets Club\nSD Activist Organization Meeting/Event\nThey are NOT suckers & losers!\nWhy is Trump cutting their benefits?\nRepresentative Dusty Johnson\nwill be at the Sturgis Vets Club,\nMarch 19 2:30PM\nLet’s support our vets with the respect they deserve\nINDIVISIBLE RAPID CITY",
+    "raw_summary": "An event organized by Indivisible Rapid City to support veterans, featuring Representative Dusty Johnson, is scheduled to take place on March 19 at 2:30 PM at the Sturgis Vets Club. The gathering aims to address the issue of veterans' benefits being cut."
+  },
+  {
     "id": "ca475ca3-6887-488d-bed4-5129fd4e70c6",
     "title": "Stand Strong Speak Up",
     "date": "Thursday, March 20, 2025",
@@ -9406,12 +9390,8 @@
     "state": "AZ",
     "address": "Mullett Arena",
     "meeting_location": "Arizona State",
-    "links": [
-      "[]"
-    ],
-    "sponsors": [
-      "[]"
-    ],
+    "links": [],
+    "sponsors": [],
     "image_url": "https://theblop.org/assets/images/66381f26-4c4f-45dc-b61e-42c2f369e74b.jpg",
     "thumbnail_url": "https://theblop.org/assets/images/66381f26-4c4f-45dc-b61e-42c2f369e74b-thumb.jpg",
     "canonical_id": "",
@@ -9430,12 +9410,8 @@
     "state": "AZ",
     "address": "411 S Packard Dr, Tempe, AZ 85287",
     "meeting_location": "Mullett Arena, Arizona State University Tempe Campus",
-    "links": [
-      "[]"
-    ],
-    "sponsors": [
-      "[Bernie]"
-    ],
+    "links": [],
+    "sponsors": [],
     "image_url": "https://theblop.org/assets/images/a5b50b01-c5a9-4d3c-a9e1-0dd435b87568.jpg",
     "thumbnail_url": "https://theblop.org/assets/images/a5b50b01-c5a9-4d3c-a9e1-0dd435b87568-thumb.jpg",
     "canonical_id": "",
@@ -9543,9 +9519,7 @@
     "state": "TX",
     "address": "1700 7th Street",
     "meeting_location": "Matagorda County Courthouse",
-    "links": [
-      "[]"
-    ],
+    "links": [],
     "sponsors": [
       "PowPow"
     ],
@@ -10067,12 +10041,8 @@
     "state": "ME",
     "address": "Damariscotta-Newcastle bridge, Bus US Rt1",
     "meeting_location": "Damariscotta-Newcastle bridge",
-    "links": [
-      "[]"
-    ],
-    "sponsors": [
-      "[]"
-    ],
+    "links": [],
+    "sponsors": [],
     "image_url": "https://theblop.org/assets/images/25a83cc3-a4c1-41e7-b66e-a1091e84d8a1.jpg",
     "thumbnail_url": "https://theblop.org/assets/images/25a83cc3-a4c1-41e7-b66e-a1091e84d8a1-thumb.jpg",
     "canonical_id": "",
@@ -10117,11 +10087,9 @@
     "address": "10111 State Line Rd",
     "meeting_location": "Tesla Service Center",
     "links": [
-      "[https://actionnetwork.org/events/teslatakedown-kc-8]"
+      "https://actionnetwork.org/events/teslatakedown-kc-8"
     ],
-    "sponsors": [
-      "[]"
-    ],
+    "sponsors": [],
     "image_url": "https://theblop.org/assets/images/1252ebdd-defe-4de6-97c8-1ceacedd5d90.png",
     "thumbnail_url": "https://theblop.org/assets/images/1252ebdd-defe-4de6-97c8-1ceacedd5d90-thumb.jpg",
     "canonical_id": "",
@@ -10343,15 +10311,15 @@
     "address": "Waldo Public Library",
     "meeting_location": "Waldo Public Library",
     "links": [
-      "[indivisible.org",
-      " piperformissouri.bsky.social]"
+      "indivisible.org",
+      " piperformissouri.bsky.social"
     ],
     "sponsors": [
-      "[Indivisible Blue Brookside",
+      "Indivisible Blue Brookside",
       " Jobs for Justice",
       " Jewish Vocational Services",
       " IRS Union Rep",
-      " Future Democrat Representative]"
+      " Future Democrat Representative"
     ],
     "image_url": "https://theblop.org/assets/images/5c078bb2-352c-457b-9508-fd5439c053bb.jpg",
     "thumbnail_url": "https://theblop.org/assets/images/5c078bb2-352c-457b-9508-fd5439c053bb-thumb.jpg",
@@ -11532,10 +11500,10 @@
     "address": "3380 Satellite Blvd",
     "meeting_location": "Tesla",
     "links": [
-      "[ \"https://actionnetwork.org/events/tesla-takedown-duluth\" ]"
+      "https://actionnetwork.org/events/tesla-takedown-duluth"
     ],
     "sponsors": [
-      "[ \"rawson.gordon@gmail.com\" ]"
+      "rawson.gordon@gmail.com"
     ],
     "image_url": "https://theblop.org/assets/images/32f8e7fe-49df-4bd4-b137-6679da6eae1d.png",
     "thumbnail_url": "https://theblop.org/assets/images/32f8e7fe-49df-4bd4-b137-6679da6eae1d-thumb.jpg",
@@ -12738,9 +12706,7 @@
     "state": "TX",
     "address": "1100 Congress Ave",
     "meeting_location": "Texas State Capitol",
-    "links": [
-      "[]"
-    ],
+    "links": [],
     "sponsors": [
       "ResistAustin",
       " ResistTrump",
@@ -12967,7 +12933,7 @@
     "address": "Japanese American Historical Plaza, Tom McCall Waterfront Park",
     "meeting_location": "Japanese American Historical Plaza",
     "links": [
-      "[linktr.ee/50501PortlandOregon]"
+      "linktr.ee/50501PortlandOregon"
     ],
     "sponsors": [],
     "image_url": "https://theblop.org/assets/images/9a9f8689-8fc5-4475-8682-9f46af0d77df.png",
@@ -13136,9 +13102,7 @@
     "state": "NJ",
     "address": "125 W State Street",
     "meeting_location": "",
-    "links": [
-      "[]"
-    ],
+    "links": [],
     "sponsors": [
       "NJ50501 Movement"
     ],
