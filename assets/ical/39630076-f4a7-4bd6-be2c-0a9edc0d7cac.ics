@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:7a6ad317-02f8-4370-a9f8-47589aee3f6e
+SEQUENCE:0
+DTSTAMP:20250315T180240Z
+DTSTART:20250405T120000
+DTEND:20250405T160000
+SUMMARY:Remove\, Reverse\, Reclaim
+LOCATION:500 N Main Street\, Summerville\, SC
+DESCRIPTION:We are organizing a protest across all 50 states to remove cor
+ rupt politicians from office\, reverse the damage done\, and reclaim our d
+ emocracy. Join us in Summerville\, SC at Veterans Memorial. Let's work tog
+ ether towards positive change.\n\nVeterans Memorial
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=500+N+Main+S
+ treet%2C+Summerville%2C+SC&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

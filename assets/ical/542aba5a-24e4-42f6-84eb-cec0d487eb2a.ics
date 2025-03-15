@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:b002116b-265b-4da7-8055-47f440474267
+SEQUENCE:0
+DTSTAMP:20250315T180240Z
+DTSTART:20250315T130000
+DTEND:20250315T170000
+SUMMARY:We Are The Resistance
+LOCATION:2549 S Washington Blvd\, Ogden UT
+DESCRIPTION:Join us for a day of activism to uphold the constitution and e
+ nd executive overreach. Participate in a rally at the Municipal Building f
+ ollowed by a march to the Ogden Sign. Stand with us as we reject Donald Tr
+ ump and Elon Musk.\n\n18th & Washington Blvd
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=2549+S+Washi
+ ngton+Blvd%2C+Ogden+UT&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

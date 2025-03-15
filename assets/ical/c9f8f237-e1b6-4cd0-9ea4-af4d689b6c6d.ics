@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:10e992b2-f87b-4180-bbec-5220b799398f
+SEQUENCE:0
+DTSTAMP:20250315T180240Z
+DTSTART:20250318T150000
+DTEND:20250318T190000
+SUMMARY:Rally to Save Medicaid & Social Security
+LOCATION:South Lawn of the State Capitol\, Hartford\, CT
+DESCRIPTION:We are organizing a rally to save Medicaid and Social Security
+ . Join us to stand up\, push back\, and resist. The rally features speaker
+ s including Senator Chris Murphy and local citizens sharing life experienc
+ es and voicing their concerns.\n\nSouth Lawn of the State Capitol
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=South+Lawn+o
+ f+the+State+Capitol%2C+Hartford%2C+CT&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

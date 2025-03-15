@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:2e2faa74-e2e2-46dd-9329-cc2b431f9c95
+SEQUENCE:0
+DTSTAMP:20250315T180240Z
+DTSTART:20250420T100000
+DTEND:20250420T140000
+SUMMARY:2025 Spring Community Festival
+LOCATION:123 Main St\, Springfield\, IL
+DESCRIPTION:Join us for fun games\, live music\, food stalls\, and more!\n
+ \nCentral Park
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=123+Main+St%
+ 2C+Springfield%2C+IL&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:1fae26d8-8d67-43d9-abaa-4dc78ae3d4ec
+SEQUENCE:0
+DTSTAMP:20250315T180240Z
+DTSTART:20250405T130000
+DTEND:20250405T170000
+SUMMARY:HERE & QUEER
+LOCATION:Findlay Playground\, Cincinnati\, OH
+DESCRIPTION:This is a march for trans and non-binary visibility and justic
+ e. We will gather at Findlay Playground and march through OTR to downtown 
+ Cincinnati\, culminating in a rally at Fountain Square. This event is orga
+ nized by Lil’s Kitchen for Trans Day of Visibility.\n\nFindlay Playgroun
+ d
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Findlay+Play
+ ground%2C+Cincinnati%2C+OH&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

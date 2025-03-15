@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:1c195168-5b89-40b4-accc-08514ba91438
+SEQUENCE:0
+DTSTAMP:20250315T180240Z
+DTSTART:20250315T070000
+DTEND:20250315T110000
+SUMMARY:Protect Utah Workers Signature Kick-Off
+LOCATION:2261 S Redwood Road\, Suite J & K\, West Valley City\, UT
+DESCRIPTION:We invite you to join our efforts in gathering signatures for 
+ the HB267 Referendum. This important campaign aims to restore public worke
+ rs' rights to negotiate fair wages and protect collective bargaining. Part
+ icipate in our launch events to support a stronger voice for a stronger Ut
+ ah.\n\nUnion Hall
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=2261+S+Redwo
+ od+Road%2C+Suite+J+%26+K%2C+West+Valley+City%2C+UT&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

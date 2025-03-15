@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:4947de98-310a-464e-8d0b-9723fd638b39
+SEQUENCE:0
+DTSTAMP:20250315T180240Z
+DTSTART:20250315T140000
+DTEND:20250315T180000
+SUMMARY:The People's Empty Chair Town Hall
+LOCATION:25 Heritage Green Pl\, Greenville\, SC
+DESCRIPTION:Join us for a community town hall event presented by Indivisib
+ le Upstate SC\, in cooperation with Democratic Women of Greenville County\
+ , and other organizations. The event aims to bring the community together 
+ to discuss important topics and issues. Open to all\, first-come\, first-s
+ erved.\n\nHughes Main Library\, Greenville County Library System
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=25+Heritage+
+ Green+Pl%2C+Greenville%2C+SC&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR
