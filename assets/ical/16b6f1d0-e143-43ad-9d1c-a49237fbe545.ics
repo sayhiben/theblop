@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:8652619b-accb-4ca0-b9db-e1ed2f4300ff
+SEQUENCE:0
+DTSTAMP:20250315T120223Z
+DTSTART:20250315T110000
+DTEND:20250315T150000
+SUMMARY:March to Stop the Cuts
+LOCATION:(Between Lafayette\, Worth\, and Centre Streets\, Manhattan)\, Ne
+ w York City\, NY
+DESCRIPTION:We are organizing a march to protest against $2 trillion in cu
+ ts to Medicaid\, food assistance\, and other vital programs. Join us to fi
+ ght back against these proposals by politicians aiming to fund tax cuts fo
+ r billionaires. We stand with working people to prevent any detrimental cu
+ ts.\n\nFoley Square
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%28Between+L
+ afayette%2C+Worth%2C+and+Centre+Streets%2C+Manhattan%29%2C+New+York+City%2
+ C+NY&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

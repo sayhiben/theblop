@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:18bef36f-7e4b-4bc3-9fe5-81812ae5d034
+SEQUENCE:0
+DTSTAMP:20250315T120223Z
+DTSTART:20250315T100000
+DTEND:20250315T140000
+SUMMARY:Support Transgender Troops
+LOCATION:Marine Corps Base Camp Pendleton\, Off of San Rafael Drive\, Ocea
+ nside\, CA
+DESCRIPTION:Join us for a peaceful demonstration to show support for trans
+ gender troops. Located at the Camp Pendleton Main Gate\, this event aims t
+ o express solidarity and raise awareness.\n\nCamp Pendleton Main Gate
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Marine+Corps
+ +Base+Camp+Pendleton%2C+Off+of+San+Rafael+Drive%2C+Oceanside%2C+CA&zoom=15
+ &basemap=roadmap
+END:VEVENT
+END:VCALENDAR
