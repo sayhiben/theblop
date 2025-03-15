@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:8a8b1b1c-1920-49f4-ab8b-027f828badc4
+SEQUENCE:0
+DTSTAMP:20250315T090245Z
+DTSTART:20250405T120000
+DTEND:20250405T160000
+SUMMARY:Protest
+LOCATION:180 N. First St.\, San Jose\, CA
+DESCRIPTION:We are organizing a protest to remove certain officials from t
+ he government\, reverse recent executive orders\, and reclaim a government
+  truly by and for the people. Join us to stand against policies impacting 
+ privacy and public governance.\n\nMeet at the McKinley Statue\, St. James 
+ Park
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=180+N.+First
+ +St.%2C+San+Jose%2C+CA&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

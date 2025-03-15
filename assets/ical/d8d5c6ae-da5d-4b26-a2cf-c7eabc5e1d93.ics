@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:f9a86706-cf77-44fd-b363-528e9f84d421
+SEQUENCE:0
+DTSTAMP:20250315T090245Z
+DTSTART:20250315T140000
+DTEND:20250315T180000
+SUMMARY:Hands Off Medicaid Rally
+LOCATION:Vogel Plaza\, Medford\, OR
+DESCRIPTION:Join homecare and personal support workers as we tell the peop
+ le and the legislators we are united in protecting Medicaid.\n\nVogel Plaz
+ a\, Medford
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Vogel+Plaza%
+ 2C+Medford%2C+OR&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

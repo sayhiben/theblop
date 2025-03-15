@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:da291cf3-8b91-471a-828a-72fb5e42be64
+SEQUENCE:0
+DTSTAMP:20250315T090245Z
+DTSTART:20250321T120000
+DTEND:20250321T160000
+SUMMARY:Defending Democracy Rally
+LOCATION:US Consulate Sandton\, Johannesburg\, ZAF
+DESCRIPTION:Join us at the Defending Democracy Rally to stand up and speak
+  out for democracy at the US Consulate Sandton. Bring your signs\, spirit\
+ , and voice as we align this event with Human Rights Day and the Internati
+ onal Day for the Elimination of Racial Discrimination.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=US+Consulate
+ +Sandton%2C+Johannesburg%2C+ZAF&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

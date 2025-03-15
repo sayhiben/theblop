@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:60b79769-be48-4e09-80d3-cade7d1f946b
+SEQUENCE:0
+DTSTAMP:20250315T090245Z
+DTSTART:20250315T000000
+DTEND:20250315T040000
+SUMMARY:Total Shutdown
+LOCATION:\, Nationwide\, Nationwide
+DESCRIPTION:We\, People’s Voice\, are organizing a nationwide shutdown o
+ n March 15\, 2025. On this day\, everything stops—work\, shopping\, and 
+ travel—demonstrating our collective power. Join us in making the entire 
+ nation stand still to demand systemic change.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+Nationwi
+ de%2C+Nationwide&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

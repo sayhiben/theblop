@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:69d2510b-908d-49b8-9f23-8cd051b47c6c
+SEQUENCE:0
+DTSTAMP:20250315T090245Z
+DTSTART:20250315T093000
+DTEND:20250315T133000
+SUMMARY:Tesla Dealership Protest
+LOCATION:5081 N Oracle Rd\, Tucson\, AZ
+DESCRIPTION:We invite you to join us for a protest at the Tesla dealership
+  in Tucson\, followed by a postcard writing party at Rillito Regional Park
+ . Let’s stand united and wear white.\n\nTesla dealership\, followed by R
+ illito Regional Park
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=5081+N+Oracl
+ e+Rd%2C+Tucson%2C+AZ&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:9f0a76d4-4feb-4964-899a-f6475408edb1
+SEQUENCE:0
+DTSTAMP:20250315T090245Z
+DTSTART:20250315T110000
+DTEND:20250315T150000
+SUMMARY:#TESLATAKEDOWN
+LOCATION:\, Reno\, NV
+DESCRIPTION:Join our protest against Elon Musk at the Reno Tesla Showroom.
+  We aim to impact his wealth by urging people to sell their Tesla stocks a
+ nd participate in a demonstration against his alleged government takeover 
+ actions. Let's reclaim democracy from billionaires.\n\nReno Tesla Showroom
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+Reno%2C+
+ NV&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

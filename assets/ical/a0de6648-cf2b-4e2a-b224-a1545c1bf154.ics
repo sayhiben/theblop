@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:705ac687-41d1-4015-baba-1e94b9ce6704
+SEQUENCE:0
+DTSTAMP:20250315T090245Z
+DTSTART:20250324T140000
+DTEND:20250324T180000
+SUMMARY:ICE Off Campus Letter Delivery
+LOCATION:\, Austin\, TX
+DESCRIPTION:We demand that the University of Texas protect immigrant stude
+ nts by keeping ICE off campus and making UT a sanctuary campus. Join us in
+  delivering these demands to the administration.\n\nUT Tower
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+Austin%2
+ C+TX&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

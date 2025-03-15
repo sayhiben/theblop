@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:e8fc17dd-290e-4dc0-95f8-399c3cf426d1
+SEQUENCE:0
+DTSTAMP:20250315T090245Z
+DTSTART:20250315T110000
+DTEND:20250315T150000
+SUMMARY:TESLA TAKE DOWN
+LOCATION:5245 Ridge Ave\, Cincinnati\, OH
+DESCRIPTION:Let's gather together to call out the Trump-Musk coup and expr
+ ess how we feel about Trump and this unelected billionaire stealing our da
+ ta and our tax dollars all to enrich themselves and their billionaire cron
+ ies. All are welcome! Bring your signs and your voices!\n\nNew Tesla @ Bur
+ lington Coat Factory
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=5245+Ridge+A
+ ve%2C+Cincinnati%2C+OH&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

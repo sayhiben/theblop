@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:ee0ba0f6-455b-4257-a258-1e632b6808f7
+SEQUENCE:0
+DTSTAMP:20250315T090245Z
+DTSTART:20250317T120000
+DTEND:20250317T160000
+SUMMARY:Lucky to Have Kansas Public Schools
+LOCATION:201 SW 8th Ave\, Topeka\, KS
+DESCRIPTION:We need to stop tax credits and vouchers from taking away publ
+ ic school funding! Rally at the Capitol to show your legislators we are lu
+ cky to have Kansas Public Schools!\n\nKansas State Capitol
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=201+SW+8th+A
+ ve%2C+Topeka%2C+KS&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR
