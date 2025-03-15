@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:27782614-be0f-49c8-93db-e7f3cea5f56a
+SEQUENCE:0
+DTSTAMP:20250315T000533Z
+DTSTART:20250315T120000
+DTEND:20250315T160000
+SUMMARY:NJ50501 Protest
+LOCATION:125 W State St\, Trenton\, NJ
+DESCRIPTION:Join us at the NJ50501 protest where Rev. Erin Kinahan\, an ex
+ perienced Lutheran Pastor\, will speak. She is passionate about serving ot
+ hers and advocating for LGBTQ+ inclusivity.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=125+W+State+
+ St%2C+Trenton%2C+NJ&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

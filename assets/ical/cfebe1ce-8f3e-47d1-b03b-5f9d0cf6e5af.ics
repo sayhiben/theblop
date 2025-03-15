@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:9ac51989-dc6d-4625-a2f7-bbfcc6f400c0
+SEQUENCE:0
+DTSTAMP:20250315T000533Z
+DTSTART:20250315T110000
+DTEND:20250315T150000
+SUMMARY:End the War in Gaza Now
+LOCATION:SC Statehouse\, Columbia\, SC
+DESCRIPTION:Join us to advocate for a ceasefire in Gaza and address relate
+ d social justice issues. Let's gather to make our voices heard and push fo
+ r change.\n\nSC Statehouse
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=SC+Statehous
+ e%2C+Columbia%2C+SC&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

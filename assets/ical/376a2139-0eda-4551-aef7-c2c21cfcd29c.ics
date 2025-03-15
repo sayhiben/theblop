@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:7528c42c-21fe-4038-a9e6-ca36333cfa84
+SEQUENCE:0
+DTSTAMP:20250315T000533Z
+DTSTART:20250315T120000
+DTEND:20250315T160000
+SUMMARY:People's Protest
+LOCATION:Tippecanoe County Courthouse\, Lafayette\, IN
+DESCRIPTION:Join us for the People's Protest at Tippecanoe County Courthou
+ se. We will stand up against the Trump regime and fight to save our democr
+ acy\, while connecting with local organizations to support marginalized co
+ mmunities in Tippecanoe County. March starts from West Lafayette.\n\nMarch
+  from West Lafayette
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Tippecanoe+C
+ ounty+Courthouse%2C+Lafayette%2C+IN&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

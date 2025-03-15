@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:6a3b66d8-5f8f-427b-bda6-5909b9ebca52
+SEQUENCE:0
+DTSTAMP:20250315T000533Z
+DTSTART:20250320T100000
+DTEND:20250320T140000
+SUMMARY:No Power Grab Over DC
+LOCATION:Hart Atrium\, Washington\, DC
+DESCRIPTION:Join us for a day of Senate visits to oppose the power grab ov
+ er Washington\, D.C. This event aims to engage with policymakers and empha
+ size the importance of democratic representation.\n\nHart Atrium
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Hart+Atrium%
+ 2C+Washington%2C+DC&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

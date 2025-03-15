@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:f644f76f-693c-49b5-b2d2-6be473495496
+SEQUENCE:0
+DTSTAMP:20250315T000533Z
+DTSTART:20250322T130000
+DTEND:20250322T170000
+SUMMARY:STOP the Field Day on Texas Kids
+LOCATION:Courthouse Square\, Denton\, TX
+DESCRIPTION:Join us to tell our reps that our kids’ safety isn’t a gam
+ e! Bring your family\, a lawn chair\, and a sign! We’ll have hula hoops\
+ , balloons\, and more!\n\nCourthouse Square
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Courthouse+S
+ quare%2C+Denton%2C+TX&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

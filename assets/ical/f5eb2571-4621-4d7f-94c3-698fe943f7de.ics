@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:a3fdcb19-8e06-4974-b791-17140c0013cf
+SEQUENCE:0
+DTSTAMP:20250315T000533Z
+DTSTART:20250405T120000
+DTEND:20250405T160000
+SUMMARY:Next 50 State Nationwide Protest
+LOCATION:\, Indianapolis\, IN
+DESCRIPTION:Join us for a nationwide protest as part of the 50501 Movement
+ . Be a part of the change by gathering at the Indiana State House to voice
+  our collective goals and aspirations.\n\nIndiana State House
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+Indianap
+ olis%2C+IN&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

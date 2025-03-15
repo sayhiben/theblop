@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:8eddfe92-3df7-4bb3-b8aa-46f3dca60364
+SEQUENCE:0
+DTSTAMP:20250315T000533Z
+DTSTART:20250319T133000
+DTEND:20250319T173000
+SUMMARY:Protest SB 1
+LOCATION:Ohio Statehouse\, Columbus\, OH
+DESCRIPTION:We are organizing a protest against SB 1\, known as "The Highe
+ r Education Destruction Act." Join us as student marchers at the Ohio Stat
+ ehouse to express opposition to this bill. All are welcome to participate\
+ , and we ask attendees to meet on the West/High St side. The protest align
+ s with the Ohio House debate\, and we encourage wearing red for education.
+ \n\nMcKinley Statue\, Ohio Statehouse
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Ohio+Stateho
+ use%2C+Columbus%2C+OH&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

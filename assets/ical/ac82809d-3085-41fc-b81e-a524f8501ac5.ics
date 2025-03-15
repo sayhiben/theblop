@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:3394d9ec-231d-47aa-9cd9-278b0879ef97
+SEQUENCE:0
+DTSTAMP:20250315T000533Z
+DTSTART:20250320T113000
+DTEND:20250320T153000
+SUMMARY:No More Education Cuts: Statewide Day of Action
+LOCATION:200 E Colfax Ave\, Denver\, CO
+DESCRIPTION:On March 20th\, we invite educators\, students\, families\, an
+ d community partners from across Colorado to rally at the State Capitol to
+  demand No More Education Cuts and call for the fully funded public school
+ s our students deserve. Despite significant budget challenges\, we must pr
+ event more cuts to public education funding. Join us and wear your favorit
+ e #RedForEd shirt.\n\nColorado State Capitol
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=200+E+Colfax
+ +Ave%2C+Denver%2C+CO&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

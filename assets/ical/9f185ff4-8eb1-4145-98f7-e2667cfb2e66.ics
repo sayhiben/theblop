@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:ccb0c4f4-b521-43c3-98ec-e3a286367420
+SEQUENCE:0
+DTSTAMP:20250315T000533Z
+DTSTART:20250329T140000
+DTEND:20250329T180000
+SUMMARY:Duluth Town Hall
+LOCATION:301 N. 40th Ave E.\, Duluth\, MN
+DESCRIPTION:We are hosting a town hall meeting to discuss how federal poli
+ cies impact you and your community. Join us to share your story\, ask ques
+ tions\, and get involved. Rep. Pete Stauber and local elected officials wi
+ ll be present.\n\nEast High School Auditorium
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=301+N.+40th+
+ Ave+E.%2C+Duluth%2C+MN&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

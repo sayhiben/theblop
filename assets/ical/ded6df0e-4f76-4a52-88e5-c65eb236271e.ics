@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:501aacd7-66cd-4841-a7e4-dc00a5376d7a
+SEQUENCE:0
+DTSTAMP:20250315T000533Z
+DTSTART:20250316T140000
+DTEND:20250316T180000
+SUMMARY:Peaceful Protest: Release Mahmoud Khalil
+LOCATION:Hyannis Airport Rotary\, Hyannis\, MA
+DESCRIPTION:Join us in a peaceful protest to support the release of Mahmou
+ d Khalil and protect free speech. We will gather at the Hyannis Airport Ro
+ tary and stand together to voice our concerns.\n\nPark at Staples
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Hyannis+Airp
+ ort+Rotary%2C+Hyannis%2C+MA&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR
