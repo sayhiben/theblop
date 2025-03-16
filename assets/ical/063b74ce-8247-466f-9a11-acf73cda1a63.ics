@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:cd3dc67a-1ba2-4e56-a3cb-c5b7d9b84770
+UID:f85f64ed-7fc3-4eae-876d-5334967bb32f
 SEQUENCE:0
-DTSTAMP:20250313T180257Z
-DTSTART:20250314T110000
-DTEND:20250314T150000
+DTSTAMP:20250314T072603Z
+DTSTART:20250314T180000
+DTEND:20250314T200000
 SUMMARY:RALLY to SAVE the VA
 LOCATION:Lancaster Road\, Outside the Dallas VA Hospital\, Dallas\, TX
 DESCRIPTION:We are gathering to support our veterans and save the VA. Join
@@ -16,5 +16,6 @@ DESCRIPTION:We are gathering to support our veterans and save the VA. Join
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Lancaster+Ro
  ad%2C+Outside+the+Dallas+VA+Hospital%2C+Dallas%2C+TX&zoom=15&basemap=roadm
  ap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

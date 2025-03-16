@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:5abc5939-6d64-416a-8935-46076951253e
+UID:598c8d41-7d4c-4a69-85a4-527a03536549
 SEQUENCE:0
-DTSTAMP:20250313T031818Z
-DTSTART:20250314T160000
-DTEND:20250314T200000
+DTSTAMP:20250314T072603Z
+DTSTART:20250314T230000
+DTEND:20250315T010000
 SUMMARY:Tesla Takedown Fayetteville NY
 LOCATION:5427 N Burdick St.\, Fayetteville\, NY
 DESCRIPTION:We are taking action at Tesla. Sell your Teslas\, dump your st
@@ -16,5 +16,6 @@ DESCRIPTION:We are taking action at Tesla. Sell your Teslas\, dump your st
  aler
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=5427+N+Burdi
  ck+St.%2C+Fayetteville%2C+NY&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

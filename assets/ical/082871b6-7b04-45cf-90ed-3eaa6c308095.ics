@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:a11e4f6b-8acd-4977-838b-326289e4cc4f
+UID:b41b3133-d267-4f5b-b868-1137b668108d
 SEQUENCE:0
-DTSTAMP:20250312T180257Z
-DTSTART:20250317T190000
-DTEND:20250317T230000
+DTSTAMP:20250314T072603Z
+DTSTART:20250318T020000
+DTEND:20250318T040000
 SUMMARY:Townhall Meeting
 LOCATION:351 N. Broad St\, Mobile\, AL
 DESCRIPTION:We invite you to attend a town hall meeting hosted by Congress
@@ -15,5 +15,6 @@ DESCRIPTION:We invite you to attend a town hall meeting hosted by Congress
  ng Technology
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=351+N.+Broad
  +St%2C+Mobile%2C+AL&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

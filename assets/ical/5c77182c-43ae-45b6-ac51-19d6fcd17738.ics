@@ -2,16 +2,17 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:1647f470-1a35-48d2-b813-c2f9721b7f35
+UID:f1535910-5576-425b-8e0a-a82ab67066ce
 SEQUENCE:0
-DTSTAMP:20250311T043711Z
-DTSTART:20250322T150000
-DTEND:20250322T190000
+DTSTAMP:20250314T072603Z
+DTSTART:20250322T220000
+DTEND:20250323T000000
 SUMMARY:Protest March
 LOCATION:225 Clay Avenue\, Jacksonville\, IL
 DESCRIPTION:Protest against Representative Mary E. Miller\, holding a Town
   Hall without her presence.\n\nMAAC (Midwest Agriculture & Arts Complex)
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=225+Clay+Ave
  nue%2C+Jacksonville%2C+IL&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

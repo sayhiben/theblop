@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:47af798e-db98-48ae-b734-f5c13bb58936
+UID:ca2ac28d-92d1-4209-8604-a828edf0e6ec
 SEQUENCE:0
-DTSTAMP:20250313T031818Z
-DTSTART:20250314T163000
-DTEND:20250314T203000
+DTSTAMP:20250314T072603Z
+DTSTART:20250314T233000
+DTEND:20250315T013000
 SUMMARY:South SLC Tesla Peaceful Protest
 LOCATION:2312 State St\, South Salt Lake City\, UT 84115
 DESCRIPTION:We are organizing a peaceful protest against Elon Musk\, takin
@@ -15,5 +15,6 @@ DESCRIPTION:We are organizing a peaceful protest against Elon Musk\, takin
  icket lines to protect democracy.\n\nSo SLC Tesla Dealership
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=2312+State+S
  t%2C+South+Salt+Lake+City%2C+UT+84115&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

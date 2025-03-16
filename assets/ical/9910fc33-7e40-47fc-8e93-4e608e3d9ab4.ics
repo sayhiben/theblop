@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:fc8ad292-e741-47d1-a935-31f41ebf93fa
+UID:5d3bdb32-6983-45d6-8eb7-a4683e56bd86
 SEQUENCE:0
-DTSTAMP:20250312T203050Z
-DTSTART:20250315T110000
-DTEND:20250315T150000
+DTSTAMP:20250314T072603Z
+DTSTART:20250315T180000
+DTEND:20250315T200000
 SUMMARY:MONUMENT SQUARE Protest
 LOCATION:456 Congress St\, Portland\, ME
 DESCRIPTION:Join us for a protest every Saturday at Monument Square\, Port
@@ -14,5 +14,6 @@ DESCRIPTION:Join us for a protest every Saturday at Monument Square\, Port
  ent Square
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=456+Congress
  +St%2C+Portland%2C+ME&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

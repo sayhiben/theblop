@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:6ba7e08c-d3d4-4d94-86d4-f703929068d1
+UID:bbec6d64-5ee4-4a7d-a682-51863982f6f7
 SEQUENCE:0
-DTSTAMP:20250312T203050Z
-DTSTART:20250315T120000
-DTEND:20250315T160000
+DTSTAMP:20250314T072603Z
+DTSTART:20250315T190000
+DTEND:20250315T210000
 SUMMARY:Mali-BOO Musk!
 LOCATION:23401 Civic Center Way\, Malibu\, CA 90265 US
 DESCRIPTION:Join us for an exciting event hosted by the Malibu Democratic 
@@ -14,5 +14,6 @@ DESCRIPTION:Join us for an exciting event hosted by the Malibu Democratic
  n\nTesla Malibu
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=23401+Civic+
  Center+Way%2C+Malibu%2C+CA+90265+US&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

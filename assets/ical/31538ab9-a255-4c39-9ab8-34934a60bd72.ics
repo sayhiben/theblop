@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:c7b976c9-d437-4901-94b5-d1bda8fb9a6e
+UID:fd1f2949-5932-48fe-a094-25feedc7bee2
 SEQUENCE:0
-DTSTAMP:20250310T235109Z
-DTSTART:20250318T173000
-DTEND:20250318T213000
+DTSTAMP:20250314T072603Z
+DTSTART:20250319T003000
+DTEND:20250319T023000
 SUMMARY:Town Hall Meeting
 LOCATION:Piedmont Oconee Health Center\, Jennings Mill Rd.\, Watkinsville\
  , Watkinsville\, GA
@@ -16,5 +16,6 @@ DESCRIPTION:Indivisible GA10 and the Oconee & Clarke County Democratic Com
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Piedmont+Oco
  nee+Health+Center%2C+Jennings+Mill+Rd.%2C+Watkinsville%2C+Watkinsville%2C+
  GA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

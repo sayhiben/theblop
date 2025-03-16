@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:53e91745-61a3-4588-9632-b38f2af9aae8
+UID:57ab7c31-c8b2-4f52-ae76-9badeff1c00f
 SEQUENCE:0
-DTSTAMP:20250312T203050Z
-DTSTART:20250315T120000
-DTEND:20250315T160000
+DTSTAMP:20250314T072603Z
+DTSTART:20250315T190000
+DTEND:20250315T210000
 SUMMARY:General Protest
 LOCATION:US Rt1 Bridge\, Wiscasset\, Wiscasset\, ME
 DESCRIPTION:Join us for a general protest in Wiscasset\, Maine. We encoura
@@ -14,5 +14,6 @@ DESCRIPTION:Join us for a general protest in Wiscasset\, Maine. We encoura
  is usually held in Damariscotta.\n\n
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=US+Rt1+Bridg
  e%2C+Wiscasset%2C+Wiscasset%2C+ME&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

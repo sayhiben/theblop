@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:5a4d3883-1618-41e2-bc76-4d400ab03d21
+UID:fc7ddecc-f1f4-4784-9d00-fb4a327f34ff
 SEQUENCE:0
-DTSTAMP:20250313T031819Z
-DTSTART:20250322T120000
-DTEND:20250322T160000
+DTSTAMP:20250314T072603Z
+DTSTART:20250322T190000
+DTEND:20250322T210000
 SUMMARY:Tesla Takedown - Brooklyn
 LOCATION:126 9th Street at 2nd Ave\, Brooklyn\, NY
 DESCRIPTION:We are taking action at Tesla to protest Musk and DOGE's destr
@@ -15,5 +15,6 @@ DESCRIPTION:We are taking action at Tesla to protest Musk and DOGE's destr
  Sell your Teslas\, dump your stock\, join the picket lines.\n\nTesla
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=126+9th+Stre
  et+at+2nd+Ave%2C+Brooklyn%2C+NY&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

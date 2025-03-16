@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:b60c493c-add8-49cd-ba90-faac457bcd5a
+UID:7f044075-b045-4778-8403-4395718637d7
 SEQUENCE:0
-DTSTAMP:20250313T031818Z
-DTSTART:20250314T170000
-DTEND:20250314T210000
+DTSTAMP:20250314T072603Z
+DTSTART:20250315T000000
+DTEND:20250315T020000
 SUMMARY:Veterans March @ Tesla Alhambra
 LOCATION:1200 W. Main St\, Alhambra\, CA
 DESCRIPTION:Come out in support of our Veterans. Nationwide protest on Fri
@@ -15,5 +15,6 @@ DESCRIPTION:Come out in support of our Veterans. Nationwide protest on Fri
  fluence.\n\nTesla Alhambra
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=1200+W.+Main
  +St%2C+Alhambra%2C+CA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

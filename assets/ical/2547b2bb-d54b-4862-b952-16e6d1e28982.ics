@@ -2,16 +2,17 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:c50d177f-9968-4cd1-a464-55e204cc04b4
+UID:b3d9e3af-f0cb-4654-815b-6108e427d9c4
 SEQUENCE:0
-DTSTAMP:20250309T044646Z
-DTSTART:20250315T120000
-DTEND:20250315T160000
+DTSTAMP:20250314T072603Z
+DTSTART:20250315T190000
+DTEND:20250315T210000
 SUMMARY:Protest
-LOCATION:Ohio Statehouse
+LOCATION:Ohio Statehouse\, Columbus\, OH
 DESCRIPTION:Stand up for human rights & take back our democracy from billi
  onaires and fascists!\n\n
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Ohio+Stateho
- use&zoom=15&basemap=roadmap
+ use%2C+Columbus%2C+OH&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

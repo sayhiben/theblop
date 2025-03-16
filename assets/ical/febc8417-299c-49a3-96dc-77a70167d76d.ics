@@ -2,16 +2,17 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:948f90bb-9a63-448e-8d06-c2160f883a06
+UID:96fca9be-cb3f-4632-82dd-6f95edec0e3e
 SEQUENCE:0
-DTSTAMP:20250312T060241Z
-DTSTART:20250314T120000
-DTEND:20250314T160000
+DTSTAMP:20250314T072603Z
+DTSTART:20250314T190000
+DTEND:20250314T210000
 SUMMARY:Rally for Our Veterans
 LOCATION:19 E. Main Street\, Romney\, WV
 DESCRIPTION:Honor their service by supporting VA hospitals and veterans pr
  ograms.\n\nIn Front of the Courthouse
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=19+E.+Main+S
  treet%2C+Romney%2C+WV&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

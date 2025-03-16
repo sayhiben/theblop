@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:13ef0e2d-f478-4fb5-a9f7-9adcc24ebe22
+UID:010309de-ea0e-421d-956e-79219f06462d
 SEQUENCE:0
-DTSTAMP:20250313T180257Z
-DTSTART:20250323T150000
-DTEND:20250323T190000
+DTSTAMP:20250314T072603Z
+DTSTART:20250323T220000
+DTEND:20250324T000000
 SUMMARY:Peaceful Protest / March
 LOCATION:Next to the Baxter Ave entrance of Cave Hill Cemetery\, Louisvill
  e\, KY
@@ -19,5 +19,6 @@ DESCRIPTION:We are organizing a peaceful march to raise awareness of our C
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Next+to+the+
  Baxter+Ave+entrance+of+Cave+Hill+Cemetery%2C+Louisville%2C+KY&zoom=15&base
  map=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

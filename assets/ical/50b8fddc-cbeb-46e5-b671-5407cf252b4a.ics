@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:1d3586ac-a78f-48cc-b34d-fb45a971b158
+UID:fe53fe45-6134-4002-9cfe-5d1019b7cbb9
 SEQUENCE:0
-DTSTAMP:20250313T031818Z
-DTSTART:20250315T140000
-DTEND:20250315T180000
+DTSTAMP:20250314T072603Z
+DTSTART:20250315T210000
+DTEND:20250315T230000
 SUMMARY:Protest at Merritt Island Tesla
 LOCATION:1545 E Merritt Island Cswy\, Merritt Island\, FL
 DESCRIPTION:Join us for a peaceful demonstration in front of the Merritt I
@@ -15,5 +15,6 @@ DESCRIPTION:Join us for a peaceful demonstration in front of the Merritt I
  mocracy.\n\nMerritt Island Tesla
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=1545+E+Merri
  tt+Island+Cswy%2C+Merritt+Island%2C+FL&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

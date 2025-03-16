@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:1e7ae6e8-b52b-40d0-87fd-e670ae25f3d1
+UID:d6c94c54-87c4-4847-8535-ba379b6cdb41
 SEQUENCE:0
-DTSTAMP:20250313T031819Z
-DTSTART:20250316T140000
-DTEND:20250316T180000
+DTSTAMP:20250314T072603Z
+DTSTART:20250316T210000
+DTEND:20250316T230000
 SUMMARY:Tanforan Shopping Center - Tesla Supercharger Station
 LOCATION:1140 El Camino Real\, San Bruno\, CA
 DESCRIPTION:Join us at the Tesla Supercharger station at Tanforan Mall to 
@@ -15,5 +15,6 @@ DESCRIPTION:Join us at the Tesla Supercharger station at Tanforan Mall to
  fun.\n\nTanforan Shopping Center - Tesla Supercharger Station
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=1140+El+Cami
  no+Real%2C+San+Bruno%2C+CA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

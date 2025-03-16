@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:694e1fe8-ef3c-4552-b088-0561c524b861
+UID:7cf683e6-fff0-4772-b8fc-0da4e167bc4f
 SEQUENCE:0
-DTSTAMP:20250312T203050Z
-DTSTART:20250322T120000
-DTEND:20250322T160000
+DTSTAMP:20250314T072603Z
+DTSTART:20250322T190000
+DTEND:20250322T210000
 SUMMARY:Weekly Sing Out
 LOCATION:294 Main St (corner of Park & Main)\, Rockland\, ME
 DESCRIPTION:Join us for a "Weekly Sing Out" at Chapman Park with the prote
@@ -14,5 +14,6 @@ DESCRIPTION:Join us for a "Weekly Sing Out" at Chapman Park with the prote
  community together for singing and protest activities.\n\nChapman Park
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=294+Main+St+
  %28corner+of+Park+%26+Main%29%2C+Rockland%2C+ME&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

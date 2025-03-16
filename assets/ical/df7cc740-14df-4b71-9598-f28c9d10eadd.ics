@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:89caff2b-566b-4a7c-980e-9e237cb43ed7
+UID:e6dde9f4-4dbd-4dd7-80f9-a42d20f020e8
 SEQUENCE:0
-DTSTAMP:20250311T031043Z
-DTSTART:20250315T100000
-DTEND:20250315T140000
+DTSTAMP:20250314T072603Z
+DTSTART:20250315T170000
+DTEND:20250315T190000
 SUMMARY:Tesla Protest
 LOCATION:1545 E Merritt Island Causeway\, Merritt Island\, FL
 DESCRIPTION:Join us for the Tesla Protest to express concerns and advocate
@@ -14,5 +14,6 @@ DESCRIPTION:Join us for the Tesla Protest to express concerns and advocate
   off Facebook.\n\n
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=1545+E+Merri
  tt+Island+Causeway%2C+Merritt+Island%2C+FL&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

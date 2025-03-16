@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:d8c75ca9-0904-41d4-83c9-9e6ecda38664
+UID:89285b13-16f9-4d76-91aa-03d349dc866d
 SEQUENCE:0
-DTSTAMP:20250312T090406Z
-DTSTART:20250318T180000
-DTEND:20250318T220000
+DTSTAMP:20250314T072603Z
+DTSTART:20250319T010000
+DTEND:20250319T030000
 SUMMARY:Congressional Town Hall
 LOCATION:116 South Main Street\, Viroqua\, WI
 DESCRIPTION:Join us for an evening of public engagement. This event invite
@@ -16,5 +16,6 @@ DESCRIPTION:Join us for an evening of public engagement. This event invite
   Temple Theatre
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=116+South+Ma
  in+Street%2C+Viroqua%2C+WI&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

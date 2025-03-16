@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:4db55fae-a5f8-4601-bb90-83bc160bc157
+UID:792606f0-5851-45a7-9806-158727713903
 SEQUENCE:0
-DTSTAMP:20250310T121109Z
-DTSTART:20250316T120000
-DTEND:20250316T160000
+DTSTAMP:20250314T072603Z
+DTSTART:20250316T190000
+DTEND:20250316T210000
 SUMMARY:Project 2025 - a dangerous blueprint for authoritarian rule
 LOCATION:214 Massachusetts Ave NE\, Washington\, DC\, DC
 DESCRIPTION:On March 16\, 2025\, Americans will gather in front of the Her
@@ -15,5 +15,6 @@ DESCRIPTION:On March 16\, 2025\, Americans will gather in front of the Her
   Trump’s MAGA movement.\n\nHeritage Foundation
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=214+Massachu
  setts+Ave+NE%2C+Washington%2C+DC%2C+DC&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

@@ -2,16 +2,17 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:0c57ddad-cd26-465a-8a5e-35b7994ce189
+UID:31284298-1b77-4864-86d3-8dc7e827d8c5
 SEQUENCE:0
-DTSTAMP:20250303T073722Z
+DTSTAMP:20250314T072603Z
 DTSTART:20250314T210000
-DTEND:20250315T010000
+DTEND:20250314T230000
 SUMMARY:Demand Democracy
-LOCATION:Capitol Hill\, Washington\, D.C.\, 
+LOCATION:Capitol Hill\, Washington\, D.C.\, DC
 DESCRIPTION:Capitol protest against our unconstitutional government.\n\nCa
  pitol Building
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Capitol+Hill
- %2C+Washington%2C+D.C.%2C+&zoom=15&basemap=roadmap
+ %2C+Washington%2C+D.C.%2C+DC&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

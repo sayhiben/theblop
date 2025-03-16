@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:1793dd9a-6c5b-4030-bfe0-bdf4518e81c7
+UID:06239171-a435-48a5-899b-8c42e9b72bfc
 SEQUENCE:0
-DTSTAMP:20250313T031819Z
-DTSTART:20250329T120000
-DTEND:20250329T160000
+DTSTAMP:20250314T072603Z
+DTSTART:20250329T190000
+DTEND:20250329T210000
 SUMMARY:Death by 1000 Musk Cuts - ACT UP 38th Anniversary Action
 LOCATION:860 Washington St.\, New York City\, NY
 DESCRIPTION:We are organizing the ACT UP 38th Anniversary Action to commem
@@ -15,5 +15,6 @@ DESCRIPTION:We are organizing the ACT UP 38th Anniversary Action to commem
  access.\n\nTesla Showroom
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=860+Washingt
  on+St.%2C+New+York+City%2C+NY&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

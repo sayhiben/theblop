@@ -2,16 +2,17 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:99137709-59dd-42bb-9f75-e35332c5699d
+UID:cf6d884a-0df9-4cea-8eb4-915ef20e1926
 SEQUENCE:0
-DTSTAMP:20250313T180257Z
-DTSTART:20250315T100000
-DTEND:20250315T140000
+DTSTAMP:20250314T072603Z
+DTSTART:20250315T170000
+DTEND:20250315T190000
 SUMMARY:TESLA Protest
 LOCATION:5711 S Lindbergh Blvd\, St. Louis\, MO
 DESCRIPTION:We are organizing a protest at Tesla South County to raise awa
  reness and express our concerns.\n\nTesla South County
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=5711+S+Lindb
  ergh+Blvd%2C+St.+Louis%2C+MO&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

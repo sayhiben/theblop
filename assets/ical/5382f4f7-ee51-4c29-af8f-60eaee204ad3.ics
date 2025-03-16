@@ -2,16 +2,17 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:2fd05525-d5c5-4a50-9d90-98c0b96030b2
+UID:43ccdddf-7ac8-4721-ab7f-4de680194520
 SEQUENCE:0
-DTSTAMP:20250310T180824Z
-DTSTART:20250315T150000
-DTEND:20250315T190000
+DTSTAMP:20250314T072603Z
+DTSTART:20250315T220000
+DTEND:20250316T000000
 SUMMARY:50501: El Movimiento del Pueblo Weekend Warriors
 LOCATION:413 N Alafaya Trail\, Orlando\, FL 32828
 DESCRIPTION:Unidos en Contra la Represión y La Dictadura\n\nWaterford Lak
  es Town Center
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=413+N+Alafay
  a+Trail%2C+Orlando%2C+FL+32828&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

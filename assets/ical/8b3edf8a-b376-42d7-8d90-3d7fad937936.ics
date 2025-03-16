@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:9ccb4701-7fb2-41a5-8f7f-2e8d05525725
+UID:901bf628-dfd5-423c-9eb0-c573f17ae925
 SEQUENCE:0
-DTSTAMP:20250313T031818Z
-DTSTART:20250313T113000
-DTEND:20250313T153000
+DTSTAMP:20250314T065639Z
+DTSTART:20250313T183000
+DTEND:20250313T203000
 SUMMARY:OKIES RESIST!
 LOCATION:1125 N Broadway Ave\, Oklahoma City\, OK
 DESCRIPTION:We are taking action at Tesla to show the resistance is alive 
@@ -18,5 +18,6 @@ DESCRIPTION:We are taking action at Tesla to show the resistance is alive
  ave some signs to share.\n\nSE corner of 11th and Broadway
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=1125+N+Broad
  way+Ave%2C+Oklahoma+City%2C+OK&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

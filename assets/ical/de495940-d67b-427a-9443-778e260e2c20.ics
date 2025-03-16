@@ -2,16 +2,17 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:b67d673c-c5c8-4f28-812f-df4dd479e638
+UID:5d70a613-f484-456d-b41f-501b76a94cf0
 SEQUENCE:0
-DTSTAMP:20250311T043711Z
-DTSTART:20250326T100000
-DTEND:20250326T140000
+DTSTAMP:20250314T072603Z
+DTSTART:20250326T170000
+DTEND:20250326T190000
 SUMMARY:Protest planned March 26th!
 LOCATION:in front of Pilgrim Coffeehouse\, Shoreline\, WA
 DESCRIPTION:A pro LGBTQIA2S+ protest will be held in front of Pilgrim Coff
  eehouse. We encourage participants to show up loud and proud!\n\n
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=in+front+of+
  Pilgrim+Coffeehouse%2C+Shoreline%2C+WA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

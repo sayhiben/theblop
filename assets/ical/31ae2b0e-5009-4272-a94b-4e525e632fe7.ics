@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:0de8f459-67c7-4520-b86c-c510c5bbdab9
+UID:2083b462-8eb9-4d46-9769-4413ed6a9713
 SEQUENCE:0
-DTSTAMP:20250312T090406Z
-DTSTART:20250315T160000
-DTEND:20250315T200000
+DTSTAMP:20250314T072603Z
+DTSTART:20250315T230000
+DTEND:20250316T010000
 SUMMARY:Peaceful Protest at Grove City Hall
 LOCATION:4035 Broadway\, Grove City\, OH
 DESCRIPTION:We are organizing a peaceful protest at Grove City Hall to exp
@@ -14,5 +14,6 @@ DESCRIPTION:We are organizing a peaceful protest at Grove City Hall to exp
  p administration.\n\nGrove City Hall
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=4035+Broadwa
  y%2C+Grove+City%2C+OH&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

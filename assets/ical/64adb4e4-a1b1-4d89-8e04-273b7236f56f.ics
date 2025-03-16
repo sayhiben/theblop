@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:778ca938-e66e-43fb-a409-13d09f25a21f
+UID:6377c9d0-29c3-4344-91f7-a89d1a54d935
 SEQUENCE:0
-DTSTAMP:20250313T031818Z
-DTSTART:20250315T130000
-DTEND:20250315T170000
+DTSTAMP:20250314T072603Z
+DTSTART:20250315T200000
+DTEND:20250315T220000
 SUMMARY:Hands off Wisconsin\, Elon Musk! Picket to Boycott Tesla!
 LOCATION:6624 Seybold Rd\, Madison\, WI
 DESCRIPTION:We are staging a demonstration at the Tesla Madison Showroom t
@@ -15,5 +15,6 @@ DESCRIPTION:We are staging a demonstration at the Tesla Madison Showroom t
  om
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=6624+Seybold
  +Rd%2C+Madison%2C+WI&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

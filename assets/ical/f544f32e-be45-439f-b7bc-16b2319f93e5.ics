@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:ea263a68-fed3-4034-bab5-d4f979a05bf2
+UID:da6d3a2c-878e-4078-abfa-b510bb451c9e
 SEQUENCE:0
-DTSTAMP:20250313T031818Z
-DTSTART:20250315T100000
-DTEND:20250315T140000
+DTSTAMP:20250314T072603Z
+DTSTART:20250315T170000
+DTEND:20250315T190000
 SUMMARY:Tesla Takedown NM
 LOCATION:4200 NM-528\, Rio Rancho\, NM
 DESCRIPTION:We are taking action at Tesla. Sell your Teslas\, dump your st
@@ -16,5 +16,6 @@ DESCRIPTION:We are taking action at Tesla. Sell your Teslas\, dump your st
  rnalillo
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=4200+NM-528%
  2C+Rio+Rancho%2C+NM&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

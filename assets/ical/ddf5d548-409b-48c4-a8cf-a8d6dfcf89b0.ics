@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:d8e2fce2-eae2-4284-ba3c-3eeb7ddf0e21
+UID:206053f0-f94b-499c-8941-1e25a71b7824
 SEQUENCE:0
-DTSTAMP:20250310T021352Z
-DTSTART:20250314T120000
-DTEND:20250314T160000
+DTSTAMP:20250314T072603Z
+DTSTART:20250314T190000
+DTEND:20250314T210000
 SUMMARY:Veterans Stand Out
 LOCATION:Hyannis Airport Rotary\, Hyannis\, MA
 DESCRIPTION:I will support and defend the Constitution of the United State
@@ -17,5 +17,6 @@ DESCRIPTION:I will support and defend the Constitution of the United State
  .\n\nNOON
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Hyannis+Airp
  ort+Rotary%2C+Hyannis%2C+MA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

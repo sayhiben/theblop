@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:a2163d0b-4778-4049-97c0-3de7eb6cc809
+UID:3afbc5fe-6948-4016-834b-90368e153224
 SEQUENCE:0
-DTSTAMP:20250313T031819Z
-DTSTART:20250315T120000
-DTEND:20250315T160000
+DTSTAMP:20250314T072603Z
+DTSTART:20250315T190000
+DTEND:20250315T210000
 SUMMARY:Protest to Protect Our Public Lands
 LOCATION:National Mall\, Washington\, DC
 DESCRIPTION:Join us to stand up for public lands and employees\, showing s
@@ -14,5 +14,6 @@ DESCRIPTION:Join us to stand up for public lands and employees\, showing s
  all to advocate for these important causes.\n\nLincoln Memorial
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=National+Mal
  l%2C+Washington%2C+DC&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

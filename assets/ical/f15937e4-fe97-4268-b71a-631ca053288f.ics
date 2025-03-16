@@ -2,18 +2,19 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:ad85a8eb-cfbb-4780-9ed5-d56447a59544
+UID:1bbb5388-b3f3-4a22-ae39-5582c464a4aa
 SEQUENCE:0
-DTSTAMP:20250313T031819Z
-DTSTART:20250315T093000
-DTEND:20250315T133000
+DTSTAMP:20250314T072603Z
+DTSTART:20250315T163000
+DTEND:20250315T183000
 SUMMARY:Tesla Dealership Protest
 LOCATION:5081 N Oracle Rd\, Tucson\, AZ
-DESCRIPTION:Join us for the largest protest to date in front of the Tesla 
- dealership. We aim to gather at the corners of Oracle and River roads to e
- nsure a balanced number of protesters. Help spread the word and stand toge
- ther with us.\n\nTesla Dealership
+DESCRIPTION:Join us for the biggest protest yet at the Tesla dealership to
+  make our voices heard. We encourage everyone to distribute evenly across 
+ corners for maximum impact. Plenty of parking options are available nearby
+ .\n\nTesla Dealership
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=5081+N+Oracl
  e+Rd%2C+Tucson%2C+AZ&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

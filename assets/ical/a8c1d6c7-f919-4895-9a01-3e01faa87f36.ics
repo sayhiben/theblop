@@ -2,17 +2,19 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:9e8f02bc-2c60-4b1a-991f-a1f0c13f5514
+UID:a83f0889-c912-4f8a-9846-2f84c66c8dfe
 SEQUENCE:0
-DTSTAMP:20250311T090339Z
-DTSTART:20250313T170000
-DTEND:20250313T210000
+DTSTAMP:20250314T065639Z
+DTSTART:20250314T000000
+DTEND:20250314T020000
 SUMMARY:Online Workshop-Making & Deploying Giant Freeway Overpass Banners
+LOCATION:\, Nationwide\, Nationwide
 DESCRIPTION:Join us for an online workshop to learn how to make and deploy
   free banners effectively. We will cover materials\, banner rigging\, and 
  deployment strategies. This event is organized by Backbone Campaign to ins
  pire community engagement and action.\n\nOnline
-URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=&zoom=15&bas
- emap=roadmap
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+Nationwi
+ de%2C+Nationwide&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

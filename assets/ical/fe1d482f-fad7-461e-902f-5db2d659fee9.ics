@@ -2,16 +2,17 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:728fb09a-d3c1-4de4-aea2-fe9fcc7d31c2
+UID:821ea319-b46f-4cc5-8f40-14778cb6ce8a
 SEQUENCE:0
-DTSTAMP:20250312T090406Z
-DTSTART:20250315T140000
-DTEND:20250315T180000
+DTSTAMP:20250314T072603Z
+DTSTART:20250315T210000
+DTEND:20250315T230000
 SUMMARY:Musk/Trump Protest @ Colma Tesla
 LOCATION:1500 Collins Ave.\, Colma\, CA
 DESCRIPTION:We are taking action at Tesla. Sell your Teslas\, dump your st
  ock\, join the picket lines.\n\nTesla dealership
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=1500+Collins
  +Ave.%2C+Colma%2C+CA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

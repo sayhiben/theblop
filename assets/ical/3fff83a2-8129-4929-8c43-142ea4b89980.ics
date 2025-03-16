@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:82c35926-d26f-4fbd-a297-930469f5db09
+UID:263f2e58-f5de-4bd2-8a22-ab8da77426f7
 SEQUENCE:0
-DTSTAMP:20250311T023757Z
-DTSTART:20250315T110000
-DTEND:20250315T150000
+DTSTAMP:20250314T072603Z
+DTSTART:20250315T180000
+DTEND:20250315T200000
 SUMMARY:The People's Movement
 LOCATION:411 West Ocean Blvd\, Long Beach\, CA
 DESCRIPTION:We are gathering to unite against oppression and dictatorship.
@@ -15,5 +15,6 @@ DESCRIPTION:We are gathering to unite against oppression and dictatorship.
  ach
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=411+West+Oce
  an+Blvd%2C+Long+Beach%2C+CA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:2d7140df-3d5b-4369-808f-71a0821d66b7
+UID:bd7be44b-c3ab-4cb7-bd02-25ee4f75c934
 SEQUENCE:0
-DTSTAMP:20250313T000603Z
-DTSTART:20250315T120000
-DTEND:20250315T160000
+DTSTAMP:20250314T072603Z
+DTSTART:20250315T190000
+DTEND:20250315T210000
 SUMMARY:Walnut Creek - Tesla Takedown Protest
 LOCATION:1246 Broadway Plaza #1094\, Walnut Creek\, CA
 DESCRIPTION:Join us every Saturday at the Walnut Creek Tesla showroom to p
@@ -15,5 +15,6 @@ DESCRIPTION:Join us every Saturday at the Walnut Creek Tesla showroom to p
  Walnut Creek Tesla showroom
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=1246+Broadwa
  y+Plaza+%231094%2C+Walnut+Creek%2C+CA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

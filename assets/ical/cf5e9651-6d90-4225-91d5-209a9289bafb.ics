@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:fa4fc455-5172-48ce-9a3f-547a6b66827b
+UID:21764642-1a03-49f5-a633-e114246b1cc4
 SEQUENCE:0
-DTSTAMP:20250307T172420Z
-DTSTART:20250317T143000
-DTEND:20250317T183000
+DTSTAMP:20250314T072603Z
+DTSTART:20250317T213000
+DTEND:20250317T233000
 SUMMARY:Protest in Mesa AZ in front of Andy Biggs Office
 LOCATION:2509 S Power Rd. #204\, Superstition Plaza\, Mesa\, AZ 85209
 DESCRIPTION:Join us to protest against Rep. Andy Biggs and his policies.\n
@@ -14,5 +14,6 @@ DESCRIPTION:Join us to protest against Rep. Andy Biggs and his policies.\n
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=2509+S+Power
  +Rd.+%23204%2C+Superstition+Plaza%2C+Mesa%2C+AZ+85209&zoom=15&basemap=road
  map
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

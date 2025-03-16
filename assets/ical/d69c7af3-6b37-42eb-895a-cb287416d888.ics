@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:b79835b3-834d-4064-bc4a-e01b31b94f8f
+UID:1a34fcac-484f-493e-b05c-407b00e373ce
 SEQUENCE:0
-DTSTAMP:20250313T031818Z
-DTSTART:20250315T110000
-DTEND:20250315T150000
+DTSTAMP:20250314T072603Z
+DTSTART:20250315T180000
+DTEND:20250315T200000
 SUMMARY:Tesla Takedown Dance Party
 LOCATION:3307 M St NW\, Washington\, DC
 DESCRIPTION:Join us as we oppose this Hostile Government Takedown from the
@@ -15,5 +15,6 @@ DESCRIPTION:Join us as we oppose this Hostile Government Takedown from the
  lives and our freedoms.\n\nTesla Showroom Georgetown
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=3307+M+St+NW
  %2C+Washington%2C+DC&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

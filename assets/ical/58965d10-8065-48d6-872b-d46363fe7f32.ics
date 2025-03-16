@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:7235bd8f-b306-49c6-ae44-c563a4ec41e7
+UID:986c5520-536f-418d-8a25-23aa512e773a
 SEQUENCE:0
-DTSTAMP:20250313T031818Z
-DTSTART:20250315T110000
-DTEND:20250315T150000
+DTSTAMP:20250314T072603Z
+DTSTART:20250315T180000
+DTEND:20250315T200000
 SUMMARY:#TeslaTakedown - Omaha and Council Bluffs
 LOCATION:2421 Mid America Dr.\, Council Bluffs\, IA
 DESCRIPTION:We are organizing a protest titled "#TeslaTakedown" to encoura
@@ -15,5 +15,6 @@ DESCRIPTION:We are organizing a protest titled "#TeslaTakedown" to encoura
  sla Council Bluffs
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=2421+Mid+Ame
  rica+Dr.%2C+Council+Bluffs%2C+IA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

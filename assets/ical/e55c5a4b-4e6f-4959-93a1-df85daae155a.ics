@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:8243c0d0-4ce5-421b-afcf-86545b1d2f68
+UID:64da7ff4-44fe-4777-bb58-9501e1d02cc8
 SEQUENCE:0
-DTSTAMP:20250312T203050Z
-DTSTART:20250329T120000
-DTEND:20250329T160000
+DTSTAMP:20250314T072603Z
+DTSTART:20250329T190000
+DTEND:20250329T210000
 SUMMARY:General Protest
 LOCATION:Damariscotta-Newcastle bridge\, Bus US Rt1\, Damariscotta\, ME
 DESCRIPTION:We invite you to join us for a general protest at the Damarisc
@@ -15,5 +15,6 @@ DESCRIPTION:We invite you to join us for a general protest at the Damarisc
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Damariscotta
  -Newcastle+bridge%2C+Bus+US+Rt1%2C+Damariscotta%2C+ME&zoom=15&basemap=road
  map
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

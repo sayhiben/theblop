@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:518eb5dc-03fc-41e7-b474-cb25c7a483c2
+UID:bd8597e2-449d-4a99-8a61-eff6eabcc680
 SEQUENCE:0
-DTSTAMP:20250312T180257Z
-DTSTART:20250318T110000
-DTEND:20250318T150000
+DTSTAMP:20250314T072603Z
+DTSTART:20250318T180000
+DTEND:20250318T200000
 SUMMARY:Akron Stop The War on America's Workforce with Congresswoman Emili
  a Sykes
 LOCATION:55 W Waterloo Rd\, Akron\, OH
@@ -16,5 +16,6 @@ DESCRIPTION:Join us for a rally to stop the war on America's workforce\, f
  utside the VA
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=55+W+Waterlo
  o+Rd%2C+Akron%2C+OH&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

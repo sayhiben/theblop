@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:80e394f8-36e3-46e4-a740-dc3501c225e5
+UID:9e3a8d9e-9057-4a06-951a-793877c19789
 SEQUENCE:0
-DTSTAMP:20250313T031819Z
-DTSTART:20250322T140000
-DTEND:20250322T180000
+DTSTAMP:20250314T072603Z
+DTSTART:20250322T210000
+DTEND:20250322T230000
 SUMMARY:Clermont Tesla Takedown
 LOCATION:16775 SR-50 West\, Clermont\, FL
 DESCRIPTION:We are taking action at Tesla. Join us at the Clermont showroo
@@ -17,5 +17,6 @@ DESCRIPTION:We are taking action at Tesla. Join us at the Clermont showroo
  emocracy.\n\nTesla Showroom
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=16775+SR-50+
  West%2C+Clermont%2C+FL&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

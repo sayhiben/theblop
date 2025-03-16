@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:efc890ca-6694-49e2-9636-ad92bf1f483c
+UID:3730d37d-a81c-4fbd-8ca0-5258d03eedb3
 SEQUENCE:0
-DTSTAMP:20250310T235109Z
-DTSTART:20250405T120000
-DTEND:20250405T160000
+DTSTAMP:20250314T072603Z
+DTSTART:20250405T190000
+DTEND:20250405T210000
 SUMMARY:National Day of Protest
 LOCATION:Utah State Capitol\, Salt Lake City\, UT
 DESCRIPTION:Remove Trump\, Vance and Cabinet Officials. Reverse Executive 
@@ -14,5 +14,6 @@ DESCRIPTION:Remove Trump\, Vance and Cabinet Officials. Reverse Executive
  he people.\n\n
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Utah+State+C
  apitol%2C+Salt+Lake+City%2C+UT&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

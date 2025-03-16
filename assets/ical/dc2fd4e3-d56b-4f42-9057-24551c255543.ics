@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:b60c0210-678f-4e6b-ba04-46692f129b26
+UID:11bfd27c-0002-4384-b1a6-81e039fdf8cd
 SEQUENCE:0
-DTSTAMP:20250313T031818Z
-DTSTART:20250315T110000
-DTEND:20250315T150000
+DTSTAMP:20250314T072603Z
+DTSTART:20250315T180000
+DTEND:20250315T200000
 SUMMARY:Tesla Takedown Saturdays - Dedham
 LOCATION:840 Providence Hwy\, Dedham\, MA 02026 US
 DESCRIPTION:We are organizing a non-violent protest against Tesla. Sell yo
@@ -15,5 +15,6 @@ DESCRIPTION:We are organizing a non-violent protest against Tesla. Sell yo
  Tesla Dedham
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=840+Providen
  ce+Hwy%2C+Dedham%2C+MA+02026+US&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

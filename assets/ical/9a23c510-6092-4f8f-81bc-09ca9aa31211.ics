@@ -2,16 +2,16 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:cbbd279c-5d4c-44c5-ba54-8f2b8a18b77c
+UID:e07a6888-d2c1-4172-84fd-707aad64e3d8
 SEQUENCE:0
-DTSTAMP:20250304T061224Z
-DTSTART:20250322T170000
-DTEND:20250322T210000
+DTSTAMP:20250314T072603Z
+DTSTART:20250323T000000
+DTEND:20250323T020000
 SUMMARY:Mexicans Ain't Going Anywhere
-LOCATION:1600 Pacific Highway\, Downtown New Braunfels\, TX
-DESCRIPTION:Join us to make clear that fascism is not welcome here and tha
- t we will resist Trump's immoral agenda.\n\nWaterfront Park
-URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=1600+Pacific
- +Highway%2C+Downtown+New+Braunfels%2C+TX&zoom=15&basemap=roadmap
+LOCATION:\, Downtown New Braunfels\, TX
+DESCRIPTION:\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+Downtown
+ +New+Braunfels%2C+TX&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

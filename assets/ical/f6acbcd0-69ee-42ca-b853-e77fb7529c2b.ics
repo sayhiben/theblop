@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:03f29287-57fa-4ca1-a95f-6538b1eaeb13
+UID:0b6e7ed2-0b66-48da-bc8f-90abe29ee6ba
 SEQUENCE:0
-DTSTAMP:20250311T043711Z
-DTSTART:20250329T110000
-DTEND:20250329T150000
+DTSTAMP:20250314T072603Z
+DTSTART:20250329T180000
+DTEND:20250329T200000
 SUMMARY:Non-Violent Protest Against Victoria Spartz's Town Hall
 LOCATION:Muncie City Hall\, Muncie\, IN
 DESCRIPTION:A non-violent protest against Victoria Spartz's town hall meet
@@ -14,5 +14,6 @@ DESCRIPTION:A non-violent protest against Victoria Spartz's town hall meet
  Hall
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Muncie+City+
  Hall%2C+Muncie%2C+IN&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

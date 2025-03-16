@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:90c12483-51b5-4282-bfb0-a314c0837386
+UID:ed85ba46-5135-4359-9424-e2b60ea28176
 SEQUENCE:0
-DTSTAMP:20250313T201359Z
-DTSTART:20250315T150000
-DTEND:20250315T190000
+DTSTAMP:20250314T072603Z
+DTSTART:20250315T220000
+DTEND:20250316T000000
 SUMMARY:Corruption Destroys\, Community Builds
 LOCATION:Federal Building & U.S. Courthouse\, Footsteps of 517 E Wisconsin
   Ave\, Milwaukee\, WI
@@ -18,5 +18,6 @@ DESCRIPTION:We are organizing a nationwide protest on March 15 across all
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Federal+Buil
  ding+%26+U.S.+Courthouse%2C+Footsteps+of+517+E+Wisconsin+Ave%2C+Milwaukee%
  2C+WI&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

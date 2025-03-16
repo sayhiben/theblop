@@ -2,16 +2,17 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:1cb1a091-d372-460b-bc28-76b6a184cd0b
+UID:4e0af8da-9d6a-409d-baea-5e9be9578aca
 SEQUENCE:0
-DTSTAMP:20250306T175339Z
-DTSTART:20250320T100000
-DTEND:20250320T140000
+DTSTAMP:20250314T072603Z
+DTSTART:20250320T170000
+DTEND:20250320T190000
 SUMMARY:Stand Strong Speak Up
 LOCATION:1636 N Swan Road. Suite 200\, Tucson\, AZ
 DESCRIPTION:Tell CISCOMANI to do his job\, and protect the Constitution!\n
  \nCongressman Juan Ciscomani's Office
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=1636+N+Swan+
  Road.+Suite+200%2C+Tucson%2C+AZ&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

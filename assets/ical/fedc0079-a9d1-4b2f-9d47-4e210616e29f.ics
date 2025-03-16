@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:1e3e52a3-2111-4337-8c95-cf92fde9e0d2
+UID:a4ddf97e-6d8e-4160-9c24-73a35820643e
 SEQUENCE:0
-DTSTAMP:20250305T044916Z
-DTSTART:20250320T130000
-DTEND:20250320T170000
+DTSTAMP:20250314T072603Z
+DTSTART:20250320T200000
+DTEND:20250320T220000
 SUMMARY:PROTEST to save Medicaid\, Medicare\, Obamacare\, and Social Secur
  ity
 LOCATION:@5725 SW 8th St\, Miami\, FL
@@ -14,5 +14,6 @@ DESCRIPTION:Join us in a peaceful protest against cuts to essential health
  care programs. Let's protect our rights and services!\n\nDowntown Miami
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%405725+SW+8
  th+St%2C+Miami%2C+FL&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

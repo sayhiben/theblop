@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:b0796f03-d659-4595-9f4c-f2633e45aaee
+UID:ffa2b8e2-e15d-4b24-802e-762c9667b366
 SEQUENCE:0
-DTSTAMP:20250313T000603Z
-DTSTART:20250315T113000
-DTEND:20250315T153000
+DTSTAMP:20250314T072603Z
+DTSTART:20250315T183000
+DTEND:20250315T203000
 SUMMARY:San Mateo - Peace and Justice in Kevin Mullin's District
 LOCATION:1528 S El Camino Real UNIT 307\, San Mateo\, CA
 DESCRIPTION:Join Peace Action of San Mateo County for a vigil protesting t
@@ -15,5 +15,6 @@ DESCRIPTION:Join Peace Action of San Mateo County for a vigil protesting t
  \n
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=1528+S+El+Ca
  mino+Real+UNIT+307%2C+San+Mateo%2C+CA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:da5baa2b-5311-40b3-aef5-28cd3c5ca8cb
+UID:5b3252a8-5f89-411e-8e50-ebccc3939c03
 SEQUENCE:0
-DTSTAMP:20250311T090339Z
-DTSTART:20250315T110000
-DTEND:20250315T150000
+DTSTAMP:20250314T072603Z
+DTSTART:20250315T180000
+DTEND:20250315T200000
 SUMMARY:STOP Project 2025\, FIGHT for DEMOCRACY
 LOCATION:In front of Roosevelt County Courthouse\, Portales\, New Mexico 8
  8130\, Portales\, NM
@@ -16,5 +16,6 @@ DESCRIPTION:We are protesting for democracy and standing against Project 2
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=In+front+of+
  Roosevelt+County+Courthouse%2C+Portales%2C+New+Mexico+88130%2C+Portales%2C
  +NM&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

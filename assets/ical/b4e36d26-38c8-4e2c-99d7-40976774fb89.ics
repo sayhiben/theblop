@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:5c4b08bd-7325-4db8-9a39-b385758427a0
+UID:b3016851-a91e-4b91-a718-d875be3352af
 SEQUENCE:0
-DTSTAMP:20250312T090406Z
-DTSTART:20250329T120000
-DTEND:20250329T160000
+DTSTAMP:20250314T072603Z
+DTSTART:20250329T190000
+DTEND:20250329T210000
 SUMMARY:Berkeley Tesla Protest
 LOCATION:1731 4th St\, Berkeley\, CA
 DESCRIPTION:We are taking action at Tesla to protest Elon Musk and his ill
@@ -14,5 +14,6 @@ DESCRIPTION:We are taking action at Tesla to protest Elon Musk and his ill
  re
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=1731+4th+St%
  2C+Berkeley%2C+CA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

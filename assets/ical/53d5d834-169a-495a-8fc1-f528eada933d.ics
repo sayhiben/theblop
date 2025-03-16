@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:f9481002-cfc1-4888-8053-d8bbff30de0b
+UID:862d24ff-f883-4c01-8151-8464c6e942c7
 SEQUENCE:0
-DTSTAMP:20250312T090406Z
-DTSTART:20250314T120000
-DTEND:20250314T160000
+DTSTAMP:20250314T072603Z
+DTSTART:20250314T190000
+DTEND:20250314T210000
 SUMMARY:Veteran's March
 LOCATION:\, Salem\, OR
 DESCRIPTION:Join us for the Veteran's March event in Salem\, Oregon\, as w
@@ -14,5 +14,6 @@ DESCRIPTION:Join us for the Veteran's March event in Salem\, Oregon\, as w
   at the intersection of Center and Summer Streets
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+Salem%2C
  +OR&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

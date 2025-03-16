@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:455eb0ac-6ef0-411c-9ebd-213529673054
+UID:d2a5e541-a771-4d03-a6c9-a929f346f2c6
 SEQUENCE:0
-DTSTAMP:20250313T031819Z
-DTSTART:20250322T120000
-DTEND:20250322T160000
+DTSTAMP:20250314T072603Z
+DTSTART:20250322T190000
+DTEND:20250322T210000
 SUMMARY:Party Bus to the Tesla Dealership
 LOCATION:2955 Market St\, Philadelphia\, PA
 DESCRIPTION:We're taking a Party Bus to the #TeslaTakedown at the Cherry H
@@ -14,5 +14,6 @@ DESCRIPTION:We're taking a Party Bus to the #TeslaTakedown at the Cherry H
  th Street Station
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=2955+Market+
  St%2C+Philadelphia%2C+PA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

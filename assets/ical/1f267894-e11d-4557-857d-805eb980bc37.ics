@@ -2,16 +2,17 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:3734bfb3-e76b-488c-9a32-29df580c6165
+UID:7875291c-4b58-4aed-8323-b5031b2402f7
 SEQUENCE:0
-DTSTAMP:20250311T043711Z
-DTSTART:20250323T130000
-DTEND:20250323T170000
+DTSTAMP:20250314T072603Z
+DTSTART:20250323T200000
+DTEND:20250323T220000
 SUMMARY:Hell No To Dismantling the Postal Service
 LOCATION:1199 Capitol Way S\, Olympia\, WA 98501
 DESCRIPTION:Stand with letter carriers. Rally to save USPS.\n\nTivoli Foun
  tain (Front of Capitol Building)
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=1199+Capitol
  +Way+S%2C+Olympia%2C+WA+98501&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

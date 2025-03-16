@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:d683ec39-02e9-4f82-bad3-531db0287ba5
+UID:6ce0ed68-255c-460a-944a-f9a4997b044f
 SEQUENCE:0
-DTSTAMP:20250313T031819Z
-DTSTART:20250329T130000
-DTEND:20250329T170000
+DTSTAMP:20250314T072603Z
+DTSTART:20250329T200000
+DTEND:20250329T220000
 SUMMARY:Tesla Takedown Camarillo
 LOCATION:311 E Daily Dr.\, Camarillo\, CA
 DESCRIPTION:We are taking action against Tesla by selling Teslas\, dumping
@@ -15,5 +15,6 @@ DESCRIPTION:We are taking action against Tesla by selling Teslas\, dumping
  re's a call for public participation.\n\nTesla Dealership
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=311+E+Daily+
  Dr.%2C+Camarillo%2C+CA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

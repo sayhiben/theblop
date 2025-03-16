@@ -2,17 +2,18 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:ebf68b02-5e8e-4e34-86ad-b211adcc3209
+UID:73e82873-5173-4d0b-96c1-2c2a34d02561
 SEQUENCE:0
-DTSTAMP:20250310T180824Z
-DTSTART:20250501T000000
-DTEND:20250501T040000
+DTSTAMP:20250314T072603Z
+DTSTART:20250501T070000
+DTEND:20250501T090000
 SUMMARY:Camp Mayday: A Vision of Protest\, Art\, and Change
-LOCATION:1600 N. Capitol St.\, National Mall Washington\, D.C.\, 
+LOCATION:1600 N. Capitol St.\, Washington\, DC\, DC
 DESCRIPTION:Daily Public Demonstrations Art as Resistance IMPEACH AND REMO
  VE Donald J. Trump is impeached\, convicted\, and removed from office.\n\n
  National Mall in Washington\, DC
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=1600+N.+Capi
- tol+St.%2C+National+Mall+Washington%2C+D.C.%2C+&zoom=15&basemap=roadmap
+ tol+St.%2C+Washington%2C+DC%2C+DC&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

@@ -2,16 +2,17 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:3fa5c0cb-753f-4c50-956e-9bb23879a7e5
+UID:02dc63ef-bb6e-4ea7-9356-e375d83e92d7
 SEQUENCE:0
-DTSTAMP:20250305T002608Z
-DTSTART:20250329T150000
-DTEND:20250329T190000
+DTSTAMP:20250314T072603Z
+DTSTART:20250329T190000
+DTEND:20250329T210000
 SUMMARY:Protest for Human Rights and Freedoms
 LOCATION:Court House\, Mount Vernon\, WA
 DESCRIPTION:Join us with your signs in front of the Mount Vernon WA Court 
  House Saturday\, March 29th from Noon-3pm\n\nMount Vernon WA Court House
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Court+House%
  2C+Mount+Vernon%2C+WA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

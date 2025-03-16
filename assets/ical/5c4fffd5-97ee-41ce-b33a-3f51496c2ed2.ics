@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:14cc4b89-a4ba-43ee-b3e9-c5effac27fd8
+UID:fb5c0494-d7d4-4b75-a62f-c5ca65e6e067
 SEQUENCE:0
-DTSTAMP:20250312T060241Z
-DTSTART:20250315T120000
-DTEND:20250315T160000
+DTSTAMP:20250314T072603Z
+DTSTART:20250315T190000
+DTEND:20250315T210000
 SUMMARY:The People's Movement
 LOCATION:Dealey Plaza\, Dallas\, TX
 DESCRIPTION:We invite everyone to join a peaceful protest at Dealey Plaza 
@@ -14,5 +14,6 @@ DESCRIPTION:We invite everyone to join a peaceful protest at Dealey Plaza
  dation of any kind will not be tolerated.\n\nDealey Plaza
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Dealey+Plaza
  %2C+Dallas%2C+TX&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

@@ -2,16 +2,16 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:e210176c-5af9-418b-a012-8470a35a6418
+UID:3e66d8c3-a303-42fb-a8d4-1bb4fe97101f
 SEQUENCE:0
-DTSTAMP:20250306T175339Z
-DTSTART:20250330T130000
-DTEND:20250330T170000
+DTSTAMP:20250314T072603Z
+DTSTART:20250330T200000
+DTEND:20250330T220000
 SUMMARY:Fight for Trans Rights
-LOCATION:Federal Plaza\, Chicago
-DESCRIPTION:Protest by Trans Up Front and endorsed by: OWMCL Chicago\n\n1:
- 00 PM
+LOCATION:Federal Plaza\, Chicago\, Chicago\, IL
+DESCRIPTION:Protest by Trans Up Front and endorsed by: OWMCL Chicago\n\n
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Federal+Plaz
- a%2C+Chicago&zoom=15&basemap=roadmap
+ a%2C+Chicago%2C+Chicago%2C+IL&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

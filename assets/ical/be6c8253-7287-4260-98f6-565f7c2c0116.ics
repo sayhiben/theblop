@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:96dca5b3-23a2-4205-9915-d93f7a76bfaf
+UID:789d69ea-f21e-4a49-bbf2-179c493beac4
 SEQUENCE:0
-DTSTAMP:20250313T031818Z
-DTSTART:20250315T110000
-DTEND:20250315T150000
+DTSTAMP:20250314T072603Z
+DTSTART:20250315T180000
+DTEND:20250315T200000
 SUMMARY:TeslaTakedown Tysons
 LOCATION:8500 Tyco Road\, Tysons Corner\, VA
 DESCRIPTION:We invite you to join our protest event against Tesla\, titled
@@ -15,5 +15,6 @@ DESCRIPTION:We invite you to join our protest event against Tesla\, titled
  wn\, and Arlington.\n\nTysons Corner Tesla
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=8500+Tyco+Ro
  ad%2C+Tysons+Corner%2C+VA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

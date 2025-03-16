@@ -2,19 +2,20 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:9d7f6cd1-16f7-4158-b5b3-bee6eaf0a1d1
+UID:b368c3e8-499c-41da-9375-0d1ec7b062ff
 SEQUENCE:0
-DTSTAMP:20250312T180257Z
-DTSTART:20250322T000000
-DTEND:20250322T040000
+DTSTAMP:20250314T072603Z
+DTSTART:20250322T070000
+DTEND:20250322T090000
 SUMMARY:Town Hall Meeting
-LOCATION:\, \, AL
+LOCATION:\, TBD\, AL
 DESCRIPTION:We invite you to a Town Hall Meeting to discuss the impacts of
   D.O.G.E. and the administration’s Executive Orders on the North Alabama
   Community. Dale Strong\, the Alabama CD 5 Representative\, will be presen
  t. Join us to show your support\, voice your concerns\, and collaborate wi
  th your community.\n\nLocation to be finalized
-URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+%2C+AL&z
- oom=15&basemap=roadmap
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+TBD%2C+A
+ L&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

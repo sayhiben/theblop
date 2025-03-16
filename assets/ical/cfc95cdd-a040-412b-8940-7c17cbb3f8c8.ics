@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:9860c7ef-c2ae-4708-98be-729848303b63
+UID:ca8c96d9-ce9d-476a-bd63-10f4171d65cf
 SEQUENCE:0
-DTSTAMP:20250312T180257Z
-DTSTART:20250315T000000
-DTEND:20250315T040000
+DTSTAMP:20250314T072603Z
+DTSTART:20250315T070000
+DTEND:20250315T090000
 SUMMARY:#SHUTDOWN315
 LOCATION:\, Nationwide\, Nationwide
 DESCRIPTION:We are organizing a total shutdown on March 15\, 2025\, to hal
@@ -14,5 +14,6 @@ DESCRIPTION:We are organizing a total shutdown on March 15\, 2025\, to hal
   a display of national unity and power to enforce change.\n\n
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+Nationwi
  de%2C+Nationwide&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

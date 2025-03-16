@@ -2,16 +2,17 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:e41cca72-d994-44d9-aabe-4b7f821e38f4
+UID:5fa1ee05-a82a-4b02-82a8-fd5934eae83e
 SEQUENCE:0
-DTSTAMP:20250309T044646Z
-DTSTART:20250314T140000
-DTEND:20250314T180000
+DTSTAMP:20250314T072603Z
+DTSTART:20250314T210000
+DTEND:20250314T230000
 SUMMARY:Stop the Coup
 LOCATION:1600 Pennsylvania Avenue NW\, Washington\, D.C.\, DC
 DESCRIPTION:Capitol protest against our unconstitutional government.\n\nUn
  ited States Capitol
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=1600+Pennsyl
  vania+Avenue+NW%2C+Washington%2C+D.C.%2C+DC&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

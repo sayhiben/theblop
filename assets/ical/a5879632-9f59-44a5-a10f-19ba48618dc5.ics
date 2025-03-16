@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:f667a967-0fa0-45a0-bfce-e6918242ef3e
+UID:e05a3a35-a4f5-47f8-bfc2-7eb579d1bf51
 SEQUENCE:0
-DTSTAMP:20250312T090406Z
-DTSTART:20250313T073000
-DTEND:20250313T113000
+DTSTAMP:20250314T065639Z
+DTSTART:20250313T143000
+DTEND:20250313T163000
 SUMMARY:Protest and Rally at Rep. Kiggans Breakfast
 LOCATION:4201 Atlantic Ave\, Virginia Beach\, VA
 DESCRIPTION:Join us for a protest and rally organized by volunteers at the
@@ -14,5 +14,6 @@ DESCRIPTION:Join us for a protest and rally organized by volunteers at the
  change.\n\nMarriott Virginia Beach Oceanfront Resort
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=4201+Atlanti
  c+Ave%2C+Virginia+Beach%2C+VA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

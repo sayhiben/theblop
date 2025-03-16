@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:6106d79b-208c-4568-9321-84c2a3d45820
+UID:262df08c-bf58-4e36-a0db-ee81cca667b7
 SEQUENCE:0
-DTSTAMP:20250313T031818Z
-DTSTART:20250315T100000
-DTEND:20250315T140000
+DTSTAMP:20250314T072603Z
+DTSTART:20250315T170000
+DTEND:20250315T190000
 SUMMARY:Tesla Takedown SLU Saturday morning picket
 LOCATION:435 Westlake Ave N\, Seattle\, WA
 DESCRIPTION:We are taking action against Tesla. Sell your Teslas\, dump yo
@@ -14,5 +14,6 @@ DESCRIPTION:We are taking action against Tesla. Sell your Teslas\, dump yo
  ch will help save lives and our democracy.\n\nTesla SLU Showroom
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=435+Westlake
  +Ave+N%2C+Seattle%2C+WA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

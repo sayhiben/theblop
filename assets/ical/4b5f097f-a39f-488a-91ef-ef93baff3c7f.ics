@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:576ab1cf-052d-4504-a56d-b80637ca7457
+UID:79b0c7b4-e0ca-44b3-9e6d-913b8f471d77
 SEQUENCE:0
-DTSTAMP:20250312T203050Z
-DTSTART:20250328T160000
-DTEND:20250328T200000
+DTSTAMP:20250314T072603Z
+DTSTART:20250328T230000
+DTEND:20250329T010000
 SUMMARY:Stop the Coup Protest
 LOCATION:160 Main St.\, Biddeford\, ME
 DESCRIPTION:We're organizing a protest against the coup\, held at Senator 
@@ -15,5 +15,6 @@ DESCRIPTION:We're organizing a protest against the coup\, held at Senator
  ry Friday.\n\nSenator Susan Collins' office
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=160+Main+St.
  %2C+Biddeford%2C+ME&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

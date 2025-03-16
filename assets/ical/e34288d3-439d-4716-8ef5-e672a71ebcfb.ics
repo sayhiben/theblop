@@ -2,16 +2,17 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:1458d1ce-a045-492b-9ab5-db6cb97758d4
+UID:bd96919d-435e-4889-9d80-f20e2db0c126
 SEQUENCE:0
-DTSTAMP:20250313T201358Z
-DTSTART:20250314T170000
-DTEND:20250314T210000
+DTSTAMP:20250314T072603Z
+DTSTART:20250315T000000
+DTEND:20250315T020000
 SUMMARY:Rally for Messiah Nantwi
 LOCATION:100 Centre St.\, Manhattan\, NY
 DESCRIPTION:Join us to rally for justice for Messiah Nantwi and Robert Bro
  oks\, and stand against the construction of new prisons in New York.\n\n
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=100+Centre+S
  t.%2C+Manhattan%2C+NY&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

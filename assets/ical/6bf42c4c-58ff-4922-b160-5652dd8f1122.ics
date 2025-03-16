@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:e734b775-7144-4ded-b12d-278016e8de31
+UID:20da9da4-558f-4b93-986f-fdf949f3d944
 SEQUENCE:0
-DTSTAMP:20250312T090406Z
-DTSTART:20250318T080000
-DTEND:20250318T120000
+DTSTAMP:20250314T072603Z
+DTSTART:20250318T150000
+DTEND:20250318T170000
 SUMMARY:Breakfast with Bernie Moreno Protest
 LOCATION:4435 Dogwood Trail\, Kettering\, OH
 DESCRIPTION:We are organizing a protest titled 'Breakfast with Bernie More
@@ -14,5 +14,6 @@ DESCRIPTION:We are organizing a protest titled 'Breakfast with Bernie More
  stay off country club property\, and park on public streets.\n\n
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=4435+Dogwood
  +Trail%2C+Kettering%2C+OH&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

@@ -14,67 +14,6 @@ function escapeAttr(str = '') {
     .replace(/\n/g, '\\n');
 }
 
-function formatLocalDateTime(event) {
-  // Convert event.Date + event.Time to a dayjs object without .utc().
-  // We assume "YYYY-MM-DD" and "HH:mm" formats from your data
-  const localDateTime = dayjs(`${event.Date} ${event.Time}`, 'YYYY-MM-DD HH:mm');
-  // if you want a 1-hour end, you can do localDateTime.add(1,'hour') for end
-  return localDateTime;
-}
-
-/**
- * Return start/end in 'YYYYMMDDTHHmmss' (no Z) for Google/Yahoo
- */
-function getFloatingStartEndForGoogle(event) {
-  const start = formatLocalDateTime(event);
-  const end = start.add(1, 'hour'); // or however you want the end
-  const startStr = start.format('YYYYMMDDTHHmmss');  // no [Z]
-  const endStr = end.format('YYYYMMDDTHHmmss');      // no [Z]
-  return [startStr, endStr];
-}
-
-/**
- * Return start/end in 'YYYY-MM-DDTHH:mm:ss' (no Z) for Outlook
- */
-function getFloatingStartEndForOutlook(event) {
-  const start = formatLocalDateTime(event);
-  const end = start.add(1, 'hour');
-  const startStr = start.format('YYYY-MM-DDTHH:mm:ss'); // no Z
-  const endStr = end.format('YYYY-MM-DDTHH:mm:ss');
-  return [startStr, endStr];
-}
-
-function getGoogleCalendarLink(event) {
-  const [startLocal, endLocal] = getFloatingStartEndForGoogle(event);
-  const title = encodeURIComponent(event.Title || 'Untitled Event');
-  const details = encodeURIComponent(event.Description || '');
-  const location = encodeURIComponent(`${event.Address || ''}, ${event.City || ''}, ${event.State || ''}`);
-  // No &ctz param and no Z in dates => "floating" times
-  return `https://calendar.google.com/calendar/render?action=TEMPLATE&text=${title}&dates=${startLocal}/${endLocal}&details=${details}&location=${location}`;
-}
-
-function getOutlookCalendarLink(event) {
-  const [startLocal, endLocal] = getFloatingStartEndForOutlook(event);
-  const title = encodeURIComponent(event.Title || 'Untitled Event');
-  const details = encodeURIComponent(event.Description || '');
-  const location = encodeURIComponent(`${event.Address || ''}, ${event.City || ''}, ${event.State || ''}`);
-
-  // Outlook without trailing 'Z' => floating local time
-  return `https://outlook.office.com/calendar/0/deeplink/compose?path=/calendar/action/compose&rru=addevent` +
-    `&startdt=${startLocal}&enddt=${endLocal}&subject=${title}&body=${details}&location=${location}`;
-}
-
-function getYahooCalendarLink(event) {
-  const [startLocal, endLocal] = getFloatingStartEndForGoogle(event);
-  // we can reuse the Google format for Yahoo 
-  const title = encodeURIComponent(event.Title || 'Untitled Event');
-  const details = encodeURIComponent(event.Description || '');
-  const location = encodeURIComponent(`${event.Address || ''}, ${event.City || ''}, ${event.State || ''}`);
-
-  // Yahoo with no 'Z' => floating local time
-  return `https://calendar.yahoo.com/?v=60&title=${title}&st=${startLocal}&et=${endLocal}&desc=${details}&in_loc=${location}`;
-}
-
 export function EventCard({ event, dateKey, baseAssetPath }) {
   const eventTitle = event.Title || 'Untitled Event';
   const displayDatetime = `${event.Date} ${event.Time}`;
@@ -242,7 +181,7 @@ Description: ${event.Description}
         </div>
 
         <div className="overflow-clip flex justify-end p-1">
-          <div className="w-50 inline-flex p-2">
+          <div className="w-60 inline-flex p-2">
             {/* Report button */}
             <a
               className="cursor-pointer text-gray-400 dark:text-stone-300 hover:text-blue-600 dark:hover:text-blue-400 text-sm font-medium px-2 py-2 inline-flex space-x-1 items-center"
@@ -267,68 +206,17 @@ Description: ${event.Description}
               </svg>
             </a>
             {/* Add to calendar button */}
-{/* 
-            <div className="relative inline-block text-left">
-              <button
-                type="button"
-                className="add-to-calendar cursor-pointer text-gray-400 hover:text-blue-600
-           text-sm font-medium px-2 py-2 inline-flex items-center"
-                title="Add to calendar"
-                id={`event-cal-button-${event.UUID}`}
-                data-menu-id={`event-cal-menu-${event.UUID}`}
-              >
-                <svg fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round"
-                  strokeLinejoin="round" viewBox="0 0 24 24" className="w-5 h-5">
-                  <path d="M21 8H3M16 2V5M8 2V5M12 18V12M9 15H15M7.8 22H16.2C17.8802 22 
-               18.7202 22 19.362 21.673C19.9265 21.3854 20.3854 
-               20.9265 20.673 20.362C21 19.7202 21 18.8802 
-               21 17.2V8.8C21 7.11984 21 6.27976 20.673 5.63803C20.3854
-               5.07354 19.9265 4.6146 19.362 4.32698C18.7202 4 
-               17.8802 4 16.2 4H7.8C6.11984 4 5.27976 4 
-               4.63803 4.32698C4.07354 4.6146 3.6146 5.07354 3.32698 
-               5.63803C3 6.27976 3 7.11984 3 8.8V17.2C3 18.8802 3 
-               19.7202 3.32698 20.362C3.6146 20.9265 4.07354 
-               21.3854 4.63803 21.673C5.27976 22 6.11984 22 7.8 22Z"/>
-                </svg>
-              </button>
-
-              <div
-                id={`event-cal-menu-${event.UUID}`}
-                className="hidden origin-top-right absolute right-0 mt-2 w-48
-           rounded-lg shadow-lg bg-white border border-gray-200 z-8900"
-              >
-                <ul className="py-1">
-                  <li>
-                    <a
-                      href={`webcal://theblop.org/assets/ical/${event.UUID}.ics`}
-                      download
-                      className="block px-4 py-2 text-sm text-gray-700 hover:bg-gray-100"
-                    >
-                      Apple / Generic (.ics)
-                    </a>
-                  </li>
-                  <li>
-                    <a
-                      href={getGoogleCalendarLink(event)}
-                      className="block px-4 py-2 text-sm text-gray-700 hover:bg-gray-100"
-                      target="_blank"
-                    >
-                      Google Calendar
-                    </a>
-                  </li>
-                  <li>
-                    <a
-                      href={getOutlookCalendarLink(event)}  
-                      className="block px-4 py-2 text-sm text-gray-700 hover:bg-gray-100"
-                      target="_blank"
-                    >
-                      Outlook
-                    </a>
-                  </li>
-                </ul>
-              </div>
-            </div>
- */}
+            <button
+              type="button"
+              title="Add to calendar"
+              className="add-to-calendar cursor-pointer text-gray-400 dark:text-stone-300 hover:text-blue-600 dark:hover:text-blue-400 text-sm font-medium px-2 py-2 inline-flex space-x-1 items-center"
+              id={`event-cal-button-${event.UUID}`}
+              data-menu-id={`event-cal-menu-${event.UUID}`}
+            >
+              <svg width="100%" height="100%" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <path d="M21 8H3M16 2V5M8 2V5M12 18V12M9 15H15M7.8 22H16.2C17.8802 22 18.7202 22 19.362 21.673C19.9265 21.3854 20.3854 20.9265 20.673 20.362C21 19.7202 21 18.8802 21 17.2V8.8C21 7.11984 21 6.27976 20.673 5.63803C20.3854 5.07354 19.9265 4.6146 19.362 4.32698C18.7202 4 17.8802 4 16.2 4H7.8C6.11984 4 5.27976 4 4.63803 4.32698C4.07354 4.6146 3.6146 5.07354 3.32698 5.63803C3 6.27976 3 7.11984 3 8.8V17.2C3 18.8802 3 19.7202 3.32698 20.362C3.6146 20.9265 4.07354 21.3854 4.63803 21.673C5.27976 22 6.11984 22 7.8 22Z" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"/>
+              </svg>
+            </button>
             {/* Map link */}
             <a
               href={mapUrl}

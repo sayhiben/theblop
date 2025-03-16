@@ -2,16 +2,17 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:0e68731e-b7d1-4277-95e7-36758af2c0a7
+UID:ce9ca753-6959-4f5f-a47a-dc80c835c356
 SEQUENCE:0
-DTSTAMP:20250311T043711Z
-DTSTART:20250315T133000
-DTEND:20250315T173000
+DTSTAMP:20250314T072603Z
+DTSTART:20250315T203000
+DTEND:20250315T223000
 SUMMARY:Stamp Out the Oligarchy!
 LOCATION:1025 Market Street\, San Francisco\, CA
 DESCRIPTION:Join us to stamp out the oligarchy and join in resistance.\n\n
  Union Square
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=1025+Market+
  Street%2C+San+Francisco%2C+CA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

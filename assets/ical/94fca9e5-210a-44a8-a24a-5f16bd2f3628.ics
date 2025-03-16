@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:7fba82f3-bbdf-450b-af7f-8a1dc6cdcc0c
+UID:60771636-8c91-43fb-81d1-4fa7099162da
 SEQUENCE:0
-DTSTAMP:20250311T180234Z
-DTSTART:20250315T110000
-DTEND:20250315T150000
+DTSTAMP:20250314T072603Z
+DTSTART:20250315T180000
+DTEND:20250315T200000
 SUMMARY:Companion Rally to Stop the Cuts
 LOCATION:Patriots Park\, Tarrytown\, NY
 DESCRIPTION:We are organizing a rally to protest against proposed cuts in 
@@ -14,5 +14,6 @@ DESCRIPTION:We are organizing a rally to protest against proposed cuts in
  rd and telling Congress to stop the cuts.\n\nPatriots Park
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Patriots+Par
  k%2C+Tarrytown%2C+NY&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

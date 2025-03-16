@@ -2,16 +2,17 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:06c2f15c-1894-4329-8633-1f8cb5036e92
+UID:2aab510e-3ee7-49b7-bb07-9f8bc912dd5c
 SEQUENCE:0
-DTSTAMP:20250309T063714Z
-DTSTART:20250314T120000
-DTEND:20250314T160000
+DTSTAMP:20250314T072603Z
+DTSTART:20250314T190000
+DTEND:20250314T210000
 SUMMARY:March on Washington
-LOCATION:03.14.25\, Washington\, 
+LOCATION:03.14.25\, Washington DC\, DC
 DESCRIPTION:Claim your power. Stop the coup.\n\nCapitol Protest Against Ou
  r Unconstitutional Government\, National Mall between 4th & 6th
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=03.14.25%2C+
- Washington%2C+&zoom=15&basemap=roadmap
+ Washington+DC%2C+DC&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

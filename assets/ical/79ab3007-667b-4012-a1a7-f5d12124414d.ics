@@ -2,17 +2,18 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:0073ce71-1b83-4ceb-8de4-273feab2615e
+UID:1e593b05-cb84-4f73-b66b-814c2eb7d313
 SEQUENCE:0
-DTSTAMP:20250313T031818Z
-DTSTART:20250315T100000
-DTEND:20250315T140000
-SUMMARY:Tesla Takedown - Watertown\, MA
-LOCATION:457 Pleasant Street\, Watertown\, MA 02472
-DESCRIPTION:Join us for the Tesla Takedown event in Watertown\, MA\, where
-  community members will gather to participate in scheduled activities at t
- he Tesla Service Center.\n\nTesla Service Center
+DTSTAMP:20250314T072603Z
+DTSTART:20250315T170000
+DTEND:20250315T190000
+SUMMARY:Tesla Takedown
+LOCATION:457 Pleasant Street\, Watertown\, MA
+DESCRIPTION:Join us for the Tesla Takedown event where participants will g
+ ather to focus on issues related to Tesla. This event aims to bring togeth
+ er community members for a common cause.\n\nTesla Service Center
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=457+Pleasant
- +Street%2C+Watertown%2C+MA+02472&zoom=15&basemap=roadmap
+ +Street%2C+Watertown%2C+MA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

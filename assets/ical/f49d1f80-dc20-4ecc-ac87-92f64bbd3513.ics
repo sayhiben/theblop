@@ -2,19 +2,21 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:9cba5c27-c871-498c-ba4b-fcec301da7e7
+UID:0d679871-ee7d-414e-8e12-072be8b9e129
 SEQUENCE:0
-DTSTAMP:20250311T204341Z
-DTSTART:20250329T133000
-DTEND:20250329T173000
+DTSTAMP:20250314T072603Z
+DTSTART:20250329T203000
+DTEND:20250329T223000
 SUMMARY:US out of Gaza!
-LOCATION:1 Second Street\, Topsham\, ME\, USA
+LOCATION:Routes 196 & 201\, 1 Second St\, Topsham Maine\, Topsham\, ME
 DESCRIPTION:Our statewide antiwar coalition aims to protest against U.S. s
  upport for military actions in Gaza\, the West Bank\, Lebanon\, and Syria.
   We demand peace in Ukraine\, an end to U.S. militarism and NATO\, and the
   protection of the environment. Bring your signs and banners to support ou
  r cause.\n\nIntersection of Routes 196 & 201
-URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=1+Second+Str
- eet%2C+Topsham%2C+ME%2C+USA&zoom=15&basemap=roadmap
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Routes+196+%
+ 26+201%2C+1+Second+St%2C+Topsham+Maine%2C+Topsham%2C+ME&zoom=15&basemap=ro
+ admap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

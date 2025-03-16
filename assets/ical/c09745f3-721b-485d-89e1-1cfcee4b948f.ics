@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:3eda87bc-10a6-4b92-b65f-54c23444fee0
+UID:a8b3ba80-21e4-4805-999f-a665f318063b
 SEQUENCE:0
-DTSTAMP:20250313T031818Z
-DTSTART:20250314T160000
-DTEND:20250314T200000
+DTSTAMP:20250314T072603Z
+DTSTART:20250314T230000
+DTEND:20250315T010000
 SUMMARY:Tesla Car Dealership Protest
 LOCATION:7101 Glenwood Avenue\, Raleigh\, NC
 DESCRIPTION:Engaged Durhamites for Democracy\, in partnership with Durham 
@@ -16,5 +16,6 @@ DESCRIPTION:Engaged Durhamites for Democracy\, in partnership with Durham
  la Car Dealership
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=7101+Glenwoo
  d+Avenue%2C+Raleigh%2C+NC&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

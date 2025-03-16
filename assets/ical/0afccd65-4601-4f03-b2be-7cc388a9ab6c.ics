@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:2d12f0c1-6de9-4ed3-8e52-b4ccbf5d82b3
+UID:9f352c77-be9b-475b-932c-3bee5b9d1a03
 SEQUENCE:0
-DTSTAMP:20250313T031819Z
-DTSTART:20250316T110000
-DTEND:20250316T150000
+DTSTAMP:20250314T072603Z
+DTSTART:20250316T180000
+DTEND:20250316T200000
 SUMMARY:Tesla Takedown
 LOCATION:106 Commerce Road\, Stamford\, CT
 DESCRIPTION:Join us for a peaceful protest against fascism. Organized by P
@@ -14,5 +14,6 @@ DESCRIPTION:Join us for a peaceful protest against fascism. Organized by P
   express their views. The Disruption Project is involved in the event.\n\n
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=106+Commerce
  +Road%2C+Stamford%2C+CT&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

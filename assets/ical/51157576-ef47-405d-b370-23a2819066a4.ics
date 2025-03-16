@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:1d863b69-b45a-4539-aa99-f804f05be1c2
+UID:ef53e5d1-7670-46f8-82e2-bd7fb0635d81
 SEQUENCE:0
-DTSTAMP:20250312T090406Z
-DTSTART:20250321T180000
-DTEND:20250321T220000
+DTSTAMP:20250314T072603Z
+DTSTART:20250322T010000
+DTEND:20250322T030000
 SUMMARY:Musk or Us: Rep. LaMonica McIver's Medicaid Town Hall
 LOCATION:1 Kelly Dr\, West Orange\, NJ
 DESCRIPTION:Join us for a community town hall event focused on Medicaid di
@@ -14,5 +14,6 @@ DESCRIPTION:Join us for a community town hall event focused on Medicaid di
  iberty Middle School
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=1+Kelly+Dr%2
  C+West+Orange%2C+NJ&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

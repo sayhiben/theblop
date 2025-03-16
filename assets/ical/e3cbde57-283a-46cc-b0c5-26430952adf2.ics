@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:753c84d7-5dd2-4599-87e2-03b680e2e050
+UID:de9f8c73-b8c8-4f62-a50e-6b6eaf416bac
 SEQUENCE:0
-DTSTAMP:20250313T031818Z
-DTSTART:20250315T120000
-DTEND:20250315T160000
+DTSTAMP:20250314T072603Z
+DTSTART:20250315T190000
+DTEND:20250315T210000
 SUMMARY:Tesla Takedown
 LOCATION:2100 Hydraulic Road\, Charlottesville\, VA
 DESCRIPTION:Join us to protest against Elon Musk's takeover of the Federal
@@ -15,5 +15,6 @@ DESCRIPTION:Join us to protest against Elon Musk's takeover of the Federal
  nefield
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=2100+Hydraul
  ic+Road%2C+Charlottesville%2C+VA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

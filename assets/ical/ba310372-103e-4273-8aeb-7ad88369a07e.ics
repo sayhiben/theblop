@@ -2,16 +2,18 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:c94b2ea8-c3e2-42e0-9490-65c45dd69c5f
+UID:9d9938b1-df78-4c01-9208-c67c17ea1982
 SEQUENCE:0
-DTSTAMP:20250313T031819Z
-DTSTART:20250425T000000
-DTEND:20250425T040000
+DTSTAMP:20250314T072603Z
+DTSTART:20250425T070000
+DTEND:20250425T090000
 SUMMARY:Arbor Day Plant Trees
+LOCATION:\, Nationwide\, Nationwide
 DESCRIPTION:We are organizing to plant trees on Arbor Day\, April 25th\, i
  n response to executive orders affecting our forests. Join us to make a di
  fference and plant LiberTREES locally.\n\n
-URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=&zoom=15&bas
- emap=roadmap
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+Nationwi
+ de%2C+Nationwide&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

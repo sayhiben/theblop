@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:ca523bb4-3d61-410d-a25f-96cd7d483009
+UID:090757a9-292a-4d0c-a8a7-48f7ab6a3b7b
 SEQUENCE:0
-DTSTAMP:20250313T031819Z
-DTSTART:20250316T130000
-DTEND:20250316T170000
+DTSTAMP:20250314T072603Z
+DTSTART:20250316T200000
+DTEND:20250316T220000
 SUMMARY:Tesla Takedown Los Angeles
 LOCATION:5840 W Centinela Avenue\, Los Angeles\, CA
 DESCRIPTION:We are organizing a protest against Tesla\, urging participant
@@ -15,5 +15,6 @@ DESCRIPTION:We are organizing a protest against Tesla\, urging participant
  Tesla Los Angeles
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=5840+W+Centi
  nela+Avenue%2C+Los+Angeles%2C+CA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

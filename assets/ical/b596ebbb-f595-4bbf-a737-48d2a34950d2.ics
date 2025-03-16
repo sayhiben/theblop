@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:bce498a9-bb8c-4f2d-945a-b9a29610ca87
+UID:442d66c3-346c-4db0-865b-42bee890b595
 SEQUENCE:0
-DTSTAMP:20250313T031819Z
-DTSTART:20250316T120000
-DTEND:20250316T160000
+DTSTAMP:20250314T072603Z
+DTSTART:20250316T190000
+DTEND:20250316T210000
 SUMMARY:No Musk No Doge
 LOCATION:68080 Perez Rd\, Cathedral City\, CA
 DESCRIPTION:Join us at a community protest against Tesla\, aiming to show 
@@ -14,5 +14,6 @@ DESCRIPTION:Join us at a community protest against Tesla\, aiming to show
  ovide\, as we come together to express our stand.\n\nTesla Hwy 111
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=68080+Perez+
  Rd%2C+Cathedral+City%2C+CA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

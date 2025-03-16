@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:fb6d747a-fef6-49c4-9803-73058d2c748f
+UID:99fd5ae1-c88a-457a-9a1e-acd298fa66af
 SEQUENCE:0
-DTSTAMP:20250311T031043Z
-DTSTART:20250315T080000
-DTEND:20250315T120000
+DTSTAMP:20250314T072603Z
+DTSTART:20250315T150000
+DTEND:20250315T170000
 SUMMARY:Protest
 LOCATION:Fort Worth City Hall\, Fort Worth\, TX
 DESCRIPTION:Protest with us for women's rights\, LGBTQ+ rights\, and envir
@@ -14,5 +14,6 @@ DESCRIPTION:Protest with us for women's rights\, LGBTQ+ rights\, and envir
  y Hall
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Fort+Worth+C
  ity+Hall%2C+Fort+Worth%2C+TX&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

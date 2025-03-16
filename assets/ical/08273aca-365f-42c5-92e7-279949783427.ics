@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:d8969020-7aae-4587-bd1f-6e46c9066535
+UID:8f0883f4-9784-449f-aea6-65f338208e6c
 SEQUENCE:0
-DTSTAMP:20250312T090406Z
-DTSTART:20250315T130000
-DTEND:20250315T170000
+DTSTAMP:20250314T072603Z
+DTSTART:20250315T200000
+DTEND:20250315T220000
 SUMMARY:Steel City Action Conference
 LOCATION:Flagstaff Hill\, Pittsburgh\, PA
 DESCRIPTION:We are organizing the Steel City Action Conference to build a 
@@ -15,5 +15,6 @@ DESCRIPTION:We are organizing the Steel City Action Conference to build a
  rs.\n\nFlagstaff Hill\, PCH PA
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Flagstaff+Hi
  ll%2C+Pittsburgh%2C+PA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

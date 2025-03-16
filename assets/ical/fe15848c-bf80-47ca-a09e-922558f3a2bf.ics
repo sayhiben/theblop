@@ -2,16 +2,17 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:e1a7cd05-8ea7-4672-a3c3-e05336f23836
+UID:942196cc-fdbd-42af-9cd7-e967f28a2a29
 SEQUENCE:0
-DTSTAMP:20250312T090406Z
-DTSTART:20250315T000000
-DTEND:20250315T040000
+DTSTAMP:20250314T072603Z
+DTSTART:20250315T070000
+DTEND:20250315T090000
 SUMMARY:St. Paddy's Day Parade March
 LOCATION:\, Houston\, TX
 DESCRIPTION:Join us as we celebrate St. Patrick’s Day by participating i
  n the parade with 50501 Houston.\n\n
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+Houston%
  2C+TX&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

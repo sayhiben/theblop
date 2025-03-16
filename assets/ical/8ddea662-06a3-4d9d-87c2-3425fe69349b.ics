@@ -2,16 +2,17 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:077803d8-10fc-4584-8e61-8944376e1e7d
+UID:5df42764-ae6d-4416-8c0f-ed3db11dc92c
 SEQUENCE:0
-DTSTAMP:20250312T180257Z
-DTSTART:20250315T093000
-DTEND:20250315T133000
+DTSTAMP:20250314T072603Z
+DTSTART:20250315T163000
+DTEND:20250315T183000
 SUMMARY:Tesla Protest St. Petersburg
 LOCATION:4601 34th St N\, St. Petersburg\, FL
 DESCRIPTION:We are taking action at Tesla. Sell your Teslas\, dump your st
  ock\, join the picket lines.\n\nTesla St. Petersburg
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=4601+34th+St
  +N%2C+St.+Petersburg%2C+FL&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

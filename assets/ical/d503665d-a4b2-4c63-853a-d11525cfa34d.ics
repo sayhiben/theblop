@@ -2,16 +2,17 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:6813a461-acf6-434d-8fd3-545fcfae0d8a
+UID:0cf693cf-24a9-4d82-b678-d501d3ce5e5d
 SEQUENCE:0
-DTSTAMP:20250308T082300Z
+DTSTAMP:20250314T072603Z
 DTSTART:20250316T190000
-DTEND:20250316T230000
+DTEND:20250316T210000
 SUMMARY:Expose The Harm rally
 LOCATION:4th and Bellevue Way across from Bellevue Square
 DESCRIPTION:Come join the Washington State chapter of 50501\, Evergreen Re
  sistance\, as we protest in Bellevue!\n\n
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=4th+and+Bell
  evue+Way+across+from+Bellevue+Square&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:e81ae7d2-1c79-45c1-9ae7-837b4a751475
+UID:247acf56-bef2-461e-a32f-b11f397fc6e8
 SEQUENCE:0
-DTSTAMP:20250313T180258Z
-DTSTART:20250405T130000
-DTEND:20250405T170000
+DTSTAMP:20250314T072603Z
+DTSTART:20250405T200000
+DTEND:20250405T220000
 SUMMARY:REMOVE REVERSE RECLAIM
 LOCATION:Piedmont Park\, 10th Avenue & Argonne\, Atlanta\, GA
 DESCRIPTION:Join us for a day of advocacy at Piedmont Park. Our peaceful r
@@ -16,5 +16,6 @@ DESCRIPTION:Join us for a day of advocacy at Piedmont Park. Our peaceful r
  ge.\n\n
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Piedmont+Par
  k%2C+10th+Avenue+%26+Argonne%2C+Atlanta%2C+GA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

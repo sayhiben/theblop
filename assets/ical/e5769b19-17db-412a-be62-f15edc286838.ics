@@ -2,17 +2,19 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:cb9b0a8a-9db0-4a4c-a66d-9d624463de14
+UID:75c05c08-cf3e-47ed-9843-8e0354b660fe
 SEQUENCE:0
-DTSTAMP:20250313T031818Z
-DTSTART:20250314T160000
-DTEND:20250314T200000
+DTSTAMP:20250314T072603Z
+DTSTART:20250314T230000
+DTEND:20250315T010000
 SUMMARY:March to Maralago
-LOCATION:Southern Blvd entrance\, Dreher Park
+LOCATION:Southern Blvd entrance\, Dreher Park\, West Palm Beach?\, FL
 DESCRIPTION:Join us to show support for Ukraine and save Medicaid while op
  posing oligarchs. Bring flags\, signs\, and water for this important event
-  at Dreher Park.\n\nSouthern Blvd entrance
+  at Dreher Park.\n\nSouthern Blvd entrance ((City/state is best guess))
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Southern+Blv
- d+entrance%2C+Dreher+Park&zoom=15&basemap=roadmap
+ d+entrance%2C+Dreher+Park%2C+West+Palm+Beach%3F%2C+FL&zoom=15&basemap=road
+ map
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

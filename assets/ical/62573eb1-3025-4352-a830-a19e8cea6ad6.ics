@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:3bcfb4a2-b404-4df3-8fa6-abcc10f88f95
+UID:203cf57c-3592-4d03-86d8-514f1b7f7bba
 SEQUENCE:0
-DTSTAMP:20250310T180824Z
-DTSTART:20250320T110000
-DTEND:20250320T150000
+DTSTAMP:20250314T072603Z
+DTSTART:20250320T180000
+DTEND:20250320T200000
 SUMMARY:Sarasota FI March 20th Protest
 LOCATION:New College of FL\, Sarasota\, FL
 DESCRIPTION:Ron DeSantis\, Tom Homan\, and Chad Wolf will take the Stage a
@@ -15,5 +15,6 @@ DESCRIPTION:Ron DeSantis\, Tom Homan\, and Chad Wolf will take the Stage a
  m The Sainer Pavilion
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=New+College+
  of+FL%2C+Sarasota%2C+FL&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

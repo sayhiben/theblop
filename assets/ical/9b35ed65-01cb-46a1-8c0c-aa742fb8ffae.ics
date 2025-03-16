@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:6ad1f71c-a333-41ab-b3fd-b16a87da2bb6
+UID:f88693fd-3b63-4a6d-a599-7c3d64afe4f5
 SEQUENCE:0
-DTSTAMP:20250313T180257Z
-DTSTART:20250314T080000
-DTEND:20250314T120000
+DTSTAMP:20250314T072603Z
+DTSTART:20250314T150000
+DTEND:20250314T170000
 SUMMARY:#EDMatters Rally
 LOCATION:400 Maryland Ave. SW\, Washington\, DC
 DESCRIPTION:We are rallying in support of the Department of Education's ci
@@ -14,5 +14,6 @@ DESCRIPTION:We are rallying in support of the Department of Education's ci
  Memorial Side)
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=400+Maryland
  +Ave.+SW%2C+Washington%2C+DC&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

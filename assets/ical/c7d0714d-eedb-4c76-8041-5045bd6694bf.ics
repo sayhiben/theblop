@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:a02e10bb-2504-46b4-9f52-1b2649625d1a
+UID:bc16b87c-ec41-4efa-859c-df424f6cf91b
 SEQUENCE:0
-DTSTAMP:20250313T031818Z
-DTSTART:20250315T110000
-DTEND:20250315T150000
+DTSTAMP:20250314T072603Z
+DTSTART:20250315T180000
+DTEND:20250315T200000
 SUMMARY:Hit Musk Where It Hurts Baltimore
 LOCATION:9428 Reisterstown Rd\, Owings Mills\, MD
 DESCRIPTION:We are organizing a protest at Tesla Owings Mills to take a st
@@ -15,5 +15,6 @@ DESCRIPTION:We are organizing a protest at Tesla Owings Mills to take a st
  gs Mills
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=9428+Reister
  stown+Rd%2C+Owings+Mills%2C+MD&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

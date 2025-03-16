@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:daed9118-28cb-4c92-8613-1171761f94d2
+UID:8fb255d7-ceee-4ee6-bc88-416c24b0b367
 SEQUENCE:0
-DTSTAMP:20250313T000603Z
-DTSTART:20250318T120000
-DTEND:20250318T160000
+DTSTAMP:20250314T072603Z
+DTSTART:20250318T190000
+DTEND:20250318T210000
 SUMMARY:Make a Stand: Show Up and Sign This Petition!
 LOCATION:San Jose City Hall\, San Jose\, CA
 DESCRIPTION:We are gathering at San Jose City Hall to demand that the San 
@@ -14,5 +14,6 @@ DESCRIPTION:We are gathering at San Jose City Hall to demand that the San
  using fund crisis. Join us to make a difference.\n\nSan Jose City Hall
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=San+Jose+Cit
  y+Hall%2C+San+Jose%2C+CA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

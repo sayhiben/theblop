@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:9a070ac5-4bc8-4bdb-8cdb-d01356efc581
+UID:1bd11dfe-5611-4d0b-9045-dd91029725df
 SEQUENCE:0
-DTSTAMP:20250313T201358Z
-DTSTART:20250313T173000
-DTEND:20250313T213000
+DTSTAMP:20250314T065639Z
+DTSTART:20250314T003000
+DTEND:20250314T023000
 SUMMARY:Emergency Protest for Mahmoud Khalil
 LOCATION:University of Texas at Dallas\, Dallas\, TX
 DESCRIPTION:We are organizing a protest to demand justice for Mahmoud Khal
@@ -14,5 +14,6 @@ DESCRIPTION:We are organizing a protest to demand justice for Mahmoud Khal
  ersity of Texas at Dallas to voice our concerns.\n\nChess Plaza
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=University+o
  f+Texas+at+Dallas%2C+Dallas%2C+TX&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

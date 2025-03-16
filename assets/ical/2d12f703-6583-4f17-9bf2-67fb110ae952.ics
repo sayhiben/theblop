@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:41290907-cceb-43f6-8c06-7809b5d6b4f9
+UID:6381515c-e1ec-4727-9b2f-e564018c1b78
 SEQUENCE:0
-DTSTAMP:20250313T031819Z
-DTSTART:20250317T120000
-DTEND:20250317T160000
+DTSTAMP:20250314T072603Z
+DTSTART:20250317T190000
+DTEND:20250317T210000
 SUMMARY:Stop the Attack on Federal Workers - Takedown Tesla!
 LOCATION:999 Van Ness Avenue\, San Francisco\, CA
 DESCRIPTION:Join us to support federal workers by protesting against Elon 
@@ -16,5 +16,6 @@ DESCRIPTION:Join us to support federal workers by protesting against Elon
  igarch takeover of the federal government.\n\nSF Tesla Dealership
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=999+Van+Ness
  +Avenue%2C+San+Francisco%2C+CA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

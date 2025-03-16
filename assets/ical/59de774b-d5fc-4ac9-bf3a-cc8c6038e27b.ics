@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:1be91342-ab0f-452a-8e84-33bcbd19b165
+UID:9de8cf4c-2979-4b69-a754-e8d75ca87a8c
 SEQUENCE:0
-DTSTAMP:20250313T031818Z
-DTSTART:20250315T110000
-DTEND:20250315T150000
+DTSTAMP:20250314T072603Z
+DTSTART:20250315T180000
+DTEND:20250315T200000
 SUMMARY:#TeslaTakedown Littleton
 LOCATION:5700 S Broadway\, Littleton\, CO
 DESCRIPTION:We are organizing a protest to take action against Tesla. We w
@@ -16,5 +16,6 @@ DESCRIPTION:We are organizing a protest to take action against Tesla. We w
  cians\, not the media.\n\nTesla Dealership - Littleton
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=5700+S+Broad
  way%2C+Littleton%2C+CO&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

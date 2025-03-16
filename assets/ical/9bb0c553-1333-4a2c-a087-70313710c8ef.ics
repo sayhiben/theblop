@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:48d0f682-b445-4726-9afa-27d5568fb279
+UID:3bd55af0-45cc-496f-bd41-a8f5c7662050
 SEQUENCE:0
-DTSTAMP:20250313T193216Z
-DTSTART:20250314T160000
-DTEND:20250314T200000
+DTSTAMP:20250314T072603Z
+DTSTART:20250314T230000
+DTEND:20250315T010000
 SUMMARY:Rally to Defend Democracy
 LOCATION:\, Mansfield\, OH
 DESCRIPTION:Join us in downtown Mansfield\, Ohio\, to defend democracy and
@@ -17,5 +17,6 @@ DESCRIPTION:Join us in downtown Mansfield\, Ohio\, to defend democracy and
  acy.\n\nBoth sides of the Square in front of the Gazebo
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+Mansfiel
  d%2C+OH&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

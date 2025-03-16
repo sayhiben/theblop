@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:5d6a6acb-ca39-4517-93a4-354bfa174975
+UID:04e1e31b-dbe6-4bc8-943c-746760600bfc
 SEQUENCE:0
-DTSTAMP:20250306T175339Z
-DTSTART:20250317T110000
-DTEND:20250317T150000
+DTSTAMP:20250314T072603Z
+DTSTART:20250317T180000
+DTEND:20250317T200000
 SUMMARY:Invest in Communities\, Not Fossil Fuels!
 LOCATION:400 Q Street\, Sacramento\, CA 95811
 DESCRIPTION:Stand together at the CalPERS Board meeting. Join us for prote
@@ -14,5 +14,6 @@ DESCRIPTION:Stand together at the CalPERS Board meeting. Join us for prote
  ERS HQ
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=400+Q+Street
  %2C+Sacramento%2C+CA+95811&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

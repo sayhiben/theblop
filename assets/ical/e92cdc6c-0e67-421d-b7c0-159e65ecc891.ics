@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:ac386b63-1eee-43a2-b39e-9d090bd82c8e
+UID:7b4f8a39-f124-455d-bc1c-6cc17d05ca71
 SEQUENCE:0
-DTSTAMP:20250313T031819Z
-DTSTART:20250316T130000
-DTEND:20250316T170000
+DTSTAMP:20250314T072603Z
+DTSTART:20250316T200000
+DTEND:20250316T220000
 SUMMARY:NoHo Tesla Takedown
 LOCATION:13005 Sherman Way\, North Hollywood\, CA 91605
 DESCRIPTION:We are taking action at Tesla by selling Teslas\, dumping stoc
@@ -15,5 +15,6 @@ DESCRIPTION:We are taking action at Tesla by selling Teslas\, dumping stoc
  sla Dealership
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=13005+Sherma
  n+Way%2C+North+Hollywood%2C+CA+91605&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

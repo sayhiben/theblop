@@ -9,7 +9,7 @@ import { parseCSV } from './tasks/parseCsv.js';
 import { parseEventDate, isFutureEvent } from './tasks/parseDates.js';
 import { downloadImageIfNeeded, resizeImageIfNeeded } from './tasks/downloadImages.js';
 import { generatePages } from './tasks/generatePages.js';
-import { createCalendarEventIfNeeded } from './tasks/createCalendarEventIfNeeded.js';
+import { createCalendarEvent } from './tasks/createCalendarEvent.js';
 import { Blop } from './blop.js';
 
 // Convert import.meta.url to __dirname style usage
@@ -90,7 +90,7 @@ const ICAL_DIR = path.join(__dirname, '..', 'assets', 'ical');
 
     // 7) Generate calendar events
     for (const event of rows) {
-      createCalendarEventIfNeeded(event, ICAL_DIR)
+      createCalendarEvent(event, ICAL_DIR)
     }
 
     // 8) Generate pages (index + event pages)

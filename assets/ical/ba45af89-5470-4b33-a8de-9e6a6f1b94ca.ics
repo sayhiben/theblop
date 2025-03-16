@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:518d4689-4fb4-41ef-bcf0-92be4a03f9b0
+UID:658e3010-f167-457c-acef-17fb93792529
 SEQUENCE:0
-DTSTAMP:20250313T031819Z
-DTSTART:20250322T100000
-DTEND:20250322T140000
+DTSTAMP:20250314T072603Z
+DTSTART:20250322T170000
+DTEND:20250322T190000
 SUMMARY:Tesla Takedown
 LOCATION:1323 Motor City Dr.\, Colorado Springs\, CO
 DESCRIPTION:We are taking action at Tesla. Sell your Teslas\, dump your st
@@ -14,5 +14,6 @@ DESCRIPTION:We are taking action at Tesla. Sell your Teslas\, dump your st
  Musk will help save lives and our democracy.\n\nTesla Showroom
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=1323+Motor+C
  ity+Dr.%2C+Colorado+Springs%2C+CO&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

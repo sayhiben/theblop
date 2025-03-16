@@ -2,16 +2,17 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:ef54da13-05a3-413c-852b-503a877455bb
+UID:76fe9023-e9d8-4bad-a34a-b7b47362c72f
 SEQUENCE:0
-DTSTAMP:20250310T121109Z
-DTSTART:20250315T130000
-DTEND:20250315T170000
+DTSTAMP:20250314T072603Z
+DTSTART:20250315T200000
+DTEND:20250315T220000
 SUMMARY:Tesla Protest - Encinitas
 LOCATION:1302 Encinitas Blvd\, Encinitas\, CA 92024 US
 DESCRIPTION:Peaceful protest against Elon Musk at Tesla Encinitas (San Die
  go). Saturday\, March 15th\, 1pm to 4pm\n\nTesla
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=1302+Encinit
  as+Blvd%2C+Encinitas%2C+CA+92024+US&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

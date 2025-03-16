@@ -2,18 +2,18 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:f8218d39-b93c-4510-b85a-fb2d8789357e
+UID:8b88c592-905d-40a1-a13f-20516090b34c
 SEQUENCE:0
-DTSTAMP:20250303T073722Z
-DTSTART:20250328T070000
-DTEND:20250328T110000
+DTSTAMP:20250314T072603Z
+DTSTART:20250328T230000
+DTEND:20250329T010000
 SUMMARY:We Walk For Our People
-LOCATION:22 mile and Van Dyke Ave to Van Dyke Ave and Utica\, Macomb MI\, 
- MI
+LOCATION:22 mile and Van Dyke Ave to Van Dyke Ave and Utica\, Macomb\, MI
 DESCRIPTION:Join us at Circle K and march down to DQ\, showing support for
   our Mexican\, Latino\, and everyone else.\n\nCircle K
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=22+mile+and+
- Van+Dyke+Ave+to+Van+Dyke+Ave+and+Utica%2C+Macomb+MI%2C+MI&zoom=15&basemap=
- roadmap
+ Van+Dyke+Ave+to+Van+Dyke+Ave+and+Utica%2C+Macomb%2C+MI&zoom=15&basemap=roa
+ dmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

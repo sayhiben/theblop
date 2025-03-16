@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:1343b69a-9467-498d-afee-20ecdda79e48
+UID:df1f8d71-5c44-4921-9b66-65c6126fa14a
 SEQUENCE:0
-DTSTAMP:20250313T031819Z
-DTSTART:20250315T150000
-DTEND:20250315T190000
+DTSTAMP:20250314T072603Z
+DTSTART:20250315T220000
+DTEND:20250316T000000
 SUMMARY:Veterans TeslaTakedown
 LOCATION:201 Casa Buena Drive\, Corte Madera\, CA
 DESCRIPTION:We invite you to join us every Saturday from 3 p.m. to 4 p.m. 
@@ -16,5 +16,6 @@ DESCRIPTION:We invite you to join us every Saturday from 3 p.m. to 4 p.m.
  protect our democracy.\n\nCorte Madera Tesla
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=201+Casa+Bue
  na+Drive%2C+Corte+Madera%2C+CA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

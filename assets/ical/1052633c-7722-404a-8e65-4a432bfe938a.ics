@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:e29b6b30-32c5-4a8f-8e5f-94d94e600505
+UID:58321cca-502a-4ebe-ab1f-3fd43f036fac
 SEQUENCE:0
-DTSTAMP:20250313T000603Z
-DTSTART:20250314T120000
-DTEND:20250314T160000
+DTSTAMP:20250314T072603Z
+DTSTART:20250314T190000
+DTEND:20250314T210000
 SUMMARY:Peaceful Protest
 LOCATION:31 Hopkins Pl\, Baltimore\, MD
 DESCRIPTION:We are organizing a protest against the unlawful and inhumane 
@@ -15,5 +15,6 @@ DESCRIPTION:We are organizing a protest against the unlawful and inhumane
  rge H. Fallon Federal Building
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=31+Hopkins+P
  l%2C+Baltimore%2C+MD&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:a3589b85-57f2-4c3d-8943-ee50af420471
+UID:31f6d234-06b7-4fe4-a342-55f7a2ce423f
 SEQUENCE:0
-DTSTAMP:20250308T015930Z
-DTSTART:20250314T120000
-DTEND:20250314T160000
+DTSTAMP:20250314T072603Z
+DTSTART:20250314T190000
+DTEND:20250314T210000
 SUMMARY:Veterans March
 LOCATION:Every State Capitol\, Washington DC\, DC
 DESCRIPTION:I will support and defend the Constitution of the United State
@@ -14,5 +14,6 @@ DESCRIPTION:I will support and defend the Constitution of the United State
  nd allegiance to the same.\n\n
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Every+State+
  Capitol%2C+Washington+DC%2C+DC&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

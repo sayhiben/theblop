@@ -2,16 +2,17 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:a3c45da8-e3c9-4202-9655-f4f389f3427c
+UID:6aac8ffe-0a1c-4d5e-a934-862df8aaa5c5
 SEQUENCE:0
-DTSTAMP:20250310T021352Z
-DTSTART:20250318T160000
-DTEND:20250318T200000
+DTSTAMP:20250314T072603Z
+DTSTART:20250318T230000
+DTEND:20250319T010000
 SUMMARY:Anti Nazi Protest
 LOCATION:Theiss Rd & 270 overpass\, St. Louis\, MO
 DESCRIPTION:A peaceful anti-Nazi protest to stand against nazism and nazis
   in Missouri.\n\nSt. Louis County\, MO
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Theiss+Rd+%2
  6+270+overpass%2C+St.+Louis%2C+MO&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

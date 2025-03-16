@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:1b7fd16f-d095-463a-a57b-29b796b1cb35
+UID:78ff1ce1-4362-4e59-9c0a-595c8dc1adad
 SEQUENCE:0
-DTSTAMP:20250312T090406Z
-DTSTART:20250315T100000
-DTEND:20250315T140000
+DTSTAMP:20250314T072603Z
+DTSTART:20250315T170000
+DTEND:20250315T190000
 SUMMARY:Equality March & Rally
 LOCATION:Park Ave sidewalk in front of Kendallville Public Library
 DESCRIPTION:In response to racist\, anti-Semitic propaganda locally\, we a
@@ -17,5 +17,6 @@ DESCRIPTION:In response to racist\, anti-Semitic propaganda locally\, we a
   No violence.\n\nKendallville Public Library
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Park+Ave+sid
  ewalk+in+front+of+Kendallville+Public+Library&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

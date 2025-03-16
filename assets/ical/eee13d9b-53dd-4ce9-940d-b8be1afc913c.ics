@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:4e6fcfe1-d688-4a04-a8d3-c782f4b28c77
+UID:af2010af-dbb9-4c45-9bde-78b3622a8355
 SEQUENCE:0
-DTSTAMP:20250313T031818Z
-DTSTART:20250315T130000
-DTEND:20250315T170000
+DTSTAMP:20250314T072603Z
+DTSTART:20250315T200000
+DTEND:20250315T220000
 SUMMARY:Tesla Protest - Encinitas
 LOCATION:1302 Encinitas Blvd\, Encinitas\, CA
 DESCRIPTION:We are taking action at Tesla to rally peacefully and bring at
@@ -16,5 +16,6 @@ DESCRIPTION:We are taking action at Tesla to rally peacefully and bring at
  r democracy and lives.\n\nTesla
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=1302+Encinit
  as+Blvd%2C+Encinitas%2C+CA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

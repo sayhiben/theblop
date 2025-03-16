@@ -2,16 +2,17 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:c3e297c5-0527-43b4-bbdf-e05abfaff56d
+UID:3d791d60-f027-4851-8f9c-c048c969b131
 SEQUENCE:0
-DTSTAMP:20250309T044646Z
-DTSTART:20250314T130000
-DTEND:20250314T170000
+DTSTAMP:20250314T072603Z
+DTSTART:20250314T200000
+DTEND:20250314T220000
 SUMMARY:3.14 NOW DC
 LOCATION:Capitol Building\, Washington\, D.C.\, DC
 DESCRIPTION:Capitol protest against our unconstitutional government.\n\nUn
  ited States Capitol
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Capitol+Buil
  ding%2C+Washington%2C+D.C.%2C+DC&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

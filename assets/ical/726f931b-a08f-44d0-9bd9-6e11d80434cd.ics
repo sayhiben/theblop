@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:92a7b6f3-89f6-4b02-b1a8-c159ef3e2bb8
+UID:7f0c7659-800d-456f-a33a-3e2e18ebb1ef
 SEQUENCE:0
-DTSTAMP:20250313T031819Z
-DTSTART:20250317T120000
-DTEND:20250317T160000
+DTSTAMP:20250314T072603Z
+DTSTART:20250317T190000
+DTEND:20250317T210000
 SUMMARY:Monday Picket - Week 3
 LOCATION:2919 29th St SE\, Grand Rapids\, MI
 DESCRIPTION:We are organizing a picket at the Tesla Showroom to encourage 
@@ -14,5 +14,6 @@ DESCRIPTION:We are organizing a picket at the Tesla Showroom to encourage
  m
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=2919+29th+St
  +SE%2C+Grand+Rapids%2C+MI&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

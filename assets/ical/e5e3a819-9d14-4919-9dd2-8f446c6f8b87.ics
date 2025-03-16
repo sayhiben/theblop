@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:54d5a96c-c344-4921-a045-0aae18161633
+UID:2b750cf0-ab00-4210-b5fb-2f1c5c4e62af
 SEQUENCE:0
-DTSTAMP:20250311T012444Z
-DTSTART:20250314T120000
-DTEND:20250314T160000
+DTSTAMP:20250314T072603Z
+DTSTART:20250314T190000
+DTEND:20250314T210000
 SUMMARY:Veterans Rally
 LOCATION:Carlsbad Blvd & Pine\, next to Harbor Fish House
 DESCRIPTION:Join the nationwide Veterans March to protest VA cuts\, defend
@@ -14,5 +14,6 @@ DESCRIPTION:Join the nationwide Veterans March to protest VA cuts\, defend
  commitment to our country's future.\n\n
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Carlsbad+Blv
  d+%26+Pine%2C+next+to+Harbor+Fish+House&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

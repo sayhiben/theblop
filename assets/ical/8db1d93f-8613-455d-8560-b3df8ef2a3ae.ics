@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:054c0021-5361-455c-868c-dad48ab2c7dd
+UID:6c99db38-d550-4acf-92db-f4ca25fc646c
 SEQUENCE:0
-DTSTAMP:20250313T201359Z
-DTSTART:20250315T120000
-DTEND:20250315T160000
+DTSTAMP:20250314T072603Z
+DTSTART:20250315T190000
+DTEND:20250315T210000
 SUMMARY:Tesla Protest in Malibu
 LOCATION:23401 Civic Center Way\, Malibu\, CA
 DESCRIPTION:Come out to beautiful Malibu\, do some good\, hit the beach\, 
@@ -15,5 +15,6 @@ DESCRIPTION:Come out to beautiful Malibu\, do some good\, hit the beach\,
  untry Mart
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=23401+Civic+
  Center+Way%2C+Malibu%2C+CA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

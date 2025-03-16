@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:f2391c4e-77de-42d7-97d8-c272803a46f9
+UID:30fda49e-d0df-4b3a-8798-39678d14215e
 SEQUENCE:0
-DTSTAMP:20250313T031818Z
-DTSTART:20250315T110000
-DTEND:20250315T150000
+DTSTAMP:20250314T072603Z
+DTSTART:20250315T180000
+DTEND:20250315T200000
 SUMMARY:Tesla Takedown Sarasota Florida
 LOCATION:115 University Town Center Drive\, Sarasota\, FL
 DESCRIPTION:Join us for the 'Tesla Takedown' event in Sarasota as we come 
@@ -15,5 +15,6 @@ DESCRIPTION:Join us for the 'Tesla Takedown' event in Sarasota as we come
  ted stand!\n\nMeet @ University Pkwy sidewalk in front of The Yard House
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=115+Universi
  ty+Town+Center+Drive%2C+Sarasota%2C+FL&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

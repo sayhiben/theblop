@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:4217f9df-bec9-4d54-8e4d-68a352196c32
+UID:a8c53907-7f6d-4821-b8f1-e09f832fe8e4
 SEQUENCE:0
-DTSTAMP:20250310T002409Z
-DTSTART:20250314T110000
-DTEND:20250314T150000
+DTSTAMP:20250314T072603Z
+DTSTART:20250314T180000
+DTEND:20250314T200000
 SUMMARY:Protest Outside Gabe Evans' Office
 LOCATION:10701 Melody Dr suite 500\, Northglenn\, CO 80234\, USA
 DESCRIPTION:Are you in CD8? There is a weekly protest outside of Represent
@@ -17,5 +17,6 @@ DESCRIPTION:Are you in CD8? There is a weekly protest outside of Represent
  Northglenn\, CO 80234\, USA
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=10701+Melody
  +Dr+suite+500%2C+Northglenn%2C+CO+80234%2C+USA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

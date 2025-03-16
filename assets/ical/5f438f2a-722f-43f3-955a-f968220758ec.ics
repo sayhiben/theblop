@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:4ad50152-60dd-493e-915c-23beea048106
+UID:361e37ed-bc80-4fff-924d-adf5cf470035
 SEQUENCE:0
-DTSTAMP:20250313T031819Z
-DTSTART:20250315T160000
-DTEND:20250315T200000
+DTSTAMP:20250314T072603Z
+DTSTART:20250315T230000
+DTEND:20250316T010000
 SUMMARY:Protest Elon Musk's Fascist Government Takeover - Wednesdays
 LOCATION:4180 El Camino Real\, Palo Alto\, CA
 DESCRIPTION:We are taking action against Tesla. This event invites partici
@@ -16,5 +16,6 @@ DESCRIPTION:We are taking action against Tesla. This event invites partici
  write anti-Musk messages.\n\nTesla Palo Alto
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=4180+El+Cami
  no+Real%2C+Palo+Alto%2C+CA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

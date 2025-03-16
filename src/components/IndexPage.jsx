@@ -4,6 +4,7 @@ import { humanizeDate } from '../tasks/parseDates';
 import { SiteAlerts } from './SiteAlerts';
 import { alerts } from '../alerts';
 import { PostFlyerModal } from './PostFlyerModal';
+import { AddToCalendarModal } from './AddToCalendarModal';
 
 export function IndexPage({ grouped, allStates }) {
   // Get sorted date keys
@@ -92,6 +93,7 @@ export function IndexPage({ grouped, allStates }) {
 
         <SiteAlerts alerts={alerts} />
         <PostFlyerModal smsLink={smsLink} emailLink={emailLink} />
+        <AddToCalendarModal />
 
         <div id="eventList" className="space-y-8">
           {dateKeys.map(dateKey => {
@@ -101,7 +103,7 @@ export function IndexPage({ grouped, allStates }) {
 
             return (
               <div className="date-group" key={dateKey}>
-                <h2 className="sticky bg-stone-200 dark:bg-gray-600 rounded-sm p-2 z-89 sm:top-28 top-34 text-xl font-semibold my-4 border-b border-gray-300 dark:border-stone-800">
+                <h2 className="sticky bg-stone-200 dark:bg-gray-600 rounded-sm p-2 z-40 sm:top-28 top-34 text-xl font-semibold my-4 border-b border-gray-300 dark:border-stone-800">
                   {humanizeDate(dateKey)}
                 </h2>
                 <div className="grid grid-cols-1 gap-4 sm:grid-cols-2 md:grid-cols-2 lg:grid-cols-3 2xl:grid-cols-4">

@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:2f322129-9af2-46c1-b7b1-ae2321ca5609
+UID:52e32a4d-3608-403d-8de7-ff84419d5b86
 SEQUENCE:0
-DTSTAMP:20250312T203050Z
-DTSTART:20250314T173000
-DTEND:20250314T213000
+DTSTAMP:20250314T072603Z
+DTSTART:20250315T003000
+DTEND:20250315T023000
 SUMMARY:Federal Workers & Friends Fight Back
 LOCATION:15 Sudbury\, Govt Center\, Boston\, MA
 DESCRIPTION:We are gathering to stop the firings\, stop restructuring\, an
@@ -14,5 +14,6 @@ DESCRIPTION:We are gathering to stop the firings\, stop restructuring\, an
  ding against these actions.\n\nJFK Building
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=15+Sudbury%2
  C+Govt+Center%2C+Boston%2C+MA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

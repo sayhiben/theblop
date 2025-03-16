@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:f389d053-38c0-4526-84f7-3b988923f249
+UID:a0b2902d-5119-43f8-9e90-31274331d275
 SEQUENCE:0
-DTSTAMP:20250313T031818Z
-DTSTART:20250315T110000
-DTEND:20250315T150000
+DTSTAMP:20250314T072603Z
+DTSTART:20250315T180000
+DTEND:20250315T200000
 SUMMARY:TeslaTakedown Louisville March 15th
 LOCATION:11701 Gateworth Way\, Louisville\, KY
 DESCRIPTION:We are organizing a protest against Tesla at their service cen
@@ -15,5 +15,6 @@ DESCRIPTION:We are organizing a protest against Tesla at their service cen
  our lives and democracy.\n\nTesla Service Center
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=11701+Gatewo
  rth+Way%2C+Louisville%2C+KY&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

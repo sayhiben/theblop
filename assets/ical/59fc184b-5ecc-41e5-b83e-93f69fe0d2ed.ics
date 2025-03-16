@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:1e27c1ad-52ed-4875-8d27-9892aee10c1b
+UID:a5d6b939-d254-4cd5-98a2-96faefc8e7fc
 SEQUENCE:0
-DTSTAMP:20250311T023757Z
-DTSTART:20250405T100000
-DTEND:20250405T140000
+DTSTAMP:20250314T072603Z
+DTSTART:20250405T170000
+DTEND:20250405T190000
 SUMMARY:Remove Reverse Reclaim
 LOCATION:New York Ave & Woodland Blvd\, DeLand\, FL
 DESCRIPTION:Join us in DeLand\, FL\, for a movement aimed at removing corr
@@ -15,5 +15,6 @@ DESCRIPTION:Join us in DeLand\, FL\, for a movement aimed at removing corr
  nt across 50 states.\n\n
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=New+York+Ave
  +%26+Woodland+Blvd%2C+DeLand%2C+FL&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

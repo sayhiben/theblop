@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:ba0dc040-53dc-4f54-8c18-e436b8fa8c5a
+UID:90cc40fc-bdc4-49b1-bc48-083eecfcfa4b
 SEQUENCE:0
-DTSTAMP:20250313T064730Z
-DTSTART:20250405T120000
-DTEND:20250405T160000
+DTSTAMP:20250314T072603Z
+DTSTART:20250405T190000
+DTEND:20250405T210000
 SUMMARY:50501 Portland Rally
 LOCATION:Japanese American Historical Plaza\, Tom McCall Waterfront Park\,
   Portland\, OR
@@ -17,5 +17,6 @@ DESCRIPTION:Join us for the 50501 Portland Rally\, a non-violent\, family-
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Japanese+Ame
  rican+Historical+Plaza%2C+Tom+McCall+Waterfront+Park%2C+Portland%2C+OR&zoo
  m=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

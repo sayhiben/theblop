@@ -2,18 +2,17 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:af2aaa1a-076e-4183-91eb-7c95ec8c99a6
+UID:54370950-45e8-484e-b9ee-7c9e40f6290e
 SEQUENCE:0
-DTSTAMP:20250313T031818Z
-DTSTART:20250315T100000
-DTEND:20250315T140000
+DTSTAMP:20250314T072603Z
+DTSTART:20250315T170000
+DTEND:20250315T190000
 SUMMARY:Take Down Tesla's Stock Price!
 LOCATION:700 S Grady Way\, Renton\, WA
-DESCRIPTION:Join us at the Renton Tesla Location as we aim to have an impa
- ct on Tesla's stock price. This event will gather individuals interested i
- n discussing and taking action regarding Tesla's financial position.\n\nRe
- nton Tesla Location
+DESCRIPTION:Join us at the Renton Tesla Location to participate in an even
+ t aimed at impacting Tesla's stock price.\n\nRenton Tesla Location
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=700+S+Grady+
  Way%2C+Renton%2C+WA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

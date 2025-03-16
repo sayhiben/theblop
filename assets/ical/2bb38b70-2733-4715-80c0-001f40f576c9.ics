@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:00357940-9ba6-4b7b-8cd7-7ee38e5e93ae
+UID:fcd1a92a-7463-4102-9004-3f5c724de1eb
 SEQUENCE:0
-DTSTAMP:20250312T203050Z
-DTSTART:20250315T130000
-DTEND:20250315T170000
+DTSTAMP:20250314T072603Z
+DTSTART:20250315T200000
+DTEND:20250315T220000
 SUMMARY:Tesla Takedown
 LOCATION:1194 W Kemper Rd\, Cincinnati\, OH
 DESCRIPTION:We are organizing a peaceful protest against Tesla and Musk. J
@@ -14,5 +14,6 @@ DESCRIPTION:We are organizing a peaceful protest against Tesla and Musk. J
  ati
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=1194+W+Kempe
  r+Rd%2C+Cincinnati%2C+OH&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

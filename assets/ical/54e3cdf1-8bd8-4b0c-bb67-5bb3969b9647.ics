@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:bf09d4ca-f4f7-4171-93d5-746720d45d36
+UID:c365e443-c975-4660-b271-b3fdc88e6b8e
 SEQUENCE:0
-DTSTAMP:20250311T204341Z
-DTSTART:20250315T140000
-DTEND:20250315T180000
+DTSTAMP:20250314T072603Z
+DTSTART:20250315T210000
+DTEND:20250315T230000
 SUMMARY:Where's Tom Tiffany???
 LOCATION:Ashland County Courthouse\, Ashland\, WI
 DESCRIPTION:We're hosting a Town Hall With (or Without) Tom Tiffany. He is
@@ -15,5 +15,6 @@ DESCRIPTION:We're hosting a Town Hall With (or Without) Tom Tiffany. He is
  the town hall.\n\nBretting Center
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Ashland+Coun
  ty+Courthouse%2C+Ashland%2C+WI&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

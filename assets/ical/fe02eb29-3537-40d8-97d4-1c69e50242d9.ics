@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:66f91896-f176-474c-962b-56d64cdf59a7
+UID:000ff070-031f-4b41-b366-d5ffa91c2cc3
 SEQUENCE:0
-DTSTAMP:20250312T203050Z
-DTSTART:20250313T170000
-DTEND:20250313T210000
+DTSTAMP:20250314T065639Z
+DTSTART:20250314T000000
+DTEND:20250314T020000
 SUMMARY:Rally to Save Our Schools
 LOCATION:400 Maryland Ave SW\, Washington\, DC
 DESCRIPTION:We are organizing a rally against the dismantling of the Depar
@@ -14,5 +14,6 @@ DESCRIPTION:We are organizing a rally against the dismantling of the Depar
  ic schools\, students\, and communities.\n\nU.S. Department of Education
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=400+Maryland
  +Ave+SW%2C+Washington%2C+DC&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

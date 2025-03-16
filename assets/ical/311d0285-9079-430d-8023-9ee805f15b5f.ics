@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:d1341da8-287e-48db-bb49-7df64369835c
+UID:8efbe29c-85ec-47de-a162-f62ac60d5338
 SEQUENCE:0
-DTSTAMP:20250311T012444Z
-DTSTART:20250319T143000
-DTEND:20250319T183000
+DTSTAMP:20250314T072603Z
+DTSTART:20250319T213000
+DTEND:20250319T233000
 SUMMARY:Where is Andy Biggs? A Protest for Accountability
 LOCATION:2509 S Power Rd 204\, Mesa\, AZ
 DESCRIPTION:Join us as we stand up and demand accountability. We\, the peo
@@ -14,5 +14,6 @@ DESCRIPTION:Join us as we stand up and demand accountability. We\, the peo
   #204\, Superstition Plaza\, Mesa\, AZ 85209
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=2509+S+Power
  +Rd+204%2C+Mesa%2C+AZ&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

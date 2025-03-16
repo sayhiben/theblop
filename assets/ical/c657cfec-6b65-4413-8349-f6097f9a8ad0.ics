@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:618cb6b4-d9db-4e1a-af81-0634fda45e0c
+UID:eb64743c-77aa-4bfc-905d-4638bcd67dff
 SEQUENCE:0
-DTSTAMP:20250312T090406Z
-DTSTART:20250315T180000
-DTEND:20250315T220000
+DTSTAMP:20250314T072603Z
+DTSTART:20250316T010000
+DTEND:20250316T030000
 SUMMARY:Rally With "Chicken Nick"
 LOCATION:5801 S Knik Goose Bay Rd\, Wasilla\, AK
 DESCRIPTION:We are organizing a rally to protest against Nick Begich's Med
@@ -15,5 +15,6 @@ DESCRIPTION:We are organizing a rally to protest against Nick Begich's Med
  our voices heard.\n\nSettlers Bay Lodge (on the bike path)
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=5801+S+Knik+
  Goose+Bay+Rd%2C+Wasilla%2C+AK&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

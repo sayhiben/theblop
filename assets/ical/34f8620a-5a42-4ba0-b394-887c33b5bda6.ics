@@ -2,16 +2,17 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:796879e7-76d4-41f7-b9b6-3617a90aeb3e
+UID:f6c64ee2-050a-41df-9c5d-fa589228a0aa
 SEQUENCE:0
-DTSTAMP:20250307T232109Z
-DTSTART:20250316T140000
-DTEND:20250316T180000
+DTSTAMP:20250314T072603Z
+DTSTART:20250316T210000
+DTEND:20250316T230000
 SUMMARY:Rally to Defend LGBT Rights
-LOCATION:Michigan State Capitol\, Lansing
+LOCATION:Michigan State Capitol\, Lansing\, MI
 DESCRIPTION:Join Us Resist Republican Attacks on Marriage Equality and Tra
- ns Rights\n\nMichigan State Capitol\, Lansing
+ ns Rights\n\n
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Michigan+Sta
- te+Capitol%2C+Lansing&zoom=15&basemap=roadmap
+ te+Capitol%2C+Lansing%2C+MI&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

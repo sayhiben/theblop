@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:7cf2da25-8772-42ff-b5b5-6d14e5542a2a
+UID:fc96a682-df02-4739-9425-36977194f9ff
 SEQUENCE:0
-DTSTAMP:20250312T090406Z
-DTSTART:20250405T120000
-DTEND:20250405T160000
+DTSTAMP:20250314T072603Z
+DTSTART:20250405T190000
+DTEND:20250405T210000
 SUMMARY:Remove\, Reverse\, Reclaim
 LOCATION:125 Central Ave W\, Great Falls\, MT
 DESCRIPTION:Join us in our movement to remove corrupt politicians from off
@@ -14,5 +14,6 @@ DESCRIPTION:Join us in our movement to remove corrupt politicians from off
  ts happening across the 50 states.\n\nUS District Court
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=125+Central+
  Ave+W%2C+Great+Falls%2C+MT&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

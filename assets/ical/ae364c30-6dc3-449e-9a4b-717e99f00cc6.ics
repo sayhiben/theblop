@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:efc380db-0a48-4300-934c-c3e49f10f2e3
+UID:b2acf561-5812-4474-bbab-7f927aa64afb
 SEQUENCE:0
-DTSTAMP:20250313T031819Z
-DTSTART:20250315T163000
-DTEND:20250315T203000
+DTSTAMP:20250314T072603Z
+DTSTART:20250315T233000
+DTEND:20250316T013000
 SUMMARY:TeslaTakedown Columbus
 LOCATION:4099 Easton Loop W\, Columbus\, OH
 DESCRIPTION:Join us to stand up\, speak out\, and fight back as part of a 
@@ -15,5 +15,6 @@ DESCRIPTION:Join us to stand up\, speak out\, and fight back as part of a
  esla Showroom
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=4099+Easton+
  Loop+W%2C+Columbus%2C+OH&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

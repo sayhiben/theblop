@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:73c95644-80fc-4086-b406-63a209015507
+UID:841e8c8d-c711-4dfe-8746-878227aafc99
 SEQUENCE:0
-DTSTAMP:20250313T031818Z
-DTSTART:20250315T110000
-DTEND:20250315T150000
+DTSTAMP:20250314T072603Z
+DTSTART:20250315T180000
+DTEND:20250315T200000
 SUMMARY:Tesla Takedown Devon PA
 LOCATION:470 Lancaster Ave\, Devon\, PA 19333 US
 DESCRIPTION:We are organizing a protest action against Tesla. Join us in s
@@ -15,5 +15,6 @@ DESCRIPTION:We are organizing a protest action against Tesla. Join us in s
   Let's make our voices heard!\n\nTesla
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=470+Lancaste
  r+Ave%2C+Devon%2C+PA+19333+US&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

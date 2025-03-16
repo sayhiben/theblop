@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:58c63f66-1abc-4642-8a38-74f682c4901b
+UID:703afb83-0647-4af9-832f-f25a72c4aa9f
 SEQUENCE:0
-DTSTAMP:20250312T090406Z
-DTSTART:20250317T110000
-DTEND:20250317T150000
+DTSTAMP:20250314T072603Z
+DTSTART:20250317T180000
+DTEND:20250317T200000
 SUMMARY:Stand with Immigrants
 LOCATION:1750 Welton St\, Denver\, CO
 DESCRIPTION:Join us for a community march as part of Latino Advocacy Day\,
@@ -14,5 +14,6 @@ DESCRIPTION:Join us for a community march as part of Latino Advocacy Day\,
   St\, Denver
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=1750+Welton+
  St%2C+Denver%2C+CO&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

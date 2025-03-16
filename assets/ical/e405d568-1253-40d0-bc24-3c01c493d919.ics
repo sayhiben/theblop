@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:d87e0e08-f822-433d-bdf8-f6a1b888ec52
+UID:949911e4-0a59-4719-bfb1-9e48e5bcef00
 SEQUENCE:0
-DTSTAMP:20250312T060241Z
-DTSTART:20250316T120000
-DTEND:20250316T160000
+DTSTAMP:20250314T072603Z
+DTSTART:20250316T190000
+DTEND:20250316T210000
 SUMMARY:NOLA's First Tesla Protest and Rally
 LOCATION:405 Third St\, New Orleans\, LA 70130
 DESCRIPTION:Join us for NOLA's First Tesla Protest and Rally as we stand a
@@ -15,5 +15,6 @@ DESCRIPTION:Join us for NOLA's First Tesla Protest and Rally as we stand a
  upYard
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=405+Third+St
  %2C+New+Orleans%2C+LA+70130&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

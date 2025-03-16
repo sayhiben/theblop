@@ -2,16 +2,16 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:ee178924-ee95-4e86-a9bf-2eec5fd9530a
+UID:705497a2-e2ae-4a70-80ff-5213622c86c0
 SEQUENCE:0
-DTSTAMP:20250310T002409Z
-DTSTART:20250330T130000
-DTEND:20250330T170000
+DTSTAMP:20250314T072603Z
+DTSTART:20250330T200000
+DTEND:20250330T220000
 SUMMARY:Rally for Trans Visibility
-LOCATION:Federal Plaza\, Chicago
-DESCRIPTION:Join us to make clear that fascism is not welcome here and tha
- t we will resist Trump's immoral agenda.\n\nFederal Plaza\, Chicago
+LOCATION:Federal Plaza\, Chicago\, Chicago\, IL
+DESCRIPTION:\n\nFederal Plaza\, Chicago
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Federal+Plaz
- a%2C+Chicago&zoom=15&basemap=roadmap
+ a%2C+Chicago%2C+Chicago%2C+IL&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

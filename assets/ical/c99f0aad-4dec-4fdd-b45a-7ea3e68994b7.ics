@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:fd5a49bd-f948-42b0-8e43-5c8d991285d8
+UID:1ecf86df-d4e9-4989-9850-d020c3aa7d95
 SEQUENCE:0
-DTSTAMP:20250312T180257Z
-DTSTART:20250313T163000
-DTEND:20250313T203000
+DTSTAMP:20250314T065639Z
+DTSTART:20250313T233000
+DTEND:20250314T013000
 SUMMARY:Demand a Townhall from Rep. Andy Harris rally
 LOCATION:Church Creek Road & Ocean Gateway\, Cambridge\, MD
 DESCRIPTION:Join us to demand accountability and communication from Rep. A
@@ -14,5 +14,6 @@ DESCRIPTION:Join us to demand accountability and communication from Rep. A
  .\n\nPublic sidewalk in front of Hyatt at Hwy 50
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Church+Creek
  +Road+%26+Ocean+Gateway%2C+Cambridge%2C+MD&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

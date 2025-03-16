@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:076f06e1-7324-4cda-8d3e-cb08f54a1d64
+UID:08de9e6c-c467-41fb-9d8d-9171cef4c091
 SEQUENCE:0
-DTSTAMP:20250313T031818Z
-DTSTART:20250315T110000
-DTEND:20250315T150000
+DTSTAMP:20250314T072603Z
+DTSTART:20250315T180000
+DTEND:20250315T200000
 SUMMARY:Peaceful Protest at Tesla Golden Valley\, MN (Week 5)
 LOCATION:700 Ottawa Ave N\, Golden Valley\, MN
 DESCRIPTION:Join us for a peaceful protest at Tesla Showroom intending to 
@@ -16,5 +16,6 @@ DESCRIPTION:Join us for a peaceful protest at Tesla Showroom intending to
   lives and democracy.\n\nTesla Showroom
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=700+Ottawa+A
  ve+N%2C+Golden+Valley%2C+MN&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

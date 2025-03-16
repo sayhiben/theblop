@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:2e25f48b-f08c-4a31-a46c-e8b29c8ca9ff
+UID:d50a8961-f99e-4f34-b9af-5a479f46d186
 SEQUENCE:0
-DTSTAMP:20250311T090339Z
-DTSTART:20250314T120000
-DTEND:20250314T160000
+DTSTAMP:20250314T072603Z
+DTSTART:20250314T190000
+DTEND:20250314T210000
 SUMMARY:Walk to Rep Brian Mast Stuart\, FL
 LOCATION:59 Southwest Flagler Avenue\, Stuart\, FL
 DESCRIPTION:Join us to protest actions by President Trump and Elon Musk\, 
@@ -14,5 +14,6 @@ DESCRIPTION:Join us to protest actions by President Trump and Elon Musk\,
  ter and march to Brian Mast's office.\n\nLyric Theater
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=59+Southwest
  +Flagler+Avenue%2C+Stuart%2C+FL&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

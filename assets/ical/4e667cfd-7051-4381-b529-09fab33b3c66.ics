@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:45f604ff-1916-4ad6-bbf6-05e180541fa7
+UID:2987c9f0-0e5f-4f7b-afe6-2ca96ca90614
 SEQUENCE:0
-DTSTAMP:20250313T060225Z
-DTSTART:20250405T130000
-DTEND:20250405T170000
+DTSTAMP:20250314T072603Z
+DTSTART:20250405T200000
+DTEND:20250405T220000
 SUMMARY:Remove Reverse Reclaim
 LOCATION:Corner of Lake Cook & AH roads\, Buffalo Grove\, IL
 DESCRIPTION:Join us in a nationwide protest to remove corrupt politicians 
@@ -15,5 +15,6 @@ DESCRIPTION:Join us in a nationwide protest to remove corrupt politicians
  es.\n\n
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Corner+of+La
  ke+Cook+%26+AH+roads%2C+Buffalo+Grove%2C+IL&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

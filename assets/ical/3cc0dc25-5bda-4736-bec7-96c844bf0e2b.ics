@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:859517ae-0404-44f7-b1b9-d5dc75f4b993
+UID:56ac9237-b9da-48a1-9db5-228b9094e499
 SEQUENCE:0
-DTSTAMP:20250311T043711Z
-DTSTART:20250322T150000
-DTEND:20250322T190000
+DTSTAMP:20250314T072603Z
+DTSTART:20250322T220000
+DTEND:20250323T000000
 SUMMARY:Town Hall Meeting
 LOCATION:629 Poyntz Ave.\, Manhattan\, KS
 DESCRIPTION:Your voice matters Discuss issues facing our community. Ask qu
@@ -14,5 +14,6 @@ DESCRIPTION:Your voice matters Discuss issues facing our community. Ask qu
  orium
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=629+Poyntz+A
  ve.%2C+Manhattan%2C+KS&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:069ad684-db35-4526-bd9a-77b39624848c
+UID:3003a16c-ba66-4957-92cc-3ca7f22ac437
 SEQUENCE:0
-DTSTAMP:20250307T060858Z
-DTSTART:20250322T140000
-DTEND:20250322T180000
+DTSTAMP:20250314T072603Z
+DTSTART:20250322T210000
+DTEND:20250322T230000
 SUMMARY:Stand for Democracy
 LOCATION:Courthouse Square\, Dayton\, OH
 DESCRIPTION:Join us on March 22nd Courthouse Square Dayton\, OH @2PM for a
@@ -14,5 +14,6 @@ DESCRIPTION:Join us on March 22nd Courthouse Square Dayton\, OH @2PM for a
   OH
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Courthouse+S
  quare%2C+Dayton%2C+OH&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

@@ -2,17 +2,17 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:77ac51d2-c89d-416d-b55b-d51d71238716
+UID:e60200c9-bd23-438a-be75-f9485696ce74
 SEQUENCE:0
-DTSTAMP:20250304T015830Z
-DTSTART:20250404T001500
-DTEND:20250404T041500
+DTSTAMP:20250314T072603Z
+DTSTART:20250404T011500
+DTEND:20250404T031500
 SUMMARY:Resistance through gathering - Discussion - Let This Radicalize Yo
  u
 LOCATION:3242 South Acoma Street\, Englewood\, CO
-DESCRIPTION:Join us to make clear that fascism is not welcome here and tha
- t we will resist Trump's immoral agenda.\n\nLady Justice Brewing
+DESCRIPTION:\n\nLady Justice Brewing
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=3242+South+A
  coma+Street%2C+Englewood%2C+CO&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

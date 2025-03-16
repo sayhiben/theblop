@@ -2,16 +2,17 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:186b4ce3-d4db-4633-a391-313d279d8678
+UID:208afd47-43b3-42e5-b721-03bd4906164a
 SEQUENCE:0
-DTSTAMP:20250306T175339Z
-DTSTART:20250314T160000
-DTEND:20250314T200000
+DTSTAMP:20250314T072603Z
+DTSTART:20250314T210000
+DTEND:20250314T230000
 SUMMARY:Protest Congresswoman Kat Cammack
 LOCATION:2630 SE 3RD STREET Ocala\, FL 34471
 DESCRIPTION:Join us to make clear that Trump's agenda is not welcome here 
  and we will resist it.\n\nMarion Co. Board of County Commissioners Complex
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=2630+SE+3RD+
  STREET+Ocala%2C+FL+34471&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:e94dd611-bfc0-403e-8007-607d3192c947
+UID:fc7ce7f8-3511-48ad-9d6c-1fa300a0e90d
 SEQUENCE:0
-DTSTAMP:20250313T031818Z
-DTSTART:20250315T130000
-DTEND:20250315T170000
+DTSTAMP:20250314T072603Z
+DTSTART:20250315T200000
+DTEND:20250315T220000
 SUMMARY:Tesla Takedown Fresno
 LOCATION:711 W Palmdon Dr\, Fresno\, CA
 DESCRIPTION:Join us in Fresno to protest Elon Musk and DOGE's illegal and 
@@ -17,5 +17,6 @@ DESCRIPTION:Join us in Fresno to protest Elon Musk and DOGE's illegal and
  top Musk and protect our democracy.\n\nTesla Dealership
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=711+W+Palmdo
  n+Dr%2C+Fresno%2C+CA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

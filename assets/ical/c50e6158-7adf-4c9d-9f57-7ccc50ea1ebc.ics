@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:7eec6318-3e05-4729-8bf0-3e87a19b316e
+UID:b2bab935-1e42-49e0-959b-fc7231ad0364
 SEQUENCE:0
-DTSTAMP:20250311T090339Z
-DTSTART:20250315T093000
-DTEND:20250315T133000
+DTSTAMP:20250314T072603Z
+DTSTART:20250315T163000
+DTEND:20250315T183000
 SUMMARY:Musk Tesla Protest
 LOCATION:34th Street North\, Pinellas County\, FL
 DESCRIPTION:Join us for a protest in front of Tesla Motors. Organized by T
@@ -14,5 +14,6 @@ DESCRIPTION:Join us for a protest in front of Tesla Motors. Organized by T
  xpressing our message.\n\n
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=34th+Street+
  North%2C+Pinellas+County%2C+FL&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:785e8a8b-1ed1-41bd-96ce-a2216db82521
+UID:06c90c54-5b55-422b-977f-f597e2965337
 SEQUENCE:0
-DTSTAMP:20250313T031818Z
-DTSTART:20250315T140000
-DTEND:20250315T180000
+DTSTAMP:20250314T072603Z
+DTSTART:20250315T210000
+DTEND:20250315T230000
 SUMMARY:We The People
 LOCATION:6800 Orchard Lake Rd\, West Bloomfield\, MI
 DESCRIPTION:We are taking action against Tesla. Join the movement by selli
@@ -15,5 +15,6 @@ DESCRIPTION:We are taking action against Tesla. Join the movement by selli
  p save lives and our democracy.\n\nTesla
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=6800+Orchard
  +Lake+Rd%2C+West+Bloomfield%2C+MI&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

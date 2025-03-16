@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:eb2237aa-c5e5-456c-b769-278438f208b4
+UID:8c9b3be0-2ec1-42ac-844d-8485294e6036
 SEQUENCE:0
-DTSTAMP:20250313T031818Z
-DTSTART:20250315T110000
-DTEND:20250315T150000
+DTSTAMP:20250314T072603Z
+DTSTART:20250315T180000
+DTEND:20250315T200000
 SUMMARY:Tesla Takedown Devon PA
 LOCATION:470 Lancaster Ave\, Devon\, PA
 DESCRIPTION:We are taking action at Tesla by selling Teslas\, dumping stoc
@@ -15,5 +15,6 @@ DESCRIPTION:We are taking action at Tesla by selling Teslas\, dumping stoc
  s is the fifth week of protest\, with growing participation.\n\nTesla
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=470+Lancaste
  r+Ave%2C+Devon%2C+PA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

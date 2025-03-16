@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:b8c9718c-be7c-48c3-8401-f30372f8531c
+UID:dfdfc492-a048-4408-8b06-4e194c966f27
 SEQUENCE:0
-DTSTAMP:20250313T031818Z
-DTSTART:20250313T161500
-DTEND:20250313T201500
+DTSTAMP:20250314T065639Z
+DTSTART:20250313T231500
+DTEND:20250314T011500
 SUMMARY:Tesla Takedown SLU Evening Rush Hour Picket
 LOCATION:435 Westlake Ave N\, Seattle\, WA
 DESCRIPTION:We are organizing a low-key\, persistent\, informational picke
@@ -15,5 +15,6 @@ DESCRIPTION:We are organizing a low-key\, persistent\, informational picke
  nd contribute to saving lives and our democracy.\n\nTesla SLU Showroom
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=435+Westlake
  +Ave+N%2C+Seattle%2C+WA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

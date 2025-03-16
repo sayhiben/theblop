@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:d8a73a0f-bb5d-4d5f-98f7-11bfd703b5b8
+UID:83e8de4f-c3be-4d7c-8511-0983148695fc
 SEQUENCE:0
-DTSTAMP:20250313T031818Z
-DTSTART:20250315T120000
-DTEND:20250315T160000
+DTSTAMP:20250314T072603Z
+DTSTART:20250315T190000
+DTEND:20250315T210000
 SUMMARY:3/15 Tesla Takedown - Alhambra
 LOCATION:1200 W. Main Street\, Alhambra\, CA
 DESCRIPTION:Join us for a lunch break protest against Tesla at the Tesla D
@@ -16,5 +16,6 @@ DESCRIPTION:Join us for a lunch break protest against Tesla at the Tesla D
  save lives and democracy.\n\nTesla Dealership
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=1200+W.+Main
  +Street%2C+Alhambra%2C+CA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR
