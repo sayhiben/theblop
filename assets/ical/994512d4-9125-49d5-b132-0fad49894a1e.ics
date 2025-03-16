@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:9603e8da-15b0-4c25-b9fc-d372ba818586
+SEQUENCE:0
+DTSTAMP:20250316T180251Z
+DTSTART:20250316T160000
+DTEND:20250316T200000
+SUMMARY:Pop-Up Protest WPB
+LOCATION:North side of Southern Blvd across from Dreher Park\, West Palm B
+ each\, FL
+DESCRIPTION:Join us for a pop-up protest against Trump today across from D
+ reher Park. Our gathering aims to express our dissent as Trump's motorcade
+  will pass by. Please arrive early—by 4 PM—to ensure participation bef
+ ore road closures. Bring your signs\, flags\, and voices. We look forward 
+ to your support in this fight for democracy.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=North+side+o
+ f+Southern+Blvd+across+from+Dreher+Park%2C+West+Palm+Beach%2C+FL&zoom=15&b
+ asemap=roadmap
+END:VEVENT
+END:VCALENDAR

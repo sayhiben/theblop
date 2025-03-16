@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:d3834a4c-763c-4aa0-85c4-43771291ca55
+SEQUENCE:0
+DTSTAMP:20250316T180251Z
+DTSTART:20250415T090000
+DTEND:20250415T130000
+SUMMARY:Annual Tech Innovators Conference 2025
+LOCATION:123 Tech Lane\, San Jose\, CA 95110
+DESCRIPTION:Join us for the Annual Tech Innovators Conference 2025! Indust
+ ry leaders and tech enthusiasts from around the world will gather for insi
+ ghtful discussions\, networking\, and innovation showcases.\n\nSilicon Val
+ ley Convention Center
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=123+Tech+Lan
+ e%2C+San+Jose%2C+CA+95110&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

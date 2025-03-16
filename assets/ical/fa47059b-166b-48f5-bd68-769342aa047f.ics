@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:b3f329a3-7756-48dc-a35d-0865fecc2907
+SEQUENCE:0
+DTSTAMP:20250316T180251Z
+DTSTART:20250319T160000
+DTEND:20250319T200000
+SUMMARY:WE THE PEOPLE BUILT AMERICA
+LOCATION:1st St. / 118 Freeway Overpass\, Simi Valley\, CA
+DESCRIPTION:We are organizing a peaceful gathering to reclaim our place in
+  America. Join us to demonstrate unity and strength without violence or ha
+ te speech.\n\n1st St. / 118 Freeway Overpass
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=1st+St.+%2F+
+ 118+Freeway+Overpass%2C+Simi+Valley%2C+CA&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

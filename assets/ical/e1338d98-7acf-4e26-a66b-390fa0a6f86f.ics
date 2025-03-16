@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:00fc5772-9958-478f-b072-35cbca768447
+SEQUENCE:0
+DTSTAMP:20250316T180251Z
+DTSTART:20250316T160000
+DTEND:20250316T200000
+SUMMARY:Pop-Up Protest WPB
+LOCATION:\, West Palm Beach\, FL
+DESCRIPTION:Join us for a protest against Trump across from Dreher Park. A
+ rrive early at 4 PM to avoid road closures. Trump's motorcade is expected 
+ around 5:15 PM. We encourage everyone to fight for democracy.\n\nAcross fr
+ om Dreher Park
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+West+Pal
+ m+Beach%2C+FL&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

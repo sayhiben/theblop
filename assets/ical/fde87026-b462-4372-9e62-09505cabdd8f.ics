@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:3cc5f2d9-a14e-491c-a14c-bafb5b3951bc
+SEQUENCE:0
+DTSTAMP:20250316T180251Z
+DTSTART:20250704T000000
+DTEND:20250704T040000
+SUMMARY:4th of July Protest
+LOCATION:Capitol\, Washington\, DC
+DESCRIPTION:Join us at the Washington D.C. Capitol for a peaceful protest 
+ on the 4th of July. Our goal is to "take back America." This event will pr
+ oceed rain or shine\, and we encourage everyone to spread the message far 
+ and wide.\n\nWashington D.C. Capitol
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Capitol%2C+W
+ ashington%2C+DC&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR
