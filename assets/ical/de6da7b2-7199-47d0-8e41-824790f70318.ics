@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:129fed64-2a76-4508-83d7-410cca1051b7
+SEQUENCE:0
+DTSTAMP:20250316T031514Z
+DTSTART:20250321T153000
+DTEND:20250321T193000
+SUMMARY:Protest Trump/Musk Illegal Actions
+LOCATION:304 Brinks Circle\, Sterling\, IL
+DESCRIPTION:Join us as we protest the illegal actions attributed to Trump 
+ and Musk\, advocating for accountability and change with 'Action for a Bet
+ ter Tomorrow Sauk Valley.'\n\nGrandon Civic Center
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=304+Brinks+C
+ ircle%2C+Sterling%2C+IL&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

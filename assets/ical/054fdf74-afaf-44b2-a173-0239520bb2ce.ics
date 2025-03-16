@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:16ea678f-d250-4d56-9c97-4f4aeef9e2f7
+SEQUENCE:0
+DTSTAMP:20250316T031514Z
+DTSTART:20250322T110000
+DTEND:20250322T150000
+SUMMARY:Protest for Democracy
+LOCATION:Montgomery County Courthouse\, Dayton\, OH
+DESCRIPTION:Join us at the Montgomery County Courthouse to protest the Tru
+ mp administration. Organized by The Mayday Coalition project.\n\nMontgomer
+ y County Courthouse
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Montgomery+C
+ ounty+Courthouse%2C+Dayton%2C+OH&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

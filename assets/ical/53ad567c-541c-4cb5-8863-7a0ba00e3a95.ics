@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:715a54f8-8c5d-4f3f-945e-56f53783e9f4
+SEQUENCE:0
+DTSTAMP:20250316T031514Z
+DTSTART:20250316T140000
+DTEND:20250316T180000
+SUMMARY:Sign Waving Protest
+LOCATION:20398 Edwards Rd E\, Bonney Lake\, WA
+DESCRIPTION:We are hosting a sign-waving protest to champion democracy as 
+ a grassroots effort. Organized by Knights Who Say Ni and 50501 Movement Wa
+ shington State\, everyone is welcome to join.\n\nSR 410 & 204th Bonney Lak
+ e
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=20398+Edward
+ s+Rd+E%2C+Bonney+Lake%2C+WA&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:d3b39afc-66b2-4789-b613-b07d9f984bd1
+SEQUENCE:0
+DTSTAMP:20250316T031514Z
+DTSTART:20250319T174500
+DTEND:20250319T214500
+SUMMARY:Wasilla Protest
+LOCATION:821-915 George Park\, Wasilla\, AK
+DESCRIPTION:Join us at Newcomb Park Wasilla Lake for the Wasilla Protest. 
+ We aim to gather like-minded people to voice our concerns and build impact
+  in the community. Everyone\, including friends and pets\, is encouraged t
+ o bring their energy and signs.\n\nNewcomb Park Wasilla Lake
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=821-915+Geor
+ ge+Park%2C+Wasilla%2C+AK&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

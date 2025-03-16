@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:6c2ea5a5-de5b-4198-8d3d-15248a069c7c
+SEQUENCE:0
+DTSTAMP:20250316T031514Z
+DTSTART:20250324T100000
+DTEND:20250324T140000
+SUMMARY:PROTEST FOR DEMOCRACY
+LOCATION:9 Mill Ln\, Tunkhannock\, PA
+DESCRIPTION:Come make your voice heard at Feed Mill Park in Tunkhannock to
+  protest this administration's destruction of our democracy and our missin
+ g Representative Dan Meuser refusing to hold town hall meetings to hear yo
+ ur concerns.\n\nFeed Mill Park\, Tunkhannock\, Pa
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=9+Mill+Ln%2C
+ +Tunkhannock%2C+PA&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

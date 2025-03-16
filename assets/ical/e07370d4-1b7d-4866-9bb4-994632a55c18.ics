@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:d4e1c430-e0bc-4d63-8e59-93e49cb9e492
+SEQUENCE:0
+DTSTAMP:20250316T031514Z
+DTSTART:20250316T110000
+DTEND:20250316T150000
+SUMMARY:Protest against project 2025 and heritage foundation
+LOCATION:Poulsbo Waterfront Park
+DESCRIPTION:Join us at Poulsbo Waterfront Park for a peaceful rally agains
+ t Project 2025 and the Heritage Foundation. Organized by Knights Who Say N
+ i and 50501 Movement Washington State\, this event gathers community membe
+ rs to express concerns and demand action.\n\nPoulsbo Waterfront Park
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Poulsbo+Wate
+ rfront+Park&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

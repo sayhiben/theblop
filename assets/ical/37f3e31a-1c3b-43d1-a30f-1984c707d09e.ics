@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:9eb24e74-bb02-416e-b60c-6e959678eddb
+SEQUENCE:0
+DTSTAMP:20250316T031514Z
+DTSTART:20250405T090000
+DTEND:20250405T130000
+SUMMARY:50501 Protest
+LOCATION:110 N Capitol Ave\, Lansing\, MI
+DESCRIPTION:Join us in Lansing to push back against tyranny. We are protes
+ ting various issues facing us now. Parking is available nearby at the Libr
+ ary of Michigan.\n\nMichigan State Capitol
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=110+N+Capito
+ l+Ave%2C+Lansing%2C+MI&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

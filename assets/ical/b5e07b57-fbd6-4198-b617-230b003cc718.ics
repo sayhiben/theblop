@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:28cd0395-bbf5-4eb4-a552-f388dee5751b
+SEQUENCE:0
+DTSTAMP:20250316T031514Z
+DTSTART:20250316T170000
+DTEND:20250316T210000
+SUMMARY:Protest Songs
+LOCATION:Stonewall Inn\, the Village\, New York City\, New York\, NY
+DESCRIPTION:We are hosting "Protest Songs" at the iconic Stonewall Inn\, w
+ here we will present brand-new protest songs addressing social injustice\,
+  war\, and civil rights. The event features performances by numerous artis
+ ts and composers\, emphasizing the need to stand up against current threat
+ s to freedoms\, democracies\, and artistic expressions.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Stonewall+In
+ n%2C+the+Village%2C+New+York+City%2C+New+York%2C+NY&zoom=15&basemap=roadma
+ p
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:001bc974-04a1-4887-953a-afd367b5de4d
+SEQUENCE:0
+DTSTAMP:20250316T031514Z
+DTSTART:20250329T100000
+DTEND:20250329T140000
+SUMMARY:Family Friendly March for Democracy and Decency
+LOCATION:9703 NE Juanita Dr\, Kirkland\, WA
+DESCRIPTION:Join us for a nationwide movement to defend democracy and stan
+ d up for human rights. Participate in sign-making and a march as we unite 
+ for a common cause.\n\nAt Juanita Beach Amphitheater and the intersection 
+ of 98th Ave NE and NE 116th Street
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=9703+NE+Juan
+ ita+Dr%2C+Kirkland%2C+WA&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

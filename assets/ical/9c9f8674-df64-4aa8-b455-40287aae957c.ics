@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:b9849788-21f1-49fe-9ee7-ee6d2de43238
+SEQUENCE:0
+DTSTAMP:20250316T031514Z
+DTSTART:20250316T120000
+DTEND:20250316T160000
+SUMMARY:50501 Protest Flyer
+LOCATION:Heritage Foundation\, Washington\, DC
+DESCRIPTION:Join us for a protest at the Heritage Foundation. This is an u
+ rgent call to action for protesters.\n\nHeritage Foundation
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Heritage+Fou
+ ndation%2C+Washington%2C+DC&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

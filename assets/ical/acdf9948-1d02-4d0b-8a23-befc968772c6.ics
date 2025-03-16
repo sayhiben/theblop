@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:5e28a47a-ff3a-4b50-87d0-0c6fdc69dbab
+SEQUENCE:0
+DTSTAMP:20250316T031514Z
+DTSTART:20250316T140000
+DTEND:20250316T180000
+SUMMARY:Stand Up/Speak Out
+LOCATION:7th St Park\, Hudson\, NY
+DESCRIPTION:Join us at 7th St Park in Hudson\, NY\, on March 16 at 2 PM fo
+ r a rally to protest Trump cuts. Bring your signs and voices and stand wit
+ h us against these policies. The event is co-sponsored by numerous organiz
+ ations committed to making a difference.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=7th+St+Park%
+ 2C+Hudson%2C+NY&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

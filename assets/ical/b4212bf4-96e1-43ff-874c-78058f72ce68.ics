@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:9a19d6d7-b1d4-4343-b4c1-4fedf6216f6e
+SEQUENCE:0
+DTSTAMP:20250316T031514Z
+DTSTART:20250321T160000
+DTEND:20250321T200000
+SUMMARY:RECALL MUSK! Peaceful Protest!
+LOCATION:6458 Carlisle Pike\, Mechanicsburg\, PA
+DESCRIPTION:We're leading a peaceful demonstration on the sidewalk\, ONLY\
+ , outside of the Mechanicsburg\, PA\, Tesla dealership to let the communit
+ y know that supporting Tesla is bad for democracy\, and to remind our enti
+ re community that Elon Musk's lawless actions are dangerous and won't be t
+ olerated.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=6458+Carlisl
+ e+Pike%2C+Mechanicsburg%2C+PA&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:0dc920a3-708e-4a81-9eca-9ef461a8a8f5
+SEQUENCE:0
+DTSTAMP:20250316T031514Z
+DTSTART:20250322T180000
+DTEND:20250322T220000
+SUMMARY:Protest the lack of leadership from Minority Leader Chuck Schumer!
+LOCATION:275 Hayes Street\, San Francisco\, CA
+DESCRIPTION:We are organizing a protest to express dissatisfaction with Mi
+ nority Leader Chuck Schumer's recent actions\, particularly his perceived 
+ alignment with the Trump agenda and lack of Democratic cooperation. Join u
+ s to peacefully voice concerns about his priorities and leadership.\n\nSyd
+ ney Goldstein Theater
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=275+Hayes+St
+ reet%2C+San+Francisco%2C+CA&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

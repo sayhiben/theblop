@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:b138b457-9050-45a1-bc9b-92ca6859a6f9
+SEQUENCE:0
+DTSTAMP:20250316T031514Z
+DTSTART:20250316T100000
+DTEND:20250316T140000
+SUMMARY:Tesla Time!!!!
+LOCATION:9595 Six Pines Dr\, The Woodlands\, TX
+DESCRIPTION:Join us for a peaceful protest at the Market Street Tesla Loca
+ tion. We aim to gather to bring attention to our cause in a safe manner. P
+ lease do not bring any weapons or illegal items. We encourage participants
+  to bring essentials like water\, snacks\, and personal items for comfort.
+  Our group color is green to symbolize our message.\n\nMarket Street Tesla
+  Location
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=9595+Six+Pin
+ es+Dr%2C+The+Woodlands%2C+TX&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

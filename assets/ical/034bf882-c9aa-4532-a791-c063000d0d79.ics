@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:4f63425b-9136-4778-a401-c82bb8a501a5
+SEQUENCE:0
+DTSTAMP:20250316T031514Z
+DTSTART:20250419T120000
+DTEND:20250419T160000
+SUMMARY:Earth Day Protest & Egg Hunt
+LOCATION:State Capital\, Olympia\, WA
+DESCRIPTION:Join us for an Earth Day "Protest & Egg Hunt" organized by Myc
+ elichor. It's an educational egg hunt for adults starting at 12 PM around 
+ the Tivoli Fountain\, followed by a march from the Tivoli Lawn to the Capi
+ tol Steps at 2 PM for speeches and chants. The protest will continue along
+  the street until 4 PM. Please bring a bag and camping chair.\n\nTivoli La
+ wn
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=State+Capita
+ l%2C+Olympia%2C+WA&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

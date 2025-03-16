@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:6f2094b1-f792-4ca5-86df-0cf29105a6ea
+SEQUENCE:0
+DTSTAMP:20250316T031514Z
+DTSTART:20250405T120000
+DTEND:20250405T160000
+SUMMARY:We the People Veto Project 2025
+LOCATION:Town Square\, Anchorage\, AK
+DESCRIPTION:Join us for People's Veto Day to peacefully dissent against th
+ e Trump-Musk coup and protect public interests such as Medicaid\, Medicare
+ \, and more.\n\nBegich to Murkowski Town Square
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Town+Square%
+ 2C+Anchorage%2C+AK&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR
