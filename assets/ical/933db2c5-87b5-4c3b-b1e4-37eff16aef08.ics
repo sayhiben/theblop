@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:31286270-5a4d-4b8f-84a2-aa96cf4b905b
+UID:41f85f8f-5d8f-4464-9049-d629d16d54f1
 SEQUENCE:0
-DTSTAMP:20250316T031514Z
-DTSTART:20250319T160000
-DTEND:20250319T200000
+DTSTAMP:20250316T195858Z
+DTSTART:20250319T230000
+DTEND:20250320T010000
 SUMMARY:Musk or Us Protest
 LOCATION:22630 NE Marketplace Dr\, Meet at the intersection of Novelty Hil
  l and Redmond Ridge Dr.\, Redmond\, WA
@@ -16,5 +16,6 @@ DESCRIPTION:This is a local Indivisible event! Please join us every Wednes
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=22630+NE+Mar
  ketplace+Dr%2C+Meet+at+the+intersection+of+Novelty+Hill+and+Redmond+Ridge+
  Dr.%2C+Redmond%2C+WA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

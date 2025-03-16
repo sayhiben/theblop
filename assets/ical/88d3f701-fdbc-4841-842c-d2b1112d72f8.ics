@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:03991c42-0461-410a-a85b-cb3d605dcc48
+UID:e57c864c-cb0d-4aff-9bcc-3a2a88be6935
 SEQUENCE:0
-DTSTAMP:20250315T000533Z
-DTSTART:20250329T100000
-DTEND:20250329T140000
+DTSTAMP:20250316T195858Z
+DTSTART:20250329T170000
+DTEND:20250329T190000
 SUMMARY:23rd Annual Sacramento Cesar Chavez March
 LOCATION:Southside Park\, 6th Street and "T" Street\, Sacramento\, CA
 DESCRIPTION:Join us for the 23rd Annual Sacramento Cesar Chavez March to c
@@ -16,5 +16,6 @@ DESCRIPTION:Join us for the 23rd Annual Sacramento Cesar Chavez March to c
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Southside+Pa
  rk%2C+6th+Street+and+%22T%22+Street%2C+Sacramento%2C+CA&zoom=15&basemap=ro
  admap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

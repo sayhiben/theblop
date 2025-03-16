@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:078c920d-1b7b-4a8e-9538-52efad720752
+UID:8e87e472-cd5d-4851-be35-7ebe008e55cd
 SEQUENCE:0
-DTSTAMP:20250316T031514Z
-DTSTART:20250319T143000
-DTEND:20250319T183000
+DTSTAMP:20250316T195858Z
+DTSTART:20250319T213000
+DTEND:20250319T233000
 SUMMARY:Guantanamo Bay Protest
 LOCATION:\, Livingston\, MT
 DESCRIPTION:Join us in a public protest titled 'Guantanamo Bay Protest' to
@@ -16,5 +16,6 @@ DESCRIPTION:Join us in a public protest titled 'Guantanamo Bay Protest' to
  ht
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+Livingst
  on%2C+MT&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

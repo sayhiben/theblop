@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:ec3b3d42-aeb8-4a18-917c-d051249c2272
+UID:c7ff6659-f3e3-41db-8be8-9ae5c6560bee
 SEQUENCE:0
-DTSTAMP:20250316T050604Z
-DTSTART:20250329T080000
-DTEND:20250329T120000
+DTSTAMP:20250316T195858Z
+DTSTART:20250329T150000
+DTEND:20250329T170000
 SUMMARY:Protest
 LOCATION:1000 Throckmorton St\, Fort Worth\, TX
 DESCRIPTION:Protest with us for women's rights\, LGBTQ+ rights\, and envir
@@ -14,5 +14,6 @@ DESCRIPTION:Protest with us for women's rights\, LGBTQ+ rights\, and envir
  y Hall
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=1000+Throckm
  orton+St%2C+Fort+Worth%2C+TX&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

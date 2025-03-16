@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:301de583-304e-460d-b46d-9cbed0866e8c
+UID:e67ee419-befd-48dd-84ce-05bf0e92ad7f
 SEQUENCE:0
-DTSTAMP:20250316T031514Z
-DTSTART:20250316T110000
-DTEND:20250316T150000
+DTSTAMP:20250316T195858Z
+DTSTART:20250316T180000
+DTEND:20250316T200000
 SUMMARY:Signs of the Times - Lets make Protest signs!
 LOCATION:2512 SE 25th Ave. suite 206\, Portland\, OR
 DESCRIPTION:Come join us at the Geode for protest sign making. Let’s up 
@@ -15,5 +15,6 @@ DESCRIPTION:Come join us at the Geode for protest sign making. Let’s up
  s such as poster boards\, big markers\, and pop-up tables.\n\nThe Geode
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=2512+SE+25th
  +Ave.+suite+206%2C+Portland%2C+OR&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

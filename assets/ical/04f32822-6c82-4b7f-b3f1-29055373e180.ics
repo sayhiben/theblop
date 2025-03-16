@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:5dfc048c-ecbe-4d6e-8cd9-89fa2c0199cd
+UID:6dc8a8db-1b67-45aa-a2b2-3aef05a5d561
 SEQUENCE:0
-DTSTAMP:20250316T031514Z
-DTSTART:20250322T120000
-DTEND:20250322T160000
+DTSTAMP:20250316T195858Z
+DTSTART:20250322T190000
+DTEND:20250322T210000
 SUMMARY:Peaceful Protest: REMOVE\, REVERSE\, RECLAIM
 LOCATION:Sidewalks near on/off ramps of 11777 Silver Spring Dr./Hwy 41\, M
  enomonee Falls\, WI
@@ -18,5 +18,6 @@ DESCRIPTION:Join us for a peaceful protest aimed at removing corrupt polit
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Sidewalks+ne
  ar+on%2Foff+ramps+of+11777+Silver+Spring+Dr.%2FHwy+41%2C+Menomonee+Falls%2
  C+WI&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

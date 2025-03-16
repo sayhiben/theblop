@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:e245ee4b-3d6b-4c27-8199-4aa6f7d6f56f
+UID:f87f038d-3e1e-4333-b150-5ab32020d8f6
 SEQUENCE:0
-DTSTAMP:20250314T210257Z
-DTSTART:20250330T130000
-DTEND:20250330T170000
+DTSTAMP:20250316T195858Z
+DTSTART:20250330T200000
+DTEND:20250330T220000
 SUMMARY:Fight for Trans Rights
 LOCATION:Federal Plaza\, Chicago\, IL
 DESCRIPTION:Join us in a protest organized by Trans Up Front and supported
@@ -14,5 +14,6 @@ DESCRIPTION:Join us in a protest organized by Trans Up Front and supported
  Federal Plaza\, Chicago
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Federal+Plaz
  a%2C+Chicago%2C+IL&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

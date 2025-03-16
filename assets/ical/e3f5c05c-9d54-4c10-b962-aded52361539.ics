@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:181f636e-30dd-43b5-ab45-963bbe2aa0c9
+UID:7b8bed4a-4891-472e-8720-856f57143f92
 SEQUENCE:0
-DTSTAMP:20250316T090230Z
-DTSTART:20250405T120000
-DTEND:20250405T160000
+DTSTAMP:20250316T195858Z
+DTSTART:20250405T190000
+DTEND:20250405T210000
 SUMMARY:Hands Off
 LOCATION:Washington Park\, Dubuque\, IA
 DESCRIPTION:We are hosting a nationwide mobilization titled "Hands Off" to
@@ -15,5 +15,6 @@ DESCRIPTION:We are hosting a nationwide mobilization titled "Hands Off" to
  r democracy.\n\n
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Washington+P
  ark%2C+Dubuque%2C+IA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

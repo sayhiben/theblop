@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:7a6ad317-02f8-4370-a9f8-47589aee3f6e
+UID:cf2ec995-bdd5-4558-9f3e-f2e0e7ed3cc6
 SEQUENCE:0
-DTSTAMP:20250315T180240Z
-DTSTART:20250405T120000
-DTEND:20250405T160000
+DTSTAMP:20250316T195858Z
+DTSTART:20250405T190000
+DTEND:20250405T210000
 SUMMARY:Remove\, Reverse\, Reclaim
 LOCATION:500 N Main Street\, Summerville\, SC
 DESCRIPTION:We are organizing a protest across all 50 states to remove cor
@@ -15,5 +15,6 @@ DESCRIPTION:We are organizing a protest across all 50 states to remove cor
  ether towards positive change.\n\nVeterans Memorial
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=500+N+Main+S
  treet%2C+Summerville%2C+SC&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

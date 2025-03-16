@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:01075e47-790d-4dee-a7de-a73fb60e4591
+UID:d083e174-0ff9-4779-9a29-0574cf1632ba
 SEQUENCE:0
-DTSTAMP:20250314T120340Z
-DTSTART:20250324T123000
-DTEND:20250324T163000
+DTSTAMP:20250316T195858Z
+DTSTART:20250324T193000
+DTEND:20250324T213000
 SUMMARY:Save Our Social Security
 LOCATION:\, Olympia\, WA
 DESCRIPTION:Join us to support and protect social security by participatin
@@ -15,5 +15,6 @@ DESCRIPTION:Join us to support and protect social security by participatin
  las!\n\nSenior Services\, 224 Columbia St NW\, Olympia
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+Olympia%
  2C+WA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

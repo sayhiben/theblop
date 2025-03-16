@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:58c6959c-8f43-4de6-bf14-bb768f741a11
+UID:1f10253f-58a0-4fd2-80a8-1d93c9e53058
 SEQUENCE:0
-DTSTAMP:20250316T000635Z
-DTSTART:20250320T110000
-DTEND:20250320T150000
+DTSTAMP:20250316T195858Z
+DTSTART:20250320T180000
+DTEND:20250320T200000
 SUMMARY:Hands off Our Public Postal Service: U.S. Mail is Not For Sale (Mi
  dtown)
 LOCATION:421 8th Ave\, New York\, NY
@@ -15,5 +15,6 @@ DESCRIPTION:Join us in a protest to protect our public postal service from
   public entity and not for sale.\n\nJames A. Farley Post Office
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=421+8th+Ave%
  2C+New+York%2C+NY&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

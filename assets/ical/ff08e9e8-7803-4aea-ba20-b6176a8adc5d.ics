@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:ff275375-1d32-4aa2-a5f3-4a4e19c7d03b
+UID:d02b0814-9307-4442-a230-96ddd727e881
 SEQUENCE:0
-DTSTAMP:20250316T031514Z
-DTSTART:20250406T120000
-DTEND:20250406T160000
+DTSTAMP:20250316T195858Z
+DTSTART:20250406T190000
+DTEND:20250406T210000
 SUMMARY:50501 Protest
 LOCATION:\, Oxford\, OH
 DESCRIPTION:Join us for a #50501 protest in Oxford\, Ohio\, at Miami Unive
@@ -15,5 +15,6 @@ DESCRIPTION:Join us for a #50501 protest in Oxford\, Ohio\, at Miami Unive
  e democracy.\n\nUptown Park
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+Oxford%2
  C+OH&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

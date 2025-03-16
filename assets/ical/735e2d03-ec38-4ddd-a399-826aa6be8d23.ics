@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:6c2ea5a5-de5b-4198-8d3d-15248a069c7c
+UID:c5c0c9bd-dd0f-48f5-b9a1-58908846294b
 SEQUENCE:0
-DTSTAMP:20250316T031514Z
-DTSTART:20250324T100000
-DTEND:20250324T140000
+DTSTAMP:20250316T195858Z
+DTSTART:20250324T170000
+DTEND:20250324T190000
 SUMMARY:PROTEST FOR DEMOCRACY
 LOCATION:9 Mill Ln\, Tunkhannock\, PA
 DESCRIPTION:Come make your voice heard at Feed Mill Park in Tunkhannock to
@@ -15,5 +15,6 @@ DESCRIPTION:Come make your voice heard at Feed Mill Park in Tunkhannock to
  ur concerns.\n\nFeed Mill Park\, Tunkhannock\, Pa
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=9+Mill+Ln%2C
  +Tunkhannock%2C+PA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

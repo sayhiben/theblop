@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:c12a70ef-22f9-49e3-b2e7-0890fb0b2c06
+UID:cdbdd99b-2496-4f6c-9848-a72e782f9670
 SEQUENCE:0
-DTSTAMP:20250316T090230Z
-DTSTART:20250322T130000
-DTEND:20250322T170000
+DTSTAMP:20250316T195858Z
+DTSTART:20250322T200000
+DTEND:20250322T220000
 SUMMARY:Defend Democracy Peaceful Protest
 LOCATION:5544 Okeechobee Blvd.\, West Palm Beach\, FL
 DESCRIPTION:Join us for a peaceful protest to defend democracy. We are gat
@@ -15,5 +15,6 @@ DESCRIPTION:Join us for a peaceful protest to defend democracy. We are gat
  is available at College Plaza.\n\nWPB Tesla Dealership
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=5544+Okeecho
  bee+Blvd.%2C+West+Palm+Beach%2C+FL&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

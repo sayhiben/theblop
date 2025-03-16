@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:13a21ddc-b7cd-4851-9412-3989a8684997
+UID:23a9bf6d-0f51-499d-9676-7b1d433b1739
 SEQUENCE:0
-DTSTAMP:20250314T120340Z
-DTSTART:20250405T120000
-DTEND:20250405T160000
+DTSTAMP:20250316T195858Z
+DTSTART:20250405T190000
+DTEND:20250405T210000
 SUMMARY:REMOVE REVERSE RECLAIM
 LOCATION:12 S Central Ave\, Medford\, OR
 DESCRIPTION:We are organizing a non-violent protest to remove corrupt poli
@@ -15,5 +15,6 @@ DESCRIPTION:We are organizing a non-violent protest to remove corrupt poli
  n\nVogel Plaza
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=12+S+Central
  +Ave%2C+Medford%2C+OR&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

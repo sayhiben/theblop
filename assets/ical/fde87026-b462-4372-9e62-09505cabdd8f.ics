@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:3cc5f2d9-a14e-491c-a14c-bafb5b3951bc
+UID:38f8c0a6-1a80-4589-b46b-e0f19031c726
 SEQUENCE:0
-DTSTAMP:20250316T180251Z
-DTSTART:20250704T000000
-DTEND:20250704T040000
+DTSTAMP:20250316T195858Z
+DTSTART:20250704T070000
+DTEND:20250704T090000
 SUMMARY:4th of July Protest
 LOCATION:Capitol\, Washington\, DC
 DESCRIPTION:Join us at the Washington D.C. Capitol for a peaceful protest 
@@ -15,5 +15,6 @@ DESCRIPTION:Join us at the Washington D.C. Capitol for a peaceful protest
  and wide.\n\nWashington D.C. Capitol
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Capitol%2C+W
  ashington%2C+DC&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

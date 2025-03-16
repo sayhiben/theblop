@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:f9f5c686-6f7e-47de-962f-b9700574417e
+UID:dfb68da5-2b28-49b8-9cdc-c9cda79b84f2
 SEQUENCE:0
-DTSTAMP:20250316T090229Z
-DTSTART:20250317T130000
-DTEND:20250317T170000
+DTSTAMP:20250316T195858Z
+DTSTART:20250317T200000
+DTEND:20250317T220000
 SUMMARY:2025 LGBTQ+ Lobby Day Rally
 LOCATION:131 West State Street\, Trenton\, NJ
 DESCRIPTION:Join us for the 2025 LGBTQ+ Lobby Day Rally to support equalit
@@ -15,5 +15,6 @@ DESCRIPTION:Join us for the 2025 LGBTQ+ Lobby Day Rally to support equalit
   our voices heard together.\n\nNew Jersey Statehouse Annex
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=131+West+Sta
  te+Street%2C+Trenton%2C+NJ&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

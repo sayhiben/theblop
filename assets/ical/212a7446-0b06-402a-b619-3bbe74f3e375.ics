@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:7c40f4b7-c385-4d97-804b-a9f2aa9e5648
+UID:002a53af-68c5-43e7-b149-a1f2dd7ccd2d
 SEQUENCE:0
-DTSTAMP:20250315T090245Z
-DTSTART:20250428T000000
-DTEND:20250428T040000
+DTSTAMP:20250316T195858Z
+DTSTART:20250428T070000
+DTEND:20250428T090000
 SUMMARY:State Capital Day
 LOCATION:\, Nationwide\, Nationwide
 DESCRIPTION:Join us in advocating for housing rights as a fundamental huma
@@ -14,5 +14,6 @@ DESCRIPTION:Join us in advocating for housing rights as a fundamental huma
  ent.\n\n
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+Nationwi
  de%2C+Nationwide&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

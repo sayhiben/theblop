@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:327514a2-ef51-4ad9-a989-70c82648ca96
+UID:0cf15574-d4ef-42eb-8c20-c494d3a7ef04
 SEQUENCE:0
-DTSTAMP:20250316T000636Z
-DTSTART:20250331T160000
-DTEND:20250331T200000
+DTSTAMP:20250316T195858Z
+DTSTART:20250331T230000
+DTEND:20250401T010000
 SUMMARY:March for Trans Day of Visibility
 LOCATION:\, New York\, NY
 DESCRIPTION:Join us in showing support and celebrating the trans community
@@ -15,5 +15,6 @@ DESCRIPTION:Join us in showing support and celebrating the trans community
  on Square
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+New+York
  %2C+NY&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

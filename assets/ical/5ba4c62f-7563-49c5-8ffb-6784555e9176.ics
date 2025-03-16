@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:0f564479-b172-4c64-ab71-a350527eec72
+UID:e0e4f6f3-8931-42c4-9ec0-7207025e86ff
 SEQUENCE:0
-DTSTAMP:20250316T031514Z
-DTSTART:20250329T120000
-DTEND:20250329T160000
+DTSTAMP:20250316T195858Z
+DTSTART:20250329T190000
+DTEND:20250329T210000
 SUMMARY:Now We Rise
 LOCATION:374 Town Street\, East Haddam\, East Haddam\, CT
 DESCRIPTION:We invite you to join us for the "Now We Rise" protest\, organ
@@ -16,5 +16,6 @@ DESCRIPTION:We invite you to join us for the "Now We Rise" protest\, organ
  iscourse.\n\nTwo Wrasslin’ Cats Accord
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=374+Town+Str
  eet%2C+East+Haddam%2C+East+Haddam%2C+CT&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

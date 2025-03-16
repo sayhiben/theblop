@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:6b5d016a-cbf4-4c5a-b32d-3852788fbdb2
+UID:e4b2524e-2938-4f2c-870f-ff5dee4a44fc
 SEQUENCE:0
-DTSTAMP:20250315T210323Z
-DTSTART:20250405T110000
-DTEND:20250405T150000
+DTSTAMP:20250316T195858Z
+DTSTART:20250405T180000
+DTEND:20250405T200000
 SUMMARY:Hands Off! Monterey Fights Back
 LOCATION:717 Del Monte Ave\, Monterey\, CA
 DESCRIPTION:We're taking to the streets to fight back with a clear message
@@ -15,5 +15,6 @@ DESCRIPTION:We're taking to the streets to fight back with a clear message
  2025.com.\n\nWindow on the Bay
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=717+Del+Mont
  e+Ave%2C+Monterey%2C+CA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:bd41aadc-e5a5-4be0-a0ed-35c418416e6a
+UID:0a8e2393-e624-4f8c-9d87-8b6d5400c18d
 SEQUENCE:0
-DTSTAMP:20250316T000635Z
-DTSTART:20250320T163000
-DTEND:20250320T203000
+DTSTAMP:20250316T195858Z
+DTSTART:20250320T233000
+DTEND:20250321T013000
 SUMMARY:Sign Making for the March for Our Constitution Protest
 LOCATION:Zamperini Field\, Torrance\, Torrance\, CA
 DESCRIPTION:Join us to make signs for the March for Our Constitution prote
@@ -15,5 +15,6 @@ DESCRIPTION:Join us to make signs for the March for Our Constitution prote
  n\n
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Zamperini+Fi
  eld%2C+Torrance%2C+Torrance%2C+CA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:79d0e393-d9b9-48d5-9335-6406d3384660
+SEQUENCE:0
+DTSTAMP:20250316T195858Z
+DTSTART:20250317T224500
+DTEND:20250318T004500
+SUMMARY:Musk or Us: Peaceful Protest in front of PDX Tesla- Week 4
+LOCATION:4330 S Macadam Ave\, Portland\, OR
+DESCRIPTION:Join us for a peaceful protest at the Tesla store in Portland.
+  This volunteer-organized visibility event calls for participants to wear 
+ green in the spirit of St. Patrick’s Day and bring an Irish energy of re
+ sistance.\n\nAt the Tesla store on Macadam Ave
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=4330+S+Macad
+ am+Ave%2C+Portland%2C+OR&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

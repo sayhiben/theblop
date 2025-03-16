@@ -2,16 +2,16 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:5c2cd541-9108-42d8-a770-01e360f5a101
+UID:c3a57bcf-cc6e-46de-8efb-5b4b15a5c3dd
 SEQUENCE:0
-DTSTAMP:20250314T072603Z
+DTSTAMP:20250316T195858Z
 DTSTART:20250316T190000
 DTEND:20250316T210000
 SUMMARY:Save America March
 LOCATION:214 Massachusetts Avenue N.E.\, Washington\, DC
 DESCRIPTION:Join us for the Save America March\, organized by the Heritage
   Foundation\, as we gather at 214 Massachusetts Avenue N.E. in Washington\
- , D.C. to rally together.\n\nHeritage Foundation
+ , D.C. to rally together.\n\nProtest against the Heritage Foundation
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=214+Massachu
  setts+Avenue+N.E.%2C+Washington%2C+DC&zoom=15&basemap=roadmap
 STATUS:CONFIRMED

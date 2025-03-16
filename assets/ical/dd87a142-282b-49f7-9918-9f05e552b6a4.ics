@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:537c0d54-c9eb-40e5-8935-3ab7b878ee36
+UID:5bf717b2-6151-48ad-a1fd-3a25e7d9305f
 SEQUENCE:0
-DTSTAMP:20250316T050604Z
-DTSTART:20250419T000000
-DTEND:20250419T040000
+DTSTAMP:20250316T195858Z
+DTSTART:20250419T070000
+DTEND:20250419T090000
 SUMMARY:Plan to Resist Trump’s Tyranny
 LOCATION:\, Nationwide\, Nationwide
 DESCRIPTION:Join us as we organize to resist against the violations of law
@@ -15,5 +15,6 @@ DESCRIPTION:Join us as we organize to resist against the violations of law
  viduals to stand against injustices.\n\n
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+Nationwi
  de%2C+Nationwide&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

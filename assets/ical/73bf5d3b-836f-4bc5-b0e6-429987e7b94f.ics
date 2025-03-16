@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:fb4c86c5-9d49-4117-8f19-d9c200a39012
+UID:d9efe07d-8d93-4dd2-9de8-c69b14e197a6
 SEQUENCE:0
-DTSTAMP:20250316T060211Z
-DTSTART:20250419T000000
-DTEND:20250419T040000
+DTSTAMP:20250316T195858Z
+DTSTART:20250419T070000
+DTEND:20250419T090000
 SUMMARY:Peaceful Protests Against Autocratic Rule
 LOCATION:\, Nationwide\, Nationwide
 DESCRIPTION:We are organizing massive peaceful protests in every city and 
@@ -14,5 +14,6 @@ DESCRIPTION:We are organizing massive peaceful protests in every city and
  ising while opposing increasingly autocratic rule.\n\nEvery city and town
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+Nationwi
  de%2C+Nationwide&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

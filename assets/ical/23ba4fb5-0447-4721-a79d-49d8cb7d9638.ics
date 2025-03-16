@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:f8a3e034-ef54-47c3-ba22-c7e5bc53003f
+UID:688d7f9e-95fb-4ee7-8efe-a3698f1b2d0a
 SEQUENCE:0
-DTSTAMP:20250315T180240Z
-DTSTART:20250327T160000
-DTEND:20250327T200000
+DTSTAMP:20250316T195858Z
+DTSTART:20250327T230000
+DTEND:20250328T010000
 SUMMARY:STOP Project 2025
 LOCATION:\, Brevard\, FL
 DESCRIPTION:Join us for the STOP Project 2025\, a public demonstration org
@@ -15,5 +15,6 @@ DESCRIPTION:Join us for the STOP Project 2025\, a public demonstration org
  ns on US1: US1 & 50\, US1 & 520\, US1 & 192
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+Brevard%
  2C+FL&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

@@ -2,16 +2,17 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:05601c89-2bdf-4572-9f0f-baf2a86d2604
+UID:774e70dc-4329-41aa-af06-07debc47a688
 SEQUENCE:0
-DTSTAMP:20250316T180251Z
-DTSTART:20250704T000000
-DTEND:20250704T040000
+DTSTAMP:20250316T195858Z
+DTSTART:20250704T070000
+DTEND:20250704T090000
 SUMMARY:Patriot Protest
 LOCATION:\, Washington\, DC
 DESCRIPTION:Join us for the "Patriot Protest\," a non-violent day of actio
  n on the 4th of July in Washington D.C. By\, for\, and of the people!\n\n
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+Washingt
  on%2C+DC&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

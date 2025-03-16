@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:0d4b01d8-b597-430a-863f-477d1f1d8f0d
+UID:d39ed7b6-d83a-45bf-a56e-11e214c1e459
 SEQUENCE:0
-DTSTAMP:20250316T031514Z
-DTSTART:20250405T120000
-DTEND:20250405T160000
+DTSTAMP:20250316T195858Z
+DTSTART:20250405T190000
+DTEND:20250405T210000
 SUMMARY:REMOVE REVERSE RECLAIM
 LOCATION:205 Government St.\, Mobile\, AL
 DESCRIPTION:Join us for our next protest and march through Downtown Mobile
@@ -14,5 +14,6 @@ DESCRIPTION:Join us for our next protest and march through Downtown Mobile
  everse\, and reclaim.\n\nGovernment Plaza
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=205+Governme
  nt+St.%2C+Mobile%2C+AL&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

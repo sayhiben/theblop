@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:a6faed72-2ece-49fb-bede-af3873d2b085
+UID:b028b14c-e3a5-45f5-9e03-0ee9799b6b45
 SEQUENCE:0
-DTSTAMP:20250316T090230Z
-DTSTART:20250330T120000
-DTEND:20250330T160000
+DTSTAMP:20250316T195858Z
+DTSTART:20250330T190000
+DTEND:20250330T210000
 SUMMARY:KŪʻĒ A ME HOʻOPAʻAPAʻA TRUMP & MUSK
 LOCATION:2330 Ke Alanui O Kalākaua\, Honolulu\, HI
 DESCRIPTION:We are organizing an event in front of the Tesla store to prot
@@ -14,5 +14,6 @@ DESCRIPTION:We are organizing an event in front of the Tesla store to prot
   engage with Tesla’s inventory.\n\n
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=2330+Ke+Alan
  ui+O+Kal%C4%81kaua%2C+Honolulu%2C+HI&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

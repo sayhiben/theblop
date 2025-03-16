@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:050c68d3-652b-40f6-8706-db56fd426047
+UID:d708df50-b1af-4bad-9ed4-050532d984f0
 SEQUENCE:0
-DTSTAMP:20250314T150228Z
-DTSTART:20250321T110000
-DTEND:20250321T150000
+DTSTAMP:20250316T195858Z
+DTSTART:20250321T180000
+DTEND:20250321T200000
 SUMMARY:TOM BARRETT PROTEST
 LOCATION:328 W. Ottawa Street\, Lansing\, MI
 DESCRIPTION:We are organizing a protest at Tom Barrett's office to deliver
@@ -15,5 +15,6 @@ DESCRIPTION:We are organizing a protest at Tom Barrett's office to deliver
  ed by the Blue Brigade.\n\n
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=328+W.+Ottaw
  a+Street%2C+Lansing%2C+MI&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

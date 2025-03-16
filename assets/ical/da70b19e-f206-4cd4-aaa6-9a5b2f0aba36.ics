@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:c06df8a5-a99c-400b-987e-bfc0d1d4108a
+UID:0e2ca0fd-aa58-4e22-9ffc-f13a1629392f
 SEQUENCE:0
-DTSTAMP:20250316T000635Z
-DTSTART:20250318T090000
-DTEND:20250318T130000
+DTSTAMP:20250316T195858Z
+DTSTART:20250318T160000
+DTEND:20250318T180000
 SUMMARY:Truth Tuesdays at Fox
 LOCATION:Fox HQ (Midtown)\, New York City\, NY
 DESCRIPTION:Join our grassroots protest movement every Tuesday in NYC agai
@@ -15,5 +15,6 @@ DESCRIPTION:Join our grassroots protest movement every Tuesday in NYC agai
   protest\, rain or shine!\n\nFox HQ (Midtown)
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Fox+HQ+%28Mi
  dtown%29%2C+New+York+City%2C+NY&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

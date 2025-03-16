@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:36f318d1-87a6-4e6c-9eac-a1e1884229d4
+UID:8d0f8d90-88d5-42af-991b-d250d6313e9a
 SEQUENCE:0
-DTSTAMP:20250314T000543Z
-DTSTART:20250320T110000
-DTEND:20250320T150000
+DTSTAMP:20250316T195858Z
+DTSTART:20250320T180000
+DTEND:20250320T200000
 SUMMARY:Day of Action!
 LOCATION:2261 S Redwood Rd\, Salt Lake City\, UT
 DESCRIPTION:We are hosting a Day of Action to support our public postal se
@@ -16,5 +16,6 @@ DESCRIPTION:We are hosting a Day of Action to support our public postal se
  , NALC Branch 111\, 2261 S Redwood Rd
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=2261+S+Redwo
  od+Rd%2C+Salt+Lake+City%2C+UT&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

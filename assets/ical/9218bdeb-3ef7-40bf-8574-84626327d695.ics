@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:e6e4810c-a83b-4b25-b675-a1380e51cbb3
+UID:05dd875a-66db-46c4-842e-5bcf23ccc0e0
 SEQUENCE:0
-DTSTAMP:20250315T090245Z
-DTSTART:20250405T000000
-DTEND:20250405T040000
+DTSTAMP:20250316T195858Z
+DTSTART:20250405T070000
+DTEND:20250405T090000
 SUMMARY:VETO PROJECT 2025
 LOCATION:\, Nationwide\, Nationwide
 DESCRIPTION:We invite you to join us for People's Veto Day to protect valu
@@ -14,5 +14,6 @@ DESCRIPTION:We invite you to join us for People's Veto Day to protect valu
   a peaceful dissent against the Trump-Musk coup.\n\n
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+Nationwi
  de%2C+Nationwide&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

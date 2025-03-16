@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:5965bd30-aae3-4405-9e58-86e618d6242d
+UID:1945304c-5671-4ccc-b17c-adfa643f3564
 SEQUENCE:0
-DTSTAMP:20250316T031514Z
-DTSTART:20250323T140000
-DTEND:20250323T180000
+DTSTAMP:20250316T195858Z
+DTSTART:20250323T210000
+DTEND:20250323T230000
 SUMMARY:Protest Schumer's Santa Monica Book Tour
 LOCATION:3131 Olympic Blvd\, Santa Monica\, CA
 DESCRIPTION:Join us as we gather at Moss Theater to protest Schumer's book
@@ -14,5 +14,6 @@ DESCRIPTION:Join us as we gather at Moss Theater to protest Schumer's book
  on to his actions\, advocating for his resignation.\n\nMoss Theater
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=3131+Olympic
  +Blvd%2C+Santa+Monica%2C+CA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

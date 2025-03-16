@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:00fc5772-9958-478f-b072-35cbca768447
+UID:e5284e08-f4a2-44a4-b70d-33d3b513ef52
 SEQUENCE:0
-DTSTAMP:20250316T180251Z
-DTSTART:20250316T160000
-DTEND:20250316T200000
+DTSTAMP:20250316T195858Z
+DTSTART:20250316T230000
+DTEND:20250317T010000
 SUMMARY:Pop-Up Protest WPB
 LOCATION:\, West Palm Beach\, FL
 DESCRIPTION:Join us for a protest against Trump across from Dreher Park. A
@@ -15,5 +15,6 @@ DESCRIPTION:Join us for a protest against Trump across from Dreher Park. A
  om Dreher Park
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+West+Pal
  m+Beach%2C+FL&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

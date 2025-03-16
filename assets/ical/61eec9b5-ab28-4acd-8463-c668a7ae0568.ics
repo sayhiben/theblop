@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:72813ef0-36ed-4b15-ba99-4b22aeb7c68d
+UID:4773c849-cb3c-4655-acce-3353ed9c40f9
 SEQUENCE:0
-DTSTAMP:20250316T031514Z
-DTSTART:20250321T143000
-DTEND:20250321T183000
+DTSTAMP:20250316T195858Z
+DTSTART:20250321T213000
+DTEND:20250321T233000
 SUMMARY:Friday Protest!
 LOCATION:200 E Liberty St\, Ann Arbor\, MI
 DESCRIPTION:We gather every Friday at the Federal Post Office building in 
@@ -15,5 +15,6 @@ DESCRIPTION:We gather every Friday at the Federal Post Office building in
  ding on the corner of 5th and Liberty Street
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=200+E+Libert
  y+St%2C+Ann+Arbor%2C+MI&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

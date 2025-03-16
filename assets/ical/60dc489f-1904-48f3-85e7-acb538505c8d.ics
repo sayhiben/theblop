@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:6eac35fa-5530-4545-b828-d37cec8ab2c7
+UID:3bc90e15-7191-4e69-9e64-33a2e66443bc
 SEQUENCE:0
-DTSTAMP:20250316T031514Z
-DTSTART:20250511T110000
-DTEND:20250511T150000
+DTSTAMP:20250316T195858Z
+DTSTART:20250511T180000
+DTEND:20250511T200000
 SUMMARY:Black Mothers March 2025
 LOCATION:Lafayette Square 16th Street Northwest\, Washington\, DC 20001
 DESCRIPTION:Join the Black Mothers March 2025\, organized by the Black Mot
@@ -15,5 +15,6 @@ DESCRIPTION:Join the Black Mothers March 2025\, organized by the Black Mot
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Lafayette+Sq
  uare+16th+Street+Northwest%2C+Washington%2C+DC+20001&zoom=15&basemap=roadm
  ap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

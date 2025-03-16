@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:d4e1c430-e0bc-4d63-8e59-93e49cb9e492
+UID:6e9d38c7-13e8-4499-97d9-a97ba1d33928
 SEQUENCE:0
-DTSTAMP:20250316T031514Z
-DTSTART:20250316T110000
-DTEND:20250316T150000
+DTSTAMP:20250316T195858Z
+DTSTART:20250316T180000
+DTEND:20250316T200000
 SUMMARY:Protest against project 2025 and heritage foundation
 LOCATION:Poulsbo Waterfront Park
 DESCRIPTION:Join us at Poulsbo Waterfront Park for a peaceful rally agains
@@ -15,5 +15,6 @@ DESCRIPTION:Join us at Poulsbo Waterfront Park for a peaceful rally agains
  rs to express concerns and demand action.\n\nPoulsbo Waterfront Park
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Poulsbo+Wate
  rfront+Park&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

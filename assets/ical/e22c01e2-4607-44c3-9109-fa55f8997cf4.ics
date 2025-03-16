@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:452bd626-5f3a-4787-b2fb-bfabf238ecca
+SEQUENCE:0
+DTSTAMP:20250316T195858Z
+DTSTART:20250322T190000
+DTEND:20250322T210000
+SUMMARY:Be the light!
+LOCATION:City Hall\, Rapid City\, SD
+DESCRIPTION:Join us as we come together in protest against certain politic
+ al figures. Be part of the resistance movement in Rapid City. Let your voi
+ ce be heard!\n\nCity Hall
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=City+Hall%2C
+ +Rapid+City%2C+SD&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

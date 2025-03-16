@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:f70f97c4-6bde-4442-bd1c-203c2fe6adaa
+UID:638761d7-75e3-487d-a833-babbcd7a3e90
 SEQUENCE:0
-DTSTAMP:20250316T090230Z
-DTSTART:20250322T120000
-DTEND:20250322T160000
+DTSTAMP:20250316T195858Z
+DTSTART:20250322T190000
+DTEND:20250322T210000
 SUMMARY:March for Our Constitution
 LOCATION:Westwood Federal Building\, Los Angeles\, CA
 DESCRIPTION:Join us as we march to defend democracy against efforts to und
@@ -14,5 +14,6 @@ DESCRIPTION:Join us as we march to defend democracy against efforts to und
  together and make our voices heard.\n\nWestwood Federal Building
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Westwood+Fed
  eral+Building%2C+Los+Angeles%2C+CA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

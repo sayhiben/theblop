@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:45c5d18e-ca14-4af4-8de2-555323a61340
+UID:bc28d0c6-1c66-4b8c-ba28-d6e8c363ceb5
 SEQUENCE:0
-DTSTAMP:20250315T090245Z
-DTSTART:20250330T100000
-DTEND:20250330T140000
+DTSTAMP:20250316T195858Z
+DTSTART:20250330T170000
+DTEND:20250330T190000
 SUMMARY:Women's Empowerment Rally
 LOCATION:Lakeview Ave\, South Lake Tahoe\, CA
 DESCRIPTION:Join us for the Women's Empowerment Rally\, rescheduled to pro
@@ -14,5 +14,6 @@ DESCRIPTION:Join us for the Women's Empowerment Rally\, rescheduled to pro
  ent and celebrate the last day of Women's History Month.\n\n
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Lakeview+Ave
  %2C+South+Lake+Tahoe%2C+CA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

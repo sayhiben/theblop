@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:eb760c8c-1d56-4c48-bddd-865892ae7c41
+UID:fc738af1-8929-471f-901c-dc9d77934d69
 SEQUENCE:0
-DTSTAMP:20250315T210323Z
-DTSTART:20250405T120000
-DTEND:20250405T160000
+DTSTAMP:20250316T195858Z
+DTSTART:20250405T190000
+DTEND:20250405T210000
 SUMMARY:Bennington VT 50501 Protest – Remove\, Reverse\, Reclaim
 LOCATION:Main Street Bennington Vermont at 4 Corners\, U.S. 7 & Vermont 9\
  , Bennington\, VT
@@ -19,5 +19,6 @@ DESCRIPTION:Join us in a peaceful protest organized by Bennington County I
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Main+Street+
  Bennington+Vermont+at+4+Corners%2C+U.S.+7+%26+Vermont+9%2C+Bennington%2C+V
  T&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

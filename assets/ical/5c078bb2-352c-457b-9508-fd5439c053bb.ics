@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:844388a8-fa6d-4742-8df9-2d7dca58c777
+UID:7bd0b86a-5f41-4d76-aa99-e94ce0550c93
 SEQUENCE:0
-DTSTAMP:20250314T210257Z
-DTSTART:20250322T133000
-DTEND:20250322T173000
+DTSTAMP:20250316T195858Z
+DTSTART:20250322T203000
+DTEND:20250322T223000
 SUMMARY:Town Hall
 LOCATION:Waldo Public Library\, Kansas City\, MO
 DESCRIPTION:Join us for a Town Hall where we will discuss critical politic
@@ -15,5 +15,6 @@ DESCRIPTION:Join us for a Town Hall where we will discuss critical politic
  ge.\n\nWaldo Public Library
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Waldo+Public
  +Library%2C+Kansas+City%2C+MO&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

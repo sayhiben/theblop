@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:a764e907-398a-4263-b12f-9a5c341b6e0f
+UID:3de41f11-6a80-470b-9f08-ea252969c01c
 SEQUENCE:0
-DTSTAMP:20250315T210323Z
-DTSTART:20250405T130000
-DTEND:20250405T170000
+DTSTAMP:20250316T195858Z
+DTSTART:20250405T200000
+DTEND:20250405T220000
 SUMMARY:Hands Off! March on D.C.
 LOCATION:Sylvan Theater\, National Mall\, Washington\, DC
 DESCRIPTION:Join us for a rally in Washington\, D.C.\, as we march against
@@ -16,5 +16,6 @@ DESCRIPTION:Join us for a rally in Washington\, D.C.\, as we march against
  ylvan Theater
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Sylvan+Theat
  er%2C+National+Mall%2C+Washington%2C+DC&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

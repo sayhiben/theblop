@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:10c0175d-9290-4c8a-89f2-67dd9999cb75
+UID:63182d38-f414-4314-8679-ca298d9b8529
 SEQUENCE:0
-DTSTAMP:20250315T210323Z
-DTSTART:20250405T150000
-DTEND:20250405T190000
+DTSTAMP:20250316T195858Z
+DTSTART:20250405T220000
+DTEND:20250406T000000
 SUMMARY:Hands Off! Hartford Fights Back
 LOCATION:210 Capitol Ave\, Hartford\, CT
 DESCRIPTION:We are organizing a rally to address the impact of Donald Trum
@@ -16,5 +16,6 @@ DESCRIPTION:We are organizing a rally to address the impact of Donald Trum
  onnecticut State Capitol
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=210+Capitol+
  Ave%2C+Hartford%2C+CT&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

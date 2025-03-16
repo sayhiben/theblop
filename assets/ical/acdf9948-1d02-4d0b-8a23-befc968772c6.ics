@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:5e28a47a-ff3a-4b50-87d0-0c6fdc69dbab
+UID:ecd6d55a-5eba-43b7-aee2-ed0999fda8cd
 SEQUENCE:0
-DTSTAMP:20250316T031514Z
-DTSTART:20250316T140000
-DTEND:20250316T180000
+DTSTAMP:20250316T195858Z
+DTSTART:20250316T210000
+DTEND:20250316T230000
 SUMMARY:Stand Up/Speak Out
 LOCATION:7th St Park\, Hudson\, NY
 DESCRIPTION:Join us at 7th St Park in Hudson\, NY\, on March 16 at 2 PM fo
@@ -15,5 +15,6 @@ DESCRIPTION:Join us at 7th St Park in Hudson\, NY\, on March 16 at 2 PM fo
  ations committed to making a difference.\n\n
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=7th+St+Park%
  2C+Hudson%2C+NY&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

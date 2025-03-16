@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:7aaaf711-3df9-4174-baca-9ca402f478a1
+UID:83445353-cf1d-457b-a17e-14da5806932e
 SEQUENCE:0
-DTSTAMP:20250316T000636Z
-DTSTART:20250405T000000
-DTEND:20250405T040000
+DTSTAMP:20250316T195858Z
+DTSTART:20250405T070000
+DTEND:20250405T090000
 SUMMARY:People's Veto Day
 LOCATION:\, Washington\, DC
 DESCRIPTION:50501 Movement and Women's March are mobilizing to stop the MA
@@ -17,5 +17,6 @@ DESCRIPTION:50501 Movement and Women's March are mobilizing to stop the MA
  y of action.\n\n
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+Washingt
  on%2C+DC&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

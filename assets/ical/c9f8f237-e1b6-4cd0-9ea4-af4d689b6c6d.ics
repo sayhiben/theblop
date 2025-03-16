@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:10e992b2-f87b-4180-bbec-5220b799398f
+UID:45b81bdc-a894-406b-8ab5-6403c54079a3
 SEQUENCE:0
-DTSTAMP:20250315T180240Z
-DTSTART:20250318T150000
-DTEND:20250318T190000
+DTSTAMP:20250316T195858Z
+DTSTART:20250318T220000
+DTEND:20250319T000000
 SUMMARY:Rally to Save Medicaid & Social Security
 LOCATION:South Lawn of the State Capitol\, Hartford\, CT
 DESCRIPTION:We are organizing a rally to save Medicaid and Social Security
@@ -15,5 +15,6 @@ DESCRIPTION:We are organizing a rally to save Medicaid and Social Security
  es and voicing their concerns.\n\nSouth Lawn of the State Capitol
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=South+Lawn+o
  f+the+State+Capitol%2C+Hartford%2C+CT&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

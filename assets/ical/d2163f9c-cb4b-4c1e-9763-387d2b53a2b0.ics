@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:d5f181a8-dd1e-4ccb-bb21-17c7ffc03a3f
+UID:26182999-1347-4cc9-9730-cd0ab2508b9e
 SEQUENCE:0
-DTSTAMP:20250316T031514Z
-DTSTART:20250322T090000
-DTEND:20250322T130000
+DTSTAMP:20250316T195858Z
+DTSTART:20250322T160000
+DTEND:20250322T180000
 SUMMARY:Protest for Palestine
 LOCATION:On the corner of Main and Decker\, Viroqua\, WI
 DESCRIPTION:Join Driftless Palestinian Solidarity as we peacefully protest
@@ -16,5 +16,6 @@ DESCRIPTION:Join Driftless Palestinian Solidarity as we peacefully protest
  er\, Viroqua\, WI
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=On+the+corne
  r+of+Main+and+Decker%2C+Viroqua%2C+WI&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:a676f44c-6664-42a0-b1b1-3df2317a541d
+UID:15e9e728-87c1-4ae3-8bcd-dc8c68890032
 SEQUENCE:0
-DTSTAMP:20250316T180251Z
-DTSTART:20250727T000000
-DTEND:20250727T040000
+DTSTAMP:20250316T195858Z
+DTSTART:20250727T070000
+DTEND:20250727T090000
 SUMMARY:March for Integrity
 LOCATION:\, Washington\, DC
 DESCRIPTION:Join us in Washington\, DC for the March for Integrity to advo
@@ -14,5 +14,6 @@ DESCRIPTION:Join us in Washington\, DC for the March for Integrity to advo
  s. Let’s make our voices heard.\n\n
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+Washingt
  on%2C+DC&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

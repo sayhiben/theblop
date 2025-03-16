@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:7b2998f9-3403-472c-ad5a-630b77a52389
+UID:eec3ee9e-402c-4242-b6f5-2a1d7a1ccc37
 SEQUENCE:0
-DTSTAMP:20250314T120340Z
-DTSTART:20250316T150000
-DTEND:20250316T190000
+DTSTAMP:20250316T195858Z
+DTSTART:20250316T220000
+DTEND:20250317T000000
 SUMMARY:Rainbow Read-In
 LOCATION:7 Sir Winston Churchill Square NW\, Edmonton\, AB
 DESCRIPTION:Join us at the Edmonton Public Library for a Rainbow Read-In t
@@ -14,5 +14,6 @@ DESCRIPTION:Join us at the Edmonton Public Library for a Rainbow Read-In t
  ality and diversity.\n\nStanley A Milner Library
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=7+Sir+Winsto
  n+Churchill+Square+NW%2C+Edmonton%2C+AB&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

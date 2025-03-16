@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:5c1a588c-5f28-49e0-9423-e6f83a493253
+UID:e921fc62-603d-46ff-98c0-8a963e8533b9
 SEQUENCE:0
-DTSTAMP:20250315T090245Z
-DTSTART:20250319T120000
-DTEND:20250319T160000
+DTSTAMP:20250316T195858Z
+DTSTART:20250319T190000
+DTEND:20250319T210000
 SUMMARY:Federal Unionists Network Let Us Work Rally
 LOCATION:26 Federal Plaza\, Broadway Entrance\, New York\, NY
 DESCRIPTION:We are hosting a weekly informational picket to support federa
@@ -14,5 +14,6 @@ DESCRIPTION:We are hosting a weekly informational picket to support federa
  al Plaza\, Broadway Entrance
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=26+Federal+P
  laza%2C+Broadway+Entrance%2C+New+York%2C+NY&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

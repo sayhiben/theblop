@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:76f2e506-c29c-4c57-ac16-3a2ad13a5019
+UID:8a42f786-9dac-4c9b-9bf8-c1d76673faa0
 SEQUENCE:0
-DTSTAMP:20250314T150228Z
-DTSTART:20250323T120000
-DTEND:20250323T160000
+DTSTAMP:20250316T195858Z
+DTSTART:20250323T190000
+DTEND:20250323T210000
 SUMMARY:Rally to Save USPS
 LOCATION:200 E Colfax\, Denver\, CO
 DESCRIPTION:Join us at the "Fight Like Hell Rally" hosted by Branch 47\, B
@@ -17,5 +17,6 @@ DESCRIPTION:Join us at the "Fight Like Hell Rally" hosted by Branch 47\, B
  ps of the Colorado State Capital
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=200+E+Colfax
  %2C+Denver%2C+CO&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:4f63425b-9136-4778-a401-c82bb8a501a5
+UID:a1569ed8-01b4-461e-8807-74ceec17fd66
 SEQUENCE:0
-DTSTAMP:20250316T031514Z
-DTSTART:20250419T120000
-DTEND:20250419T160000
+DTSTAMP:20250316T195858Z
+DTSTART:20250419T190000
+DTEND:20250419T210000
 SUMMARY:Earth Day Protest & Egg Hunt
 LOCATION:State Capital\, Olympia\, WA
 DESCRIPTION:Join us for an Earth Day "Protest & Egg Hunt" organized by Myc
@@ -17,5 +17,6 @@ DESCRIPTION:Join us for an Earth Day "Protest & Egg Hunt" organized by Myc
  wn
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=State+Capita
  l%2C+Olympia%2C+WA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

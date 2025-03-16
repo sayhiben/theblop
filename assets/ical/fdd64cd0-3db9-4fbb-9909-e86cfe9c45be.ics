@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:6a2c5763-127e-4026-a54d-857b831ac8d1
+UID:ee6a9ec3-73d2-4f49-b0ab-a65773a29e47
 SEQUENCE:0
-DTSTAMP:20250314T210257Z
-DTSTART:20250318T120000
-DTEND:20250318T160000
+DTSTAMP:20250316T195858Z
+DTSTART:20250318T190000
+DTEND:20250318T210000
 SUMMARY:Democracy Under Attack - We Will Not Stay Silent
 LOCATION:Pine & Carlsbad Blvd (Next to Harbor Fish)
 DESCRIPTION:Join us as we take a stand against Project 2025\, right-wing e
@@ -15,5 +15,6 @@ DESCRIPTION:Join us as we take a stand against Project 2025\, right-wing e
  nPine & Carlsbad Blvd (Next to Harbor Fish)
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Pine+%26+Car
  lsbad+Blvd+%28Next+to+Harbor+Fish%29&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:946dd650-f9c3-479e-8664-8aa3c13a0ddb
+UID:c364187e-7e3d-45a7-ae43-5127be54e5ea
 SEQUENCE:0
-DTSTAMP:20250315T210323Z
-DTSTART:20250405T150000
-DTEND:20250405T190000
+DTSTAMP:20250316T195858Z
+DTSTART:20250405T220000
+DTEND:20250406T000000
 SUMMARY:Hands Off! Indivisible Sonoma County Fights Back
 LOCATION:Old Courthouse Square\, Between 3rd and 4th street\, Santa Rosa\,
   CA
@@ -18,5 +18,6 @@ DESCRIPTION:Indivisible Sonoma County is organizing a nonviolent rally and
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Old+Courthou
  se+Square%2C+Between+3rd+and+4th+street%2C+Santa+Rosa%2C+CA&zoom=15&basema
  p=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

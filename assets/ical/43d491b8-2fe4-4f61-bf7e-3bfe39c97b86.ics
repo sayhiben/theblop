@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:2b39452a-79b1-4dc1-bcb7-267c3e22f5e6
+UID:fabacf71-f4fd-45d1-9072-5e5fff5156ea
 SEQUENCE:0
-DTSTAMP:20250315T060026Z
-DTSTART:20250319T143000
-DTEND:20250319T183000
+DTSTAMP:20250316T195858Z
+DTSTART:20250319T213000
+DTEND:20250319T233000
 SUMMARY:Why is Trump cutting their benefits?
 LOCATION:Sturgis Vets Club\, Sturgis\, SD
 DESCRIPTION:We are gathering to support our veterans and discuss the cuts 
@@ -14,5 +14,6 @@ DESCRIPTION:We are gathering to support our veterans and discuss the cuts
  urgis Vets Club
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Sturgis+Vets
  +Club%2C+Sturgis%2C+SD&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

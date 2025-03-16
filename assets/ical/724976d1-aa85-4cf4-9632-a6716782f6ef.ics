@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:b33ace30-a2f1-4f31-80a6-62097dc75297
+UID:5b80aa15-7f0b-4968-aa57-f9170ae5bbda
 SEQUENCE:0
-DTSTAMP:20250316T031514Z
-DTSTART:20250316T080000
-DTEND:20250316T120000
+DTSTAMP:20250316T195858Z
+DTSTART:20250316T150000
+DTEND:20250316T170000
 SUMMARY:Protest!
 LOCATION:9595 Six Pines Drive #900\, The Woodlands\, TX
 DESCRIPTION:We are organizing a peaceful protest at the Market Street Tesl
@@ -15,5 +15,6 @@ DESCRIPTION:We are organizing a peaceful protest at the Market Street Tesl
  sla drivers.\n\nSixty Vines The Woodlands
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=9595+Six+Pin
  es+Drive+%23900%2C+The+Woodlands%2C+TX&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:d41d55bf-fa0f-4603-9696-e19c7b940906
+UID:44b6c963-418d-4bc2-abe0-0754a0cf0c52
 SEQUENCE:0
-DTSTAMP:20250315T210323Z
-DTSTART:20250322T120000
-DTEND:20250322T160000
+DTSTAMP:20250316T195858Z
+DTSTART:20250322T190000
+DTEND:20250322T210000
 SUMMARY:Repeal the Alien Enemies Act of 1798
 LOCATION:Olympia Capitol Building\, Olympia\, WA
 DESCRIPTION:Join us at the Olympia Capitol Building for a protest to repea
@@ -15,5 +15,6 @@ DESCRIPTION:Join us at the Olympia Capitol Building for a protest to repea
   Building
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Olympia+Capi
  tol+Building%2C+Olympia%2C+WA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

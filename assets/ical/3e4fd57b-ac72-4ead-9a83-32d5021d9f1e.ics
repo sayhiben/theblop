@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:aeb2a50f-ede9-480e-87e4-5bdd2b8743a4
+UID:056b3588-d08f-423a-8a3b-d97bf617b7f1
 SEQUENCE:0
-DTSTAMP:20250316T090230Z
-DTSTART:20250405T120000
-DTEND:20250405T160000
+DTSTAMP:20250316T195858Z
+DTSTART:20250405T190000
+DTEND:20250405T210000
 SUMMARY:A Nationwide Day of Action
 LOCATION:901 Bagby St\, Houston\, TX
 DESCRIPTION:We are organizing a nationwide day of action to remove corrupt
@@ -14,5 +14,6 @@ DESCRIPTION:We are organizing a nationwide day of action to remove corrupt
  acy. Join us in Texas to make your voice heard.\n\nCity Hall Plaza
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=901+Bagby+St
  %2C+Houston%2C+TX&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

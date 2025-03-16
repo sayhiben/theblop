@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:715a54f8-8c5d-4f3f-945e-56f53783e9f4
+UID:c6bb93a5-d625-448a-8244-eb5988617b9f
 SEQUENCE:0
-DTSTAMP:20250316T031514Z
-DTSTART:20250316T140000
-DTEND:20250316T180000
+DTSTAMP:20250316T195858Z
+DTSTART:20250316T210000
+DTEND:20250316T230000
 SUMMARY:Sign Waving Protest
 LOCATION:20398 Edwards Rd E\, Bonney Lake\, WA
 DESCRIPTION:We are hosting a sign-waving protest to champion democracy as 
@@ -15,5 +15,6 @@ DESCRIPTION:We are hosting a sign-waving protest to champion democracy as
  e
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=20398+Edward
  s+Rd+E%2C+Bonney+Lake%2C+WA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

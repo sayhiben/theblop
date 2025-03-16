@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:c3ce7c81-d1e6-4e92-9265-e3d183db23e0
+UID:f7b5dd0e-c44f-4c19-983a-51f227d88918
 SEQUENCE:0
-DTSTAMP:20250316T150207Z
-DTSTART:20250321T110000
-DTEND:20250321T150000
+DTSTAMP:20250316T195858Z
+DTSTART:20250321T180000
+DTEND:20250321T200000
 SUMMARY:Recess Visit to Representative Tenney's Office
 LOCATION:169 Niagara St\, Lockport\, NY
 DESCRIPTION:We invite you to join Good Neighbors Getting it Done in WNY an
@@ -15,5 +15,6 @@ DESCRIPTION:We invite you to join Good Neighbors Getting it Done in WNY an
  nd her of her responsibilities.\n\nOffice of Representative Claudia Tenney
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=169+Niagara+
  St%2C+Lockport%2C+NY&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

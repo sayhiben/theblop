@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:3116d02d-e85a-4831-bad1-053077dea9b2
+UID:5885388b-5fa2-4209-8e59-89e1a6fd2e18
 SEQUENCE:0
-DTSTAMP:20250315T210323Z
-DTSTART:20250318T100000
-DTEND:20250318T140000
+DTSTAMP:20250316T195858Z
+DTSTART:20250318T170000
+DTEND:20250318T190000
 SUMMARY:Meet "Rep Boebert"
 LOCATION:2750 N. Taft Ave.\, Loveland\, CO
 DESCRIPTION:Join IndivisibleNOCO as we engage with constituents. Lauren re
@@ -14,5 +14,6 @@ DESCRIPTION:Join IndivisibleNOCO as we engage with constituents. Lauren re
  entation! Bring your questions\, signs\, and friends!\n\nNorth Lake Park
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=2750+N.+Taft
  +Ave.%2C+Loveland%2C+CO&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

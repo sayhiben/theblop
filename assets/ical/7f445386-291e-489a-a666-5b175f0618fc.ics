@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:0268758a-5a23-4025-a2ff-70c380ad948d
+UID:959f818f-5cb0-4b12-a8eb-4411fdcd4fff
 SEQUENCE:0
-DTSTAMP:20250314T000543Z
-DTSTART:20250405T100000
-DTEND:20250405T140000
+DTSTAMP:20250316T195858Z
+DTSTART:20250405T170000
+DTEND:20250405T190000
 SUMMARY:Peaceful Protest
 LOCATION:1733 E Young Circle\, Hollywood\, FL
 DESCRIPTION:Join us in a peaceful protest to remove corrupt politicians\, 
@@ -14,5 +14,6 @@ DESCRIPTION:Join us in a peaceful protest to remove corrupt politicians\,
  tive change and raise awareness of these critical issues.\n\nArts Park
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=1733+E+Young
  +Circle%2C+Hollywood%2C+FL&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

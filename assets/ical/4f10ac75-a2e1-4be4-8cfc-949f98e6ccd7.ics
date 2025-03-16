@@ -2,18 +2,20 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:515933db-fcc7-4f8a-aa34-e1bb1af4e127
+UID:342ee3d4-5e88-4136-be75-aad13870ca78
 SEQUENCE:0
-DTSTAMP:20250314T120340Z
-DTSTART:20250324T160000
-DTEND:20250324T200000
+DTSTAMP:20250316T195858Z
+DTSTART:20250324T230000
+DTEND:20250325T010000
 SUMMARY:Canadian Solidarity Protest
+LOCATION:\, Nationwide\, Nationwide
 DESCRIPTION:Join us on March 24th in solidarity with our Canadian allies\,
   as American patriots support Canadian friends against MAGA influences. We
   will convene at Canadian consulates or the Canadian embassy to show our s
  upport.\n\nYour nearest Canadian Consulate or the Canadian embassy in Wash
  ington DC
-URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=&zoom=15&bas
- emap=roadmap
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+Nationwi
+ de%2C+Nationwide&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

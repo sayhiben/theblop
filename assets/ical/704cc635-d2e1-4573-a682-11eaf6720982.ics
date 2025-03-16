@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:265a06f2-ddc0-432d-a64e-661342e69029
+UID:43dd1736-95ca-4276-9248-00a8cceaee6c
 SEQUENCE:0
-DTSTAMP:20250316T031514Z
-DTSTART:20250323T070000
-DTEND:20250323T110000
+DTSTAMP:20250316T195858Z
+DTSTART:20250323T140000
+DTEND:20250323T160000
 SUMMARY:Chalk art protest
 LOCATION:221 Palafox Pl suite 420\, Pensacola\, FL
 DESCRIPTION:We invite you to join our nonviolent protest to express your o
@@ -16,5 +16,6 @@ DESCRIPTION:We invite you to join our nonviolent protest to express your o
  r thoughts.\n\nEscambia County Commissioners Office
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=221+Palafox+
  Pl+suite+420%2C+Pensacola%2C+FL&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

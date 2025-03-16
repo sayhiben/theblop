@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:3704fe4b-5132-40b1-9253-f3fac14b7294
+UID:1d563273-f757-4ebd-a4da-f819a8d1caa4
 SEQUENCE:0
-DTSTAMP:20250316T090230Z
-DTSTART:20250405T120000
-DTEND:20250405T160000
+DTSTAMP:20250316T195858Z
+DTSTART:20250405T190000
+DTEND:20250405T210000
 SUMMARY:Protest
 LOCATION:1301 E 6th Ave\, Helena\, MT
 DESCRIPTION:We are organizing a protest to support Ukraine\, protect human
@@ -16,5 +16,6 @@ DESCRIPTION:We are organizing a protest to support Ukraine\, protect human
  esent us.\n\nMontana State Capitol\, Flag Plaza
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=1301+E+6th+A
  ve%2C+Helena%2C+MT&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

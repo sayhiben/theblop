@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:26bc48fa-f845-4a5f-8b23-61f04f85d1b4
+UID:77de6ddb-e774-410a-bd3a-a70786fc0eb0
 SEQUENCE:0
-DTSTAMP:20250315T210323Z
-DTSTART:20250405T120000
-DTEND:20250405T160000
+DTSTAMP:20250316T195858Z
+DTSTART:20250405T190000
+DTEND:20250405T210000
 SUMMARY:Hands Off! Redwood City Fights Back
 LOCATION:Corner of Jefferson Ave and El Camino Real\, Redwood City\, CA
 DESCRIPTION:Join us in Redwood City as we rally against the destructive po
@@ -18,5 +18,6 @@ DESCRIPTION:Join us in Redwood City as we rally against the destructive po
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Corner+of+Je
  fferson+Ave+and+El+Camino+Real%2C+Redwood+City%2C+CA&zoom=15&basemap=roadm
  ap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

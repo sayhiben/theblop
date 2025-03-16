@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:a27e55a2-208c-448b-b792-91444a54b7b4
+UID:0aa39c38-1964-4baf-9736-4d19e5f9db6a
 SEQUENCE:0
-DTSTAMP:20250314T000543Z
-DTSTART:20250613T000000
-DTEND:20250613T040000
+DTSTAMP:20250316T195858Z
+DTSTART:20250613T070000
+DTEND:20250613T090000
 SUMMARY:Southern Worker Action Summit
 LOCATION:\, Spartanburg\, SC
 DESCRIPTION:Join us for the Southern Worker Action Summit in Spartanburg\,
@@ -15,5 +15,6 @@ DESCRIPTION:Join us for the Southern Worker Action Summit in Spartanburg\,
  and empowerment.\n\n
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+Spartanb
  urg%2C+SC&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

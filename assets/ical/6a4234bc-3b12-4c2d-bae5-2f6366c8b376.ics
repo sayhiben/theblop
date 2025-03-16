@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:7a9a2a8f-247a-4a67-886d-89a10ecc73c9
+UID:c48e0010-b72e-4fd2-9920-2a3fcebb02d1
 SEQUENCE:0
-DTSTAMP:20250316T060211Z
-DTSTART:20250405T120000
-DTEND:20250405T160000
+DTSTAMP:20250316T195858Z
+DTSTART:20250405T190000
+DTEND:20250405T210000
 SUMMARY:Hands Off! The South Bay Fights Back
 LOCATION:3031 Torrance Blvd\, Torrance\, CA
 DESCRIPTION:We're taking to the streets to oppose actions by Donald Trump 
@@ -16,5 +16,6 @@ DESCRIPTION:We're taking to the streets to oppose actions by Donald Trump
  n\nTorrance City Hall
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=3031+Torranc
  e+Blvd%2C+Torrance%2C+CA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

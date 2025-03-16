@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:16ea678f-d250-4d56-9c97-4f4aeef9e2f7
+UID:0dcfaf4b-5ab1-4607-a184-d40f7ee03c95
 SEQUENCE:0
-DTSTAMP:20250316T031514Z
-DTSTART:20250322T110000
-DTEND:20250322T150000
+DTSTAMP:20250316T195858Z
+DTSTART:20250322T180000
+DTEND:20250322T200000
 SUMMARY:Protest for Democracy
 LOCATION:Montgomery County Courthouse\, Dayton\, OH
 DESCRIPTION:Join us at the Montgomery County Courthouse to protest the Tru
@@ -14,5 +14,6 @@ DESCRIPTION:Join us at the Montgomery County Courthouse to protest the Tru
  y County Courthouse
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Montgomery+C
  ounty+Courthouse%2C+Dayton%2C+OH&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

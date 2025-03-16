@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:e64ff782-cb29-42ee-962a-26bb12e5ffac
+UID:6f2b3ca2-bdfc-428c-b31f-aaf0e8ad6a5e
 SEQUENCE:0
-DTSTAMP:20250315T000533Z
-DTSTART:20250322T110000
-DTEND:20250322T150000
+DTSTAMP:20250316T195858Z
+DTSTART:20250322T180000
+DTEND:20250322T200000
 SUMMARY:Biweekly Protest
 LOCATION:42nd and Center\, Omaha\, NE
 DESCRIPTION:Join us for a biweekly protest at 42nd and Center in Omaha. We
@@ -15,5 +15,6 @@ DESCRIPTION:Join us for a biweekly protest at 42nd and Center in Omaha. We
  .\n\nPark at the Center Mall
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=42nd+and+Cen
  ter%2C+Omaha%2C+NE&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

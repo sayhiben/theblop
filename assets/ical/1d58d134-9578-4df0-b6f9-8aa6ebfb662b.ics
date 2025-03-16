@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:5e99162f-faeb-481b-97a0-15cce3f91efd
+SEQUENCE:0
+DTSTAMP:20250314T065639Z
+DTSTART:20250314T003000
+DTEND:20250314T023000
+SUMMARY:Protect the First Amendment!
+LOCATION:Woodward Ave & E 9 Mile Rd\, Downtown Ferndale
+DESCRIPTION:We are hosting a press conference and protest to stand in defe
+ nse of our constitutional rights\, focusing on the recent arrest as a viol
+ ation of First Amendment rights. Join us in advocating for free speech and
+  peaceful protest as essential American liberties.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Woodward+Ave
+ +%26+E+9+Mile+Rd%2C+Downtown+Ferndale&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

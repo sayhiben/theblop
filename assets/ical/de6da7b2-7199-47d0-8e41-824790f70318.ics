@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:129fed64-2a76-4508-83d7-410cca1051b7
+UID:a640a064-a0ed-45df-96d0-f613ee3f7304
 SEQUENCE:0
-DTSTAMP:20250316T031514Z
-DTSTART:20250321T153000
-DTEND:20250321T193000
+DTSTAMP:20250316T195858Z
+DTSTART:20250321T223000
+DTEND:20250322T003000
 SUMMARY:Protest Trump/Musk Illegal Actions
 LOCATION:304 Brinks Circle\, Sterling\, IL
 DESCRIPTION:Join us as we protest the illegal actions attributed to Trump 
@@ -14,5 +14,6 @@ DESCRIPTION:Join us as we protest the illegal actions attributed to Trump
  ter Tomorrow Sauk Valley.'\n\nGrandon Civic Center
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=304+Brinks+C
  ircle%2C+Sterling%2C+IL&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

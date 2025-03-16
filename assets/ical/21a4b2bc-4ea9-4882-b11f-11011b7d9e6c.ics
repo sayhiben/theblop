@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:66b4a2b4-4157-4fb9-bd27-be6d2ed8bc71
+UID:56a01a6f-9f2f-4aa1-a4d9-4124c322dd57
 SEQUENCE:0
-DTSTAMP:20250316T060210Z
-DTSTART:20250316T120000
-DTEND:20250316T160000
+DTSTAMP:20250316T195858Z
+DTSTART:20250316T190000
+DTEND:20250316T210000
 SUMMARY:Fight for Our Rights - Fight for Palestine
 LOCATION:SW 10th & Burnside\, Portland\, OR
 DESCRIPTION:Join us in Portland\, OR as we fight for our rights and stand 
@@ -14,5 +14,6 @@ DESCRIPTION:Join us in Portland\, OR as we fight for our rights and stand
  aise awareness for this important cause.\n\n
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=SW+10th+%26+
  Burnside%2C+Portland%2C+OR&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

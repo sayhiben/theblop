@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:9e685467-9685-49c3-a43f-b51a44e20cfd
+SEQUENCE:0
+DTSTAMP:20250316T195858Z
+DTSTART:20250405T190000
+DTEND:20250405T210000
+SUMMARY:50501 Miami Protest
+LOCATION:301 Biscayne Blvd.\, Miami\, FL
+DESCRIPTION:We are organizing a protest to remove corrupt politicians\, re
+ verse the damage\, and reclaim our democracy. Join us to make a change.\n\
+ nTorch of Friendship
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=301+Biscayne
+ +Blvd.%2C+Miami%2C+FL&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

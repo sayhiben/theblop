@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:fce16370-81c0-4886-aa77-0f3e7123a445
+SEQUENCE:0
+DTSTAMP:20250316T195858Z
+DTSTART:20250317T160000
+DTEND:20250317T180000
+SUMMARY:Support Our Kids Rally
+LOCATION:near JMHS\, Fredericksburg\, VA
+DESCRIPTION:Join us in Fredericksburg\, VA for a rally on March 17th to pr
+ otest cuts in public education. The event will take place near James Monro
+ e High School (JMHS) from 9:00 AM to noon as Governor Youngkin visits. Mak
+ e your voice heard and stand up for public education.\n\nnear JMHS
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=near+JMHS%2C
+ +Fredericksburg%2C+VA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
