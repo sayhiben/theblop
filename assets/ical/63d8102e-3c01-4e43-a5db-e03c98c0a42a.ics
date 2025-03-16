@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:aa7766f5-59b6-416d-9485-1e2b704e5254
+SEQUENCE:0
+DTSTAMP:20250316T231125Z
+DTSTART:20250317T190000
+DTEND:20250317T230000
+SUMMARY:Baumgartner Town Hall Meeting
+LOCATION:Whitworth University\, Spokane\, WA
+DESCRIPTION:Join us at Whitworth University for a town hall meeting with R
+ ep. Baumgartner. We are encouraging all constituents to participate and de
+ mand transparency.\n\nWhitworth University
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Whitworth+Un
+ iversity%2C+Spokane%2C+WA&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

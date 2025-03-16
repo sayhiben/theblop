@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:9e88dbac-28eb-4f4c-805c-196ec1ab02ff
+SEQUENCE:0
+DTSTAMP:20250316T231125Z
+DTSTART:20250319T121500
+DTEND:20250319T161500
+SUMMARY:Exercise Your Power (Lunch)
+LOCATION:125 State Street\, Salt Lake City\, UT
+DESCRIPTION:Join us for a lunchtime rally to advocate for town halls and d
+ irect engagement with representatives. We demand attention and action with
+  the theme 'Musk or Us!'\n\nSalt Lake Federal Building
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=125+State+St
+ reet%2C+Salt+Lake+City%2C+UT&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

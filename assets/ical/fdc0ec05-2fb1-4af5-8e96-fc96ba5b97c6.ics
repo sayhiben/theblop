@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:f76d6e17-0234-4b26-b761-9286117e7d9e
+SEQUENCE:0
+DTSTAMP:20250316T231125Z
+DTSTART:20250319T200000
+DTEND:20250320T000000
+SUMMARY:Do Not Comply: a training to organize resistance in your community
+DESCRIPTION:Join our online training to learn how you can organize resista
+ nce to Trump's agenda in your community. This virtual event allows you to 
+ participate from anywhere and gain insights into effective community organ
+ izing.\n\nOnline
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=&zoom=15&bas
+ emap=roadmap
+END:VEVENT
+END:VCALENDAR

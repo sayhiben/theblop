@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:91358433-96b9-4c1e-97d4-5018e3e177d5
+SEQUENCE:0
+DTSTAMP:20250316T231125Z
+DTSTART:20250322T100000
+DTEND:20250322T140000
+SUMMARY:#TeslaTakedown
+LOCATION:2501 North Main St\, Gainesville\, FL
+DESCRIPTION:Join us as we protest to express our opposition to Elon Musk. 
+ We encourage you to sell your Teslas and dump your stock as part of this p
+ rotest.\n\nPark in the Ollie’s/Harbor Freight Parking Lot
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=2501+North+M
+ ain+St%2C+Gainesville%2C+FL&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

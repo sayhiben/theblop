@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:e95e12f1-2477-4854-abd6-49180d98ff27
+SEQUENCE:0
+DTSTAMP:20250316T231126Z
+DTSTART:20250405T120000
+DTEND:20250405T160000
+SUMMARY:Remove\, Reverse\, Reclaim
+LOCATION:\, Longview\, WA
+DESCRIPTION:Join us as we aim to remove corrupt politicians\, reverse the 
+ damage\, and reclaim our democracy. Participate in this national movement 
+ involving 50 protests across 50 states.\n\nThe City Circle\, Gazebo
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+Longview
+ %2C+WA&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

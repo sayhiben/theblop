@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:09078ddc-4ed3-4948-a997-45f6cf355023
+SEQUENCE:0
+DTSTAMP:20250316T231126Z
+DTSTART:20250405T120000
+DTEND:20250405T160000
+SUMMARY:50 PROTESTS • 50 STATES • 1 MOVEMENT
+LOCATION:416 Sid Snyder\, Olympia\, WA
+DESCRIPTION:We are organizing a movement aimed at removing corrupt politic
+ ians from office\, reversing the damage to our systems\, and reclaiming ou
+ r democracy. Join us as part of a larger nationwide effort with protests h
+ appening in every state.\n\nState Capitol
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=416+Sid+Snyd
+ er%2C+Olympia%2C+WA&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR
