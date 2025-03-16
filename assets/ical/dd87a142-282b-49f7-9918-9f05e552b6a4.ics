@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:537c0d54-c9eb-40e5-8935-3ab7b878ee36
+SEQUENCE:0
+DTSTAMP:20250316T050604Z
+DTSTART:20250419T000000
+DTEND:20250419T040000
+SUMMARY:Plan to Resist Trump’s Tyranny
+LOCATION:\, Nationwide\, Nationwide
+DESCRIPTION:Join us as we organize to resist against the violations of law
+  under what is perceived as Trump's tyranny. Led by Robert Reich\, a seaso
+ ned advocate for democracy\, this gathering aims to unite and empower indi
+ viduals to stand against injustices.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+Nationwi
+ de%2C+Nationwide&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

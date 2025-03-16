@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:4040db19-ddaa-4ca5-a2ab-983dd29e4ade
+SEQUENCE:0
+DTSTAMP:20250316T050604Z
+DTSTART:20250405T120000
+DTEND:20250405T160000
+SUMMARY:Hands Off
+LOCATION:MN State Capitol\, St. Paul\, MN
+DESCRIPTION:Join us for a nationwide mobilization to say HANDS OFF our Hea
+ lthcare\, Education\, Social Security\, Data\, Public Lands and more! This
+  is a coalition-led effort.\n\nMN State Capitol
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=MN+State+Cap
+ itol%2C+St.+Paul%2C+MN&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR
