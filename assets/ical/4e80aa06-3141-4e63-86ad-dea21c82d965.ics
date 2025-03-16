@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:90638176-ddf2-4df4-a6cb-44738af18ee9
+SEQUENCE:0
+DTSTAMP:20250316T000636Z
+DTSTART:20250330T130000
+DTEND:20250330T170000
+SUMMARY:Land Day 2025
+LOCATION:Union Square\, New York City\, NY
+DESCRIPTION:Join us for Land Day 2025 as we stand in solidarity with Pales
+ tine\, emphasizing our commitment to remaining and returning. We will gath
+ er to show our support and shut down Union Square for Palestine.\n\nUnion 
+ Square
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Union+Square
+ %2C+New+York+City%2C+NY&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

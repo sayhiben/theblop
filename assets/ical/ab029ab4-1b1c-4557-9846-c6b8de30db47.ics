@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:d72d7a48-b0f8-452d-8191-5333c8447339
+SEQUENCE:0
+DTSTAMP:20250316T000635Z
+DTSTART:20250316T120000
+DTEND:20250316T160000
+SUMMARY:Transexual Menace Rally to Demand Representatives Keep Us Safe
+LOCATION:\, New York\, NY
+DESCRIPTION:Join us for a rally on March 16th at Washington Square Park to
+  demand safety and accountability from our representatives. In light of pa
+ st challenges\, this event seeks to advocate for better support and protec
+ tion of trans rights.\n\nWashington Square Park
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+New+York
+ %2C+NY&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

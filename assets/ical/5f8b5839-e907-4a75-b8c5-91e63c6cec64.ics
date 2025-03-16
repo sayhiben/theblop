@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:6de12276-7dd2-420b-991e-5edbaff86f5a
+SEQUENCE:0
+DTSTAMP:20250316T000636Z
+DTSTART:20250327T160000
+DTEND:20250327T200000
+SUMMARY:STOP Project 2025
+LOCATION:\, Titusville\, FL
+DESCRIPTION:Join us in protesting as part of the STOP Project 2025 initiat
+ ive. The demonstration is planned at multiple locations to express collect
+ ive action against pressing issues. Brevard Democrats\, Space Coast Progre
+ ssive Alliance\, and Awake Brevard Action Alliance are uniting efforts to 
+ voice community concerns.\n\nUS1 & 50\, US1 & 520\, US 1 & 192
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+Titusvil
+ le%2C+FL&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

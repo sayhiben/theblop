@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:7aaaf711-3df9-4174-baca-9ca402f478a1
+SEQUENCE:0
+DTSTAMP:20250316T000636Z
+DTSTART:20250405T000000
+DTEND:20250405T040000
+SUMMARY:People's Veto Day
+LOCATION:\, Washington\, DC
+DESCRIPTION:50501 Movement and Women's March are mobilizing to stop the MA
+ GA assault on our country and Constitution. Across the nation\, we're taki
+ ng to the streets to defend our freedoms\, our rights\, and our future. Wh
+ en those in power try to silence us\, we rise louder. When they attack our
+  communities\, we fight back—together. Join us in Washington DC for a da
+ y of action.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+Washingt
+ on%2C+DC&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

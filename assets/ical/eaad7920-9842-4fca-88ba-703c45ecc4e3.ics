@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:53a6e1c3-af23-4294-8bd7-976c35515782
+SEQUENCE:0
+DTSTAMP:20250316T000635Z
+DTSTART:20250316T130000
+DTEND:20250316T170000
+SUMMARY:Israelis for Peace
+LOCATION:\, Manhattan\, NY
+DESCRIPTION:Israeli anti-occupation activists in NYC are protesting for a 
+ ceasefire and hostage deal. Gatherings are every Sunday at 4:00 PM at Unio
+ n Square\, Manhattan\, until the war is over.\n\nUnion Square
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+Manhatta
+ n%2C+NY&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

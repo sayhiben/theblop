@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:b3c2f737-51bb-4335-9f13-8752f6e9e907
+SEQUENCE:0
+DTSTAMP:20250316T000636Z
+DTSTART:20250405T110000
+DTEND:20250405T150000
+SUMMARY:VETO Project 2025
+LOCATION:Washington Park\, Cincinnati\, OH
+DESCRIPTION:We the People organize a national day of action to reject the 
+ Trump-Musk administration\, focusing on protecting social and civic rights
+ . Join us in Cincinnati for a rally and march as part of our peaceful diss
+ ent.\n\nWashington Park
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Washington+P
+ ark%2C+Cincinnati%2C+OH&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

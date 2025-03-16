@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:bc1bb6ad-cd77-4981-8817-07c4409c3f44
+SEQUENCE:0
+DTSTAMP:20250316T000635Z
+DTSTART:20250319T120000
+DTEND:20250319T160000
+SUMMARY:War No More!
+LOCATION:\, New York\, NY
+DESCRIPTION:On the 22nd anniversary of the U.S. invasion of Iraq\, we are 
+ organizing a protest against ongoing wars and military operations by the U
+ .S. in multiple regions. The event includes calling out U.S. military aid 
+ in conflicts and advocating for peace\, particularly focusing on support f
+ or actions against Gaza. The day will start with a vigil at Union Square\,
+  followed by a march to Washington Square Park.\n\n14th Street steps in Un
+ ion Square
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+New+York
+ %2C+NY&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

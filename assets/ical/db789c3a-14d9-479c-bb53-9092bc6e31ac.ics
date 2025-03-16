@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:327514a2-ef51-4ad9-a989-70c82648ca96
+SEQUENCE:0
+DTSTAMP:20250316T000636Z
+DTSTART:20250331T160000
+DTEND:20250331T200000
+SUMMARY:March for Trans Day of Visibility
+LOCATION:\, New York\, NY
+DESCRIPTION:Join us in showing support and celebrating the trans community
+  by marching on the national Transgender Day of Visibility. The march star
+ ts at Union Square and ends with a rally at Washington Square Park.\n\nUni
+ on Square
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+New+York
+ %2C+NY&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

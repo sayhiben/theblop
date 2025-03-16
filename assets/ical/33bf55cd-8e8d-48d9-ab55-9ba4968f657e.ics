@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:c5059816-2f25-494b-8f17-0a5ee475fa13
+SEQUENCE:0
+DTSTAMP:20250316T000635Z
+DTSTART:20250316T110000
+DTEND:20250316T150000
+SUMMARY:Free Mahmoud Khalil Protest
+LOCATION:UNM Bookstore\, Albuquerque\, NM
+DESCRIPTION:Join us for a protest to demand the release of Mahmoud Khalil 
+ and advocate for the removal of ICE from our campuses. We encourage all pa
+ rticipants to wear masks and cover hair to protect their identity.\n\nUNM 
+ Bookstore
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=UNM+Bookstor
+ e%2C+Albuquerque%2C+NM&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

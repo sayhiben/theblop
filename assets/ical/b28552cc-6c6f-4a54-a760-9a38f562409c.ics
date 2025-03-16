@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:feee2656-594a-4776-bf96-bf647ded9ce8
+SEQUENCE:0
+DTSTAMP:20250316T000635Z
+DTSTART:20250317T180000
+DTEND:20250317T220000
+SUMMARY:Tillis Town Hall Greensboro
+LOCATION:1601 Walker Ave\, Greensboro\, NC 27403\, USA
+DESCRIPTION:We are organizing a Town Hall protest in Greensboro\, NC\, eve
+ n if Tom Tillis does not attend. We will have programming and an ASL inter
+ preter available.\n\nCollege Park Baptist Church
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=1601+Walker+
+ Ave%2C+Greensboro%2C+NC+27403%2C+USA&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:ed5aa270-8192-49a6-859f-996579ee77ed
+SEQUENCE:0
+DTSTAMP:20250316T000635Z
+DTSTART:20250316T140000
+DTEND:20250316T180000
+SUMMARY:Weekly Rally for Freedom
+LOCATION:Irvine City Hall\, Irvine\, CA
+DESCRIPTION:Join us every week for a peaceful\, family-friendly grassroots
+  rally to show solidarity against tyranny in support of Orange County and 
+ nearby areas. Hosted by 50501OC and Indivisible.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Irvine+City+
+ Hall%2C+Irvine%2C+CA&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

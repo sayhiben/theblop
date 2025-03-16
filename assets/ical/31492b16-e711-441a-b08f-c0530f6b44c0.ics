@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:77b4ab53-5790-41e8-a9f3-c49a9f716cc3
+SEQUENCE:0
+DTSTAMP:20250316T000636Z
+DTSTART:20250324T160000
+DTEND:20250324T200000
+SUMMARY:True North Strong
+LOCATION:At every US consulate in Canada\, Nationwide\, Nationwide
+DESCRIPTION:A day of nationwide solidarity where we stand together not jus
+ t for our sovereignty\, but also in solidarity with those resisting fascis
+ m across the globe.\n\nCalgary\, Halifax\, Montreal\, Toronto\, Ottawa\, V
+ ancouver\, Winnipeg
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=At+every+US+
+ consulate+in+Canada%2C+Nationwide%2C+Nationwide&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR
