@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:ed0329e6-fa15-4d10-bcfb-538a046c3ee7
+SEQUENCE:0
+DTSTAMP:20250316T201421Z
+DTSTART:20250318T183000
+DTEND:20250318T223000
+SUMMARY:NYC Protest to ChuckChuck
+LOCATION:1 East 65th Street\, 5th Ave\, across CPE\, New York\, NY
+DESCRIPTION:We are organizing a protest against 'ChuckChuck' to address co
+ ncerns about his actions\, such as charging for book tour tickets while Am
+ ericans struggle. Join us to voice our dissent.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=1+East+65th+
+ Street%2C+5th+Ave%2C+across+CPE%2C+New+York%2C+NY&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

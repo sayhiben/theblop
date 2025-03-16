@@ -166,9 +166,7 @@
     "state": "NY",
     "address": "100 S Clinton St",
     "meeting_location": "James M. Hanley Federal Building",
-    "links": [
-      "[]"
-    ],
+    "links": [],
     "sponsors": [
       "Indivisible"
     ],
@@ -190,9 +188,7 @@
     "state": "OR",
     "address": "2512 SE 25th Ave. suite 206",
     "meeting_location": "The Geode",
-    "links": [
-      "[]"
-    ],
+    "links": [],
     "sponsors": [
       "Jacqui Parker",
       " Queer Magic"
@@ -309,9 +305,7 @@
     "links": [
       "https://actionnetwork.org/events/no-musk-no-doge-2"
     ],
-    "sponsors": [
-      "[]"
-    ],
+    "sponsors": [],
     "image_url": "https://theblop.org/assets/images/b596ebbb-f595-4bbf-a737-48d2a34950d2.png",
     "thumbnail_url": "https://theblop.org/assets/images/b596ebbb-f595-4bbf-a737-48d2a34950d2-thumb.jpg",
     "canonical_id": "",
@@ -831,9 +825,7 @@
     "links": [
       "https://actionnetwork.org/events/tesla-takedown-somerset"
     ],
-    "sponsors": [
-      "[]"
-    ],
+    "sponsors": [],
     "image_url": "https://theblop.org/assets/images/50034829-2fdd-4f6c-931d-af50fb607ecb.png",
     "thumbnail_url": "https://theblop.org/assets/images/50034829-2fdd-4f6c-931d-af50fb607ecb-thumb.jpg",
     "canonical_id": "",
@@ -1137,9 +1129,7 @@
     "state": "WA",
     "address": "20398 Edwards Rd E",
     "meeting_location": "SR 410 & 204th Bonney Lake",
-    "links": [
-      "[]"
-    ],
+    "links": [],
     "sponsors": [
       "Knights Who Say Ni",
       " 50501 Movement Washington State"
@@ -1391,9 +1381,7 @@
     "state": "PA",
     "address": "4100 Forbes Ave",
     "meeting_location": "Schenley Plaza",
-    "links": [
-      "[]"
-    ],
+    "links": [],
     "sponsors": [
       "Indivisible Pittsburgh"
     ],
@@ -1415,9 +1403,7 @@
     "state": "WA",
     "address": "18809 ANDERSON PARKWAY",
     "meeting_location": "Muriel Iverson Williams Waterfront Park",
-    "links": [
-      "[]"
-    ],
+    "links": [],
     "sponsors": [
       "PoulsboForAll2025"
     ],
@@ -1577,6 +1563,30 @@
     "raw_summary": ""
   },
   {
+    "id": "0976542e-84bf-45ea-86a2-de9b9e469c07",
+    "title": "Support Our Kids Rally",
+    "date": "Monday, March 17, 2025",
+    "time": "9:00 AM",
+    "description": "Join us in Fredericksburg, VA for a rally on March 17th to protest cuts in public education. The event will take place near James Monroe High School (JMHS) from 9:00 AM to noon as Governor Youngkin visits. Make your voice heard and stand up for public education.",
+    "city": "Fredericksburg",
+    "state": "VA",
+    "address": "near JMHS",
+    "meeting_location": "near JMHS",
+    "links": [
+      "linktr.ee/fxbg4lovers"
+    ],
+    "sponsors": [
+      "Indivisible FXBG"
+    ],
+    "image_url": "https://theblop.org/assets/images/0976542e-84bf-45ea-86a2-de9b9e469c07.jpg",
+    "thumbnail_url": "https://theblop.org/assets/images/0976542e-84bf-45ea-86a2-de9b9e469c07-thumb.jpg",
+    "canonical_id": "",
+    "permalink": "https://theblop.org/events/0976542e-84bf-45ea-86a2-de9b9e469c07.html",
+    "ical": "https://theblop.org/assets/ical/0976542e-84bf-45ea-86a2-de9b9e469c07.ics",
+    "raw_text": "Indivisible FXBG @indivisiblefxbg.bsky.social\nIMMEDIATE ACTION ITEM - FREDERICKSBURG VA LOCALS\nThere is a rally Monday 3.17 9:00a-12p near JMHS to protest cuts in public education. Governor Youngkin will be there. See FXBG4LOVERS linktree for more meeting place details!!\nlinktr.ee/fxbg4lovers?...\nSUPPORT OUR KIDS Monday, 3/17 9am - noon Rally outside JMHS during Gov. Youngkin’s visit  Take a stand to defend public education",
+    "raw_summary": "A rally organized by Indivisible FXBG is scheduled for Monday, March 17th from 9:00 AM to 12:00 PM near JMHS in Fredericksburg, VA, protesting cuts in public education during Governor Youngkin’s visit. More details are available via the FXBG4LOVERS linktree."
+  },
+  {
     "id": "7a2379e9-ae1f-43aa-b07f-ddd3f0580963",
     "title": "Bannering over the 101",
     "date": "Monday, March 17, 2025",
@@ -1684,6 +1694,28 @@
     "ical": "https://theblop.org/assets/ical/3990f176-08b5-4fa2-ad26-a69aa549b79f.ics",
     "raw_text": "LATINO ADVOCACY DAY • LATINO ADVOCACY DAY • LATINO ADVOCACY DAY • LATINO ADVOCACY DAY\n\nSTAND WITH IMMIGRANTS\nLATINO ADVOCACY DAY\n\nCOMMUNITY MARCH\n*** \nMARCHA COMUNITARIA\nFEATURING DOLORES HUERTA\n\nMON. 3/17, 11AM\n1750 WELTON ST, DENVER",
     "raw_summary": "A community march titled \"Stand with Immigrants,\" part of Latino Advocacy Day, featuring Dolores Huerta, is scheduled for Monday, March 17th at 11 AM, located at 1750 Welton Street, Denver."
+  },
+  {
+    "id": "b3579e79-cb90-4358-81f5-73ecafe95db7",
+    "title": "Community March",
+    "date": "Monday, March 17, 2025",
+    "time": "11:00 AM",
+    "description": "Join us for a Community March as part of Latino Advocacy Day, featuring Dolores Huerta, to stand with immigrants and advocate for change.",
+    "city": "Denver",
+    "state": "CO",
+    "address": "1750 Welton St",
+    "meeting_location": "",
+    "links": [],
+    "sponsors": [
+      "Latino Advocacy Day"
+    ],
+    "image_url": "https://theblop.org/assets/images/b3579e79-cb90-4358-81f5-73ecafe95db7.jpg",
+    "thumbnail_url": "https://theblop.org/assets/images/b3579e79-cb90-4358-81f5-73ecafe95db7-thumb.jpg",
+    "canonical_id": "3990f176-08b5-4fa2-ad26-a69aa549b79f",
+    "permalink": "https://theblop.org/events/b3579e79-cb90-4358-81f5-73ecafe95db7.html",
+    "ical": "https://theblop.org/assets/ical/b3579e79-cb90-4358-81f5-73ecafe95db7.ics",
+    "raw_text": "Stand with Immigrants Latino Advocacy Day Community March Marcha Comunitaria Featuring Dolores Huerta Mon. 3/17, 11AM 1750 Welton St, Denver",
+    "raw_summary": "The flyer is promoting a community march as part of Latino Advocacy Day, featuring Dolores Huerta, set to take place in Denver at 1750 Welton St on March 17th at 11 AM."
   },
   {
     "id": "5f548e45-2734-4860-8ae7-12d561b7e3af",
@@ -1798,6 +1830,28 @@
     "raw_summary": "The event is called 'Takedown Tesla!' hosted by Federal Workers United SF, occurring on Monday, March 17 from 12:00 to 1:00 PM. It aims to support federal workers standing against Elon Musk, held at the Tesla dealership in San Francisco. Participants are encouraged to join the picket lines and engage in activities against Tesla's influence."
   },
   {
+    "id": "a697cbf0-8aee-48a5-be49-ef12091088b2",
+    "title": "STOP THE ATTACK ON FEDERAL WORKERS - TAKEDOWN ELON MUSK!",
+    "date": "Monday, March 17, 2025",
+    "time": "12:00 PM",
+    "description": "Join us every Monday to protest against Tesla at the SF Tesla Dealership. Support federal workers and veterans by participating in this visibility event, organized by Federal Workers United - SF. We gather at noon, and you can opt to march from the Federal Building to the dealership.",
+    "city": "San Francisco",
+    "state": "CA",
+    "address": "999 Van Ness Ave",
+    "meeting_location": "SF Tesla Dealership, 999 Van Ness Avenue, San Francisco, CA 94109",
+    "links": [],
+    "sponsors": [
+      "Federal Workers United - SF"
+    ],
+    "image_url": "https://theblop.org/assets/images/a697cbf0-8aee-48a5-be49-ef12091088b2.jpg",
+    "thumbnail_url": "https://theblop.org/assets/images/a697cbf0-8aee-48a5-be49-ef12091088b2-thumb.jpg",
+    "canonical_id": "2d12f703-6583-4f17-9bf2-67fb110ae952",
+    "permalink": "https://theblop.org/events/a697cbf0-8aee-48a5-be49-ef12091088b2.html",
+    "ical": "https://theblop.org/assets/ical/a697cbf0-8aee-48a5-be49-ef12091088b2.ics",
+    "raw_text": "Mobilize\nLog in\n\nWE SUPPORT FEDERAL WORKERS\n\n😊 Your friend picked this event. Get involved by signing up!\n\nSTOP THE ATTACK ON FEDERAL WORKERS - TAKEDOWN ELON MUSK! \nVisibility Event • Hosted by Federal Workers United - SF\n\n📅 Mondays \n12 – 2pm PDT \n\n📍 SF Tesla Dealership \n999 Van Ness Ave \nSan Francisco, CA 94109 \nMap\n\nAbout this event\n\nTell Elon to Stop the Attack on Government Workers! \nOver 600,000 Veterans in Government Need Your Support!\n\nEvery Monday @ 12:00 PM • SF Tesla Dealership • 999 Van Ness Avenue, San Francisco, CA 94109\n\nWe will be at the Tesla dealership at 999 Van Ness Avenue, SF, at 12 noon every Monday in Support of Federal Workers!\n\nOr if you are arriving at Civic Center BART you can march with us from the Federal Building at 90 7th Street. We'll meet at 11:30am in front of the Federal Building and march up to Tesla together, arriving at the dealership at noon.\n\nAccessibility\n☑️ Have accessibility questions? Reply to your registration email to confirm your requirements or request more information.\n\nTags\n#boycotttesla, #teslatakedown\n\nMap",
+    "raw_summary": "This flyer invites participants to join a protest every Monday against Tesla, led by Federal Workers United - SF. The gathering is to support federal workers and veterans, and it kicks off at the SF Tesla Dealership at 12 noon. There is an optional march starting from the Federal Building, San Francisco."
+  },
+  {
     "id": "2d12f703-6583-4f17-9bf2-67fb110ae952",
     "title": "Stop the Attack on Federal Workers - Takedown Tesla!",
     "date": "Monday, March 17, 2025",
@@ -1904,6 +1958,32 @@
     "raw_summary": ""
   },
   {
+    "id": "c05a3a55-0d4c-4c9a-946e-fae6c56d096c",
+    "title": "2025 LGBTQ+ Lobby Day Rally",
+    "date": "Monday, March 17, 2025",
+    "time": "1:00 PM",
+    "description": "Join us for the 2025 LGBTQ+ Lobby Day Rally to support equality and advocacy. We'll gather at the New Jersey Statehouse Annex to engage with community leaders and push for progressive policy changes. Let's make our voices heard together.",
+    "city": "Trenton",
+    "state": "NJ",
+    "address": "131 West State Street",
+    "meeting_location": "New Jersey Statehouse Annex",
+    "links": [],
+    "sponsors": [
+      "Garden State Equality Action Fund",
+      " Planned Parenthood Action Fund of New Jersey",
+      " League of Women Voters of New Jersey",
+      " Cherry Hill Women's Center",
+      " Hyacinth"
+    ],
+    "image_url": "https://theblop.org/assets/images/c05a3a55-0d4c-4c9a-946e-fae6c56d096c.jpg",
+    "thumbnail_url": "https://theblop.org/assets/images/c05a3a55-0d4c-4c9a-946e-fae6c56d096c-thumb.jpg",
+    "canonical_id": "",
+    "permalink": "https://theblop.org/events/c05a3a55-0d4c-4c9a-946e-fae6c56d096c.html",
+    "ical": "https://theblop.org/assets/ical/c05a3a55-0d4c-4c9a-946e-fae6c56d096c.ics",
+    "raw_text": "2025 LGBTQ+ LOBBY DAY RALLY\nMONDAY, MARCH 17\n1PM: ARRIVAL\n1:30PM: RALLY\nNEW JERSEY STATEHOUSE ANNEX\n131 West State Street, Trenton, NJ\n\nGARDEN STATE EQUALITY ACTION FUND\nPlanned Parenthood Action Fund of New Jersey\nLEAGUE OF WOMEN VOTERS OF NEW JERSEY\nCherry Hill Women's Center\nHYACINTH STRENGTHENING HEALTH, SECURING WELLNESS\nBULLETPROOF PRIDE",
+    "raw_summary": "The image is a flyer for the 2025 LGBTQ+ Lobby Day Rally happening on Monday, March 17. The event will take place at the New Jersey Statehouse Annex in Trenton, NJ. Attendees are encouraged to arrive at 1 PM, with the rally starting at 1:30 PM. Sponsors include Garden State Equality Action Fund, Planned Parenthood Action Fund of New Jersey, League of Women Voters of New Jersey, Cherry Hill Women's Center, and Hyacinth."
+  },
+  {
     "id": "cf5e9651-6d90-4225-91d5-209a9289bafb",
     "title": "Protest in Mesa AZ in Front of Andy Biggs Office",
     "date": "Monday, March 17, 2025",
@@ -1938,16 +2018,34 @@
     "links": [
       "https://actionnetwork.org/events/peaceful-protest-in-front-of-pdx-tesla-week-5"
     ],
-    "sponsors": [
-      "Carolannefry@gmail.com"
-    ],
+    "sponsors": [],
     "image_url": "https://theblop.org/assets/images/e8b5a21d-6ae0-41e0-9711-8a7872f7642d.png",
     "thumbnail_url": "https://theblop.org/assets/images/e8b5a21d-6ae0-41e0-9711-8a7872f7642d-thumb.jpg",
-    "canonical_id": "",
+    "canonical_id": "1b001a89-efaf-4170-8645-2b86c040d311",
     "permalink": "https://theblop.org/events/e8b5a21d-6ae0-41e0-9711-8a7872f7642d.html",
     "ical": "https://theblop.org/assets/ical/e8b5a21d-6ae0-41e0-9711-8a7872f7642d.ics",
     "raw_text": "https://actionnetwork.org/events/peaceful-protest-in-front-of-pdx-tesla-week-5\n\nPeaceful Protest in front of PDX Tesla- Week 5!  \n\n🔹 Start:  Monday, March 17, 2025  •  3:45 PM  \n🔹 End:  Monday, March 17, 2025  •  5:15 PM   \n🔹 Location:  Portland Tesla  •  4330 S Macadam Ave , Portland, OR 97239 US  \n🔹 Host Contact Info:  Carolannefry@gmail.com  \n\nLet's keep the momentum going! we've had such an amazing event with 350 people in attendance last week, let's do it again!\n\nElon Musk is stealing our democracy, our data, & our money.\n\nMusk and his lawless engineers have gained access to Treasury, Health & Human Services, OPM, Dept of Education...More every day! With Trump's POWER GRAB, they and their crony oligarchs are infiltrating our government to increase their power and their wealth by 4 trillion dollars- STEALING OUR MONEY.\n\nWe must stand united to Stop Trump - Musk and DOGE.\n\nTesla is the closest thing we have in Portland to Elon, so let us peacefully protest in the right of way/ sidewalk in front of the Portland dealership to increase visibility of this issue. Right on Macadam at rush hour! If we get enough people, let's line both sides of the street for maximum visibility.\n\nMeet us at Old Spaghetti Factory, where we will walk over at 3:45pm *sharp* as a group or meet us at Tesla at 4pm. We'll be there during rush hour for prime visibility, ending at around 5:15. Parking is $5/hr at the OSP or on street parking for $2.50/hr. Highly recommend taking public transportation or carpooling.",
     "raw_summary": "The image describes a peaceful protest against Elon Musk and Trump, set to occur in front of the Portland Tesla dealership. The event is scheduled for Monday, March 17, 2025, from 3:45 PM to 5:15 PM. Participants are encouraged to gather at the Old Spaghetti Factory or directly at the Tesla dealership. The protest aims to bring attention to issues regarding democracy, data, and wealth distribution."
+  },
+  {
+    "id": "1b001a89-efaf-4170-8645-2b86c040d311",
+    "title": "Musk or Us: Peaceful Protest in Front of PDX Tesla- Week 4",
+    "date": "Monday, March 17, 2025",
+    "time": "3:45 PM",
+    "description": "Join us for a peaceful protest at the Tesla store in Portland. This volunteer-organized visibility event calls for participants to wear green in the spirit of St. Patrick’s Day and bring an Irish energy of resistance.",
+    "city": "Portland",
+    "state": "OR",
+    "address": "4330 S Macadam Ave",
+    "meeting_location": "At the Tesla store on Macadam Ave",
+    "links": [],
+    "sponsors": [],
+    "image_url": "https://theblop.org/assets/images/1b001a89-efaf-4170-8645-2b86c040d311.jpg",
+    "thumbnail_url": "https://theblop.org/assets/images/1b001a89-efaf-4170-8645-2b86c040d311-thumb.jpg",
+    "canonical_id": "",
+    "permalink": "https://theblop.org/events/1b001a89-efaf-4170-8645-2b86c040d311.html",
+    "ical": "https://theblop.org/assets/ical/1b001a89-efaf-4170-8645-2b86c040d311.ics",
+    "raw_text": "For my friends in Portland Metro - throw on some green tomorrow, Monday, St Patrick’s Day & peacefully protest @ Tesla (in Portland on Macadam). Bring that Irish “We Serve No King But Ireland” energy!!! #resist #irish #protest #pdx\n\nMusk or Us: Peaceful Protest in front of PDX Tesla- Week 4!\nVisibility Event · Volunteer organized\n\nMonday, March 17\n3:45 – 5:15pm PDT\n\n4330 S Macadam Ave\nPortland, OR 97239\nMap",
+    "raw_summary": "This image promotes a peaceful protest event in Portland, Oregon, called \"Musk or Us\". It is scheduled for Monday, March 17, from 3:45 PM to 5:15 PM. The event location is 4330 S Macadam Ave, and participants are encouraged to bring Irish-themed attire and spirit."
   },
   {
     "id": "7f128b7e-e304-4886-a9a7-4457adeded9c",
@@ -2126,78 +2224,6 @@
     "ical": "https://theblop.org/assets/ical/fe15848c-bf80-47ca-a09e-922558f3a2bf.ics",
     "raw_text": "JOIN\n50501 HOUSTON\n\nST. PADDY'S DAY\nPARADE MARCH\n\nJoin us in the parade!\nSATURDAY, MARCH 15\nVisit link for more details\n\nlinktr.ee/50501houston",
     "raw_summary": "The image invites people to join the 50501 Houston group for a \"St. Paddy's Day Parade March\" happening on Saturday, March 15. For more details, visitors are encouraged to visit the provided link."
-  },
-  {
-    "id": "c05a3a55-0d4c-4c9a-946e-fae6c56d096c",
-    "title": "2025 LGBTQ+ Lobby Day Rally",
-    "date": "Monday, March 17, 2025",
-    "time": "1:00 PM",
-    "description": "Join us for the 2025 LGBTQ+ Lobby Day Rally to support equality and advocacy. We'll gather at the New Jersey Statehouse Annex to engage with community leaders and push for progressive policy changes. Let's make our voices heard together.",
-    "city": "Trenton",
-    "state": "NJ",
-    "address": "131 West State Street",
-    "meeting_location": "New Jersey Statehouse Annex",
-    "links": [],
-    "sponsors": [
-      "Garden State Equality Action Fund",
-      " Planned Parenthood Action Fund of New Jersey",
-      " League of Women Voters of New Jersey",
-      " Cherry Hill Women's Center",
-      " Hyacinth"
-    ],
-    "image_url": "https://theblop.org/assets/images/c05a3a55-0d4c-4c9a-946e-fae6c56d096c.jpg",
-    "thumbnail_url": "https://theblop.org/assets/images/c05a3a55-0d4c-4c9a-946e-fae6c56d096c-thumb.jpg",
-    "canonical_id": "",
-    "permalink": "https://theblop.org/events/c05a3a55-0d4c-4c9a-946e-fae6c56d096c.html",
-    "ical": "https://theblop.org/assets/ical/c05a3a55-0d4c-4c9a-946e-fae6c56d096c.ics",
-    "raw_text": "2025 LGBTQ+ LOBBY DAY RALLY\nMONDAY, MARCH 17\n1PM: ARRIVAL\n1:30PM: RALLY\nNEW JERSEY STATEHOUSE ANNEX\n131 West State Street, Trenton, NJ\n\nGARDEN STATE EQUALITY ACTION FUND\nPlanned Parenthood Action Fund of New Jersey\nLEAGUE OF WOMEN VOTERS OF NEW JERSEY\nCherry Hill Women's Center\nHYACINTH STRENGTHENING HEALTH, SECURING WELLNESS\nBULLETPROOF PRIDE",
-    "raw_summary": "The image is a flyer for the 2025 LGBTQ+ Lobby Day Rally happening on Monday, March 17. The event will take place at the New Jersey Statehouse Annex in Trenton, NJ. Attendees are encouraged to arrive at 1 PM, with the rally starting at 1:30 PM. Sponsors include Garden State Equality Action Fund, Planned Parenthood Action Fund of New Jersey, League of Women Voters of New Jersey, Cherry Hill Women's Center, and Hyacinth."
-  },
-  {
-    "id": "a697cbf0-8aee-48a5-be49-ef12091088b2",
-    "title": "STOP THE ATTACK ON FEDERAL WORKERS - TAKEDOWN ELON MUSK!",
-    "date": "Monday, March 17, 2025",
-    "time": "12:00 PM",
-    "description": "Join us every Monday to protest against Tesla at the SF Tesla Dealership. Support federal workers and veterans by participating in this visibility event, organized by Federal Workers United - SF. We gather at noon, and you can opt to march from the Federal Building to the dealership.",
-    "city": "San Francisco",
-    "state": "CA",
-    "address": "999 Van Ness Ave",
-    "meeting_location": "SF Tesla Dealership, 999 Van Ness Avenue, San Francisco, CA 94109",
-    "links": [
-      "[]"
-    ],
-    "sponsors": [
-      "Federal Workers United - SF"
-    ],
-    "image_url": "https://theblop.org/assets/images/a697cbf0-8aee-48a5-be49-ef12091088b2.jpg",
-    "thumbnail_url": "https://theblop.org/assets/images/a697cbf0-8aee-48a5-be49-ef12091088b2-thumb.jpg",
-    "canonical_id": "",
-    "permalink": "https://theblop.org/events/a697cbf0-8aee-48a5-be49-ef12091088b2.html",
-    "ical": "https://theblop.org/assets/ical/a697cbf0-8aee-48a5-be49-ef12091088b2.ics",
-    "raw_text": "Mobilize\nLog in\n\nWE SUPPORT FEDERAL WORKERS\n\n😊 Your friend picked this event. Get involved by signing up!\n\nSTOP THE ATTACK ON FEDERAL WORKERS - TAKEDOWN ELON MUSK! \nVisibility Event • Hosted by Federal Workers United - SF\n\n📅 Mondays \n12 – 2pm PDT \n\n📍 SF Tesla Dealership \n999 Van Ness Ave \nSan Francisco, CA 94109 \nMap\n\nAbout this event\n\nTell Elon to Stop the Attack on Government Workers! \nOver 600,000 Veterans in Government Need Your Support!\n\nEvery Monday @ 12:00 PM • SF Tesla Dealership • 999 Van Ness Avenue, San Francisco, CA 94109\n\nWe will be at the Tesla dealership at 999 Van Ness Avenue, SF, at 12 noon every Monday in Support of Federal Workers!\n\nOr if you are arriving at Civic Center BART you can march with us from the Federal Building at 90 7th Street. We'll meet at 11:30am in front of the Federal Building and march up to Tesla together, arriving at the dealership at noon.\n\nAccessibility\n☑️ Have accessibility questions? Reply to your registration email to confirm your requirements or request more information.\n\nTags\n#boycotttesla, #teslatakedown\n\nMap",
-    "raw_summary": "This flyer invites participants to join a protest every Monday against Tesla, led by Federal Workers United - SF. The gathering is to support federal workers and veterans, and it kicks off at the SF Tesla Dealership at 12 noon. There is an optional march starting from the Federal Building, San Francisco."
-  },
-  {
-    "id": "b3579e79-cb90-4358-81f5-73ecafe95db7",
-    "title": "Community March",
-    "date": "Monday, March 17, 2025",
-    "time": "11:00 AM",
-    "description": "Join us for a Community March as part of Latino Advocacy Day, featuring Dolores Huerta, to stand with immigrants and advocate for change.",
-    "city": "Denver",
-    "state": "CO",
-    "address": "1750 Welton St",
-    "meeting_location": "",
-    "links": [],
-    "sponsors": [
-      "Latino Advocacy Day"
-    ],
-    "image_url": "https://theblop.org/assets/images/b3579e79-cb90-4358-81f5-73ecafe95db7.jpg",
-    "thumbnail_url": "https://theblop.org/assets/images/b3579e79-cb90-4358-81f5-73ecafe95db7-thumb.jpg",
-    "canonical_id": "",
-    "permalink": "https://theblop.org/events/b3579e79-cb90-4358-81f5-73ecafe95db7.html",
-    "ical": "https://theblop.org/assets/ical/b3579e79-cb90-4358-81f5-73ecafe95db7.ics",
-    "raw_text": "Stand with Immigrants Latino Advocacy Day Community March Marcha Comunitaria Featuring Dolores Huerta Mon. 3/17, 11AM 1750 Welton St, Denver",
-    "raw_summary": "The flyer is promoting a community march as part of Latino Advocacy Day, featuring Dolores Huerta, set to take place in Denver at 1750 Welton St on March 17th at 11 AM."
   },
   {
     "id": "6bf42c4c-58ff-4922-b160-5652dd8f1122",
@@ -2677,6 +2703,28 @@
     "raw_summary": "The flyer invites the public to a Congressional Town Hall event featuring Rep. Derrick Van Orden. It's an opportunity for community members to discuss the recent congressional actions on topics like Medicaid, Social Security, and farm funding. The event is organized by the Concerned Citizens of Vernon County and is not affiliated with a political party."
   },
   {
+    "id": "5caa98a9-e300-4c0c-a5b6-f26dbcc0f1c2",
+    "title": "NYC Protest to ChuckChuck",
+    "date": "Tuesday, March 18, 2025",
+    "time": "6:30 PM",
+    "description": "We are organizing a protest against 'ChuckChuck' to address concerns about his actions, such as charging for book tour tickets while Americans struggle. Join us to voice our dissent.",
+    "city": "New York",
+    "state": "NY",
+    "address": "1 East 65th Street, 5th Ave, across CPE",
+    "meeting_location": "",
+    "links": [],
+    "sponsors": [
+      "Christopher Webb"
+    ],
+    "image_url": "https://theblop.org/assets/images/5caa98a9-e300-4c0c-a5b6-f26dbcc0f1c2.jpg",
+    "thumbnail_url": "https://theblop.org/assets/images/5caa98a9-e300-4c0c-a5b6-f26dbcc0f1c2-thumb.jpg",
+    "canonical_id": "",
+    "permalink": "https://theblop.org/events/5caa98a9-e300-4c0c-a5b6-f26dbcc0f1c2.html",
+    "ical": "https://theblop.org/assets/ical/5caa98a9-e300-4c0c-a5b6-f26dbcc0f1c2.ics",
+    "raw_text": "#NYC Protest to #ChuckChuck!\n\nMarch 18, 2025\nTUES, 6:30 p.m.\n1 East 65th Street\n5th Ave, across CPE\n4/5/6/N/W\n\nChristopher Webb @cwebbonline.com · 5h\nIt gets worse. Schumer isn’t just going on a book tour—he’s charging for tickets.\n\nAbsolute insanity. While Americans are scared and in crisis mode, he’s basically saying, let them eat cake.\n\n@schumer.senate.gov Step Down.\n\nIN CONVERSATION WITH\nSen Chuck Schumer\nANTISEMITISM IN AMERICA\nA WARNING\nSENATOR CHUCK SCHUMER\nMAR 23 3PM\nLIVE TALKS LOS ANGELES",
+    "raw_summary": "The flyer promotes a protest against \"ChuckChuck\" to be held on March 18, 2025, in New York City at 6:30 p.m. The event location is specified as 1 East 65th Street, near 5th Avenue. The flyer mentions subway lines 4, 5, 6, N, and W as nearby options for transit. There is additional context about concerns related to tickets being charged for an event involving Sen Chuck Schumer discussing antisemitism."
+  },
+  {
     "id": "a62a188f-bc8a-4ce4-ad78-858a50a9488e",
     "title": "Stand with Indigenous Victims",
     "date": "Wednesday, March 19, 2025",
@@ -2710,9 +2758,7 @@
     "state": "CA",
     "address": "At the corner of La Paz and Marguerite",
     "meeting_location": "",
-    "links": [
-      "[]"
-    ],
+    "links": [],
     "sponsors": [
       "SouthOC4Democracy"
     ],
@@ -2927,6 +2973,30 @@
     "raw_summary": "An event organized by Indivisible Rapid City to support veterans, featuring Representative Dusty Johnson, is scheduled to take place on March 19 at 2:30 PM at the Sturgis Vets Club. The gathering aims to address the issue of veterans' benefits being cut."
   },
   {
+    "id": "fa47059b-166b-48f5-bd68-769342aa047f",
+    "title": "WE THE PEOPLE BUILT AMERICA",
+    "date": "Wednesday, March 19, 2025",
+    "time": "4:00 PM",
+    "description": "We are organizing a peaceful gathering to reclaim our place in America. Join us to demonstrate unity and strength without violence or hate speech.",
+    "city": "Simi Valley",
+    "state": "CA",
+    "address": "1st St. / 118 Freeway Overpass",
+    "meeting_location": "1st St. / 118 Freeway Overpass",
+    "links": [
+      "www.fiftyfifty.one"
+    ],
+    "sponsors": [
+      "50 50 1"
+    ],
+    "image_url": "https://theblop.org/assets/images/fa47059b-166b-48f5-bd68-769342aa047f.jpg",
+    "thumbnail_url": "https://theblop.org/assets/images/fa47059b-166b-48f5-bd68-769342aa047f-thumb.jpg",
+    "canonical_id": "",
+    "permalink": "https://theblop.org/events/fa47059b-166b-48f5-bd68-769342aa047f.html",
+    "ical": "https://theblop.org/assets/ical/fa47059b-166b-48f5-bd68-769342aa047f.ics",
+    "raw_text": "WE THE PEOPLE BUILT AMERICA\nWE THE PEOPLE WILL RECLAIM AMERICA\n\nWhen: Wednesday, March 19th\nWhere: Simi Valley\n       1st St. / 118 Freeway Overpass\nTime: 4-6 PM\n\nTHIS IS A PEACEFUL GATHERING\nVIOLENCE, WEAPONS, DESTRUCTION,\nHATE SPEECH, OR ANY THREATS WILL\nNOT BE TOLERATED.\n\nWWW.FIFTYFIFTY.ONE\nLEARN MORE & FOLLOW US AT:\n\n50 50 1\nPOWER TO THE PEOPLE!",
+    "raw_summary": "This flyer promotes a peaceful gathering in Simi Valley, specifically at the 1st St./118 Freeway Overpass. The event is scheduled for Wednesday, March 19th from 4 to 6 PM. It emphasizes that violence, weapons, destruction, hate speech, or any threats will not be tolerated. More information can be found at the website www.fiftyfifty.one."
+  },
+  {
     "id": "0ddbb815-a560-483a-803a-459d9dee6625",
     "title": "Musk or Us Protest",
     "date": "Wednesday, March 19, 2025",
@@ -3014,30 +3084,6 @@
     "ical": "https://theblop.org/assets/ical/186d3158-cefd-4300-8ddf-927e9b7e787c.ics",
     "raw_text": "NorCal Resist \n@norcalresist.bsky.social\n\nStockton March 19 protest hatemongers from tpusa\n\nNO HATE IN STOCKTON!\nGIVE TPUSA THE BOOT!\n\nTurning Point USA is hosting a transphobic speaker on March 19th at University of the Pacific. TPUSA is a campus group known for spreading extremist hate and white supremacist beliefs under a friendly veneer. Its leader, Charlie Kirk, has said that transgender people should be \"dealt with like we did in the 50s and 60s,\" and that the Civil Rights Act was \"a huge mistake.\" TPUSA has hosted racist and transphobic speakers including mass shooter Kyle Rittenhouse and continues to work closely with Proud Boys and literal neo-Nazis.\n\nBring signs, banners, and your friends and get ready to make some noise! WE'VE SHUT THEM DOWN BEFORE AND WE'LL DO IT AGAIN!\n\nMARCH 19th @ 6PM \nLONG THEATRE, UOP\n\n<-- More info about TPUSA’s hateful history.",
     "raw_summary": "This image promotes a protest event against Turning Point USA and its planned speaker at the University of the Pacific on March 19th. The event criticizes the organization's alleged promotion of hate speech. Attendees are encouraged to bring signs and make their voices heard."
-  },
-  {
-    "id": "fa47059b-166b-48f5-bd68-769342aa047f",
-    "title": "WE THE PEOPLE BUILT AMERICA",
-    "date": "Wednesday, March 19, 2025",
-    "time": "4:00 PM",
-    "description": "We are organizing a peaceful gathering to reclaim our place in America. Join us to demonstrate unity and strength without violence or hate speech.",
-    "city": "Simi Valley",
-    "state": "CA",
-    "address": "1st St. / 118 Freeway Overpass",
-    "meeting_location": "1st St. / 118 Freeway Overpass",
-    "links": [
-      "www.fiftyfifty.one"
-    ],
-    "sponsors": [
-      "50 50 1"
-    ],
-    "image_url": "https://theblop.org/assets/images/fa47059b-166b-48f5-bd68-769342aa047f.jpg",
-    "thumbnail_url": "https://theblop.org/assets/images/fa47059b-166b-48f5-bd68-769342aa047f-thumb.jpg",
-    "canonical_id": "",
-    "permalink": "https://theblop.org/events/fa47059b-166b-48f5-bd68-769342aa047f.html",
-    "ical": "https://theblop.org/assets/ical/fa47059b-166b-48f5-bd68-769342aa047f.ics",
-    "raw_text": "WE THE PEOPLE BUILT AMERICA\nWE THE PEOPLE WILL RECLAIM AMERICA\n\nWhen: Wednesday, March 19th\nWhere: Simi Valley\n       1st St. / 118 Freeway Overpass\nTime: 4-6 PM\n\nTHIS IS A PEACEFUL GATHERING\nVIOLENCE, WEAPONS, DESTRUCTION,\nHATE SPEECH, OR ANY THREATS WILL\nNOT BE TOLERATED.\n\nWWW.FIFTYFIFTY.ONE\nLEARN MORE & FOLLOW US AT:\n\n50 50 1\nPOWER TO THE PEOPLE!",
-    "raw_summary": "This flyer promotes a peaceful gathering in Simi Valley, specifically at the 1st St./118 Freeway Overpass. The event is scheduled for Wednesday, March 19th from 4 to 6 PM. It emphasizes that violence, weapons, destruction, hate speech, or any threats will not be tolerated. More information can be found at the website www.fiftyfifty.one."
   },
   {
     "id": "bad1133a-f7a5-4a65-8fa9-2c1eac810abf",
@@ -3308,6 +3354,31 @@
     "raw_summary": ""
   },
   {
+    "id": "fedc0079-a9d1-4b2f-9d47-4e210616e29f",
+    "title": "PROTEST to Save Medicaid, Medicare, Obamacare, and Social Security",
+    "date": "Thursday, March 20, 2025",
+    "time": "12:00 PM",
+    "description": "Join us in a peaceful protest against cuts to essential healthcare programs. Let's protect our rights and services!",
+    "city": "Miami",
+    "state": "FL",
+    "address": "@5725 SW 8th St",
+    "meeting_location": "Downtown Miami",
+    "links": [
+      "https://miamindivisible.org"
+    ],
+    "sponsors": [
+      "Miamindivisible",
+      " Indivisible Network"
+    ],
+    "image_url": "https://theblop.org/assets/images/fedc0079-a9d1-4b2f-9d47-4e210616e29f.png",
+    "thumbnail_url": "https://theblop.org/assets/images/fedc0079-a9d1-4b2f-9d47-4e210616e29f-thumb.jpg",
+    "canonical_id": "",
+    "permalink": "https://theblop.org/events/fedc0079-a9d1-4b2f-9d47-4e210616e29f.html",
+    "ical": "https://theblop.org/assets/ical/fedc0079-a9d1-4b2f-9d47-4e210616e29f.ics",
+    "raw_text": "",
+    "raw_summary": ""
+  },
+  {
     "id": "a00fcdba-8b14-4abf-88db-9e7549157749",
     "title": "Protest",
     "date": "Thursday, March 20, 2025",
@@ -3348,31 +3419,6 @@
     "ical": "https://theblop.org/assets/ical/0670352c-f99d-4e7e-8ab7-3fbb0b4f17a9.ics",
     "raw_text": "MARCH 20TH NOON\nPROTECT PUBLIC SERVICES RALLY\nSTATE CAPITOL ROTUNDA\nHELENA, MT\nSTAND UP FOR PUBLIC WORKERS. STAND UP FOR OUR COMMUNITIES. Together, we can protect public services.\nCONTACT ProtectPublicServices@gmail.com",
     "raw_summary": "The flyer announces a rally to protect public services, scheduled on March 20th at noon, taking place at the State Capitol Rotunda in Helena, MT. It aims to stand up for public workers and communities."
-  },
-  {
-    "id": "fedc0079-a9d1-4b2f-9d47-4e210616e29f",
-    "title": "PROTEST to Save Medicaid, Medicare, Obamacare, and Social Security",
-    "date": "Thursday, March 20, 2025",
-    "time": "12:00 PM",
-    "description": "Join us in a peaceful protest against cuts to essential healthcare programs. Let's protect our rights and services!",
-    "city": "Miami",
-    "state": "FL",
-    "address": "@5725 SW 8th St",
-    "meeting_location": "Downtown Miami",
-    "links": [
-      "https://miamindivisible.org"
-    ],
-    "sponsors": [
-      "Miamindivisible",
-      " Indivisible Network"
-    ],
-    "image_url": "https://theblop.org/assets/images/fedc0079-a9d1-4b2f-9d47-4e210616e29f.png",
-    "thumbnail_url": "https://theblop.org/assets/images/fedc0079-a9d1-4b2f-9d47-4e210616e29f-thumb.jpg",
-    "canonical_id": "a00fcdba-8b14-4abf-88db-9e7549157749",
-    "permalink": "https://theblop.org/events/fedc0079-a9d1-4b2f-9d47-4e210616e29f.html",
-    "ical": "https://theblop.org/assets/ical/fedc0079-a9d1-4b2f-9d47-4e210616e29f.ics",
-    "raw_text": "",
-    "raw_summary": ""
   },
   {
     "id": "04b94a61-bea1-4ec8-adc9-73d92e91cd85",
@@ -3665,6 +3711,29 @@
     "raw_summary": "The Clinton County Democrats are organizing a protest against Tom Barrett at 328 W. Ottawa Street, Lansing. The event, happening on March 21 at 11 AM, is to demand an in-person town hall from him, as he has been absent from the 7th District. The event is organized by the Blue Brigade."
   },
   {
+    "id": "38a12ef0-ddcc-4970-b053-4843ee753ed9",
+    "title": "Recess Visit to Representative Tenney's Office",
+    "date": "Friday, March 21, 2025",
+    "time": "11:00 AM",
+    "description": "We invite you to join Good Neighbors Getting it Done in WNY and StandUp WNY for a group visit to the Lockport office of Representative Claudia Tenney. We aim to hold her accountable to her constituents and remind her of her responsibilities.",
+    "city": "Lockport",
+    "state": "NY",
+    "address": "169 Niagara St",
+    "meeting_location": "Office of Representative Claudia Tenney",
+    "links": [],
+    "sponsors": [
+      "Good Neighbors Getting it Done in WNY",
+      " StandUp WNY"
+    ],
+    "image_url": "https://theblop.org/assets/images/38a12ef0-ddcc-4970-b053-4843ee753ed9.png",
+    "thumbnail_url": "https://theblop.org/assets/images/38a12ef0-ddcc-4970-b053-4843ee753ed9-thumb.jpg",
+    "canonical_id": "",
+    "permalink": "https://theblop.org/events/38a12ef0-ddcc-4970-b053-4843ee753ed9.html",
+    "ical": "https://theblop.org/assets/ical/38a12ef0-ddcc-4970-b053-4843ee753ed9.ics",
+    "raw_text": "Recess Visit to Representative Tenney's Office\nVisibility Event · Volunteer organized\n📅 Friday, March 21\n11am – 12pm EDT\n📍 Office of Representative Claudia Tenney\n169 Niagara St\nLockport, NY 14094\nMap\n\nAbout this event\nJoin Good Neighbors Getting it Done in WNY and StandUp WNY for a group visit to the Lockport office of Representative Claudia Tenney of the 24th Congressional District during the March recess. We’re holding Representative Tenney accountable to her constituents and reminding her that she works for us, not billionaires.\n\n📍 Where: 169 Niagara St., Lockport NY 14094\nWhen: 11:00am Friday March 21",
+    "raw_summary": "The image describes a planned visit to Representative Claudia Tenney's office involving local groups Good Neighbors Getting it Done in WNY and StandUp WNY. The event aims to hold the representative accountable. It’s scheduled for March 21 at the office address in Lockport, NY, running from 11:00 AM to 12:00 PM."
+  },
+  {
     "id": "fbee31e8-cdec-4dd2-b18e-b4509bce1f26",
     "title": "Rally for Democracy, Bay City, TX",
     "date": "Friday, March 21, 2025",
@@ -3742,9 +3811,7 @@
     "state": "MI",
     "address": "200 E Liberty St",
     "meeting_location": "Federal Post Office building on the corner of 5th and Liberty Street",
-    "links": [
-      "[]"
-    ],
+    "links": [],
     "sponsors": [
       "Michael Woon",
       " AACAW [Ann Arbor Coalition Against War]"
@@ -3962,27 +4029,27 @@
     "raw_summary": "The image describes a community event called \"Musk or Us: Rep. LaMonica McIver's Medicaid Town Hall,\" hosted by Indivisible. It is scheduled for Friday, March 21, from 6 to 7:30 PM at Liberty Middle School in West Orange, NJ."
   },
   {
-    "id": "38a12ef0-ddcc-4970-b053-4843ee753ed9",
-    "title": "Recess Visit to Representative Tenney's Office",
+    "id": "26cca6b0-1f3c-4c98-8561-1e9c662a0772",
+    "title": "WHERE'S ROUZER? TOWN HALL",
     "date": "Friday, March 21, 2025",
-    "time": "11:00 AM",
-    "description": "We invite you to join Good Neighbors Getting it Done in WNY and StandUp WNY for a group visit to the Lockport office of Representative Claudia Tenney. We aim to hold her accountable to her constituents and remind her of her responsibilities.",
-    "city": "Lockport",
-    "state": "NY",
-    "address": "169 Niagara St",
-    "meeting_location": "Office of Representative Claudia Tenney",
+    "time": "7:00 PM",
+    "description": "Join us for a town hall to discuss concerns related to David Rouzer's actions, including cutting healthcare and selling out farmers. Featuring The Cash Brothers and Representative Deb Butler.",
+    "city": "Wilmington",
+    "state": "NC",
+    "address": "502 N. Front Street",
+    "meeting_location": "CFCC",
     "links": [],
     "sponsors": [
-      "Good Neighbors Getting it Done in WNY",
-      " StandUp WNY"
+      "The Cash Brothers",
+      " Rep. Deb Butler"
     ],
-    "image_url": "https://theblop.org/assets/images/38a12ef0-ddcc-4970-b053-4843ee753ed9.png",
-    "thumbnail_url": "https://theblop.org/assets/images/38a12ef0-ddcc-4970-b053-4843ee753ed9-thumb.jpg",
+    "image_url": "https://theblop.org/assets/images/26cca6b0-1f3c-4c98-8561-1e9c662a0772.webp",
+    "thumbnail_url": "https://theblop.org/assets/images/26cca6b0-1f3c-4c98-8561-1e9c662a0772-thumb.jpg",
     "canonical_id": "",
-    "permalink": "https://theblop.org/events/38a12ef0-ddcc-4970-b053-4843ee753ed9.html",
-    "ical": "https://theblop.org/assets/ical/38a12ef0-ddcc-4970-b053-4843ee753ed9.ics",
-    "raw_text": "Recess Visit to Representative Tenney's Office\nVisibility Event · Volunteer organized\n📅 Friday, March 21\n11am – 12pm EDT\n📍 Office of Representative Claudia Tenney\n169 Niagara St\nLockport, NY 14094\nMap\n\nAbout this event\nJoin Good Neighbors Getting it Done in WNY and StandUp WNY for a group visit to the Lockport office of Representative Claudia Tenney of the 24th Congressional District during the March recess. We’re holding Representative Tenney accountable to her constituents and reminding her that she works for us, not billionaires.\n\n📍 Where: 169 Niagara St., Lockport NY 14094\nWhen: 11:00am Friday March 21",
-    "raw_summary": "The image describes a planned visit to Representative Claudia Tenney's office involving local groups Good Neighbors Getting it Done in WNY and StandUp WNY. The event aims to hold the representative accountable. It’s scheduled for March 21 at the office address in Lockport, NY, running from 11:00 AM to 12:00 PM."
+    "permalink": "https://theblop.org/events/26cca6b0-1f3c-4c98-8561-1e9c662a0772.html",
+    "ical": "https://theblop.org/assets/ical/26cca6b0-1f3c-4c98-8561-1e9c662a0772.ics",
+    "raw_text": "MISSING PERSON\n\nDAVID ROUZER\n\nLast seen: Licking boots, cutting healthcare, stealing food from children, selling out farmers, and turning his back on YOU while padding the pockets of billionaires.\n\nWHERE'S ROUZER? TOWN HALL\n\nFriday, March 21st 7PM - 9PM\n\nCFCC • 502 N. Front Street\n\nFeaturing\nThe Cash Brothers\n& Rep. Deb Butler\nDoors at 6:30    FIRST COME, FIRST SERVED.",
+    "raw_summary": "The image is a flyer for a town hall event titled \"WHERE'S ROUZER?\". It appears to be a political event criticizing David Rouzer with a description detailing grievances against him. The event will take place on Friday, March 21st, from 7 PM to 9 PM at CFCC, 502 N. Front Street. Featuring The Cash Brothers and Representative Deb Butler."
   },
   {
     "id": "5917473e-90eb-41f8-9a08-5fb2a527f11f",
@@ -4157,9 +4224,7 @@
     "links": [
       "https://actionnetwork.org/events/tesla-takedown-rockville-3"
     ],
-    "sponsors": [
-      "[]"
-    ],
+    "sponsors": [],
     "image_url": "https://theblop.org/assets/images/5fdee1e0-8cd7-4145-8545-e2287b313102.png",
     "thumbnail_url": "https://theblop.org/assets/images/5fdee1e0-8cd7-4145-8545-e2287b313102-thumb.jpg",
     "canonical_id": "",
@@ -4224,7 +4289,7 @@
     "sponsors": [],
     "image_url": "https://theblop.org/assets/images/202b2dda-e372-406a-a0a0-bc30789288af.jpg",
     "thumbnail_url": "https://theblop.org/assets/images/202b2dda-e372-406a-a0a0-bc30789288af-thumb.jpg",
-    "canonical_id": "",
+    "canonical_id": "054fdf74-afaf-44b2-a173-0239520bb2ce",
     "permalink": "https://theblop.org/events/202b2dda-e372-406a-a0a0-bc30789288af.html",
     "ical": "https://theblop.org/assets/ical/202b2dda-e372-406a-a0a0-bc30789288af.ics",
     "raw_text": "",
@@ -4240,9 +4305,7 @@
     "state": "OH",
     "address": "Montgomery County Courthouse",
     "meeting_location": "Montgomery County Courthouse",
-    "links": [
-      "[]"
-    ],
+    "links": [],
     "sponsors": [
       "The Mayday Coalition project"
     ],
@@ -4314,7 +4377,7 @@
     "sponsors": [],
     "image_url": "https://theblop.org/assets/images/608c17fc-3f6d-4afd-9b8b-0b8ace8c1aff.jpg",
     "thumbnail_url": "https://theblop.org/assets/images/608c17fc-3f6d-4afd-9b8b-0b8ace8c1aff-thumb.jpg",
-    "canonical_id": "9ff11c4f-7d96-4e52-8ac5-40135a4257f1",
+    "canonical_id": "80e12cd1-b9d7-499d-a69d-75834943be99",
     "permalink": "https://theblop.org/events/608c17fc-3f6d-4afd-9b8b-0b8ace8c1aff.html",
     "ical": "https://theblop.org/assets/ical/608c17fc-3f6d-4afd-9b8b-0b8ace8c1aff.ics",
     "raw_text": "ALL HANDS ON DECK!! Peaceful protest: March for our Constitution\nRally · Volunteer organized\nSaturday, March 22\n12 – 2pm PDT\n\nFederal Building\n11000 Wilshire Blvd\nLos Angeles, CA 90024\n\n(Sat. 3/22)\n\nMARCH FOR OUR CONSTITUTION\n\nPeaceful Protest\n12pm\nBring your friends, your signs & your voices!!",
@@ -4340,7 +4403,7 @@
     ],
     "image_url": "https://theblop.org/assets/images/9ff11c4f-7d96-4e52-8ac5-40135a4257f1.jpg",
     "thumbnail_url": "https://theblop.org/assets/images/9ff11c4f-7d96-4e52-8ac5-40135a4257f1-thumb.jpg",
-    "canonical_id": "",
+    "canonical_id": "80e12cd1-b9d7-499d-a69d-75834943be99",
     "permalink": "https://theblop.org/events/9ff11c4f-7d96-4e52-8ac5-40135a4257f1.html",
     "ical": "https://theblop.org/assets/ical/9ff11c4f-7d96-4e52-8ac5-40135a4257f1.ics",
     "raw_text": "INDIVISIBLE\n\nMarch for our Constitution\nRally - Volunteer organized\n\nSaturday, March 22\n12 – 2pm PDT\n\nFederal Building\n11000 Wilshire Blvd\nLos Angeles, CA 90024\nMap\n\nAbout this event\nIn solidarity against a Trump Monarchy, we are holding a Rally and a March to oppose the Trump Administration at the Federal Building in Westwood / LA..\n\nYou can find updates at \nhttps://democracyactionnetwork.com/ bluesky: \nhttps://bsky.app/profile/democracyactionnet.bsky.social subreddit: \nhttps://www.reddit.com/r/democracyaction\n\nAccessibility\nHave accessibility questions? Reply to your registration email to confirm your requirements or request more information.",
@@ -4354,8 +4417,8 @@
     "description": "A peaceful protest in solidarity against a Trump monarchy.",
     "city": "Los Angeles",
     "state": "CA",
-    "address": "Westwood Federal Building",
-    "meeting_location": "Los Angeles",
+    "address": "11000 Wilshire Blvd",
+    "meeting_location": "Westwood Federal Building",
     "links": [],
     "sponsors": [
       "Democracy Action Network",
@@ -4363,11 +4426,36 @@
     ],
     "image_url": "https://theblop.org/assets/images/d9e8704b-bda8-4e08-ae4b-d4b79658114a.png",
     "thumbnail_url": "https://theblop.org/assets/images/d9e8704b-bda8-4e08-ae4b-d4b79658114a-thumb.jpg",
-    "canonical_id": "9ff11c4f-7d96-4e52-8ac5-40135a4257f1",
+    "canonical_id": "80e12cd1-b9d7-499d-a69d-75834943be99",
     "permalink": "https://theblop.org/events/d9e8704b-bda8-4e08-ae4b-d4b79658114a.html",
     "ical": "https://theblop.org/assets/ical/d9e8704b-bda8-4e08-ae4b-d4b79658114a.ics",
     "raw_text": "",
     "raw_summary": ""
+  },
+  {
+    "id": "80e12cd1-b9d7-499d-a69d-75834943be99",
+    "title": "March for Our Constitution",
+    "date": "Saturday, March 22, 2025",
+    "time": "12:00 PM",
+    "description": "Join us as we march to defend democracy against efforts to undermine our Constitution. This peaceful protest is an opportunity to stand together and make our voices heard.",
+    "city": "Los Angeles",
+    "state": "CA",
+    "address": "11000 Wilshire Blvd",
+    "meeting_location": "Westwood Federal Building",
+    "links": [
+      "MarchForOurConstitution.com"
+    ],
+    "sponsors": [
+      "Democracy Action Network",
+      " Indivisible – Central LA"
+    ],
+    "image_url": "https://theblop.org/assets/images/80e12cd1-b9d7-499d-a69d-75834943be99.jpg",
+    "thumbnail_url": "https://theblop.org/assets/images/80e12cd1-b9d7-499d-a69d-75834943be99-thumb.jpg",
+    "canonical_id": "",
+    "permalink": "https://theblop.org/events/80e12cd1-b9d7-499d-a69d-75834943be99.html",
+    "ical": "https://theblop.org/assets/ical/80e12cd1-b9d7-499d-a69d-75834943be99.ics",
+    "raw_text": "r/LosAngelesProtests\nu/RadicalOrganizer • 1h\n3/22\nMARCH! FOR OUR CONSTITUTION\nSATURDAY MAR 22, 2025\n12 PM, WESTWOOD FEDERAL BUILDING\nMARCH TO DEFEND DEMOCRACY\nTrump and the Republican Party want to undermine our Constitution and dismantle democracy. We won’t let them!\nJoin the March:\nMarchForOurConstitution.com\nTAKE A STAND. JOIN THE MARCH.\nOrganized by Democracy Action Network / Indivisible – Central LA.\nShare this everywhere.",
+    "raw_summary": "A protest march titled 'March for Our Constitution' is being organized to defend democracy against perceived threats by political entities. The event is scheduled for Saturday, March 22, 2025, at noon, taking place at the Westwood Federal Building. Participants are encouraged to join via the website provided. The event is organized by Democracy Action Network and Indivisible – Central LA."
   },
   {
     "id": "c603fdc0-d4cc-4c02-90b2-200669010ae2",
@@ -4517,9 +4605,7 @@
     "links": [
       "https://actionnetwork.org/events/tesla-takedown-brooklyn-3"
     ],
-    "sponsors": [
-      "[]"
-    ],
+    "sponsors": [],
     "image_url": "https://theblop.org/assets/images/d20e18e7-bedf-4351-bdcb-0280af2bdc04.png",
     "thumbnail_url": "https://theblop.org/assets/images/d20e18e7-bedf-4351-bdcb-0280af2bdc04-thumb.jpg",
     "canonical_id": "",
@@ -4574,6 +4660,28 @@
     "ical": "https://theblop.org/assets/ical/ea1bd05e-2378-4466-975a-5f95cdf5d898.ics",
     "raw_text": "https://actionnetwork.org/events/party-bus-to-the-tesla-dealership\n\nParty Bus to the Tesla Dealership\n\nStart: Saturday, March 22, 2025 • 12:00 PM\nEnd: Saturday, March 22, 2025 • 3:00 PM\nLocation: 30th Street Station • 2955 Market St, Philadelphia, PA 19104 US\n\nWe're taking a Party Bus to the #TeslaTakedown at the Cherry Hill Tesla Dealership\nMake sure to RSVP at https://www.mobilize.us/dashboard/taxelon/event/761753/ to reserve your spot!",
     "raw_summary": "This flyer advertises an event titled \"Party Bus to the Tesla Dealership\" on March 22, 2025. The event starts at 12:00 PM and ends at 3:00 PM, beginning at 30th Street Station, located at 2955 Market St, Philadelphia, PA. Participants are attending the #TeslaTakedown at the Cherry Hill Tesla Dealership. An RSVP link is provided for reservations."
+  },
+  {
+    "id": "e22c01e2-4607-44c3-9109-fa55f8997cf4",
+    "title": "Be the Light!",
+    "date": "Saturday, March 22, 2025",
+    "time": "12:00 PM",
+    "description": "Join us as we come together in protest against certain political figures. Be part of the resistance movement in Rapid City. Let your voice be heard!",
+    "city": "Rapid City",
+    "state": "SD",
+    "address": "City Hall, Rapid City, SD",
+    "meeting_location": "City Hall",
+    "links": [],
+    "sponsors": [
+      "Indivisible Rapid City"
+    ],
+    "image_url": "https://theblop.org/assets/images/e22c01e2-4607-44c3-9109-fa55f8997cf4.png",
+    "thumbnail_url": "https://theblop.org/assets/images/e22c01e2-4607-44c3-9109-fa55f8997cf4-thumb.jpg",
+    "canonical_id": "",
+    "permalink": "https://theblop.org/events/e22c01e2-4607-44c3-9109-fa55f8997cf4.html",
+    "ical": "https://theblop.org/assets/ical/e22c01e2-4607-44c3-9109-fa55f8997cf4.ics",
+    "raw_text": "INDIVISIBLE RAPID CITY\n\nBe the light!\nWe are the resistance!\n\nProtest with us!\n\nMarch 22, 2025\nNoon - 2:00\nCity Hall, Rapid City, SD\n\n[No Elon symbol]  [No Trump symbol]",
+    "raw_summary": "A protest event organized by Indivisible Rapid City titled \"Be the light!\" scheduled for March 22, 2025, from noon to 2:00 PM at City Hall in Rapid City, SD. The event encourages participation in a show of resistance."
   },
   {
     "id": "1c7399fd-1f02-4374-a338-df82ed8e0c9f",
@@ -4662,6 +4770,28 @@
     "raw_summary": "The event is a town hall meeting organized by the Colorado Working Families Party discussing the attendance and accountability of a person named Gabe. It is scheduled for March 22 from 1:00 PM to 3:00 PM at Good Shepherd Presbyterian Church in Northglenn, CO."
   },
   {
+    "id": "9737eb75-2805-490a-915d-121902e79ae8",
+    "title": "Defend Democracy Peaceful Protest",
+    "date": "Saturday, March 22, 2025",
+    "time": "1:00 PM",
+    "description": "Join us for a peaceful protest to defend democracy. We are gathering to voice our concerns and stand together in promoting democratic values. The event will take place at the WPB Tesla Dealership, and parking is available at College Plaza.",
+    "city": "West Palm Beach",
+    "state": "FL",
+    "address": "5544 Okeechobee Blvd.",
+    "meeting_location": "WPB Tesla Dealership",
+    "links": [],
+    "sponsors": [
+      "pbindivisibles"
+    ],
+    "image_url": "https://theblop.org/assets/images/9737eb75-2805-490a-915d-121902e79ae8.jpg",
+    "thumbnail_url": "https://theblop.org/assets/images/9737eb75-2805-490a-915d-121902e79ae8-thumb.jpg",
+    "canonical_id": "",
+    "permalink": "https://theblop.org/events/9737eb75-2805-490a-915d-121902e79ae8.html",
+    "ical": "https://theblop.org/assets/ical/9737eb75-2805-490a-915d-121902e79ae8.ics",
+    "raw_text": "pbindivisibles\n🎵 Kirk Franklin & The Family • Revolution\nDefend Democracy\nPeaceful Protest\nSaturday, March 22nd\n1p-3p\nWPB Tesla Dealership\n5544 Okeechobee Blvd.\nPark at College Plaza\n6060 Okeechobee Blvd (Behind Chic-fil-A)\npbindivisibles WPB TESLA DEALERSHIP PROTEST\nSAT. 3/22 1PM - 3PM... more\n59 minutes ago",
+    "raw_summary": "A protest event titled 'Defend Democracy Peaceful Protest' is scheduled for Saturday, March 22nd, from 1 PM to 3 PM at the WPB Tesla Dealership located at 5544 Okeechobee Blvd. Participants are advised to park at College Plaza, 6060 Okeechobee Blvd."
+  },
+  {
     "id": "36df87eb-813f-43f8-90c3-9142a4451f27",
     "title": "STOP the Field Day on Texas Kids",
     "date": "Saturday, March 22, 2025",
@@ -4747,9 +4877,7 @@
     "links": [
       "https://actionnetwork.org/events/clermont-tesla-takedown"
     ],
-    "sponsors": [
-      "[]"
-    ],
+    "sponsors": [],
     "image_url": "https://theblop.org/assets/images/adc1e272-13c0-4118-b3c1-577135b0cc24.png",
     "thumbnail_url": "https://theblop.org/assets/images/adc1e272-13c0-4118-b3c1-577135b0cc24-thumb.jpg",
     "canonical_id": "",
@@ -4803,6 +4931,28 @@
     "ical": "https://theblop.org/assets/ical/50003110-7abe-42fc-8437-87fae5cd8d94.ics",
     "raw_text": "https://actionnetwork.org/events/tesla-takedown-iii\n\nTesla Takedown III\n\nStart: Saturday, March 22, 2025 • 2:00 PM\nLocation: Tesla Dealership • 3371 Brunswick Pike #100, Lawrence, NJ 08648 US\nHost Contact Info: Indivisiblecranbury@gmail.com\n\nWe are taking action at Tesla.\n⚡ Sell your Teslas, dump your stock, join the picket lines.\n⚡ Hurting Tesla is stopping Musk.\n⚡ Stopping Musk will help save lives and our democracy.\n\nThe stakes couldn’t be higher. No one is coming to save us—not politicians, not the media.\n\n#TeslaTakedown #BoycottTesla",
     "raw_summary": "A protest event titled \"Tesla Takedown III\" is scheduled for March 22, 2025, at 2:00 PM at a Tesla Dealership in Lawrence, NJ. The event urges participants to sell their Teslas and join picket lines as a form of protest against Tesla and Elon Musk. The event is organized by Indivisible Cranbury with the aim of advocating for democratic safety and action."
+  },
+  {
+    "id": "2f460a65-cfd1-44d6-86d2-8fbda0eadaa2",
+    "title": "Tesla Takedown III",
+    "date": "Saturday, March 22, 2025",
+    "time": "2:00 PM",
+    "description": "Join us for Tesla Takedown III, a rally aimed at raising awareness and addressing concerns about Tesla.",
+    "city": "Lawrence Township",
+    "state": "NJ",
+    "address": "3371 Brunswick Pike #100",
+    "meeting_location": "Tesla Dealership",
+    "links": [],
+    "sponsors": [
+      "INDIVISIBLE"
+    ],
+    "image_url": "https://theblop.org/assets/images/2f460a65-cfd1-44d6-86d2-8fbda0eadaa2.jpg",
+    "thumbnail_url": "https://theblop.org/assets/images/2f460a65-cfd1-44d6-86d2-8fbda0eadaa2-thumb.jpg",
+    "canonical_id": "",
+    "permalink": "https://theblop.org/events/2f460a65-cfd1-44d6-86d2-8fbda0eadaa2.html",
+    "ical": "https://theblop.org/assets/ical/2f460a65-cfd1-44d6-86d2-8fbda0eadaa2.ics",
+    "raw_text": "INDIVISIBLE\nTesla Takedown\nTesla Takedown III\nRally\nSaturday, March 22\n2 – 3:30pm EDT\nTesla Dealership\n3371 Brunswick Pike #100\nLawrence Township, NJ 08648\nMap",
+    "raw_summary": "The image advertises an event titled \"Tesla Takedown III,\" a rally scheduled for March 22 from 2:00 to 3:30 PM at a Tesla Dealership in Lawrence Township, NJ."
   },
   {
     "id": "94b7554f-540e-41ad-8ba8-8e16b6446ad8",
@@ -5088,77 +5238,6 @@
     "ical": "https://theblop.org/assets/ical/eafd5bf3-bfb9-430c-8caf-90f363e29ebe.ics",
     "raw_text": "ART\nREVOLUTION\nCONVERGENCE\n\nFUND COMMUNITIES, NOT WAR\n\nMARCH 22: SEATTLE\nMARCH 23: VASHON ISLAND\nBIT.LY/ARTANDREVOLUTION\n2025",
     "raw_summary": "The flyer is promoting an event called \"Art Revolution Convergence\" scheduled for March 22 in Seattle and March 23 on Vashon Island. The message focuses on funding communities and not war, encouraging participation in this gathering. A link is provided for more information."
-  },
-  {
-    "id": "9737eb75-2805-490a-915d-121902e79ae8",
-    "title": "Defend Democracy Peaceful Protest",
-    "date": "Saturday, March 22, 2025",
-    "time": "1:00 PM",
-    "description": "Join us for a peaceful protest to defend democracy. We are gathering to voice our concerns and stand together in promoting democratic values. The event will take place at the WPB Tesla Dealership, and parking is available at College Plaza.",
-    "city": "West Palm Beach",
-    "state": "FL",
-    "address": "5544 Okeechobee Blvd.",
-    "meeting_location": "WPB Tesla Dealership",
-    "links": [],
-    "sponsors": [
-      "pbindivisibles"
-    ],
-    "image_url": "https://theblop.org/assets/images/9737eb75-2805-490a-915d-121902e79ae8.jpg",
-    "thumbnail_url": "https://theblop.org/assets/images/9737eb75-2805-490a-915d-121902e79ae8-thumb.jpg",
-    "canonical_id": "",
-    "permalink": "https://theblop.org/events/9737eb75-2805-490a-915d-121902e79ae8.html",
-    "ical": "https://theblop.org/assets/ical/9737eb75-2805-490a-915d-121902e79ae8.ics",
-    "raw_text": "pbindivisibles\n🎵 Kirk Franklin & The Family • Revolution\nDefend Democracy\nPeaceful Protest\nSaturday, March 22nd\n1p-3p\nWPB Tesla Dealership\n5544 Okeechobee Blvd.\nPark at College Plaza\n6060 Okeechobee Blvd (Behind Chic-fil-A)\npbindivisibles WPB TESLA DEALERSHIP PROTEST\nSAT. 3/22 1PM - 3PM... more\n59 minutes ago",
-    "raw_summary": "A protest event titled 'Defend Democracy Peaceful Protest' is scheduled for Saturday, March 22nd, from 1 PM to 3 PM at the WPB Tesla Dealership located at 5544 Okeechobee Blvd. Participants are advised to park at College Plaza, 6060 Okeechobee Blvd."
-  },
-  {
-    "id": "2f460a65-cfd1-44d6-86d2-8fbda0eadaa2",
-    "title": "Tesla Takedown III",
-    "date": "Saturday, March 22, 2025",
-    "time": "2:00 PM",
-    "description": "Join us for Tesla Takedown III, a rally aimed at raising awareness and addressing concerns about Tesla.",
-    "city": "Lawrence Township",
-    "state": "NJ",
-    "address": "3371 Brunswick Pike #100",
-    "meeting_location": "Tesla Dealership",
-    "links": [
-      "[]"
-    ],
-    "sponsors": [
-      "INDIVISIBLE"
-    ],
-    "image_url": "https://theblop.org/assets/images/2f460a65-cfd1-44d6-86d2-8fbda0eadaa2.jpg",
-    "thumbnail_url": "https://theblop.org/assets/images/2f460a65-cfd1-44d6-86d2-8fbda0eadaa2-thumb.jpg",
-    "canonical_id": "",
-    "permalink": "https://theblop.org/events/2f460a65-cfd1-44d6-86d2-8fbda0eadaa2.html",
-    "ical": "https://theblop.org/assets/ical/2f460a65-cfd1-44d6-86d2-8fbda0eadaa2.ics",
-    "raw_text": "INDIVISIBLE\nTesla Takedown\nTesla Takedown III\nRally\nSaturday, March 22\n2 – 3:30pm EDT\nTesla Dealership\n3371 Brunswick Pike #100\nLawrence Township, NJ 08648\nMap",
-    "raw_summary": "The image advertises an event titled \"Tesla Takedown III,\" a rally scheduled for March 22 from 2:00 to 3:30 PM at a Tesla Dealership in Lawrence Township, NJ."
-  },
-  {
-    "id": "80e12cd1-b9d7-499d-a69d-75834943be99",
-    "title": "March for Our Constitution",
-    "date": "Saturday, March 22, 2025",
-    "time": "12:00 PM",
-    "description": "Join us as we march to defend democracy against efforts to undermine our Constitution. This peaceful protest is an opportunity to stand together and make our voices heard.",
-    "city": "Los Angeles",
-    "state": "CA",
-    "address": "Westwood Federal Building",
-    "meeting_location": "Westwood Federal Building",
-    "links": [
-      "MarchForOurConstitution.com"
-    ],
-    "sponsors": [
-      "Democracy Action Network",
-      " Indivisible – Central LA"
-    ],
-    "image_url": "https://theblop.org/assets/images/80e12cd1-b9d7-499d-a69d-75834943be99.jpg",
-    "thumbnail_url": "https://theblop.org/assets/images/80e12cd1-b9d7-499d-a69d-75834943be99-thumb.jpg",
-    "canonical_id": "",
-    "permalink": "https://theblop.org/events/80e12cd1-b9d7-499d-a69d-75834943be99.html",
-    "ical": "https://theblop.org/assets/ical/80e12cd1-b9d7-499d-a69d-75834943be99.ics",
-    "raw_text": "r/LosAngelesProtests\nu/RadicalOrganizer • 1h\n3/22\nMARCH! FOR OUR CONSTITUTION\nSATURDAY MAR 22, 2025\n12 PM, WESTWOOD FEDERAL BUILDING\nMARCH TO DEFEND DEMOCRACY\nTrump and the Republican Party want to undermine our Constitution and dismantle democracy. We won’t let them!\nJoin the March:\nMarchForOurConstitution.com\nTAKE A STAND. JOIN THE MARCH.\nOrganized by Democracy Action Network / Indivisible – Central LA.\nShare this everywhere.",
-    "raw_summary": "A protest march titled 'March for Our Constitution' is being organized to defend democracy against perceived threats by political entities. The event is scheduled for Saturday, March 22, 2025, at noon, taking place at the Westwood Federal Building. Participants are encouraged to join via the website provided. The event is organized by Democracy Action Network and Indivisible – Central LA."
   },
   {
     "id": "704cc635-d2e1-4573-a682-11eaf6720982",
@@ -5608,9 +5687,7 @@
     "state": "CA",
     "address": "Moss Theatre",
     "meeting_location": "Moss Theatre Santa Monica, CA",
-    "links": [
-      "[]"
-    ],
+    "links": [],
     "sponsors": [],
     "image_url": "https://theblop.org/assets/images/c2e5e563-8ee0-432e-95f7-6fbfdfcaf7eb.png",
     "thumbnail_url": "https://theblop.org/assets/images/c2e5e563-8ee0-432e-95f7-6fbfdfcaf7eb-thumb.jpg",
@@ -6552,7 +6629,7 @@
     ],
     "image_url": "https://theblop.org/assets/images/07853c6a-32a2-4ab7-9d26-84248610bb23.png",
     "thumbnail_url": "https://theblop.org/assets/images/07853c6a-32a2-4ab7-9d26-84248610bb23-thumb.jpg",
-    "canonical_id": "",
+    "canonical_id": "d3458f19-1ca3-482e-ad11-df9a5765196a",
     "permalink": "https://theblop.org/events/07853c6a-32a2-4ab7-9d26-84248610bb23.html",
     "ical": "https://theblop.org/assets/ical/07853c6a-32a2-4ab7-9d26-84248610bb23.ics",
     "raw_text": "MARCH 29 AT 11AM  \nKEWEENAW AGAINST THE OLIGARCHY SILENT PROTEST IN HOUGHTON  \nJoin us for a powerful protest against the oligarchy. Our fists will be up in solidarity. We will meet at 10:40 am at Veteran’s Memorial Park.  \n\nRSVP AT  \nbit.ly/kao329  \n\n[Images of logos and people protesting]",
@@ -7170,9 +7247,7 @@
     "state": "HI",
     "address": "2330 Kalākaua Ave",
     "meeting_location": "In front of Tesla dealership",
-    "links": [
-      "[]"
-    ],
+    "links": [],
     "sponsors": [
       "50.1",
       " General Strike 3.5%",
@@ -7186,6 +7261,31 @@
     "ical": "https://theblop.org/assets/ical/e865f6c5-28bc-4778-89ca-eee86ef52c96.ics",
     "raw_text": "PROTEST & BOYCOTT TRUMP & MUSK\n\nSTATE REPS WILL SPEAK\n\n[Logo]\n\nTESLA\n\nMAIN CALL TO ACTION:\n\nPROTEST IN FRONT OF TESLA DEALERSHIP\n\n2330 KALĀKAUA AVE, HONOLULU\n\nMARCH 30, 2025 | 12 PM LOCAL TIME\n\nOTHER CALLS TO ACTION:\n\nSELL ALL YOUR TESLA STOCK\nTRADE IN YOUR TESLA\nDELETE YOUR X ACCOUNT\n\n[Logos: 50.1, General Strike 3.5%, RESIST., Pride at Work Hawai’i]",
     "raw_summary": "The flyer announces a protest and boycott against Trump and Musk, organized to take place in front of a Tesla dealership in Honolulu on March 30, 2025, at 12 PM. State representatives will speak at the event. Additional calls to action include selling Tesla stock, trading in Tesla vehicles, and deleting X accounts. The event is supported by various organizations."
+  },
+  {
+    "id": "21edf5c2-14af-4c8e-8146-99c4e593b0f9",
+    "title": "KŪʻĒ A ME HOʻOPAʻAPAʻA TRUMP & MUSK",
+    "date": "Sunday, March 30, 2025",
+    "time": "12:00 PM",
+    "description": "We are organizing an event in front of the Tesla store to protest against Trump and Musk. Join us for a day of action where you can also engage with Tesla’s inventory.",
+    "city": "Honolulu",
+    "state": "HI",
+    "address": "2330 Ke Alanui O Kalākaua",
+    "meeting_location": "",
+    "links": [],
+    "sponsors": [
+      "General Strike G.S.L.S.",
+      " RESIST",
+      " Pride at Work Hawaiʻi",
+      " O Nā Lunamakaʻāinana Tesla"
+    ],
+    "image_url": "https://theblop.org/assets/images/21edf5c2-14af-4c8e-8146-99c4e593b0f9.jpg",
+    "thumbnail_url": "https://theblop.org/assets/images/21edf5c2-14af-4c8e-8146-99c4e593b0f9-thumb.jpg",
+    "canonical_id": "",
+    "permalink": "https://theblop.org/events/21edf5c2-14af-4c8e-8146-99c4e593b0f9.html",
+    "ical": "https://theblop.org/assets/ical/21edf5c2-14af-4c8e-8146-99c4e593b0f9.ics",
+    "raw_text": "KŪʻĒ A ME HOʻOPAʻAPAʻA TRUMP & MUSK\n\nKAHEA LEO NUI I KA HANA:\nKŪʻĒ I MUA O KA HALE KŪʻAI TESLA\n2330 KE ALANUI O KALĀKAUA, MA HONOLULU\nKA LĀ KANAKOLU O MALAKI, ʻELUA KAU KANI ʻIWAKĀLUAKŪMĀLIMA | KA HOLA ʻUMIKŪMĀLUA MA KA ʻAUINALĀ O KA MANAWA HAWAIʻI\n\nNĀ KAHEA ʻĒ AʻE I KA HANA:\nNĀNĀ I KĀU WAIHONA TESLA A PAU\nKUAPO I KĀU TESLA\nHOLOI I KĀU MOʻOKĀKI X\n\n501(C)(3)\nGENERAL STRIKE G.S.L.S.\nRESIST.\nPride at Work Hawaiʻi\nO NĀ LUNAMAKAʻĀINANA TESLA",
+    "raw_summary": "The flyer advertises an event opposing Trump and Musk, scheduled at a Tesla store in Honolulu on March 30th, 2025, at 12:00 PM. Hosted by various sponsors, the event includes interacting with Tesla inventory."
   },
   {
     "id": "182b6007-a916-4743-93dd-5d95c735f77a",
@@ -7362,33 +7462,6 @@
     "ical": "https://theblop.org/assets/ical/35a2d709-b99f-4581-9d59-9896a21bee5f.ics",
     "raw_text": "",
     "raw_summary": ""
-  },
-  {
-    "id": "21edf5c2-14af-4c8e-8146-99c4e593b0f9",
-    "title": "KŪʻĒ A ME HOʻOPAʻAPAʻA TRUMP & MUSK",
-    "date": "Sunday, March 30, 2025",
-    "time": "12:00 PM",
-    "description": "We are organizing an event in front of the Tesla store to protest against Trump and Musk. Join us for a day of action where you can also engage with Tesla’s inventory.",
-    "city": "Honolulu",
-    "state": "HI",
-    "address": "2330 Ke Alanui O Kalākaua",
-    "meeting_location": "",
-    "links": [
-      "[]"
-    ],
-    "sponsors": [
-      "General Strike G.S.L.S.",
-      " RESIST",
-      " Pride at Work Hawaiʻi",
-      " O Nā Lunamakaʻāinana Tesla"
-    ],
-    "image_url": "https://theblop.org/assets/images/21edf5c2-14af-4c8e-8146-99c4e593b0f9.jpg",
-    "thumbnail_url": "https://theblop.org/assets/images/21edf5c2-14af-4c8e-8146-99c4e593b0f9-thumb.jpg",
-    "canonical_id": "",
-    "permalink": "https://theblop.org/events/21edf5c2-14af-4c8e-8146-99c4e593b0f9.html",
-    "ical": "https://theblop.org/assets/ical/21edf5c2-14af-4c8e-8146-99c4e593b0f9.ics",
-    "raw_text": "KŪʻĒ A ME HOʻOPAʻAPAʻA TRUMP & MUSK\n\nKAHEA LEO NUI I KA HANA:\nKŪʻĒ I MUA O KA HALE KŪʻAI TESLA\n2330 KE ALANUI O KALĀKAUA, MA HONOLULU\nKA LĀ KANAKOLU O MALAKI, ʻELUA KAU KANI ʻIWAKĀLUAKŪMĀLIMA | KA HOLA ʻUMIKŪMĀLUA MA KA ʻAUINALĀ O KA MANAWA HAWAIʻI\n\nNĀ KAHEA ʻĒ AʻE I KA HANA:\nNĀNĀ I KĀU WAIHONA TESLA A PAU\nKUAPO I KĀU TESLA\nHOLOI I KĀU MOʻOKĀKI X\n\n501(C)(3)\nGENERAL STRIKE G.S.L.S.\nRESIST.\nPride at Work Hawaiʻi\nO NĀ LUNAMAKAʻĀINANA TESLA",
-    "raw_summary": "The flyer advertises an event opposing Trump and Musk, scheduled at a Tesla store in Honolulu on March 30th, 2025, at 12:00 PM. Hosted by various sponsors, the event includes interacting with Tesla inventory."
   },
   {
     "id": "f164618b-921e-4c85-a1e0-4f09e40b62f8",
@@ -7798,6 +7871,31 @@
     "raw_summary": "A peaceful protest organized by the 50501 Movement will be held on April 5th, 2025, from 10:00 AM to 12:00 PM at the Palm Beach Courthouse in West Palm Beach, FL. The protest aims to remove corrupt politicians, reverse the damage, and reclaim democracy."
   },
   {
+    "id": "fa8f33b0-f869-4deb-a91c-3b039938ad43",
+    "title": "Peaceful Protest",
+    "date": "Saturday, April 5, 2025",
+    "time": "10:00 AM",
+    "description": "Join us in a peaceful protest organized by the 50501 Movement and Occupy Florida to address political corruption and reclaim our democracy.",
+    "city": "West Palm Beach",
+    "state": "FL",
+    "address": "Palm Beach Courthouse, Corner of 3rd St & Dixie",
+    "meeting_location": "Palm Beach Courthouse",
+    "links": [
+      "www.fiftyfifty.one"
+    ],
+    "sponsors": [
+      "50501 Movement",
+      " Occupy Florida"
+    ],
+    "image_url": "https://theblop.org/assets/images/fa8f33b0-f869-4deb-a91c-3b039938ad43.jpg",
+    "thumbnail_url": "https://theblop.org/assets/images/fa8f33b0-f869-4deb-a91c-3b039938ad43-thumb.jpg",
+    "canonical_id": "01ae0f48-cb80-4c71-9bd6-0758e9c0e14c",
+    "permalink": "https://theblop.org/events/fa8f33b0-f869-4deb-a91c-3b039938ad43.html",
+    "ical": "https://theblop.org/assets/ical/fa8f33b0-f869-4deb-a91c-3b039938ad43.ics",
+    "raw_text": "REMOVE\nCorrupt Politicians\nREVERSE\nThe Damage\nRECLAIM\nOur Democracy\n\n50501\n\n#OCCUPYFLORIDA\n\n50501 Movement\nREMOVE\nCorrupt Politicians\nREVERSE\nThe Damage\nRECLAIM\nOur Democracy\n\nPEACEFUL PROTEST\nAPRIL 5TH, 2025\n10AM-12PM\nPALM BEACH COURTHOUSE\nCORNER OF 3RD ST & DIXIE\nWEST PALM BEACH, FL\n\nwww.fiftyfifty.one\n\n@50501SouthFlorida",
+    "raw_summary": "This flyer advertises a peaceful protest event organized by the 50501 Movement and Occupy Florida. The protest aims to address political corruption and reclaim democracy. It is scheduled to occur on April 5th, 2025, from 10 AM to 12 PM at the Palm Beach Courthouse, West Palm Beach, FL."
+  },
+  {
     "id": "06a7f062-a5f0-49d5-b38f-19224500467c",
     "title": "Hands Off! Monterey Fights Back",
     "date": "Saturday, April 5, 2025",
@@ -7908,6 +8006,28 @@
     "raw_summary": "The image announces \"The People's Rally\" taking place on April 5, 2025, from 11 AM to 1 PM at the corner of Port St. Lucie Blvd & Airoso Blvd in Port St. Lucie, FL. The event involves nationwide protests aimed at removing corrupt politicians, reversing damage, and reclaiming democracy. The website www.fiftyfifty.one is linked."
   },
   {
+    "id": "d41e5ed7-2fbe-4dba-8480-82a998e04de7",
+    "title": "Buffalo United March",
+    "date": "Saturday, April 5, 2025",
+    "time": "11:00 AM",
+    "description": "Join us at the Buffalo United March to support various causes such as labor rights, immigrants, LGBTQIA advocacy, racial and climate justice, and more. We aim to bring awareness to these critical issues and unite our community for positive change.",
+    "city": "Buffalo",
+    "state": "NY",
+    "address": "Niagara Square",
+    "meeting_location": "Niagara Square",
+    "links": [
+      "https://shorturl.at/GvWMS"
+    ],
+    "sponsors": [],
+    "image_url": "https://theblop.org/assets/images/d41e5ed7-2fbe-4dba-8480-82a998e04de7.png",
+    "thumbnail_url": "https://theblop.org/assets/images/d41e5ed7-2fbe-4dba-8480-82a998e04de7-thumb.jpg",
+    "canonical_id": "",
+    "permalink": "https://theblop.org/events/d41e5ed7-2fbe-4dba-8480-82a998e04de7.html",
+    "ical": "https://theblop.org/assets/ical/d41e5ed7-2fbe-4dba-8480-82a998e04de7.ics",
+    "raw_text": "BUFFALO UNITED March\nAPRIL 5 • 11 AM\nNIAGARA SQUARE\nLabor • Immigrants • LGBTQIA • Racial & Climate Justice\nMedicaid • Social Security • Ukraine • Federal Workers\nCancer Research • Education • Gaza\n\nFor More Information:\nhttps://shorturl.at/GvWMS",
+    "raw_summary": "The Buffalo United March is scheduled for April 5 at 11 AM, taking place at Niagara Square. The event focuses on various social issues, including labor, immigrants, LGBTQIA rights, and more. Additional information is available through a provided link."
+  },
+  {
     "id": "43b96a70-02b8-4301-bfed-94596fe32749",
     "title": "Hands Off! New York City Fights Back",
     "date": "Saturday, April 5, 2025",
@@ -7971,7 +8091,7 @@
     ],
     "image_url": "https://theblop.org/assets/images/80d1c00e-f664-4764-bf43-b115592c7115.png",
     "thumbnail_url": "https://theblop.org/assets/images/80d1c00e-f664-4764-bf43-b115592c7115-thumb.jpg",
-    "canonical_id": "",
+    "canonical_id": "277e4877-e2a7-4348-8528-6c995c41dbc3",
     "permalink": "https://theblop.org/events/80d1c00e-f664-4764-bf43-b115592c7115.html",
     "ical": "https://theblop.org/assets/ical/80d1c00e-f664-4764-bf43-b115592c7115.ics",
     "raw_text": "50 PROTESTS ▪ 50 STATES ▪ 1 MOVEMENT  REMOVE REVERSE RECLAIM  REMOVE CORRUPT POLITICIANS FROM OFFICE  REVERSE THE DAMAGE  RECLAIM OUR DEMOCRACY  SATURDAY  APRIL 5, 2025  11:00 - 1:00  PUBLIC SQUARE  WATERTOWN, NY  https://www.FiftyFifty.one #50501Movement",
@@ -8248,6 +8368,54 @@
     "raw_summary": "The image is a flyer for a protest event happening in San Jose, CA, on April 5th. The protest aims to remove certain figures from the government, reverse executive actions, and reclaim government for the people. The event will take place at St. James Park, meeting at the McKinley Statue. Participants will express opposition to certain policies and actions related to privacy and governance."
   },
   {
+    "id": "6a4234bc-3b12-4c2d-bae5-2f6366c8b376",
+    "title": "Hands Off! The South Bay Fights Back",
+    "date": "Saturday, April 5, 2025",
+    "time": "12:00 PM",
+    "description": "We're taking to the streets to oppose actions by Donald Trump and Elon Musk. This event is a visibility protest for protecting our healthcare, data, jobs, and services. Join us in a nonviolent commitment to stop the chaos and build an opposition movement against economic looting.",
+    "city": "Torrance",
+    "state": "CA",
+    "address": "3031 Torrance Blvd",
+    "meeting_location": "Torrance City Hall",
+    "links": [
+      "handsoff2025.com"
+    ],
+    "sponsors": [],
+    "image_url": "https://theblop.org/assets/images/6a4234bc-3b12-4c2d-bae5-2f6366c8b376.jpg",
+    "thumbnail_url": "https://theblop.org/assets/images/6a4234bc-3b12-4c2d-bae5-2f6366c8b376-thumb.jpg",
+    "canonical_id": "",
+    "permalink": "https://theblop.org/events/6a4234bc-3b12-4c2d-bae5-2f6366c8b376.html",
+    "ical": "https://theblop.org/assets/ical/6a4234bc-3b12-4c2d-bae5-2f6366c8b376.ics",
+    "raw_text": "MEDICAID MEDICARE SOCIAL SECURITY\nFAIR ELECTIONS PUBLIC LANDS\nHANDS OFF!\nIMMIGRANTS PUBLIC HOUSING ENERGY\nCOURTS PROTECTIONS FREE SPEECH\nLIBRARIES FREE SPEECH\nSCHOOLS LIBRARIES\n\nHands Off! The South Bay Fights Back\nVisibility Event · Volunteer organized\n\n📅 Saturday, April 5\n🕒 12 – 2pm PDT\n\n📍 Torrance City Hall\n3031 Torrance Blvd\nTorrance, CA 90503\nMap\n\nAbout this event\nDonald Trump and Elon Musk think this country belongs to them. The South Bay is fighting back!\n\nThey're taking everything they can get their hands on—our health care, our data, our jobs, our services—and daring the world to stop them. This is a crisis, and the time to act is now.\n\n📅 On Saturday, April 5th, we're taking to the streets to fight back with a clear message: Hands off!\n\n📍 Where: Torrance City Hall, 📅 When: 12-2 pm April 5, 2025\n\nThis mass mobilization day is our message to the world that we do not consent to the destruction of our government and our economy for the benefit of Trump and his billionaire allies. Alongside Americans across the country, we are marching, rallying, and protesting to demand a stop the chaos and build an opposition movement against the looting of our country.\n\nA core principle behind all Hands Off! events is a commitment to nonviolent action. We expect all participants to seek to de-escalate any potential confrontation with those who disagree with our values.\n\nCheck out handsoff2025.com for more information.\n\nAccessibility\n♿ This event meets ADA standards\n\n🚫 No stairs or steps\nMainly flat ground\n\nHave accessibility questions? Reply to your registration email to confirm your requirements or request more information.\n\nTags\nHandsoff\n\nMap",
+    "raw_summary": "The flyer advertises a protest event titled \"Hands Off! The South Bay Fights Back,\" occurring on April 5, 2025, from 12 PM to 2 PM at Torrance City Hall in Torrance, CA. It's a volunteer-organized visibility event aiming to oppose actions by figures like Donald Trump and Elon Musk, focusing on themes like healthcare, data, jobs, and services. The event emphasizes nonviolence and ADA accessibility."
+  },
+  {
+    "id": "4789da5f-d0f9-4d8f-9d8e-f13a71ad3058",
+    "title": "50501 Miami Protest",
+    "date": "Saturday, April 5, 2025",
+    "time": "12:00 PM",
+    "description": "We are organizing a protest to remove corrupt politicians, reverse the damage, and reclaim our democracy. Join us to make a change.",
+    "city": "Miami",
+    "state": "FL",
+    "address": "301 Biscayne Blvd.",
+    "meeting_location": "Torch of Friendship",
+    "links": [
+      "reddit.com/r/50501"
+    ],
+    "sponsors": [
+      "50501",
+      " 50501SOFLO",
+      " 50501MIAMI"
+    ],
+    "image_url": "https://theblop.org/assets/images/4789da5f-d0f9-4d8f-9d8e-f13a71ad3058.jpg",
+    "thumbnail_url": "https://theblop.org/assets/images/4789da5f-d0f9-4d8f-9d8e-f13a71ad3058-thumb.jpg",
+    "canonical_id": "",
+    "permalink": "https://theblop.org/events/4789da5f-d0f9-4d8f-9d8e-f13a71ad3058.html",
+    "ical": "https://theblop.org/assets/ical/4789da5f-d0f9-4d8f-9d8e-f13a71ad3058.ics",
+    "raw_text": "50501 Miami Protest  \nApril 5th, 2025  \n12-3PM  \nTorch of Friendship  \n(301 Biscayne Blvd., Miami)  \nREMOVE corrupt politicians!  \nREVERSE the damage!  \nRECLAIM our democracy!  \n#50501  \n#50501SOFLO  \n@50501MIAMI  \nREDDIT.COM/R/50501",
+    "raw_summary": "The flyer announces a protest named \"50501 Miami Protest\" happening on April 5th, 2025, from 12 PM to 3 PM at the Torch of Friendship in Miami. It encourages removal of corrupt politicians, reversing damage, and reclaiming democracy. Contact details include social media handles and a Reddit link."
+  },
+  {
     "id": "827a0776-6fe7-4a6f-bffb-f0b38a8c2121",
     "title": "Remove, Reverse, Reclaim, Protest",
     "date": "Saturday, April 5, 2025",
@@ -8266,6 +8434,28 @@
     "ical": "https://theblop.org/assets/ical/827a0776-6fe7-4a6f-bffb-f0b38a8c2121.ics",
     "raw_text": "",
     "raw_summary": ""
+  },
+  {
+    "id": "e3f5c05c-9d54-4c10-b962-aded52361539",
+    "title": "Hands Off",
+    "date": "Saturday, April 5, 2025",
+    "time": "12:00 PM",
+    "description": "We are hosting a nationwide mobilization titled \"Hands Off\" to rally against threats to social security, public lands, and other critical areas. Join us as we work to remove damaging influences and reclaim our democracy.",
+    "city": "Dubuque",
+    "state": "IA",
+    "address": "Washington Park",
+    "meeting_location": "",
+    "links": [],
+    "sponsors": [
+      "Indivisible Dubuque County"
+    ],
+    "image_url": "https://theblop.org/assets/images/e3f5c05c-9d54-4c10-b962-aded52361539.jpg",
+    "thumbnail_url": "https://theblop.org/assets/images/e3f5c05c-9d54-4c10-b962-aded52361539-thumb.jpg",
+    "canonical_id": "",
+    "permalink": "https://theblop.org/events/e3f5c05c-9d54-4c10-b962-aded52361539.html",
+    "ical": "https://theblop.org/assets/ical/e3f5c05c-9d54-4c10-b962-aded52361539.ics",
+    "raw_text": "SOCIAL SECURITY OUR BODIES PUBLIC LANDS MEDICAID DEMOCRACY OUR JOBS MY DATA HANDS OFF (DOGE crossed out) NATION-WIDE MOBILIZATION REMOVE FROM OFFICE REVERSE THE DAMAGE RECLAIM OUR DEMOCRACY RALLY TO RESIST HOSTED BY INDIVISIBLE DUBUQUE COUNTY LIBERTY AND JUSTICE FOR ALL SATURDAY APRIL 5TH NOON WASHINGTON PARK DUBUQUE, IA",
+    "raw_summary": "This flyer promotes a nationwide mobilization event called \"Hands Off,\" focusing on protecting social security, public lands, and democracy. It includes a call to action to reverse damages and resist. The event is hosted by Indivisible Dubuque County and will be held on Saturday, April 5th at Washington Park, Dubuque, IA."
   },
   {
     "id": "f5eb2571-4621-4d7f-94c3-698fe943f7de",
@@ -8338,6 +8528,30 @@
     "raw_summary": "A peaceful rally titled \"One Fight One Future\" is being held at Baltimore City Hall on April 5, 2025, from 12 PM to 3 PM, organized by the Free State Coalition and MD Supporters of the 50501 Movement. The event encourages unity against oppression."
   },
   {
+    "id": "1081cfa9-c1a7-4c7a-afbe-20e1dd403a9c",
+    "title": "HANDS OFF! MAINE FIGHTS BACK!",
+    "date": "Saturday, April 5, 2025",
+    "time": "12:00 PM",
+    "description": "Join us in Augusta at the Maine State House on April 5th, 2025, from 12 PM to 2 PM, in a show of national protest. We are working with groups across Maine to stand up for democracy and against authoritarianism.",
+    "city": "Augusta",
+    "state": "ME",
+    "address": "Maine State House",
+    "meeting_location": "Maine State House",
+    "links": [
+      "handsoff2025.com"
+    ],
+    "sponsors": [
+      "ActivatemainE"
+    ],
+    "image_url": "https://theblop.org/assets/images/1081cfa9-c1a7-4c7a-afbe-20e1dd403a9c.jpg",
+    "thumbnail_url": "https://theblop.org/assets/images/1081cfa9-c1a7-4c7a-afbe-20e1dd403a9c-thumb.jpg",
+    "canonical_id": "",
+    "permalink": "https://theblop.org/events/1081cfa9-c1a7-4c7a-afbe-20e1dd403a9c.html",
+    "ical": "https://theblop.org/assets/ical/1081cfa9-c1a7-4c7a-afbe-20e1dd403a9c.ics",
+    "raw_text": "ActivatemainE\n@activatemainE.bsky.social · 31m\nCome fight back with us at HANDS OFF! MAINE FIGHTS BACK! in Augusta, at the Maine State House from 12 - 2 PM on April 5th, 2025 in a show of national protest! We will be coordinating with groups all across Maine to show up and take a stand for democracy and against authoritarianism!\n\nEvent vetted\n\nHANDS OFF!\nMAINE FIGHTS BACK!\nMEDICAID • MEDICARE • SOCIAL SECURITY • OUR JOBS • OUR WALLETS • OUR BODIES • FAIR ELECTIONS • PERSONAL DATA • PUBLIC LANDS • VETERAN SERVICES • CANCER RESEARCH • NATO • CONSUMER PROTECTIONS • CLEAN AIR • CLEAN ENERGY • SCHOOLS • LIBRARIES • FREE SPEECH • LGBTQ+ RIGHTS • IMMIGRANTS • COURTS • MORE\n\nAUGUSTA STATE HOUSE\n\nSATURDAY, APRIL 5\n\nhandsoff2025.com",
+    "raw_summary": "The event \"HANDS OFF! MAINE FIGHTS BACK!\" is a national protest focused on various social issues. It will occur at the Maine State House in Augusta on April 5, 2025, from 12:00 PM to 2:00 PM."
+  },
+  {
     "id": "9ce61322-80fe-46c6-b156-9fab7e782fed",
     "title": "Hands Off! Maine Fights Back",
     "date": "Saturday, April 5, 2025",
@@ -8353,7 +8567,7 @@
     "sponsors": [],
     "image_url": "https://theblop.org/assets/images/9ce61322-80fe-46c6-b156-9fab7e782fed.jpg",
     "thumbnail_url": "https://theblop.org/assets/images/9ce61322-80fe-46c6-b156-9fab7e782fed-thumb.jpg",
-    "canonical_id": "",
+    "canonical_id": "1081cfa9-c1a7-4c7a-afbe-20e1dd403a9c",
     "permalink": "https://theblop.org/events/9ce61322-80fe-46c6-b156-9fab7e782fed.html",
     "ical": "https://theblop.org/assets/ical/9ce61322-80fe-46c6-b156-9fab7e782fed.ics",
     "raw_text": "HANDS OFF! MASS MOBILIZATION SATURDAY, APRIL 5 handsoff2025.com Hands Off! Maine Fights Back Virtual Rally · Volunteer organized 📅 Saturday, April 5 12 – 2pm EDT 📍Virtual event Join from anywhere Hosted in Augusta, ME 04330 About this event Donald Trump and Elon Musk think this country belongs to them. Maine is fighting back! They're taking everything they can get their hands on—our health care, our data, our jobs, our services—and daring the world to stop them. This is a crisis, and the time to act is now. 🚨 On Saturday, April 5th, we're taking to the streets to fight back with a clear message: Hands off! 🚨 📍 Where: Maine State Capital 📅 When: 12:00 April 5, 2025 This mass mobilization day is our message to the world that we do not consent to the destruction of our government and our economy for the benefit of Trump and his billionaire allies. Alongside Americans across the country, we are marching, rallying, and protesting to demand a stop the chaos and build an opposition movement against the looting of our country. A core principle behind all Hands Off! events is a commitment to nonviolent action. We expect all participants to seek to de-escalate any potential confrontation with those who disagree with our values. Check out handsoff2025.com for more information.",
@@ -8406,6 +8620,28 @@
     "ical": "https://theblop.org/assets/ical/c3d7d98c-3c0b-4742-96d7-05e1bd62f94f.ics",
     "raw_text": "50 PROTESTS • 50 STATES • 1 MOVEMENT\n\nREMOVE REVERSE RECLAIM\nREMOVE CORRUPT POLITICIANS FROM OFFICE\nREVERSE THE DAMAGE\nRECLAIM OUR DEMOCRACY\n\nSATURDAY\nAPRIL 5, 2025\n\n12PM\nUS DISTRICT COURT\n125 CENTRAL AVE W\nGREAT FALLS, MT\n\n50 50 1\n\nBLUE HEARTS BIG SKY\nEST. 2024",
     "raw_summary": "This image announces an upcoming protest event as part of the \"Remove, Reverse, Reclaim\" movement, focusing on removing corrupt politicians, reversing damage, and reclaiming democracy. The event will take place at the US District Court in Great Falls, MT, on April 5, 2025, at 12 PM."
+  },
+  {
+    "id": "149967ba-8106-45d0-8f9b-98a132293729",
+    "title": "Protest",
+    "date": "Saturday, April 5, 2025",
+    "time": "12:00 PM",
+    "description": "We are organizing a protest to support Ukraine, protect human rights, reduce corruption, fund public education, secure privacy, provide safety nets, protect public lands, stabilize markets, allow competition, and reduce inequality. Join us to push our representatives to represent us.",
+    "city": "Helena",
+    "state": "MT",
+    "address": "1301 E 6th Ave",
+    "meeting_location": "Montana State Capitol, Flag Plaza",
+    "links": [
+      "www.fiftyfifty.one"
+    ],
+    "sponsors": [],
+    "image_url": "https://theblop.org/assets/images/149967ba-8106-45d0-8f9b-98a132293729.jpg",
+    "thumbnail_url": "https://theblop.org/assets/images/149967ba-8106-45d0-8f9b-98a132293729-thumb.jpg",
+    "canonical_id": "",
+    "permalink": "https://theblop.org/events/149967ba-8106-45d0-8f9b-98a132293729.html",
+    "ical": "https://theblop.org/assets/ical/149967ba-8106-45d0-8f9b-98a132293729.ics",
+    "raw_text": "r/MarchOnMontana • u/pitter7patter • 11h\n\nHelena April 5\n\nWe the People\n\nPROTEST \n\nAPRIL 5TH\n\n• Support Ukraine \n• Protect human rights \n• Remove corruption \n• Fund public education \n• Secure our privacy \n\n• Provide safety nets \n• Protect public lands \n• Stabilize markets \n• Allow competition \n• Reduce inequality \n\nPushing our representatives to represent US!\n\nSaturday, April 5th, 12–2pm\n\nMontana State Capitol\nFlag Plaza\n1301 E 6th Ave \nHelena, MT 59601\n\nBring flags, signs, friends, and family.\n\nwww.fiftyfifty.one\n\n5 Calls - the easiest way to give your reps a piece of your mind\n\nNeed a ride? Want to help bring people? Sign up to carpool!\n\nYOU ARE the protest - PRINT & POST flyers, SHARE on social media, & BRING people!",
+    "raw_summary": "The flyer promotes a protest event happening on April 5th in Helena, Montana. It lists several objectives, such as supporting Ukraine and protecting human rights, and encourages public participation. It provides a location, time, a call to action, and a website link."
   },
   {
     "id": "0b3309d8-df10-40d8-b8e6-e8ad9cd6ed80",
@@ -8496,7 +8732,7 @@
     ],
     "image_url": "https://theblop.org/assets/images/3810829e-7e36-483e-93ca-a1f373c24fc6.jpg",
     "thumbnail_url": "https://theblop.org/assets/images/3810829e-7e36-483e-93ca-a1f373c24fc6-thumb.jpg",
-    "canonical_id": "",
+    "canonical_id": "8e12f75d-c72d-4293-97a0-ddc2e6e50367",
     "permalink": "https://theblop.org/events/3810829e-7e36-483e-93ca-a1f373c24fc6.html",
     "ical": "https://theblop.org/assets/ical/3810829e-7e36-483e-93ca-a1f373c24fc6.ics",
     "raw_text": "Hands Off!\nMASS MOBILIZATION\nSATURDAY, APRIL 5\n\nHands Off! Albany NY Fights Back\nRally • Volunteer organized\n\n🗓️  Saturday, April 5\n🕛  12 – 2pm EDT\n\n📍 Empire State Plaza\n100 S Mall Arterial\n(on the street level, off State St between Eagle & Swan, just south of the Capital, near The Egg)\nAlbany, NY 12242\nMap\n\nAbout this event\nDonald Trump and Elon Musk think this country belongs to them. Albany and the rest of upstate NY is fighting back!\n\nThey're taking everything they can get their hands on—our health care, our data, our jobs, our services—and daring the world to stop them. This is a crisis, and the time to act is now.\n\n✊ On Saturday, April 5th, we're taking to the streets to fight back with a clear message: Hands off! ✊\n\n📍 Where: Empire State Plaza (near The Egg, off State St between Eagle & Swan Sts, across from the south side of the Capital), Albany NY 12207 📅 When: 12PM April 5, 2025\n\nThis mass mobilization day is our message to the world that we do not consent the destruction of our government and our economy for the benefit of Trump and his billionaire allies. Alongside Americans across the country, we are marching, rallying, and protesting to demand a stop the chaos and build an opposition movement against the looting of our country.\n\nA core principle behind all Hands Off! events is a commitment to nonviolent action. We expect all participants to seek to de-escalate any potential confrontation with those who disagree with our values.\n\nThis is part of a national mobilization including Indivisible, #50501, Public Citizens and other partners standing up for Democracy. Check out handsoff2025.com (page being developed) or email IndivisibleADKSaratoga@gmail.com for more information.\n\nAccessibility\n🅿️  Dedicated parking spots\nMainly flat ground\n🚫 No stairs or steps\n\nHave accessibility questions? Reply to your registration email to confirm your requirements or request more information.\n\nTags\nHandsoff\n\nMap",
@@ -8789,8 +9025,31 @@
     "raw_summary": "A rally titled 'Hands Off! Houston Fights Back' is organized for mass mobilization against actions by Donald Trump and Elon Musk. The event will take place on April 5th, 2025, from 12 to 2 PM at Houston City Hall, TX 77002."
   },
   {
+    "id": "3e4fd57b-ac72-4ead-9a83-32d5021d9f1e",
+    "title": "A Nationwide Day of Action",
+    "date": "Saturday, April 5, 2025",
+    "time": "12:00 PM",
+    "description": "We are organizing a nationwide day of action to remove corruption from our government, reverse Citizens United, and reclaim our democracy. Join us in Texas to make your voice heard.",
+    "city": "Houston",
+    "state": "TX",
+    "address": "901 Bagby St",
+    "meeting_location": "City Hall Plaza",
+    "links": [],
+    "sponsors": [
+      "Resist Trump",
+      " 501(c)(4)"
+    ],
+    "image_url": "https://theblop.org/assets/images/3e4fd57b-ac72-4ead-9a83-32d5021d9f1e.jpg",
+    "thumbnail_url": "https://theblop.org/assets/images/3e4fd57b-ac72-4ead-9a83-32d5021d9f1e-thumb.jpg",
+    "canonical_id": "",
+    "permalink": "https://theblop.org/events/3e4fd57b-ac72-4ead-9a83-32d5021d9f1e.html",
+    "ical": "https://theblop.org/assets/ical/3e4fd57b-ac72-4ead-9a83-32d5021d9f1e.ics",
+    "raw_text": "REMOVE CORRUPTION FROM OUR GOVERNMENT\nREVERSE CITIZENS UNITED\nRECLAIM OUR DEMOCRACY\n\nTEXAS\n\nA NATIONWIDE DAY OF ACTION\nSAT 4/5/25 12PM-4PM\nCITY HALL PLAZA\n901 BAGBY ST\nHOUSTON\n\n#RESIST TRUMP\n\n501(c)(4)",
+    "raw_summary": "This flyer promotes a nationwide day of action against corruption, aiming to reverse Citizens United and reclaim democracy. It takes place in Houston, Texas, on April 5, 2025, at City Hall Plaza."
+  },
+  {
     "id": "e99a3b0d-4d51-48ad-937a-5989c89ef9b4",
-    "title": "Hands Off! Salt Lake City Fights Back",
+    "title": "Utah 50501",
     "date": "Saturday, April 5, 2025",
     "time": "12:00 PM",
     "description": "We are rallying to protest the influence of Donald Trump and Elon Musk, taking action to protect our societal elements like health care, data, and jobs. Join us to demand a stop to the chaos and to build a movement against the looting of our country. We promote nonviolent action and encourage all participants to de-escalate potential confrontations.",
@@ -8798,13 +9057,13 @@
     "state": "UT",
     "address": "This event's address is private.",
     "meeting_location": "Utah Capitol",
-    "links": [
-      "handsoff2025.com"
+    "links": [],
+    "sponsors": [
+      "Utah 50501"
     ],
-    "sponsors": [],
     "image_url": "https://theblop.org/assets/images/e99a3b0d-4d51-48ad-937a-5989c89ef9b4.jpg",
     "thumbnail_url": "https://theblop.org/assets/images/e99a3b0d-4d51-48ad-937a-5989c89ef9b4-thumb.jpg",
-    "canonical_id": "",
+    "canonical_id": "090549ea-5c1e-4e38-ad29-1fbddf966c3d",
     "permalink": "https://theblop.org/events/e99a3b0d-4d51-48ad-937a-5989c89ef9b4.html",
     "ical": "https://theblop.org/assets/ical/e99a3b0d-4d51-48ad-937a-5989c89ef9b4.ics",
     "raw_text": "HANDS OFF!\nMASS MOBILIZATION\nSATURDAY, APRIL 5\n\nHands Off! Salt Lake City Fights Back\nRally · Volunteer organized\n\nSaturday, April 5\n12 – 2pm MDT\nThis event's address is private.\nSign up for more details.\n\nAbout this event\nDonald Trump and Elon Musk think this country belongs to them. [City] is fighting back!\nThey're taking everything they can get their hands on—our health care, our data, our jobs, our services—and daring the world to stop them. This is a crisis, and the time to act is now.\n🔺 On Saturday, April 5th, we're taking to the streets to fight back with a clear message: Hands off! 🔺\n📍 Where: Utah Capitol 🗓️ When: Noon- April 5, 2025\nThis mass mobilization day is our message to the world that we do not consent to the destruction of our government and our economy for the benefit of Trump and his billionaire allies. Alongside Americans across the country, we are marching, rallying, and protesting to demand a stop the chaos and build an opposition movement against the looting of our country.\nA core principle behind all Hands Off! events is a commitment to nonviolent action. We expect all participants to seek to de-escalate any potential confrontation with those who disagree with our values.\nCheck out handsoff2025.com for more information.",
@@ -8824,7 +9083,7 @@
     "sponsors": [],
     "image_url": "https://theblop.org/assets/images/090549ea-5c1e-4e38-ad29-1fbddf966c3d.png",
     "thumbnail_url": "https://theblop.org/assets/images/090549ea-5c1e-4e38-ad29-1fbddf966c3d-thumb.jpg",
-    "canonical_id": "e99a3b0d-4d51-48ad-937a-5989c89ef9b4",
+    "canonical_id": "",
     "permalink": "https://theblop.org/events/090549ea-5c1e-4e38-ad29-1fbddf966c3d.html",
     "ical": "https://theblop.org/assets/ical/090549ea-5c1e-4e38-ad29-1fbddf966c3d.ics",
     "raw_text": "",
@@ -8844,7 +9103,7 @@
     "sponsors": [],
     "image_url": "https://theblop.org/assets/images/8e45b80b-4065-4b9e-a3f5-9946f579e1cd.jpg",
     "thumbnail_url": "https://theblop.org/assets/images/8e45b80b-4065-4b9e-a3f5-9946f579e1cd-thumb.jpg",
-    "canonical_id": "e99a3b0d-4d51-48ad-937a-5989c89ef9b4",
+    "canonical_id": "090549ea-5c1e-4e38-ad29-1fbddf966c3d",
     "permalink": "https://theblop.org/events/8e45b80b-4065-4b9e-a3f5-9946f579e1cd.html",
     "ical": "https://theblop.org/assets/ical/8e45b80b-4065-4b9e-a3f5-9946f579e1cd.ics",
     "raw_text": "",
@@ -8864,7 +9123,7 @@
     "sponsors": [],
     "image_url": "https://theblop.org/assets/images/250d46b7-1d31-4587-a689-a4e01b905a4b.jpg",
     "thumbnail_url": "https://theblop.org/assets/images/250d46b7-1d31-4587-a689-a4e01b905a4b-thumb.jpg",
-    "canonical_id": "e99a3b0d-4d51-48ad-937a-5989c89ef9b4",
+    "canonical_id": "090549ea-5c1e-4e38-ad29-1fbddf966c3d",
     "permalink": "https://theblop.org/events/250d46b7-1d31-4587-a689-a4e01b905a4b.html",
     "ical": "https://theblop.org/assets/ical/250d46b7-1d31-4587-a689-a4e01b905a4b.ics",
     "raw_text": "",
@@ -8982,6 +9241,28 @@
     "ical": "https://theblop.org/assets/ical/e1f7b8f3-7d84-4198-9697-e9013ff3387d.ics",
     "raw_text": "HANDS OFF!\n\nMEDICARE, SOCIAL SECURITY, OUR JOBS, OUR WALLETS, OUR BODIES, FAIR ELECTIONS, PERSONAL DATA, PUBLIC LANDS, VETERANS SERVICES, CANCER RESEARCH, NATO, CONSUMER PROTECTIONS, CLEAN ENERGY, SCHOOLS, LIBRARIES, FREE SPEECH, LGBTQ+ RIGHTS, IMMIGRANTS, COURTS, MORE...\n\nMASS MOBILIZATION AGAINST MUST STOP TRUMP AND MUSK'S ILLEGAL BILLIONAIRE POWER GRAB.\n\nSATURDAY\nAPRIL 5\n\nHands Off! March on D.C.\nRally • Volunteer organized\n\nSaturday, April 5\n1 – 3:30pm EDT \nSylvan Theater \nWashington, DC 20004\nMap\n\nAbout this event\n\nDonald Trump and Elon Musk think this country belongs to them.\nThey’re taking everything they can get their hands on—our health care, our data, our jobs, our services—and daring the world to stop them. This is a crisis, and the time to act is now.\n\nOn Saturday, April 5th, we’re taking to the streets in Washington, D.C. to send a clear message: Hands off! \n📍 Where: Sylvan Theater, National Mall, Washington, D.C. \n🗓️ When: 1:00 PM, April 5, 2025\n\nThis mass mobilization day is our message to the world that we do not consent to the destruction of our government and our economy for the benefit of Trump and his billionaire allies. Alongside Americans across the country, we are marching, rallying, and protesting to demand a stop the chaos and build an opposition movement against the looting of our country.\n\nA core principle behind all Hands Off! events is a commitment to nonviolent action. We expect all participants to seek to de-escalate any potential confrontation with those who disagree with our values.\nCheck out handsoff2025.com for more information.\n\nAccessibility\nThis event meets ADA standards\nHave accessibility questions? Reply to your registration email to confirm your requirements or request more information.\n\nTags\nHandsoff\n\nMap",
     "raw_summary": "The flyer announces a rally called \"Hands Off! March on D.C.\" on April 5, 2025, at Sylvan Theater in Washington, D.C. The event aims to protest against what is described as the unlawful power consolidation by Donald Trump and Elon Musk. The rally encourages nonviolent participation and demands action to stop perceived threats to various societal issues and rights. The event is organized by volunteers, occurring from 1 PM to 3:30 PM EDT, and aims to build a movement against alleged exploitation by billionaires."
+  },
+  {
+    "id": "f1f527b6-8bd6-434e-baff-b2305389787a",
+    "title": "REMOVE REVERSE RECLAIM",
+    "date": "Saturday, April 5, 2025",
+    "time": "1:00 PM",
+    "description": "Join us on April 5th for a peaceful rally and town hall at Piedmont Park. We aim to unite the community, foster dialogue, and advocate for democracy and accountability.",
+    "city": "Atlanta",
+    "state": "GA",
+    "address": "Piedmont Park (10th Avenue & Argonne)",
+    "meeting_location": "Piedmont Park",
+    "links": [],
+    "sponsors": [
+      "50501 GA"
+    ],
+    "image_url": "https://theblop.org/assets/images/f1f527b6-8bd6-434e-baff-b2305389787a.jpg",
+    "thumbnail_url": "https://theblop.org/assets/images/f1f527b6-8bd6-434e-baff-b2305389787a-thumb.jpg",
+    "canonical_id": "cead2e54-1e0a-4ef6-929d-f80aa0b5a595",
+    "permalink": "https://theblop.org/events/f1f527b6-8bd6-434e-baff-b2305389787a.html",
+    "ical": "https://theblop.org/assets/ical/f1f527b6-8bd6-434e-baff-b2305389787a.ics",
+    "raw_text": "GEORGIA 50501  \nREMOVE REVERSE RECLAIM  \n\nSat, April 5th  \nPiedmont Park  \n(10th Avenue & Argonne)  \n\n1-3 PM  \nPEACEFUL RALLY  \nBring your signs & flags—let's unite and demand accountability!  \n\n3 PM - CLOSE  \nAFTER PARTY & TOWN HALL  \nCelebrate our movement with community connections and open dialogue. The Town Hall is your chance to share ideas, discuss strategies, and help shape the future of 50501 GA.  \n\nWHY WE RALLY:  \n50501 GA is a nonpolitical, grassroots movement committed to upholding the Constitution, preserving democracy, and promoting executive restraint. We gather to amplify our voices, engage our communities, and stand against government overreach.  \n\nStay Connected:  \nIG: @50501_ga  \nFB Group: 50501 Georgia  \nBlueSky: @50501ga.bsky.social  \nTikTok: @50501ga  \n\n#50501GA #fiftyfiftyone  \n#democracymatters #buildtheresistance #50501",
+    "raw_summary": "An event organized by 50501 GA at Piedmont Park on April 5th, including a Peaceful Rally and an After Party & Town Hall to discuss community issues. Participants are encouraged to unite and engage in dialogue for democratic values."
   },
   {
     "id": "cead2e54-1e0a-4ef6-929d-f80aa0b5a595",
@@ -9351,145 +9632,24 @@
     "raw_summary": "This flyer promotes a peaceful, non-partisan rally set to take place on Saturday, April 5, 2025, in various cities and towns across South Carolina. It calls for action against corrupt politicians, aims to reverse damage, and reclaim democracy. More details will be provided soon. It is associated with entities \"50501\" and \"501C4 Liberty.\""
   },
   {
-    "id": "6a4234bc-3b12-4c2d-bae5-2f6366c8b376",
-    "title": "Hands Off! The South Bay Fights Back",
-    "date": "Saturday, April 5, 2025",
+    "id": "b4406c86-5319-4f32-a77d-d90eebbeaeb1",
+    "title": "A Day of Fasting and Prayer for Our Democracy",
+    "date": "Sunday, April 6, 2025",
     "time": "12:00 PM",
-    "description": "We're taking to the streets to oppose actions by Donald Trump and Elon Musk. This event is a visibility protest for protecting our healthcare, data, jobs, and services. Join us in a nonviolent commitment to stop the chaos and build an opposition movement against economic looting.",
-    "city": "Torrance",
-    "state": "CA",
-    "address": "3031 Torrance Blvd",
-    "meeting_location": "Torrance City Hall",
-    "links": [
-      "handsoff2025.com"
-    ],
-    "sponsors": [
-      "[]"
-    ],
-    "image_url": "https://theblop.org/assets/images/6a4234bc-3b12-4c2d-bae5-2f6366c8b376.jpg",
-    "thumbnail_url": "https://theblop.org/assets/images/6a4234bc-3b12-4c2d-bae5-2f6366c8b376-thumb.jpg",
-    "canonical_id": "",
-    "permalink": "https://theblop.org/events/6a4234bc-3b12-4c2d-bae5-2f6366c8b376.html",
-    "ical": "https://theblop.org/assets/ical/6a4234bc-3b12-4c2d-bae5-2f6366c8b376.ics",
-    "raw_text": "MEDICAID MEDICARE SOCIAL SECURITY\nFAIR ELECTIONS PUBLIC LANDS\nHANDS OFF!\nIMMIGRANTS PUBLIC HOUSING ENERGY\nCOURTS PROTECTIONS FREE SPEECH\nLIBRARIES FREE SPEECH\nSCHOOLS LIBRARIES\n\nHands Off! The South Bay Fights Back\nVisibility Event · Volunteer organized\n\n📅 Saturday, April 5\n🕒 12 – 2pm PDT\n\n📍 Torrance City Hall\n3031 Torrance Blvd\nTorrance, CA 90503\nMap\n\nAbout this event\nDonald Trump and Elon Musk think this country belongs to them. The South Bay is fighting back!\n\nThey're taking everything they can get their hands on—our health care, our data, our jobs, our services—and daring the world to stop them. This is a crisis, and the time to act is now.\n\n📅 On Saturday, April 5th, we're taking to the streets to fight back with a clear message: Hands off!\n\n📍 Where: Torrance City Hall, 📅 When: 12-2 pm April 5, 2025\n\nThis mass mobilization day is our message to the world that we do not consent to the destruction of our government and our economy for the benefit of Trump and his billionaire allies. Alongside Americans across the country, we are marching, rallying, and protesting to demand a stop the chaos and build an opposition movement against the looting of our country.\n\nA core principle behind all Hands Off! events is a commitment to nonviolent action. We expect all participants to seek to de-escalate any potential confrontation with those who disagree with our values.\n\nCheck out handsoff2025.com for more information.\n\nAccessibility\n♿ This event meets ADA standards\n\n🚫 No stairs or steps\nMainly flat ground\n\nHave accessibility questions? Reply to your registration email to confirm your requirements or request more information.\n\nTags\nHandsoff\n\nMap",
-    "raw_summary": "The flyer advertises a protest event titled \"Hands Off! The South Bay Fights Back,\" occurring on April 5, 2025, from 12 PM to 2 PM at Torrance City Hall in Torrance, CA. It's a volunteer-organized visibility event aiming to oppose actions by figures like Donald Trump and Elon Musk, focusing on themes like healthcare, data, jobs, and services. The event emphasizes nonviolence and ADA accessibility."
-  },
-  {
-    "id": "149967ba-8106-45d0-8f9b-98a132293729",
-    "title": "Protest",
-    "date": "Saturday, April 5, 2025",
-    "time": "12:00 PM",
-    "description": "We are organizing a protest to support Ukraine, protect human rights, reduce corruption, fund public education, secure privacy, provide safety nets, protect public lands, stabilize markets, allow competition, and reduce inequality. Join us to push our representatives to represent us.",
-    "city": "Helena",
-    "state": "MT",
-    "address": "1301 E 6th Ave",
-    "meeting_location": "Montana State Capitol, Flag Plaza",
-    "links": [
-      "www.fiftyfifty.one"
-    ],
-    "sponsors": [
-      "[]"
-    ],
-    "image_url": "https://theblop.org/assets/images/149967ba-8106-45d0-8f9b-98a132293729.jpg",
-    "thumbnail_url": "https://theblop.org/assets/images/149967ba-8106-45d0-8f9b-98a132293729-thumb.jpg",
-    "canonical_id": "",
-    "permalink": "https://theblop.org/events/149967ba-8106-45d0-8f9b-98a132293729.html",
-    "ical": "https://theblop.org/assets/ical/149967ba-8106-45d0-8f9b-98a132293729.ics",
-    "raw_text": "r/MarchOnMontana • u/pitter7patter • 11h\n\nHelena April 5\n\nWe the People\n\nPROTEST \n\nAPRIL 5TH\n\n• Support Ukraine \n• Protect human rights \n• Remove corruption \n• Fund public education \n• Secure our privacy \n\n• Provide safety nets \n• Protect public lands \n• Stabilize markets \n• Allow competition \n• Reduce inequality \n\nPushing our representatives to represent US!\n\nSaturday, April 5th, 12–2pm\n\nMontana State Capitol\nFlag Plaza\n1301 E 6th Ave \nHelena, MT 59601\n\nBring flags, signs, friends, and family.\n\nwww.fiftyfifty.one\n\n5 Calls - the easiest way to give your reps a piece of your mind\n\nNeed a ride? Want to help bring people? Sign up to carpool!\n\nYOU ARE the protest - PRINT & POST flyers, SHARE on social media, & BRING people!",
-    "raw_summary": "The flyer promotes a protest event happening on April 5th in Helena, Montana. It lists several objectives, such as supporting Ukraine and protecting human rights, and encourages public participation. It provides a location, time, a call to action, and a website link."
-  },
-  {
-    "id": "3e4fd57b-ac72-4ead-9a83-32d5021d9f1e",
-    "title": "A Nationwide Day of Action",
-    "date": "Saturday, April 5, 2025",
-    "time": "12:00 PM",
-    "description": "We are organizing a nationwide day of action to remove corruption from our government, reverse Citizens United, and reclaim our democracy. Join us in Texas to make your voice heard.",
-    "city": "Houston",
-    "state": "TX",
-    "address": "901 Bagby St",
-    "meeting_location": "City Hall Plaza",
-    "links": [
-      "[]"
-    ],
-    "sponsors": [
-      "Resist Trump",
-      " 501(c)(4)"
-    ],
-    "image_url": "https://theblop.org/assets/images/3e4fd57b-ac72-4ead-9a83-32d5021d9f1e.jpg",
-    "thumbnail_url": "https://theblop.org/assets/images/3e4fd57b-ac72-4ead-9a83-32d5021d9f1e-thumb.jpg",
-    "canonical_id": "",
-    "permalink": "https://theblop.org/events/3e4fd57b-ac72-4ead-9a83-32d5021d9f1e.html",
-    "ical": "https://theblop.org/assets/ical/3e4fd57b-ac72-4ead-9a83-32d5021d9f1e.ics",
-    "raw_text": "REMOVE CORRUPTION FROM OUR GOVERNMENT\nREVERSE CITIZENS UNITED\nRECLAIM OUR DEMOCRACY\n\nTEXAS\n\nA NATIONWIDE DAY OF ACTION\nSAT 4/5/25 12PM-4PM\nCITY HALL PLAZA\n901 BAGBY ST\nHOUSTON\n\n#RESIST TRUMP\n\n501(c)(4)",
-    "raw_summary": "This flyer promotes a nationwide day of action against corruption, aiming to reverse Citizens United and reclaim democracy. It takes place in Houston, Texas, on April 5, 2025, at City Hall Plaza."
-  },
-  {
-    "id": "e3f5c05c-9d54-4c10-b962-aded52361539",
-    "title": "Hands Off",
-    "date": "Saturday, April 5, 2025",
-    "time": "12:00 PM",
-    "description": "We are hosting a nationwide mobilization titled \"Hands Off\" to rally against threats to social security, public lands, and other critical areas. Join us as we work to remove damaging influences and reclaim our democracy.",
-    "city": "Dubuque",
-    "state": "IA",
-    "address": "Washington Park",
-    "meeting_location": "",
+    "description": "Join us as we gather in public places to observe a day of fasting and prayer on April 6, 2025, in a powerful non-violent protest against autocracy. We encourage everyone to read the Bill of Rights and spend time with loved ones.",
+    "city": "Nationwide",
+    "state": "Nationwide",
+    "address": "",
+    "meeting_location": "Town halls, city halls, state houses",
     "links": [],
-    "sponsors": [
-      "Indivisible Dubuque County"
-    ],
-    "image_url": "https://theblop.org/assets/images/e3f5c05c-9d54-4c10-b962-aded52361539.jpg",
-    "thumbnail_url": "https://theblop.org/assets/images/e3f5c05c-9d54-4c10-b962-aded52361539-thumb.jpg",
+    "sponsors": [],
+    "image_url": "https://theblop.org/assets/images/b4406c86-5319-4f32-a77d-d90eebbeaeb1.png",
+    "thumbnail_url": "https://theblop.org/assets/images/b4406c86-5319-4f32-a77d-d90eebbeaeb1-thumb.jpg",
     "canonical_id": "",
-    "permalink": "https://theblop.org/events/e3f5c05c-9d54-4c10-b962-aded52361539.html",
-    "ical": "https://theblop.org/assets/ical/e3f5c05c-9d54-4c10-b962-aded52361539.ics",
-    "raw_text": "SOCIAL SECURITY OUR BODIES PUBLIC LANDS MEDICAID DEMOCRACY OUR JOBS MY DATA HANDS OFF (DOGE crossed out) NATION-WIDE MOBILIZATION REMOVE FROM OFFICE REVERSE THE DAMAGE RECLAIM OUR DEMOCRACY RALLY TO RESIST HOSTED BY INDIVISIBLE DUBUQUE COUNTY LIBERTY AND JUSTICE FOR ALL SATURDAY APRIL 5TH NOON WASHINGTON PARK DUBUQUE, IA",
-    "raw_summary": "This flyer promotes a nationwide mobilization event called \"Hands Off,\" focusing on protecting social security, public lands, and democracy. It includes a call to action to reverse damages and resist. The event is hosted by Indivisible Dubuque County and will be held on Saturday, April 5th at Washington Park, Dubuque, IA."
-  },
-  {
-    "id": "1081cfa9-c1a7-4c7a-afbe-20e1dd403a9c",
-    "title": "HANDS OFF! MAINE FIGHTS BACK!",
-    "date": "Saturday, April 5, 2025",
-    "time": "12:00 PM",
-    "description": "Join us in Augusta at the Maine State House on April 5th, 2025, from 12 PM to 2 PM, in a show of national protest. We are working with groups across Maine to stand up for democracy and against authoritarianism.",
-    "city": "Augusta",
-    "state": "ME",
-    "address": "Maine State House",
-    "meeting_location": "Maine State House",
-    "links": [
-      "handsoff2025.com"
-    ],
-    "sponsors": [
-      "ActivatemainE"
-    ],
-    "image_url": "https://theblop.org/assets/images/1081cfa9-c1a7-4c7a-afbe-20e1dd403a9c.jpg",
-    "thumbnail_url": "https://theblop.org/assets/images/1081cfa9-c1a7-4c7a-afbe-20e1dd403a9c-thumb.jpg",
-    "canonical_id": "",
-    "permalink": "https://theblop.org/events/1081cfa9-c1a7-4c7a-afbe-20e1dd403a9c.html",
-    "ical": "https://theblop.org/assets/ical/1081cfa9-c1a7-4c7a-afbe-20e1dd403a9c.ics",
-    "raw_text": "ActivatemainE\n@activatemainE.bsky.social · 31m\nCome fight back with us at HANDS OFF! MAINE FIGHTS BACK! in Augusta, at the Maine State House from 12 - 2 PM on April 5th, 2025 in a show of national protest! We will be coordinating with groups all across Maine to show up and take a stand for democracy and against authoritarianism!\n\nEvent vetted\n\nHANDS OFF!\nMAINE FIGHTS BACK!\nMEDICAID • MEDICARE • SOCIAL SECURITY • OUR JOBS • OUR WALLETS • OUR BODIES • FAIR ELECTIONS • PERSONAL DATA • PUBLIC LANDS • VETERAN SERVICES • CANCER RESEARCH • NATO • CONSUMER PROTECTIONS • CLEAN AIR • CLEAN ENERGY • SCHOOLS • LIBRARIES • FREE SPEECH • LGBTQ+ RIGHTS • IMMIGRANTS • COURTS • MORE\n\nAUGUSTA STATE HOUSE\n\nSATURDAY, APRIL 5\n\nhandsoff2025.com",
-    "raw_summary": "The event \"HANDS OFF! MAINE FIGHTS BACK!\" is a national protest focused on various social issues. It will occur at the Maine State House in Augusta on April 5, 2025, from 12:00 PM to 2:00 PM."
-  },
-  {
-    "id": "f1f527b6-8bd6-434e-baff-b2305389787a",
-    "title": "REMOVE REVERSE RECLAIM",
-    "date": "Saturday, April 5, 2025",
-    "time": "1:00 PM",
-    "description": "Join us on April 5th for a peaceful rally and town hall at Piedmont Park. We aim to unite the community, foster dialogue, and advocate for democracy and accountability.",
-    "city": "Atlanta",
-    "state": "GA",
-    "address": "Piedmont Park (10th Avenue & Argonne)",
-    "meeting_location": "Piedmont Park",
-    "links": [],
-    "sponsors": [
-      "50501 GA"
-    ],
-    "image_url": "https://theblop.org/assets/images/f1f527b6-8bd6-434e-baff-b2305389787a.jpg",
-    "thumbnail_url": "https://theblop.org/assets/images/f1f527b6-8bd6-434e-baff-b2305389787a-thumb.jpg",
-    "canonical_id": "",
-    "permalink": "https://theblop.org/events/f1f527b6-8bd6-434e-baff-b2305389787a.html",
-    "ical": "https://theblop.org/assets/ical/f1f527b6-8bd6-434e-baff-b2305389787a.ics",
-    "raw_text": "GEORGIA 50501  \nREMOVE REVERSE RECLAIM  \n\nSat, April 5th  \nPiedmont Park  \n(10th Avenue & Argonne)  \n\n1-3 PM  \nPEACEFUL RALLY  \nBring your signs & flags—let's unite and demand accountability!  \n\n3 PM - CLOSE  \nAFTER PARTY & TOWN HALL  \nCelebrate our movement with community connections and open dialogue. The Town Hall is your chance to share ideas, discuss strategies, and help shape the future of 50501 GA.  \n\nWHY WE RALLY:  \n50501 GA is a nonpolitical, grassroots movement committed to upholding the Constitution, preserving democracy, and promoting executive restraint. We gather to amplify our voices, engage our communities, and stand against government overreach.  \n\nStay Connected:  \nIG: @50501_ga  \nFB Group: 50501 Georgia  \nBlueSky: @50501ga.bsky.social  \nTikTok: @50501ga  \n\n#50501GA #fiftyfiftyone  \n#democracymatters #buildtheresistance #50501",
-    "raw_summary": "An event organized by 50501 GA at Piedmont Park on April 5th, including a Peaceful Rally and an After Party & Town Hall to discuss community issues. Participants are encouraged to unite and engage in dialogue for democratic values."
+    "permalink": "https://theblop.org/events/b4406c86-5319-4f32-a77d-d90eebbeaeb1.html",
+    "ical": "https://theblop.org/assets/ical/b4406c86-5319-4f32-a77d-d90eebbeaeb1.ics",
+    "raw_text": "On April 6, 1919, Mohandas K. Gandhi and other opposition leaders called on the country to observe a day of fasting and prayer to protest the British government's attempts to silence, intimidate and jail its critics. Let us follow Gandhi's example:\n\nOn April 6, 2025\nlet us all observe\n\nA DAY OF FASTING AND PRAYER FOR OUR DEMOCRACY\n\nAT 12:00 PM\n\nLET US ALL\n\nGATHER IN PERSON AT TOWN HALLS, CITY HALLS, STATE HOUSES.\nREAD THE BILL OF RIGHTS\nOBSERVE A MOMENT OF SILENCE\nAND SPEND TIME WITH OUR LOVED ONES\n\nLET US NOT\n\nGO TO WORK\nSHOP OR MAKE PURCHASES\nBUY ANYTHING ONLINE\nBANK OR USE CREDIT CARDS\n\nOn April 6 2025, this important anniversary, let us join together to make this a powerful non-violent protest against Autocracy.\n\nTIME IS SHORT. LET US SPREAD THE WORD.",
+    "raw_summary": "The image describes a call to observe a day of fasting and prayer on April 6, 2025, as a non-violent protest against autocracy, encouraging people to gather in public places and reflect on democracy."
   },
   {
     "id": "ff08e9e8-7803-4aea-ba20-b6176a8adc5d",
@@ -9516,26 +9676,6 @@
     "raw_summary": "A protest organized by the #50501 movement is scheduled in Oxford, Ohio, at Miami University on April 6th. The event will feature speakers and activities previously postponed due to weather. It will be held at Uptown Park from 12-2 PM. Additional details can be found at the provided website link."
   },
   {
-    "id": "b4406c86-5319-4f32-a77d-d90eebbeaeb1",
-    "title": "A Day of Fasting and Prayer for Our Democracy",
-    "date": "Sunday, April 6, 2025",
-    "time": "12:00 PM",
-    "description": "Join us as we gather in public places to observe a day of fasting and prayer on April 6, 2025, in a powerful non-violent protest against autocracy. We encourage everyone to read the Bill of Rights and spend time with loved ones.",
-    "city": "Nationwide",
-    "state": "Nationwide",
-    "address": "",
-    "meeting_location": "Town halls, city halls, state houses",
-    "links": [],
-    "sponsors": [],
-    "image_url": "https://theblop.org/assets/images/b4406c86-5319-4f32-a77d-d90eebbeaeb1.png",
-    "thumbnail_url": "https://theblop.org/assets/images/b4406c86-5319-4f32-a77d-d90eebbeaeb1-thumb.jpg",
-    "canonical_id": "",
-    "permalink": "https://theblop.org/events/b4406c86-5319-4f32-a77d-d90eebbeaeb1.html",
-    "ical": "https://theblop.org/assets/ical/b4406c86-5319-4f32-a77d-d90eebbeaeb1.ics",
-    "raw_text": "On April 6, 1919, Mohandas K. Gandhi and other opposition leaders called on the country to observe a day of fasting and prayer to protest the British government's attempts to silence, intimidate and jail its critics. Let us follow Gandhi's example:\n\nOn April 6, 2025\nlet us all observe\n\nA DAY OF FASTING AND PRAYER FOR OUR DEMOCRACY\n\nAT 12:00 PM\n\nLET US ALL\n\nGATHER IN PERSON AT TOWN HALLS, CITY HALLS, STATE HOUSES.\nREAD THE BILL OF RIGHTS\nOBSERVE A MOMENT OF SILENCE\nAND SPEND TIME WITH OUR LOVED ONES\n\nLET US NOT\n\nGO TO WORK\nSHOP OR MAKE PURCHASES\nBUY ANYTHING ONLINE\nBANK OR USE CREDIT CARDS\n\nOn April 6 2025, this important anniversary, let us join together to make this a powerful non-violent protest against Autocracy.\n\nTIME IS SHORT. LET US SPREAD THE WORD.",
-    "raw_summary": "The image describes a call to observe a day of fasting and prayer on April 6, 2025, as a non-violent protest against autocracy, encouraging people to gather in public places and reflect on democracy."
-  },
-  {
     "id": "df755871-431c-43bc-8708-b0de925b6bea",
     "title": "Trams Day of Visibility",
     "date": "Sunday, April 6, 2025",
@@ -9556,32 +9696,6 @@
     "ical": "https://theblop.org/assets/ical/df755871-431c-43bc-8708-b0de925b6bea.ics",
     "raw_text": "",
     "raw_summary": ""
-  },
-  {
-    "id": "a856363e-c117-4cdc-9a7b-1e5baba2678e",
-    "title": "Annual Tech Innovators Conference 2025",
-    "date": "Tuesday, April 15, 2025",
-    "time": "9:00 AM",
-    "description": "Join us for the Annual Tech Innovators Conference 2025! Industry leaders and tech enthusiasts from around the world will gather for insightful discussions, networking, and innovation showcases.",
-    "city": "San Jose",
-    "state": "CA",
-    "address": "123 Tech Lane, San Jose, CA 95110",
-    "meeting_location": "Silicon Valley Convention Center",
-    "links": [
-      "www.techinnovators2025.com"
-    ],
-    "sponsors": [
-      "TechCorp",
-      " InnovateX",
-      " FutureTech Foundation"
-    ],
-    "image_url": "https://theblop.org/assets/images/a856363e-c117-4cdc-9a7b-1e5baba2678e.gif",
-    "thumbnail_url": "https://theblop.org/assets/images/a856363e-c117-4cdc-9a7b-1e5baba2678e-thumb.jpg",
-    "canonical_id": "",
-    "permalink": "https://theblop.org/events/a856363e-c117-4cdc-9a7b-1e5baba2678e.html",
-    "ical": "https://theblop.org/assets/ical/a856363e-c117-4cdc-9a7b-1e5baba2678e.ics",
-    "raw_text": "Join us for the Annual Tech Innovators Conference 2025!\nIndustry leaders and tech enthusiasts from around the world will gather for insightful discussions, networking, and innovation showcases.\n\nDate: April 15, 2025\nLocation: Silicon Valley Convention Center\n123 Tech Lane, San Jose, CA 95110\n\nTime: 9:00 AM onwards\n\nKeynote Speakers: Jane Doe, John Smith\n\nRegistration required\nVisit our website: www.techinnovators2025.com\n\nSponsored by: TechCorp, InnovateX, FutureTech Foundation",
-    "raw_summary": "This flyer invites people to the Annual Tech Innovators Conference 2025, featuring industry leaders and tech enthusiasts. The event will include discussions, networking, and innovation showcases. It requires registration and will take place at the Silicon Valley Convention Center in San Jose, CA, on April 15, 2025, starting at 9:00 AM. Keynote speakers include Jane Doe and John Smith. The event is sponsored by TechCorp, InnovateX, and the FutureTech Foundation."
   },
   {
     "id": "034bf882-c9aa-4532-a791-c063000d0d79",
@@ -9655,29 +9769,6 @@
     "raw_summary": "The text suggests organizing peaceful protests across every city and town on April 19, with participants celebrating the spirit of the 1775 anti-monarchical uprising and opposing autocratic rule."
   },
   {
-    "id": "ba310372-103e-4273-8aeb-7ad88369a07e",
-    "title": "Arbor Day Plant Trees",
-    "date": "Friday, April 25, 2025",
-    "time": "See Flyer",
-    "description": "We are organizing to plant trees on Arbor Day, April 25th, in response to executive orders affecting our forests. Join us to make a difference and plant LiberTREES locally.",
-    "city": "Nationwide",
-    "state": "Nationwide",
-    "address": "",
-    "meeting_location": "",
-    "links": [
-      "www.4thbranch.us",
-      " www.indivisible.org"
-    ],
-    "sponsors": [],
-    "image_url": "https://theblop.org/assets/images/ba310372-103e-4273-8aeb-7ad88369a07e.png",
-    "thumbnail_url": "https://theblop.org/assets/images/ba310372-103e-4273-8aeb-7ad88369a07e-thumb.jpg",
-    "canonical_id": "",
-    "permalink": "https://theblop.org/events/ba310372-103e-4273-8aeb-7ad88369a07e.html",
-    "ical": "https://theblop.org/assets/ical/ba310372-103e-4273-8aeb-7ad88369a07e.ics",
-    "raw_text": "www.4thbranch.us\n\nARBOR DAY\nPLANT TREES\nAPRIL 25TH ORGANIZE\n\ntRump Divides, Nature Unites\n\nMarch 1 - executive order opened up our Federal Forests to timber harvesting. Organize locally\nPlant some F*ing LiberTREES! All together NOW!\n\nwww.indivisible.org",
-    "raw_summary": "The flyer is about organizing an event on April 25th to plant trees in response to recent executive orders affecting forests. It promotes local organization for environmental action. Websites mentioned are www.4thbranch.us and www.indivisible.org."
-  },
-  {
     "id": "1e977150-e4d9-437f-94ae-6ca502036270",
     "title": "Annual Charity Run",
     "date": "Friday, April 25, 2025",
@@ -9700,6 +9791,29 @@
     "ical": "https://theblop.org/assets/ical/1e977150-e4d9-437f-94ae-6ca502036270.ics",
     "raw_text": "Join us for the Annual Charity Run\nHelp support local families in need\nDate: April 25, 2025\nTime: 8:00 AM - 2:00 PM\nLocation: Downtown Park\n123 Main St, Anytown, TX 12345\nRegister online at www.charityrun2025.org\nSponsored by: Community Wellness Group",
     "raw_summary": "The image announces an Annual Charity Run to support local families in need, scheduled for April 25, 2025, from 8:00 AM to 2:00 PM at Downtown Park in Anytown, Texas. Registration details and sponsor information are included."
+  },
+  {
+    "id": "ba310372-103e-4273-8aeb-7ad88369a07e",
+    "title": "Arbor Day Plant Trees",
+    "date": "Friday, April 25, 2025",
+    "time": "See Flyer",
+    "description": "We are organizing to plant trees on Arbor Day, April 25th, in response to executive orders affecting our forests. Join us to make a difference and plant LiberTREES locally.",
+    "city": "Nationwide",
+    "state": "Nationwide",
+    "address": "",
+    "meeting_location": "",
+    "links": [
+      "www.4thbranch.us",
+      " www.indivisible.org"
+    ],
+    "sponsors": [],
+    "image_url": "https://theblop.org/assets/images/ba310372-103e-4273-8aeb-7ad88369a07e.png",
+    "thumbnail_url": "https://theblop.org/assets/images/ba310372-103e-4273-8aeb-7ad88369a07e-thumb.jpg",
+    "canonical_id": "",
+    "permalink": "https://theblop.org/events/ba310372-103e-4273-8aeb-7ad88369a07e.html",
+    "ical": "https://theblop.org/assets/ical/ba310372-103e-4273-8aeb-7ad88369a07e.ics",
+    "raw_text": "www.4thbranch.us\n\nARBOR DAY\nPLANT TREES\nAPRIL 25TH ORGANIZE\n\ntRump Divides, Nature Unites\n\nMarch 1 - executive order opened up our Federal Forests to timber harvesting. Organize locally\nPlant some F*ing LiberTREES! All together NOW!\n\nwww.indivisible.org",
+    "raw_summary": "The flyer is about organizing an event on April 25th to plant trees in response to recent executive orders affecting forests. It promotes local organization for environmental action. Websites mentioned are www.4thbranch.us and www.indivisible.org."
   },
   {
     "id": "212a7446-0b06-402a-b619-3bbe74f3e375",
@@ -9927,7 +10041,7 @@
     "sponsors": [],
     "image_url": "https://theblop.org/assets/images/c2326ce7-0b67-4bf0-a69e-52bad26d2c4a.jpg",
     "thumbnail_url": "https://theblop.org/assets/images/c2326ce7-0b67-4bf0-a69e-52bad26d2c4a-thumb.jpg",
-    "canonical_id": "",
+    "canonical_id": "174a8831-babd-4632-a607-b1c8d591c86d",
     "permalink": "https://theblop.org/events/c2326ce7-0b67-4bf0-a69e-52bad26d2c4a.html",
     "ical": "https://theblop.org/assets/ical/c2326ce7-0b67-4bf0-a69e-52bad26d2c4a.ics",
     "raw_text": "PATRIOT PROTEST\n4TH OF JULY\nWASHINGTON D.C.\nSPREAD THE NEWS!\nNON-VIOLENT DAY OF ACTION\nBY, FOR, AND OF THE PEOPLE!",
@@ -9963,12 +10077,8 @@
     "state": "DC",
     "address": "",
     "meeting_location": "",
-    "links": [
-      "[]"
-    ],
-    "sponsors": [
-      "[]"
-    ],
+    "links": [],
+    "sponsors": [],
     "image_url": "https://theblop.org/assets/images/e0054c28-1709-4b4b-8c02-ad07d42b3dbe.jpg",
     "thumbnail_url": "https://theblop.org/assets/images/e0054c28-1709-4b4b-8c02-ad07d42b3dbe-thumb.jpg",
     "canonical_id": "",

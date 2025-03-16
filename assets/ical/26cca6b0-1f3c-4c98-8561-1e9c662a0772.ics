@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:b66d89d7-000c-4762-9fc9-855696df4201
+SEQUENCE:0
+DTSTAMP:20250316T201421Z
+DTSTART:20250321T190000
+DTEND:20250321T230000
+SUMMARY:WHERE'S ROUZER? TOWN HALL
+LOCATION:502 N. Front Street\, Wilmington\, NC
+DESCRIPTION:Join us for a town hall to discuss concerns related to David R
+ ouzer's actions\, including cutting healthcare and selling out farmers. Fe
+ aturing The Cash Brothers and Representative Deb Butler.\n\nCFCC
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=502+N.+Front
+ +Street%2C+Wilmington%2C+NC&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR
