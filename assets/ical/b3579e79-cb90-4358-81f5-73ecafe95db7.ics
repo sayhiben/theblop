@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:b55957ec-3e99-44c9-8b57-53228dc35ea4
+SEQUENCE:0
+DTSTAMP:20250316T090229Z
+DTSTART:20250317T110000
+DTEND:20250317T150000
+SUMMARY:Community March
+LOCATION:1750 Welton St\, Denver\, CO
+DESCRIPTION:Join us for a Community March as part of Latino Advocacy Day\,
+  featuring Dolores Huerta\, to stand with immigrants and advocate for chan
+ ge.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=1750+Welton+
+ St%2C+Denver%2C+CO&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

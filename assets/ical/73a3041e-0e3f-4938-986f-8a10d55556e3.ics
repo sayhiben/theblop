@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:7c7355ad-812e-403b-8a88-f8ece45d1669
+SEQUENCE:0
+DTSTAMP:20250316T090229Z
+DTSTART:20250316T123000
+DTEND:20250316T163000
+SUMMARY:Stop Fascism\, Protect Education
+LOCATION:4100 Forbes Ave\, Pittsburgh\, PA
+DESCRIPTION:Join us for a rally hosted by Indivisible Pittsburgh to stand 
+ against fascism and support education. Be part of a community gathering to
+  voice our values and support.\n\nSchenley Plaza
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=4100+Forbes+
+ Ave%2C+Pittsburgh%2C+PA&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

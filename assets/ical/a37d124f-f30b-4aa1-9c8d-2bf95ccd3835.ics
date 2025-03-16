@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:1c7c459e-447c-4d9f-a455-445dee014f00
+SEQUENCE:0
+DTSTAMP:20250316T090229Z
+DTSTART:20250316T110000
+DTEND:20250316T150000
+SUMMARY:PROTEST PROJECT 2025 and the HERITAGE FOUNDATION
+LOCATION:18809 ANDERSON PARKWAY\, Poulsbo\, WA
+DESCRIPTION:Join us for the Protest Project 2025 and the Heritage Foundati
+ on to express our views and stand for our cause. Organized by PoulsboForAl
+ l2025\, this public event aims to gather community support and raise aware
+ ness.\n\nMuriel Iverson Williams Waterfront Park
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=18809+ANDERS
+ ON+PARKWAY%2C+Poulsbo%2C+WA&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR

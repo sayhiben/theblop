@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:8a966ddf-ef05-4253-8760-81296afccfc5
+SEQUENCE:0
+DTSTAMP:20250316T090229Z
+DTSTART:20250317T120000
+DTEND:20250317T160000
+SUMMARY:STOP THE ATTACK ON FEDERAL WORKERS - TAKEDOWN ELON MUSK!
+LOCATION:999 Van Ness Ave\, San Francisco\, CA
+DESCRIPTION:Join us every Monday to protest against Tesla at the SF Tesla 
+ Dealership. Support federal workers and veterans by participating in this 
+ visibility event\, organized by Federal Workers United - SF. We gather at 
+ noon\, and you can opt to march from the Federal Building to the dealershi
+ p.\n\nSF Tesla Dealership\, 999 Van Ness Avenue\, San Francisco\, CA 94109
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=999+Van+Ness
+ +Ave%2C+San+Francisco%2C+CA&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR
