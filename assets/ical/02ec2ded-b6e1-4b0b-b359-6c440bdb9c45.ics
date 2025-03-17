@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:172f1b17-2cfb-4364-9181-0fee755f01df
+SEQUENCE:0
+DTSTAMP:20250317T090229Z
+DTSTART:20250319T120000
+DTEND:20250319T140000
+SUMMARY:Students to the Statehouse
+LOCATION:15th and High\, Columbus\, OH
+DESCRIPTION:The Ohio Student Association is marching from the Ohio State U
+ niversity to the Ohio Statehouse to oppose Senate Bill 1\, known as the Hi
+ gher Education Destruction Act. Join us as we stand up for students' right
+ s with a walkout\, a march\, and a gathering at the Statehouse.\n\nMcKinle
+ y Statue
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=15th+and+Hig
+ h%2C+Columbus%2C+OH&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:c3ae7225-6d2a-4712-be41-86cac49fe7e5
+SEQUENCE:0
+DTSTAMP:20250317T090229Z
+DTSTART:20250405T100000
+DTEND:20250405T120000
+SUMMARY:Peaceful Protest
+LOCATION:Corner of 3rd St & Dixie\, West Palm Beach\, FL
+DESCRIPTION:Join us for a peaceful protest to remove corrupt politicians\,
+  reverse the damage\, and reclaim our democracy. We are gathering at the P
+ alm Beach Courthouse to make our voices heard.\n\nPalm Beach Courthouse
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Corner+of+3r
+ d+St+%26+Dixie%2C+West+Palm+Beach%2C+FL&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

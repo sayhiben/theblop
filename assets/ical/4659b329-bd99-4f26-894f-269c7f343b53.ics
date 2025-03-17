@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:e265bee3-ae64-4242-88bd-1f1c3aafd82a
+SEQUENCE:0
+DTSTAMP:20250317T090229Z
+DTSTART:20250421T190000
+DTEND:20250421T210000
+SUMMARY:Answers to Our Questions
+LOCATION:5342 Tilly Mill Road\, Atlanta\, GA
+DESCRIPTION:Join us for a discussion addressing political questions surrou
+ nding the actions of Chuck Schumer and Donald Trump.\n\nMarcus Jewish Comm
+ unity Center of Atlanta
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=5342+Tilly+M
+ ill+Road%2C+Atlanta%2C+GA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

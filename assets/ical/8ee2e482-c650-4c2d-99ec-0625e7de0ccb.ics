@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:0c2c4ab6-5929-4b1c-9397-e12698cf53fa
+SEQUENCE:0
+DTSTAMP:20250317T090229Z
+DTSTART:20250323T150000
+DTEND:20250323T170000
+SUMMARY:Let’s protest Schumer
+LOCATION:\, Santa Monica\, CA
+DESCRIPTION:We are organizing a protest against Schumer’s book tour in S
+ anta Monica. This event is a response to his public activities amid the so
+ cietal challenges facing the American people.\n\nMoss Theatre
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+Santa+Mo
+ nica%2C+CA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
