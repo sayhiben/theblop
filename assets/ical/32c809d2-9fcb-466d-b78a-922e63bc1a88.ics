@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:9f4d2baa-e7d2-4e92-963a-7a7f9aba6464
+SEQUENCE:0
+DTSTAMP:20250317T210347Z
+DTSTART:20250318T093000
+DTEND:20250318T113000
+SUMMARY:Andy Ogle's Townhall
+LOCATION:108 Donelson Pike\, Nashville\, TN
+DESCRIPTION:Andy Ogles is hosting a mobile town hall meeting that is open 
+ to the public. Indivisible Tennessee invites the Nashville community to jo
+ in them at the event.\n\nFiftyForward Donelson Station
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=108+Donelson
+ +Pike%2C+Nashville%2C+TN&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

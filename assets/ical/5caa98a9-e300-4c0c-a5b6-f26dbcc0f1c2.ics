@@ -2,12 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:c0cd22eb-65c4-40bf-9fb8-385f3c7f2df4
+UID:fdad3175-7bf6-4268-8db7-d3375ed7a609
 SEQUENCE:0
-DTSTAMP:20250317T180256Z
+DTSTAMP:20250317T210347Z
 DTSTART:20250318T183000
 DTEND:20250318T203000
-SUMMARY:NYC Protest to ChuckChuck
+SUMMARY:CANCELLED?: NYC Protest to ChuckChuck
 LOCATION:1 East 65th Street\, 5th Ave\, across CPE\, New York\, NY
 DESCRIPTION:We are organizing a protest against 'ChuckChuck' to address co
  ncerns about his actions\, such as charging for book tour tickets while Am

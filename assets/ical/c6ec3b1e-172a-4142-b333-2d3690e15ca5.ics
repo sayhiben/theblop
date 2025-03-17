@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:3889b244-29d3-470f-aea1-32fe9a30ecef
+SEQUENCE:0
+DTSTAMP:20250317T210347Z
+DTSTART:20250319T170000
+DTEND:20250319T190000
+SUMMARY:Stop Elon Musk Rally
+LOCATION:6916 NE Fourth Plain Blvd\, Vancouver\, WA
+DESCRIPTION:Join us at the 'Stop Elon Musk Rally'\, organized by Knights W
+ ho Say Ni and 50501 Movement Washington State\, to voice our concerns and 
+ take a stand.\n\n6916 NE Fourth Plain Blvd\, Vancouver\, WA
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=6916+NE+Four
+ th+Plain+Blvd%2C+Vancouver%2C+WA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

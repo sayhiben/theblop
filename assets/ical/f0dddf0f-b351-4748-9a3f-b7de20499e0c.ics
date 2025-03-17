@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:1496add2-c48c-4833-bbd4-d10594f4ce96
+SEQUENCE:0
+DTSTAMP:20250317T210347Z
+DTSTART:20250320T180000
+DTEND:20250320T200000
+SUMMARY:Community Impact Hearing
+LOCATION:\, Twin Cities\, MN
+DESCRIPTION:We are hosting a Community Impact Hearing to address concerns 
+ about federal government overreach and the influence of unelected billiona
+ ires and special interests. Join us to hear from attorneys general from ar
+ ound the country\, share your stories\, ask questions\, and discover what 
+ actions can be taken to protect our communities.\n\nSpecific location deta
+ ils provided upon RSVP
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+Twin+Cit
+ ies%2C+MN&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:8353f7f7-1588-4ffb-8d85-62b149e92ac8
+SEQUENCE:0
+DTSTAMP:20250317T210348Z
+DTSTART:20250405T000000
+DTEND:20250405T020000
+SUMMARY:People’s Veto Day
+LOCATION:\, Washington\, DC
+DESCRIPTION:We are mobilizing for People's Veto Day\, inviting participant
+ s to gather in Washington\, DC.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+Washingt
+ on%2C+DC&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

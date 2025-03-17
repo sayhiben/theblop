@@ -2,12 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:43ae649f-05c4-4d71-b181-4fb5c14ea8d4
+UID:e1cc3fa5-c0c0-46fa-b023-f27399cec0b9
 SEQUENCE:0
-DTSTAMP:20250317T180256Z
+DTSTAMP:20250317T210347Z
 DTSTART:20250317T173000
 DTEND:20250317T193000
-SUMMARY:Ask Chuck Schumer to "DO SOMETHING"
+SUMMARY:CANCELLED?: Ask Chuck Schumer to "DO SOMETHING"
 LOCATION:400 Cathedral St\, Baltimore\, MD
 DESCRIPTION:Join us at Enoch Pratt Free Library to rally and ask Chuck Sch
  umer to take action. Organized by Indivisible.\n\nEnoch Pratt Free Library

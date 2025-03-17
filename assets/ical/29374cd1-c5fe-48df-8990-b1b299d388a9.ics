@@ -2,12 +2,13 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:18cd8c8a-2af6-44bd-8884-685fae1ae558
+UID:d9ba5d5b-af6a-44e2-9e53-e5d8cf4d9a9c
 SEQUENCE:0
-DTSTAMP:20250317T180256Z
+DTSTAMP:20250317T210347Z
 DTSTART:20250322T180000
 DTEND:20250322T200000
-SUMMARY:Protest the lack of leadership from Minority Leader Chuck Schumer!
+SUMMARY:CANCELLED?: Protest the lack of leadership from Minority Leader Ch
+ uck Schumer!
 LOCATION:275 Hayes Street\, San Francisco\, CA
 DESCRIPTION:We are organizing a protest to express dissatisfaction with Mi
  nority Leader Chuck Schumer's recent actions\, particularly his perceived 

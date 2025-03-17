@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:c61bdfa8-186a-4c99-93af-64dd381309f6
+SEQUENCE:0
+DTSTAMP:20250317T210348Z
+DTSTART:20250329T110000
+DTEND:20250329T130000
+SUMMARY:Transgender Day of Visibility Power Rally
+LOCATION:Civic Center Plaza\, Oceanside\, CA
+DESCRIPTION:We invite all trans and non-binary community members\, family\
+ , friends\, and allies to a power rally celebrating Transgender Day of Vis
+ ibility. Let's nourish our power and support trans rights together.\n\nCiv
+ ic Center Plaza
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Civic+Center
+ +Plaza%2C+Oceanside%2C+CA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

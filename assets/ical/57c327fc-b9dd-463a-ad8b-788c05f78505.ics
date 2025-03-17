@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:65a96265-e7b9-490e-a5f4-c60ad51af800
+SEQUENCE:0
+DTSTAMP:20250317T210347Z
+DTSTART:20250321T160000
+DTEND:20250321T180000
+SUMMARY:50501: The People’s Movement
+LOCATION:1501 Tower Ave\, Superior\, WI
+DESCRIPTION:We are hosting a protest to unite against oppression and dicta
+ torship. Join us to defend democracy and stand up for human rights. This e
+ vent is part of a nationwide campaign titled "50 States\, 50 Protests\, 1 
+ Movement\," focusing on ensuring elections are not for sale.\n\nCity Cente
+ r Park
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=1501+Tower+A
+ ve%2C+Superior%2C+WI&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

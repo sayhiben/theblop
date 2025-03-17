@@ -2,12 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:e31a6ded-5b3f-44bc-b2e7-562b4583d572
+UID:9141edc2-1c1d-4518-af3b-52e265cc9518
 SEQUENCE:0
-DTSTAMP:20250317T180256Z
+DTSTAMP:20250317T210347Z
 DTSTART:20250318T183000
 DTEND:20250318T203000
-SUMMARY:Protest Schumer's Book Tour
+SUMMARY:CANCELLED?: Protest Schumer's Book Tour
 LOCATION:Temple Emanu-El Streicker Center\, New York\, NY
 DESCRIPTION:Join us for a peaceful protest against Chuck Schumer's book to
  ur on 'Antisemitism in America'. We will gather outside libraries and book

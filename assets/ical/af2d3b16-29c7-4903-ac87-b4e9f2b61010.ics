@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:5e18c1e4-0987-47ad-84a6-b8f697470558
+SEQUENCE:0
+DTSTAMP:20250317T210348Z
+DTSTART:20250323T110000
+DTEND:20250323T130000
+SUMMARY:Rally to Save USPS
+LOCATION:230 S Dearborn\, Chicago\, IL
+DESCRIPTION:Join us to rally against dismantling the postal service. Stand
+  with us to declare that the postal service belongs to the people\, not a 
+ corporation.\n\n230 S Dearborn\, Chicago\, IL 60604
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=230+S+Dearbo
+ rn%2C+Chicago%2C+IL&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

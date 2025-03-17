@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:54a5fc46-d1e2-45c3-96d8-9ac33564f277
+SEQUENCE:0
+DTSTAMP:20250317T210347Z
+DTSTART:20250317T170000
+DTEND:20250317T190000
+SUMMARY:Peaceful Protest Against Unlawful Detainment of Immigrants
+LOCATION:31 Hopkins Pl\, Baltimore\, MD
+DESCRIPTION:Join us for a peaceful protest against the unlawful and inhuma
+ ne detainment of immigrants in Baltimore City. We aim to raise awareness a
+ nd demand change for better treatment and policies.\n\nThe George H. Fallo
+ n Federal Building
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=31+Hopkins+P
+ l%2C+Baltimore%2C+MD&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

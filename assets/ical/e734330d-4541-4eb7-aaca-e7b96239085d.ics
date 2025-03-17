@@ -2,12 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:25fc7b39-4b19-4e91-8e27-1e494eef2731
+UID:8334bdae-427e-433f-8bbb-cca3fa81b7f6
 SEQUENCE:0
-DTSTAMP:20250317T180256Z
+DTSTAMP:20250317T210347Z
 DTSTART:20250317T190000
 DTEND:20250317T210000
-SUMMARY:Protest Schumer's Book Tour
+SUMMARY:CANCELLED?: Protest Schumer's Book Tour
 LOCATION:Central Library\, Baltimore\, MD
 DESCRIPTION:We are organizing a peaceful protest against Chuck Schumer's b
  ook tour\, focusing on the issue of antisemitism in America. Join us outsi

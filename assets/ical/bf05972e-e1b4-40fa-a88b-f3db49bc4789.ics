@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:62233575-6dd9-44c9-88d5-f39d663564db
+SEQUENCE:0
+DTSTAMP:20250317T210347Z
+DTSTART:20250317T120000
+DTEND:20250317T140000
+SUMMARY:Solidarity Rally
+LOCATION:Corner Near 2201 Winchester and Airways\, Memphis\, TN
+DESCRIPTION:Join us at the Solidarity Rally to support federal workers und
+ er attack by Elon Musk's DOGE. We stand in unity with unions such as NTEU\
+ , AFGE\, APWU\, NALC\, and Mailhandlers representing IRS\, TSA\, and posta
+ l workers.\n\nCorner Near 2201 Winchester and Airways
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Corner+Near+
+ 2201+Winchester+and+Airways%2C+Memphis%2C+TN&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

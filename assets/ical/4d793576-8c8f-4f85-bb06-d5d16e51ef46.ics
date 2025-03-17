@@ -2,12 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:58110d76-119a-4005-a871-8cc28ca928f5
+UID:44761788-abd7-43ae-bc77-06a1ef93461f
 SEQUENCE:0
-DTSTAMP:20250317T180256Z
+DTSTAMP:20250317T210347Z
 DTSTART:20250320T123000
 DTEND:20250320T143000
-SUMMARY:Answers to Our Questions: Democracy Discourse
+SUMMARY:CANCELLED?: Answers to Our Questions: Democracy Discourse
 LOCATION:101 South Independence Mall East\, Philadelphia\, PA
 DESCRIPTION:We aim to address pressing questions about recent political ac
  tions involving Chuck Schumer and Donald Trump\, discussing the implicatio

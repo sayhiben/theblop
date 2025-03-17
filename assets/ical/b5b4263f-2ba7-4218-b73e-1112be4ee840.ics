@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:87d17df5-fb98-40e1-8d2a-03d279cc84a1
+SEQUENCE:0
+DTSTAMP:20250317T210347Z
+DTSTART:20250318T180000
+DTEND:20250318T200000
+SUMMARY:Empty Chair Town Hall with Rep. Zach Nunn
+LOCATION:3520 86th St.\, Urbandale\, IA 50323
+DESCRIPTION:This town hall offers constituents a platform to voice their q
+ uestions and concerns\, intended for Rep. Zach Nunn\, who won't be attendi
+ ng. These questions will be conveyed to his office. Participants can regis
+ ter online.\n\nUrbandale Library\, Meeting Room A/B
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=3520+86th+St
+ .%2C+Urbandale%2C+IA+50323&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

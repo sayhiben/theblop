@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:183d92b8-d9fb-400a-8d42-5b23ad45c94b
+SEQUENCE:0
+DTSTAMP:20250317T210348Z
+DTSTART:20250606T000000
+DTEND:20250606T020000
+SUMMARY:D-Day Anniversary Protest
+LOCATION:\, Nationwide\, Nationwide
+DESCRIPTION:We are proud to announce a National Day of Protest for all vet
+ erans organizations and protest organizers to join us in delivering mass m
+ obilizations to end fascism in the United States.\n\nWashington\, DC and e
+ very state capitol\, city hall\, and town hall
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+Nationwi
+ de%2C+Nationwide&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

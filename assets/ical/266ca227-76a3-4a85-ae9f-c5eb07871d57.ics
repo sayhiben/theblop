@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:94a7650c-d5a8-45d1-ad02-2aaeab2c8f81
+SEQUENCE:0
+DTSTAMP:20250317T210348Z
+DTSTART:20250405T110000
+DTEND:20250405T130000
+SUMMARY:Picnic Protest
+LOCATION:State Capitol\, 1310 10th St\, Sacramento\, CA
+DESCRIPTION:Join us in Sacramento for a Picnic Protest as part of a nation
+ wide movement. Together\, we will raise our voices\, build a community\, a
+ nd work to remove corrupt politicians\, reverse damage\, and reclaim our d
+ emocracy. Bring a blanket and snacks\, and prepare secure contact informat
+ ion for networking.\n\nState Capitol
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=State+Capito
+ l%2C+1310+10th+St%2C+Sacramento%2C+CA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

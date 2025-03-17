@@ -2,12 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:333b08fa-74a2-4046-9d7e-c86a12428c7a
+UID:fcfa6861-d8b7-44f9-ba6b-d9fbcb264712
 SEQUENCE:0
-DTSTAMP:20250317T180256Z
+DTSTAMP:20250317T210348Z
 DTSTART:20250421T190000
 DTEND:20250421T210000
-SUMMARY:Answers to Our Questions
+SUMMARY:CANCELLED?: Answers to Our Questions
 LOCATION:5342 Tilly Mill Road\, Atlanta\, GA
 DESCRIPTION:Join us for a discussion addressing political questions surrou
  nding the actions of Chuck Schumer and Donald Trump.\n\nMarcus Jewish Comm

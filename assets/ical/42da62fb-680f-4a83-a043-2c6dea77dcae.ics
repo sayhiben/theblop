@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:c0cde38a-5820-43fb-bd7e-8884ba7c1d77
+SEQUENCE:0
+DTSTAMP:20250317T210347Z
+DTSTART:20250321T170000
+DTEND:20250321T190000
+SUMMARY:Protest Rally at Pike's Landing
+LOCATION:Pike's Landing Waterfront Hotel\, 1850 Hoselton Rd.\, Fairbanks\,
+  AK
+DESCRIPTION:Join us to remind 'Silent Sullivan' of his duties. Stand with 
+ us as we protest his choices to prioritize paid events over community enga
+ gement.\n\nPike's Landing
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Pike%27s+Lan
+ ding+Waterfront+Hotel%2C+1850+Hoselton+Rd.%2C+Fairbanks%2C+AK&zoom=15&base
+ map=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

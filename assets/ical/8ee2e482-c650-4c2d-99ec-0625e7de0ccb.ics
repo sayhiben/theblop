@@ -2,12 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:6d40337c-b9e7-4e59-872f-df3520df0c2e
+UID:6216a692-e589-41cd-863b-b9e62942e34c
 SEQUENCE:0
-DTSTAMP:20250317T180256Z
+DTSTAMP:20250317T210348Z
 DTSTART:20250323T150000
 DTEND:20250323T170000
-SUMMARY:Let’s protest Schumer
+SUMMARY:CANCELLED?: Let’s protest Schumer
 LOCATION:\, Santa Monica\, CA
 DESCRIPTION:We are organizing a protest against Schumer’s book tour in S
  anta Monica. This event is a response to his public activities amid the so

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:73b3ce67-22e2-4baf-995c-18f3a3275bc0
+SEQUENCE:0
+DTSTAMP:20250317T210347Z
+DTSTART:20250320T080000
+DTEND:20250320T100000
+SUMMARY:Yesler & I-5 Overpass Bannering - Join a Squad!
+LOCATION:Yesler & I-5 Overpass\, Seattle\, WA
+DESCRIPTION:We are expanding our overpass bannering efforts with new volun
+ teers and locations to support immigrants. Join us to make an impact!\n\nY
+ esler & I-5 Overpass
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Yesler+%26+I
+ -5+Overpass%2C+Seattle%2C+WA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

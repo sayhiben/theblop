@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:24002339-68d0-4879-923f-b121ee5d4324
+SEQUENCE:0
+DTSTAMP:20250317T210347Z
+DTSTART:20250318T170000
+DTEND:20250318T190000
+SUMMARY:Beavercreek Rally
+LOCATION:Intersection of Factory Rd and US 35 Westbound\, Beavercreek OH 4
+ 5434
+DESCRIPTION:Beavercreek residents are gathering to raise awareness about p
+ rotecting Social Security\, Medicare\, Veteran benefits\, and local jobs. 
+ They urge local leaders to take action and are organizing the event to add
+ ress these issues with community support. Groups Indivisible and Red Wine 
+ and Blue are also involved.\n\nAt the corner of Factory Rd and US 35 Westb
+ ound
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Intersection
+ +of+Factory+Rd+and+US+35+Westbound%2C+Beavercreek+OH+45434&zoom=15&basemap
+ =roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

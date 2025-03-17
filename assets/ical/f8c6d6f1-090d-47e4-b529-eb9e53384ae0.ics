@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:232dec2b-bea6-4e18-9938-84e4bcd26159
+SEQUENCE:0
+DTSTAMP:20250317T210347Z
+DTSTART:20250319T120000
+DTEND:20250319T140000
+SUMMARY:Protect Us... No Cuts To Medicaid
+LOCATION:222 E Yakima Ave\, Yakima\, WA
+DESCRIPTION:We are gathering at Rep Newhouse’s office to protest Medicai
+ d cuts by setting up a giant posterboard and allowing attendees to contrib
+ ute photos or mementos. We will engage in a speak-out session at the locat
+ ion.\n\n2nd ave and Yakima
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=222+E+Yakima
+ +Ave%2C+Yakima%2C+WA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

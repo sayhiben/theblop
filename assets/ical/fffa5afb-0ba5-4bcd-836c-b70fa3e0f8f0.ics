@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:573499a9-fca3-47ec-96ae-a60f2c61ea7b
+SEQUENCE:0
+DTSTAMP:20250317T210347Z
+DTSTART:20250320T113000
+DTEND:20250320T133000
+SUMMARY:No More Education Cuts - Statewide Day of Action
+LOCATION:State Capitol\, Denver\, CO
+DESCRIPTION:Join us in protesting against education funding cuts in Colora
+ do. We are gathering to advocate for better school funding and oppose acti
+ ons that could make Colorado last in education funding. Public education b
+ enefits us all!\n\nState Capitol
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=State+Capito
+ l%2C+Denver%2C+CO&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

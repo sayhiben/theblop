@@ -2,12 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:26e4f018-3e84-446e-9294-ab83eea35397
+UID:e4faffa8-5671-4fb3-9339-b597bf96e11e
 SEQUENCE:0
-DTSTAMP:20250317T180256Z
+DTSTAMP:20250317T210347Z
 DTSTART:20250319T190000
 DTEND:20250319T210000
-SUMMARY:Protest Schumer's Book Tour
+SUMMARY:CANCELLED?: Protest Schumer's Book Tour
 LOCATION:Sixth & I\, Washington\, DC
 DESCRIPTION:Join us for a peaceful protest against Chuck Schumer's Book To
  ur\, focusing on Antisemitism in America. We will gather outside libraries

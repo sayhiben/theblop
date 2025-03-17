@@ -2,12 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:bf128fc4-2afa-4a21-a8b7-487bf7ddd94e
+UID:42c92fe9-5011-45d5-bf5b-f89c80b2092a
 SEQUENCE:0
-DTSTAMP:20250317T180256Z
+DTSTAMP:20250317T210347Z
 DTSTART:20250320T130000
 DTEND:20250320T150000
-SUMMARY:Protest Schumer's Book Tour
+SUMMARY:CANCELLED?: Protest Schumer's Book Tour
 LOCATION:The Weitzman\, Philadelphia\, PA
 DESCRIPTION:Join us for a peaceful protest against Chuck Schumer's book to
  ur on antisemitism in America\, held outside libraries and bookstores.\n\n

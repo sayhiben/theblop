@@ -2,12 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:e50b9f57-c993-452f-9983-c4ef15063c64
+UID:84ef0d52-d79c-4b60-90c6-50a16da3a211
 SEQUENCE:0
-DTSTAMP:20250317T180256Z
+DTSTAMP:20250317T210348Z
 DTSTART:20250323T150000
 DTEND:20250323T170000
-SUMMARY:The #ResignSchumer Protest Tour 2025!
+SUMMARY:CANCELLED?: The #ResignSchumer Protest Tour 2025!
 LOCATION:Moss Theatre\, Santa Monica\, CA
 DESCRIPTION:Join us for a large protest event targeting political figures 
  on March 23\, as part of a nationwide tour. All are welcome to participate

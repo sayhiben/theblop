@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:f9d11926-aa2b-48b7-acc5-e6ab2037e1b0
+SEQUENCE:0
+DTSTAMP:20250317T210347Z
+DTSTART:20250319T153000
+DTEND:20250319T173000
+SUMMARY:Baumgartner "Meet and Greet"
+LOCATION:25 W. 3rd Ave\, Spokane\, WA 99201-3607\, United States
+DESCRIPTION:Join us for Baumtoberfest 2025 and meet Michael Baumgartner\, 
+ candidate for Congress. Enjoy a Vanguard Members Roundtable\, VIP receptio
+ n\, and dinner at The German Hall in Spokane.\n\nThe German Hall
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=25+W.+3rd+Av
+ e%2C+Spokane%2C+WA+99201-3607%2C+United+States&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

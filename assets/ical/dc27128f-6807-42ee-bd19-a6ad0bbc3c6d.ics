@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:7801e740-af85-4ff1-b1f0-b6816855935c
+SEQUENCE:0
+DTSTAMP:20250317T210348Z
+DTSTART:20250405T130000
+DTEND:20250405T150000
+SUMMARY:Hands Off!
+LOCATION:\, Lakeland\, FL
+DESCRIPTION:Join us in standing up to protect our democracy\, rights\, hea
+ lthcare\, and public services. We aim to resist any interference and advoc
+ ate for necessary changes.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+Lakeland
+ %2C+FL&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

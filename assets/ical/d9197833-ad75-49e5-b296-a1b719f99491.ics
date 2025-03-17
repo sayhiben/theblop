@@ -2,12 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:525e095d-b63b-45c2-965d-f6a14a1f77c7
+UID:69d9fadb-5c70-40c3-97d3-78910deb9c4d
 SEQUENCE:0
-DTSTAMP:20250317T180256Z
+DTSTAMP:20250317T210347Z
 DTSTART:20250317T173000
 DTEND:20250317T193000
-SUMMARY:Chuck’s Book Tour: First Stop
+SUMMARY:CANCELLED?: Chuck’s Book Tour: First Stop
 LOCATION:400 Cathedral St\, Baltimore\, MD
 DESCRIPTION:We invite you to join us at Chuck Schumer's book tour event to
   discuss issues regarding democracy and seek answers to pressing political
