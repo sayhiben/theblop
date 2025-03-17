@@ -119,8 +119,8 @@ export function IndexPage({ grouped, allStates }) {
         <div id="noEventsMessage" className="hidden text-gray-500 dark:text-stone-500 mt-4 italic"></div>
 
         {/* External scripts for filtering and clipboard behavior */}
-        <script src="dist/scripts/calendar.js"></script>
         <script src="dist/scripts/clipboard.js"></script>
+        <script src="dist/scripts/menus.js"></script>
         <script src="dist/scripts/filters.js"></script>
         <script src="dist/scripts/modal.js"></script>
       </body>

@@ -50,7 +50,7 @@ module.exports = [
       parseDates: './src/tasks/parseDates.js',
       filters: './src/scripts/filters.js',
       modal: './src/scripts/modal.js',
-      calendar: './src/scripts/calendar.js',
+      menus: './src/scripts/menus.js',
       clipboard: './src/scripts/clipboard.js',
       maps: './src/scripts/maps.js',
     },

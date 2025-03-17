@@ -40,8 +40,8 @@ export function EventPage({ eventData }) {
         </main>
 
         {/* External clipboard script */}
-        <script src="../dist/scripts/calendar.js"></script>
         <script src="../dist/scripts/clipboard.js"></script>
+        <script src="../dist/scripts/menus.js"></script>
       </body>
     </html>
   );
