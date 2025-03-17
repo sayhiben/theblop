@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:1b5ee972-afb5-4110-9cd6-5b4698b7c80e
+SEQUENCE:0
+DTSTAMP:20250317T040052Z
+DTSTART:20250405T120000
+DTEND:20250405T140000
+SUMMARY:Remove\, Reverse\, Reclaim
+LOCATION:Depot Ave/Main St.\, Gainesville\, FL
+DESCRIPTION:We are organizing a protest to stand up and reclaim our rights
+ . Join us to make a strong statement with your signs\, voices\, and spirit
+ s.\n\nThe circle of Depot Ave/Main St.
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Depot+Ave%2F
+ Main+St.%2C+Gainesville%2C+FL&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

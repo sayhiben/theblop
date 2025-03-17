@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:6d693645-bf1a-43d5-9662-f0bc031d71fb
+SEQUENCE:0
+DTSTAMP:20250317T040052Z
+DTSTART:20250317T113000
+DTEND:20250317T133000
+SUMMARY:Where Are You\, Dale? Protest
+LOCATION:2101 Clinton Ave W\, Huntsville\, AL
+DESCRIPTION:Join us for the 'Where Are You\, Dale? Protest' as we urge Rep
+ resentative Dale Strong to schedule a Town Hall during this week’s Congr
+ essional Recess. Let's remind him that he works for you!\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=2101+Clinton
+ +Ave+W%2C+Huntsville%2C+AL&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:84e8d380-3490-400d-a3e3-414a94353522
+SEQUENCE:0
+DTSTAMP:20250317T040052Z
+DTSTART:20250321T153000
+DTEND:20250321T173000
+SUMMARY:Rights Reform Protest
+LOCATION:25 Sweden Street STE A\, Caribou\, ME
+DESCRIPTION:Join us to request a town hall and demand a government that is
+  truly of\, by\, and for the people. Organized by Grassroots Grove.\n\nSus
+ an Collins’ Office
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=25+Sweden+St
+ reet+STE+A%2C+Caribou%2C+ME&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

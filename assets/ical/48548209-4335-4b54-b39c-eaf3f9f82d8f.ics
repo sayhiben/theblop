@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:6387360b-3fc2-4d90-b681-c50d68e68408
+SEQUENCE:0
+DTSTAMP:20250317T040052Z
+DTSTART:20250322T140000
+DTEND:20250322T160000
+SUMMARY:RESIST Trump & Musk's Regime
+LOCATION:Federal Courthouse\, Sioux City\, IA
+DESCRIPTION:Join us in resisting Trump and Musk’s regime. We aim to gath
+ er and make our voices heard against the current administration.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Federal+Cour
+ thouse%2C+Sioux+City%2C+IA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:d3581eb3-d399-454a-8464-804d1315aac9
+SEQUENCE:0
+DTSTAMP:20250317T040052Z
+DTSTART:20250319T133000
+DTEND:20250319T153000
+SUMMARY:Protest SB 1 During the Ohio House Debate
+LOCATION:Ohio Statehouse\, Columbus\, OH
+DESCRIPTION:Join us to protest against Senate Bill 1. We will gather at th
+ e McKinley Statue\, Ohio Statehouse to express our concerns. Please wear r
+ ed to show solidarity.\n\nMcKinley Statue
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Ohio+Stateho
+ use%2C+Columbus%2C+OH&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

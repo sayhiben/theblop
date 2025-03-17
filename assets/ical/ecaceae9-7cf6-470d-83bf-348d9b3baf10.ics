@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:5ef5a984-d0c0-499d-8afb-fe7e319c5bb2
+SEQUENCE:0
+DTSTAMP:20250317T040052Z
+DTSTART:20250317T160000
+DTEND:20250317T180000
+SUMMARY:Tom Tiffany Protest
+LOCATION:Mud Creek Saloon\, Eagle River\, WI
+DESCRIPTION:We are gathering to hold Congressman Tom Tiffany accountable f
+ or supporting certain political actions. Bring your voice\, signs\, and fr
+ iends to this community event where we advocate for change. We are committ
+ ed to non-violence.\n\nSouthwest corner of Hwy 70 and Rangeview Dr.
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Mud+Creek+Sa
+ loon%2C+Eagle+River%2C+WI&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

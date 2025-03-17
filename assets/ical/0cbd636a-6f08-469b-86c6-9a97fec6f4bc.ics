@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:3a37c2c9-d032-48c8-b464-3b7a88615f0a
+SEQUENCE:0
+DTSTAMP:20250317T040052Z
+DTSTART:20250319T160000
+DTEND:20250319T180000
+SUMMARY:Tesla Takeover
+LOCATION:4180 El Camino Real\, Palo Alto\, CA
+DESCRIPTION:Join us for the Tesla Takeover on March 19th. The event will a
+ ddress concerns about Tesla and possibly broader political actions.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=4180+El+Cami
+ no+Real%2C+Palo+Alto%2C+CA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
