@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:63d500c5-cbf7-4726-a18a-f6f3702dbe92
+SEQUENCE:0
+DTSTAMP:20250317T000621Z
+DTSTART:20250322T100000
+DTEND:20250322T140000
+SUMMARY:TESLA TAKEDOWN
+LOCATION:12845 N Highway 183\, Austin\, TX
+DESCRIPTION:We are hosting a lawful\, nonviolent civil resistance event ag
+ ainst Trump and his enablers.\n\nTesla Gallery
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=12845+N+High
+ way+183%2C+Austin%2C+TX&zoom=15&basemap=roadmap
+END:VEVENT
+END:VCALENDAR
