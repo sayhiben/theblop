@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:7dfa2adb-1232-48eb-b02f-7317d225c66e
+UID:48765993-3345-433f-9694-0a4b27ec307d
 SEQUENCE:0
-DTSTAMP:20250311T060220Z
-DTSTART:20250315T110000
-DTEND:20250315T150000
+DTSTAMP:20250314T072603Z
+DTSTART:20250315T180000
+DTEND:20250315T200000
 SUMMARY:Stop Musk: Let's Do It Again!
 LOCATION:UTC Mall - University Pkwy & N. Cattleman Rd.\, Sarasota\, FL
 DESCRIPTION:Join us for another action as part of the #TeslaTakedown campa
@@ -17,5 +17,6 @@ DESCRIPTION:Join us for another action as part of the #TeslaTakedown campa
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=UTC+Mall+-+U
  niversity+Pkwy+%26+N.+Cattleman+Rd.%2C+Sarasota%2C+FL&zoom=15&basemap=road
  map
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

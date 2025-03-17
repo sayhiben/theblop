@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:2bcfafde-f0d4-4f87-9a3d-71b5f6bc48ef
+UID:5bd5dce5-7e8c-42e5-b57d-6f7c870fc7b0
 SEQUENCE:0
-DTSTAMP:20250312T203050Z
-DTSTART:20250329T133000
-DTEND:20250329T173000
+DTSTAMP:20250317T035347Z
+DTSTART:20250329T203000
+DTEND:20250329T223000
 SUMMARY:US OUT OF GAZA
 LOCATION:Routes 196 & 201\, 1 Second St\, Topsham Maine\, Topsham\, ME
 DESCRIPTION:Join us in Topsham for the 'US OUT OF GAZA' event to voice our
@@ -15,5 +15,6 @@ DESCRIPTION:Join us in Topsham for the 'US OUT OF GAZA' event to voice our
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Routes+196+%
  26+201%2C+1+Second+St%2C+Topsham+Maine%2C+Topsham%2C+ME&zoom=15&basemap=ro
  admap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

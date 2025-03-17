@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:b29f0ea9-6c24-43da-9283-1f18dc543438
+UID:9e09fab2-ab70-4e80-82b6-6030b324153a
 SEQUENCE:0
-DTSTAMP:20250311T023757Z
-DTSTART:20250314T120000
-DTEND:20250314T160000
+DTSTAMP:20250314T072603Z
+DTSTART:20250314T190000
+DTEND:20250314T210000
 SUMMARY:Descend on DC
 LOCATION:\, Washington\, DC
 DESCRIPTION:Join us for a series of patriotic events in Washington\, D.C.\
@@ -16,5 +16,6 @@ DESCRIPTION:Join us for a series of patriotic events in Washington\, D.C.\
  0\; Heritage Foundation\, 214 Massachusetts Ave. N.E.
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+Washingt
  on%2C+DC&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

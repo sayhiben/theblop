@@ -2,15 +2,16 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:4b04d60a-6286-49a9-8a08-4f1a7d6a44c5
+UID:8fe36e2e-581e-4b4a-abb4-aaeb0031fbf5
 SEQUENCE:0
-DTSTAMP:20250310T021352Z
-DTSTART:20250315T140000
-DTEND:20250315T180000
+DTSTAMP:20250314T072603Z
+DTSTART:20250315T210000
+DTEND:20250315T230000
 SUMMARY:Remove Donald Trump
 LOCATION:Railroad Park\, Birmingham\, AL
 DESCRIPTION:Reverse his damage. Reclaim our government.\n\nBirmingham\, AL
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Railroad+Par
  k%2C+Birmingham%2C+AL&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

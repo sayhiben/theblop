@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:489e6ca6-f567-4904-9905-20c75875a09e
+UID:45236354-84c4-4582-b6b6-069e57c01fe9
 SEQUENCE:0
-DTSTAMP:20250314T000543Z
-DTSTART:20250317T183000
-DTEND:20250317T223000
+DTSTAMP:20250317T035347Z
+DTSTART:20250318T013000
+DTEND:20250318T033000
 SUMMARY:Clayton County Stands With Immigrants Rally
 LOCATION:5226 Jonesboro Rd\, Lake City\, GA
 DESCRIPTION:Join us in Clayton County for a rally advocating against mass 
@@ -14,5 +14,6 @@ DESCRIPTION:Join us in Clayton County for a rally advocating against mass
  stand together in support of immigrant communities.\n\n
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=5226+Jonesbo
  ro+Rd%2C+Lake+City%2C+GA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

@@ -2,16 +2,17 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:5ddd338b-313e-417f-ae9f-fd60f623e188
+UID:7d44fd89-9d36-4c8b-b8ba-078e5f3b9f0d
 SEQUENCE:0
-DTSTAMP:20250312T090406Z
-DTSTART:20250323T173000
-DTEND:20250323T213000
+DTSTAMP:20250317T035347Z
+DTSTART:20250324T003000
+DTEND:20250324T023000
 SUMMARY:Hampton Roads Stands with Immigrants
 LOCATION:2010 Colley Ave\, Norfolk\, VA
 DESCRIPTION:We will talk about Know Your Rights\, our Rapid Response Netwo
  rk\, and other ways we can all support immigrants.\n\nLuna Maya
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=2010+Colley+
  Ave%2C+Norfolk%2C+VA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

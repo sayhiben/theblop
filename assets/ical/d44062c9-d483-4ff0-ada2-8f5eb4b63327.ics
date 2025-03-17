@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:f371d00b-c706-4268-9523-fb7a39563443
+UID:0569a6f8-9c09-4bbb-92eb-b133a1d7fbbb
 SEQUENCE:0
-DTSTAMP:20250313T201359Z
-DTSTART:20250315T120000
-DTEND:20250315T160000
+DTSTAMP:20250314T072603Z
+DTSTART:20250315T190000
+DTEND:20250315T210000
 SUMMARY:REMOVE. REVERSE. RECLAIM.
 LOCATION:Indiana State House\, Indianapolis\, IN
 DESCRIPTION:We the people demand a government by the people\, for the peop
@@ -14,5 +14,6 @@ DESCRIPTION:We the people demand a government by the people\, for the peop
  igures and policies and advocating for governmental changes.\n\n
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Indiana+Stat
  e+House%2C+Indianapolis%2C+IN&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

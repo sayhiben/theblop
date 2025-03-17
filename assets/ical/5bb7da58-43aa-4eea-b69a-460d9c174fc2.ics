@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:e314ec8d-7342-4fb5-a443-ac8429023490
+UID:9205a07f-4b76-4a82-b42e-13ffcc7bbf41
 SEQUENCE:0
-DTSTAMP:20250313T031819Z
-DTSTART:20250315T140000
-DTEND:20250315T180000
+DTSTAMP:20250314T072603Z
+DTSTART:20250315T210000
+DTEND:20250315T230000
 SUMMARY:TeslaTakedown Arlington
 LOCATION:2710 S. Glebe Rd\, Arlington\, VA
 DESCRIPTION:Join us for a protest against Tesla. Bring homemade signs and 
@@ -14,5 +14,6 @@ DESCRIPTION:Join us for a protest against Tesla. Bring homemade signs and
  la for the sake of our country and democracy.\n\nTesla Arlington
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=2710+S.+Gleb
  e+Rd%2C+Arlington%2C+VA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

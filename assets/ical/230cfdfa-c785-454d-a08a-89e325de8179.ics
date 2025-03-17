@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:305c1b76-63e5-44a3-9fef-69d884957164
+UID:2ad9c365-b26a-49e7-9559-26e6750fccb7
 SEQUENCE:0
-DTSTAMP:20250312T090406Z
-DTSTART:20250315T120000
-DTEND:20250315T160000
+DTSTAMP:20250314T072603Z
+DTSTART:20250315T190000
+DTEND:20250315T210000
 SUMMARY:Defend Democracy
 LOCATION:Public Square\, Wooster\, OH
 DESCRIPTION:Join us at the Wooster Public Square to stand for democracy in
@@ -14,5 +14,6 @@ DESCRIPTION:Join us at the Wooster Public Square to stand for democracy in
  d promote democratic values.\n\nPublic Square\, Wooster\, OH
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Public+Squar
  e%2C+Wooster%2C+OH&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:a0b9cdc9-2048-43a7-87e5-ba2f5b7c3455
+UID:ef247944-51d4-4bb4-892d-b1752a6143f4
 SEQUENCE:0
-DTSTAMP:20250313T031818Z
-DTSTART:20250313T120000
-DTEND:20250313T160000
+DTSTAMP:20250314T065639Z
+DTSTART:20250313T190000
+DTEND:20250313T210000
 SUMMARY:ALL OUT FOR MAHMOUD KHALIL!
 LOCATION:Faunce Arch\, Providence\, RI
 DESCRIPTION:Join us to rally and march at Faunce Arch in support of Mahmou
@@ -15,5 +15,6 @@ DESCRIPTION:Join us to rally and march at Faunce Arch in support of Mahmou
  rown Activist Coalition organize this event.\n\nFaunce Arch
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Faunce+Arch%
  2C+Providence%2C+RI&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

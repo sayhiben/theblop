@@ -2,16 +2,17 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:7e5466ad-ff78-4b0f-a533-84f4f7502e8f
+UID:d0db8061-5ab3-455f-bd4e-5c0c9edf6e22
 SEQUENCE:0
-DTSTAMP:20250312T180257Z
-DTSTART:20250315T100000
-DTEND:20250315T140000
+DTSTAMP:20250314T072603Z
+DTSTART:20250315T170000
+DTEND:20250315T190000
 SUMMARY:Tesla Takedown/The Domain in Austin
 LOCATION:11601 Century Oaks Terrace\, Ste. 123\, Austin\, TX
 DESCRIPTION:We are hosting the "Tesla Takedown" event at The Domain in Aus
  tin. Join us for engaging activities and discussions.\n\nTesla Austin
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=11601+Centur
  y+Oaks+Terrace%2C+Ste.+123%2C+Austin%2C+TX&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

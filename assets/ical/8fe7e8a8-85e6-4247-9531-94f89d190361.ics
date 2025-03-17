@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:aa0465aa-a96a-4edb-8284-079095642e5b
+UID:87b66c4e-bac0-476c-891d-667b4877d845
 SEQUENCE:0
-DTSTAMP:20250311T090339Z
-DTSTART:20250313T080000
-DTEND:20250313T120000
+DTSTAMP:20250314T065639Z
+DTSTART:20250313T150000
+DTEND:20250313T170000
 SUMMARY:Yesler & I-5 Overpass Bannering Team
 LOCATION:Yesler Way\, 98104\, Seattle
 DESCRIPTION:Building on multiple successful banner actions\, Backbone is g
@@ -19,5 +19,6 @@ DESCRIPTION:Building on multiple successful banner actions\, Backbone is g
  ur area.\n\nYesler & I-5 Overpass
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Yesler+Way%2
  C+98104%2C+Seattle&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:5c863805-e1d0-4541-9f86-d38cfb2b2556
+UID:1f428404-b693-48fb-bc21-5651334ac406
 SEQUENCE:0
-DTSTAMP:20250316T031514Z
-DTSTART:20250405T070000
-DTEND:20250405T110000
+DTSTAMP:20250317T035347Z
+DTSTART:20250405T140000
+DTEND:20250405T160000
 SUMMARY:50501 Stop Trump protest and sit-ins everywhere
 LOCATION:\, Nationwide\, Nationwide
 DESCRIPTION:We are organizing protests against Trump nationwide in 50 stat
@@ -15,5 +15,6 @@ DESCRIPTION:We are organizing protests against Trump nationwide in 50 stat
  .\n\nNationwide
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+Nationwi
  de%2C+Nationwide&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

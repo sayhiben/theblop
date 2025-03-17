@@ -2,18 +2,19 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:6aaf7db3-89a9-4b30-b3a9-50c34c1f683c
+UID:77419751-02ac-4b56-802a-abcbad592064
 SEQUENCE:0
-DTSTAMP:20250307T232109Z
-DTSTART:20250321T160000
-DTEND:20250321T200000
+DTSTAMP:20250317T035347Z
+DTSTART:20250321T230000
+DTEND:20250322T010000
 SUMMARY:Lawler's on the Run!
 LOCATION:Congressman Lawler’s Pearl River Office\, 1 Blue Hill Plaza\, N
- ew York\, NY-17
+ ew York\, NY
 DESCRIPTION:Join us for a peaceful protest. We demand no cuts to Medicaid\
  , Medicare or Social Security.\n\nPearl River
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Congressman+
  Lawler%E2%80%99s+Pearl+River+Office%2C+1+Blue+Hill+Plaza%2C+New+York%2C+NY
- -17&zoom=15&basemap=roadmap
+ &zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

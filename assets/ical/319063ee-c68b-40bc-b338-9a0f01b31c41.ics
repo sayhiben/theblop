@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:b46637bf-fd97-4cdf-a412-1475e42922c0
+UID:3300df78-d0d3-442e-9904-2b65a2b88a2f
 SEQUENCE:0
-DTSTAMP:20250315T090245Z
-DTSTART:20250323T110000
-DTEND:20250323T150000
+DTSTAMP:20250317T035347Z
+DTSTART:20250323T180000
+DTEND:20250323T200000
 SUMMARY:Rally to Save USPS
 LOCATION:34 W Minarets\, Fresno\, CA
 DESCRIPTION:We are organizing a rally to stand with letter carriers in opp
@@ -14,5 +14,6 @@ DESCRIPTION:We are organizing a rally to stand with letter carriers in opp
  n
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=34+W+Minaret
  s%2C+Fresno%2C+CA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

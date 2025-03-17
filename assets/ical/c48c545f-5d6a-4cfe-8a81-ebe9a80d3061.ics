@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:380426d1-2041-40ec-a5b5-ee0e99e0749e
+UID:f972bdf7-61f3-4bec-855b-c26c3db7b306
 SEQUENCE:0
-DTSTAMP:20250313T031818Z
-DTSTART:20250315T120000
-DTEND:20250315T160000
+DTSTAMP:20250314T072603Z
+DTSTART:20250315T190000
+DTEND:20250315T210000
 SUMMARY:#TeslaTakedown Portland
 LOCATION:4330 S Macadam Street\, Portland\, OR
 DESCRIPTION:Week five of Portland's original #TeslaTakedown protest! Bring
@@ -16,5 +16,6 @@ DESCRIPTION:Week five of Portland's original #TeslaTakedown protest! Bring
  a Portland Service and Sales Center
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=4330+S+Macad
  am+Street%2C+Portland%2C+OR&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

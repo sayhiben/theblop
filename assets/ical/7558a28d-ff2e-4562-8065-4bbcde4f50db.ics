@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:adb66b42-5980-452b-a9a7-bc64552bc5d6
+UID:ebbd1c11-9268-4e96-bf37-cf23136b3344
 SEQUENCE:0
-DTSTAMP:20250316T031514Z
-DTSTART:20250319T120000
-DTEND:20250319T160000
+DTSTAMP:20250317T035347Z
+DTSTART:20250319T190000
+DTEND:20250319T210000
 SUMMARY:Protest Against Young Kim's Policies on Veterans
 LOCATION:At the corner of La Paz and Marguerite\, Mission Viejo\, CA
 DESCRIPTION:Join us in a peaceful protest led by SouthOC4Democracy to expr
@@ -14,5 +14,6 @@ DESCRIPTION:Join us in a peaceful protest led by SouthOC4Democracy to expr
  enefits.\n\n
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=At+the+corne
  r+of+La+Paz+and+Marguerite%2C+Mission+Viejo%2C+CA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

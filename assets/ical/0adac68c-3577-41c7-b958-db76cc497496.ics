@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:17e19279-1e06-4009-85dd-98d47aa0b4ff
+UID:8c0fdf17-d8d9-4c3c-847f-0d0c9fa39a48
 SEQUENCE:0
-DTSTAMP:20250313T031819Z
-DTSTART:20250316T120000
-DTEND:20250316T160000
+DTSTAMP:20250317T035347Z
+DTSTART:20250316T190000
+DTEND:20250316T210000
 SUMMARY:Chase Tesla Out of Westchase
 LOCATION:9633 Westheimer\, Houston\, TX
 DESCRIPTION:We are taking action against Tesla by encouraging people to se
@@ -17,5 +17,6 @@ DESCRIPTION:We are taking action against Tesla by encouraging people to se
  enter Westchase
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=9633+Westhei
  mer%2C+Houston%2C+TX&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

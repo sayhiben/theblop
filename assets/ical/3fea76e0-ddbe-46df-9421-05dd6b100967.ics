@@ -2,16 +2,17 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:05ef83d9-0146-4dce-b1a5-b61321a5ac6a
+UID:f35a03ac-f50f-419e-96aa-4ac8564d23a2
 SEQUENCE:0
-DTSTAMP:20250313T000603Z
-DTSTART:20250321T170000
-DTEND:20250321T210000
+DTSTAMP:20250317T035347Z
+DTSTART:20250322T000000
+DTEND:20250322T020000
 SUMMARY:Berkeley - Not My President Protest
 LOCATION:College Avenue & Ashby Avenue\, Berkeley\, CA
 DESCRIPTION:We give action item handouts to passersby and wave our signs a
  t the heavy weekend traffic.\n\nCollege Ave & Ashby Ave
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=College+Aven
  ue+%26+Ashby+Avenue%2C+Berkeley%2C+CA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

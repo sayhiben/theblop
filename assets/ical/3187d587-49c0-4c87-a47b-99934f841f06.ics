@@ -2,16 +2,17 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:908d3648-6e1f-4b13-9792-ad0219e5669a
+UID:cff7d573-8934-4509-8a3a-6b83d90c68fa
 SEQUENCE:0
-DTSTAMP:20250311T090339Z
-DTSTART:20250314T160000
-DTEND:20250314T200000
+DTSTAMP:20250314T072603Z
+DTSTART:20250314T230000
+DTEND:20250315T010000
 SUMMARY:Remove\, Reverse\, Reclaim
 LOCATION:\, Jefferson City\, MO
 DESCRIPTION:Join us to peacefully protest against executive overreach\, co
  rruption\, corporate greed\, and more.\n\nThe Capitol\, by the fountains
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+Jefferso
  n+City%2C+MO&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:16c054ea-098f-4efd-b75b-81946569fe15
+UID:79797b47-741f-4e6d-8a7e-6659d3148131
 SEQUENCE:0
-DTSTAMP:20250312T120220Z
-DTSTART:20250314T120000
-DTEND:20250314T160000
+DTSTAMP:20250314T072603Z
+DTSTART:20250314T190000
+DTEND:20250314T210000
 SUMMARY:Veterans March
 LOCATION:\, Nationwide\, Nationwide
 DESCRIPTION:We will support and defend the Constitution of the United Stat
@@ -15,5 +15,6 @@ DESCRIPTION:We will support and defend the Constitution of the United Stat
  rely on. All are welcome to stand with us.\n\nEvery state capitol
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+Nationwi
  de%2C+Nationwide&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

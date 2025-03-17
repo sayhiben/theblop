@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:705ac687-41d1-4015-baba-1e94b9ce6704
+UID:753027c6-2bfd-4477-8f0d-d82b896c50db
 SEQUENCE:0
-DTSTAMP:20250315T090245Z
-DTSTART:20250324T140000
-DTEND:20250324T180000
+DTSTAMP:20250317T035347Z
+DTSTART:20250324T210000
+DTEND:20250324T230000
 SUMMARY:ICE Off Campus Letter Delivery
 LOCATION:\, Austin\, TX
 DESCRIPTION:We demand that the University of Texas protect immigrant stude
@@ -14,5 +14,6 @@ DESCRIPTION:We demand that the University of Texas protect immigrant stude
   delivering these demands to the administration.\n\nUT Tower
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+Austin%2
  C+TX&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

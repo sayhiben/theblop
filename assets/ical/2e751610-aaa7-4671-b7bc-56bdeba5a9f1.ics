@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:781413c0-8854-45be-b395-39500966e54d
+UID:6a9445d9-0f1b-4ddf-8fba-0288915a5213
 SEQUENCE:0
-DTSTAMP:20250316T000635Z
-DTSTART:20250316T140000
-DTEND:20250316T180000
+DTSTAMP:20250317T035347Z
+DTSTART:20250316T210000
+DTEND:20250316T230000
 SUMMARY:Nicole\, Explain! Rally Against Budget Cuts
 LOCATION:1698 Victory Blvd\, SI\, NY 10314\, Staten Island\, NY
 DESCRIPTION:Join us on March 16th at 2PM for a rally against budget cuts o
@@ -15,5 +15,6 @@ DESCRIPTION:Join us on March 16th at 2PM for a rally against budget cuts o
  s on March 15th.\n\nOutside Nicole Malliotakis Office
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=1698+Victory
  +Blvd%2C+SI%2C+NY+10314%2C+Staten+Island%2C+NY&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

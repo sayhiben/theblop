@@ -2,16 +2,17 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:a88a290a-5a8b-47c5-80e4-af45d3c6ed54
+UID:285d19fc-9573-4e8e-a932-0f1f1b9b7fa7
 SEQUENCE:0
-DTSTAMP:20250310T021352Z
-DTSTART:20250314T120000
-DTEND:20250314T160000
+DTSTAMP:20250314T072603Z
+DTSTART:20250314T190000
+DTEND:20250314T210000
 SUMMARY:Veterans March
 LOCATION:300 6th Street\, Rapid City\, SD
 DESCRIPTION:Defend Veteran Rights\, Resources\, and Jobs All are welcome t
  o stand with us.\n\nCity Hall
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=300+6th+Stre
  et%2C+Rapid+City%2C+SD&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

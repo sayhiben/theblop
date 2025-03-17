@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:ed6e71b8-3aac-4cb4-9863-10a69f4f9178
+UID:19ce1e14-59c5-4fe2-b3f5-3493bd39b8c6
 SEQUENCE:0
-DTSTAMP:20250310T180824Z
-DTSTART:20250313T110000
-DTEND:20250313T150000
+DTSTAMP:20250314T065639Z
+DTSTART:20250313T180000
+DTEND:20250313T200000
 SUMMARY:Congressman Burlison... We Demand a Town Hall
 LOCATION:3232 E. Ridgeview St. Springfield\, MO 65804
 DESCRIPTION:A protest for accountability. Join as long as you like with yo
@@ -14,5 +14,6 @@ DESCRIPTION:A protest for accountability. Join as long as you like with yo
  ringfield\, MO 65804
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=3232+E.+Ridg
  eview+St.+Springfield%2C+MO+65804&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

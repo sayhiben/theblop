@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:d1479ad9-d68e-4730-a140-a9f05476fe86
+UID:75d10d1a-39bd-4f6e-a122-2b93e224cf6f
 SEQUENCE:0
-DTSTAMP:20250313T201359Z
-DTSTART:20250315T120000
-DTEND:20250315T160000
+DTSTAMP:20250314T072603Z
+DTSTART:20250315T190000
+DTEND:20250315T210000
 SUMMARY:Prides of March
 LOCATION:\, Richmond\, VA
 DESCRIPTION:We are organizing a protest as part of a nationwide movement t
@@ -14,5 +14,6 @@ DESCRIPTION:We are organizing a protest as part of a nationwide movement t
  d for equality and inclusion.\n\nCapitol Square
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+Richmond
  %2C+VA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

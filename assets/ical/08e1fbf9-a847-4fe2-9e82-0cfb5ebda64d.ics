@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:f2e15c97-1418-4384-b8a3-43cee09f9e89
+UID:44c8cc1d-37f9-41b5-a7e4-086ccb895d6a
 SEQUENCE:0
-DTSTAMP:20250311T043711Z
-DTSTART:20250315T120000
-DTEND:20250315T160000
+DTSTAMP:20250314T072603Z
+DTSTART:20250315T190000
+DTEND:20250315T210000
 SUMMARY:March Against Tyranny
 LOCATION:125 W State St\, Trenton\, NJ
 DESCRIPTION:We are organizing a march against tyranny to stand against the
@@ -15,5 +15,6 @@ DESCRIPTION:We are organizing a march against tyranny to stand against the
  .\n\n
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=125+W+State+
  St%2C+Trenton%2C+NJ&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

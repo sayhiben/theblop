@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:921b9dc3-f767-4faf-9fee-3e94b2331d73
+UID:ede82c60-1cfb-48bd-90ba-5beede00255a
 SEQUENCE:0
-DTSTAMP:20250316T031514Z
-DTSTART:20250319T133000
-DTEND:20250319T173000
+DTSTAMP:20250317T035347Z
+DTSTART:20250319T203000
+DTEND:20250319T223000
 SUMMARY:Protest Trump/Musk Administration
 LOCATION:Corner of Roland and 40th Street\, Baltimore\, MD
 DESCRIPTION:Join us in Baltimore to protest the Trump/Musk Administration.
@@ -14,5 +14,6 @@ DESCRIPTION:Join us in Baltimore to protest the Trump/Musk Administration.
  strength in our numbers.\n\nCorner of Roland and 40th Street
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Corner+of+Ro
  land+and+40th+Street%2C+Baltimore%2C+MD&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

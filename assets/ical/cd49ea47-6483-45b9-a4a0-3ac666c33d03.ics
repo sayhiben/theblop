@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:00be4731-eb76-4343-9a2f-17372a682730
+UID:e74455ca-3dbd-4d32-aaf7-26b39ed3baa0
 SEQUENCE:0
-DTSTAMP:20250311T180234Z
-DTSTART:20250314T160000
-DTEND:20250314T200000
+DTSTAMP:20250314T072603Z
+DTSTART:20250314T230000
+DTEND:20250315T010000
 SUMMARY:Veterans March
 LOCATION:Irvine City Hall\, Irvine\, CA
 DESCRIPTION:We welcome all veterans and supporters to join this peaceful p
@@ -15,5 +15,6 @@ DESCRIPTION:We welcome all veterans and supporters to join this peaceful p
  l
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Irvine+City+
  Hall%2C+Irvine%2C+CA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

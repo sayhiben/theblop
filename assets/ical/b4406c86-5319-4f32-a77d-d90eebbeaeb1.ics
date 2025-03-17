@@ -2,17 +2,19 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:73407598-9788-4b65-b378-5234650788b7
+UID:1c1bf5ff-0506-450b-9656-7dcee7cc9d8d
 SEQUENCE:0
-DTSTAMP:20250315T210323Z
-DTSTART:20250406T120000
-DTEND:20250406T160000
+DTSTAMP:20250317T035347Z
+DTSTART:20250406T190000
+DTEND:20250406T210000
 SUMMARY:A Day of Fasting and Prayer for Our Democracy
+LOCATION:\, Nationwide\, Nationwide
 DESCRIPTION:Join us as we gather in public places to observe a day of fast
  ing and prayer on April 6\, 2025\, in a powerful non-violent protest again
  st autocracy. We encourage everyone to read the Bill of Rights and spend t
  ime with loved ones.\n\nTown halls\, city halls\, state houses
-URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=&zoom=15&bas
- emap=roadmap
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+Nationwi
+ de%2C+Nationwide&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:f841797e-bbf9-41fb-a341-8abce0922d01
+UID:cb0767b9-a026-4a23-9a75-87daffc9d7c6
 SEQUENCE:0
-DTSTAMP:20250313T031818Z
-DTSTART:20250315T093000
-DTEND:20250315T133000
+DTSTAMP:20250314T072603Z
+DTSTART:20250315T163000
+DTEND:20250315T183000
 SUMMARY:Santa Clara - TeslaTakedown
 LOCATION:corner of Winchester Blvd & Stevens Creek Blvd\, Santa Clara\, CA
 DESCRIPTION:We are organizing a peaceful\, nonviolent rally at Tesla. Part
@@ -17,5 +17,6 @@ DESCRIPTION:We are organizing a peaceful\, nonviolent rally at Tesla. Part
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=corner+of+Wi
  nchester+Blvd+%26+Stevens+Creek+Blvd%2C+Santa+Clara%2C+CA&zoom=15&basemap=
  roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

@@ -2,18 +2,20 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:349c883c-a5a0-474d-ba6c-d834f9454cae
+UID:a312509f-76fc-449c-bd3b-5c5c2b5152c8
 SEQUENCE:0
-DTSTAMP:20250313T031819Z
-DTSTART:20250315T093000
-DTEND:20250315T133000
-SUMMARY:#TeslaTakedown Action
-LOCATION:Stevens Creek Blvd & Winchester Blvd\, Santa Clara\, CA
-DESCRIPTION:We are organizing an action to take a stand against Tesla and 
- Elon Musk by encouraging participants to sell their Teslas\, dump their st
- ocks\, and join the picket lines. This effort aims to make a significant i
- mpact for democracy and safety.\n\nWinchester Shopping Center Sign
-URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Stevens+Cree
- k+Blvd+%26+Winchester+Blvd%2C+Santa+Clara%2C+CA&zoom=15&basemap=roadmap
+DTSTAMP:20250314T072603Z
+DTSTART:20250315T163000
+DTEND:20250315T183000
+SUMMARY:TeslaTakedown Action
+LOCATION:Winchester Shopping Center Sign\, Stevens Creek Blvd & Winchester
+  Blvd\, Santa Clara\, CA
+DESCRIPTION:We are protesting against Tesla to stop Musk by selling vehicl
+ es\, dumping stock\, and joining picket lines to promote democracy.\n\nWin
+ chester Shopping Center Sign
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Winchester+S
+ hopping+Center+Sign%2C+Stevens+Creek+Blvd+%26+Winchester+Blvd%2C+Santa+Cla
+ ra%2C+CA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

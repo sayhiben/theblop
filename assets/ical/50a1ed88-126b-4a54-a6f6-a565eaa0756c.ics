@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:9929b74b-6e39-444c-af11-c53ebe9b6759
+UID:a55077a2-2a39-45ff-a50e-19714d789584
 SEQUENCE:0
-DTSTAMP:20250313T031818Z
-DTSTART:20250315T110000
-DTEND:20250315T150000
+DTSTAMP:20250314T072603Z
+DTSTART:20250315T180000
+DTEND:20250315T200000
 SUMMARY:Tesla Takedown Delray Beach\, Florida
 LOCATION:3000 S Federal Hwy\, Delray Beach\, FL 33486
 DESCRIPTION:Join us for the Tesla Takedown protest in Delray Beach. We aim
@@ -15,5 +15,6 @@ DESCRIPTION:Join us for the Tesla Takedown protest in Delray Beach. We aim
  ice heard.\n\nTesla Service Station
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=3000+S+Feder
  al+Hwy%2C+Delray+Beach%2C+FL+33486&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:5664d20d-52da-4f7b-a18d-5f76c7895838
+UID:bf090d32-dc51-4ef7-9974-a77440f3b63e
 SEQUENCE:0
-DTSTAMP:20250311T012444Z
-DTSTART:20250314T160000
-DTEND:20250314T200000
+DTSTAMP:20250314T072603Z
+DTSTART:20250314T230000
+DTEND:20250315T010000
 SUMMARY:Rally & Protest in Warren
 LOCATION:\, Warren\, MI
 DESCRIPTION:We are organizing a protest to demand accountability from Cong
@@ -15,5 +15,6 @@ DESCRIPTION:We are organizing a protest to demand accountability from Cong
  n and social security.\n\n
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+Warren%2
  C+MI&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

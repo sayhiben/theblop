@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:e2b5da2a-4561-4e88-8dc4-69c58e6ede85
+UID:66f12f09-6016-470e-9b18-e85775a44969
 SEQUENCE:0
-DTSTAMP:20250311T090339Z
-DTSTART:20250321T110000
-DTEND:20250321T150000
+DTSTAMP:20250317T035347Z
+DTSTART:20250321T180000
+DTEND:20250321T200000
 SUMMARY:Rally for Democracy\, Bay City\, TX
 LOCATION:1700 7th Street\, Bay City\, TX
 DESCRIPTION:Peaceful Rally for Democracy in Bay City\, Texas (SW of Housto
@@ -15,5 +15,6 @@ DESCRIPTION:Peaceful Rally for Democracy in Bay City\, Texas (SW of Housto
  y Courthouse
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=1700+7th+Str
  eet%2C+Bay+City%2C+TX&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

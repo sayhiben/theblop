@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:9c0a4b39-aa06-4592-a341-ef6ed4bf27fa
+UID:882197c2-c169-439a-87f8-3610b8f7d53f
 SEQUENCE:0
-DTSTAMP:20250308T180559Z
-DTSTART:20250314T120000
-DTEND:20250314T160000
+DTSTAMP:20250314T072603Z
+DTSTART:20250314T190000
+DTEND:20250314T210000
 SUMMARY:Descend on DC
 LOCATION:214 Massachusetts Ave.\, N.E.\, Washington\, DC
 DESCRIPTION:Join us & our brave veterans March On D.C. Truth Over Propagan
@@ -14,5 +14,6 @@ DESCRIPTION:Join us & our brave veterans March On D.C. Truth Over Propagan
  itage Foundation\n\nFox News Headquarters
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=214+Massachu
  setts+Ave.%2C+N.E.%2C+Washington%2C+DC&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

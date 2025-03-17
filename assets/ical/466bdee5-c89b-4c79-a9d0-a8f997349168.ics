@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:f049b4b8-6d63-4e10-b6bc-74859cf8bf73
+UID:ba331ecb-5fb7-4148-ab6f-4823c196725a
 SEQUENCE:0
-DTSTAMP:20250310T021352Z
-DTSTART:20250315T110000
-DTEND:20250315T150000
+DTSTAMP:20250314T072603Z
+DTSTART:20250315T180000
+DTEND:20250315T200000
 SUMMARY:March to Stop the Cuts!
 LOCATION:Foley Square (between Lafayette\, Worth and Centre Streets\, Manh
  attan)\, New York\, NY
@@ -15,5 +15,6 @@ DESCRIPTION:No cuts to working people to fund tax breaks for billionaires
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Foley+Square
  +%28between+Lafayette%2C+Worth+and+Centre+Streets%2C+Manhattan%29%2C+New+Y
  ork%2C+NY&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

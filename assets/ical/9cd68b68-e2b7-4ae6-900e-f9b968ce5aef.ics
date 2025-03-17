@@ -2,16 +2,16 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:68699643-0632-47e0-bae4-9d06f4568252
+UID:e5b688a1-17a3-47c4-b765-d9a5bf2dd2c3
 SEQUENCE:0
-DTSTAMP:20250304T061224Z
-DTSTART:20250314T140000
-DTEND:20250314T180000
+DTSTAMP:20250314T072603Z
+DTSTART:20250314T210000
+DTEND:20250314T230000
 SUMMARY:Demand Democracy
-LOCATION:1600 Pennsylvania Ave NW\, Washington\, D.C.\, 
-DESCRIPTION:Capitol protest against our unconstitutional government.\n\nUn
- ited States Capitol
-URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=1600+Pennsyl
- vania+Ave+NW%2C+Washington%2C+D.C.%2C+&zoom=15&basemap=roadmap
+LOCATION:\, Washington\, D.C.\, DC
+DESCRIPTION:Capitol protest against our unconstitutional government.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+Washingt
+ on%2C+D.C.%2C+DC&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

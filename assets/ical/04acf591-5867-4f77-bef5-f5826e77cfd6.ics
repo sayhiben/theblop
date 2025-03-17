@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:69d6ca01-2b1f-4ec2-b7b3-e438f6c26354
+UID:4b746da0-31cf-4d23-8fd2-cbce3c16bfae
 SEQUENCE:0
-DTSTAMP:20250313T031819Z
-DTSTART:20250316T120000
-DTEND:20250316T160000
+DTSTAMP:20250317T035347Z
+DTSTART:20250316T190000
+DTEND:20250316T210000
 SUMMARY:Not in Our America
 LOCATION:3067 N. Elston\, Chicago\, IL
 DESCRIPTION:We are taking action at Tesla by organizing a gathering to adv
@@ -15,5 +15,6 @@ DESCRIPTION:We are taking action at Tesla by organizing a gathering to adv
  ve lives and democracy.\n\nTesla Service Center
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=3067+N.+Elst
  on%2C+Chicago%2C+IL&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

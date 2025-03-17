@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:5e85e5cd-afde-43a5-80ec-f5f1e791e1aa
+UID:e3a4c60d-162c-4806-bcf9-8417cf3c9130
 SEQUENCE:0
-DTSTAMP:20250311T180234Z
-DTSTART:20250315T140000
-DTEND:20250315T180000
+DTSTAMP:20250314T072603Z
+DTSTART:20250315T210000
+DTEND:20250315T230000
 SUMMARY:We Didn't Vote For This
 LOCATION:North Hills Park Picnic Shelter\, Raleigh\, NC
 DESCRIPTION:Join us for a community event to connect with friends\, neighb
@@ -16,5 +16,6 @@ DESCRIPTION:Join us for a community event to connect with friends\, neighb
  \nNorth Hills Park Picnic Shelter
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=North+Hills+
  Park+Picnic+Shelter%2C+Raleigh%2C+NC&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

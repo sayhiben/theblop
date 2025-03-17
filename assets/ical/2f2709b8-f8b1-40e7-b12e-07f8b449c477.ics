@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:f42d034c-7179-48e3-b86c-f39585af8b2a
+UID:36771ba2-e799-4f4e-996f-faf33b64b4ac
 SEQUENCE:0
-DTSTAMP:20250311T090339Z
-DTSTART:20250316T140000
-DTEND:20250316T180000
+DTSTAMP:20250317T035347Z
+DTSTART:20250316T210000
+DTEND:20250316T230000
 SUMMARY:Orange County Weekly Rally Against Fascism
 LOCATION:1 Civic Center Plaza\, Irvine\, CA
 DESCRIPTION:Join your community members every week in a peaceful\, family-
@@ -16,5 +16,6 @@ DESCRIPTION:Join your community members every week in a peaceful\, family-
  Hall
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=1+Civic+Cent
  er+Plaza%2C+Irvine%2C+CA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

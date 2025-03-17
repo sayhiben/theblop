@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:b45f8e5d-2562-47c4-ad5c-c7b41bfafbd3
+UID:ea952a90-c4f6-48d5-9c76-723be3d39bca
 SEQUENCE:0
-DTSTAMP:20250313T031819Z
-DTSTART:20250405T140000
-DTEND:20250405T180000
+DTSTAMP:20250317T035347Z
+DTSTART:20250405T210000
+DTEND:20250405T230000
 SUMMARY:REMOVE REVERSE RECLAIM
 LOCATION:251 N Main St\, Winston-Salem\, NC
 DESCRIPTION:Join us for a protest as we aim to remove corrupt politicians 
@@ -15,5 +15,6 @@ DESCRIPTION:Join us for a protest as we aim to remove corrupt politicians
   Federal Building
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=251+N+Main+S
  t%2C+Winston-Salem%2C+NC&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

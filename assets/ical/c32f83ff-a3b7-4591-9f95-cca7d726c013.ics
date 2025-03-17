@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:e38bfb82-ec69-4bb3-be9d-d6dc6efd29ef
+UID:6d710eb3-6846-42b7-a724-3d0f4098e7e8
 SEQUENCE:0
-DTSTAMP:20250314T210257Z
-DTSTART:20250316T120000
-DTEND:20250316T160000
+DTSTAMP:20250317T035347Z
+DTSTART:20250316T190000
+DTEND:20250316T210000
 SUMMARY:Together We Rise
 LOCATION:W Howard Pl & Irving St.\, Denver\, CO
 DESCRIPTION:Join us for a march and rally focusing on building education a
@@ -15,5 +15,6 @@ DESCRIPTION:Join us for a march and rally focusing on building education a
  nchez Park
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=W+Howard+Pl+
  %26+Irving+St.%2C+Denver%2C+CO&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

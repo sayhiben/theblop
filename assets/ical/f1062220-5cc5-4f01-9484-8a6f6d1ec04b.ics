@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:223b5eba-f4ae-4cc4-838e-f4bf6dfb5a87
+UID:e75a0fdc-6644-4332-af90-da7cacda7438
 SEQUENCE:0
-DTSTAMP:20250313T031818Z
-DTSTART:20250315T133000
-DTEND:20250315T173000
+DTSTAMP:20250314T072603Z
+DTSTART:20250315T203000
+DTEND:20250315T223000
 SUMMARY:Protest Elon Musk's Fascist Government Takeover Part 5 - The Revol
  ution Will Be Live
 LOCATION:4180 El Camino Real\, Palo Alto\, CA
@@ -16,5 +16,6 @@ DESCRIPTION:Join us as we protest against Elon Musk's alleged government t
  la Palo Alto
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=4180+El+Cami
  no+Real%2C+Palo+Alto%2C+CA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

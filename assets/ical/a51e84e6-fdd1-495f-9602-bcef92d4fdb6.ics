@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:31d93efa-4efb-4cdb-9e05-1b5f1e150ba5
+UID:1622086a-2fb0-4580-a780-18449ddbe318
 SEQUENCE:0
-DTSTAMP:20250313T180257Z
-DTSTART:20250314T170000
-DTEND:20250314T210000
+DTSTAMP:20250314T072603Z
+DTSTART:20250315T000000
+DTEND:20250315T020000
 SUMMARY:Protect Social Security Rally/Vigil
 LOCATION:332 Main St\, Poughkeepsie\, NY
 DESCRIPTION:Join us in a rally/vigil to protect Social Security and advoca
@@ -14,5 +14,6 @@ DESCRIPTION:Join us in a rally/vigil to protect Social Security and advoca
  ical cause.\n\n
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=332+Main+St%
  2C+Poughkeepsie%2C+NY&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

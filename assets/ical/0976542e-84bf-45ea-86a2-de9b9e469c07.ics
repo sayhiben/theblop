@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:a9a2444a-2899-4bcc-a308-65243d11fbb0
+UID:f9a2a61f-7f4a-4f90-9190-3e7278416156
 SEQUENCE:0
-DTSTAMP:20250316T201421Z
-DTSTART:20250317T090000
-DTEND:20250317T130000
+DTSTAMP:20250317T035347Z
+DTSTART:20250317T160000
+DTEND:20250317T180000
 SUMMARY:Support Our Kids Rally
 LOCATION:near JMHS\, Fredericksburg\, VA
 DESCRIPTION:Join us in Fredericksburg\, VA for a rally on March 17th to pr
@@ -15,5 +15,6 @@ DESCRIPTION:Join us in Fredericksburg\, VA for a rally on March 17th to pr
  e your voice heard and stand up for public education.\n\nnear JMHS
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=near+JMHS%2C
  +Fredericksburg%2C+VA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:40ab6ed5-3c30-42ee-b1c6-acb0e11fb24a
+UID:186a1e3c-98c9-4ad1-b380-a6423aaea56e
 SEQUENCE:0
-DTSTAMP:20250313T031818Z
-DTSTART:20250315T120000
-DTEND:20250315T160000
+DTSTAMP:20250314T072603Z
+DTSTART:20250315T190000
+DTEND:20250315T210000
 SUMMARY:#TeslaTakedown Portland
 LOCATION:4330 S Macadam Avenue\, Portland\, OR
 DESCRIPTION:We are organizing a protest at Tesla. Join us to sell your Tes
@@ -15,5 +15,6 @@ DESCRIPTION:We are organizing a protest at Tesla. Join us to sell your Tes
  sla Sales and Service Center
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=4330+S+Macad
  am+Avenue%2C+Portland%2C+OR&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

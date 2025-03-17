@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:97525607-0157-41b5-96e2-a181fee3944c
+UID:431c9793-883a-4a41-b471-ae646cca30a8
 SEQUENCE:0
-DTSTAMP:20250312T090406Z
-DTSTART:20250323T110000
-DTEND:20250323T150000
+DTSTAMP:20250317T035347Z
+DTSTART:20250323T180000
+DTEND:20250323T200000
 SUMMARY:Rally to Save USPS
 LOCATION:Old Courthouse Square\, Santa Rosa\, CA
 DESCRIPTION:NALC Branch 183 is holding a rally opposing the privatization 
@@ -15,5 +15,6 @@ DESCRIPTION:NALC Branch 183 is holding a rally opposing the privatization
  nta Rosa
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Old+Courthou
  se+Square%2C+Santa+Rosa%2C+CA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

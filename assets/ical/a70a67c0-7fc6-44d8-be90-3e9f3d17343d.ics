@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:2730a82b-6532-4914-b1e4-eecc9ca96295
+UID:708b762a-b514-40f1-927c-4dacaaca0b8c
 SEQUENCE:0
-DTSTAMP:20250313T031819Z
-DTSTART:20250322T100000
-DTEND:20250322T140000
+DTSTAMP:20250317T035347Z
+DTSTART:20250322T170000
+DTEND:20250322T190000
 SUMMARY:Tesla Takedown Tempe
 LOCATION:2077 E University Dr\, Tempe\, AZ
 DESCRIPTION:We are organizing a protest at Tesla to encourage selling Tesl
@@ -14,5 +14,6 @@ DESCRIPTION:We are organizing a protest at Tesla to encourage selling Tesl
  , we aim to address larger societal and democratic issues.\n\nTempe Tesla
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=2077+E+Unive
  rsity+Dr%2C+Tempe%2C+AZ&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

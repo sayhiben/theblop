@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:8e5d28cb-5eb4-45ea-92c3-33322caabe94
+UID:e2c58a4b-fe93-4d48-8e52-45a826550d9c
 SEQUENCE:0
-DTSTAMP:20250311T023757Z
-DTSTART:20250322T150000
-DTEND:20250322T190000
+DTSTAMP:20250317T035347Z
+DTSTART:20250322T220000
+DTEND:20250323T000000
 SUMMARY:Community Meeting Without Rep. Miller
 LOCATION:225 Clay Avenue\, Jacksonville\, IL
 DESCRIPTION:Join us to address pressing concerns about Medicaid\, agricult
@@ -16,5 +16,6 @@ DESCRIPTION:Join us to address pressing concerns about Medicaid\, agricult
  Agriculture & Arts Complex
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=225+Clay+Ave
  nue%2C+Jacksonville%2C+IL&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

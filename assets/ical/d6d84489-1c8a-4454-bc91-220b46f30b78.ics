@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:bdb7a71f-154a-4366-b3ec-bb6b24b64bc3
+UID:9babe40e-23da-441a-95bd-4d895a18b668
 SEQUENCE:0
-DTSTAMP:20250315T180240Z
-DTSTART:20250405T120000
-DTEND:20250405T160000
+DTSTAMP:20250317T035347Z
+DTSTART:20250405T190000
+DTEND:20250405T210000
 SUMMARY:REMOVE REVERSE RECLAIM
 LOCATION:500 N Main Street\, Summerville\, SC
 DESCRIPTION:Join us in Summerville\, SC\, to protest against corrupt polit
@@ -15,5 +15,6 @@ DESCRIPTION:Join us in Summerville\, SC\, to protest against corrupt polit
  es.\n\nVeterans Memorial
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=500+N+Main+S
  treet%2C+Summerville%2C+SC&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

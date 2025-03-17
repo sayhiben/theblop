@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:d84f55e8-9d86-4dd1-8407-bcbeec3b7317
+UID:d8b71ebd-7247-495a-bd72-369db9af742c
 SEQUENCE:0
-DTSTAMP:20250314T000543Z
-DTSTART:20250316T133000
-DTEND:20250316T173000
+DTSTAMP:20250317T035347Z
+DTSTART:20250316T203000
+DTEND:20250316T223000
 SUMMARY:PSL Action Network Organizer Meeting
 LOCATION:344 Candler Park Dr NE\, Atlanta\, GA
 DESCRIPTION:Join us for a PSL Action Network organizer meeting this Sunday
@@ -16,5 +16,6 @@ DESCRIPTION:Join us for a PSL Action Network organizer meeting this Sunday
  planning with local organizers will follow.\n\nAtlanta Liberation Center
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=344+Candler+
  Park+Dr+NE%2C+Atlanta%2C+GA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

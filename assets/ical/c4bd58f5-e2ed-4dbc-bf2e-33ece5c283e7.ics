@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:ecc3b92d-76d8-4aa0-820d-71d867ce136f
+UID:6d700d26-169a-4f2a-b100-e4f3e6293cac
 SEQUENCE:0
-DTSTAMP:20250311T180234Z
-DTSTART:20250315T120000
-DTEND:20250315T160000
+DTSTAMP:20250314T072603Z
+DTSTART:20250315T190000
+DTEND:20250315T210000
 SUMMARY:TeslaTakedown Northbrook
 LOCATION:1200 Skokie Blvd\, Northbrook\, IL 60062 US
 DESCRIPTION:Join us at the Tesla Northbrook for an exciting event called T
@@ -14,5 +14,6 @@ DESCRIPTION:Join us at the Tesla Northbrook for an exciting event called T
  s with fellow enthusiasts.\n\nTesla Northbrook
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=1200+Skokie+
  Blvd%2C+Northbrook%2C+IL+60062+US&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

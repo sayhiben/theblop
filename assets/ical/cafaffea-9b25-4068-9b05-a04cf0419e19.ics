@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:d6367c28-8619-4d63-911e-a5416c26200c
+UID:f372be12-f850-4664-9b85-65d08c77900d
 SEQUENCE:0
-DTSTAMP:20250313T031819Z
-DTSTART:20250324T154500
-DTEND:20250324T194500
+DTSTAMP:20250317T035347Z
+DTSTART:20250324T224500
+DTEND:20250325T004500
 SUMMARY:Peaceful Protest in front of PDX Tesla- Week 6
 LOCATION:4330 S Macadam Ave\, Portland\, OR
 DESCRIPTION:Join us for a peaceful protest to stand against Elon Musk and 
@@ -14,5 +14,6 @@ DESCRIPTION:Join us for a peaceful protest to stand against Elon Musk and
  ty during rush hour.\n\nOld Spaghetti Factory
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=4330+S+Macad
  am+Ave%2C+Portland%2C+OR&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

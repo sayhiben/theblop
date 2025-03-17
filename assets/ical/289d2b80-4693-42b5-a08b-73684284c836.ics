@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:2b934b98-5b4c-4512-a7a7-cdaf3565d94e
+UID:29bb9e5c-0e2f-4c8d-9d80-e208e666c98c
 SEQUENCE:0
-DTSTAMP:20250313T031818Z
-DTSTART:20250315T140000
-DTEND:20250315T180000
+DTSTAMP:20250314T072603Z
+DTSTART:20250315T210000
+DTEND:20250315T230000
 SUMMARY:TeslaTakedown - KC
 LOCATION:10111 State Line Rd\, Kansas City\, MO
 DESCRIPTION:Join us as we take action against Tesla and Elon Musk. We enco
@@ -16,5 +16,6 @@ DESCRIPTION:Join us as we take action against Tesla and Elon Musk. We enco
  nt.\n\nTesla Service Center
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=10111+State+
  Line+Rd%2C+Kansas+City%2C+MO&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

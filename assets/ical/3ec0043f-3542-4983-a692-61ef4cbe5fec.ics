@@ -2,17 +2,18 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:648a705f-ccad-4bda-a3a3-aa84834ccd53
+UID:2b50e5a5-99b4-4036-bdd9-41b9f98cc6e2
 SEQUENCE:0
-DTSTAMP:20250312T090406Z
-DTSTART:20250314T163000
-DTEND:20250314T203000
+DTSTAMP:20250314T072603Z
+DTSTART:20250314T233000
+DTEND:20250315T013000
 SUMMARY:WTF on WNB
-LOCATION:Corner of Milton and W. North Broadway
+LOCATION:Corner of Milton and W. North Broadway\, Columbus\, OH
 DESCRIPTION:Join us for "Waving Toward Freedom" on W. North Broadway to me
  et neighbors and strengthen our community. This event promotes democracy t
- hrough monthly gatherings.\n\nCorner of Milton and W. North Broadway
+ hrough monthly gatherings.\n\nCity/State is best guess here
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Corner+of+Mi
- lton+and+W.+North+Broadway&zoom=15&basemap=roadmap
+ lton+and+W.+North+Broadway%2C+Columbus%2C+OH&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

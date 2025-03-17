@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:5f790c46-3430-42b8-b987-cf0c50f1e042
+UID:cc8f37e0-3bd2-44bc-8fdf-5cdcb58e7e92
 SEQUENCE:0
-DTSTAMP:20250313T031818Z
-DTSTART:20250315T120000
-DTEND:20250315T160000
+DTSTAMP:20250314T072603Z
+DTSTART:20250315T190000
+DTEND:20250315T210000
 SUMMARY:TeslaTakedown in Pasadena
 LOCATION:117 West Colorado Blvd\, Pasadena\, CA
 DESCRIPTION:We are taking action at Tesla by selling Teslas\, dumping stoc
@@ -16,5 +16,6 @@ DESCRIPTION:We are taking action at Tesla by selling Teslas\, dumping stoc
  ealer
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=117+West+Col
  orado+Blvd%2C+Pasadena%2C+CA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

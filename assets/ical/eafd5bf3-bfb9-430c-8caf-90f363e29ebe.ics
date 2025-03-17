@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:1b711e15-cbbc-41c0-b769-f19c24a1f509
+UID:bad4903f-293b-41b5-8c0c-d1d674819c1c
 SEQUENCE:0
-DTSTAMP:20250314T031002Z
-DTSTART:20250322T000000
-DTEND:20250322T040000
+DTSTAMP:20250317T035347Z
+DTSTART:20250322T070000
+DTEND:20250322T090000
 SUMMARY:Art Revolution Convergence
 LOCATION:\, Seattle\, WA
 DESCRIPTION:Join us for the Art Revolution Convergence to fund communities
@@ -14,5 +14,6 @@ DESCRIPTION:Join us for the Art Revolution Convergence to fund communities
  community support.\n\n
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+Seattle%
  2C+WA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

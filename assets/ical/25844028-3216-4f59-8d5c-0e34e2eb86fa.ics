@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:f73301f5-e613-44b9-a965-1842d44ad61e
+UID:a8aa26d7-0a1d-445b-a311-69b5c9965761
 SEQUENCE:0
-DTSTAMP:20250312T180257Z
-DTSTART:20250315T120000
-DTEND:20250315T160000
+DTSTAMP:20250314T072603Z
+DTSTART:20250315T190000
+DTEND:20250315T210000
 SUMMARY:Corruption Destroys\, Community Builds
 LOCATION:Philadelphia City Hall\, Philadelphia\, PA
 DESCRIPTION:Join us to stand against corruption and support the strength o
@@ -14,5 +14,6 @@ DESCRIPTION:Join us to stand against corruption and support the strength o
  .\n\nPhiladelphia City Hall
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Philadelphia
  +City+Hall%2C+Philadelphia%2C+PA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

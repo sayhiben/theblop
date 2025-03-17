@@ -2,20 +2,21 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:cae3255c-d38f-450c-b3bf-b579e56f903d
+UID:b4f81db7-3973-45f3-8496-639d2a39cb0b
 SEQUENCE:0
-DTSTAMP:20250311T043711Z
-DTSTART:20250320T110000
-DTEND:20250320T150000
+DTSTAMP:20250317T035347Z
+DTSTART:20250320T180000
+DTEND:20250320T200000
 SUMMARY:Sarasota March 20th protest
 LOCATION:New College of FL\, across from the Sainer Pavilion\, Sarasota\, 
  FL
 DESCRIPTION:We are organizing a protest against Trump's border policy\, re
  jecting racist lies in our schools. Join us in voicing opposition to polic
- ies represented by Tom Homan\, Chad Wolf\, and others.\n\nNew College of F
- L
+ ies represented by Tom Homan\, Chad Wolf\, and others.\n\nAcross from The 
+ Sainer Pavilion
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=New+College+
  of+FL%2C+across+from+the+Sainer+Pavilion%2C+Sarasota%2C+FL&zoom=15&basemap
  =roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

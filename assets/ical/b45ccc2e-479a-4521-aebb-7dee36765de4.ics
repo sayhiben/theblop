@@ -2,16 +2,17 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:69ffe4f5-a2e1-4b6e-8cb6-2745afd83c21
+UID:4b8605a5-e2e2-43e8-91e3-32976b712a03
 SEQUENCE:0
-DTSTAMP:20250307T172420Z
-DTSTART:20250315T120000
-DTEND:20250315T160000
+DTSTAMP:20250314T072603Z
+DTSTART:20250315T190000
+DTEND:20250315T210000
 SUMMARY:Rally for All
 LOCATION:Coshocton Court Square Sidewalk\, Coshocton County\, OH
 DESCRIPTION:A rally to unite and show support for inclusivity and equality
  .\n\n
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Coshocton+Co
  urt+Square+Sidewalk%2C+Coshocton+County%2C+OH&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

@@ -2,16 +2,17 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:8394aae2-59b3-4c26-a119-de9f43327e40
+UID:5f4f1e53-5d73-4563-bf00-455bbf0a8c0e
 SEQUENCE:0
-DTSTAMP:20250313T031819Z
-DTSTART:20250315T100000
-DTEND:20250315T140000
+DTSTAMP:20250314T072603Z
+DTSTART:20250315T170000
+DTEND:20250315T190000
 SUMMARY:Tesla Takedown Tempe
 LOCATION:2077 E University Dr\, Tempe\, AZ 20851
 DESCRIPTION:Join us for the Tesla Takedown event in Tempe to take action a
  nd gather with others at the designated location.\n\nTempe Tesla
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=2077+E+Unive
  rsity+Dr%2C+Tempe%2C+AZ+20851&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

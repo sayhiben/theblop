@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:30ffd2d2-cc12-4be5-8e84-f4052c9ebbdc
+UID:037cf1e0-acc6-45a3-9ba0-ba3aed5c4832
 SEQUENCE:0
-DTSTAMP:20250316T000636Z
-DTSTART:20250405T110000
-DTEND:20250405T150000
+DTSTAMP:20250317T035347Z
+DTSTART:20250405T180000
+DTEND:20250405T200000
 SUMMARY:Rally for Democracy
 LOCATION:Public Square\, Watertown\, NY
 DESCRIPTION:We are organizing a rally to remove corrupt politicians from o
@@ -15,5 +15,6 @@ DESCRIPTION:We are organizing a rally to remove corrupt politicians from o
  blic Square\, Watertown\, NY
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Public+Squar
  e%2C+Watertown%2C+NY&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

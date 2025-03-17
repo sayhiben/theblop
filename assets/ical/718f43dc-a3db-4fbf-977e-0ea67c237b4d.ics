@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:9edb94d2-65a1-46eb-b273-369c0eca3297
+UID:081b94ee-08bb-4018-8ede-acd9b546ade3
 SEQUENCE:0
-DTSTAMP:20250315T210323Z
-DTSTART:20250320T100000
-DTEND:20250320T140000
+DTSTAMP:20250317T035347Z
+DTSTART:20250320T170000
+DTEND:20250320T190000
 SUMMARY:Putting Congressman Murphy on a Plan of Improvement (PIP)
 LOCATION:815 New Bridge\, Jacksonville\, NC
 DESCRIPTION:We invite you to join us in Jacksonville\, NC\, for a protest 
@@ -14,5 +14,6 @@ DESCRIPTION:We invite you to join us in Jacksonville\, NC\, for a protest
  rove and stand up for issues important to you.\n\nFreedom Fountain
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=815+New+Brid
  ge%2C+Jacksonville%2C+NC&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:b88cdb7d-3c58-4aa0-b9f4-a4deebb55e07
+UID:8164ab68-deb8-4e9e-9425-51614b4e2324
 SEQUENCE:0
-DTSTAMP:20250313T031819Z
-DTSTART:20250329T110000
-DTEND:20250329T150000
+DTSTAMP:20250317T035347Z
+DTSTART:20250329T180000
+DTEND:20250329T200000
 SUMMARY:Tesla Dealership Protest
 LOCATION:2535 Arden Way\, Sacramento\, CA
 DESCRIPTION:We are organizing a protest against Elon Musk and Tesla to exp
@@ -15,5 +15,6 @@ DESCRIPTION:We are organizing a protest against Elon Musk and Tesla to exp
  ims to tank Tesla's stock price in a lawful manner.\n\nTesla Dealership
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=2535+Arden+W
  ay%2C+Sacramento%2C+CA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:98e1c745-8545-406d-a594-4d59e2191991
+UID:11f3524c-aeda-4f25-853e-5ea0f2d1937b
 SEQUENCE:0
-DTSTAMP:20250313T031818Z
-DTSTART:20250315T110000
-DTEND:20250315T150000
+DTSTAMP:20250314T072603Z
+DTSTART:20250315T180000
+DTEND:20250315T200000
 SUMMARY:Tesla Take Down Vallejo
 LOCATION:1001 Admiral Callaghan Ln.\, Vallejo\, CA
 DESCRIPTION:We are taking action at Tesla. Join us to sell your Teslas\, d
@@ -15,5 +15,6 @@ DESCRIPTION:We are taking action at Tesla. Join us to sell your Teslas\, d
  p
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=1001+Admiral
  +Callaghan+Ln.%2C+Vallejo%2C+CA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

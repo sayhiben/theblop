@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:9eb24e74-bb02-416e-b60c-6e959678eddb
+UID:05500b9d-6698-436f-b105-1bffaafd72ba
 SEQUENCE:0
-DTSTAMP:20250316T031514Z
-DTSTART:20250405T090000
-DTEND:20250405T130000
+DTSTAMP:20250317T035347Z
+DTSTART:20250405T160000
+DTEND:20250405T180000
 SUMMARY:50501 Protest
 LOCATION:110 N Capitol Ave\, Lansing\, MI
 DESCRIPTION:Join us in Lansing to push back against tyranny. We are protes
@@ -14,5 +14,6 @@ DESCRIPTION:Join us in Lansing to push back against tyranny. We are protes
  ary of Michigan.\n\nMichigan State Capitol
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=110+N+Capito
  l+Ave%2C+Lansing%2C+MI&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

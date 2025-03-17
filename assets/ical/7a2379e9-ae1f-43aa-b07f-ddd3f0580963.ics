@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:bb39be5d-4c52-475b-b159-68f71868655f
+UID:8be10fe4-b018-4809-940f-12e1ac894c56
 SEQUENCE:0
-DTSTAMP:20250314T120340Z
-DTSTART:20250317T093000
-DTEND:20250317T133000
+DTSTAMP:20250317T035347Z
+DTSTART:20250317T163000
+DTEND:20250317T183000
 SUMMARY:Bannering over the 101
 LOCATION:\, Mountain View\, CA
 DESCRIPTION:Join us with very LARGE signs and banners\, or hold up one of 
@@ -16,5 +16,6 @@ DESCRIPTION:Join us with very LARGE signs and banners\, or hold up one of
  n.\n\nUS-101
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+Mountain
  +View%2C+CA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

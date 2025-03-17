@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:c873182c-aafd-4c1a-8482-fadce6afab56
+UID:9560608e-1f01-4b1c-ba0f-9fbd096fb55e
 SEQUENCE:0
-DTSTAMP:20250315T210323Z
-DTSTART:20250405T110000
-DTEND:20250405T150000
+DTSTAMP:20250317T035347Z
+DTSTART:20250405T180000
+DTEND:20250405T200000
 SUMMARY:Hands Off! New York City Fights Back
 LOCATION:\, New York\, NY
 DESCRIPTION:We are rallying to fight back against the influence of Donald 
@@ -16,5 +16,6 @@ DESCRIPTION:We are rallying to fight back against the influence of Donald
  d change.\n\nManhattan\, final location TBD
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+New+York
  %2C+NY&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

@@ -2,16 +2,17 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:6949c42d-0013-4c9e-b3d7-65f5b225b7c2
+UID:7bbc564e-8233-4314-b37d-f27c4078fd70
 SEQUENCE:0
-DTSTAMP:20250310T021352Z
-DTSTART:20250314T120000
-DTEND:20250314T160000
+DTSTAMP:20250314T072603Z
+DTSTART:20250314T190000
+DTEND:20250314T210000
 SUMMARY:Worcester Rally on National Strike Day
-LOCATION:Worcester City Hall in downtown Worcester\, Worcester\, MA
+LOCATION:455 Main St.\, Worcester\, MA
 DESCRIPTION:Join us as we rally for our democracy!!\n\nWorcester City Hall
   in downtown Worcester
-URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Worcester+Ci
- ty+Hall+in+downtown+Worcester%2C+Worcester%2C+MA&zoom=15&basemap=roadmap
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=455+Main+St.
+ %2C+Worcester%2C+MA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

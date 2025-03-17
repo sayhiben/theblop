@@ -2,17 +2,18 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:99a12585-c4c2-4f87-b42b-ee47e8e67172
+UID:25f8bc4e-784f-4dfb-974a-40a341cc5213
 SEQUENCE:0
-DTSTAMP:20250311T043711Z
-DTSTART:20250315T160000
-DTEND:20250315T200000
+DTSTAMP:20250314T072603Z
+DTSTART:20250315T230000
+DTEND:20250316T010000
 SUMMARY:We All Stand Up to Fight Back Rally
-LOCATION:1600 East Trade St.\, Charlotte\, NC
+LOCATION:Pack Square\, Charlotte\, NC
 DESCRIPTION:WNC WON'T BE DIVIDED From disaster relief\, to immigration\, t
  o federal workers\, to teachers\, join us to reject the Billionaire agenda
  !\n\nBank of America Stadium
-URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=1600+East+Tr
- ade+St.%2C+Charlotte%2C+NC&zoom=15&basemap=roadmap
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Pack+Square%
+ 2C+Charlotte%2C+NC&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

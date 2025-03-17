@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:855a182b-95da-4b12-8ba0-ee5d1b8f3341
+UID:1ed68284-1d43-4062-938e-7138bb2925ac
 SEQUENCE:0
-DTSTAMP:20250308T015930Z
-DTSTART:20250319T143000
-DTEND:20250319T183000
+DTSTAMP:20250317T035347Z
+DTSTART:20250319T213000
+DTEND:20250319T233000
 SUMMARY:Help Us Find Rep. Andy Biggs
 LOCATION:2509 S. Power Rd. #204\, Superstition Plaza\, Mesa\, AZ
 DESCRIPTION:Join us on March 19 at 2:30 to protest at his office - organiz
@@ -14,5 +14,6 @@ DESCRIPTION:Join us on March 19 at 2:30 to protest at his office - organiz
  n
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=2509+S.+Powe
  r+Rd.+%23204%2C+Superstition+Plaza%2C+Mesa%2C+AZ&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

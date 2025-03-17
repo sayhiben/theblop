@@ -2,16 +2,17 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:b97b6847-62d7-40bc-af9f-a763d797e55f
+UID:2f9f0e63-f078-4f97-9044-0db06c1ab94c
 SEQUENCE:0
-DTSTAMP:20250307T172420Z
-DTSTART:20250322T110000
-DTEND:20250322T150000
+DTSTAMP:20250317T035347Z
+DTSTART:20250322T180000
+DTEND:20250322T200000
 SUMMARY:Protest for Democracy
 LOCATION:139 E 1st St\, Dayton\, OH
 DESCRIPTION:Resist fascism. Be seen\, be heard\, demand change.\n\nMontgom
  ery Courthouse Square
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=139+E+1st+St
  %2C+Dayton%2C+OH&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

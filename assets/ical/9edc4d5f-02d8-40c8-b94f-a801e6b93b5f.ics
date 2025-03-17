@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:f786b475-e272-49be-b760-c662c9dfd21e
+UID:a029f06d-0821-4e8c-b847-05acf06cc553
 SEQUENCE:0
-DTSTAMP:20250313T000603Z
-DTSTART:20250324T090000
-DTEND:20250324T130000
+DTSTAMP:20250317T035347Z
+DTSTART:20250324T160000
+DTEND:20250324T180000
 SUMMARY:March on Harrisburg
 LOCATION:501 N 3rd St\, Harrisburg\, PA
 DESCRIPTION:Join us for the March on Harrisburg to hold state legislators 
@@ -16,5 +16,6 @@ DESCRIPTION:Join us for the March on Harrisburg to hold state legislators
  entary Coffee\, 256 North St\, Harrisburg\, PA 17101
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=501+N+3rd+St
  %2C+Harrisburg%2C+PA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

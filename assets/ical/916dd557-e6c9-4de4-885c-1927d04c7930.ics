@@ -2,18 +2,20 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:fb8d1165-4a5f-4024-b4a8-609838edd579
+UID:0f18f879-15e9-43db-b106-f22eeaee6006
 SEQUENCE:0
-DTSTAMP:20250313T031818Z
-DTSTART:20250315T100000
-DTEND:20250315T140000
+DTSTAMP:20250314T072603Z
+DTSTART:20250315T170000
+DTEND:20250315T190000
 SUMMARY:Tesla/Musk Protest
 LOCATION:2627 NE 46th St\, Seattle\, WA
-DESCRIPTION:We are organizing a protest to boycott Tesla and its CEO Elon 
- Musk. Join us to take action against them by dumping your stock and joinin
- g the picket lines. The stakes for democracy are high\, and every individu
- al's participation matters.\n\nUniversity Village Tesla Showroom
+DESCRIPTION:We are taking action at Tesla. Boycott Tesla\, dump your stock
+ \, join the picket lines. Hurting Tesla is stopping Musk. Stopping Musk wi
+ ll help save lives and our democracy. The stakes couldn’t be higher. No 
+ one is coming to save us—not politicians\, not the media.\n\nUniversity 
+ Village Tesla Showroom
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=2627+NE+46th
  +St%2C+Seattle%2C+WA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

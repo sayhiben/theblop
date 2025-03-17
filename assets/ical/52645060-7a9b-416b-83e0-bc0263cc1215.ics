@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:e95e12f1-2477-4854-abd6-49180d98ff27
+UID:1620da65-7931-4216-acbf-7dcdf9f5c962
 SEQUENCE:0
-DTSTAMP:20250316T231126Z
-DTSTART:20250405T120000
-DTEND:20250405T160000
+DTSTAMP:20250317T035347Z
+DTSTART:20250405T190000
+DTEND:20250405T210000
 SUMMARY:Remove\, Reverse\, Reclaim
 LOCATION:\, Longview\, WA
 DESCRIPTION:Join us as we aim to remove corrupt politicians\, reverse the 
@@ -14,5 +14,6 @@ DESCRIPTION:Join us as we aim to remove corrupt politicians\, reverse the
  involving 50 protests across 50 states.\n\nThe City Circle\, Gazebo
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+Longview
  %2C+WA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

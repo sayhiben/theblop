@@ -2,16 +2,17 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:a502ac02-ef76-4969-af17-ca7dcd7f888a
+UID:c162acd6-cbcd-41bb-be49-f91ddcb79b5a
 SEQUENCE:0
-DTSTAMP:20250311T031638Z
-DTSTART:20250329T110000
-DTEND:20250329T150000
+DTSTAMP:20250317T035347Z
+DTSTART:20250329T180000
+DTEND:20250329T200000
 SUMMARY:Keweenaw Against the Oligarchy Silent Protest
 LOCATION:Veteran’s Memorial Park\, Houghton\, MI
 DESCRIPTION:Join us for a powerful protest against the oligarchy. Our fist
  s will be up in solidarity.\n\nVeteran’s Memorial Park
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Veteran%E2%8
  0%99s+Memorial+Park%2C+Houghton%2C+MI&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

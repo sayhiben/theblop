@@ -2,16 +2,17 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:ef1c30f3-b2f6-4e89-92ba-034a481f4982
+UID:78abd0c3-46a5-4182-a607-5fd41afa5654
 SEQUENCE:0
-DTSTAMP:20250316T000635Z
-DTSTART:20250316T110000
-DTEND:20250316T150000
+DTSTAMP:20250317T035347Z
+DTSTART:20250316T180000
+DTEND:20250316T200000
 SUMMARY:Keep the Rich Out of Politics
 LOCATION:Lake Eola\, Orlando\, FL
 DESCRIPTION:Join us for a protest to make your voices heard and oppose the
   influence of wealth in politics.\n\nLake Eola
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Lake+Eola%2C
  +Orlando%2C+FL&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:98293c6b-182a-49e7-b3a3-742be2c71c6c
+UID:0840a918-0be2-410b-a606-ad4abf3152dc
 SEQUENCE:0
-DTSTAMP:20250316T031514Z
-DTSTART:20250316T110000
-DTEND:20250316T150000
+DTSTAMP:20250317T035347Z
+DTSTART:20250316T180000
+DTEND:20250316T200000
 SUMMARY:Musk or Us: Demand Rep. John Mannion Hold Firm and Fight Back!
 LOCATION:100 S Clinton St\, Syracuse\, NY
 DESCRIPTION:Join us at our rally to demand that Rep. John Mannion holds fi
@@ -14,5 +14,6 @@ DESCRIPTION:Join us at our rally to demand that Rep. John Mannion holds fi
  to amplify our voices.\n\nJames M. Hanley Federal Building
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=100+S+Clinto
  n+St%2C+Syracuse%2C+NY&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

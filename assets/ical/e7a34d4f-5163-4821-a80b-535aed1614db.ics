@@ -2,17 +2,18 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:58758d1f-d937-496f-af42-2b00dbd1e539
+UID:5d58e9d7-5ae3-4487-9445-cb509c2ba86f
 SEQUENCE:0
-DTSTAMP:20250313T031819Z
-DTSTART:20250315T100000
-DTEND:20250315T140000
+DTSTAMP:20250314T072603Z
+DTSTART:20250315T170000
+DTEND:20250315T190000
 SUMMARY:#TeslaTakedown Tacoma
-LOCATION:3701 20th St E\, Fife\, WA 98424 US\, Tacoma\, WA
-DESCRIPTION:Join us in protesting against Tesla. We urge you to sell your 
- Teslas and dump your stock. Stand with us to make a statement: Stop Musk N
- ow!\n\nTesla Service Center
+LOCATION:3701 20th St E\, Fife\, WA
+DESCRIPTION:Join us for a public protest against Tesla. We are organizing 
+ this event to encourage participants to sell their Teslas\, dump their sto
+ ck\, and protest against Musk.\n\nTesla Service Center
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=3701+20th+St
- +E%2C+Fife%2C+WA+98424+US%2C+Tacoma%2C+WA&zoom=15&basemap=roadmap
+ +E%2C+Fife%2C+WA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:83288132-d891-4a2d-99b2-ddcfea46efee
+UID:9945f4c7-f313-4955-8888-2abca42396ed
 SEQUENCE:0
-DTSTAMP:20250307T172420Z
-DTSTART:20250329T110000
-DTEND:20250329T150000
+DTSTAMP:20250317T035347Z
+DTSTART:20250329T180000
+DTEND:20250329T200000
 SUMMARY:March Against the Oligarchy Silent Protest in Houghton
 LOCATION:Veteran's Memorial Park\, Houghton\, MI
 DESCRIPTION:Join us for a powerful protest against the oligarchy. Our fist
@@ -14,5 +14,6 @@ DESCRIPTION:Join us for a powerful protest against the oligarchy. Our fist
  al Park.\n\nVeteran’s Memorial Park
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Veteran%27s+
  Memorial+Park%2C+Houghton%2C+MI&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:00bdf384-042d-4117-ae59-0d3daeb45a9a
+UID:03f7826e-1124-44b2-bdc0-07b3c292da93
 SEQUENCE:0
-DTSTAMP:20250313T031819Z
-DTSTART:20250327T180000
-DTEND:20250327T220000
+DTSTAMP:20250317T035347Z
+DTSTART:20250328T010000
+DTEND:20250328T030000
 SUMMARY:Kenosha Rising
 LOCATION:12304 75th St.\, Kenosha\, WI
 DESCRIPTION:Join us for "Kenosha Rising\," a rally dedicated to shaping Wi
@@ -16,5 +16,6 @@ DESCRIPTION:Join us for "Kenosha Rising\," a rally dedicated to shaping Wi
   to engage and make a difference.\n\nThe Parkway Chateau
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=12304+75th+S
  t.%2C+Kenosha%2C+WI&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

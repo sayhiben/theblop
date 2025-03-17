@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:403bb0c4-b450-4fa3-bcea-115aec974d8e
+UID:880d57c3-a6bf-4ebe-a406-ec94a814f879
 SEQUENCE:0
-DTSTAMP:20250312T090406Z
-DTSTART:20250315T120000
-DTEND:20250315T160000
+DTSTAMP:20250314T072603Z
+DTSTART:20250315T190000
+DTEND:20250315T210000
 SUMMARY:Remove\, Reverse\, Reclaim
 LOCATION:401 S. 2nd St.\, Springfield\, IL
 DESCRIPTION:Join us for a peaceful protest to remove corrupt politicians\,
@@ -14,5 +14,6 @@ DESCRIPTION:Join us for a peaceful protest to remove corrupt politicians\,
  tue\, Illinois State Capitol
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=401+S.+2nd+S
  t.%2C+Springfield%2C+IL&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

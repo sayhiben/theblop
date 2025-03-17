@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:4065e491-136d-41f0-8c8e-2d4355d9f6a8
+UID:00ba4eba-ed41-496b-be16-5aa45c814919
 SEQUENCE:0
-DTSTAMP:20250315T210323Z
-DTSTART:20250501T203000
-DTEND:20250502T003000
+DTSTAMP:20250317T035347Z
+DTSTART:20250502T033000
+DTEND:20250502T053000
 SUMMARY:HELL NO!
 LOCATION:1354 W. Wabansia\, Chicago\, IL
 DESCRIPTION:WELP. Collective presents an evening of songs of protest and r
@@ -14,5 +14,6 @@ DESCRIPTION:WELP. Collective presents an evening of songs of protest and r
   Crooked Mouth\, and Kyra Leigh.\n\nThe Hideout
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=1354+W.+Waba
  nsia%2C+Chicago%2C+IL&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

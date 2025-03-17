@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:21e83fdb-3f3c-4e16-a4c2-a975c10412de
+UID:a8b9027a-f235-43b3-ae6b-acb0b531241c
 SEQUENCE:0
-DTSTAMP:20250313T201359Z
-DTSTART:20250315T090000
-DTEND:20250315T130000
+DTSTAMP:20250314T072603Z
+DTSTART:20250315T160000
+DTEND:20250315T180000
 SUMMARY:STOP XAI PROTEST AND RALLY
 LOCATION:1500 W Mitchell Rd\, Memphis\, TN
 DESCRIPTION:Join community members at T.O. Fuller Park to say NO to xAI. T
@@ -14,5 +14,6 @@ DESCRIPTION:Join community members at T.O. Fuller Park to say NO to xAI. T
  etter!\n\nT.O. Fuller State Park
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=1500+W+Mitch
  ell+Rd%2C+Memphis%2C+TN&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

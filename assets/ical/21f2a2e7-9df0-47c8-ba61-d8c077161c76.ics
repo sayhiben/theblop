@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:a5ad636c-ec01-4515-8074-f54eadba661f
+UID:efaccb75-670e-4d31-93a7-cd44b67dcc5d
 SEQUENCE:0
-DTSTAMP:20250316T031514Z
-DTSTART:20250318T093000
-DTEND:20250318T133000
+DTSTAMP:20250317T035347Z
+DTSTART:20250318T163000
+DTEND:20250318T183000
 SUMMARY:Duval Doge Protest
 LOCATION:117 W Duval St\, Jacksonville\, FL
 DESCRIPTION:We aim to stop the Duval DOGE process\, a probable campaign st
@@ -16,5 +16,6 @@ DESCRIPTION:We aim to stop the Duval DOGE process\, a probable campaign st
  ts Room\, City Hall
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=117+W+Duval+
  St%2C+Jacksonville%2C+FL&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

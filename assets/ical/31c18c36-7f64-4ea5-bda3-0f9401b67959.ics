@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:6aa0630f-9bba-4c91-9274-b30ef586afd1
+UID:09b3f5c5-3181-45c3-bb53-562c2926bc16
 SEQUENCE:0
-DTSTAMP:20250311T043711Z
-DTSTART:20250329T120000
-DTEND:20250329T160000
+DTSTAMP:20250317T035347Z
+DTSTART:20250329T190000
+DTEND:20250329T210000
 SUMMARY:Musk-Tesla Protest
 LOCATION:1606 N Lincoln Ave\, Loveland\, CO 80538
 DESCRIPTION:A peaceful protest to stand up together in support of our cons
@@ -15,5 +15,6 @@ DESCRIPTION:A peaceful protest to stand up together in support of our cons
   heart with our community.\n\nEvery Saturday
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=1606+N+Linco
  ln+Ave%2C+Loveland%2C+CO+80538&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

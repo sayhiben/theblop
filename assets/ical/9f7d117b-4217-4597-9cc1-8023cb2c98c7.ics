@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:15d7792a-d421-432b-8f05-d93dc09febc9
+UID:22f1677b-d6db-4921-b116-9dbbcf789c68
 SEQUENCE:0
-DTSTAMP:20250316T231126Z
-DTSTART:20250501T000000
-DTEND:20250501T040000
+DTSTAMP:20250317T035347Z
+DTSTART:20250501T070000
+DTEND:20250501T090000
 SUMMARY:MAYDAY!
 LOCATION:\, Washington\, DC
 DESCRIPTION:Join us for Camp Mayday\, a vision of protest\, art\, and chan
@@ -14,5 +14,6 @@ DESCRIPTION:Join us for Camp Mayday\, a vision of protest\, art\, and chan
  ach and remove.\n\n
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+Washingt
  on%2C+DC&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

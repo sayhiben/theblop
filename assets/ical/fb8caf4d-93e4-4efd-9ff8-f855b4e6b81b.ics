@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:8f5fc33a-b216-4a5e-8c4b-5a8052cd1f02
+UID:a16cf325-d33c-464e-8441-a072e88bb32e
 SEQUENCE:0
-DTSTAMP:20250310T235109Z
-DTSTART:20250314T120000
-DTEND:20250314T160000
+DTSTAMP:20250314T072603Z
+DTSTART:20250314T190000
+DTEND:20250314T210000
 SUMMARY:Veterans Nonpartisan Protest
 LOCATION:The Utah State Capitol\, Salt Lake City\, UT
 DESCRIPTION:We didn't take an oath to a king. We will support and defend t
@@ -15,5 +15,6 @@ DESCRIPTION:We didn't take an oath to a king. We will support and defend t
  een to Support The Vets
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=The+Utah+Sta
  te+Capitol%2C+Salt+Lake+City%2C+UT&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

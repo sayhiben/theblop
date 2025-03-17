@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:c5987028-babd-4847-9000-76bf37ebe407
+UID:d2c7c889-29e3-47c4-97c3-fb5ee9626293
 SEQUENCE:0
-DTSTAMP:20250316T231125Z
-DTSTART:20250320T150000
-DTEND:20250320T190000
+DTSTAMP:20250317T035347Z
+DTSTART:20250320T220000
+DTEND:20250321T000000
 SUMMARY:Tell Senator Cantwell to Stand Up & Fight for Us!
 LOCATION:915 2nd Ave\, Seattle\, WA
 DESCRIPTION:Join us as we rally at the Seattle Office to call on Senator C
@@ -15,5 +15,6 @@ DESCRIPTION:Join us as we rally at the Seattle Office to call on Senator C
  lding
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=915+2nd+Ave%
  2C+Seattle%2C+WA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:0f38af03-51c5-4188-a348-de184cf93770
+UID:4cb3d96f-c62e-4cf9-a0b8-96211665bd7a
 SEQUENCE:0
-DTSTAMP:20250316T000636Z
-DTSTART:20250323T150000
-DTEND:20250323T190000
+DTSTAMP:20250317T035347Z
+DTSTART:20250323T220000
+DTEND:20250324T000000
 SUMMARY:The #ResignSchumer Protest Tour 2025!
 LOCATION:Moss Theatre\, Santa Monica\, CA
 DESCRIPTION:Join us for a large protest event targeting political figures 
@@ -14,5 +14,6 @@ DESCRIPTION:Join us for a large protest event targeting political figures
   and make their voices heard.\n\nMoss Theatre Santa Monica\, CA
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Moss+Theatre
  %2C+Santa+Monica%2C+CA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

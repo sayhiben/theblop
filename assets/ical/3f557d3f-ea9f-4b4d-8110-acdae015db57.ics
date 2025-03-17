@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:4712bb8e-892c-45eb-8a44-7a89e570240a
+UID:3d3714d9-6c63-4ab6-9265-b8b8ec6df277
 SEQUENCE:0
-DTSTAMP:20250313T000603Z
-DTSTART:20250315T100000
-DTEND:20250315T140000
+DTSTAMP:20250314T072603Z
+DTSTART:20250315T170000
+DTEND:20250315T190000
 SUMMARY:Democrats for Action Rally
 LOCATION:707 W 47th Street\, Kansas City\, MO
 DESCRIPTION:Join us for a rally aimed at bringing together regional groups
@@ -15,5 +15,6 @@ DESCRIPTION:Join us for a rally aimed at bringing together regional groups
   On The Plaza
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=707+W+47th+S
  treet%2C+Kansas+City%2C+MO&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

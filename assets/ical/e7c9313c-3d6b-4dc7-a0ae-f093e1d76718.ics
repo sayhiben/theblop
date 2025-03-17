@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:0c4b0778-71af-4d62-a74c-7005526e5c80
+UID:7c06f231-ae3d-4d8f-876c-010dba9fd34e
 SEQUENCE:0
-DTSTAMP:20250314T210257Z
-DTSTART:20250318T120000
-DTEND:20250318T160000
+DTSTAMP:20250317T035347Z
+DTSTART:20250318T190000
+DTEND:20250318T210000
 SUMMARY:Hands Off Medicaid
 LOCATION:\, Missoula\, MT
 DESCRIPTION:We are organizing a protest in Missoula to oppose changes to M
@@ -14,5 +14,6 @@ DESCRIPTION:We are organizing a protest in Missoula to oppose changes to M
  erns and stand together.\n\nUnion Club Bar
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+Missoula
  %2C+MT&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

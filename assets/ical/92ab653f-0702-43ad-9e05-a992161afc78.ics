@@ -2,16 +2,17 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:219da79d-5515-43a4-8287-de34d744402f
+UID:0de88c07-3b77-42b9-bb5d-bead8ed19126
 SEQUENCE:0
-DTSTAMP:20250310T180824Z
-DTSTART:20250315T120000
-DTEND:20250315T160000
+DTSTAMP:20250314T072603Z
+DTSTART:20250315T190000
+DTEND:20250315T210000
 SUMMARY:March for Our Public Lands
 LOCATION:1220 SW 3rd Ave Portland
 DESCRIPTION:Join us to protect our public lands and oppose the Trump admin
  istration's policies.\n\nEdith Green Federal Building
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=1220+SW+3rd+
  Ave+Portland&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

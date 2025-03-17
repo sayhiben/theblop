@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:2f746519-d362-411b-8c79-810db93bd819
+UID:4abea0df-491f-4cd1-a3b2-165675b8baa5
 SEQUENCE:0
-DTSTAMP:20250316T050604Z
-DTSTART:20250317T120000
-DTEND:20250317T160000
+DTSTAMP:20250317T035347Z
+DTSTART:20250317T190000
+DTEND:20250317T210000
 SUMMARY:TESLATAKEDOWN
 LOCATION:2919 29th St SE\, Grand Rapids\, MI
 DESCRIPTION:We are organizing a protest to voice opposition to Tesla and i
@@ -14,5 +14,6 @@ DESCRIPTION:We are organizing a protest to voice opposition to Tesla and i
  wroom
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=2919+29th+St
  +SE%2C+Grand+Rapids%2C+MI&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

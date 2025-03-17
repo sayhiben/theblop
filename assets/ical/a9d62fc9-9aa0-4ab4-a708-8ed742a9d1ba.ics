@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:13cf9cd0-7af2-4ecf-b459-ab5738fd9066
+UID:2b47c4da-01b5-4e58-a98a-3c5ac4cc5ed0
 SEQUENCE:0
-DTSTAMP:20250313T031818Z
-DTSTART:20250315T110000
-DTEND:20250315T150000
+DTSTAMP:20250314T072603Z
+DTSTART:20250315T180000
+DTEND:20250315T200000
 SUMMARY:Tesla Takedown
 LOCATION:1568 West Chester Pike\, West Chester\, PA
 DESCRIPTION:We are taking action at Tesla. Sell your Teslas\, dump your st
@@ -15,5 +15,6 @@ DESCRIPTION:We are taking action at Tesla. Sell your Teslas\, dump your st
  No one is coming to save us—not politicians\, not the media.\n\nTesla
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=1568+West+Ch
  ester+Pike%2C+West+Chester%2C+PA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

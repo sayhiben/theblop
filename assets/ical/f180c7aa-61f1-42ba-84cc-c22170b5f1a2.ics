@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:58e1ab1c-a0e0-44f0-9af6-863d2ad9532c
+UID:cf28c39d-8476-4e37-b9e0-2775e99146c9
 SEQUENCE:0
-DTSTAMP:20250313T000603Z
-DTSTART:20250320T183000
-DTEND:20250320T223000
+DTSTAMP:20250317T035347Z
+DTSTART:20250321T013000
+DTEND:20250321T033000
 SUMMARY:Town Hall for District 4
 LOCATION:Faucett Brothers Activity Center\, Northport\, AL
 DESCRIPTION:A platform to discuss matters shaping our lives and community.
@@ -15,5 +15,6 @@ DESCRIPTION:A platform to discuss matters shaping our lives and community.
   Activity Center
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Faucett+Brot
  hers+Activity+Center%2C+Northport%2C+AL&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

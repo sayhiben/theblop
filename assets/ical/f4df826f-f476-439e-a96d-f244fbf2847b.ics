@@ -2,16 +2,16 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:47cb1828-c08c-4437-8aca-6284953fe8ee
+UID:85a79363-7365-47c4-95da-9cea4b8faca9
 SEQUENCE:0
-DTSTAMP:20250310T121109Z
-DTSTART:20250315T120000
-DTEND:20250315T160000
+DTSTAMP:20250314T072603Z
+DTSTART:20250315T190000
+DTEND:20250315T210000
 SUMMARY:Corruption Destroys\, Community Builds
 LOCATION:City Hall\, Philadelphia\, PA
-DESCRIPTION:Join us to make clear that fascism is not welcome here and tha
- t we will resist Trump's immoral agenda.\n\n140 N. Independence Mall West
+DESCRIPTION:\n\n140 N. Independence Mall West
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=City+Hall%2C
  +Philadelphia%2C+PA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

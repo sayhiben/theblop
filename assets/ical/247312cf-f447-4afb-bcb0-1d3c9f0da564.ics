@@ -2,17 +2,18 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:1835491e-f11f-4994-a357-33e2f64f17cc
+UID:7112acff-e114-4c13-9f1f-939dbb7b2df6
 SEQUENCE:0
-DTSTAMP:20250310T021352Z
-DTSTART:20250313T190000
-DTEND:20250313T230000
+DTSTAMP:20250314T065639Z
+DTSTART:20250314T020000
+DTEND:20250314T040000
 SUMMARY:Town Hall Meeting with Tom Malinowski
-LOCATION:Summit Elks Lodge\, 40 Maple St.\, Summit\, Summit\, NJ
+LOCATION:40 Maple St.\, Summit\, Summit\, NJ
 DESCRIPTION:Join former Congressman Tom Malinowski for a town hall meeting
   to discuss the current moment and what citizens can do to protect democra
  cy.\n\nSummit Elks Lodge\, 40 Maple St.\, Summit
-URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Summit+Elks+
- Lodge%2C+40+Maple+St.%2C+Summit%2C+Summit%2C+NJ&zoom=15&basemap=roadmap
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=40+Maple+St.
+ %2C+Summit%2C+Summit%2C+NJ&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

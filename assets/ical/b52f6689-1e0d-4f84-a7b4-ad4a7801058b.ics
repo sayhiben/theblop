@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:1b9d3fc2-5209-438a-8382-e6cf58485333
+UID:fe2bd88e-7cf6-40f9-9b15-7d10ce30f1a3
 SEQUENCE:0
-DTSTAMP:20250310T021352Z
-DTSTART:20250314T120000
-DTEND:20250314T160000
+DTSTAMP:20250314T072603Z
+DTSTART:20250314T190000
+DTEND:20250314T210000
 SUMMARY:Veterans March Against Tyranny
 LOCATION:510 L Street\, Anchorage\, AK
 DESCRIPTION:Join us to support and defend the Constitution of the United S
@@ -14,5 +14,6 @@ DESCRIPTION:Join us to support and defend the Constitution of the United S
  th and allegiance to the same.\n\nAnchorage
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=510+L+Street
  %2C+Anchorage%2C+AK&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

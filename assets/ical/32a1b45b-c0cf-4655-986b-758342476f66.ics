@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:d5fd1af0-1585-4c64-a61d-3d533313dc8c
+UID:df2e5e16-8d10-4dfb-acc2-c72a57dd3980
 SEQUENCE:0
-DTSTAMP:20250313T060225Z
-DTSTART:20250315T103000
-DTEND:20250315T143000
+DTSTAMP:20250314T072603Z
+DTSTART:20250315T173000
+DTEND:20250315T193000
 SUMMARY:Lincoln Day Luncheon Protest
 LOCATION:101 W Main Street\, Toulon\, IL
 DESCRIPTION:Join us for a protest against Rep. Darin LaHood who has not he
@@ -15,5 +15,6 @@ DESCRIPTION:Join us for a protest against Rep. Darin LaHood who has not he
  gazebo caddy corner from the Bistro
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=101+W+Main+S
  treet%2C+Toulon%2C+IL&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

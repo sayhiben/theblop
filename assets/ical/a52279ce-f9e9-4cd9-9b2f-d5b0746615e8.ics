@@ -2,16 +2,17 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:ed9475c9-058f-4b52-bbf7-5fe7053e776c
+UID:9064ee9a-cea5-45a2-8ad0-24d3d50a2be0
 SEQUENCE:0
-DTSTAMP:20250307T002649Z
-DTSTART:20250315T110000
-DTEND:20250315T150000
+DTSTAMP:20250314T072603Z
+DTSTART:20250315T180000
+DTEND:20250315T200000
 SUMMARY:Port Orchard Peoples March
-LOCATION:Waterfront Park to City Hall\, Port Orchard\, WA
+LOCATION: to City Hall\, Port Orchard\, WA
 DESCRIPTION:A call to action for a community march in support of DEI\, equ
  ality\, and safety.\n\n1024 Main St.
-URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Waterfront+P
- ark+to+City+Hall%2C+Port+Orchard%2C+WA&zoom=15&basemap=roadmap
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=+to+City+Hal
+ l%2C+Port+Orchard%2C+WA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

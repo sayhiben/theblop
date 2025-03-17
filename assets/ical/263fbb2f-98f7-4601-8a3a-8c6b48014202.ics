@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:473f8bdb-d3fc-40a1-88eb-ab2255ca4d9e
+UID:61d86846-15e4-4a9b-b5d3-e3d31abb7a5a
 SEQUENCE:0
-DTSTAMP:20250312T090406Z
-DTSTART:20250314T170000
-DTEND:20250314T210000
+DTSTAMP:20250314T072603Z
+DTSTART:20250315T000000
+DTEND:20250315T020000
 SUMMARY:Rally to Save the Civil Service
 LOCATION:1 Clinton Square\, Albany\, NY
 DESCRIPTION:Join us in Albany to stand up for civil service workers and ad
@@ -15,5 +15,6 @@ DESCRIPTION:Join us in Albany to stand up for civil service workers and ad
  n Building
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=1+Clinton+Sq
  uare%2C+Albany%2C+NY&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

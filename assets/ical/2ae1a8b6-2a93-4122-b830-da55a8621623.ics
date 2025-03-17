@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:fcd2b2f2-11bf-423b-9381-c6ad5146bc3f
+UID:370acaa0-0030-4577-92f3-531a0b430d54
 SEQUENCE:0
-DTSTAMP:20250312T150224Z
-DTSTART:20250315T120000
-DTEND:20250315T160000
+DTSTAMP:20250314T072603Z
+DTSTART:20250315T190000
+DTEND:20250315T210000
 SUMMARY:EJECT MUSK BOYCOTT TESLA
 LOCATION:3535 W Henrietta\, Henrietta\, NY
 DESCRIPTION:We are organizing a protest to oppose the coup and make our vo
@@ -14,5 +14,6 @@ DESCRIPTION:We are organizing a protest to oppose the coup and make our vo
  \n\nTesla Showroom
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=3535+W+Henri
  etta%2C+Henrietta%2C+NY&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:ba196127-0baf-4c1b-b988-89c4d7f90de4
+UID:40245de0-0d95-421e-8659-3e25f067a282
 SEQUENCE:0
-DTSTAMP:20250313T031818Z
-DTSTART:20250314T160000
-DTEND:20250314T200000
+DTSTAMP:20250314T072603Z
+DTSTART:20250314T230000
+DTEND:20250315T010000
 SUMMARY:Protest Tesla!
 LOCATION:6500 Cedar Springs Rd\, Dallas\, TX
 DESCRIPTION:We are taking action at Tesla to protest against the company\,
@@ -17,5 +17,6 @@ DESCRIPTION:We are taking action at Tesla to protest against the company\,
  er
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=6500+Cedar+S
  prings+Rd%2C+Dallas%2C+TX&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

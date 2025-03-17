@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:1b4122cb-6f97-4bf4-92d3-001dda4c6a6e
+UID:fc90180e-1899-44d1-9b60-bbb493188e95
 SEQUENCE:0
-DTSTAMP:20250312T090406Z
-DTSTART:20250320T160000
-DTEND:20250320T200000
+DTSTAMP:20250317T035347Z
+DTSTART:20250320T230000
+DTEND:20250321T010000
 SUMMARY:US Mail Not For Sale - Day of Action
 LOCATION:2105 E Cook St.\, Springfield\, IL
 DESCRIPTION:We are organizing a National Day of Action focused on the them
@@ -15,5 +15,6 @@ DESCRIPTION:We are organizing a National Day of Action focused on the them
   Post Office
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=2105+E+Cook+
  St.%2C+Springfield%2C+IL&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

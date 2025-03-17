@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:1fae26d8-8d67-43d9-abaa-4dc78ae3d4ec
+UID:30d50f83-d122-4489-b021-b8204a177eb9
 SEQUENCE:0
-DTSTAMP:20250315T180240Z
-DTSTART:20250405T130000
-DTEND:20250405T170000
+DTSTAMP:20250317T035347Z
+DTSTART:20250405T200000
+DTEND:20250405T220000
 SUMMARY:HERE & QUEER
 LOCATION:Findlay Playground\, Cincinnati\, OH
 DESCRIPTION:This is a march for trans and non-binary visibility and justic
@@ -16,5 +16,6 @@ DESCRIPTION:This is a march for trans and non-binary visibility and justic
  d
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Findlay+Play
  ground%2C+Cincinnati%2C+OH&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

@@ -2,19 +2,19 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:f058aa9f-9c2d-4f51-9323-6d0cdd41ada4
+UID:e755190f-b089-49b1-9c7b-7ac8edc82075
 SEQUENCE:0
-DTSTAMP:20250313T031819Z
-DTSTART:20250315T100000
-DTEND:20250315T140000
+DTSTAMP:20250314T072603Z
+DTSTART:20250315T170000
+DTEND:20250315T190000
 SUMMARY:#TeslaTakedown Bellevue Square
 LOCATION:821 Bellevue Way
-DESCRIPTION:We are taking action against Elon Musk's alleged illegal actio
- ns and promoting the cessation of his influence via Tesla. Join us for a p
- rotest to say NO TO MAGA-Fascism. Participants should bring signs and come
-  ready to voice their opinions peacefully.\n\nCorner of NE 8th and Bellevu
- e Way NE
+DESCRIPTION:Join us at Bellevue Square to say NO TO MAGA-Fascism! We'll ga
+ ther on the sidewalk at the corner of NE 8th St and Bellevue Way NE to tel
+ l our neighbors it's time to ditch Tesla and stop the coup!\n\nCorner of N
+ E 8th and Bellevue Way NE
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=821+Bellevue
  +Way&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

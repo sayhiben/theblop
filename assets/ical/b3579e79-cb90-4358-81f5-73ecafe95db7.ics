@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:b55957ec-3e99-44c9-8b57-53228dc35ea4
+UID:db4a6bc7-c232-4d89-8bdb-97b99f0c3030
 SEQUENCE:0
-DTSTAMP:20250316T090229Z
-DTSTART:20250317T110000
-DTEND:20250317T150000
+DTSTAMP:20250317T035347Z
+DTSTART:20250317T180000
+DTEND:20250317T200000
 SUMMARY:Community March
 LOCATION:1750 Welton St\, Denver\, CO
 DESCRIPTION:Join us for a Community March as part of Latino Advocacy Day\,
@@ -14,5 +14,6 @@ DESCRIPTION:Join us for a Community March as part of Latino Advocacy Day\,
  ge.\n\n
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=1750+Welton+
  St%2C+Denver%2C+CO&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

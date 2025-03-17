@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:cf51198d-3cc5-487f-add9-281486e4f169
+UID:d80348f0-70e1-4de4-bd0b-04d93d0986f7
 SEQUENCE:0
-DTSTAMP:20250312T203050Z
-DTSTART:20250314T160000
-DTEND:20250314T200000
+DTSTAMP:20250314T072603Z
+DTSTART:20250314T230000
+DTEND:20250315T010000
 SUMMARY:Friday At Four Protest
 LOCATION:Route 38 and Ark Rd\, Aldi's corner\, Mt Laurel\, NJ
 DESCRIPTION:Join us for our weekly “Friday At Four” protest\, advocati
@@ -15,5 +15,6 @@ DESCRIPTION:Join us for our weekly “Friday At Four” protest\, advocati
  ic area during rush hour.\n\nRoute 38 and Ark Rd\, Aldi's corner
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Route+38+and
  +Ark+Rd%2C+Aldi%27s+corner%2C+Mt+Laurel%2C+NJ&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

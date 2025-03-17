@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:754ec178-3be6-4be8-84d1-0cd9ba61ea6a
+UID:bca583f4-4c06-4359-93e5-a9d787bd81cd
 SEQUENCE:0
-DTSTAMP:20250315T210323Z
-DTSTART:20250405T100000
-DTEND:20250405T140000
+DTSTAMP:20250317T035347Z
+DTSTART:20250405T170000
+DTEND:20250405T190000
 SUMMARY:Peaceful Protest
 LOCATION:1733 E Young Circle\, Hollywood\, FL
 DESCRIPTION:Join us for a Peaceful Protest organized by the 50501 Movement
@@ -14,5 +14,6 @@ DESCRIPTION:Join us for a Peaceful Protest organized by the 50501 Movement
  our democracy.\n\nArts Park
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=1733+E+Young
  +Circle%2C+Hollywood%2C+FL&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

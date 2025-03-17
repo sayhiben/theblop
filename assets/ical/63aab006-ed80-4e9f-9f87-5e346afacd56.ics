@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:6a48328d-6162-4e07-b763-a509e1b22dc5
+UID:de03363c-9ee6-4ca4-8035-ff9c478ae824
 SEQUENCE:0
-DTSTAMP:20250311T090339Z
-DTSTART:20250314T170000
-DTEND:20250314T210000
+DTSTAMP:20250314T072603Z
+DTSTART:20250315T000000
+DTEND:20250315T020000
 SUMMARY:Ypsilanti 50501 Bridge Takeover
 LOCATION:Redwood Avenue pedestrian bridge\, BEHIND ACCE high school\, Ypsi
  lanti\, MI
@@ -24,5 +24,6 @@ DESCRIPTION:Protest For our Democracy. Bring a sign and your voice! We are
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Redwood+Aven
  ue+pedestrian+bridge%2C+BEHIND+ACCE+high+school%2C+Ypsilanti%2C+MI&zoom=15
  &basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:7e4f3aa3-6965-4fcf-b0e4-972793d9551d
+UID:3fb789b3-a915-46a2-97d6-f9606754669f
 SEQUENCE:0
-DTSTAMP:20250313T031818Z
-DTSTART:20250314T120000
-DTEND:20250314T160000
+DTSTAMP:20250314T072603Z
+DTSTART:20250314T190000
+DTEND:20250314T210000
 SUMMARY:Weekly Climate Vigil
 LOCATION:King Plaza\, 250 Hamilton Ave\, Palo Alto\, CA 94301\, USA
 DESCRIPTION:Join us every Friday as we conduct a climate strike to demonst
@@ -15,5 +15,6 @@ DESCRIPTION:Join us every Friday as we conduct a climate strike to demonst
  pends on acting now.\n\nKing Plaza\, Palo Alto City Hall
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=King+Plaza%2
  C+250+Hamilton+Ave%2C+Palo+Alto%2C+CA+94301%2C+USA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

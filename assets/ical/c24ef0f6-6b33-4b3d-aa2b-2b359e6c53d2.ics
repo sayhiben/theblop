@@ -2,16 +2,17 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:2457139f-d102-4987-a576-b89427d4aa98
+UID:92609dd6-591d-4561-b483-90bf200c5e2b
 SEQUENCE:0
-DTSTAMP:20250310T235109Z
-DTSTART:20250313T173000
-DTEND:20250313T213000
+DTSTAMP:20250314T065639Z
+DTSTART:20250314T003000
+DTEND:20250314T023000
 SUMMARY:Postcards of Protest
 LOCATION:2900 W Broad St.\, Richmond\, VA
 DESCRIPTION:Join us at Bingo Beer as we write our postcards for this inter
  national event—or drop off a postcard you've already made!\n\nBingo Beer
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=2900+W+Broad
  +St.%2C+Richmond%2C+VA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

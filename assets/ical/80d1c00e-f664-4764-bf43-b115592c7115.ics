@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:4094b432-6253-4504-bc4d-c54daad92af8
+UID:12a9f715-0e93-417c-9dcb-ac695d2c7c03
 SEQUENCE:0
-DTSTAMP:20250316T031514Z
-DTSTART:20250405T110000
-DTEND:20250405T150000
+DTSTAMP:20250317T035347Z
+DTSTART:20250405T180000
+DTEND:20250405T200000
 SUMMARY:REMOVE REVERSE RECLAIM
 LOCATION:\, Watertown\, NY
 DESCRIPTION:Join us in Watertown\, NY\, to participate in a crucial protes
@@ -16,5 +16,6 @@ DESCRIPTION:Join us in Watertown\, NY\, to participate in a crucial protes
  e. Be part of our collective effort to instigate change.\n\nPublic Square
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+Watertow
  n%2C+NY&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

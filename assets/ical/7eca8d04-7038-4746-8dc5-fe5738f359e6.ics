@@ -2,16 +2,17 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:6746bb87-a527-4930-9aca-fe6cfc6ad4d8
+UID:87c5b8df-0ddc-4ab3-af5d-5dda3b44c74d
 SEQUENCE:0
-DTSTAMP:20250307T085925Z
-DTSTART:20250324T143000
-DTEND:20250324T183000
+DTSTAMP:20250317T035347Z
+DTSTART:20250324T213000
+DTEND:20250324T233000
 SUMMARY:Protest Rally to Face His Constituents
-LOCATION:1600 N. Birch St.\, Flagstaff City Hall lawn\, AZ
+LOCATION:211 W Aspen Ave\, Flagstaff City Hall lawn\, AZ
 DESCRIPTION:Join us for a PROTEST RALLY Tell ELI CRANE to FACE HIS CONSTIT
  UENTS Featured Speaker: Jonathan Nez\n\nFlagstaff City Hall lawn
-URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=1600+N.+Birc
- h+St.%2C+Flagstaff+City+Hall+lawn%2C+AZ&zoom=15&basemap=roadmap
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=211+W+Aspen+
+ Ave%2C+Flagstaff+City+Hall+lawn%2C+AZ&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

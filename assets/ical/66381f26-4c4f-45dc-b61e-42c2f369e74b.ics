@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:de5ce895-cea6-4988-8801-4d93d8cf759b
+UID:fe0010d8-21c7-42cb-a21a-952891d20ffb
 SEQUENCE:0
-DTSTAMP:20250314T210257Z
-DTSTART:20250320T170000
-DTEND:20250320T210000
+DTSTAMP:20250317T035347Z
+DTSTART:20250321T000000
+DTEND:20250321T020000
 SUMMARY:Fighting Oligarchy: Where We Go From Here with Bernie Sanders in T
  empe
 LOCATION:Mullett Arena\, Tempe\, AZ
@@ -16,5 +16,6 @@ DESCRIPTION:We’re hosting an exciting event with Bernie Sanders and spec
  this cause.\n\nArizona State
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Mullett+Aren
  a%2C+Tempe%2C+AZ&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

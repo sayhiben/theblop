@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:7c66daff-afd0-4be5-a788-2cbf3c24dc41
+UID:11407add-d27f-46bb-b21a-e26634ac721f
 SEQUENCE:0
-DTSTAMP:20250315T210323Z
-DTSTART:20250405T120000
-DTEND:20250405T160000
+DTSTAMP:20250317T035347Z
+DTSTART:20250405T190000
+DTEND:20250405T210000
 SUMMARY:50501: The People's Movement
 LOCATION:300 6th Street\, Rapid City\, SD
 DESCRIPTION:We are hosting a peaceful assembly to unite against oppression
@@ -14,5 +14,6 @@ DESCRIPTION:We are hosting a peaceful assembly to unite against oppression
  of 50 states\, 50 protests\, 1 movement.\n\nCity Hall
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=300+6th+Stre
  et%2C+Rapid+City%2C+SD&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

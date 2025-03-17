@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:21a26384-2351-452f-b939-8710b115a991
+UID:f861853c-e221-4832-92f2-3b6e4e12d221
 SEQUENCE:0
-DTSTAMP:20250315T000533Z
-DTSTART:20250318T120000
-DTEND:20250318T160000
+DTSTAMP:20250317T035347Z
+DTSTART:20250318T190000
+DTEND:20250318T210000
 SUMMARY:Senator Brian Schatz Meeting
 LOCATION:300 Ala Moana Blvd\, Honolulu\, HI
 DESCRIPTION:Join us for a meeting with Senator Brian Schatz at the Federal
@@ -14,5 +14,6 @@ DESCRIPTION:Join us for a meeting with Senator Brian Schatz at the Federal
   prior to the meeting.\n\nPrince Kuhio Federal Building
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=300+Ala+Moan
  a+Blvd%2C+Honolulu%2C+HI&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

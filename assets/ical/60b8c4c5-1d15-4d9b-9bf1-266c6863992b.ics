@@ -2,16 +2,17 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:7016cd4d-f2cc-4747-ac53-82d40feb8204
+UID:dd411e15-534d-41b3-9d5b-f2466b01554f
 SEQUENCE:0
-DTSTAMP:20250312T203050Z
-DTSTART:20250329T120000
-DTEND:20250329T160000
+DTSTAMP:20250317T035347Z
+DTSTART:20250329T190000
+DTEND:20250329T210000
 SUMMARY:Weekly Sing Out
 LOCATION:294 Main St (corner of Park & Main)\, Rockland\, ME
 DESCRIPTION:Join us for Weekly Sing Out with the protest group Audacity. I
  t's happening every Saturday for a lively gathering.\n\nChapman Park
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=294+Main+St+
  %28corner+of+Park+%26+Main%29%2C+Rockland%2C+ME&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

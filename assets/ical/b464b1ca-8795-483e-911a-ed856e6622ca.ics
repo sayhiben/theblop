@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:f0c2bdb4-901b-4bd1-8ebc-7ad0e0f153cf
+UID:9e064930-53d5-4ced-a41b-6fc11960ca5c
 SEQUENCE:0
-DTSTAMP:20250313T193217Z
-DTSTART:20250315T120000
-DTEND:20250315T160000
+DTSTAMP:20250314T072603Z
+DTSTART:20250315T190000
+DTEND:20250315T210000
 SUMMARY:Unity Rally
 LOCATION:\, Portsmouth\, 
 DESCRIPTION:Join us as we stand together against fascists marching in Port
@@ -15,5 +15,6 @@ DESCRIPTION:Join us as we stand together against fascists marching in Port
  eard.\n\nGuildhall Square
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+Portsmou
  th%2C+&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

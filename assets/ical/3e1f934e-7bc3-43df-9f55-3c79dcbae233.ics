@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:3a0be8b0-da2d-45fe-9bee-626ff1ad927b
+UID:cf5eac90-62d3-418b-ad13-2db676e94870
 SEQUENCE:0
-DTSTAMP:20250313T031818Z
-DTSTART:20250315T110000
-DTEND:20250315T150000
+DTSTAMP:20250314T072603Z
+DTSTART:20250315T180000
+DTEND:20250315T200000
 SUMMARY:TeslaTakedown Lyndhurst
 LOCATION:5180 Mayfield road\, Lyndhurst\, OH
 DESCRIPTION:We are organizing a protest at Tesla\, encouraging participant
@@ -15,5 +15,6 @@ DESCRIPTION:We are organizing a protest at Tesla\, encouraging participant
   and our democracy. Join us for this important cause.\n\nTesla Lyndhurst
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=5180+Mayfiel
  d+road%2C+Lyndhurst%2C+OH&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

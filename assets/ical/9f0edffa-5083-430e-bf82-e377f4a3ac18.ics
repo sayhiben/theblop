@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:b3c2f737-51bb-4335-9f13-8752f6e9e907
+UID:b9fa707b-efe1-4ddd-a5fc-77ed6b5750ab
 SEQUENCE:0
-DTSTAMP:20250316T000636Z
-DTSTART:20250405T110000
-DTEND:20250405T150000
+DTSTAMP:20250317T035347Z
+DTSTART:20250405T180000
+DTEND:20250405T200000
 SUMMARY:VETO Project 2025
 LOCATION:Washington Park\, Cincinnati\, OH
 DESCRIPTION:We the People organize a national day of action to reject the 
@@ -15,5 +15,6 @@ DESCRIPTION:We the People organize a national day of action to reject the
  ent.\n\nWashington Park
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Washington+P
  ark%2C+Cincinnati%2C+OH&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

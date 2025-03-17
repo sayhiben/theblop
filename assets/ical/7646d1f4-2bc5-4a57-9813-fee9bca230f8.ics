@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:d320b5b5-103c-40fb-9d8d-4b83da7840db
+UID:83c8a6d3-41ea-4c9e-9728-5de9ce5367db
 SEQUENCE:0
-DTSTAMP:20250313T031819Z
-DTSTART:20250329T110000
-DTEND:20250329T150000
+DTSTAMP:20250317T035347Z
+DTSTART:20250329T180000
+DTEND:20250329T200000
 SUMMARY:TeslaTakedown Tysons
 LOCATION:8500 Tyco Road\, Tysons Corner\, VA 22182 US
 DESCRIPTION:We are organizing a protest event called 'TeslaTakedown Tysons
@@ -15,5 +15,6 @@ DESCRIPTION:We are organizing a protest event called 'TeslaTakedown Tysons
  \n\nTysons Corner Tesla
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=8500+Tyco+Ro
  ad%2C+Tysons+Corner%2C+VA+22182+US&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

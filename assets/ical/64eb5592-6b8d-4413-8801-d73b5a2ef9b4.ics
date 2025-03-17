@@ -2,16 +2,17 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:01d5e066-250d-4ebf-89b2-7d59d3415b32
+UID:351d0ccc-363d-42da-98ce-ae2f1f717b84
 SEQUENCE:0
-DTSTAMP:20250311T180234Z
-DTSTART:20250401T150000
-DTEND:20250401T190000
+DTSTAMP:20250317T035347Z
+DTSTART:20250401T220000
+DTEND:20250402T000000
 SUMMARY:Suffer No Fools
 LOCATION:Greenville City Hall\, Greenville\, SC
 DESCRIPTION:The rally is organized to protest against the attack on scienc
  e and academia. Join us to stand up for facts and truth.\n\n
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Greenville+C
  ity+Hall%2C+Greenville%2C+SC&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

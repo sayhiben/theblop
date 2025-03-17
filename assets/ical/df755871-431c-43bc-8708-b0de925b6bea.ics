@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:2240c325-22cb-4d63-a657-1c1c8daac038
+UID:dec07744-3559-489f-893c-816dd97c63bd
 SEQUENCE:0
-DTSTAMP:20250303T073722Z
+DTSTAMP:20250317T035347Z
 DTSTART:20250406T200000
-DTEND:20250407T000000
+DTEND:20250406T220000
 SUMMARY:Trams Day of Visibility
 LOCATION:Trams Day of Visibility\, London\, UK
 DESCRIPTION:An opportunity for trans+ people and their ally friends to hav
@@ -15,5 +15,6 @@ DESCRIPTION:An opportunity for trans+ people and their ally friends to hav
  t at the front of Wimbledon station
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Trams+Day+of
  +Visibility%2C+London%2C+UK&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

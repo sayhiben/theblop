@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:e542ac99-1b40-487f-8549-f8f4c56e6a8f
+UID:73d1cb28-84f4-4e92-8db1-6f01edf39be2
 SEQUENCE:0
-DTSTAMP:20250316T031514Z
-DTSTART:20250322T100000
-DTEND:20250322T140000
+DTSTAMP:20250317T035347Z
+DTSTART:20250322T170000
+DTEND:20250322T190000
 SUMMARY:TESLA TAKEDOWN
 LOCATION:1323 Motor City Dr.\, Colorado Springs\, CO
 DESCRIPTION:Join us for the TESLA TAKEDOWN protest where we encourage part
@@ -15,5 +15,6 @@ DESCRIPTION:Join us for the TESLA TAKEDOWN protest where we encourage part
  in Colorado Springs.\n\nTesla Showroom
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=1323+Motor+C
  ity+Dr.%2C+Colorado+Springs%2C+CO&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

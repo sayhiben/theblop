@@ -2,15 +2,16 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:23840f69-b519-460b-ab9d-800f5ae20da2
+UID:e198f72a-aabd-41e7-847f-6b76e0aad566
 SEQUENCE:0
-DTSTAMP:20250303T073722Z
+DTSTAMP:20250314T072603Z
 DTSTART:20250315T180000
-DTEND:20250315T220000
+DTEND:20250315T200000
 SUMMARY:Every Saturday Protest
 LOCATION:Monument Square\, 456 Congress St\, Portland\, ME
 DESCRIPTION:Bring your signs!\n\nPortland Maine
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Monument+Squ
  are%2C+456+Congress+St%2C+Portland%2C+ME&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

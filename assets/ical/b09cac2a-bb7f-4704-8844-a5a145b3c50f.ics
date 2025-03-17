@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:fd1d804b-1264-40c9-92ad-8b9807a7670c
+UID:82f10552-1502-4417-8608-de96a8952a41
 SEQUENCE:0
-DTSTAMP:20250313T031819Z
-DTSTART:20250329T110000
-DTEND:20250329T150000
+DTSTAMP:20250317T035347Z
+DTSTART:20250329T180000
+DTEND:20250329T200000
 SUMMARY:Tesla Takedown Rockville
 LOCATION:1300 Rockville Pike\, Rockville\, MD
 DESCRIPTION:We are organizing a Tesla Takedown event to protest and raise 
@@ -15,5 +15,6 @@ DESCRIPTION:We are organizing a Tesla Takedown event to protest and raise
  \n\nTesla Rockville
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=1300+Rockvil
  le+Pike%2C+Rockville%2C+MD&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:286e0c46-1a50-44de-a355-dff4c96e1e26
+UID:472cf000-ec35-45f6-bbc1-174e9858f973
 SEQUENCE:0
-DTSTAMP:20250311T031043Z
-DTSTART:20250315T100000
-DTEND:20250315T140000
+DTSTAMP:20250314T072603Z
+DTSTART:20250315T170000
+DTEND:20250315T190000
 SUMMARY:Trump Chaos Protest
 LOCATION:Moffat Library of Washingtonville\, Campbell Hall\, NY
 DESCRIPTION:Rally to protest the Trump Chaos. More specific guidelines to 
@@ -14,5 +14,6 @@ DESCRIPTION:Rally to protest the Trump Chaos. More specific guidelines to
  in 5 days.\n\nMoffat Library of Washingtonville
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Moffat+Libra
  ry+of+Washingtonville%2C+Campbell+Hall%2C+NY&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

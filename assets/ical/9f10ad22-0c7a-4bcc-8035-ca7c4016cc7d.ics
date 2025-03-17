@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:7f5fc5dd-32b2-4f37-988d-0184cba3acf0
+UID:80bf7ba3-3186-4ec5-82f0-a222b24b6cb4
 SEQUENCE:0
-DTSTAMP:20250315T180240Z
-DTSTART:20250405T120000
-DTEND:20250405T160000
+DTSTAMP:20250317T035347Z
+DTSTART:20250405T190000
+DTEND:20250405T210000
 SUMMARY:Rally Event by Rose City Indivisible
 LOCATION:Japanese American Historical Plaza\, Tom McCall Waterfront Park\,
   Portland\, OR
@@ -17,5 +17,6 @@ DESCRIPTION:Join 50501 Portland & Rose City Indivisible in a nonviolent\,
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Japanese+Ame
  rican+Historical+Plaza%2C+Tom+McCall+Waterfront+Park%2C+Portland%2C+OR&zoo
  m=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

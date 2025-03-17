@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:ce21efa6-401d-47d3-950e-5cf2bb362c3c
+UID:44bb98d9-6978-43c1-83a9-d11755e44c4c
 SEQUENCE:0
-DTSTAMP:20250311T043711Z
-DTSTART:20250313T110000
-DTEND:20250313T150000
+DTSTAMP:20250314T065639Z
+DTSTART:20250313T180000
+DTEND:20250313T200000
 SUMMARY:Peaceful Protest for Public Town Hall
 LOCATION:3232 E. Ridgeview St.\, Springfield\, MO
 DESCRIPTION:We are organizing a peaceful protest demanding a Public Town H
@@ -15,5 +15,6 @@ DESCRIPTION:We are organizing a peaceful protest demanding a Public Town H
  tories.\n\nBurlison Springfield District Office
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=3232+E.+Ridg
  eview+St.%2C+Springfield%2C+MO&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

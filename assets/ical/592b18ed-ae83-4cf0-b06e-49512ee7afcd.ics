@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:05576141-b32f-4826-b50a-96ec8135db08
+UID:ee501607-48fc-4e36-bc8e-d7f27bb7fefc
 SEQUENCE:0
-DTSTAMP:20250313T031818Z
-DTSTART:20250315T110000
-DTEND:20250315T150000
+DTSTAMP:20250314T072603Z
+DTSTART:20250315T180000
+DTEND:20250315T200000
 SUMMARY:Grand Canyon Protect Our Parks Protest
 LOCATION:South Rim Visitor Center\, Grand Canyon Village\, AZ
 DESCRIPTION:We are organizing a protest against actions that threaten our 
@@ -15,5 +15,6 @@ DESCRIPTION:We are organizing a protest against actions that threaten our
  ion to public lands dismantlement.\n\nSouth Rim Visitor Center
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=South+Rim+Vi
  sitor+Center%2C+Grand+Canyon+Village%2C+AZ&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

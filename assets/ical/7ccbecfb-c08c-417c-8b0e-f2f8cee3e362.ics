@@ -2,19 +2,20 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:5861251d-bdcb-4219-b2e9-32961dd3541c
+UID:aea85921-9039-43f5-9370-5ac56942795f
 SEQUENCE:0
-DTSTAMP:20250307T085925Z
-DTSTART:20250315T000000
-DTEND:20250315T040000
+DTSTAMP:20250314T072603Z
+DTSTART:20250315T070000
+DTEND:20250315T090000
 SUMMARY:Postcards of Protest
-LOCATION:1600 Pennsylvania Avenue NW\, Washington\, DC
+LOCATION:\, Nationwide\, Nationwide
 DESCRIPTION:March 15th\, we will mail Donald Trump a postcard that publicl
  y expresses our opposition to him. In vast numbers\, from all corners of t
  he world\, we will overwhelm the man with his unpopularity and failure. Le
  t's set a new record with over ONE MILLION pieces in a day\, with not a si
  ngle nice thing to say!\n\n
-URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=1600+Pennsyl
- vania+Avenue+NW%2C+Washington%2C+DC&zoom=15&basemap=roadmap
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+Nationwi
+ de%2C+Nationwide&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

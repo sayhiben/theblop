@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:faee9dea-140b-4677-9425-4d2eb6fb4380
+UID:98760ea2-e9bd-4e2c-aad6-d6396961c5af
 SEQUENCE:0
-DTSTAMP:20250315T090245Z
-DTSTART:20250325T090000
-DTEND:20250325T130000
+DTSTAMP:20250317T035347Z
+DTSTART:20250325T160000
+DTEND:20250325T180000
 SUMMARY:Advocacy Day
 LOCATION:\, Raleigh\, NC
 DESCRIPTION:Join us for Advocacy Day on March 25 in Raleigh for a collabor
@@ -15,5 +15,6 @@ DESCRIPTION:Join us for Advocacy Day on March 25 in Raleigh for a collabor
  n rights\, and more with leading organizations.\n\n
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+Raleigh%
  2C+NC&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

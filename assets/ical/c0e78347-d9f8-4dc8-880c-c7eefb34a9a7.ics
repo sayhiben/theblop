@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:bd748103-2248-4086-aca3-0a153f2bc511
+UID:4bde3e22-b3f5-472a-8c33-c61db81720ea
 SEQUENCE:0
-DTSTAMP:20250311T090339Z
-DTSTART:20250313T080000
-DTEND:20250313T120000
+DTSTAMP:20250314T065639Z
+DTSTART:20250313T150000
+DTEND:20250313T170000
 SUMMARY:North Seattle Banner Team North 50th & I-5
 LOCATION:North 50th & I-5\, Seattle\, WA
 DESCRIPTION:Building on multiple successful banner actions\, Backbone is g
@@ -16,5 +16,6 @@ DESCRIPTION:Building on multiple successful banner actions\, Backbone is g
  \nAt the North 50th Street and I-5 Overpass
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=North+50th+%
  26+I-5%2C+Seattle%2C+WA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

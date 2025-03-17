@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:2023a409-b31a-4108-8054-7db012e629b1
+UID:ec160380-e07f-409e-bc15-2017892e6cb9
 SEQUENCE:0
-DTSTAMP:20250311T023757Z
-DTSTART:20250315T120000
-DTEND:20250315T160000
+DTSTAMP:20250314T072603Z
+DTSTART:20250315T190000
+DTEND:20250315T210000
 SUMMARY:Stop Project 2025 Peaceful Protest
 LOCATION:540 El Camino Alto Dr\, Springfield\, MO
 DESCRIPTION:We must protect democracy\, the right to assemble\, freedom of
@@ -15,5 +15,6 @@ DESCRIPTION:We must protect democracy\, the right to assemble\, freedom of
  y Zaxbys & Freddy’s\, on the way to Academy Sports
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=540+El+Camin
  o+Alto+Dr%2C+Springfield%2C+MO&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

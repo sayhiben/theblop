@@ -2,16 +2,17 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:8bfad218-f851-4c67-bd98-98c138dec523
+UID:fb863476-bb10-43ef-934e-5f27731fef72
 SEQUENCE:0
-DTSTAMP:20250313T000603Z
-DTSTART:20250405T150000
-DTEND:20250405T190000
+DTSTAMP:20250317T035347Z
+DTSTART:20250405T220000
+DTEND:20250406T000000
 SUMMARY:March to Protect Democracy
 LOCATION:Forsyth Park Amphitheater\, Savannah\, GA
 DESCRIPTION:Join us for a march to protect democracy\, focusing on justice
  \, fairness\, and vigilance. Stay heard. Stay seen. March with us.\n\n
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Forsyth+Park
  +Amphitheater%2C+Savannah%2C+GA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

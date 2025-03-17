@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:ae756f9f-1edc-463c-ae7e-83f893317d71
+UID:ba56848d-fe55-45f0-ac6e-74ed487a210b
 SEQUENCE:0
-DTSTAMP:20250311T090339Z
-DTSTART:20250315T120000
-DTEND:20250315T160000
+DTSTAMP:20250314T072603Z
+DTSTART:20250315T190000
+DTEND:20250315T210000
 SUMMARY:Halt the Machine
 LOCATION:Idaho State Capitol\, 700 West Jefferson Street\, Boise\, ID
 DESCRIPTION:Join us to "Remove\, Reverse\, Reclaim" as we stand against be
@@ -16,5 +16,6 @@ DESCRIPTION:Join us to "Remove\, Reverse\, Reclaim" as we stand against be
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Idaho+State+
  Capitol%2C+700+West+Jefferson+Street%2C+Boise%2C+ID&zoom=15&basemap=roadma
  p
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

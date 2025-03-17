@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:67ac2d3a-a5c7-4c79-9bd6-b3d057d974b9
+UID:b3171941-44e4-4bfc-9cb8-82aad1a7df99
 SEQUENCE:0
-DTSTAMP:20250310T021352Z
-DTSTART:20250321T103000
-DTEND:20250321T143000
+DTSTAMP:20250317T035347Z
+DTSTART:20250321T173000
+DTEND:20250321T193000
 SUMMARY:Clermont FI March 21st protest!
 LOCATION:Congressman Daniel Webster's office - 1200 Oakley Seaver Dr\, Cle
  rmont\, FL 34711
@@ -15,5 +15,6 @@ DESCRIPTION:\n\nCongressman Daniel Webster's office - 1200 Oakley Seaver D
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Congressman+
  Daniel+Webster%27s+office+-+1200+Oakley+Seaver+Dr%2C+Clermont%2C+FL+34711&
  zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:8b7d93bf-18cd-4e22-938a-641bded53ba4
+UID:d59ec5a7-7d28-4650-be0f-4a45962d1ce4
 SEQUENCE:0
-DTSTAMP:20250312T090406Z
-DTSTART:20250314T150000
-DTEND:20250314T190000
+DTSTAMP:20250314T072603Z
+DTSTART:20250314T220000
+DTEND:20250315T000000
 SUMMARY:Stand with Veterans
 LOCATION:415 S Beretania St\, Honolulu\, HI
 DESCRIPTION:Join us for a sign holding event with community building and a
@@ -14,5 +14,6 @@ DESCRIPTION:Join us for a sign holding event with community building and a
  ate Capitol.\n\nHawai’i State Capitol
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=415+S+Bereta
  nia+St%2C+Honolulu%2C+HI&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

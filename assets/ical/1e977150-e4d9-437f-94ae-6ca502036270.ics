@@ -2,16 +2,17 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:aafc895f-c620-4863-8ac0-a28b3e402902
+UID:83c4a297-77bf-4e92-a9cc-baa001ab2085
 SEQUENCE:0
-DTSTAMP:20250316T180251Z
-DTSTART:20250425T080000
-DTEND:20250425T120000
+DTSTAMP:20250317T035347Z
+DTSTART:20250425T150000
+DTEND:20250425T170000
 SUMMARY:Annual Charity Run
 LOCATION:123 Main St\, Anytown\, TX
 DESCRIPTION:Help support local families in need by participating in the An
  nual Charity Run.\n\nDowntown Park
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=123+Main+St%
  2C+Anytown%2C+TX&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

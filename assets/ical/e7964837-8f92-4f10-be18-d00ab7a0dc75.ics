@@ -2,16 +2,17 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:387392a8-b0a4-496e-8ffc-69a15b61deb4
+UID:c7f386d5-d15c-4072-96f7-d7ebd076a4fa
 SEQUENCE:0
-DTSTAMP:20250312T203050Z
-DTSTART:20250315T150000
-DTEND:20250315T190000
+DTSTAMP:20250314T072603Z
+DTSTART:20250315T220000
+DTEND:20250316T000000
 SUMMARY:Town Hall with (or without) Representative Tom Tiffany
 LOCATION:Bretting Center 400 4th Ave W\, Ashland\, WI
 DESCRIPTION:Join us for a town hall to engage with your elected officials\
  , hold them accountable\, and represent your interests.\n\nBretting Center
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Bretting+Cen
  ter+400+4th+Ave+W%2C+Ashland%2C+WI&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:d93bb698-5ed2-45c1-bcfd-fdcc29e65cd4
+UID:b9426802-67b1-433e-807b-9b2794433f15
 SEQUENCE:0
-DTSTAMP:20250313T031818Z
-DTSTART:20250315T140000
-DTEND:20250315T180000
+DTSTAMP:20250314T072603Z
+DTSTART:20250315T210000
+DTEND:20250315T230000
 SUMMARY:TeslaTakedown Arlington
 LOCATION:2710 S. Glebe Rd\, Arlington\, VA
 DESCRIPTION:We are organizing a protest against Tesla and Elon Musk\, enco
@@ -15,5 +15,6 @@ DESCRIPTION:We are organizing a protest against Tesla and Elon Musk\, enco
  rlington
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=2710+S.+Gleb
  e+Rd%2C+Arlington%2C+VA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

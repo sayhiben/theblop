@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:981f03c7-af8d-491b-af65-a4f21d5d6e10
+UID:2a4f39bc-da21-4611-88ca-4215fb859328
 SEQUENCE:0
-DTSTAMP:20250312T090406Z
-DTSTART:20250330T140000
-DTEND:20250330T180000
+DTSTAMP:20250317T035347Z
+DTSTART:20250330T210000
+DTEND:20250330T230000
 SUMMARY:Trans Day of Visibility
 LOCATION:\, Huntsville\, AL
 DESCRIPTION:Join us for the Trans Day of Visibility\, featuring performanc
@@ -14,5 +14,6 @@ DESCRIPTION:Join us for the Trans Day of Visibility\, featuring performanc
  ."\n\nShenanigans Comedy Theatre
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+Huntsvil
  le%2C+AL&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

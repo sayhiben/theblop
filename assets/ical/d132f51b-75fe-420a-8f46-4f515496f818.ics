@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:e6b3010b-8f83-4924-a887-0473f925e5b6
+UID:07cdf21e-d12d-4fca-bddb-c5a43813e6ea
 SEQUENCE:0
-DTSTAMP:20250313T031819Z
-DTSTART:20250322T140000
-DTEND:20250322T180000
+DTSTAMP:20250317T035347Z
+DTSTART:20250322T210000
+DTEND:20250322T230000
 SUMMARY:TeslaTakedown Arlington\, Sat March 22
 LOCATION:2710 S. Glebe Rd\, Arlington\, VA
 DESCRIPTION:We are organizing a protest against Tesla\, encouraging attend
@@ -14,5 +14,6 @@ DESCRIPTION:We are organizing a protest against Tesla\, encouraging attend
  the TeslaTakedown movement.\n\nTesla Arlington
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=2710+S.+Gleb
  e+Rd%2C+Arlington%2C+VA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

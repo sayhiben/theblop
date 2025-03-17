@@ -2,17 +2,18 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:89650789-618a-423c-aba7-60e29ffe938a
+UID:0d92fae2-3417-4387-82b7-8f0ff3b39750
 SEQUENCE:0
-DTSTAMP:20250303T073722Z
+DTSTAMP:20250317T035347Z
 DTSTART:20250401T023000
-DTEND:20250401T063000
+DTEND:20250401T043000
 SUMMARY:Trans Day of Visibility Vengeance 2025
-LOCATION:Place Vauquelin (site of the last counter-protest)\, Paris\, 
+LOCATION:Place Vauquelin (site of the last counter-protest)\, Paris\, FR
 DESCRIPTION:Trans rights are non-negotiable\, let us take what is ours!\n\
  n275 Notre Dame Est
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Place+Vauque
- lin+%28site+of+the+last+counter-protest%29%2C+Paris%2C+&zoom=15&basemap=ro
- admap
+ lin+%28site+of+the+last+counter-protest%29%2C+Paris%2C+FR&zoom=15&basemap=
+ roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

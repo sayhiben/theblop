@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:76d02889-15cd-489f-8f62-7c0cdc9b415a
+UID:1315c179-3cf5-4c16-82c1-c6283887e795
 SEQUENCE:0
-DTSTAMP:20250313T193216Z
-DTSTART:20250314T120000
-DTEND:20250314T160000
+DTSTAMP:20250314T072603Z
+DTSTART:20250314T190000
+DTEND:20250314T210000
 SUMMARY:Rally to Support Veterans and Oppose Budget Cuts
 LOCATION:620 North Jefferson Street\, St. James\, MO
 DESCRIPTION:We are hosting a rally to support our Veterans and protest aga
@@ -14,5 +14,6 @@ DESCRIPTION:We are hosting a rally to support our Veterans and protest aga
  h signs to show our support and opposition.\n\nSt. James Veteran's Home
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=620+North+Je
  fferson+Street%2C+St.+James%2C+MO&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

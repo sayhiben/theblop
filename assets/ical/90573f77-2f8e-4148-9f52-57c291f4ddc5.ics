@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:278084dc-2d80-407a-8d6e-5d4e87ac6746
+UID:82d9b74d-6f5a-4c60-b4ba-f7b4ad3f86f4
 SEQUENCE:0
-DTSTAMP:20250315T000533Z
-DTSTART:20250329T130000
-DTEND:20250329T170000
+DTSTAMP:20250317T035347Z
+DTSTART:20250329T200000
+DTEND:20250329T220000
 SUMMARY:We Stand With Ukraine Rally
 LOCATION:Promenade at Beach Street and Perry\, Cape May City\, Cape May\, 
  NJ
@@ -18,5 +18,6 @@ DESCRIPTION:Join us for a rally in support of Ukraine. The event will feat
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Promenade+at
  +Beach+Street+and+Perry%2C+Cape+May+City%2C+Cape+May%2C+NJ&zoom=15&basemap
  =roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

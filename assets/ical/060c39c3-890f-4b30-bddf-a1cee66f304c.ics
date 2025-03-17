@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:8300c448-0f99-4ac1-90ef-a01dcd062f52
+UID:52d5c461-3ff7-41dd-991a-2b95fb1e82bf
 SEQUENCE:0
-DTSTAMP:20250312T203050Z
-DTSTART:20250314T120000
-DTEND:20250314T160000
+DTSTAMP:20250314T072603Z
+DTSTART:20250314T190000
+DTEND:20250314T210000
 SUMMARY:Protest for Veterans' Rights
 LOCATION:\, Redding\, CA
 DESCRIPTION:We are organizing a rally to protect veterans' rights and hono
@@ -14,5 +14,6 @@ DESCRIPTION:We are organizing a rally to protect veterans' rights and hono
  lue of veterans.\n\nRedding City Hall
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+Redding%
  2C+CA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

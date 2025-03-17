@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:8eddfe92-3df7-4bb3-b8aa-46f3dca60364
+UID:e3e5a3ab-3eb1-492a-90c4-073c800a91ba
 SEQUENCE:0
-DTSTAMP:20250315T000533Z
-DTSTART:20250319T133000
-DTEND:20250319T173000
+DTSTAMP:20250317T035347Z
+DTSTART:20250319T203000
+DTEND:20250319T223000
 SUMMARY:Protest SB 1
 LOCATION:Ohio Statehouse\, Columbus\, OH
 DESCRIPTION:We are organizing a protest against SB 1\, known as "The Highe
@@ -17,5 +17,6 @@ DESCRIPTION:We are organizing a protest against SB 1\, known as "The Highe
  \n\nMcKinley Statue\, Ohio Statehouse
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Ohio+Stateho
  use%2C+Columbus%2C+OH&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

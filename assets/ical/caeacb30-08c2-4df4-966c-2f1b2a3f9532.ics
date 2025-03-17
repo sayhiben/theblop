@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:cfb9d36f-65f4-4d17-b873-fdf8c93271da
+UID:7a87c151-498a-45c2-8f63-9549892d2c4c
 SEQUENCE:0
-DTSTAMP:20250312T180257Z
-DTSTART:20250315T100000
-DTEND:20250315T140000
+DTSTAMP:20250314T072603Z
+DTSTART:20250315T170000
+DTEND:20250315T190000
 SUMMARY:#TESLATAKEDOWN
 LOCATION:\, Seattle\, WA
 DESCRIPTION:Join us in a series of planned protests against Tesla at multi
@@ -16,5 +16,6 @@ DESCRIPTION:Join us in a series of planned protests against Tesla at multi
  vue\, Renton\, and Tacoma (Fife)
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+Seattle%
  2C+WA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

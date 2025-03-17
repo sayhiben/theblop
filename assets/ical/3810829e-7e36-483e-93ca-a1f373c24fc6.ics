@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:fbf8c83a-e31f-45d3-b68f-cb7e57685c86
+UID:397dfcb4-5542-491d-a599-6b2ab743d544
 SEQUENCE:0
-DTSTAMP:20250315T210323Z
-DTSTART:20250405T120000
-DTEND:20250405T160000
+DTSTAMP:20250317T035347Z
+DTSTART:20250405T190000
+DTEND:20250405T210000
 SUMMARY:Hands Off! Albany NY Fights Back
 LOCATION:100 S Mall Arterial\, Albany\, NY 12242
 DESCRIPTION:On April 5\, we are gathering at Empire State Plaza in Albany\
@@ -17,5 +17,6 @@ DESCRIPTION:On April 5\, we are gathering at Empire State Plaza in Albany\
   the street level\, off State St between Eagle & Swan\, near The Egg)
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=100+S+Mall+A
  rterial%2C+Albany%2C+NY+12242&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

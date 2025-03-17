@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:d403e2c1-bc4d-4a4c-8e2b-ff8270747975
+UID:ba7f132b-0c27-47ce-8c6f-8d5644513207
 SEQUENCE:0
-DTSTAMP:20250316T201422Z
-DTSTART:20250405T100000
-DTEND:20250405T140000
+DTSTAMP:20250317T035347Z
+DTSTART:20250405T170000
+DTEND:20250405T190000
 SUMMARY:Peaceful Protest
 LOCATION:Palm Beach Courthouse\, Corner of 3rd St & Dixie\, West Palm Beac
  h\, FL
@@ -16,5 +16,6 @@ DESCRIPTION:Join us in a peaceful protest organized by the 50501 Movement
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Palm+Beach+C
  ourthouse%2C+Corner+of+3rd+St+%26+Dixie%2C+West+Palm+Beach%2C+FL&zoom=15&b
  asemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

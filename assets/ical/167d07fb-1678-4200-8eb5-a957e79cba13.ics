@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:49b94771-1054-4c2c-a71c-a4c656d3da85
+UID:566d146f-833c-4a12-858d-cf28e3781799
 SEQUENCE:0
-DTSTAMP:20250313T201359Z
-DTSTART:20250405T120000
-DTEND:20250405T160000
+DTSTAMP:20250317T035347Z
+DTSTART:20250405T190000
+DTEND:20250405T210000
 SUMMARY:NJ50501 Movement Protest
 LOCATION:125 W State Street\, Trenton\, NJ
 DESCRIPTION:Join us as part of the NJ50501 Movement's effort to "Remove\, 
@@ -14,5 +14,6 @@ DESCRIPTION:Join us as part of the NJ50501 Movement's effort to "Remove\,
  movement in Trenton\, NJ.\n\n
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=125+W+State+
  Street%2C+Trenton%2C+NJ&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:55ccbed5-7a2c-46e9-a6ea-55cf54fc505a
+UID:404aa2c3-35a0-4384-bc4e-d13c48624d80
 SEQUENCE:0
-DTSTAMP:20250311T004337Z
-DTSTART:20250329T120000
-DTEND:20250329T160000
+DTSTAMP:20250317T035347Z
+DTSTART:20250329T190000
+DTEND:20250329T210000
 SUMMARY:FED UP WITH FIRINGS: Protect Our Federal Workers
 LOCATION:1600 Clifton Rd. NE\, Atlanta\, Georgia\, Atlanta\, GA
 DESCRIPTION:Join us at the CDC Roybal Campus to protect federal workers fr
@@ -15,5 +15,6 @@ DESCRIPTION:Join us at the CDC Roybal Campus to protect federal workers fr
  's unite to make a difference!\n\nCDC Roybal Campus
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=1600+Clifton
  +Rd.+NE%2C+Atlanta%2C+Georgia%2C+Atlanta%2C+GA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

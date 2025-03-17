@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:ebc41de8-05e2-427f-97b7-5798a7843f03
+UID:4ef0677c-4396-495d-b0f7-e46a49247f58
 SEQUENCE:0
-DTSTAMP:20250316T180251Z
-DTSTART:20250704T000000
-DTEND:20250704T040000
+DTSTAMP:20250317T035347Z
+DTSTART:20250704T070000
+DTEND:20250704T090000
 SUMMARY:Patriot Protest
 LOCATION:\, Washington\, DC
 DESCRIPTION:Join us in Washington\, D.C. for the Patriot Protest on the 4t
@@ -15,5 +15,6 @@ DESCRIPTION:Join us in Washington\, D.C. for the Patriot Protest on the 4t
  .C.
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+Washingt
  on%2C+DC&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

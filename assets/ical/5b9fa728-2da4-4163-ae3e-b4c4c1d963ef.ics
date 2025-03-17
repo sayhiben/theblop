@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:34553789-9254-4c6e-a06e-ec034b164158
+UID:5ddfad43-cdfc-4615-99d1-102a76877596
 SEQUENCE:0
-DTSTAMP:20250313T031818Z
-DTSTART:20250315T120000
-DTEND:20250315T160000
+DTSTAMP:20250314T072603Z
+DTSTART:20250315T190000
+DTEND:20250315T210000
 SUMMARY:Tesla Takedown Protest - Every Saturday in Walnut Creek
 LOCATION:1246 Broadway Plaza #1094\, Walnut Creek\, CA 94596 US
 DESCRIPTION:We are organizing a protest against Tesla and Elon Musk\, with
@@ -16,5 +16,6 @@ DESCRIPTION:We are organizing a protest against Tesla and Elon Musk\, with
  a Showroom Broadway Plaza
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=1246+Broadwa
  y+Plaza+%231094%2C+Walnut+Creek%2C+CA+94596+US&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

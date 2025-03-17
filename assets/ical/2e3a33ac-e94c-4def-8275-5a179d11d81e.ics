@@ -2,19 +2,20 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:fb071995-624c-4389-92ef-286a9702126c
+UID:244cc631-ea3f-4ae5-87c9-de890d855cd5
 SEQUENCE:0
-DTSTAMP:20250310T021352Z
-DTSTART:20250315T120000
-DTEND:20250315T160000
+DTSTAMP:20250314T072603Z
+DTSTART:20250315T190000
+DTEND:20250315T210000
 SUMMARY:Chicopee Dance for Democracy
 LOCATION:1610 Memorial Drive\, Chicopee\, MA
 DESCRIPTION:Dance for Democracy on Memorial Drive in Chicopee near Price R
  ite Bring your dancing shoes and your passion to educate the public on the
   cruel\, illegal\, and unconstitutional actions of the Trump/Musk administ
- ration. Look for the BJ Tent and people standing near the road near the in
+ ration. Look for the DJ Tent and people standing near the road near the in
  tersections.\n\nChicopee\, Ma
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=1610+Memoria
  l+Drive%2C+Chicopee%2C+MA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

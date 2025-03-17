@@ -2,18 +2,19 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:b4e153f2-a5f9-44a9-b6a5-469fbe20bb2b
+UID:2905651f-1c3e-447e-b9ec-d0668eac4942
 SEQUENCE:0
-DTSTAMP:20250316T201422Z
-DTSTART:20250405T110000
-DTEND:20250405T150000
+DTSTAMP:20250317T035347Z
+DTSTART:20250405T180000
+DTEND:20250405T200000
 SUMMARY:Buffalo United March
-LOCATION:Niagara Square\, Buffalo\, NY
+LOCATION:d41e5ed7-2fbe-4dba-8480-82a998e04de7\, Buffalo\, NY
 DESCRIPTION:Join us at the Buffalo United March to support various causes 
  such as labor rights\, immigrants\, LGBTQIA advocacy\, racial and climate 
  justice\, and more. We aim to bring awareness to these critical issues and
   unite our community for positive change.\n\nNiagara Square
-URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Niagara+Squa
- re%2C+Buffalo%2C+NY&zoom=15&basemap=roadmap
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=d41e5ed7-2fb
+ e-4dba-8480-82a998e04de7%2C+Buffalo%2C+NY&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

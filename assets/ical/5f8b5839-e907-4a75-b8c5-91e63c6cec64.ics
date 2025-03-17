@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:6de12276-7dd2-420b-991e-5edbaff86f5a
+UID:2a9baafb-5c50-4346-bd7e-0fea6b546c62
 SEQUENCE:0
-DTSTAMP:20250316T000636Z
-DTSTART:20250327T160000
-DTEND:20250327T200000
+DTSTAMP:20250317T035347Z
+DTSTART:20250327T230000
+DTEND:20250328T010000
 SUMMARY:STOP Project 2025
 LOCATION:\, Titusville\, FL
 DESCRIPTION:Join us in protesting as part of the STOP Project 2025 initiat
@@ -16,5 +16,6 @@ DESCRIPTION:Join us in protesting as part of the STOP Project 2025 initiat
  voice community concerns.\n\nUS1 & 50\, US1 & 520\, US 1 & 192
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+Titusvil
  le%2C+FL&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

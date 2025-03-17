@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:2e0e08dc-c8ad-432c-b7bf-ebbbc96a87fc
+UID:16128adf-b612-42d0-a3ee-e7d625874474
 SEQUENCE:0
-DTSTAMP:20250317T031246Z
-DTSTART:20250331T173000
-DTEND:20250331T213000
+DTSTAMP:20250317T035347Z
+DTSTART:20250401T003000
+DTEND:20250401T023000
 SUMMARY:Rise Up Columbus
 LOCATION:Mill Race Park\, Columbus\, IN
 DESCRIPTION:Join us in a march to protest against harmful legislation affe
@@ -14,5 +14,6 @@ DESCRIPTION:Join us in a march to protest against harmful legislation affe
  d sisters.\n\n
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Mill+Race+Pa
  rk%2C+Columbus%2C+IN&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

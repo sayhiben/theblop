@@ -2,16 +2,17 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:1712ade1-32ac-43d4-8d36-301625a39c0d
+UID:c9e5b466-8586-4fda-8452-1af8ea57e029
 SEQUENCE:0
-DTSTAMP:20250316T231125Z
-DTSTART:20250322T130000
-DTEND:20250322T170000
+DTSTAMP:20250317T035347Z
+DTSTART:20250322T200000
+DTEND:20250322T220000
 SUMMARY:Town Hall - With or Without Mike Lawler
 LOCATION:900 Main St\, Peekskill\, NY
 DESCRIPTION:Join us for a community town hall hosted by Fight Lawler. Enga
  ge in discussions and share your views.\n\nDramatic Hall
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=900+Main+St%
  2C+Peekskill%2C+NY&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

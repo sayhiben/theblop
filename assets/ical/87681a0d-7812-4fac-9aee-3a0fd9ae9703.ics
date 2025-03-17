@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:b97e245e-0095-4248-9995-accdd6ff8b3f
+UID:46367179-85e1-4728-9d7f-1ebe33c82e76
 SEQUENCE:0
-DTSTAMP:20250315T210323Z
-DTSTART:20250405T120000
-DTEND:20250405T160000
+DTSTAMP:20250317T035347Z
+DTSTART:20250405T190000
+DTEND:20250405T210000
 SUMMARY:Remove! Reverse! Reclaim! Protest
 LOCATION:2263 Santa Clara Ave\, Alameda\, CA
 DESCRIPTION:Join us for a protest and show of solidarity against the uncon
@@ -15,5 +15,6 @@ DESCRIPTION:Join us for a protest and show of solidarity against the uncon
  mocracy. Your presence will be appreciated!\n\nAlameda City Hall
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=2263+Santa+C
  lara+Ave%2C+Alameda%2C+CA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:adfbd9e2-bedf-418b-9021-557de8c3d6de
+UID:826c06e6-5ff1-47a2-a040-2845720191ea
 SEQUENCE:0
-DTSTAMP:20250310T235109Z
-DTSTART:20250314T120000
-DTEND:20250314T160000
+DTSTAMP:20250314T072603Z
+DTSTART:20250314T190000
+DTEND:20250314T210000
 SUMMARY:Veterans March
 LOCATION:1400 Pennsylvania Ave NW\, Washington\, DC 20500
 DESCRIPTION:I will support and defend the Constitution of the United State
@@ -14,5 +14,6 @@ DESCRIPTION:I will support and defend the Constitution of the United State
  nd allegiance to the same.\n\nUnited States Capitol
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=1400+Pennsyl
  vania+Ave+NW%2C+Washington%2C+DC+20500&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

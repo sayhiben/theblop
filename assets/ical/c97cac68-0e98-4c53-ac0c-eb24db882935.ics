@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:1cfee853-a494-40c1-8863-8fbfe976779b
+UID:6656c8a4-9aae-4bd3-8df6-41c8710cc26e
 SEQUENCE:0
-DTSTAMP:20250311T180234Z
-DTSTART:20250315T110000
-DTEND:20250315T150000
+DTSTAMP:20250314T072603Z
+DTSTART:20250315T180000
+DTEND:20250315T200000
 SUMMARY:Tarrytown Stop The Cuts Rally
 LOCATION:Broadway\, Tarrytown\, NY
 DESCRIPTION:We are organizing the Stop The Cuts Rally to oppose proposals 
@@ -16,5 +16,6 @@ DESCRIPTION:We are organizing the Stop The Cuts Rally to oppose proposals
  lt these cuts.\n\nPatriots Park
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Broadway%2C+
  Tarrytown%2C+NY&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

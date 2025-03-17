@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:d83e452f-58f3-453b-9163-2d44f71506ca
+UID:87af8459-2e64-4e7c-bff8-1a1c68147c50
 SEQUENCE:0
-DTSTAMP:20250316T000635Z
-DTSTART:20250316T120000
-DTEND:20250316T160000
+DTSTAMP:20250317T035347Z
+DTSTART:20250316T190000
+DTEND:20250316T210000
 SUMMARY:Climate Crisis Protest Party at American Museum of Natural History
 LOCATION:Diana Ross Playground Central Park\, 81st St. & Central Park West
  \, New York City\, NY
@@ -18,5 +18,6 @@ DESCRIPTION:Join us for the Climate Crisis Protest Party where we will mee
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Diana+Ross+P
  layground+Central+Park%2C+81st+St.+%26+Central+Park+West%2C+New+York+City%
  2C+NY&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

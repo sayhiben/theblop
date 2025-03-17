@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:47477817-eb66-486f-b375-9ef3377fef74
+UID:8cfe0273-733d-461f-9000-9cb0ae890cea
 SEQUENCE:0
-DTSTAMP:20250312T203050Z
-DTSTART:20250330T120000
-DTEND:20250330T160000
+DTSTAMP:20250317T035347Z
+DTSTART:20250330T190000
+DTEND:20250330T210000
 SUMMARY:Stand Up to Preserve and Restore Our Country
 LOCATION:1 Kennedy Memorial Dr\, Waterville\, ME
 DESCRIPTION:Join us in Waterville to stand up for our country and work tow
@@ -14,5 +14,6 @@ DESCRIPTION:Join us in Waterville to stand up for our country and work tow
   community members for this cause.\n\non the bridge next to CVS
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=1+Kennedy+Me
  morial+Dr%2C+Waterville%2C+ME&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

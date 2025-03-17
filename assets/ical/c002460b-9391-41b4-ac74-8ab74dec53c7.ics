@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:413d7b9b-e7e6-4a06-973f-8116b514e44d
+UID:c800e74a-51ee-47a3-83ed-f144ffa92391
 SEQUENCE:0
-DTSTAMP:20250313T031819Z
-DTSTART:20250322T120000
-DTEND:20250322T160000
+DTSTAMP:20250317T035347Z
+DTSTART:20250322T190000
+DTEND:20250322T210000
 SUMMARY:Tesla Takedown NYC - March 22nd
 LOCATION:860 Washington St\, New York\, NY 10014 US
 DESCRIPTION:Join us for the "Tesla Takedown NYC" event to take a stand aga
@@ -15,5 +15,6 @@ DESCRIPTION:Join us for the "Tesla Takedown NYC" event to take a stand aga
  ing our resistance and rising up against harmful stunts.\n\nTesla Showroom
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=860+Washingt
  on+St%2C+New+York%2C+NY+10014+US&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:1c450893-b3cd-44c4-835e-52f5fc4043e5
+UID:6699ccf1-5e2f-48ab-b6f8-1ec8767dac6d
 SEQUENCE:0
-DTSTAMP:20250312T060241Z
-DTSTART:20250316T113000
-DTEND:20250316T153000
+DTSTAMP:20250317T035347Z
+DTSTART:20250316T183000
+DTEND:20250316T203000
 SUMMARY:Rally & March for Ukraine
 LOCATION:296 Titicus Road\, North Salem\, NY
 DESCRIPTION:Join us for a rally and march to support Ukraine\, featuring a
@@ -15,5 +15,6 @@ DESCRIPTION:Join us for a rally and march to support Ukraine\, featuring a
  e.\n\nSt. James Village Hall
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=296+Titicus+
  Road%2C+North+Salem%2C+NY&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

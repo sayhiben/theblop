@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:334cb38c-d075-4bdf-b742-4a3a5bb8e0dc
+UID:eb1a8fc9-147a-4979-9f13-a517b537aa79
 SEQUENCE:0
-DTSTAMP:20250315T090245Z
-DTSTART:20250319T120000
-DTEND:20250319T160000
+DTSTAMP:20250317T035347Z
+DTSTART:20250319T190000
+DTEND:20250319T210000
 SUMMARY:Students to the Statehouse
 LOCATION:15th and High\, Columbus\, OH
 DESCRIPTION:We are organizing a protest march to stand up for students aga
@@ -15,5 +15,6 @@ DESCRIPTION:We are organizing a protest march to stand up for students aga
  inley Statue\, Ohio Statehouse
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=15th+and+Hig
  h%2C+Columbus%2C+OH&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

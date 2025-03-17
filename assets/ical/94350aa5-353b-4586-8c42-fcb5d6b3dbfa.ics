@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:cbe3a8be-e55b-4e1f-9be8-ee7f48660bfa
+UID:a1b5a503-e25f-46da-aebc-27dd0e9641cf
 SEQUENCE:0
-DTSTAMP:20250311T043711Z
-DTSTART:20250314T120000
-DTEND:20250314T160000
+DTSTAMP:20250314T072603Z
+DTSTART:20250314T190000
+DTEND:20250314T210000
 SUMMARY:Veterans March
 LOCATION:300 6th Street\, Rapid City\, SD
 DESCRIPTION:Join us for a peaceful protest as part of the 50501 movement t
@@ -14,5 +14,6 @@ DESCRIPTION:Join us for a peaceful protest as part of the 50501 movement t
  ith us.\n\nCity Hall
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=300+6th+Stre
  et%2C+Rapid+City%2C+SD&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

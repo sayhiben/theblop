@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:23b4ece2-1e8b-46d5-a5bc-2482bea21fdd
+UID:a6320a39-920a-4a2b-b4cf-71ec9044be28
 SEQUENCE:0
-DTSTAMP:20250316T000636Z
-DTSTART:20250323T120000
-DTEND:20250323T160000
+DTSTAMP:20250317T035347Z
+DTSTART:20250323T190000
+DTEND:20250323T210000
 SUMMARY:Fight Like Hell: Defend the Postal Service\, Hands Off USPS (NALC)
 LOCATION:909 3rd Ave\, New York\, NY
 DESCRIPTION:On Sunday\, March 23\, NALC branches are hosting local rallies
@@ -15,5 +15,6 @@ DESCRIPTION:On Sunday\, March 23\, NALC branches are hosting local rallies
   message: Hands off USPS!\n\n
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=909+3rd+Ave%
  2C+New+York%2C+NY&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

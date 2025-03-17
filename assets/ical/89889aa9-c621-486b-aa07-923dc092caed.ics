@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:3fca4e86-b86c-4e76-98e2-73a078978646
+UID:cd6a41aa-57fd-4ce4-8e90-6f7b6bb8e42e
 SEQUENCE:0
-DTSTAMP:20250314T210257Z
-DTSTART:20250316T140000
-DTEND:20250316T180000
+DTSTAMP:20250317T035347Z
+DTSTART:20250316T210000
+DTEND:20250316T230000
 SUMMARY:Stand Up to the Oligarchy
 LOCATION:Saint Croix Falls Public Library\, Saint Croix Falls\, WI
 DESCRIPTION:Join us for a peaceful protest at the Saint Croix Falls Public
@@ -15,5 +15,6 @@ DESCRIPTION:Join us for a peaceful protest at the Saint Croix Falls Public
  or’s Falls side.\n\nTaylor's Falls
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Saint+Croix+
  Falls+Public+Library%2C+Saint+Croix+Falls%2C+WI&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

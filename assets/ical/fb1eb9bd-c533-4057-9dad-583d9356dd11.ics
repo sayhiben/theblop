@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:0c18464f-ba50-4d74-b0c9-4754c57a511d
+UID:2dd77d50-2805-4dce-8f64-3e2922fd28f8
 SEQUENCE:0
-DTSTAMP:20250307T172420Z
-DTSTART:20250331T183000
-DTEND:20250331T223000
+DTSTAMP:20250317T035347Z
+DTSTART:20250401T013000
+DTEND:20250401T033000
 SUMMARY:Healthcare for Happiness: Trans Day of Visibility
 LOCATION:13 Rev Dr Martin Luther King Jr Blvd\, St Paul\, MN
 DESCRIPTION:Join TIGERRS in a public art protest and community gathering s
@@ -14,5 +14,6 @@ DESCRIPTION:Join TIGERRS in a public art protest and community gathering s
  come!\n\nBehind the Transportation Building\, Sears Lot
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=13+Rev+Dr+Ma
  rtin+Luther+King+Jr+Blvd%2C+St+Paul%2C+MN&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

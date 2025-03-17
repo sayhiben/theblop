@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:37c6c179-172e-4e55-ba2b-22e93d71b41f
+UID:38c8f5ec-3e6a-48a5-beb5-0cdf6d728514
 SEQUENCE:0
-DTSTAMP:20250313T031818Z
-DTSTART:20250314T160000
-DTEND:20250314T200000
+DTSTAMP:20250314T072603Z
+DTSTART:20250314T230000
+DTEND:20250315T010000
 SUMMARY:Protest Tesla!
 LOCATION:6500 Cedar Springs Rd\, Dallas\, TX
 DESCRIPTION:We are taking action at Tesla. ⚡ Sell your Teslas\, dump you
@@ -16,5 +16,6 @@ DESCRIPTION:We are taking action at Tesla. ⚡ Sell your Teslas\, dump you
  \n\nTesla Service Center
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=6500+Cedar+S
  prings+Rd%2C+Dallas%2C+TX&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

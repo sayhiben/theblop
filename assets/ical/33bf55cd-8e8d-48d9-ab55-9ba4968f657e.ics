@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:c5059816-2f25-494b-8f17-0a5ee475fa13
+UID:a10f8b28-0871-4aac-9bc5-1142baaf931b
 SEQUENCE:0
-DTSTAMP:20250316T000635Z
-DTSTART:20250316T110000
-DTEND:20250316T150000
+DTSTAMP:20250317T035347Z
+DTSTART:20250316T180000
+DTEND:20250316T200000
 SUMMARY:Free Mahmoud Khalil Protest
 LOCATION:UNM Bookstore\, Albuquerque\, NM
 DESCRIPTION:Join us for a protest to demand the release of Mahmoud Khalil 
@@ -15,5 +15,6 @@ DESCRIPTION:Join us for a protest to demand the release of Mahmoud Khalil
  Bookstore
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=UNM+Bookstor
  e%2C+Albuquerque%2C+NM&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

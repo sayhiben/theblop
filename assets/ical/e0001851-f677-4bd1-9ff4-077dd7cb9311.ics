@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:e0811246-936d-4062-9dd1-b01b2d8af883
+UID:f15d7cce-1db9-4576-acde-2cb6fdf26ce3
 SEQUENCE:0
-DTSTAMP:20250314T120340Z
-DTSTART:20250320T190000
-DTEND:20250320T230000
+DTSTAMP:20250317T035347Z
+DTSTART:20250321T020000
+DTEND:20250321T040000
 SUMMARY:Healthcare Town Hall
 LOCATION:210 E 400 S\, Salt Lake City\, UT
 DESCRIPTION:Join the Utah Alliance Coalition for a town hall focusing on h
@@ -15,5 +15,6 @@ DESCRIPTION:Join the Utah Alliance Coalition for a town hall focusing on h
  unities.\n\nSalt Lake City Public Library Auditorium
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=210+E+400+S%
  2C+Salt+Lake+City%2C+UT&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

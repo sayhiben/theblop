@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:ddce0ea3-dfa9-4616-ade4-ebbae2181bf5
+UID:014b6a01-c46f-4dd6-be8d-a4693d7e1545
 SEQUENCE:0
-DTSTAMP:20250313T031818Z
-DTSTART:20250315T120000
-DTEND:20250315T160000
+DTSTAMP:20250314T072603Z
+DTSTART:20250315T190000
+DTEND:20250315T210000
 SUMMARY:50501: The People’s Movement
 LOCATION:901 Bagby St\, Houston\, TX
 DESCRIPTION:We invite you to join us for "50501: The People’s Movement" 
@@ -16,5 +16,6 @@ DESCRIPTION:We invite you to join us for "50501: The People’s Movement"
  l
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=901+Bagby+St
  %2C+Houston%2C+TX&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

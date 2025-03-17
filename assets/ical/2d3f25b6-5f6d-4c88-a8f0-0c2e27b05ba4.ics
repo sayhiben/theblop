@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:f1cf81c3-ff2e-46ff-84d8-67f9481e3503
+UID:f245c96e-a955-4c65-8f87-224bb639ea8f
 SEQUENCE:0
-DTSTAMP:20250315T210323Z
-DTSTART:20250405T120000
-DTEND:20250405T160000
+DTSTAMP:20250317T035347Z
+DTSTART:20250405T190000
+DTEND:20250405T210000
 SUMMARY:Hands Off! National Day of Action Rally and March
 LOCATION:1400 John F Kennedy Blvd\, Philadelphia\, PA
 DESCRIPTION:Join us and The 50501 Movement to rally and march to show that
@@ -19,5 +19,6 @@ DESCRIPTION:Join us and The 50501 Movement to rally and march to show that
  ities.\n\nPhiladelphia City Hall
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=1400+John+F+
  Kennedy+Blvd%2C+Philadelphia%2C+PA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

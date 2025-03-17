@@ -2,16 +2,17 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:afa29341-dacb-4516-8088-559a61f114f1
+UID:e2f582bc-6bc6-4248-a81b-b78aee6f1184
 SEQUENCE:0
-DTSTAMP:20250313T180257Z
-DTSTART:20250314T160000
-DTEND:20250314T200000
+DTSTAMP:20250314T072603Z
+DTSTART:20250314T230000
+DTEND:20250315T010000
 SUMMARY:Veterans' Protest
 LOCATION:2115 Park Blvd\, San Diego\, CA
 DESCRIPTION:Join us for a rally against cuts to Veterans Services and Vete
  rans Benefits.\n\nThe San Diego Veterans Museum
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=2115+Park+Bl
  vd%2C+San+Diego%2C+CA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:487afcb2-ab0b-4717-8dc5-ce3330a935f2
+UID:cc7a39d1-2560-49f8-b074-e32e84fa161b
 SEQUENCE:0
-DTSTAMP:20250313T180257Z
-DTSTART:20250314T120000
-DTEND:20250314T160000
+DTSTAMP:20250314T072603Z
+DTSTART:20250314T190000
+DTEND:20250314T210000
 SUMMARY:Stand with the Veterans March
 LOCATION:4101 Woolworth Avenue\, Omaha\, NE
 DESCRIPTION:We are organizing a march to support and protect Veterans Affa
@@ -14,5 +14,6 @@ DESCRIPTION:We are organizing a march to support and protect Veterans Affa
  d Washington to uphold their commitments to a strong VA.\n\nOmaha VAMC
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=4101+Woolwor
  th+Avenue%2C+Omaha%2C+NE&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:a9f9038f-e625-414f-a4a2-be89b5d321f2
+UID:bf4d27f4-ac0a-4aa5-9a6b-b3dacc43f38d
 SEQUENCE:0
-DTSTAMP:20250312T090406Z
-DTSTART:20250315T150000
-DTEND:20250315T190000
+DTSTAMP:20250314T072603Z
+DTSTART:20250315T220000
+DTEND:20250316T000000
 SUMMARY:Corruption Destroys\, Community Builds
 LOCATION:517 E Wisconsin Ave\, Milwaukee\, WI
 DESCRIPTION:Join us for a protest as part of the '50 Protests\, 50 States\
@@ -15,5 +15,6 @@ DESCRIPTION:Join us for a protest as part of the '50 Protests\, 50 States\
  deral Building & U.S. Courthouse
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=517+E+Wiscon
  sin+Ave%2C+Milwaukee%2C+WI&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

@@ -2,16 +2,17 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:7a585b2d-72a8-4c8f-8db4-24418a8efcb6
+UID:beb5d85c-9f1b-4c8a-b9d7-7cccd28c4133
 SEQUENCE:0
-DTSTAMP:20250310T021352Z
-DTSTART:20250322T140000
-DTEND:20250322T180000
+DTSTAMP:20250317T035347Z
+DTSTART:20250322T210000
+DTEND:20250322T230000
 SUMMARY:Stand for Democracy
 LOCATION:Courthouse Square\, Dayton\, OH
 DESCRIPTION:Join us on March 22nd for a rally against tyranny. Join the hu
  ndreds of voices who agree.\n\nDayton\, OH @2PM
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Courthouse+S
  quare%2C+Dayton%2C+OH&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

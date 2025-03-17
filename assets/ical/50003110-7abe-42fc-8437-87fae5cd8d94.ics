@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:b91207c0-fdea-4f29-9a9a-3fefd6ec486c
+UID:5a461a73-c7a7-4f04-9d44-76826c574f1a
 SEQUENCE:0
-DTSTAMP:20250313T031819Z
-DTSTART:20250322T140000
-DTEND:20250322T180000
+DTSTAMP:20250317T035347Z
+DTSTART:20250322T210000
+DTEND:20250322T230000
 SUMMARY:Tesla Takedown III
 LOCATION:3371 Brunswick Pike #100\, Lawrence\, NJ
 DESCRIPTION:We are organizing a protest at Tesla urging individuals to sel
@@ -15,5 +15,6 @@ DESCRIPTION:We are organizing a protest at Tesla urging individuals to sel
  al for saving lives and democracy.\n\nTesla Dealership
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=3371+Brunswi
  ck+Pike+%23100%2C+Lawrence%2C+NJ&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

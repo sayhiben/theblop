@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:147f6b62-2482-42ec-b4ed-890e852050bc
+UID:40859689-ee0c-4353-a118-991bdb414487
 SEQUENCE:0
-DTSTAMP:20250315T210323Z
-DTSTART:20250405T120000
-DTEND:20250405T160000
+DTSTAMP:20250317T035347Z
+DTSTART:20250405T190000
+DTEND:20250405T210000
 SUMMARY:Hands Off! Maine Fights Back
 LOCATION:\, Augusta\, ME
 DESCRIPTION:Join us for a virtual rally where we protest against the destr
@@ -15,5 +15,6 @@ DESCRIPTION:Join us for a virtual rally where we protest against the destr
  and build an opposition movement.\n\nMaine State Capital
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+Augusta%
  2C+ME&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

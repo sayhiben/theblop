@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:d68b3634-c6a0-450c-b623-3ffcad1669db
+UID:4b25da2a-5dac-435f-b188-694801b0ea71
 SEQUENCE:0
-DTSTAMP:20250310T235109Z
-DTSTART:20250315T110000
-DTEND:20250315T150000
+DTSTAMP:20250314T072603Z
+DTSTART:20250315T180000
+DTEND:20250315T200000
 SUMMARY:March to Stop the Cuts
 LOCATION:Foley Square (between Lafayette\, Worth and Centre Streets\, Manh
  attan)\, Manhattan\, NY
@@ -16,5 +16,6 @@ DESCRIPTION:Join us in fighting back against $2 trillion in cuts to Medica
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Foley+Square
  +%28between+Lafayette%2C+Worth+and+Centre+Streets%2C+Manhattan%29%2C+Manha
  ttan%2C+NY&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

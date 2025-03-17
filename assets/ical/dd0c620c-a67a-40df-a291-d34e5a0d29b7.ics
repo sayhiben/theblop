@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:a179ec57-8a8f-4b64-a714-49558003061a
+UID:c2c88073-fcf9-43fa-ba4a-ec803d7d2f2e
 SEQUENCE:0
-DTSTAMP:20250311T043711Z
-DTSTART:20250315T120000
-DTEND:20250315T160000
+DTSTAMP:20250314T072603Z
+DTSTART:20250315T190000
+DTEND:20250315T210000
 SUMMARY:March Against Tyranny
 LOCATION:125 W State St.\, Trenton\, NJ
 DESCRIPTION:Absolute power corrupts absolutely. We must remove\, reverse a
@@ -14,5 +14,6 @@ DESCRIPTION:Absolute power corrupts absolutely. We must remove\, reverse a
  e hands of a few.\n\nState House
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=125+W+State+
  St.%2C+Trenton%2C+NJ&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:9c123645-b0fe-402f-a508-67ac0c4a63d1
+UID:54ca184a-1cdf-43bd-af9a-8b39b6f88dd3
 SEQUENCE:0
-DTSTAMP:20250311T012444Z
-DTSTART:20250315T140000
-DTEND:20250315T180000
+DTSTAMP:20250314T072603Z
+DTSTART:20250315T210000
+DTEND:20250315T230000
 SUMMARY:Musk/Trump Protest @ Colma Tesla
 LOCATION:1500 Collins Ave\, Colma\, CA
 DESCRIPTION:Join us with your signs and voices to say NO to the Trump/Musk
@@ -14,5 +14,6 @@ DESCRIPTION:Join us with your signs and voices to say NO to the Trump/Musk
  ign waving
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=1500+Collins
  +Ave%2C+Colma%2C+CA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

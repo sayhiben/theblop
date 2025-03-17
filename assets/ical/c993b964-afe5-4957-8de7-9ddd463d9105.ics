@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:f47e4b65-9715-427d-9349-de0d89b0765f
+UID:ee8c584f-ac8c-47cf-a111-f4113265882f
 SEQUENCE:0
-DTSTAMP:20250317T000621Z
-DTSTART:20250317T173000
-DTEND:20250317T213000
+DTSTAMP:20250317T035347Z
+DTSTART:20250318T003000
+DTEND:20250318T023000
 SUMMARY:Chuck's First Stop
 LOCATION:400 Cathedral St\, Baltimore\, MD
 DESCRIPTION:Join us to question Chuck Schumer's political actions and seek
@@ -14,5 +14,6 @@ DESCRIPTION:Join us to question Chuck Schumer's political actions and seek
   perceived compliance with Trump.\n\nCentral Library
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=400+Cathedra
  l+St%2C+Baltimore%2C+MD&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

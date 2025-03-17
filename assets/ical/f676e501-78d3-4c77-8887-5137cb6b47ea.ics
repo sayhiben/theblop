@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:66aa86b7-bdbf-4185-8b8a-bffc99d1cb92
+UID:2e80817e-0e84-4f90-a73c-9f50c809a0ce
 SEQUENCE:0
-DTSTAMP:20250311T090339Z
-DTSTART:20250404T113000
-DTEND:20250404T153000
+DTSTAMP:20250317T035347Z
+DTSTART:20250404T183000
+DTEND:20250404T203000
 SUMMARY:50501: The People's Movement
 LOCATION:1 Main St.\, Rio Vista\, CA
 DESCRIPTION:Join us in Rio Vista\, CA\, for a protest aimed at uniting aga
@@ -15,5 +15,6 @@ DESCRIPTION:Join us in Rio Vista\, CA\, for a protest aimed at uniting aga
  t of City Hall
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=1+Main+St.%2
  C+Rio+Vista%2C+CA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

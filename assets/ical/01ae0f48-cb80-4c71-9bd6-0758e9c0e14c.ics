@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:6b09179a-10d0-476b-b659-40272c4b0e68
+UID:4596feb0-63e1-4a84-a118-a23049bd02e3
 SEQUENCE:0
-DTSTAMP:20250315T210323Z
-DTSTART:20250405T100000
-DTEND:20250405T140000
+DTSTAMP:20250317T035347Z
+DTSTART:20250405T170000
+DTEND:20250405T190000
 SUMMARY:Peaceful Protest
 LOCATION:Corner of 3rd St & Dixie\, West Palm Beach\, FL
 DESCRIPTION:Join us as we come together to remove corrupt politicians\, re
@@ -15,5 +15,6 @@ DESCRIPTION:Join us as we come together to remove corrupt politicians\, re
  house
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Corner+of+3r
  d+St+%26+Dixie%2C+West+Palm+Beach%2C+FL&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

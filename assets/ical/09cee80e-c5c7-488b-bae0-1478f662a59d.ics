@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:ca213f99-6df1-4efa-9acc-8a03cf7a6618
+UID:c06f4ef1-06d0-4733-8509-691c5752c1fb
 SEQUENCE:0
-DTSTAMP:20250314T120340Z
-DTSTART:20250322T130000
-DTEND:20250322T170000
+DTSTAMP:20250317T035347Z
+DTSTART:20250322T200000
+DTEND:20250322T220000
 SUMMARY:The People’s Town Hall
 LOCATION:10785 Melody Dr\, Northglenn\, CO
 DESCRIPTION:Join us for a town hall meeting to discuss and hold accountabl
@@ -14,5 +14,6 @@ DESCRIPTION:Join us for a town hall meeting to discuss and hold accountabl
  \n\nGood Shepherd Presbyterian Church
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=10785+Melody
  +Dr%2C+Northglenn%2C+CO&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

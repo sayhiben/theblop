@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:10e2b4fe-ab07-4bbc-97b2-64ee2c08fdcc
+UID:8052ca57-c237-46a3-8181-a612921de95c
 SEQUENCE:0
-DTSTAMP:20250310T121109Z
-DTSTART:20250322T090000
-DTEND:20250322T130000
+DTSTAMP:20250317T035347Z
+DTSTART:20250322T160000
+DTEND:20250322T180000
 SUMMARY:Immigration Legal Clinic
 LOCATION:900 University Ave.\, Riverside\, CA
 DESCRIPTION:Free consultations provided by legal providers from the Inland
@@ -14,5 +14,6 @@ DESCRIPTION:Free consultations provided by legal providers from the Inland
  esources for the community.\n\nUCR
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=900+Universi
  ty+Ave.%2C+Riverside%2C+CA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

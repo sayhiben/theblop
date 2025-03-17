@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:e8421f99-8662-494c-87c6-b6b5b3e3c3a5
+UID:f049bff8-81af-46ff-99bb-356d9855df05
 SEQUENCE:0
-DTSTAMP:20250313T031818Z
-DTSTART:20250314T170000
-DTEND:20250314T210000
+DTSTAMP:20250314T072603Z
+DTSTART:20250315T000000
+DTEND:20250315T020000
 SUMMARY:San José - Friday Night Peace Vigil
 LOCATION:150 E San Fernando St\, San Jose\, CA
 DESCRIPTION:Join the Friday Night Peace Vigil to Honk and Wave at the Mart
@@ -16,5 +16,6 @@ DESCRIPTION:Join the Friday Night Peace Vigil to Honk and Wave at the Mart
  riday from 5 to 6 pm.\n\nDr. Martin Luther King\, Jr. Library
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=150+E+San+Fe
  rnando+St%2C+San+Jose%2C+CA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

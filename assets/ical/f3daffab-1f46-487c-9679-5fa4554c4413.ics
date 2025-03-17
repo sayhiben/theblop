@@ -2,16 +2,17 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:0dae8793-183f-4a3d-aac8-5e2bee88c52a
+UID:926ad5ec-93a3-4c69-802c-5957dd3d7e13
 SEQUENCE:0
-DTSTAMP:20250312T090406Z
-DTSTART:20250315T120000
-DTEND:20250315T160000
+DTSTAMP:20250314T072603Z
+DTSTART:20250315T190000
+DTEND:20250315T210000
 SUMMARY:Indivisible Community Meeting
 LOCATION:180 Parker Rd\, Coupeville\, WA
 DESCRIPTION:Join us for a membership gathering and meet the new Indivisibl
  e Whidbey steering committee.\n\nPACIFIC RIM INSTITUTE
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=180+Parker+R
  d%2C+Coupeville%2C+WA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

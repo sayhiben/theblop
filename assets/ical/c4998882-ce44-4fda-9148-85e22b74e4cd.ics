@@ -2,17 +2,18 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:27df344e-79d6-4d0e-b899-54e79091178e
+UID:378f3322-3f13-4617-91c6-ba73e0761eaa
 SEQUENCE:0
-DTSTAMP:20250311T043711Z
-DTSTART:20250315T130000
-DTEND:20250315T170000
+DTSTAMP:20250314T072603Z
+DTSTART:20250315T200000
+DTEND:20250315T220000
 SUMMARY:Protest Saturday 3/15 at 1pm
-LOCATION:1600 Pacific Highway\, Encinitas\, CA
+LOCATION:1302 Encinitas Blvd\, Encinitas\, CA 92024 US
 DESCRIPTION:Bring attention to Elon Musk's dangerous power grab by rallyin
  g peacefully with fellow San Diegans at the Encinitas Tesla Supercharger.\
  n\nEncinitas Tesla Supercharger
-URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=1600+Pacific
- +Highway%2C+Encinitas%2C+CA&zoom=15&basemap=roadmap
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=1302+Encinit
+ as+Blvd%2C+Encinitas%2C+CA+92024+US&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

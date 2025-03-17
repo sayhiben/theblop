@@ -2,16 +2,17 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:f28f0b76-857f-4b19-9e39-659df41f7984
+UID:ab5ae805-532e-4b9c-a5d4-4540a0cec934
 SEQUENCE:0
-DTSTAMP:20250317T000621Z
-DTSTART:20250318T180000
-DTEND:20250318T220000
+DTSTAMP:20250317T035347Z
+DTSTART:20250319T010000
+DTEND:20250319T030000
 SUMMARY:Answers to Political Questions
 LOCATION:One East Sixty-Fifth Street\, New York\, NY
 DESCRIPTION:Join us to explore pressing questions about recent political e
  vents and figures.\n\nThe Temple Emanu-El Streicker Center
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=One+East+Six
  ty-Fifth+Street%2C+New+York%2C+NY&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:27e74a22-1e81-4b6c-b151-0df046d32014
+UID:f16513eb-2874-4f09-8754-b102362b04ea
 SEQUENCE:0
-DTSTAMP:20250312T203050Z
-DTSTART:20250314T160000
-DTEND:20250314T200000
+DTSTAMP:20250314T072603Z
+DTSTART:20250314T230000
+DTEND:20250315T010000
 SUMMARY:Tesla Car Dealership Protest: Stand up against Musk\, DOGE\, and o
  ur constitutional crisis
 LOCATION:7101 Glenwood Avenue\, Raleigh\, NC
@@ -14,5 +14,6 @@ DESCRIPTION:We are taking action at Tesla. Sell your Teslas\, dump your st
  ock\, join the picket lines.\n\nTesla Car Dealership
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=7101+Glenwoo
  d+Avenue%2C+Raleigh%2C+NC&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

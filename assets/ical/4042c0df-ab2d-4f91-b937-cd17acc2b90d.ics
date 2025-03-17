@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:cbbe1dc4-4d54-4e0c-b1d8-8d8a7d94005c
+UID:87698cf6-292b-403e-b44f-1143edb45e65
 SEQUENCE:0
-DTSTAMP:20250313T031819Z
-DTSTART:20250318T160000
-DTEND:20250318T200000
+DTSTAMP:20250317T035347Z
+DTSTART:20250318T230000
+DTEND:20250319T010000
 SUMMARY:Tesla Tuesdays
 LOCATION:2710 S. Glebe Rd\, Arlington\, VA
 DESCRIPTION:We are taking action at Tesla to stop Elon Musk's alleged ille
@@ -16,5 +16,6 @@ DESCRIPTION:We are taking action at Tesla to stop Elon Musk's alleged ille
  rights to assembly.\n\nTesla
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=2710+S.+Gleb
  e+Rd%2C+Arlington%2C+VA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

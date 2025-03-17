@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:1a48096f-0317-46e5-92db-53e2b83e8d62
+UID:746499a7-38e1-41e5-8266-0f07d6eda1dd
 SEQUENCE:0
-DTSTAMP:20250317T000621Z
-DTSTART:20250317T120000
-DTEND:20250317T160000
+DTSTAMP:20250317T035347Z
+DTSTART:20250317T190000
+DTEND:20250317T210000
 SUMMARY:Join Us to Hold Our Representatives Accountable!
 LOCATION:\, Morgantown\, WV
 DESCRIPTION:We are organizing a town hall to hold our representatives acco
@@ -16,5 +16,6 @@ DESCRIPTION:We are organizing a town hall to hold our representatives acco
  Senator Shelley Moore Capito’s Office
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+Morganto
  wn%2C+WV&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

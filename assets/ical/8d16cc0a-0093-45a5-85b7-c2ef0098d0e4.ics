@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:766829b9-fda1-447a-b1c2-9ec3c52def02
+UID:8f5a13f8-7023-4ebb-bca9-52d273b6f23a
 SEQUENCE:0
-DTSTAMP:20250316T031514Z
-DTSTART:20250316T100000
-DTEND:20250316T140000
+DTSTAMP:20250317T035347Z
+DTSTART:20250316T170000
+DTEND:20250316T190000
 SUMMARY:Weekly Protest
 LOCATION:3 Fulton St E\, Grand Rapids\, MI
 DESCRIPTION:Rally at the heart of our city to unite the 2-SLGTQIA+ communi
@@ -16,5 +16,6 @@ DESCRIPTION:Rally at the heart of our city to unite the 2-SLGTQIA+ communi
  ns\, just need hands to hold them!\n\nMonument Park
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=3+Fulton+St+
  E%2C+Grand+Rapids%2C+MI&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

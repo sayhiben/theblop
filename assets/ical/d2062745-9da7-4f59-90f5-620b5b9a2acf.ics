@@ -2,16 +2,17 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:0a495e38-1fff-40c6-bcfe-4f025e343349
+UID:3bd5c400-4a00-4ce8-a051-174b58a6603b
 SEQUENCE:0
-DTSTAMP:20250311T060220Z
-DTSTART:20250315T093000
-DTEND:20250315T133000
+DTSTAMP:20250314T072603Z
+DTSTART:20250315T163000
+DTEND:20250315T183000
 SUMMARY:Tesla Takedown
 LOCATION:4601 34th St N\, St. Petersburg\, FL 33714
 DESCRIPTION:We are taking action at Tesla. Sell your Teslas\, dump your st
  ock\, and join the picket lines.\n\nTesla St. Petersburg
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=4601+34th+St
  +N%2C+St.+Petersburg%2C+FL+33714&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:9cff6f51-d20b-47a5-a908-d43c6f84e584
+UID:2d987977-4c0b-4c64-a228-81a897ca9bac
 SEQUENCE:0
-DTSTAMP:20250312T090406Z
-DTSTART:20250315T140000
-DTEND:20250315T180000
+DTSTAMP:20250314T072603Z
+DTSTART:20250315T210000
+DTEND:20250315T230000
 SUMMARY:Strategy and Action Meeting
 LOCATION:660 Flormann St\, Rapid City\, SD
 DESCRIPTION:Join us at our Strategy and Action Meeting to collaborate and 
@@ -16,5 +16,6 @@ DESCRIPTION:Join us at our Strategy and Action Meeting to collaborate and
  ide entrance - lower level.
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=660+Flormann
  +St%2C+Rapid+City%2C+SD&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

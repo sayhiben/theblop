@@ -2,19 +2,19 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:705611cc-ab32-4549-b134-d78c7a57ab4e
+UID:0913542d-33e1-4d1c-9ede-900f0df4f13f
 SEQUENCE:0
-DTSTAMP:20250313T031818Z
-DTSTART:20250315T100000
-DTEND:20250315T140000
+DTSTAMP:20250314T072603Z
+DTSTART:20250315T170000
+DTEND:20250315T190000
 SUMMARY:#TeslaTakedown Bellevue Square
-LOCATION:821 Bellevue Way
-DESCRIPTION:Join us at Bellevue Square to say NO TO MAGA-Fascism! We'll ga
- ther at the corner of NE 8th St and Bellevue Way NE to protest against Elo
- n Musk and Tesla's influence. Bring signs\, bring friends\, and dress for 
- the weather!\n\nCorner of NE 8th and Bellevue Way NE (across from the NE c
- orner of Bellevue Square)
+LOCATION:821 Bellevue Way\, Bellevue\, WA 98004 US
+DESCRIPTION:We are rallying at Bellevue Square to oppose Elon Musk and Tes
+ la's actions against democracy. Join us to protest and prevent what is des
+ cribed as Musk's illegal coup. Bring signs\, invite your network\, and mak
+ e your voice heard.\n\nCorner of NE 8th and Bellevue Way NE
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=821+Bellevue
- +Way&zoom=15&basemap=roadmap
+ +Way%2C+Bellevue%2C+WA+98004+US&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

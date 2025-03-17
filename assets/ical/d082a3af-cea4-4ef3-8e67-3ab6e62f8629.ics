@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:cd717394-6de3-4410-b561-639ddba394cb
+UID:1aea0005-69c0-4f9a-b0c3-8340894b53c8
 SEQUENCE:0
-DTSTAMP:20250311T012444Z
-DTSTART:20250315T110000
-DTEND:20250315T150000
+DTSTAMP:20250314T072603Z
+DTSTART:20250315T180000
+DTEND:20250315T200000
 SUMMARY:#TeslaTakedown Littleton
 LOCATION:5700 S Broadway\, Littleton\, CO
 DESCRIPTION:Join us for a volunteer-organized rally at the Tesla Dealershi
@@ -14,5 +14,6 @@ DESCRIPTION:Join us for a volunteer-organized rally at the Tesla Dealershi
  and slogans.\n\nTesla Dealership
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=5700+S+Broad
  way%2C+Littleton%2C+CO&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

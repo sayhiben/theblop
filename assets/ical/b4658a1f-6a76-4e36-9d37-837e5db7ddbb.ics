@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:28e1f262-576e-4c5b-97e6-06f897a35776
+UID:d1102638-8825-455b-b1b0-d2ae86710ee8
 SEQUENCE:0
-DTSTAMP:20250313T180257Z
-DTSTART:20250314T170000
-DTEND:20250314T210000
+DTSTAMP:20250314T072603Z
+DTSTART:20250315T000000
+DTEND:20250315T020000
 SUMMARY:Protest Against Vivek Ramaswamy
 LOCATION:Across from The Pinnacle\, 1772 Indian Wood Circle\, Maumee\, Mau
  mee\, OH
@@ -16,5 +16,6 @@ DESCRIPTION:We are organizing a protest against Vivek Ramaswamy during the
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Across+from+
  The+Pinnacle%2C+1772+Indian+Wood+Circle%2C+Maumee%2C+Maumee%2C+OH&zoom=15&
  basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

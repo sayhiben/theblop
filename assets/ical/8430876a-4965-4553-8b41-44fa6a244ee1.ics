@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:9c876377-78d0-41d7-9c81-59b772efb61d
+UID:4eaae9b9-8d61-49bf-a1fe-258d427e97bd
 SEQUENCE:0
-DTSTAMP:20250316T031514Z
-DTSTART:20250405T150000
-DTEND:20250405T190000
+DTSTAMP:20250317T035347Z
+DTSTART:20250405T220000
+DTEND:20250406T000000
 SUMMARY:Peaceful Protest
 LOCATION:\, Hartford\, CT
 DESCRIPTION:We are organizing a peaceful protest to remove corrupt politic
@@ -14,5 +14,6 @@ DESCRIPTION:We are organizing a peaceful protest to remove corrupt politic
  ate Capitol
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+Hartford
  %2C+CT&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

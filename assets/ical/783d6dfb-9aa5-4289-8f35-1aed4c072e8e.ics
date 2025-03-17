@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:36979915-30de-483a-82aa-cf7f460ba74a
+UID:88ccbe02-aa99-44ab-84fe-88ca0ef2cd87
 SEQUENCE:0
-DTSTAMP:20250313T000603Z
-DTSTART:20250315T110000
-DTEND:20250315T150000
+DTSTAMP:20250314T072603Z
+DTSTART:20250315T180000
+DTEND:20250315T200000
 SUMMARY:SF - Rally for Federal Employees by NTEU\, NARFE\, AFGE and APWU
 LOCATION:Phillip Burton Federal Building\, 450 Golden Gate Ave\, San Franc
  isco\, CA
@@ -19,5 +19,6 @@ DESCRIPTION:We invite you to march with federal unions\, associations\, an
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Phillip+Burt
  on+Federal+Building%2C+450+Golden+Gate+Ave%2C+San+Francisco%2C+CA&zoom=15&
  basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

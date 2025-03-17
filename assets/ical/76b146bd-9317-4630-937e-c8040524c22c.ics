@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:7e524cfb-893c-4e93-8ddf-4e92142df1d9
+UID:47fd1ef5-5c86-48af-b29e-80aa7e86eba2
 SEQUENCE:0
-DTSTAMP:20250313T000603Z
-DTSTART:20250322T180000
-DTEND:20250322T220000
+DTSTAMP:20250317T035347Z
+DTSTART:20250323T010000
+DTEND:20250323T030000
 SUMMARY:Town Hall Meeting
 LOCATION:24861 Airport Rd\, Athens\, AL
 DESCRIPTION:We invite you to join us for a Town Hall Meeting to show your 
@@ -16,5 +16,6 @@ DESCRIPTION:We invite you to join us for a Town Hall Meeting to show your
  a CD 5 Representative\, will be present.\n\nEl Opry Event Center
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=24861+Airpor
  t+Rd%2C+Athens%2C+AL&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

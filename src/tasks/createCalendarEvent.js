@@ -4,7 +4,7 @@ import ical from 'ical-generator';
 import { getMapsUrl } from '../scripts/maps';
 import { parseEventDate } from './parseDates';
 
-export function createCalendarEventIfNeeded(evt, icalDir) {
+export function createCalendarEvent(evt, icalDir) {
   if (!evt) return;
   // skip if no date
   if (!evt.Date) {
@@ -17,16 +17,7 @@ export function createCalendarEventIfNeeded(evt, icalDir) {
   // For example, if parseEventDate returns a dayjs object from "YYYY-MM-DD HH:mm"
   let localDateTime = parseEventDate(`${evt.Date} ${evt.Time}`);
   if (!localDateTime) {
-    localDateTime = parseEventDate(evt.Date, 'YYYY-MM-DD') 
-                    || parseEventDate(evt.Date, 'MM/DD/YYYY') 
-                    || parseEventDate(evt.Date, 'MM/DD/YY')
-                    || parseEventDate(evt.Date, 'YYYY/MM/DD')
-                    || parseEventDate(evt.Date, 'MM-DD-YYYY')
-                    || parseEventDate(evt.Date, 'YYYY-MM-DD')
-                    || parseEventDate(evt.Date, 'MM-DD-YY')
-                    || parseEventDate(evt.Date, 'YYYY/MM/DD')
-                    || parseEventDate(evt.Date, 'MM/DD')
-                    || parseEventDate(evt.Date, 'MM-DD');
+    localDateTime = parseEventDate(evt.Date);
   }
   if (!localDateTime) {
     console.error(`[CreateCalendarEvent] Could not parse date/time for event ${evt.UUID} with date: ${evt.Date} and time: ${evt.Time}`);
@@ -39,17 +30,9 @@ export function createCalendarEventIfNeeded(evt, icalDir) {
     return;
   }
 
-  // Check if .ics already exists
-  const existingFiles = fs.readdirSync(icalDir);
-  const existingFile = existingFiles.find((f) => f.startsWith(evt.UUID));
-  if (existingFile) {
-    console.log(`[CreateCalendarEvent] Already exists: ${existingFile}, skipping creation.`);
-    return;
-  }
-
   // Create a floating-time event for an hour's duration (or skip 'end' if you want).
   // "Floating" means no explicit timezone is set.
-  const localEndTime = localDateTime.add(4, 'hour'); 
+  const localEndTime = localDateTime.add(2, 'hour'); 
   // Convert dayjs -> plain JS Date (still effectively "local" floating times)
   const startJSDate = localDateTime.toDate();
   const endJSDate = localEndTime.toDate();
@@ -60,11 +43,12 @@ export function createCalendarEventIfNeeded(evt, icalDir) {
   calendar.createEvent({
     start: startJSDate,
     end: endJSDate,
-    summary: evt.Title || 'Protest Event',
+    summary: evt.Title || 'Social Event',
     description: (evt.Description || '') + '\n\n' + (evt['Meeting Location'] || ''),
     location: displayAddress,
     url: mapUrl,   // optional
-    floating: true                        // key: ensures ical-generator does not add TZ info
+    floating: true,                        // key: ensures ical-generator does not add TZ info
+    status: 'confirmed'
   });
   const icalPath = `${icalDir}/${evt.UUID}.ics`;
   fs.writeFileSync(icalPath, calendar.toString());

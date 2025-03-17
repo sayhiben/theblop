@@ -2,17 +2,18 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:aeab8c39-dbeb-4432-ac2d-0a38de3936dc
+UID:ca076733-4edd-47a9-8e50-298eabfe907d
 SEQUENCE:0
-DTSTAMP:20250313T031819Z
-DTSTART:20250315T093000
-DTEND:20250315T133000
+DTSTAMP:20250314T072603Z
+DTSTART:20250315T163000
+DTEND:20250315T183000
 SUMMARY:Tesla Protest St. Petersburg
 LOCATION:4601 34th St N\, St. Petersburg\, FL
-DESCRIPTION:We are organizing a protest called "Tesla Takedown" at Tesla S
- t. Petersburg to raise awareness and advocate for our cause.\n\nTesla St. 
- Petersburg
+DESCRIPTION:Join us for a protest at Tesla St. Petersburg to express conce
+ rns and raise awareness about [specific issues or goals if available].\n\n
+ Tesla St. Petersburg
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=4601+34th+St
  +N%2C+St.+Petersburg%2C+FL&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

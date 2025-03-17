@@ -2,16 +2,17 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:722f3b76-752d-42a4-9693-c9058521d734
+UID:d455b6fe-f624-4f97-91e0-a5c50690caef
 SEQUENCE:0
-DTSTAMP:20250304T015830Z
-DTSTART:20250315T153300
-DTEND:20250315T193300
+DTSTAMP:20250314T072603Z
+DTSTART:20250315T220000
+DTEND:20250316T000000
 SUMMARY:Hex The Fascists
 LOCATION:Utah State Capitol - South Steps\, Salt Lake City\, UT
 DESCRIPTION:Join us for an empowerment and protection ritual – no experi
  ence needed.\n\nUtah State Capitol - South Steps
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Utah+State+C
  apitol+-+South+Steps%2C+Salt+Lake+City%2C+UT&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

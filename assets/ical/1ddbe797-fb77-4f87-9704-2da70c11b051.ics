@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:5c067fd9-fb63-47b6-9242-0eaa9dea4c97
+UID:977ba4cc-fc2e-4e80-8b80-e4711b46e071
 SEQUENCE:0
-DTSTAMP:20250312T060241Z
-DTSTART:20250323T130000
-DTEND:20250323T170000
+DTSTAMP:20250317T035347Z
+DTSTART:20250323T200000
+DTEND:20250323T220000
 SUMMARY:Rally to Save USPS
 LOCATION:2261 S. Redwood Rd.\, West Valley City\, UT
 DESCRIPTION:Join us as we stand with letter carriers in a rally to save th
@@ -14,5 +14,6 @@ DESCRIPTION:Join us as we stand with letter carriers in a rally to save th
  service and support the essential work of mail carriers.\n\n
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=2261+S.+Redw
  ood+Rd.%2C+West+Valley+City%2C+UT&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

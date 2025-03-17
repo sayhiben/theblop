@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:b138b457-9050-45a1-bc9b-92ca6859a6f9
+UID:588a36c9-3074-4d86-b650-fb16d05bf0f6
 SEQUENCE:0
-DTSTAMP:20250316T031514Z
-DTSTART:20250316T100000
-DTEND:20250316T140000
+DTSTAMP:20250317T035347Z
+DTSTART:20250316T170000
+DTEND:20250316T190000
 SUMMARY:Tesla Time!!!!
 LOCATION:9595 Six Pines Dr\, The Woodlands\, TX
 DESCRIPTION:Join us for a peaceful protest at the Market Street Tesla Loca
@@ -17,5 +17,6 @@ DESCRIPTION:Join us for a peaceful protest at the Market Street Tesla Loca
   Location
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=9595+Six+Pin
  es+Dr%2C+The+Woodlands%2C+TX&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

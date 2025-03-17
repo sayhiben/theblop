@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:fb72a371-c1b1-4c44-8b42-6a307d187ff9
+UID:bedd368b-e29c-458e-bef8-72b498a22334
 SEQUENCE:0
-DTSTAMP:20250310T002409Z
-DTSTART:20250314T100000
-DTEND:20250314T140000
+DTSTAMP:20250314T072603Z
+DTSTART:20250314T170000
+DTEND:20250314T190000
 SUMMARY:Rally to Save the VA
 LOCATION:Outside the Dallas VA Hospital\, Dallas\, TX
 DESCRIPTION:Join us to thank those who fought for our right to rally. Elec
@@ -14,5 +14,6 @@ DESCRIPTION:Join us to thank those who fought for our right to rally. Elec
  \; please don’t take a parking spot from our veteran-patients
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Outside+the+
  Dallas+VA+Hospital%2C+Dallas%2C+TX&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR
