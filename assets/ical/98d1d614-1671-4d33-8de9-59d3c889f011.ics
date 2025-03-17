@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:846f02de-bae3-4af0-b4bb-dd995d3af331
+SEQUENCE:0
+DTSTAMP:20250317T150227Z
+DTSTART:20250321T133000
+DTEND:20250321T153000
+SUMMARY:POP-UP RALLY
+LOCATION:555 N Carancahua\, Corpus Christi\, TX
+DESCRIPTION:Join us for a Pop-Up Rally hosted by Congressman Michael Cloud
+ . We will gather to discuss important issues and engage with the community
+ .\n\n555 N Carancahua
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=555+N+Caranc
+ ahua%2C+Corpus+Christi%2C+TX&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
