@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:edd29834-750c-4bfd-a4d2-275832aa255d
+SEQUENCE:0
+DTSTAMP:20250317T060329Z
+DTSTART:20250317T173000
+DTEND:20250317T193000
+SUMMARY:Free Our Speech\, Free Mahmoud
+LOCATION:Philly City Hall\, NE side\, Philadelphia\, PA
+DESCRIPTION:Join us in Philadelphia to raise awareness and advocate for im
+ migrant rights and freedom of dissent. We are focusing on supporting Mahmo
+ ud's situation and urgency in protecting rights.\n\nPhilly City Hall\, NE 
+ side
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Philly+City+
+ Hall%2C+NE+side%2C+Philadelphia%2C+PA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

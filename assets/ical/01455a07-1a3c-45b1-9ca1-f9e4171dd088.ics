@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:a9337392-4d7b-40b3-95eb-7ca89f52ad46
+SEQUENCE:0
+DTSTAMP:20250317T060329Z
+DTSTART:20250320T130000
+DTEND:20250320T150000
+SUMMARY:Protest Schumer's Book Tour
+LOCATION:The Weitzman\, Philadelphia\, PA
+DESCRIPTION:Join us for a peaceful protest against Chuck Schumer's book to
+ ur on antisemitism in America\, held outside libraries and bookstores.\n\n
+ The Weitzman
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=The+Weitzman
+ %2C+Philadelphia%2C+PA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

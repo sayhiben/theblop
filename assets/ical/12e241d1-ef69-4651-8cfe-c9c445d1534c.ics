@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:1f46bd6f-5899-4c82-8d48-dfeb4fb32239
+SEQUENCE:0
+DTSTAMP:20250317T060329Z
+DTSTART:20250319T190000
+DTEND:20250319T210000
+SUMMARY:Protest Schumer's Book Tour
+LOCATION:Sixth & I\, Washington\, DC
+DESCRIPTION:Join us for a peaceful protest against Chuck Schumer's Book To
+ ur\, focusing on Antisemitism in America. We will gather outside libraries
+  and bookstores.\n\nSixth & I
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Sixth+%26+I%
+ 2C+Washington%2C+DC&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

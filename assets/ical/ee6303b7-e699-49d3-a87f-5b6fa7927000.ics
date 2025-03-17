@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:f8fda32c-17b5-485c-bb8a-aec6e2f1fb31
+SEQUENCE:0
+DTSTAMP:20250317T060329Z
+DTSTART:20250317T180000
+DTEND:20250317T200000
+SUMMARY:Stand Up for Dr. Rasha Alawieh
+LOCATION:RI State House lawn\, Providence\, RI
+DESCRIPTION:We are gathering to protest the deportation of Dr. Rasha Alawi
+ eh\, who was detained and deported against a judge's order. Stand with us 
+ to show we cannot tolerate such actions.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=RI+State+Hou
+ se+lawn%2C+Providence%2C+RI&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

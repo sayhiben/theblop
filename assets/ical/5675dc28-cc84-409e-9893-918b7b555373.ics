@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:1c550546-d364-4c9d-a95f-2491058c72be
+SEQUENCE:0
+DTSTAMP:20250317T060329Z
+DTSTART:20250405T170000
+DTEND:20250405T190000
+SUMMARY:Fundraiser for Norcal Resist
+LOCATION:2211 16th St\, Sacramento\, CA
+DESCRIPTION:We're hosting a fundraiser for Norcal Resist featuring food\, 
+ drinks\, community activities\, and performances by various artists. Join 
+ us for a night of art and music.\n\nDemo Spot
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=2211+16th+St
+ %2C+Sacramento%2C+CA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

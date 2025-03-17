@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:0c138454-fcd7-414d-9232-487b065f52d5
+SEQUENCE:0
+DTSTAMP:20250317T060329Z
+DTSTART:20250405T120000
+DTEND:20250405T140000
+SUMMARY:Hands Off Mass Mobilization
+LOCATION:City Hall\, Philadelphia\, PA
+DESCRIPTION:Join us for a rally against Trump and Musk at City Hall\, foll
+ owed by a march to Independence Hall. Speakers include Rep. Chris Rabb and
+  others.\n\nCity Hall
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=City+Hall%2C
+ +Philadelphia%2C+PA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

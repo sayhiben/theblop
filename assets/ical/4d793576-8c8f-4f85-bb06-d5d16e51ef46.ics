@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:9fa39074-8ef7-4204-baf0-78f92f4202cb
+SEQUENCE:0
+DTSTAMP:20250317T060329Z
+DTSTART:20250320T123000
+DTEND:20250320T143000
+SUMMARY:Answers to Our Questions: Democracy Discourse
+LOCATION:101 South Independence Mall East\, Philadelphia\, PA
+DESCRIPTION:We aim to address pressing questions about recent political ac
+ tions involving Chuck Schumer and Donald Trump\, discussing the implicatio
+ ns for democracy.\n\nWeitzman National Museum of American Jewish History
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=101+South+In
+ dependence+Mall+East%2C+Philadelphia%2C+PA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

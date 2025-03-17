@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:1253e85d-239b-494f-9706-afdee1d50208
+SEQUENCE:0
+DTSTAMP:20250317T060329Z
+DTSTART:20250322T130000
+DTEND:20250322T150000
+SUMMARY:Central Texas Town Hall and Protest
+LOCATION:101 E Central Ave Belton\, TX 76513
+DESCRIPTION:Join us for a town hall and protest event at the City of Belto
+ n Courthouse. We will have invited guests including Rep. John Carter\, 31s
+ t District\, and confirmed speakers such as Dawn Richardson and Jennifer L
+ ee. The event is organized by Indivisible CenTex.\n\nCity of Belton Courth
+ ouse
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=101+E+Centra
+ l+Ave+Belton%2C+TX+76513&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

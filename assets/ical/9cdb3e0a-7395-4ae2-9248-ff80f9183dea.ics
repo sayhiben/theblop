@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:acbfd491-d490-4311-9c10-8d56f0e9fd55
+SEQUENCE:0
+DTSTAMP:20250317T060329Z
+DTSTART:20250501T000000
+DTEND:20250501T020000
+SUMMARY:Mayday
+LOCATION:\, Washington\, DC
+DESCRIPTION:Join us for Camp Mayday\, a vision of protest\, art\, and chan
+ ge. We host daily public demonstrations where art serves as resistance. Jo
+ in the movement to impeach and remove.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+Washingt
+ on%2C+DC&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

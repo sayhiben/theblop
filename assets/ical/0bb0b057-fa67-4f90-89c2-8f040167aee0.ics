@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:9237b00d-9caa-41d7-89bb-f78793f7801d
+SEQUENCE:0
+DTSTAMP:20250317T060329Z
+DTSTART:20250317T173000
+DTEND:20250317T193000
+SUMMARY:Working Families Power Protest Against Brad Schimel
+LOCATION:1011 Blue Ribbon Circle N.\, Oconomowoc\, WI
+DESCRIPTION:We are organizing a protest to express that Wisconsin is not f
+ or sale. Join us as we stand against Brad Schimel and his association with
+  billionaire Elon Musk\, who supports an agenda to cut Medicaid. Our goal 
+ is to make it clear that Wisconsin's interests are not for sale.\n\nThe Do
+ ckHaus
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=1011+Blue+Ri
+ bbon+Circle+N.%2C+Oconomowoc%2C+WI&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

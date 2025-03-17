@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:128d0050-a61e-4f18-973f-16dbe20be22e
+SEQUENCE:0
+DTSTAMP:20250317T060329Z
+DTSTART:20250405T120000
+DTEND:20250405T140000
+SUMMARY:Fill the Hill
+LOCATION:Cole’s Hill\, across from the Rock\, Plymouth\, MA
+DESCRIPTION:Join us for 'Fill the Hill' with Indivisible Plymouth\, a mass
+  mobilization at Cole’s Hill advocating for democracy\, social security\
+ , public schools\, health care\, and more. Be part of this peaceful assemb
+ ly and support our causes.\n\nCole’s Hill
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Cole%E2%80%9
+ 9s+Hill%2C+across+from+the+Rock%2C+Plymouth%2C+MA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

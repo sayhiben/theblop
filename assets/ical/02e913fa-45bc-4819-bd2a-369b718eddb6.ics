@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:21ba1e4c-f942-492e-b263-16dd77b2c51a
+SEQUENCE:0
+DTSTAMP:20250317T060329Z
+DTSTART:20250322T100000
+DTEND:20250322T120000
+SUMMARY:Musk or Us: Tesla Rally
+LOCATION:21030 N 19th Ave\, Phoenix\, AZ
+DESCRIPTION:Join us for the 'Musk or Us' Tesla rally organized by Northwes
+ t Valley Indivisible. We aim to protest Elon Musk's political influence an
+ d highlight his deep ties to political power structures. Bring your signs\
+ , water\, and sunscreen to this outdoor event. Let's demand accountability
+  together.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=21030+N+19th
+ +Ave%2C+Phoenix%2C+AZ&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

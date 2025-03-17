@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:1ff3f007-e2f7-4813-b7aa-89d3ac929caa
+SEQUENCE:0
+DTSTAMP:20250317T060329Z
+DTSTART:20250322T130000
+DTEND:20250322T150000
+SUMMARY:We The People Dissent Protest
+LOCATION:\, Windsor\, ON
+DESCRIPTION:Join us for a protest to express dissent and advocate for chan
+ ge. We will gather under the Gitler Great Canadian Flag and stand in solid
+ arity\, waving to U.S. protesters across the border.\n\nUnder Gitler Great
+  Canadian Flag
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+Windsor%
+ 2C+ON&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:82fff450-daf0-4d8c-86eb-fc5e71e958d3
+SEQUENCE:0
+DTSTAMP:20250317T060329Z
+DTSTART:20250322T140000
+DTEND:20250322T160000
+SUMMARY:Thank You Is Not Enough: Hands Off The VA
+LOCATION:\, Naples\, FL
+DESCRIPTION:We are organizing a march to protest against the reduction of 
+ veterans’ benefits and funding. Let's tell the Trump administration to k
+ eep their hands off VA funding.\n\nCoastland Mall to Freedom Park
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+Naples%2
+ C+FL&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

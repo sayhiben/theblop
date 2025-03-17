@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:db59d683-7291-4c78-b855-69c265f25406
+SEQUENCE:0
+DTSTAMP:20250317T060329Z
+DTSTART:20250405T120000
+DTEND:20250405T140000
+SUMMARY:Protest
+LOCATION:1301 E 6th Ave\, Helena\, MT
+DESCRIPTION:We are organizing a protest on various political issues includ
+ ing supporting Ukraine\, protecting human rights\, removing corruption\, f
+ unding public education\, and more. Join us to push our representatives to
+  take action.\n\nMontana State Capitol\, Flag Plaza
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=1301+E+6th+A
+ ve%2C+Helena%2C+MT&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

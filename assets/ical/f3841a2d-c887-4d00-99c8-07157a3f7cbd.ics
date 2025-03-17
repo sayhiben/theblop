@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:ea81d12e-20ac-40c8-975d-ebf42da7b414
+SEQUENCE:0
+DTSTAMP:20250317T060329Z
+DTSTART:20250405T120000
+DTEND:20250405T140000
+SUMMARY:Remove\, Reverse\, Reclaim
+LOCATION:Indiana State House\, Indianapolis\, IN
+DESCRIPTION:We are organizing a protest to remove corrupt politicians\, re
+ verse the damage\, and reclaim our democracy. Join us in this movement as 
+ part of 50 protests taking place in 50 states.\n\nIndiana State House
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Indiana+Stat
+ e+House%2C+Indianapolis%2C+IN&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

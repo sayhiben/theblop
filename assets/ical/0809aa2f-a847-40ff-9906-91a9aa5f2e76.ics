@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:732ec073-92c9-4073-b522-3ae6859ffb92
+SEQUENCE:0
+DTSTAMP:20250317T060329Z
+DTSTART:20250324T140000
+DTEND:20250324T160000
+SUMMARY:Protest for Gaza\, DEI\, and Immigrant Rights
+LOCATION:Northrop Plaza\, Minneapolis\, MN
+DESCRIPTION:Join UMN Divest with SDS\, YDSA\, SJP\, MALCS\, and SHA in a p
+ rotest against oppressive university policies. We stand for Gaza\, DEI\, a
+ nd immigrant rights.\n\nNorthrop Plaza
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Northrop+Pla
+ za%2C+Minneapolis%2C+MN&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

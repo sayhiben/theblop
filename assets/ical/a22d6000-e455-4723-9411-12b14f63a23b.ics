@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:8c291011-f155-48a6-a239-e6e7dd9c5a0c
+SEQUENCE:0
+DTSTAMP:20250317T060329Z
+DTSTART:20250323T130000
+DTEND:20250323T150000
+SUMMARY:Rally to Save USPS
+LOCATION:1199 Capitol Way S\, Olympia\, WA
+DESCRIPTION:Join us to stand with letter carriers against the dismantling 
+ of the postal service. Show your support at the rally organized by NALC Br
+ anch 351 in Olympia.\n\nTivoli Fountain (Front of Capitol Building)
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=1199+Capitol
+ +Way+S%2C+Olympia%2C+WA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

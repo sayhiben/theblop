@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:2e584f8b-6d02-4af5-9aa8-ea3ef06c430e
+SEQUENCE:0
+DTSTAMP:20250317T060329Z
+DTSTART:20250317T190000
+DTEND:20250317T210000
+SUMMARY:Protest Schumer's Book Tour
+LOCATION:Central Library\, Baltimore\, MD
+DESCRIPTION:We are organizing a peaceful protest against Chuck Schumer's b
+ ook tour\, focusing on the issue of antisemitism in America. Join us outsi
+ de libraries and bookstores to make our voices heard.\n\nCentral Library
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Central+Libr
+ ary%2C+Baltimore%2C+MD&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

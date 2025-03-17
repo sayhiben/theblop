@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:863b5ad4-bf8b-430b-ab0e-d11636526cc6
+SEQUENCE:0
+DTSTAMP:20250317T060329Z
+DTSTART:20250322T130000
+DTEND:20250322T150000
+SUMMARY:Protest Schumer's Book Tour
+LOCATION:Corte Madera Store\, San Francisco\, CA
+DESCRIPTION:We are organizing a peaceful protest against Chuck Schumer's B
+ ook Tour\, specifically addressing "Antisemitism in America\," to be held 
+ outside libraries and bookstores.\n\nCorte Madera Store
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Corte+Madera
+ +Store%2C+San+Francisco%2C+CA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

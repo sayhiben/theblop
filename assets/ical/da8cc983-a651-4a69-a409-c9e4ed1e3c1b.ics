@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:c6ecddc9-3c25-417e-9100-3c93ee35494d
+SEQUENCE:0
+DTSTAMP:20250317T060329Z
+DTSTART:20250322T130000
+DTEND:20250322T150000
+SUMMARY:We the People Dissent
+LOCATION:\, Detroit\, MI
+DESCRIPTION:Join us for a protest in Detroit on March 22\, 2025\, where we
+  will gather at Hart Plaza to show support and solidarity. At 1 PM\, parti
+ cipants will wave to Canadian protesters across.\n\nHart Plaza
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+Detroit%
+ 2C+MI&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

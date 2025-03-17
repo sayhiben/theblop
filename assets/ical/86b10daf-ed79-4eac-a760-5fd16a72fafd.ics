@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:f62630fa-2893-44a0-a094-7ff4ff31dfe8
+SEQUENCE:0
+DTSTAMP:20250317T060329Z
+DTSTART:20250318T183000
+DTEND:20250318T203000
+SUMMARY:Protest Schumer's Book Tour
+LOCATION:Temple Emanu-El Streicker Center\, New York\, NY
+DESCRIPTION:Join us for a peaceful protest against Chuck Schumer's book to
+ ur on 'Antisemitism in America'. We will gather outside libraries and book
+ stores.\n\nTemple Emanu-El Streicker Center
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Temple+Emanu
+ -El+Streicker+Center%2C+New+York%2C+NY&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

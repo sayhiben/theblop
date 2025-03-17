@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:6344afd5-8c24-40c3-b6c8-b580ea36a059
+SEQUENCE:0
+DTSTAMP:20250317T060329Z
+DTSTART:20250322T120000
+DTEND:20250322T140000
+SUMMARY:Salem\, Oregon area protests
+LOCATION:\, Salem\, OR
+DESCRIPTION:We invite you to join our protest events aimed at promoting ju
+ stice by assembling and marching through downtown Salem. Organized by "Ris
+ e & Resist - Salem Activists"\, events are scheduled for March 22 at the T
+ esla Dealership and April 5 at the Capitol Mall.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+Salem%2C
+ +OR&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

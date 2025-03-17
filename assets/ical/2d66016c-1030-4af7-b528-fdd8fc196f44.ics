@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:5c5fcc0d-fdc9-4394-96d6-6d42d8c92957
+SEQUENCE:0
+DTSTAMP:20250317T060329Z
+DTSTART:20250322T130000
+DTEND:20250322T150000
+SUMMARY:Stand Up! Fight Back! Rally & Picket
+LOCATION:Union Station - 1717 Pacific Ave\, Tacoma\, WA
+DESCRIPTION:Join us this Women's Month for a rally and picket in support o
+ f the women of Palestine\, immigrant and migrant women\, and to protect Bl
+ ack\, trans\, and Native women. Stand up with us as we fight back for just
+ ice and equality.\n\nUnion Station
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Union+Statio
+ n+-+1717+Pacific+Ave%2C+Tacoma%2C+WA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
