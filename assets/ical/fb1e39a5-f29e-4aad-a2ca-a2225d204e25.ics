@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:80dc568e-9428-42db-bd9a-0e5a2fe62d1d
+SEQUENCE:0
+DTSTAMP:20250317T034825Z
+DTSTART:20250323T070000
+DTEND:20250323T090000
+SUMMARY:Benefits over Billionaires
+LOCATION:\, Bakersfield\, Anaheim\, Norco\, CA
+DESCRIPTION:Join Congressman Ro Khanna and Protect Our Care for an advocac
+ y event emphasizing the importance of public concerns over billionaire int
+ erests. In collaboration with numerous partners\, we aim to address politi
+ cal issues if Republicans ignore public demands.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+Bakersfi
+ eld%2C+Anaheim%2C+Norco%2C+CA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:fae5ab83-303b-4221-b51e-4643dc4f573a
+SEQUENCE:0
+DTSTAMP:20250317T034825Z
+DTSTART:20250325T233000
+DTEND:20250326T013000
+SUMMARY:Tesla Tuesdays: March Madness
+LOCATION:21728 E. Mission Ave\, Liberty Lake\, WA
+DESCRIPTION:Join us for peaceful and recurring sidewalk protests at the Li
+ berty Lake Tesla Supercharger. Whether it's rain\, shine\, or snow\, we'll
+  be there. Bring your signs and participate in our March Madness events!\n
+ \nLiberty Lake Tesla Supercharger
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=21728+E.+Mis
+ sion+Ave%2C+Liberty+Lake%2C+WA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

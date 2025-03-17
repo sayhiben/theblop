@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:ba33547d-32bc-4845-98c4-e8293ad289aa
+SEQUENCE:0
+DTSTAMP:20250317T034825Z
+DTSTART:20250319T180000
+DTEND:20250319T200000
+SUMMARY:March for Immigrant Rights
+LOCATION:\, Montgomery\, AL
+DESCRIPTION:Join us to stand up and speak up for immigrant rights at Cramt
+ on Bowl Stadium. Let's come together to support this important cause.\n\nC
+ ramton Bowl Stadium
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+Montgome
+ ry%2C+AL&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

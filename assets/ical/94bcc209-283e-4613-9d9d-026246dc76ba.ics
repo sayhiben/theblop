@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:599b149c-9bf3-4fe3-83a0-39b7ae6e140f
+SEQUENCE:0
+DTSTAMP:20250317T034825Z
+DTSTART:20250323T180000
+DTEND:20250323T200000
+SUMMARY:Rally to Save USPS
+LOCATION:151 Forest Avenue\, Portland\, ME
+DESCRIPTION:Join us in a rally to stand with letter carriers in opposing t
+ he dismantling of the postal service. We aim to defend and support the USP
+ S.\n\n151 Forest Avenue\, Portland\, ME
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=151+Forest+A
+ venue%2C+Portland%2C+ME&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

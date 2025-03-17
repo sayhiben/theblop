@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:eb180ec7-8a67-4c78-87ce-a8c7c7f1a9ba
+SEQUENCE:0
+DTSTAMP:20250317T034825Z
+DTSTART:20250322T230000
+DTEND:20250323T010000
+SUMMARY:Neighbors Against Trump
+LOCATION:111 E Boston Post Rd\, Mamaroneck\, NY
+DESCRIPTION:"So much wrong\, too little cardboard!" Come join us to protes
+ t the Trump administration and its actions!\n\nEntrance of Harbor Island
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=111+E+Boston
+ +Post+Rd%2C+Mamaroneck%2C+NY&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

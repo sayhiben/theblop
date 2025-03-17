@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:296c4987-6ac4-4742-b332-5725d9bc6e2e
+SEQUENCE:0
+DTSTAMP:20250317T034825Z
+DTSTART:20250317T190000
+DTEND:20250317T210000
+SUMMARY:Join Us to Hold Our Representatives Accountable!
+LOCATION:\, Morgantown\, WV
+DESCRIPTION:We are organizing a town hall to hold our representatives acco
+ untable and to address the potential harm to West Virginians due to cuts t
+ o Medicaid and SNAP. Meetings will be held with Congressman Riley Moore an
+ d Senator Shelley Moore Capito.\n\nCongressman Riley Moore’s Office and 
+ Senator Shelley Moore Capito’s Office
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+Morganto
+ wn%2C+WV&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

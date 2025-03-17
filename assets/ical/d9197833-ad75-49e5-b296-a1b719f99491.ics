@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:9e0b55ff-9006-4c88-b2a4-7b687f8f5f9c
+SEQUENCE:0
+DTSTAMP:20250317T034825Z
+DTSTART:20250318T003000
+DTEND:20250318T023000
+SUMMARY:Chuck’s Book Tour: First Stop
+LOCATION:400 Cathedral St\, Baltimore\, MD
+DESCRIPTION:We invite you to join us at Chuck Schumer's book tour event to
+  discuss issues regarding democracy and seek answers to pressing political
+  questions.\n\nCentral Library
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=400+Cathedra
+ l+St%2C+Baltimore%2C+MD&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

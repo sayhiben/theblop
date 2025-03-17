@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:97e1b44f-fc81-49b3-ac44-16450b43e977
+SEQUENCE:0
+DTSTAMP:20250317T034825Z
+DTSTART:20250320T220000
+DTEND:20250321T000000
+SUMMARY:Tell Senator Cantwell to Stand Up & Fight for Us!
+LOCATION:915 2nd Ave\, Seattle\, WA
+DESCRIPTION:Join us as we rally at the Seattle Office to call on Senator C
+ antwell to stand up and fight for our community. Your voice matters\, and 
+ we need your support to make a difference.\n\nHenry M. Jackson Federal Bui
+ lding
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=915+2nd+Ave%
+ 2C+Seattle%2C+WA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

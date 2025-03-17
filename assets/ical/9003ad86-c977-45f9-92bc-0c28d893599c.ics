@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:6d74d7b2-d41a-4837-b9ae-a4ac7698aa0b
+SEQUENCE:0
+DTSTAMP:20250317T034825Z
+DTSTART:20250401T003000
+DTEND:20250401T023000
+SUMMARY:Rise Up Columbus
+LOCATION:Mill Race Park\, Columbus\, IN
+DESCRIPTION:Join us in a march to protest against harmful legislation affe
+ cting trans rights. We are gathering to speak up for our trans brothers an
+ d sisters.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Mill+Race+Pa
+ rk%2C+Columbus%2C+IN&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
