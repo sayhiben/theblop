@@ -1,5 +1,5 @@
 // language: jsx
-import React, { useRef } from "react";
+import React from "react";
 import dayjs from "dayjs";
 import { humanizeDate } from "../tasks/parseDates";
 import { getMapsUrl } from "../scripts/maps";
@@ -72,6 +72,84 @@ function getOutlookCalendarLink(event) {
   );
 }
 
+/**
+ * Builds a full text summary for the event, to be used in some share links.
+ */
+function buildShareText({ event, baseUrl, joinStr = "\n", limited = false, showLink = true, supportsEmoji = true }) {
+  // E.g. "Check out this event: <Title>\nDate/Time: <Date/Time>\nLocation: <Location>\nDescription: <Desc>\n<FullPermalink>"
+  const eventUrl = `${baseUrl}/events/${event.UUID}.html`;
+  const lines = [];
+  const displayDate = humanizeDate(`${event.Date}`);
+  const dateLabel = supportsEmoji ? "🗓️ " : "When: ";
+  const locationLabel = supportsEmoji ? "📍 " : "Where: ";
+  const descriptionLabel = supportsEmoji ? "📝 " : "";
+
+  lines.push(`${event.Title || "Untitled Event"}`);
+  lines.push("");
+
+  if (showLink) {
+    lines.push(`${eventUrl} `);
+    lines.push("");
+  }
+
+  if (event.Date && event.Time) {
+    lines.push(`${dateLabel}${displayDate} at ${event.Time}`);
+  } else if (event.Date) {
+    lines.push(`${dateLabel}${displayDate}`);
+  }
+
+  if (event.City || event.State || event.Address) {
+    const locParts = [];
+    if (event.Address) locParts.push(event.Address);
+    if (event.City) locParts.push(event.City);
+    if (event.State) locParts.push(event.State);
+    lines.push(`️${locationLabel}${locParts.join(", ")}`);
+  }
+
+  if (!limited && event.Description) {
+    lines.push("");
+    lines.push(`${descriptionLabel}${event.Description}`);
+  }
+
+  return lines.join(joinStr);
+}
+
+/**
+ * Builds a URL-encoded version of the share text plus the event URL.
+ */
+function buildShareUrlEncodedText(options) {
+  return encodeURIComponent(buildShareText(options));
+}
+
+/**
+ * Return a pre-filled share URL for each platform. We'll build them all in an object.
+ */
+function getShareLinks(event, baseUrl) {
+  const eventUrl = encodeURIComponent(`${baseUrl}/events/${event.UUID}.html`);
+  const eventImage = event.localImagePath
+    ? encodeURIComponent(
+        `${baseUrl}/assets/images/${event.localImagePath.split("/").pop()}`
+      )
+    : "";
+
+  const shareTextMap = {
+    bsky: `https://bsky.app/intent/compose?text=${buildShareUrlEncodedText({ event, baseUrl, limited: true })}`,
+    facebook: `https://www.facebook.com/sharer/sharer.php?u=${eventUrl}&quote=${buildShareUrlEncodedText({ event, baseUrl })}`,
+    linkedin: `https://www.linkedin.com/sharing/share-offsite/?url=${eventUrl}`,
+    reddit: `https://www.reddit.com/submit?url=${eventUrl}&title=${buildShareUrlEncodedText({ event, baseUrl, limited: true, showLink: false })}`,
+    threads: `https://www.threads.net/intent/post?text=${buildShareUrlEncodedText({ event, baseUrl, limited: true, supportsEmoji: false})}`,
+    pinterest: `https://pinterest.com/pin/create/button/?url=${eventUrl}&media=${eventImage}&description=${buildShareUrlEncodedText({ event, baseUrl })}`,
+    tumblr: `https://www.tumblr.com/widgets/share/tool?canonicalUrl=${eventUrl}&caption=${buildShareUrlEncodedText({ event, baseUrl })}`,
+    telegram: `https://t.me/share/url?url=${eventUrl}&text=${buildShareUrlEncodedText({ event, baseUrl })}`,
+    whatsapp: `https://wa.me/?text=${buildShareUrlEncodedText({ event, baseUrl, supportsEmoji: false })}`,
+    sms: `sms:?&body=${buildShareUrlEncodedText({ event, baseUrl })}`,
+    email: `mailto:?subject=${encodeURIComponent(event.Title || "Check out this event")}&body=${buildShareUrlEncodedText({ event, baseUrl })}`,
+    copyPermalink: `${baseUrl}/events/${event.UUID}.html`,
+  };
+
+  return shareTextMap;
+}
+
 export function EventCard({ event, dateKey, baseAssetPath }) {
   const eventTitle = event.Title || "Untitled Event";
   const displayDatetime = `${event.Date} ${event.Time}`;
@@ -86,7 +164,7 @@ export function EventCard({ event, dateKey, baseAssetPath }) {
   const localThumbnail = event.localThumbnailPath
     ? event.localThumbnailPath.split("/").pop()
     : null;
-  const permalink = `events/${event.UUID}.html`;
+  const baseUrl = "https://theblop.org"; // e.g. your website origin
 
   const sanitizedCity = event.City
     ? event.City.replace(/[^a-zA-Z]/g, "").toLowerCase()
@@ -98,7 +176,6 @@ export function EventCard({ event, dateKey, baseAssetPath }) {
     ? event.Address.replace(/[^a-zA-Z]/g, "").toLowerCase()
     : "";
   let displayAddress = event.Address || "";
-  // If sanitizeddisplaylocation doesn't include city and state, append it
   if (
     !sanitizedAddress.includes(sanitizedCity) ||
     !sanitizedAddress.includes(sanitizedState)
@@ -107,90 +184,83 @@ export function EventCard({ event, dateKey, baseAssetPath }) {
   }
   const mapUrl = getMapsUrl(displayAddress);
 
-  function findURLs(text) {
-    const regex =
-      /\b(?:https?:\/\/)?(?:www\.)?[-a-zA-Z0-9@:%._\+~#=]{1,256}\.[a-zA-Z0-9()]{1,6}\b(?:[-a-zA-Z0-9()@:%_\+.~#?&\/=]*)/gi;
-    return text.match(regex) || [];
-  }
-
-  // event.Links could be a string like "[link1, link2]", "['link1', 'link2']", or "link1, link2", or might only have one link by itself "link1", so we need to coerce it into an array
-  const links = event.Links.replace(/[\[\]']+/g, "")
+  // Convert any link string to array of URLs
+  const links = (event.Links || "")
+    .replace(/[\[\]']+/g, "")
     .split(",")
     .map((link) => {
       const l = link.trim().toLowerCase();
-      // handle reddit links
+      if (!l || l === "n/a" || l === "null" || l === "undefined") return null;
+      // handle reddit shortlinks like /r/...
       if (l.startsWith("/r/") || l.startsWith("r/")) {
         const path = l.replace("/r/", "").replace("r/", "");
         return `https://www.reddit.com/r/${path}`;
       }
-      // otherwise if it's not a URL, toss it
-      if (!findURLs(l).length) {
-        return null;
-      }
-      if (!l || l === "N/A" || l === "" || l === "null" || l === "undefined") {
-        return null;
-      }
-      // add https:// to the link if it doesn't have a protocol
-      if (!l.startsWith("http")) {
+      // if no protocol, add https
+      if (!/^https?:\/\//.test(l)) {
         return `https://${l}`;
       }
       return l;
     })
     .filter((l) => l);
 
-  const linkElements = links.map((link, i) => {
-    return (
-      <div key={i} className="flex justify-start mb-2">
-        <div className="mr-2" title="Links">
-          🔗
-        </div>
-        <a
-          href={link}
-          className="text-blue-600 dark:text-blue-200 hover:text-blue-800 underline text-sm"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          {link}
-        </a>
+  const linkElements = links.map((link, i) => (
+    <div key={i} className="flex justify-start mb-2">
+      <div className="mr-2" title="Links">
+        🔗
       </div>
-    );
-  });
+      <a
+        href={link}
+        className="text-blue-600 dark:text-blue-200 hover:text-blue-800 underline text-sm"
+        target="_blank"
+        rel="noopener noreferrer"
+      >
+        {link}
+      </a>
+    </div>
+  ));
 
+  // Build share links
+  const shareLinks = getShareLinks(event, baseUrl);
+
+  // event detail for copy button
   const copyHtml = `
-  <div>
-    ${
-      localFileName
-        ? `<img src="https://theblop.org/assets/images/${localThumbnail}" alt="Event Flyer" style="max-width:200px;"/>`
-        : ""
-    }
-    <h3>${eventTitle}</h3>
-    <p><strong>Date/Time:</strong> ${displayDatetime}</p>
-    <p><strong>Address:</strong> ${displayAddress}</p>
-    <p><strong>Meeting Location:</strong> ${event["Meeting Location"] || ""}</p>
-    ${
-      event.Links
-        ? `<p><strong>Links:</strong> ${event.Links.split(",")
-            .map(
-              (link) =>
-                `<a href="${link.trim()}" target="_blank">${link.trim()}</a>`
-            )
-            .join(", ")}</p>`
-        : ""
-    }
-    ${
-      event.Sponsors
-        ? `<p><strong>Sponsors:</strong> ${event.Sponsors}</p>`
-        : ""
-    }
-    ${
-      event.Description
-        ? `<p><strong>Description:</strong> ${event.Description}</p>`
-        : ""
-    }
-  </div>
-`;
-
+    <div>
+      ${
+        localFileName
+          ? `<img src="https://theblop.org/assets/images/${localThumbnail}" alt="Event Flyer" style="max-width:200px;"/>`
+          : ""
+      }
+      <h3>${eventTitle}</h3>
+      <p><strong>Date/Time:</strong> ${displayDatetime}</p>
+      <p><strong>Address:</strong> ${displayAddress}</p>
+      <p><strong>Meeting Location:</strong> ${
+        event["Meeting Location"] || ""
+      }</p>
+      ${
+        event.Links
+          ? `<p><strong>Links:</strong> ${event.Links.split(",")
+              .map(
+                (link) =>
+                  `<a href="${link.trim()}" target="_blank">${link.trim()}</a>`
+              )
+              .join(", ")}</p>`
+          : ""
+      }
+      ${
+        event.Sponsors
+          ? `<p><strong>Sponsors:</strong> ${event.Sponsors}</p>`
+          : ""
+      }
+      ${
+        event.Description
+          ? `<p><strong>Description:</strong> ${event.Description}</p>`
+          : ""
+      }
+    </div>
+  `;
   const copyHtmlEscaped = escapeAttr(copyHtml);
+
   const copyText = `${eventTitle}
 Date/Time: ${displayDatetime}
 Address: ${displayAddress}
@@ -313,7 +383,11 @@ Description: ${event.Description}
             </a>
             {/* Image search button */}
             <a
-              href={`https://lens.google.com/uploadbyurl?url=https://theblop.org/assets/images/${localFileName}`}
+              href={
+                localFileName
+                  ? `https://lens.google.com/uploadbyurl?url=https://theblop.org/assets/images/${localFileName}`
+                  : "#"
+              }
               rel="nofollow noreferer"
               target="_blank"
               className="cursor-pointer text-gray-400 dark:text-stone-300 hover:text-blue-600 dark:hover:text-blue-400 text-sm font-medium px-2 py-2 inline-flex space-x-1 items-center"
@@ -336,9 +410,7 @@ Description: ${event.Description}
               </svg>
             </a>
             {/* Add to calendar button */}
-            <div 
-              className="inline-flex inline-block add-to-calendar-container p-2"
-            >
+            <div className="inline-flex inline-block add-to-calendar-container p-2">
               <button
                 type="button"
                 title="Add to calendar"
@@ -360,38 +432,42 @@ Description: ${event.Description}
                   />
                 </svg>
               </button>
-              <div 
-                className="add-to-calendar-menu hidden absolute right-0 bottom-0 mt-2 w-48 bg-white border border-gray-200 rounded-md shadow-lg z-9990"
-              >
+              <div className="add-to-calendar-menu hidden absolute right-0 bottom-0 mt-2 w-48 bg-white border border-gray-200 rounded-md shadow-lg z-9990">
                 <ul className="py-2 text-sm text-gray-700">
                   <li>
-                    <a 
+                    <a
                       href={getGoogleCalendarLink(event)}
-                      target="_blank" 
+                      target="_blank"
                       rel="noopener noreferrer"
                       className="calendar-google block px-4 py-2 hover:bg-gray-100"
-                    >Add to Google</a>
+                    >
+                      Add to Google
+                    </a>
                   </li>
                   <li>
-                    <a 
+                    <a
                       href={getOutlookCalendarLink(event)}
-                      target="_blank" 
+                      target="_blank"
                       rel="noopener noreferrer"
                       className="calendar-outlook block px-4 py-2 hover:bg-gray-100"
-                    >Add to Outlook</a>
+                    >
+                      Add to Outlook
+                    </a>
                   </li>
                   <li>
-                    <a 
+                    <a
                       href={`/assets/ical/${event.UUID}.ics`}
                       download={`${event.UUID}.ics`}
                       className="calendar-ics block px-4 py-2 hover:bg-gray-100"
-                    >Apple / Download .ics</a>
+                    >
+                      Apple / Download .ics
+                    </a>
                   </li>
                 </ul>
               </div>
             </div>
-           {/* Map link */}
-            <a
+            {/* Map link */}
+                        <a
               href={mapUrl}
               rel="nofollow noreferer"
               target="_blank"
@@ -414,7 +490,7 @@ Description: ${event.Description}
                 />
               </svg>
             </a>
-            {/* Copy button */}
+            {/* Copy event details button */}
             <button
               className="copy-btn cursor-pointer text-gray-400 dark:text-stone-300 hover:text-blue-600 dark:hover:text-blue-400 text-sm font-medium px-2 py-2 inline-flex space-x-1 items-center"
               data-plain={copyText}
@@ -437,29 +513,139 @@ Description: ${event.Description}
                 />
               </svg>
             </button>
-            {/* Permalink button */}
-            <button
-              className="copy-btn cursor-pointer text-gray-400 dark:text-stone-300 hover:text-blue-600 dark:hover:text-blue-400 text-sm font-medium px-2 py-2 inline-flex space-x-1 items-center"
-              data-plain={escapeAttr(permalink)}
-              data-copy-type="permalink"
-              title="Copy permalink"
-            >
-              <svg
-                width="100%"
-                height="100%"
-                viewBox="0 0 24 24"
-                fill="none"
-                xmlns="http://www.w3.org/2000/svg"
+            {/* Share button */}
+            <div className="inline-flex inline-block share-container p-2">
+              <button
+                type="button"
+                title="Share this event"
+                className="share-button cursor-pointer text-gray-400 dark:text-stone-300 hover:text-blue-600 dark:hover:text-blue-400 text-sm font-medium h-full w-full items-center"
               >
-                <path
-                  d="M12.7076 18.3639L11.2933 19.7781C9.34072 21.7308 6.1749 21.7308 4.22228 19.7781C2.26966 17.8255 2.26966 14.6597 4.22228 12.7071L5.63649 11.2929M18.3644 12.7071L19.7786 11.2929C21.7312 9.34024 21.7312 6.17441 19.7786 4.22179C17.826 2.26917 14.6602 2.26917 12.7076 4.22179L11.2933 5.636M8.50045 15.4999L15.5005 8.49994"
-                  stroke="currentColor"
-                  strokeWidth="2"
-                  strokeLinecap="round"
-                  strokeLinejoin="round"
-                />
-              </svg>
-            </button>
+                {/* Icon can be replaced or updated as desired */}
+                <svg width="100%" height="100%" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                  <path d="M20.7914 12.6074C21.0355 12.3981 21.1575 12.2935 21.2023 12.169C21.2415 12.0598 21.2415 11.9402 21.2023 11.831C21.1575 11.7065 21.0355 11.6018 20.7914 11.3926L12.3206 4.13196C11.9004 3.77176 11.6903 3.59166 11.5124 3.58725C11.3578 3.58342 11.2101 3.65134 11.1124 3.77122C11 3.90915 11 4.18589 11 4.73936V9.03462C8.86532 9.40807 6.91159 10.4897 5.45971 12.1139C3.87682 13.8845 3.00123 16.1759 3 18.551V19.1629C4.04934 17.8989 5.35951 16.8765 6.84076 16.1659C8.1467 15.5394 9.55842 15.1683 11 15.0705V19.2606C11 19.8141 11 20.0908 11.1124 20.2288C11.2101 20.3486 11.3578 20.4166 11.5124 20.4127C11.6903 20.4083 11.9004 20.2282 12.3206 19.868L20.7914 12.6074Z" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"/>
+                </svg>
+              </button>
+              <div className="share-menu hidden absolute right-0 bottom-0 mt-2 w-48 bg-white border border-gray-200 rounded-md shadow-lg z-9990">
+                <ul className="py-2 text-sm text-gray-700">
+                  <li>
+                    <a
+                      href={shareLinks.bsky}
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      className="block px-4 py-2 hover:bg-gray-100"
+                    >
+                      Bluesky
+                    </a>
+                  </li>
+                  <li>
+                    <a
+                      href={shareLinks.facebook}
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      className="block px-4 py-2 hover:bg-gray-100"
+                    >
+                      Facebook
+                    </a>
+                  </li>
+                  <li>
+                    <a
+                      href={shareLinks.linkedin}
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      className="block px-4 py-2 hover:bg-gray-100"
+                    >
+                      LinkedIn
+                    </a>
+                  </li>
+                  <li>
+                    <a
+                      href={shareLinks.reddit}
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      className="block px-4 py-2 hover:bg-gray-100"
+                    >
+                      Reddit
+                    </a>
+                  </li>
+                  <li>
+                    <a
+                      href={shareLinks.threads}
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      className="block px-4 py-2 hover:bg-gray-100"
+                    >
+                      Threads
+                    </a>
+                  </li>
+                  <li>
+                    <a
+                      href={shareLinks.pinterest}
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      className="block px-4 py-2 hover:bg-gray-100"
+                    >
+                      Pinterest
+                    </a>
+                  </li>
+                  <li>
+                    <a
+                      href={shareLinks.tumblr}
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      className="block px-4 py-2 hover:bg-gray-100"
+                    >
+                      Tumblr
+                    </a>
+                  </li>
+                  <li>
+                    <a
+                      href={shareLinks.telegram}
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      className="block px-4 py-2 hover:bg-gray-100"
+                    >
+                      Telegram
+                    </a>
+                  </li>
+                  <li>
+                    <a
+                      href={shareLinks.whatsapp}
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      className="block px-4 py-2 hover:bg-gray-100"
+                    >
+                      WhatsApp
+                    </a>
+                  </li>
+                  <li>
+                    <a
+                      href={shareLinks.sms}
+                      className="block px-4 py-2 hover:bg-gray-100"
+                    >
+                      SMS
+                    </a>
+                  </li>
+                  <li>
+                    <a
+                      href={shareLinks.email}
+                      className="block px-4 py-2 hover:bg-gray-100"
+                    >
+                      Email
+                    </a>
+                  </li>
+                  <li>
+                    <button
+                      type="button"
+                      data-plain={escapeAttr(shareLinks.copyPermalink)}
+                      data-copy-type="permalink"
+                      className="copy-permalink cursor-pointer block w-full text-left px-4 py-2 hover:bg-gray-100"
+                    >
+                      Copy Permalink
+                    </button>
+                  </li>
+                </ul>
+              </div>
+            </div>
           </div>
         </div>
       </div>
