@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:aee62dcc-3dfe-442c-a2b1-0fd369fd85ce
+SEQUENCE:0
+DTSTAMP:20250317T180256Z
+DTSTART:20250321T190000
+DTEND:20250321T210000
+SUMMARY:Lincoln Day Dinner
+LOCATION:Thanksgiving Point Barn\, Lehi\, UT
+DESCRIPTION:Join the Utah County Republican Party for a night of fundraisi
+ ng\, speeches\, conversation\, and entertainment. Enjoy an evening of spee
+ ches\, awards\, and celebrations of how the Party works for you. Pre-Party
+  begins at 5:30 p.m. with booths\, mingling\, a photo booth\, and a silent
+  auction.\n\nIn the Barn\, Thanksgiving Point
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Thanksgiving
+ +Point+Barn%2C+Lehi%2C+UT&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

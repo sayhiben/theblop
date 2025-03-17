@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:3b7ee0ba-7dc0-4c25-a746-101b0b663744
+SEQUENCE:0
+DTSTAMP:20250317T180256Z
+DTSTART:20250401T110000
+DTEND:20250401T130000
+SUMMARY:Protect Medicaid Day of Action
+LOCATION:\, Indianapolis\, IN
+DESCRIPTION:We are organizing a day of action to protect Medicaid at the S
+ tatehouse. Join us to make a difference and support this cause.\n\nThe Sta
+ tehouse
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+Indianap
+ olis%2C+IN&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

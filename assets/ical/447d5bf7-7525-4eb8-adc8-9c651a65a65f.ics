@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:40f33fa1-d098-426b-9263-f5237f4f68df
+SEQUENCE:0
+DTSTAMP:20250317T180256Z
+DTSTART:20250405T120000
+DTEND:20250405T140000
+SUMMARY:Protest Rally
+LOCATION:17th & Marine\, Astoria\, OR
+DESCRIPTION:Join us for a protest rally to promote courage and change. Emp
+ hasizing the themes of 'Remove Reverse Reclaim\,' we encourage everyone to
+  come forward and participate.\n\n17th & Marine
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=17th+%26+Mar
+ ine%2C+Astoria%2C+OR&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

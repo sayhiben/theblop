@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:559caba0-443e-4930-bc7c-e414ca975d02
+SEQUENCE:0
+DTSTAMP:20250317T180256Z
+DTSTART:20250405T120000
+DTEND:20250405T140000
+SUMMARY:We The People
+LOCATION:Salem Capitol Mall\, Salem\, OR
+DESCRIPTION:Join us for a demonstration at the Salem Capitol Mall. We are 
+ gathering to voice our concerns and make our stand known.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Salem+Capito
+ l+Mall%2C+Salem%2C+OR&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

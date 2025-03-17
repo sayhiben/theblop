@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:4811efa4-70df-4cfb-92b0-52d3fbfe6892
+SEQUENCE:0
+DTSTAMP:20250317T180256Z
+DTSTART:20250321T180000
+DTEND:20250321T200000
+SUMMARY:Musk or Us: Demand Rep Downing Fight Back!
+LOCATION:415 S 30th St\, Billings\, MT
+DESCRIPTION:Join us in Billings for a community event aimed at pressuring 
+ Congress to oppose budgets that benefit Elon Musk and Donald Trump. We are
+  demanding public town halls to ensure accountability\, standing against e
+ xtremist budget measures in a collective call to action.\n\nLincoln Center
+  Auditorium
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=415+S+30th+S
+ t%2C+Billings%2C+MT&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

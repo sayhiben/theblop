@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:b68ac792-76ee-4631-9d7d-bd3a362b218c
+SEQUENCE:0
+DTSTAMP:20250317T180256Z
+DTSTART:20250319T120000
+DTEND:20250319T140000
+SUMMARY:PROTECT the Federal Workforce RALLY
+LOCATION:230 S. Dearborn St.\, Chicago\, IL
+DESCRIPTION:We invite you to join us in supporting frontline federal emplo
+ yees by protesting against the administration's attacks on federal workers
+ . Together\, we stand with NTEU to highlight the significance of their wor
+ k.\n\nJohn C. Kluczynski Building (Outdoor Plaza)
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=230+S.+Dearb
+ orn+St.%2C+Chicago%2C+IL&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

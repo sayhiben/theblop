@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:653278c8-ca85-4a9b-a9d0-b13445e3e9f1
+SEQUENCE:0
+DTSTAMP:20250317T180256Z
+DTSTART:20250322T101500
+DTEND:20250322T121500
+SUMMARY:LET'S CRASH Blake Moore's GOP Luncheon
+LOCATION:1701 Park Blvd\, Ogden\, UT
+DESCRIPTION:We are gathering to peacefully protest against Congressman and
+  Doge Co-Chair Blake Moore's GOP luncheon at Timbermine Steakhouse. Please
+  arrive by 10:15 to ensure orderly participation.\n\nTimbermine Steakhouse
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=1701+Park+Bl
+ vd%2C+Ogden%2C+UT&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

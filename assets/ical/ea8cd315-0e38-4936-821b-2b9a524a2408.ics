@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:ff1f103d-522b-4698-b8fd-3f634034cf18
+SEQUENCE:0
+DTSTAMP:20250317T180256Z
+DTSTART:20250405T120000
+DTEND:20250405T140000
+SUMMARY:Hands Off! National Mobilization to Stop Trump and Musk's Power Gr
+ ab
+LOCATION:50 W Washington St\, Chicago\, IL
+DESCRIPTION:Join us for a national mobilization to oppose the perceived po
+ wer grab by Trump and Musk. This event aims to unite people in defense of 
+ democracy and justice.\n\nRichard J. Daley Center
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=50+W+Washing
+ ton+St%2C+Chicago%2C+IL&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

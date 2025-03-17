@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:780c21f7-e552-45ad-8cac-75649a6aa6fa
+SEQUENCE:0
+DTSTAMP:20250317T180256Z
+DTSTART:20250318T120000
+DTEND:20250318T140000
+SUMMARY:Legislative Wrap-Up
+LOCATION:Clarke Building 510/511\, \, UT
+DESCRIPTION:Join us for the Legislative Wrap-Up event where Senate Preside
+ nt J. Stuart Adams and Speaker of the House Mike Schultz will be speaking.
+  This event is a great opportunity to gain insights into recent legislativ
+ e sessions and network with peers.\n\nClarke Building 510/511
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Clarke+Build
+ ing+510%2F511%2C+%2C+UT&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
