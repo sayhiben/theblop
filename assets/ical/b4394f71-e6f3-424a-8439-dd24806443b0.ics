@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:18f1741d-7485-47f6-bd9f-b72d01bc5642
+SEQUENCE:0
+DTSTAMP:20250318T024445Z
+DTSTART:20250329T200000
+DTEND:20250329T220000
+SUMMARY:Stripped for Parts: American Journalism on the Brink + Director Ri
+ ck Goldsmith
+DESCRIPTION:Join us for a screening of "Stripped for Parts: American Journ
+ alism on the Brink\," followed by a Q&A session with Director Rick Goldsmi
+ th. Discover insights into the challenges facing journalism today.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=&zoom=15&bas
+ emap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:774a35b9-d524-43df-82d7-a0d1b18a8e0d
+SEQUENCE:0
+DTSTAMP:20250318T024445Z
+DTSTART:20250320T150000
+DTEND:20250320T170000
+SUMMARY:Emergency Protest at the US Embassy
+LOCATION:US Embassy in Prague\, Prague\, CZE
+DESCRIPTION:We will gather in front of the US embassy in Prague to protest
+  the escalation of repression and persecution by the Trump administration 
+ targeting migrants\, including the broader Latino community and students a
+ ctive in solidarity with the victims of the fascist migration politics of 
+ the USA.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=US+Embassy+i
+ n+Prague%2C+Prague%2C+CZE&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

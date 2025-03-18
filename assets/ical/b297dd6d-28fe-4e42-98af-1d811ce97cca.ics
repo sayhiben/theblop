@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:676b7d52-9a2b-4325-bdc0-2f0d4efce3ca
+SEQUENCE:0
+DTSTAMP:20250318T024445Z
+DTSTART:20250318T161500
+DTEND:20250318T181500
+SUMMARY:Corner Protest for Public Lands
+LOCATION:2601 S College Ave\, Fort Collins\, CO
+DESCRIPTION:Join us for the Corner Protest occurring every Tuesday and Thu
+ rsday from 4:15 PM to 6:00 PM. We focus on positive engagement and advocat
+ ing for public lands and political awareness through peaceful demonstratio
+ ns.\n\nCorner of Drake and College
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=2601+S+Colle
+ ge+Ave%2C+Fort+Collins%2C+CO&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

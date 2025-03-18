@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:6303f2d1-7879-4a42-8290-9841e4fc00f9
+SEQUENCE:0
+DTSTAMP:20250318T024445Z
+DTSTART:20250323T110000
+DTEND:20250323T130000
+SUMMARY:Rally to Save USPS
+LOCATION:Window on the Bay\, Monterey\, CA
+DESCRIPTION:Join us to stand with letter carriers against efforts to priva
+ tize or restructure USPS. We are advocating for the protection of 640\,000
+  postal jobs and the universal service relied upon by millions\, especiall
+ y in rural America. By coming together\, we aim to oppose these harmful pr
+ oposals and uphold the integrity of the postal service.\n\nWindow on the B
+ ay
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Window+on+th
+ e+Bay%2C+Monterey%2C+CA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

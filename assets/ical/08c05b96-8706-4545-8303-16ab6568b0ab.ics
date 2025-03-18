@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:bcdc86c7-6730-4271-8021-a620440beb19
+SEQUENCE:0
+DTSTAMP:20250318T024445Z
+DTSTART:20250319T120000
+DTEND:20250319T140000
+SUMMARY:DEFEAT ELON MUSK
+LOCATION:888 Boylston St\, Boston\, MA
+DESCRIPTION:Join us as we speak out against Elon Musk and protect our Demo
+ cracy. Organized by The Boston Committee to Defeat Elon Musk.\n\nBoston Te
+ sla Dealership
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=888+Boylston
+ +St%2C+Boston%2C+MA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

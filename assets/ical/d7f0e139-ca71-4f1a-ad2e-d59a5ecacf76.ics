@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:60d8d4ec-4736-4649-9f08-9bd280770532
+SEQUENCE:0
+DTSTAMP:20250318T024445Z
+DTSTART:20250322T120000
+DTEND:20250322T140000
+SUMMARY:Second Rally to Protect Our Public Lands
+LOCATION:Roosevelt Arch\, Gardiner\, MT
+DESCRIPTION:Join us for a gathering aimed at advocating for the protection
+  of public lands. It's a chance to come together and let off steam in supp
+ ort of conservation efforts.\n\nRoosevelt Arch
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Roosevelt+Ar
+ ch%2C+Gardiner%2C+MT&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

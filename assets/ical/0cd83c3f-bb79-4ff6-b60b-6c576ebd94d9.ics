@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:213b8410-74ac-472a-bf3c-ff3743372fcc
+SEQUENCE:0
+DTSTAMP:20250318T024445Z
+DTSTART:20250323T110000
+DTEND:20250323T130000
+SUMMARY:Rally to Save USPS
+LOCATION:Calder Plaza - Ottawa Ave NW\, Grand Rapids\, MI 49503
+DESCRIPTION:Join us in standing with letter carriers to oppose the dismant
+ ling of the postal service. Participate in the Rally to Save USPS organize
+ d by NALC Branch 56 in Grand Rapids.\n\nCalder Plaza
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Calder+Plaza
+ +-+Ottawa+Ave+NW%2C+Grand+Rapids%2C+MI+49503&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

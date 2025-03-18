@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:7b4a710d-8520-4e41-b70b-bc1f6983d038
+SEQUENCE:0
+DTSTAMP:20250318T024445Z
+DTSTART:20250509T100000
+DTEND:20250509T120000
+SUMMARY:Victory Day
+LOCATION:National Mall\, Washington\, DC
+DESCRIPTION:Join us as we celebrate Victory Day\, honoring Ukraine with th
+ e shout "Slava Ukraini!" at the National Mall in Washington\, DC.\n\nNatio
+ nal Mall
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=National+Mal
+ l%2C+Washington%2C+DC&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

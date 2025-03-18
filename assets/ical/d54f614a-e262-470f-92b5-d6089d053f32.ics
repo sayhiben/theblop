@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:c132114c-f86a-4af4-84ef-a5f0df6932fe
+SEQUENCE:0
+DTSTAMP:20250318T024445Z
+DTSTART:20250405T080000
+DTEND:20250405T100000
+SUMMARY:Hands Off Rally/Mart
+LOCATION:location TBD\, Fort Collins\, CO
+DESCRIPTION:On April 5\, IndivisibleNOCO and 50501 in northern Colorado ar
+ e joining national and local organizations for Hands Off!\, a national mas
+ s activation opposing the Trump-Musk billionaire takeover and the Republic
+ an assault on freedoms and communities. Hands Off! is an all-in moment for
+  pro-democracy and pro-worker movements.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=location+TBD
+ %2C+Fort+Collins%2C+CO&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

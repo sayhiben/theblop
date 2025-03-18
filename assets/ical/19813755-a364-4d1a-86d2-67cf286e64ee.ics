@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:31ae691e-1346-4836-a66d-8847b43aaff4
+SEQUENCE:0
+DTSTAMP:20250318T024445Z
+DTSTART:20250404T160000
+DTEND:20250404T180000
+SUMMARY:#LetUsWork Rally to Save Our Services!
+LOCATION:Baltimore Penn Station\, Baltimore\, MD
+DESCRIPTION:Join the Federal Unionists Network in their fight against budg
+ et cuts to save vital services. Participate in the rally to support the ca
+ use.\n\nBaltimore Penn Station
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Baltimore+Pe
+ nn+Station%2C+Baltimore%2C+MD&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

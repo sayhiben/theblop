@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:12291f0b-678e-4e9d-974e-fd56d19b30ae
+SEQUENCE:0
+DTSTAMP:20250318T024445Z
+DTSTART:20250321T120000
+DTEND:20250321T140000
+SUMMARY:Bernie and AOC Coming to Greeley
+LOCATION:Bank of Colorado Arena University of Northern Colorado 1600 23rd 
+ Street\, Greeley\, CO 80639
+DESCRIPTION:Join us for an event featuring Bernie Sanders and special gues
+ t Alexandria Ocasio-Cortez\, titled 'Fighting Oligarchy: Where We Go From 
+ Here'. The event aims to discuss important issues with notable figures. Do
+ ors open at 12:00 PM MDT with the speaking program starting at 1:00 PM.\n\
+ n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Bank+of+Colo
+ rado+Arena+University+of+Northern+Colorado+1600+23rd+Street%2C+Greeley%2C+
+ CO+80639&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

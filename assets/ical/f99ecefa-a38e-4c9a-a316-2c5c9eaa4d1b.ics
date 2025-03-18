@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:7e35ea92-c931-4452-b5fa-cae8779cc564
+SEQUENCE:0
+DTSTAMP:20250318T024445Z
+DTSTART:20250319T123000
+DTEND:20250319T143000
+SUMMARY:Rally for Workers
+LOCATION:Colorado Capitol\, Denver\, CO
+DESCRIPTION:Join us at the Colorado Capitol for the Rally for Workers in s
+ upport of the Worker Protection Act. We're gathering to advocate for bette
+ r pay\, benefits\, and safer work conditions. Numerous organizations\, inc
+ luding SEIU and Colorado Worker Rights United\, back this cause.\n\nWest S
+ teps
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Colorado+Cap
+ itol%2C+Denver%2C+CO&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

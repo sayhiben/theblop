@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:68823a1e-0bc8-41a2-9976-c01c57635b14
+SEQUENCE:0
+DTSTAMP:20250318T024445Z
+DTSTART:20250319T153000
+DTEND:20250319T173000
+SUMMARY:Rally and March
+LOCATION:1000 Larimer St\, Denver\, CO
+DESCRIPTION:Join us for a rally and march to support the release of Mahmou
+ d Khalil and Columbia students\, oppose deportations\, and stand up for fr
+ ee speech from the US to Palestine.\n\nTivoli Quad
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=1000+Larimer
+ +St%2C+Denver%2C+CO&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

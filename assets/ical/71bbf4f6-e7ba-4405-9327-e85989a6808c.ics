@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:84ae0196-2462-4cc4-bf01-9c9b49959d81
+SEQUENCE:0
+DTSTAMP:20250318T024445Z
+DTSTART:20250318T100000
+DTEND:20250318T120000
+SUMMARY:Meet "Rep Boebert"
+LOCATION:2750 N Taft Ave\, Loveland\, CO
+DESCRIPTION:Have your voice heard! We are bringing Cardboard Lauren\, aka 
+ J6 Tourguide Boebert\, to you since Representative Boebert refuses to talk
+  to her constituents. Bring your questions\, signs\, and friends. We will 
+ record your remarks and questions and create a video to send to the Repres
+ entative.\n\nNorth Lake Park
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=2750+N+Taft+
+ Ave%2C+Loveland%2C+CO&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

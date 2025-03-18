@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:3dd5403c-8e3a-491a-9afa-520fd234b2cb
+SEQUENCE:0
+DTSTAMP:20250318T024445Z
+DTSTART:20250321T180000
+DTEND:20250321T200000
+SUMMARY:Medicaid Town Hall
+LOCATION:\, West Orange\, NJ
+DESCRIPTION:Join us at Rep. McIver's Medicaid Town Hall in West Orange. We
+  will discuss recent Medicaid news affecting New Jersey\, featuring guests
+  from Metropolitan Federal Health Network\, ABCD NJ\, and Medicaid advocat
+ es.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+West+Ora
+ nge%2C+NJ&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
