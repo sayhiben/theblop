@@ -189,7 +189,7 @@ export function EventCard({ event, dateKey, baseAssetPath }) {
     .replace(/[\[\]']+/g, "")
     .split(",")
     .map((link) => {
-      const l = link.trim().toLowerCase();
+      const l = link.trim();
       if (!l || l === "n/a" || l === "null" || l === "undefined") return null;
       // handle reddit shortlinks like /r/...
       if (l.startsWith("/r/") || l.startsWith("r/")) {
