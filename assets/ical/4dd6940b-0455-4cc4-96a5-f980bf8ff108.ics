@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:1ab7dac0-2682-4fc7-8b1a-ddcd5d141e25
+SEQUENCE:0
+DTSTAMP:20250318T150246Z
+DTSTART:20250321T173000
+DTEND:20250321T193000
+SUMMARY:AFGE: Join Us to Fight for SSA in Bridgewater
+LOCATION:245 US-22 207\, Bridgewater\, NJ
+DESCRIPTION:Join us in Bridgewater as we come together and rally to fight 
+ for and protect SSA!\n\nBridgewater Social Security Office
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=245+US-22+20
+ 7%2C+Bridgewater%2C+NJ&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

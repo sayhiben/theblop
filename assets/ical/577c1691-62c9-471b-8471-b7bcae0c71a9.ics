@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:3be97834-b532-427e-b8c4-862bf4dea595
+SEQUENCE:0
+DTSTAMP:20250318T150246Z
+DTSTART:20250320T110000
+DTEND:20250320T130000
+SUMMARY:Reject Trump's Border Policy
+LOCATION:Across from the Sainer Pavilion\, Sarasota\, FL
+DESCRIPTION:Join us in protesting against Trump's border policy and removi
+ ng racist misinformation from our schools. We will gather to voice our opp
+ osition to policies associated with figures like Chad Wolf\, Tom Homan\, a
+ nd Ron DeSantis.\n\nNew College
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Across+from+
+ the+Sainer+Pavilion%2C+Sarasota%2C+FL&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

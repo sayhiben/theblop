@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:5f2b0dd9-5b20-4b9a-a581-17fdbb6fc1cf
+SEQUENCE:0
+DTSTAMP:20250318T150246Z
+DTSTART:20250321T090000
+DTEND:20250321T110000
+SUMMARY:Another Peaceful protest
+LOCATION:Shell Point Blvd. & Summerlin Rd.\, Fort Myers\, FL
+DESCRIPTION:Join us for a peaceful protest organized by The Dem Club of SW
+ . Show your support by standing in solidarity at Shell Point Blvd. & Summe
+ rlin Rd. in Fort Myers. Bring your signs and be part of this demonstration
+ .\n\nNorthwest corner
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Shell+Point+
+ Blvd.+%26+Summerlin+Rd.%2C+Fort+Myers%2C+FL&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

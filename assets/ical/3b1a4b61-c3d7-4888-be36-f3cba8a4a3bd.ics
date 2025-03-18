@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:bfb0bb74-8240-408f-9a33-c14702a2fd30
+SEQUENCE:0
+DTSTAMP:20250318T150246Z
+DTSTART:20250319T180000
+DTEND:20250319T200000
+SUMMARY:Free Mahmoud Khalil\, Free Leqaa Kordia Rally
+LOCATION:Pearl St & Monroe Ave NW\, Grand Rapids\, MI
+DESCRIPTION:Join us for a rally to support Mahmoud Khalil and Leqaa Kordia
+ \, who are associated with the Columbia students reportedly kidnapped by D
+ HS.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Pearl+St+%26
+ +Monroe+Ave+NW%2C+Grand+Rapids%2C+MI&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

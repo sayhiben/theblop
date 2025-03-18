@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:02000691-0da7-41ef-8f77-1f0ac3a9f1e6
+SEQUENCE:0
+DTSTAMP:20250318T150246Z
+DTSTART:20250320T120000
+DTEND:20250320T140000
+SUMMARY:Just say NO to Tom Kean Jr. budget cuts
+LOCATION:Sign up for more details.\, Bernardsville\, NJ
+DESCRIPTION:Join us to rally against Tom Kean Jr.'s proposed budget cuts o
+ utside his Bernardsville office. We aim to send a strong message that we o
+ ppose the cuts affecting constituents\, especially regarding Medicaid. Bri
+ ng your signs and be prepared to visit his office.\n\nOutside Tom Kean Jr.
+ 's office
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Sign+up+for+
+ more+details.%2C+Bernardsville%2C+NJ&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

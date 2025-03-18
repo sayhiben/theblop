@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:f7ebf905-f341-412b-baa2-d6928af7e93d
+SEQUENCE:0
+DTSTAMP:20250318T150246Z
+DTSTART:20250319T160000
+DTEND:20250319T180000
+SUMMARY:Save our Schools Bridge Rally
+LOCATION:29995 W 12 Mile Rd\, Farmington Hills\, MI
+DESCRIPTION:Join us for the Save our Schools Bridge Rally organized by NEA
+  EdActivists. We aim to bring attention to issues in education and support
+  our schools through this volunteer-organized rally.\n\nThe Hawk - Farming
+ ton Hills Community Center
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=29995+W+12+M
+ ile+Rd%2C+Farmington+Hills%2C+MI&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
