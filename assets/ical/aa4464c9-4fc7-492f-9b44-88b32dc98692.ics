@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:b6aed983-fbce-4587-bafd-4393651febad
+SEQUENCE:0
+DTSTAMP:20250318T090453Z
+DTSTART:20250318T180000
+DTEND:20250318T200000
+SUMMARY:Emergency Protest: Stop the Genocide
+LOCATION:W 43rd St & Broadway\, New York City\, NY
+DESCRIPTION:We are organizing an emergency protest in New York City to dem
+ and an arms embargo and stop the ongoing genocide.\n\nTimes Square
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=W+43rd+St+%2
+ 6+Broadway%2C+New+York+City%2C+NY&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

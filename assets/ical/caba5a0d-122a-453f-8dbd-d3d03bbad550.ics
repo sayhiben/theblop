@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:88b2c237-1485-460e-9eb9-a6baeda634da
+SEQUENCE:0
+DTSTAMP:20250318T090453Z
+DTSTART:20250323T140000
+DTEND:20250323T160000
+SUMMARY:Sign Waving Protest
+LOCATION:SR 410 and 204th\, Bonney Lake\, WA
+DESCRIPTION:Join us every Sunday to take to the streets in Bonney Lake. We
+  organize a sign-waving protest to promote democratic involvement and rais
+ e awareness about important issues. This grassroots effort is for everyone
+  who wants to make a difference.\n\nSR 410 and 204th
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=SR+410+and+2
+ 04th%2C+Bonney+Lake%2C+WA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

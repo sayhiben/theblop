@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:7caa96af-c212-4a71-9819-788b9c3dd91d
+SEQUENCE:0
+DTSTAMP:20250318T090453Z
+DTSTART:20250323T100000
+DTEND:20250323T120000
+SUMMARY:PROTEST!!!
+LOCATION:1st st and lincoln hwy dekalb il
+DESCRIPTION:Join us and protest the dismantling of our postal service! Rai
+ se your voice!\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=1st+st+and+l
+ incoln+hwy+dekalb+il&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

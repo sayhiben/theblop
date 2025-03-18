@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:3d8c073c-abf4-44ed-870f-f365a142fcc7
+SEQUENCE:0
+DTSTAMP:20250318T090453Z
+DTSTART:20250318T173000
+DTEND:20250318T193000
+SUMMARY:Call to Action
+LOCATION:The Granada Theatre\, Santa Barbara\, CA
+DESCRIPTION:Join us in Santa Barbara to show opposition against hate and s
+ piritual manipulation. Californians stand together for reproductive freedo
+ m and human rights.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=The+Granada+
+ Theatre%2C+Santa+Barbara%2C+CA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

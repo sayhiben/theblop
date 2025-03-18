@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:bc7fd790-d378-439b-a9c2-3b031ae94c0d
+SEQUENCE:0
+DTSTAMP:20250318T090453Z
+DTSTART:20250323T120000
+DTEND:20250323T140000
+SUMMARY:Stop the Cuts CD7 Town Hall Meeting
+LOCATION:700 Commons Way\, Bridgewater\, NJ 08807
+DESCRIPTION:Join us for a Town Hall meeting in Congressional District 7 to
+  oppose the immoral\, massive federal budget cuts\, the elimination of the
+  federal workforce and agencies to give the ultra-wealthy and corporations
+  massive tax cuts\, and the funding of mass deportation efforts.\n\nBridge
+ water Marriot
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=700+Commons+
+ Way%2C+Bridgewater%2C+NJ+08807&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

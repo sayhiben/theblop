@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:c195650c-5d7e-410e-8359-27f1a6cc5ee4
+SEQUENCE:0
+DTSTAMP:20250318T090453Z
+DTSTART:20250318T180000
+DTEND:20250318T200000
+SUMMARY:Congressional Town Hall
+LOCATION:116 South Main Street\, Viroqua\, WI
+DESCRIPTION:We invite you to join us for an evening of public engagement a
+ t a Congressional Town Hall\, featuring representatives Derrick Van Orden 
+ and Mark Pocan. This is an opportunity for your voice to be heard\, as com
+ ments will be recorded and delivered to Mr. Van Orden. Organized by the Co
+ ncerned Citizens of Vernon County\, the event is designed to answer commun
+ ity questions.\n\nHistoric Temple Theatre
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=116+South+Ma
+ in+Street%2C+Viroqua%2C+WI&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

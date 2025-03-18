@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:c5a1f6af-d752-4783-b484-804c0cb47a3e
+SEQUENCE:0
+DTSTAMP:20250318T090453Z
+DTSTART:20250322T143000
+DTEND:20250322T163000
+SUMMARY:Peaceful Rally
+LOCATION:Granada Boulevard\, Ormond Beach\, FL
+DESCRIPTION:Join us for a peaceful rally in support of community causes at
+  Granada Bridge/S. Beach St. Bring your signs\, flags\, and friends to sho
+ w solidarity and raise awareness.\n\nGranada Bridge/S. Beach St.
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Granada+Boul
+ evard%2C+Ormond+Beach%2C+FL&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

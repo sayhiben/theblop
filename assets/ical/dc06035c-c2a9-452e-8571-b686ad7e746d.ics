@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:98c48ff9-8e19-4c75-81fd-cc6206b12d1e
+SEQUENCE:0
+DTSTAMP:20250318T090453Z
+DTSTART:20250330T150000
+DTEND:20250330T170000
+SUMMARY:Protest!
+LOCATION:Waikiki Tesla Dealership\, Honolulu\, HI
+DESCRIPTION:Join us at the Waikiki Tesla Dealership to protest! There will
+  be speakers\, tables\, and a permitted street shutdown.\n\nWaikiki\, Hawa
+ ii
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Waikiki+Tesl
+ a+Dealership%2C+Honolulu%2C+HI&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

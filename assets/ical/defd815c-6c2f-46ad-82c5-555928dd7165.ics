@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:dcb0e789-3ddc-4207-a887-856c8546dab5
+SEQUENCE:0
+DTSTAMP:20250318T090453Z
+DTSTART:20250320T180000
+DTEND:20250320T200000
+SUMMARY:Jews Say No to Deportations
+LOCATION:Foley Square\, NYC\, New York\, NY
+DESCRIPTION:Join us for a Jewish rally for freedom and democracy\, standin
+ g against deportations and advocating for justice and safety.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Foley+Square
+ %2C+NYC%2C+New+York%2C+NY&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:bcc24e90-4dc5-493c-aea5-5de1153744b4
+SEQUENCE:0
+DTSTAMP:20250318T090453Z
+DTSTART:20250405T110000
+DTEND:20250405T130000
+SUMMARY:50501: Remove. Reverse. Reclaim.
+LOCATION:501 West Adams Street\, Jacksonville\, FL
+DESCRIPTION:We are organizing a protest to remove corrupt politicians from
+  office\, reverse their damage\, and reclaim our democracy. Join us in a c
+ ommunity rally at the Duval County Courthouse.\n\nDuval County Courthouse
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=501+West+Ada
+ ms+Street%2C+Jacksonville%2C+FL&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

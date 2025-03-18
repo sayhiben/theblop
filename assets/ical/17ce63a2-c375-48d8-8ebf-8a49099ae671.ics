@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:6913803f-1ce0-4e31-b13e-a9e4665ff327
+SEQUENCE:0
+DTSTAMP:20250318T090453Z
+DTSTART:20250321T120000
+DTEND:20250321T140000
+SUMMARY:Pasco Fights Back
+LOCATION:Little Rd & Citizen Dr\, New Port Richey\, FL
+DESCRIPTION:Join us as we rally for important causes such as saving Medica
+ re\, Social Security\, Medicaid\, and Veterans benefits. We stand for educ
+ ation\, science\, equality\, and more. Show support on March 21st.\n\nCoun
+ ty Government / Bilirakis Office-New Port Richey
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Little+Rd+%2
+ 6+Citizen+Dr%2C+New+Port+Richey%2C+FL&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

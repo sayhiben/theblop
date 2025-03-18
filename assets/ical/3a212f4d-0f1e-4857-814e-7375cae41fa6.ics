@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:03881178-67bb-4fae-9e08-d8ebc4f29b5c
+SEQUENCE:0
+DTSTAMP:20250318T090453Z
+DTSTART:20250319T130000
+DTEND:20250319T150000
+SUMMARY:Protect Medicaid
+LOCATION:\, Warren\, MI
+DESCRIPTION:We are organizing a rally to protect Medicaid and raise awaren
+ ess about maintaining its benefits. The event is called 'Hands Off Medicai
+ d Rally'.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+Warren%2
+ C+MI&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

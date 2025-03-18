@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:675ef225-fe8e-44ab-910c-1af889156394
+SEQUENCE:0
+DTSTAMP:20250318T090453Z
+DTSTART:20250405T120000
+DTEND:20250405T140000
+SUMMARY:Hands Off!
+LOCATION:416 Sid Snyder Ave SW\, Olympia\, WA
+DESCRIPTION:Join us for a protest rally to remove\, reverse\, and reclaim.
+  This mass mobilization is volunteer organized and aims to gather people i
+ n Olympia\, WA.\n\nWashington State Capitol Building
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=416+Sid+Snyd
+ er+Ave+SW%2C+Olympia%2C+WA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

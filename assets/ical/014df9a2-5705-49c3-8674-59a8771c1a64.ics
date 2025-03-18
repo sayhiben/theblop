@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:b3a64df8-a698-491b-a8e1-1c66dacb746a
+SEQUENCE:0
+DTSTAMP:20250318T090453Z
+DTSTART:20250320T160000
+DTEND:20250320T180000
+SUMMARY:National Day of Action - Hands Off Our Public Postal Service
+LOCATION:2000 Vassar St\, Reno\, NV
+DESCRIPTION:Join us on March 20th to defend our public postal service and 
+ oppose its privatization. USPS is for the people. Wear your union gear and
+  show solidarity.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=2000+Vassar+
+ St%2C+Reno%2C+NV&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

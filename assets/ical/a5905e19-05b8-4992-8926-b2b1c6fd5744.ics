@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:754bb26d-b399-4744-832e-f4c60b48cb45
+SEQUENCE:0
+DTSTAMP:20250318T090453Z
+DTSTART:20250405T000000
+DTEND:20250405T020000
+SUMMARY:People's Veto Day
+LOCATION:\, Washington\, DC
+DESCRIPTION:We invite you to join us for the People's Veto Day on April 5t
+ h\, 2025. Pledge to mobilize everywhere\, including in D.C.\, to be part o
+ f this important movement.\n\nD.C. & Everywhere
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+Washingt
+ on%2C+DC&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:b8c8abff-d28d-4c73-b55a-bbe7af79af2e
+SEQUENCE:0
+DTSTAMP:20250318T090453Z
+DTSTART:20250405T120000
+DTEND:20250405T140000
+SUMMARY:Veto Project 2025
+LOCATION:\, Topeka\, KS
+DESCRIPTION:We are holding a "Veto Project 2025" event to reject the Trump
+ -Musk administration. Join us in peaceful protest to protect social servic
+ es and rights including healthcare\, democracy\, education\, and more.\n\n
+ State Capitol\, East side
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+Topeka%2
+ C+KS&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

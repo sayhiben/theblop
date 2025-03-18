@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:f79bba8a-c5c0-415f-b191-73fb34897acb
+SEQUENCE:0
+DTSTAMP:20250318T090453Z
+DTSTART:20250405T110000
+DTEND:20250405T130000
+SUMMARY:REMOVE REVERSE RECLAIM
+LOCATION:717 Del Monte Ave\, Monterey\, CA
+DESCRIPTION:We are organizing a protest to remove corrupt politicians\, re
+ verse the damage\, and reclaim our democracy. This is part of a larger mov
+ ement involving protests across all 50 states.\n\nWindow on the Bay
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=717+Del+Mont
+ e+Ave%2C+Monterey%2C+CA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

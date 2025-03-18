@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:b4b74cac-fd61-4fec-a6a2-d5efd6c828fc
+SEQUENCE:0
+DTSTAMP:20250318T090453Z
+DTSTART:20250405T140000
+DTEND:20250405T160000
+SUMMARY:Remove\, Reverse\, Reclaim Rally
+LOCATION:711 E Locust St\, Des Moines\, IA
+DESCRIPTION:We are organizing a rally to advocate for the removal of corru
+ pt politicians\, reverse the damage caused by executive overreach\, and re
+ claim our democracy. We encourage everyone to wear red in unity and bring 
+ flags and other patriotic items to show support.\n\n711 E Locust St
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=711+E+Locust
+ +St%2C+Des+Moines%2C+IA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

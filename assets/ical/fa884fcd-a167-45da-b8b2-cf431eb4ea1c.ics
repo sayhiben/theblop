@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:1dae1e68-7dc9-4566-9e73-923b5734a9e5
+SEQUENCE:0
+DTSTAMP:20250318T090453Z
+DTSTART:20250329T100000
+DTEND:20250329T120000
+SUMMARY:Protest at the Tesla dealership in Fife
+LOCATION:3701 20th St E\, Fife\, WA 98424-1705\, United States
+DESCRIPTION:Join us for a public protest at the Tesla dealership in Fife\,
+  organized by Drinking Liberally - Tacoma\, WA. We aim to voice our concer
+ ns and make an impact.\n\n3701 20th St E\, Fife\, WA 98424-1705\, United S
+ tates
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=3701+20th+St
+ +E%2C+Fife%2C+WA+98424-1705%2C+United+States&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

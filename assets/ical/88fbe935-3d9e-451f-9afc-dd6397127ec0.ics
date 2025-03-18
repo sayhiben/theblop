@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:23fb1f1a-dbb8-4230-9ce2-8475d4de853a
+SEQUENCE:0
+DTSTAMP:20250318T090453Z
+DTSTART:20250322T120000
+DTEND:20250322T140000
+SUMMARY:FIGHT FASCISM
+LOCATION:Cresheim Valley Dr & Germantown Ave\, Philadelphia\, PA
+DESCRIPTION:Join the 50501 Resistance Movement for a peaceful protest agai
+ nst the US fascist regime. Bring friends\, wear red\, white\, or blue\, an
+ d carry American flags. We'll gather and then walk up Germantown Ave.\n\nC
+ hestnut Hill neighborhood
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Cresheim+Val
+ ley+Dr+%26+Germantown+Ave%2C+Philadelphia%2C+PA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

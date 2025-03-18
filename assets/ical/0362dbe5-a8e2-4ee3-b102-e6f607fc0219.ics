@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:72217931-04e7-43db-a402-298375a02120
+SEQUENCE:0
+DTSTAMP:20250318T090453Z
+DTSTART:20250405T120000
+DTEND:20250405T140000
+SUMMARY:RESIST!
+LOCATION:Main Beach\, PCH\, Laguna Beach\, CA
+DESCRIPTION:Join us at Laguna Beach for a gathering focused on peace\, lov
+ e\, and kindness. The event promotes unity and community engagement.\n\nMa
+ in Beach
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Main+Beach%2
+ C+PCH%2C+Laguna+Beach%2C+CA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

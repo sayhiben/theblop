@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:69c054d7-6a8c-48c2-8f03-f8c9e938c557
+SEQUENCE:0
+DTSTAMP:20250318T090453Z
+DTSTART:20250430T000000
+DTEND:20250430T020000
+SUMMARY:Defend Our Trans Youth
+LOCATION:National Mall\, Washington\, D.C.
+DESCRIPTION:Join us at the National Mall in Washington\, D.C. to advocate 
+ for the rights and support of transgender youth. Our event is focused on p
+ romoting inclusion and awareness.\n\nNational Mall
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=National+Mal
+ l%2C+Washington%2C+D.C.&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

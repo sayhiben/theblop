@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:284d1a9e-826f-47d9-aa88-ff60b8da3e59
+SEQUENCE:0
+DTSTAMP:20250318T090453Z
+DTSTART:20250319T170000
+DTEND:20250319T190000
+SUMMARY:Stop Elon Musk Rally
+LOCATION:6916 NE Fourth Plain Blvd\, Vancouver\, WA
+DESCRIPTION:Join Indivisible Greater Vancouver and MoveOn Clark County for
+  a peaceful protest at Vancouver's Tesla dealership. Rally against Elon Mu
+ sk with the community to make your voices heard.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=6916+NE+Four
+ th+Plain+Blvd%2C+Vancouver%2C+WA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

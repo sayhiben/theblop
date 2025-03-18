@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:90551ff4-4599-4024-bd5f-3b02f94df2c2
+SEQUENCE:0
+DTSTAMP:20250318T090453Z
+DTSTART:20250320T110000
+DTEND:20250320T130000
+SUMMARY:Hands off! OUR PUBLIC POSTAL SERVICE
+LOCATION:300 Sycamore St\, Waterloo\, IA
+DESCRIPTION:Join us in supporting our public postal service with events or
+ ganized by APWU at various locations in Iowa. Stand with us to protect thi
+ s vital service.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=300+Sycamore
+ +St%2C+Waterloo%2C+IA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:a82ad5b2-c7d7-470c-8247-5cbc27322843
+SEQUENCE:0
+DTSTAMP:20250318T090453Z
+DTSTART:20250326T100000
+DTEND:20250326T120000
+SUMMARY:Protest- Shoreline- pro LGBTQIA2S+
+LOCATION:10002 Aurora Ave N\, Seattle\, WA 98133\, United States
+DESCRIPTION:A pro LGBTQIA2S+ protest will be held in front of Pilgrim Coff
+ eehouse. We encourage participants to show up loud and proud!\n\nPilgrim c
+ offeehouse\, Shoreline
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=10002+Aurora
+ +Ave+N%2C+Seattle%2C+WA+98133%2C+United+States&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

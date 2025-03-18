@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:6ea42280-45b5-45e9-8d74-503d564d7c2f
+SEQUENCE:0
+DTSTAMP:20250318T090453Z
+DTSTART:20250323T000000
+DTEND:20250323T020000
+SUMMARY:Solidarity Rally
+DESCRIPTION:Join us for a rally in support of solidarity. We will gather a
+ t two different locations. Choose the closest one to you and be part of th
+ e movement.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=&zoom=15&bas
+ emap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:67db1232-de18-41b0-98fd-5110eb401cdd
+SEQUENCE:0
+DTSTAMP:20250318T090453Z
+DTSTART:20250323T120000
+DTEND:20250323T140000
+SUMMARY:Rally to Save USPS
+LOCATION:Corner of 1st Street and Lincoln Hwy (AKA Peace Corner\, AKA Memo
+ rial Park)\, DeKalb\, IL
+DESCRIPTION:Join us to protest against the dismantling of the postal servi
+ ce. Let's gather to make our voices heard and protect USPS.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Corner+of+1s
+ t+Street+and+Lincoln+Hwy+%28AKA+Peace+Corner%2C+AKA+Memorial+Park%29%2C+De
+ Kalb%2C+IL&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

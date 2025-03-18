@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:86843eb0-eb08-439f-a7af-90bdb3b57d34
+SEQUENCE:0
+DTSTAMP:20250318T090453Z
+DTSTART:20250405T120000
+DTEND:20250405T140000
+SUMMARY:Hands Off! March on D.C.
+LOCATION:2 15th St NW\, Washington\, DC
+DESCRIPTION:Join us as we take to the streets in Washington\, D.C.\, deman
+ ding an end to the illegal power grabs by Donald Trump and Elon Musk. We a
+ re rallying to protect our healthcare\, data\, jobs\, services\, and more.
+  This is a call to action for everyone to join hands against these threats
+ .\n\nWashington Monument
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=2+15th+St+NW
+ %2C+Washington%2C+DC&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:ed1a33af-6aba-46ba-8dc5-e4c6d2f76bb8
+SEQUENCE:0
+DTSTAMP:20250318T090453Z
+DTSTART:20250318T190000
+DTEND:20250318T210000
+SUMMARY:Emergency Protest
+LOCATION:1100 Spring St NW\, Atlanta\, GA
+DESCRIPTION:Join us in Atlanta as we protest against what is described as 
+ US-Israeli genocide. Make your voice heard and stand in solidarity at the 
+ Israeli Consulate.\n\nIsraeli Consulate
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=1100+Spring+
+ St+NW%2C+Atlanta%2C+GA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

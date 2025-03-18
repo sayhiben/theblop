@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:d78bb7ca-f1b1-482e-8178-58caff569ef9
+SEQUENCE:0
+DTSTAMP:20250318T090453Z
+DTSTART:20250322T140000
+DTEND:20250322T160000
+SUMMARY:Stand Up for Your Constituents Town Hall
+LOCATION:Iowa City Public Library\, Iowa City\, IA
+DESCRIPTION:Join us to discuss how federal cuts\, funding freezes\, and il
+ legal firings are impacting jobs\, health\, safety\, education\, and econo
+ mic futures in Iowa’s 1st District.\n\nIowa City Public Library
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Iowa+City+Pu
+ blic+Library%2C+Iowa+City%2C+IA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

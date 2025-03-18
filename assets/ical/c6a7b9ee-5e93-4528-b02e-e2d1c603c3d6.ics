@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:ef10b579-ef0d-450a-a77d-31ad3fab5538
+SEQUENCE:0
+DTSTAMP:20250318T090453Z
+DTSTART:20250319T120000
+DTEND:20250319T140000
+SUMMARY:PROTECT the Federal Workforce Rally
+LOCATION:230 S. Dearborn St.\, Chicago\, IL
+DESCRIPTION:Show your support for frontline federal employees and join NTE
+ U in protest of the administration’s attacks on federal employees and th
+ e important work they do for the American people.\n\nJohn C. Kluczynski Bu
+ ilding (Outdoor Plaza)
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=230+S.+Dearb
+ orn+St.%2C+Chicago%2C+IL&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

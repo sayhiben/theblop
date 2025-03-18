@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:5ba78a82-3350-4652-bb8d-489c26ea286f
+SEQUENCE:0
+DTSTAMP:20250318T090453Z
+DTSTART:20250405T093000
+DTEND:20250405T113000
+SUMMARY:Protest Pre-Game
+LOCATION:Philadelphia City Hall\, Philadelphia\, PA
+DESCRIPTION:Join us for community\, conversation\, and connection before h
+ eading down to City Hall. We will gather to address critical social and po
+ litical issues\, emphasizing the protection of rights and services like Me
+ dicaid\, Medicare\, and more.\n\nLansdale Train Station or Norristown Tran
+ sportation Center
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Philadelphia
+ +City+Hall%2C+Philadelphia%2C+PA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

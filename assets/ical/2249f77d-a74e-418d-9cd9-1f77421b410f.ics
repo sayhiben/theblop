@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:bbab2395-5cc6-4bd4-9e43-b519dbf73d56
+SEQUENCE:0
+DTSTAMP:20250318T090453Z
+DTSTART:20250410T090000
+DTEND:20250410T110000
+SUMMARY:Day of Action at the Capitol
+LOCATION:1700 W. Washington St.\, Phoenix\, AZ
+DESCRIPTION:Join us for a day of action organized by Arizona AFL-CIO\, whe
+ re union members will have the opportunity to make their presence known in
+  the legislature. Participate in workshops on Common Sense Economics and I
+ mmigration\, and engage in discussions with a keynote address by Bryant Pr
+ eston\, President of Colorado AFL-CIO. Lunch is provided.\n\nWesley Bolin 
+ Memorial Plaza
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=1700+W.+Wash
+ ington+St.%2C+Phoenix%2C+AZ&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

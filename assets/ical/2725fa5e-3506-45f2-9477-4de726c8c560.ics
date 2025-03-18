@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:364d0950-2731-42a2-bf37-9bb2f77ff277
+SEQUENCE:0
+DTSTAMP:20250318T090453Z
+DTSTART:20250405T110000
+DTEND:20250405T130000
+SUMMARY:Palm Coast April 5 Protest
+LOCATION:\, Palm Coast\, FL
+DESCRIPTION:Join us on April 5\, 2025\, for the Palm Coast Protest\, part 
+ of a nationwide movement to remove corrupt politicians\, reverse the damag
+ e\, and reclaim our democracy. This event occurs at two locations in Flagl
+ er County: the Island Walk Shopping Center and Target at Belle Terre.\n\nI
+ sland Walk Shopping Center at Palm Coast Pkwy and Old Kings Rd\; Target at
+  Belle Terre and Rt. 100
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+Palm+Coa
+ st%2C+FL&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:946ef4e8-aa21-4117-9bab-e8e4d690c224
+SEQUENCE:0
+DTSTAMP:20250318T090453Z
+DTSTART:20250330T130000
+DTEND:20250330T150000
+SUMMARY:Protest for Trans Lives
+LOCATION:Federal Plaza\, Chicago\, IL
+DESCRIPTION:We are organizing a protest to advocate for transgender lives.
+  Join us at Federal Plaza to stand in solidarity and express our commitmen
+ t to protecting and supporting the trans community.\n\nFederal Plaza
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Federal+Plaz
+ a%2C+Chicago%2C+IL&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

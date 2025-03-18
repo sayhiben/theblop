@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:9d1aa157-9362-4304-bd94-77f3c5b340e5
+SEQUENCE:0
+DTSTAMP:20250318T090453Z
+DTSTART:20250405T000000
+DTEND:20250405T020000
+SUMMARY:Nationwide Call to Action
+LOCATION:\, Wakefield\, Nationwide
+DESCRIPTION:Join South County Resistance on April 5th for a nationwide pro
+ test in Wakefield to Remove\, Reverse\, and Reclaim. More information to b
+ e shared.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+Wakefiel
+ d%2C+Nationwide&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

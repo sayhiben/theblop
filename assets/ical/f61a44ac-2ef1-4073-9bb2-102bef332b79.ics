@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:e88f00ab-cd33-4273-b332-2890cf15f76b
+SEQUENCE:0
+DTSTAMP:20250318T090453Z
+DTSTART:20250405T110000
+DTEND:20250405T130000
+SUMMARY:REMOVE REVERSE RECLAIM
+LOCATION:301 S. Ridgewood Ave.\, Daytona Beach\, FL
+DESCRIPTION:Join us in our movement to remove corrupt politicians\, revers
+ e the damage done\, and reclaim our democracy. This is one of 50 protests 
+ happening across the states.\n\nDaytona Beach City Hall
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=301+S.+Ridge
+ wood+Ave.%2C+Daytona+Beach%2C+FL&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

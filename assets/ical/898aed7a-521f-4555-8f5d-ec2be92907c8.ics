@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:77109bcc-ff18-4ade-806b-8285a77ec300
+SEQUENCE:0
+DTSTAMP:20250318T090453Z
+DTSTART:20250319T150000
+DTEND:20250319T170000
+SUMMARY:Stop the U.S.-Israeli Atrocities Protest
+LOCATION:40 Wall Street\, New York\, NY
+DESCRIPTION:Join us to protest against the U.S.-Israeli actions and raise 
+ awareness about the violence in Gaza. We stand against deportations to gen
+ ocide and call for immediate action.\n\nThe Trump Building
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=40+Wall+Stre
+ et%2C+New+York%2C+NY&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

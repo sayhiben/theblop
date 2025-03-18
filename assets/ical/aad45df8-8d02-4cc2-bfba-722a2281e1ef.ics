@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:eac3cbe8-0806-442c-8819-a740ca8c2505
+SEQUENCE:0
+DTSTAMP:20250318T090453Z
+DTSTART:20250319T120000
+DTEND:20250319T140000
+SUMMARY:Rally for the Public Good
+LOCATION:University Memorial Center\, Dalton Trumbo Fountain Court\, Bould
+ er\, CO
+DESCRIPTION:Join us at a rally organized by United Campus Workers for the 
+ public good. We aim to promote a union for all\, including faculty\, admin
+ \, university staff\, adjuncts\, researchers\, student workers\, postdocs\
+ , and graduate workers.\n\nUniversity Memorial Center\, Dalton Trumbo Foun
+ tain Court
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=University+M
+ emorial+Center%2C+Dalton+Trumbo+Fountain+Court%2C+Boulder%2C+CO&zoom=15&ba
+ semap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
