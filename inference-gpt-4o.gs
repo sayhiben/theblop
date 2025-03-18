@@ -49,14 +49,14 @@ You are a multimodal AI model trained to parse event flyers or images that may c
 
 Your role is to:
 
-1) Read and understand this request, then develop a plan to answer my inquiry. Describe how you will approach this request and what your tasks are.
-2) First, **read the image** and transcribe the text word-for-word, describing any visible text on the flyer. Again, do not use python, tesseract, pytesseract, or any other traditional OCR tool. I want your AI model (ChatGPT-4o) to read the image. We will refer to this as the **raw_text**
-3) Second, **summarize the details presented in the image**. We will refer to this summary as **raw_summary**
-4) **Determine** if the content is:
+1) First, Read and understand this request, then develop a plan to answer my inquiry. Describe how you will approach this request and what your tasks are.
+2) Second, **summarize the details presented in the image**. We will refer to this summary as **raw_summary**
+3) Third, **Determine** if the content is:
    - **Malicious, abusive, or illegal** (hateful, pornographic, etc.),
-   - **No event** (the image does not describe a public event), or
+   - **No event** (the image does not describe a public event, has no textual content, is a generic email signature, or is otherwise a general photo without event details), or
    - **A valid event** (there is date, location, or other relevant info for a public gathering).  
-5) If it is a valid event, **extract** the following details step by step in the conversation:
+4) Fourth, **read the image** and transcribe the text word-for-word, describing any visible text on the flyer. Again, do not use python, tesseract, pytesseract, or any other traditional OCR tool. I want your AI model (ChatGPT-4o) to read the image. We will refer to this as the **raw_text**
+5) Fifth, If it is a valid event, **extract** the following details step by step in the conversation:
    - **title** (Event name or headline)  
    - **description** (What is happening, the goals, activities, etc. written as a promoter of the event in the "we" perspective)  
    - **city**  
@@ -68,9 +68,22 @@ Your role is to:
    - **time** (Use “hh:mm AM/PM”, if a range is provided, only the start time, do not include a timezone)  
    - **links** (a comma-separated list of each URL present in the image)  
    - **sponsors** (a comma-separated list of each sponsor, organization, or host identifiable in the image)  
-   - And finally, produce a **single JSON** with a **status** key (likely “success”) and “admin_notes” (likely empty).
+   - **status** (one of "success", "malicious_content", "no_event_found")
+   - **notes** (a description of the decisions made while processing the image. Note any assumptions, inferences, or biases that were made during the extraction process)
+   - **admin_notes** (a short message to the admin about the status of the image, only used if the status is not "success")
+6) Sixth, **normalize** the extracted data according to the **Normalization** rules and **Output** rules that follow this list.
+7) Seventh, set the **status** field according to the determination made in step 3. If the content is malicious, abusive, or illegal, set status = "malicious_content" with a short admin_notes. If no event is found or the image does not describe an upcoming event or has no location, time, date, description, link, etc., set status = "no_event_found" with a short admin_notes. If a valid event is found with the usual details of a public event announcement, set status = "success" and admin_notes should be empty.
+8) Eighth, populate the **notes** field with notes about how the flyer was processed, inferences made, assumptions, biases, etc. This field must be used to tell the end-user about how the image was perceived by the AI model in order to establish trust. 
+9) Finally, produce an “admin_notes” field that is empty if the status is “success” and contains a short message if the status is “malicious_content” or “no_event_found” (or otherwise, to explain why the status is not “success”).
 
-**Normalization**: 
+# IMPORTANT
+
+ALWAYS PRODUCE A SINGLE JSON OBJECT AS OUTPUT!
+
+# Appendix
+
+## Normalization
+
 - If the event is in the United States, always use 2-letter state codes or ‘DC’. 
 - If the event is not in the United States, use a 3-letter country code.
 - If the event is **nationwide** or "all states", or "every state capitol", etc., set city and state to “Nationwide”.
@@ -83,7 +96,9 @@ Your role is to:
 - Use normal capitalization (avoid ALL CAPS unless it’s an identifiable  acronym).
 - For “description”, generate a reasoned summary if not explicitly stated.
 
-**Output**:
+
+## Output
+
 - Always end by producing exactly **one JSON** object with the fields:
   - raw_text
   - raw_summary
@@ -99,11 +114,24 @@ Your role is to:
   - links
   - sponsors
   - status
+  - notes
   - admin_notes
+- If the image is unreadable, set status = "unreadable_image" with a short admin_notes.
+- If the flyer is missing information, add a line about each missing field in "notes." This will be displayed to end-users so they can understand the limitations of the AI model.
+- If the flyer has been translated, add a line about the translation in "notes."
+- If the flyer is recurring, add a line about it in "notes" and say that the date is the next future date.
+- If the flyer is for a virtual event, add a line about it in "notes."
+- If the flyer is for a nationwide event, add a line about it in "notes."
+- If the flyer doesn't specify its state and you infer the location, add a line about it in "notes."
+- If the flyer's time has been interpreted in some way, add a line about it in "notes."
+- If the flyer's date has been interpreted in some way, add a line about it in "notes."
+- If the flyer's address has been interpreted in some way, add a line about it in "notes."
+- If the flyer's city has been interpreted in some way, add a line about it in "notes."
 - If content is malicious, abusive, or pornographic, set status = "malicious_content" with a short admin_notes.
 - If no event is found or the image does not describe an upcoming event set status = "no_event_found" with a short admin_notes.
 - If a valid event is found, set status = "success" and admin_notes should be empty.
 
+_Note:_
 If any field is unknown or not found, use "" (empty string) or [] for arrays.
 
 **Important**: 
@@ -142,10 +170,6 @@ Now, let's think step-by-step and answer the entire request...
     Logger.log("Error fetching or encoding image: " + err);
     throw new Error("Cannot fetch/encode flyer image: " + err);
   }
-
-
-
-
 
   /***********************************************************
    * STEP 1: 
@@ -253,6 +277,7 @@ Now, let's think step-by-step and answer the entire request...
             links:            { type: "string" },
             sponsors:         { type: "string" },
             status:           { type: "string" },
+            notes:            { type: "string" },
             admin_notes:      { type: "string" }
           },
           required: [
@@ -270,6 +295,7 @@ Now, let's think step-by-step and answer the entire request...
             "links",
             "sponsors",
             "status",
+            "notes",
             "admin_notes"
           ]
         }
