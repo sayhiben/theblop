@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:ab2ef99c-6d63-4d54-9ceb-a7025a92c81e
+SEQUENCE:0
+DTSTAMP:20250318T060317Z
+DTSTART:20250322T093000
+DTEND:20250322T113000
+SUMMARY:Protect Our Parks Protest
+LOCATION:Main entrance to Zion\, Zion\, UT
+DESCRIPTION:Join us for a protest to protect our cherished parks. We encou
+ rage everyone to bring a sign\, sunscreen\, and water for the event.\n\nMa
+ in entrance to Zion
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Main+entranc
+ e+to+Zion%2C+Zion%2C+UT&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:ad17aa9c-3f15-40ef-bf29-60dc6529109f
+SEQUENCE:0
+DTSTAMP:20250318T060317Z
+DTSTART:20250319T160000
+DTEND:20250319T180000
+SUMMARY:Musk or Us Protest
+LOCATION:22630 NE Marketplace Dr\, Redmond\, WA
+DESCRIPTION:Join us for a local Indivisible event to protest DOGE. Please 
+ make signs about Musk or DOGE and gather with us for this visibility event
+ .\n\nMeet at the intersection of Novelty Hill and Redmond Ridge Dr.
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=22630+NE+Mar
+ ketplace+Dr%2C+Redmond%2C+WA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

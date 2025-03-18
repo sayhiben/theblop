@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:04b96e1e-6cb1-43e2-a4ae-944a3245937b
+SEQUENCE:0
+DTSTAMP:20250318T060317Z
+DTSTART:20250401T060000
+DTEND:20250401T080000
+SUMMARY:WeAreNotFools political protest
+LOCATION:NC Senators Tillis and Budd’s Raleigh field offices
+DESCRIPTION:Join the "We Are Not Fools" protest to raise your voice agains
+ t anti-democratic actions led by Trump and Musk. Participate in a motorcoa
+ ch trip to Senators Tillis and Budd's Raleigh offices on April 1st. Engage
+  in local advocacy to make your stance known.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=NC+Senators+
+ Tillis+and+Budd%E2%80%99s+Raleigh+field+offices&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:f2d52638-2b3e-4e3c-8291-481cee261e67
+SEQUENCE:0
+DTSTAMP:20250318T060317Z
+DTSTART:20250318T140000
+DTEND:20250318T160000
+SUMMARY:Anti-Nazi Protest
+LOCATION:7449 Raleigh Dr\, St Louis\, MO
+DESCRIPTION:In response to supremacists popping up in Affton and tagging o
+ ne of our local schools\, we decided to hold an anti-Nazi protest. Come to
+  show support to our local schools and share just how much we disapprove o
+ f Nazis. We plan to get loud with this one so please share this for the nu
+ mbers. They need to see just how many people hate Nazis.\n\nIntersection o
+ f 30\, 21\, & S Rock Hill (Affton\, MO)
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=7449+Raleigh
+ +Dr%2C+St+Louis%2C+MO&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

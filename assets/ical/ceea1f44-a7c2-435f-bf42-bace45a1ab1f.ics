@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:1f17fac0-6e7b-4892-85c3-59815980f514
+SEQUENCE:0
+DTSTAMP:20250318T060317Z
+DTSTART:20250329T100000
+DTEND:20250329T120000
+SUMMARY:FAMILY FRIENDLY MARCH FOR DEMOCRACY AND DECENCY
+LOCATION:9703 NE Juanita Dr\, Kirkland\, WA
+DESCRIPTION:Join us for a family-friendly march to stand up for democracy 
+ and decency. The event includes sign-making followed by a march and protes
+ t. Be a part of this nationwide movement for human rights.\n\nIntersection
+  of 98th Ave NE and NE 116th Street
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=9703+NE+Juan
+ ita+Dr%2C+Kirkland%2C+WA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

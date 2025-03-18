@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:2d93f2cf-0130-466a-aa8d-a31ea7f6e19a
+SEQUENCE:0
+DTSTAMP:20250318T060317Z
+DTSTART:20250321T160000
+DTEND:20250321T180000
+SUMMARY:Message to MUSK
+LOCATION:6458 Carlisle Pike\, Mechanicsburg\, PA
+DESCRIPTION:We are gathering to deliver a message to Musk\, expressing our
+  stance on Tesla and related issues. Join us in Mechanicsburg for this imp
+ actful event.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=6458+Carlisl
+ e+Pike%2C+Mechanicsburg%2C+PA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

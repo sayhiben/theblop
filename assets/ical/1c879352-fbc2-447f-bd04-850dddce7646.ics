@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:38dc2a66-32d2-4e55-b289-bbb0702c47be
+SEQUENCE:0
+DTSTAMP:20250318T060317Z
+DTSTART:20250322T100000
+DTEND:20250322T120000
+SUMMARY:Protect the Parks Rally
+LOCATION:26876 Mulholland Highway\, Calabasas\, CA
+DESCRIPTION:We are hosting a rally focused on protecting the parks where p
+ articipants will learn and write letters to the rangers.\n\nAnthony C. Bei
+ lenson Visitor Center
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=26876+Mulhol
+ land+Highway%2C+Calabasas%2C+CA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

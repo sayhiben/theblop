@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:c925ee04-fff8-42f0-85c7-8f1d060bfb76
+SEQUENCE:0
+DTSTAMP:20250318T060317Z
+DTSTART:20250318T190000
+DTEND:20250318T210000
+SUMMARY:Protections for Trans Youth at Risk
+LOCATION:836 Newmans Ln\, Bridgewater\, NJ
+DESCRIPTION:Join us for an advocacy event hosted by Garden State Equality.
+  We will discuss protections for trans youth at risk during the Bridgewate
+ r-Raritan Regional Board of Education Meeting. This is a crucial gathering
+  for supporting LGBTQ+ students and school staff\, emphasizing our commitm
+ ent to their safety and well-being.\n\nBridgewater Raritan Regional School
+  District
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=836+Newmans+
+ Ln%2C+Bridgewater%2C+NJ&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:8fdcdb03-0fea-4a4e-a21a-41471d0174df
+SEQUENCE:0
+DTSTAMP:20250318T060317Z
+DTSTART:20250322T120000
+DTEND:20250322T140000
+SUMMARY:NJ District 7 People's Town Hall
+LOCATION:1 Park Dr\, Euclid and Park Drive\, Westfield\, NJ 07090
+DESCRIPTION:Our Congressman Tom Kean\, jr.\, refuses to meet with his cons
+ tituents to hear our concerns and answer questions. If he won't schedule a
+  town hall\, we'll bring the town hall to him! We will gather at the Mindo
+ waskin Park Playground (near the intersection of Euclid and Park Drive\, W
+ estfield\, NJ 07090) and then march to his home\, about a 12 minute walk. 
+ Parking is available near the park. Bring signs\, family\, friends and nei
+ ghbors - all are welcome. This is a peaceful\, non-violent protest to make
+  our voices heard! The event will start at 12 noon and end at 2:00pm.\n\nM
+ indowaskin Playground
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=1+Park+Dr%2C
+ +Euclid+and+Park+Drive%2C+Westfield%2C+NJ+07090&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

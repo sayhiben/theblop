@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:ae914619-cb5b-4f7b-be5a-21682a9dae9b
+SEQUENCE:0
+DTSTAMP:20250318T060317Z
+DTSTART:20250405T090000
+DTEND:20250405T110000
+SUMMARY:NATIONAL PROTEST APRIL 5TH
+LOCATION:\, Boston\, MA
+DESCRIPTION:Join us for a national protest organized by Indivisible at Bos
+ ton Common. We aim to bring attention to various important issues.\n\nBost
+ on Common
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+Boston%2
+ C+MA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

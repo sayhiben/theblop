@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:b483f168-a2b5-446a-b265-410beb880728
+SEQUENCE:0
+DTSTAMP:20250318T060317Z
+DTSTART:20250322T123000
+DTEND:20250322T143000
+SUMMARY:Cherry Hill Tesla Protests
+LOCATION:1605 Rte 70 W\, Cherry Hill Township\, NJ
+DESCRIPTION:Join us for the Cherry Hill Tesla Protests\, organized by Coop
+ er River Indivisible. We continue our efforts to demonstrate against Tesla
+ \, aiming to raise awareness about their market challenges. Let’s keep u
+ p the momentum!\n\nTesla Showroom
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=1605+Rte+70+
+ W%2C+Cherry+Hill+Township%2C+NJ&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

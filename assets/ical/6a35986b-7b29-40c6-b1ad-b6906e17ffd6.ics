@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:a08c0628-d5ca-452d-90dc-55260e4421f0
+SEQUENCE:0
+DTSTAMP:20250318T060317Z
+DTSTART:20250322T120000
+DTEND:20250322T140000
+SUMMARY:Rally & Learn
+LOCATION:Visitor Center\, Porter\, IN
+DESCRIPTION:We are hosting a protest titled 'Protect our Parks' focusing o
+ n postcard writing\, Junior Resisters packets\, hands-on learning\, and co
+ mmunity building.\n\nIndiana Dunes National Park
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Visitor+Cent
+ er%2C+Porter%2C+IN&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

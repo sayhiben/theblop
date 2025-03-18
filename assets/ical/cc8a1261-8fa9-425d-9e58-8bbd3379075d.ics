@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:4307beb9-1226-43b9-933f-00039521f9de
+SEQUENCE:0
+DTSTAMP:20250318T060317Z
+DTSTART:20250320T120000
+DTEND:20250320T140000
+SUMMARY:Unite to Protect Medicaid
+LOCATION:Idaho Capitol Steps\, Boise\, ID
+DESCRIPTION:We are gathering to protect and support Medicaid\, emphasizing
+  its critical role in survival for many individuals.\n\nIdaho Capitol Step
+ s
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Idaho+Capito
+ l+Steps%2C+Boise%2C+ID&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

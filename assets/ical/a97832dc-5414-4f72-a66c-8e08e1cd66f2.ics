@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:b11f1c9a-2846-43f9-96e7-8aec3aa4eb0a
+SEQUENCE:0
+DTSTAMP:20250318T060317Z
+DTSTART:20250322T120000
+DTEND:20250322T140000
+SUMMARY:Rally & Learn
+LOCATION:\, Paradise\, WA
+DESCRIPTION:Join us for a Rally & Learn event at Mt. Rainier National Park
+  to discuss land issues and conservation. Organized by Resistance Rangers.
+ \n\nNisqually Entrance\, Mt. Rainier National Park
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+Paradise
+ %2C+WA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

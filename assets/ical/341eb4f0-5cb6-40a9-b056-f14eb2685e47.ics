@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:a831a365-681b-4b48-bc5d-18dd824141ce
+SEQUENCE:0
+DTSTAMP:20250318T060317Z
+DTSTART:20250318T120000
+DTEND:20250318T140000
+SUMMARY:Hold Chris Smith Accountable
+LOCATION:33 Washington St\, Toms River\, NJ
+DESCRIPTION:Join us for a rally organized to hold Chris Smith accountable.
+  This event is a volunteer-driven effort organized by Indivisible.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=33+Washingto
+ n+St%2C+Toms+River%2C+NJ&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

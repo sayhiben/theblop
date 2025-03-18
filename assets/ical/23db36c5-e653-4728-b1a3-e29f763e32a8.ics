@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:47f7a763-2d29-4e33-9395-b35c20d006da
+SEQUENCE:0
+DTSTAMP:20250318T060317Z
+DTSTART:20250322T130000
+DTEND:20250322T150000
+SUMMARY:Equal Pay for Women: Stand Up! Fight Back!
+LOCATION:George Washington Park Sidewalk\, Centralia\, WA
+DESCRIPTION:Join us in Centralia for Women's Month to stand up for women's
+  rights\, focusing on equal pay and defending immigrant and migrant women.
+ \n\nGeorge Washington Park Sidewalk
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=George+Washi
+ ngton+Park+Sidewalk%2C+Centralia%2C+WA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:6cf68c3e-9c5b-4133-8450-73d6f66861be
+SEQUENCE:0
+DTSTAMP:20250318T060317Z
+DTSTART:20250405T070000
+DTEND:20250405T090000
+SUMMARY:50501 Stop Trump protest and sit-ins everywhere
+LOCATION:\, Nationwide\, Nationwide
+DESCRIPTION:A nationwide protest event aiming to gather people across all 
+ 50 states and capitals to raise awareness. Join us in any local government
+  City Hall to make your voices heard.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+Nationwi
+ de%2C+Nationwide&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:3552d58e-17f9-49d4-adda-07e3d3af3376
+SEQUENCE:0
+DTSTAMP:20250318T060317Z
+DTSTART:20250320T120000
+DTEND:20250320T140000
+SUMMARY:Just say NO to Tom Kean Jr. budget cuts
+DESCRIPTION:We're organizing a rally to oppose Tom Kean Jr.'s budget cuts\
+ , aiming to gather community support and raise awareness.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=&zoom=15&bas
+ emap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

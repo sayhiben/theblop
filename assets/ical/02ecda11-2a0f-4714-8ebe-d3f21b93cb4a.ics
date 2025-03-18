@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:25d6d617-53a3-43c5-b26c-b4ec5a8f287f
+SEQUENCE:0
+DTSTAMP:20250318T060317Z
+DTSTART:20250405T120000
+DTEND:20250405T140000
+SUMMARY:Veto Project 2025
+LOCATION:State Capitol\, East side\, Topeka\, KS
+DESCRIPTION:A peaceful protest to protect social and political rights agai
+ nst Trump's and Musk's coup\, focusing on issues like healthcare\, social 
+ security\, democracy\, and clean energy.\n\nState Capitol\, East side
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=State+Capito
+ l%2C+East+side%2C+Topeka%2C+KS&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
