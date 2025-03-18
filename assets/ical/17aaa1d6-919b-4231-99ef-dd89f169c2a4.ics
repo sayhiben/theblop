@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:3d52c3af-f9c1-4430-aaff-2501c407200a
+SEQUENCE:0
+DTSTAMP:20250318T000508Z
+DTSTART:20250320T180000
+DTEND:20250320T200000
+SUMMARY:Rep. Summer Lee's Town Hall
+LOCATION:2001 Wylie Ave\, Pittsburgh\, PA
+DESCRIPTION:Join us for Rep. Summer Lee's Town Hall to discuss important i
+ ssues and community concerns. Doors open at 5 PM and the town hall begins 
+ at 6 PM.\n\nEbenezer Baptist Church
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=2001+Wylie+A
+ ve%2C+Pittsburgh%2C+PA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
