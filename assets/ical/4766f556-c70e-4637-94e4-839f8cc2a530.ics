@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:02cf1bb9-161c-4dd9-a52b-4f38741d0cd3
+SEQUENCE:0
+DTSTAMP:20250318T180306Z
+DTSTART:20250319T170000
+DTEND:20250319T190000
+SUMMARY:People's Town Hall- Tell Rep Scott Perry to Save Medicaid
+LOCATION:150 S 43rd St suite 2\, Harrisburg\, PA
+DESCRIPTION:Join us to advocate for saving Medicaid and to send a strong m
+ essage to Representative Scott Perry. Hosted by Working Families Power\, t
+ his town hall is a chance for community members to rally and express their
+  support for Medicaid.\n\nAFSCME Conference center
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=150+S+43rd+S
+ t+suite+2%2C+Harrisburg%2C+PA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

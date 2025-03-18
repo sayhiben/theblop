@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:4f4c1229-1188-4e1c-bd04-eafd225e11db
+SEQUENCE:0
+DTSTAMP:20250318T180306Z
+DTSTART:20250318T173000
+DTEND:20250318T193000
+SUMMARY:Portland Emergency Protest
+LOCATION:1221 SW 4th Ave\, Portland\, OR
+DESCRIPTION:We are organizing an emergency protest to demand an end to the
+  siege on Gaza and an arms embargo. Join us in taking a stand against the 
+ ongoing violence.\n\nCity Hall
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=1221+SW+4th+
+ Ave%2C+Portland%2C+OR&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

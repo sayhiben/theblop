@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:ce06f851-23b3-41bf-bb5d-0bc594329e0e
+SEQUENCE:0
+DTSTAMP:20250318T180306Z
+DTSTART:20250318T173000
+DTEND:20250318T193000
+SUMMARY:Seattle Emergency Protest
+LOCATION:\, Seattle\, WA
+DESCRIPTION:We are organizing an emergency protest in Seattle to demand ac
+ tion to stop the genocide and call for an arms embargo. Join us at UW Stat
+ ion.\n\nUW Station
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+Seattle%
+ 2C+WA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:0f49db70-ff41-48a9-ada2-1097e371eb2a
+SEQUENCE:0
+DTSTAMP:20250318T180306Z
+DTSTART:20250322T150000
+DTEND:20250322T170000
+SUMMARY:The People's Empty Chair Town Hall
+LOCATION:225 Commercial St.\, Waterloo\, IA
+DESCRIPTION:We invite community members to voice their concerns\, ask ques
+ tions\, and engage in meaningful dialogue about local and national matters
+ . Connect with passionate Iowans to make a difference. All discussions wil
+ l be documented and sent to Rep. Hinson's office for constituent awareness
+ .\n\nWaterloo Center for the Arts
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=225+Commerci
+ al+St.%2C+Waterloo%2C+IA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

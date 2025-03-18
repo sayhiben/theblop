@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:1676eba3-7bb0-4cc8-8f50-86a9d767e7fc
+SEQUENCE:0
+DTSTAMP:20250318T180306Z
+DTSTART:20250405T114500
+DTEND:20250405T134500
+SUMMARY:Hands Off! Solidarity Warriors - Denver Fights Back
+LOCATION:200 E Colfax Ave\, Denver\, CO
+DESCRIPTION:Join us in Denver as we stand up against threats to our health
+  care\, data\, jobs\, and services. We're protesting actions by Donald Tru
+ mp and Elon Musk that jeopardize our rights and resources. This is a crisi
+ s moment\, and we need your support.\n\n200 E Colfax Ave
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=200+E+Colfax
+ +Ave%2C+Denver%2C+CO&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

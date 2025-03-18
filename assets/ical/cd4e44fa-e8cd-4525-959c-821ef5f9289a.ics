@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:34081a78-1143-4736-986d-e5e6f67a8dc1
+SEQUENCE:0
+DTSTAMP:20250318T180306Z
+DTSTART:20250405T130000
+DTEND:20250405T150000
+SUMMARY:Hands Off! Longmont Fights Back
+LOCATION:6th Avenue & Main Street\, Longmont\, CO
+DESCRIPTION:Longmont is organizing a rally to protest against the influenc
+ e of Donald Trump and Elon Musk over critical aspects of society such as h
+ ealth care\, data\, jobs\, and services. The event aims to mobilize the co
+ mmunity to resist their control and assert community power.\n\n6th and Mai
+ n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=6th+Avenue+%
+ 26+Main+Street%2C+Longmont%2C+CO&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

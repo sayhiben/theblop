@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:dd626f5a-eff3-4d27-bba4-df4c7ebef56c
+SEQUENCE:0
+DTSTAMP:20250318T180306Z
+DTSTART:20250405T110000
+DTEND:20250405T130000
+SUMMARY:People's Veto Day
+LOCATION:Monroe Park\, Richmond\, VA
+DESCRIPTION:Join us for a day of action to protest and protect crucial soc
+ ial and public interests\, including healthcare\, education\, civil rights
+ \, and more. We aim to remove\, reverse\, and reclaim our rights and servi
+ ces. Stand with us on People's Veto Day.\n\nMonroe Park
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Monroe+Park%
+ 2C+Richmond%2C+VA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:6a597489-90b6-4c8b-8efe-b8c19792b609
+SEQUENCE:0
+DTSTAMP:20250318T180306Z
+DTSTART:20250320T180000
+DTEND:20250320T200000
+SUMMARY:Rally: Defend Trans Rights!
+LOCATION:301 N. Delaware St.\, Indianapolis\, IN
+DESCRIPTION:We are organizing a rally to stand in solidarity with the tran
+ sgender community and demand an end to anti-trans legislation in Indiana. 
+ This event aims to unite our struggles for LGBTQ liberation\, racial justi
+ ce\, gender equality\, and workers’ rights. Join us to resist bigotry an
+ d fight for a future where everyone can thrive.\n\nViewfinders Sculpture
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=301+N.+Delaw
+ are+St.%2C+Indianapolis%2C+IN&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
