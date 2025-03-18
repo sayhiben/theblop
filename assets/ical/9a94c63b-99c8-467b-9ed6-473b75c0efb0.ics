@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:7d57d58e-f3d9-42ec-9592-b97afdcbe991
+SEQUENCE:0
+DTSTAMP:20250318T120406Z
+DTSTART:20250322T140000
+DTEND:20250322T160000
+SUMMARY:TeslaTakedown
+LOCATION:16775 50 West\, Clermont\, FL
+DESCRIPTION:Join us in Central Florida to take a stand against DOGE\, Trum
+ p\, Elon Musk\, and their impact on our government at the Tesla Showroom i
+ n Clermont.\n\nTesla Showroom Clermont
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=16775+50+Wes
+ t%2C+Clermont%2C+FL&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:fd900faf-0b78-4960-b7c2-b07b0ce0bcac
+SEQUENCE:0
+DTSTAMP:20250318T120406Z
+DTSTART:20250323T100000
+DTEND:20250323T120000
+SUMMARY:Rally to Save USPS
+LOCATION:2100 E. Speedway Blvd\, Tucson\, AZ
+DESCRIPTION:Join us to stand with letter carriers in opposition to dismant
+ ling the postal service. Our rally aims to unite and strengthen support fo
+ r USPS\, emphasizing its crucial role in our community.\n\nNALC Branch 704
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=2100+E.+Spee
+ dway+Blvd%2C+Tucson%2C+AZ&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

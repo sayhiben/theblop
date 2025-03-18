@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:0c582b6a-1d0e-49f4-b493-5a0ad2ae2ad2
+SEQUENCE:0
+DTSTAMP:20250318T120406Z
+DTSTART:20250405T120000
+DTEND:20250405T140000
+SUMMARY:Hands Off
+LOCATION:\, Philadelphia\, PA
+DESCRIPTION:Join us for a rally at City Hall\, followed by a march to Inde
+ pendence Hall. This event\, Philadelphia Fights Back Against Trump and Mus
+ k\, includes speakers such as Rep. Chris Rabb.\n\nCity Hall
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+Philadel
+ phia%2C+PA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

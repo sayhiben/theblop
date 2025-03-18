@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:196b3a91-dccb-4caf-bdc8-954bf5cbfc7f
+SEQUENCE:0
+DTSTAMP:20250318T120406Z
+DTSTART:20250323T120000
+DTEND:20250323T140000
+SUMMARY:Rally to Save USPS
+LOCATION:909 3rd Ave\, New York\, NY
+DESCRIPTION:Join us as we rally to protect the Postal Service from a poten
+ tial hostile takeover. Stand with us to ensure the USPS remains a public s
+ ervice for all communities\, not for private interests. This rally is a de
+ monstration of our commitment to preserving jobs\, workplaces\, and the mi
+ ssion of serving the public.\n\n909 3rd Ave\, New York\, NY 10022
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=909+3rd+Ave%
+ 2C+New+York%2C+NY&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

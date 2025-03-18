@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:a595eb62-6484-47ce-8fa9-d3ca7ecb1bc4
+SEQUENCE:0
+DTSTAMP:20250318T120406Z
+DTSTART:20250319T120000
+DTEND:20250319T140000
+SUMMARY:UC Irvine Faculty Emergency Day of Action
+LOCATION:Ring Road\, in front of Aldrich Hall\, Irvine\, CA
+DESCRIPTION:We are organizing a protest to oppose the Trump administration
+ 's attacks on higher education\, focusing on issues like free speech\, aca
+ demic freedom\, and civil rights. Join us to stand up and fight back.\n\nA
+ ldrich Hall
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Ring+Road%2C
+ +in+front+of+Aldrich+Hall%2C+Irvine%2C+CA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

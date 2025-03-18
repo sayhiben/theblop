@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:2dd964a1-d53f-4f7f-b207-dfe4c2e45f07
+SEQUENCE:0
+DTSTAMP:20250318T120406Z
+DTSTART:20250327T170000
+DTEND:20250327T190000
+SUMMARY:NO KINGS.
+LOCATION:430 N. Nevada Ave.\, Colorado Springs\, CO
+DESCRIPTION:Join the Indivisible Colorado Springs meeting to find an actio
+ n group\, get plugged in\, and fight back against authoritarianism.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=430+N.+Nevad
+ a+Ave.%2C+Colorado+Springs%2C+CO&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

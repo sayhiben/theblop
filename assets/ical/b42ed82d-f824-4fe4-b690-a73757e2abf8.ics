@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:0f163a30-a9c1-4901-9c97-5b2d2ddc3199
+SEQUENCE:0
+DTSTAMP:20250318T120406Z
+DTSTART:20250323T100000
+DTEND:20250323T120000
+SUMMARY:Rally to Save USPS
+LOCATION:105 N 1st St\, San Jose\, CA
+DESCRIPTION:Join us in supporting the postal service by standing with lett
+ er carriers at the rally. We aim to oppose the dismantling of the postal s
+ ervice and show solidarity for its essential role in our communities.\n\nS
+ t. James Post Office
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=105+N+1st+St
+ %2C+San+Jose%2C+CA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

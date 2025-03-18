@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:9f8e53cc-6b7b-49ed-9476-753d95f6a408
+SEQUENCE:0
+DTSTAMP:20250318T120406Z
+DTSTART:20250330T130000
+DTEND:20250330T150000
+SUMMARY:Stand Up! Fight Back!
+LOCATION:Federal Plaza\, Chicago\, IL
+DESCRIPTION:Join us as we stand up and fight back against attacks on trans
+  people. We rally to advocate for the rights and protection of the trans c
+ ommunity.\n\nFederal Plaza\, Chicago
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Federal+Plaz
+ a%2C+Chicago%2C+IL&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:2123088a-6533-4bc3-a4a3-bba5d0944499
+SEQUENCE:0
+DTSTAMP:20250318T120406Z
+DTSTART:20250322T120000
+DTEND:20250322T140000
+SUMMARY:Protect Our Public Lands
+LOCATION:Beaver Meadows Visitor Center\, Estes Park\, CO
+DESCRIPTION:Join us at Rocky Mountain National Park to show support for pu
+ blic lands and advocate for park ranger rehiring.\n\nBeaver Meadows Visito
+ r Center
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Beaver+Meado
+ ws+Visitor+Center%2C+Estes+Park%2C+CO&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

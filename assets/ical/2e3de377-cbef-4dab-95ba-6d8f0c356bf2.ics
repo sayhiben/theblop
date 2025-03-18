@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:b2802539-7643-4afe-b16d-fca1c1679e67
+SEQUENCE:0
+DTSTAMP:20250318T120406Z
+DTSTART:20250319T180000
+DTEND:20250319T200000
+SUMMARY:Southwark Housing & Planning Emergency
+LOCATION:160 Tooley St\, London\, GBR
+DESCRIPTION:We are organizing this protest to demand urgent action from So
+ uthwark Council regarding housing and planning issues. Join us to push for
+  affordable housing\, genuine consultations\, and climate-responsive devel
+ opment.\n\nSouthwark Council Office
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=160+Tooley+S
+ t%2C+London%2C+GBR&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

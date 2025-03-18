@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:d7d56ada-2122-47bd-a14b-b5f04687bec5
+SEQUENCE:0
+DTSTAMP:20250318T120406Z
+DTSTART:20250323T110000
+DTEND:20250323T130000
+SUMMARY:Rally to Save USPS
+LOCATION:Calder Plaza - Ottawa Ave NW\, Grand Rapids\, MI
+DESCRIPTION:We are gathering to support postal workers and oppose the dism
+ antling of the postal service. Join us to stand with letter carriers and e
+ xpress solidarity against proposed changes affecting the USPS.\n\nCalder P
+ laza
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Calder+Plaza
+ +-+Ottawa+Ave+NW%2C+Grand+Rapids%2C+MI&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

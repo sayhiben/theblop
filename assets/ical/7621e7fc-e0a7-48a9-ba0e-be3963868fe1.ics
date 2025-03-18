@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:94369f01-5819-44ad-96dc-052f47ccc6a9
+SEQUENCE:0
+DTSTAMP:20250318T120406Z
+DTSTART:20250405T140000
+DTEND:20250405T160000
+SUMMARY:Union County Unite Peaceful Protest & March
+LOCATION:Max Square\, La Grande\, OR
+DESCRIPTION:Join us for a peaceful protest and march as we aim to remove c
+ orrupt politicians from office\, reverse the damage\, and reclaim our demo
+ cracy. Meet at Max Square in La Grande\, Oregon.\n\nMax Square\, La Grande
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Max+Square%2
+ C+La+Grande%2C+OR&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:a2d4fd3e-2025-4e6c-ab7b-5dac397a8cbc
+SEQUENCE:0
+DTSTAMP:20250318T120406Z
+DTSTART:20250318T190000
+DTEND:20250318T210000
+SUMMARY:Emergency Protest
+LOCATION:Israeli Consulate\, 1100 Spring St NW\, Atlanta\, GA
+DESCRIPTION:We are organizing an emergency protest to stop the US-Israeli 
+ actions. Join us to show solidarity and demand change.\n\nIsraeli Consulat
+ e
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Israeli+Cons
+ ulate%2C+1100+Spring+St+NW%2C+Atlanta%2C+GA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

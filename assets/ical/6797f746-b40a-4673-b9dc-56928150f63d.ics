@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:ef06d201-0a89-4142-94e0-c375dfcc1b65
+SEQUENCE:0
+DTSTAMP:20250318T120406Z
+DTSTART:20250323T130000
+DTEND:20250323T150000
+SUMMARY:Rally to Save USPS
+LOCATION:515 W. First St.\, Duluth\, MN
+DESCRIPTION:Join us as we rally with letter carriers against the dismantli
+ ng of the postal service. Stand together to show support for USPS and its 
+ crucial role in our communities.\n\nNALC Branch 114
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=515+W.+First
+ +St.%2C+Duluth%2C+MN&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

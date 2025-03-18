@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:294e7929-211b-4995-9259-b79c1f419b0b
+SEQUENCE:0
+DTSTAMP:20250318T120406Z
+DTSTART:20250322T120000
+DTEND:20250322T140000
+SUMMARY:Protest
+LOCATION:Jackson City Hall\, Jackson\, TN
+DESCRIPTION:Join us as we oppose the erosion of immigrant rights\, the pow
+ er of the working class\, and the rise of fascism. We refuse to lie down a
+ nd wait for the destruction of our country by billionaires and tyrants. Po
+ wer for the people!\n\nJackson City Hall
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Jackson+City
+ +Hall%2C+Jackson%2C+TN&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

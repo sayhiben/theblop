@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:52b98d19-5a42-458d-bc83-f849f12b4519
+SEQUENCE:0
+DTSTAMP:20250318T120406Z
+DTSTART:20250323T100000
+DTEND:20250323T120000
+SUMMARY:Rally to Save the United States Postal Service
+LOCATION:105 North First Street\, San Jose\, CA
+DESCRIPTION:The South Bay Labor Council invites you to join us in standing
+  united against the dismantling of the Postal Service. Join your union bro
+ thers and sisters in supporting equality\, fairness\, and dignity for post
+ al workers.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=105+North+Fi
+ rst+Street%2C+San+Jose%2C+CA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

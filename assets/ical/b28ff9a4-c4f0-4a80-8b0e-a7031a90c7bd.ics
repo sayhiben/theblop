@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:ce8a5d08-faa7-4d12-8e71-f680ae940cc2
+SEQUENCE:0
+DTSTAMP:20250318T120406Z
+DTSTART:20250322T110000
+DTEND:20250322T130000
+SUMMARY:ELON MUSK & DOGE PROTEST
+LOCATION:Schaper Park\, Golden Valley\, MN
+DESCRIPTION:Join us at Schaper Park in Golden Valley for a protest against
+  Elon Musk and Dogecoin. Bring awareness\, join the cause\, and share with
+  your networks.\n\nSchaper Park
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Schaper+Park
+ %2C+Golden+Valley%2C+MN&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

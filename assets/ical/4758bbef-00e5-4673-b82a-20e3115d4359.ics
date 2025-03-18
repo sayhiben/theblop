@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:b4574bce-6629-449b-b7d0-0dc04eaa918c
+SEQUENCE:0
+DTSTAMP:20250318T120406Z
+DTSTART:20250323T130000
+DTEND:20250323T150000
+SUMMARY:SD Rally to save the USPS
+LOCATION:Fawick Park\, Sioux Falls\, SD
+DESCRIPTION:We are organizing a rally to save the USPS\, standing with NAL
+ C branch 491 and opposing the dismantling of the postal service. Join us i
+ n Sioux Falls to show your support.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Fawick+Park%
+ 2C+Sioux+Falls%2C+SD&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

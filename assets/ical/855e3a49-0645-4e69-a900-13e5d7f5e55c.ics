@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:a03bb6b8-ebba-440c-843b-48fb613b11f2
+SEQUENCE:0
+DTSTAMP:20250318T120406Z
+DTSTART:20250322T100000
+DTEND:20250322T120000
+SUMMARY:Protect Our Public Lands Protest
+LOCATION:2 Black Canyon Road\, Essex\, CA
+DESCRIPTION:Join us in a protest at the Mojave National Preserve to advoca
+ te for the protection of our public lands. We aim to gather nature enthusi
+ asts to make a stand for environmental preservation.\n\nHole in the Wall I
+ nformation Center
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=2+Black+Cany
+ on+Road%2C+Essex%2C+CA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

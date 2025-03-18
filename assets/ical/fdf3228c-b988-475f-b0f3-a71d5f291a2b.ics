@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:a3341485-ce41-408c-90e8-8fb3bb9918a0
+SEQUENCE:0
+DTSTAMP:20250318T120406Z
+DTSTART:20250331T103000
+DTEND:20250331T123000
+SUMMARY:Cesar Chavez Day: A March for All Workers
+LOCATION:104 S Lexington St\, Delano\, CA
+DESCRIPTION:Join us for a march on Cesar Chavez Day to support and stand i
+ n solidarity with immigrant worker communities\, organized by United Farm 
+ Workers.\n\nMemorial Park
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=104+S+Lexing
+ ton+St%2C+Delano%2C+CA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

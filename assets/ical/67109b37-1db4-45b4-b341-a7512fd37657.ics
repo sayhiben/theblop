@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:f8bdafd4-fba2-4304-b0b1-c03cc214b58a
+SEQUENCE:0
+DTSTAMP:20250318T120406Z
+DTSTART:20250323T000000
+DTEND:20250323T020000
+SUMMARY:Benefits over Billionaires!
+LOCATION:\, Bakersfield\, Anaheim\, Norco\, CA
+DESCRIPTION:Join Congressman Ro Khanna and Protect Our Care for a rally ad
+ dressing political policies\, under the theme\, "If Republicans won't list
+ en to the people\, we will."\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+Bakersfi
+ eld%2C+Anaheim%2C+Norco%2C+CA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

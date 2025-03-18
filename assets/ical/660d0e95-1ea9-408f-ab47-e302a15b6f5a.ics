@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:866a07de-dc55-4ae7-9feb-3e711db990e5
+SEQUENCE:0
+DTSTAMP:20250318T120406Z
+DTSTART:20250323T130000
+DTEND:20250323T150000
+SUMMARY:Hell No! Rally Against Dismantling the Postal Service
+LOCATION:2721 SW Trenton St\, Seattle\, WA
+DESCRIPTION:We are organizing a rally to protest against the dismantling o
+ f the postal service. Join us to express your opposition and support the c
+ ause.\n\nWestwood Post Office
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=2721+SW+Tren
+ ton+St%2C+Seattle%2C+WA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:b2ba2ae4-6f21-4685-9ee7-38795da8ca6f
+SEQUENCE:0
+DTSTAMP:20250318T120406Z
+DTSTART:20250323T100000
+DTEND:20250323T120000
+SUMMARY:Rally to Save USPS
+LOCATION:300 N Los Angeles St.\, Los Angeles\, CA
+DESCRIPTION:We are organizing a rally in opposition to dismantling the pos
+ tal service. Join us in Los Angeles to stand with letter carriers and supp
+ ort USPS by participating in this national protest.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=300+N+Los+An
+ geles+St.%2C+Los+Angeles%2C+CA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
