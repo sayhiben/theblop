@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:f28fef4b-047d-4083-a9cf-a63ea7b7abb4
+SEQUENCE:0
+DTSTAMP:20250318T210341Z
+DTSTART:20250405T160000
+DTEND:20250405T180000
+SUMMARY:Abortion Care Kit Garden Party
+LOCATION:415 Hillsborough St Suite 101\, Raleigh\, NC
+DESCRIPTION:We’ll be making abortion care kits\, learning about bodily a
+ utonomy\, and taking donations for the Women’s Center of Raleigh!\n\nRal
+ eigh United Mutual Aid Hub
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=415+Hillsbor
+ ough+St+Suite+101%2C+Raleigh%2C+NC&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

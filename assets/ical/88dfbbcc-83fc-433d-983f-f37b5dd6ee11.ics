@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:fb26c956-17e8-4d90-83bf-32e9b772da00
+SEQUENCE:0
+DTSTAMP:20250318T210341Z
+DTSTART:20250318T170000
+DTEND:20250318T190000
+SUMMARY:Boston Emergency Protest
+LOCATION:128 Park St\, Boston\, MA
+DESCRIPTION:This flyer announces an emergency protest in Boston to stop ge
+ nocide and demands an arms embargo. The event is gathering at Park Street.
+ \n\nPark Street
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=128+Park+St%
+ 2C+Boston%2C+MA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

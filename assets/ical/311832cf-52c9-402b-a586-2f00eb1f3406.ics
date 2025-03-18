@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:002bb293-bb57-45e3-b2d3-e2b01a2e406c
+SEQUENCE:0
+DTSTAMP:20250318T210341Z
+DTSTART:20250322T120000
+DTEND:20250322T140000
+SUMMARY:Protect Our Public Lands
+LOCATION:Beaver Meadows Visitor Center\, Rocky Mountain National Park
+DESCRIPTION:Join us at Rocky Mountain National Park to protest and raise a
+ wareness about the importance of public lands and support for park rangers
+ .\n\nBeaver Meadows Visitor Center
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Beaver+Meado
+ ws+Visitor+Center%2C+Rocky+Mountain+National+Park&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

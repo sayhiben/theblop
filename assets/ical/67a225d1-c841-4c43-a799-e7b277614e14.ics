@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:026cce48-258f-4923-b89a-e8edf49174ae
+SEQUENCE:0
+DTSTAMP:20250318T210341Z
+DTSTART:20250405T120000
+DTEND:20250405T140000
+SUMMARY:Stand Up for Democracy
+LOCATION:Empire State Plaza\, Albany\, NY
+DESCRIPTION:We are organizing a gathering to encourage citizens to stand a
+ gainst corrupt politicians\, reverse the damage\, and reclaim our democrac
+ y.\n\nThe Egg\, Empire State Plaza
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Empire+State
+ +Plaza%2C+Albany%2C+NY&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:5adea1cd-528c-4df6-bb3b-0c21c0f1ad58
+SEQUENCE:0
+DTSTAMP:20250318T210341Z
+DTSTART:20250318T173000
+DTEND:20250318T193000
+SUMMARY:Tucson Emergency Protest
+LOCATION:Main Gate Square\, 814 E University Blvd\, Tucson\, AZ
+DESCRIPTION:Join us for an urgent protest to stop the genocide and demand 
+ an arms embargo now.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Main+Gate+Sq
+ uare%2C+814+E+University+Blvd%2C+Tucson%2C+AZ&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:f308bf6c-b6f7-48e1-b311-5a0639125b0a
+SEQUENCE:0
+DTSTAMP:20250318T210341Z
+DTSTART:20250318T163000
+DTEND:20250318T183000
+SUMMARY:Emergency Protest: Hands Off Gaza
+LOCATION:500 W Madison\, Chicago\, IL
+DESCRIPTION:We are organizing a protest to advocate for justice in Palesti
+ ne and oppose actions in Gaza. Join us in solidarity at the Israeli Consul
+ ate in Chicago.\n\nIsraeli Consulate
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=500+W+Madiso
+ n%2C+Chicago%2C+IL&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

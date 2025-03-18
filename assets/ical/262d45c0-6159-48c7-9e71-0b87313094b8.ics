@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:122370e6-8ed5-4d0f-9d8c-b04634592694
+SEQUENCE:0
+DTSTAMP:20250318T210341Z
+DTSTART:20250318T173000
+DTEND:20250318T193000
+SUMMARY:Emergency Protest
+LOCATION:810 Copper Ave NW\, Albuquerque\, NM
+DESCRIPTION:Join us in Albuquerque to protest and demand action against ge
+ nocide. We call for an arms embargo now.\n\nRobinson Park
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=810+Copper+A
+ ve+NW%2C+Albuquerque%2C+NM&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

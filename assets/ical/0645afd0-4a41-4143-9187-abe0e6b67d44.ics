@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:66ddeca7-cf74-4401-acdf-fef2ba0f199d
+SEQUENCE:0
+DTSTAMP:20250318T210341Z
+DTSTART:20250319T160000
+DTEND:20250319T180000
+SUMMARY:O'ahu Events
+LOCATION:\, Honolulu\, HI
+DESCRIPTION:A series of public events in O'ahu including sign holding\, po
+ stal service protection\, Tesla protest\, and celebration of transgender v
+ isibility.\n\nThomas Square\, Downtown Post Office\, Tesla Waikiki\, Capit
+ ol
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+Honolulu
+ %2C+HI&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

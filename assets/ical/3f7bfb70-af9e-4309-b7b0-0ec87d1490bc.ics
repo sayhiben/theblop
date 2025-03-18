@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:f58457d9-496c-47a1-9c02-a3023a072cfb
+SEQUENCE:0
+DTSTAMP:20250318T210341Z
+DTSTART:20250322T130000
+DTEND:20250322T150000
+SUMMARY:Stand Up! Fight Back!
+LOCATION:George Washington Park Sidewalk\, Centralia\, WA
+DESCRIPTION:We are standing up for women's rights this March. Join us in t
+ he fight for equal pay for women and defend immigrant and migrant women.\n
+ \nGeorge Washington Park Sidewalk
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=George+Washi
+ ngton+Park+Sidewalk%2C+Centralia%2C+WA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

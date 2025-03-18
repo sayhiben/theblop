@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:da77f847-9fd1-445b-b7be-f1501a851520
+SEQUENCE:0
+DTSTAMP:20250318T210341Z
+DTSTART:20250322T120000
+DTEND:20250322T140000
+SUMMARY:Stop the Cuts Town Hall
+LOCATION:\, Wall Township\, NJ
+DESCRIPTION:We invite you to participate in a town hall to stand against p
+ roposed cuts affecting federal agencies and public welfare services like M
+ edicaid and SNAP.\n\nCongressional District 4
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+Wall+Tow
+ nship%2C+NJ&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

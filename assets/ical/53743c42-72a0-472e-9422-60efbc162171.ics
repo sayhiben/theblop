@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:5b6e84e6-66c5-4be0-bfd7-77333f0e1009
+SEQUENCE:0
+DTSTAMP:20250318T210341Z
+DTSTART:20250318T170000
+DTEND:20250318T190000
+SUMMARY:Protest for Gaza
+LOCATION:300 S 4th St\, Minneapolis\, MN
+DESCRIPTION:Join us in rallying to stop the massacres in Gaza\, calling fo
+ r ending aid and divestment from Israel.\n\nFederal Building
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=300+S+4th+St
+ %2C+Minneapolis%2C+MN&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

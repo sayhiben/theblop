@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:21c6e36d-73d9-4467-8dac-ff737bf9cf55
+SEQUENCE:0
+DTSTAMP:20250318T210341Z
+DTSTART:20250318T180000
+DTEND:20250318T200000
+SUMMARY:Stop the Genocide
+LOCATION:456 Montgomery St\, San Francisco\, CA
+DESCRIPTION:A protest to raise awareness and stop the genocide\, calling f
+ or an arms embargo.\n\nZionist Consulate
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=456+Montgome
+ ry+St%2C+San+Francisco%2C+CA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

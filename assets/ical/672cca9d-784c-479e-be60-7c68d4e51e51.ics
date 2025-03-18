@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:4ba23201-1dbb-4bc0-9913-f39eee9f9d1a
+SEQUENCE:0
+DTSTAMP:20250318T210341Z
+DTSTART:20250318T000000
+DTEND:20250318T020000
+SUMMARY:Emergency Protests
+LOCATION:Multiple locations listed for each city\, Multiple locations\, Na
+ tionwide
+DESCRIPTION:These are emergency protests organized by "pslnational" under 
+ the title "STOP THE GENOCIDE!" Details include various cities and times.\n
+ \nVarious specific venues provided
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Multiple+loc
+ ations+listed+for+each+city%2C+Multiple+locations%2C+Nationwide&zoom=15&ba
+ semap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

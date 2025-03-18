@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:2d51a16c-1802-40a8-bd03-93bfaf21b16d
+SEQUENCE:0
+DTSTAMP:20250318T210341Z
+DTSTART:20250405T120000
+DTEND:20250405T140000
+SUMMARY:April 5th Protests
+LOCATION:Torch of Friendship\, 301 Biscayne Blvd\, Miami\; Arts Park\, 173
+ 3 E Young Circle\, Hollywood\; Palm Beach Courthouse\, Corner of 3rd St & 
+ Dixie\, West Palm Beach\, Miami\, Hollywood\, West Palm Beach\, FL
+DESCRIPTION:Join us to protest executive overreach and unconstitutional ac
+ tions by the Trump administration! Remove the corrupt\, reverse the damage
+ \, reclaim our democracy.\n\nTorch of Friendship\, 301 Biscayne Blvd\, Mia
+ mi\; Arts Park\, 1733 E Young Circle\, Hollywood\; Palm Beach Courthouse\,
+  Corner of 3rd St & Dixie\, West Palm Beach
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Torch+of+Fri
+ endship%2C+301+Biscayne+Blvd%2C+Miami%3B+Arts+Park%2C+1733+E+Young+Circle%
+ 2C+Hollywood%3B+Palm+Beach+Courthouse%2C+Corner+of+3rd+St+%26+Dixie%2C+Wes
+ t+Palm+Beach%2C+Miami%2C+Hollywood%2C+West+Palm+Beach%2C+FL&zoom=15&basema
+ p=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:3514f963-bba3-4f1d-95b6-f277dd7aab22
+SEQUENCE:0
+DTSTAMP:20250318T210341Z
+DTSTART:20250318T170000
+DTEND:20250318T190000
+SUMMARY:Protest for Gaza
+LOCATION:300 S 4th St\, Minneapolis\, MN
+DESCRIPTION:We are organizing a protest against the killing of over 400 Pa
+ lestinians in Gaza in the last 24 hours. Join us to deliver a message to s
+ top the massacres and demand divestment from Israel.\n\nFederal Building
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=300+S+4th+St
+ %2C+Minneapolis%2C+MN&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

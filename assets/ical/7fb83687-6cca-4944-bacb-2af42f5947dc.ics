@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:549a401e-5514-4a1f-a2ef-1053ecfa8d34
+SEQUENCE:0
+DTSTAMP:20250318T210341Z
+DTSTART:20250405T103000
+DTEND:20250405T123000
+SUMMARY:Hands Off! The Waccamaw Neck Fights Back
+LOCATION:9450 Ocean Hwy\, Bike Path\, Pawleys Island\, SC
+DESCRIPTION:An event organized to protest against the perceived overreach 
+ by figures such as Donald Trump and Elon Musk. The community is rallying t
+ o protect health care\, data\, jobs\, and services.\n\nBike Path
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=9450+Ocean+H
+ wy%2C+Bike+Path%2C+Pawleys+Island%2C+SC&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

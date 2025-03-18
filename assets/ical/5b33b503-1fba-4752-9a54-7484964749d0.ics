@@ -2,18 +2,18 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:c4a227eb-4809-494c-84f4-5a68131c50bd
+UID:3c1f83fb-fa0b-49f8-adf3-01f37759d97f
 SEQUENCE:0
-DTSTAMP:20250318T180306Z
+DTSTAMP:20250318T210341Z
 DTSTART:20250322T120000
 DTEND:20250322T140000
 SUMMARY:Speak Loudly for Quiet Places
-LOCATION:Big Thicket National Preserve Visitor Center\, \, TX
+LOCATION:Big Thicket National Preserve Visitor Center\, Kountze\, TX
 DESCRIPTION:Join us to "speak loudly for quiet places" at the Big Thicket 
  National Preserve. It's a gathering to raise awareness and appreciation fo
  r the tranquil environments of the preserve.\n\n
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Big+Thicket+
- National+Preserve+Visitor+Center%2C+%2C+TX&zoom=15&basemap=roadmap
+ National+Preserve+Visitor+Center%2C+Kountze%2C+TX&zoom=15&basemap=roadmap
 STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:0d7c1b2f-92d8-4626-95d3-888d77e11926
+SEQUENCE:0
+DTSTAMP:20250318T210341Z
+DTSTART:20250405T110000
+DTEND:20250405T130000
+SUMMARY:Peaceful Protest
+LOCATION:501 N Thompson St\, Conroe\, TX
+DESCRIPTION:Join us for a peaceful protest against Trump. We aim to gather
+  individuals to stand united and voice our concerns.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=501+N+Thomps
+ on+St%2C+Conroe%2C+TX&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

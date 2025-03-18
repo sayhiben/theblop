@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:ec860996-2676-4263-a75b-c825d68a06ef
+SEQUENCE:0
+DTSTAMP:20250318T210341Z
+DTSTART:20250321T160000
+DTEND:20250321T180000
+SUMMARY:Free Palestine! Weekly Rally
+LOCATION:Summit & Snelling Ave\, St. Paul\, MN
+DESCRIPTION:Join us to stand against political repression and support Pale
+ stine. This weekly rally organized by Women Against Military Madness (WAMM
+ ) seeks to raise awareness and show solidarity.\n\nSummit & Snelling Ave\,
+  St. Paul
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Summit+%26+S
+ nelling+Ave%2C+St.+Paul%2C+MN&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

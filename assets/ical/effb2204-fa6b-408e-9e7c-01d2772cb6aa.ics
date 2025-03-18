@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:465bab7d-331e-444c-bd66-cc881b96e9de
+SEQUENCE:0
+DTSTAMP:20250318T210341Z
+DTSTART:20250323T130000
+DTEND:20250323T150000
+SUMMARY:NALC Fight Like Hell Rally
+LOCATION:1770 Central Avenue\, Colonie\, NY
+DESCRIPTION:Join us to say 'Hell No!' to dismantling the Postal Service. O
+ n Sunday\, March 23 at 1pm\, NALC branches are hosting rallies to protest 
+ against the current administration's actions against the US Postal Service
+ .\n\nNext to Wendy's & in front of Moe's
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=1770+Central
+ +Avenue%2C+Colonie%2C+NY&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:88819f94-002e-4834-9118-c9ddaaef27c5
+SEQUENCE:0
+DTSTAMP:20250318T210341Z
+DTSTART:20250405T120000
+DTEND:20250405T140000
+SUMMARY:50501: THE PEOPLE’S MOVEMENT
+LOCATION:500 E Capitol Ave\, Pierre\, SD
+DESCRIPTION:Join us for a peaceful assembly to unite against oppression an
+ d dictatorship at the Capitol Building in Pierre\, SD.\n\nCapitol Building
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=500+E+Capito
+ l+Ave%2C+Pierre%2C+SD&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

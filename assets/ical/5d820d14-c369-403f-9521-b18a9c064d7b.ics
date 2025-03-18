@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:3162a603-b01c-4f87-b3ba-796ee6c8d657
+SEQUENCE:0
+DTSTAMP:20250318T210341Z
+DTSTART:20250405T120000
+DTEND:20250405T140000
+SUMMARY:National Day of Protests & Sit-In
+LOCATION:\, Raleigh\, NC
+DESCRIPTION:Join us for a national protest and sit-in at the North Carolin
+ a State Capitol to advocate for democracy.\n\nNorth Carolina State Capitol
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+Raleigh%
+ 2C+NC&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:edf48943-26a6-47da-8ec4-e84b5885006f
+SEQUENCE:0
+DTSTAMP:20250318T210341Z
+DTSTART:20250318T190000
+DTEND:20250318T210000
+SUMMARY:EMERGENCY PROTEST
+LOCATION:White House\, Washington\, DC
+DESCRIPTION:Join us in an urgent protest to stop the genocide. We are call
+ ing for action at the White House to demand an arms embargo.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=White+House%
+ 2C+Washington%2C+DC&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

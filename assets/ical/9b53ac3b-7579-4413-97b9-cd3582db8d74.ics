@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:135cc7e0-ed6c-42b7-bd93-7ab59190612b
+SEQUENCE:0
+DTSTAMP:20250318T210341Z
+DTSTART:20250318T180000
+DTEND:20250318T200000
+SUMMARY:No Hate In Our State
+LOCATION:Elim Bible College\, Lima\, NY
+DESCRIPTION:Join us in opposing messages of hate. A gathering will take pl
+ ace at the Elim Bible College to demonstrate unity and stand against intol
+ erance.\n\nElim Bible College
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Elim+Bible+C
+ ollege%2C+Lima%2C+NY&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

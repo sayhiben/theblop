@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:063a54f6-1402-4083-a151-2803b73431e9
+SEQUENCE:0
+DTSTAMP:20250318T210341Z
+DTSTART:20250319T173000
+DTEND:20250319T193000
+SUMMARY:Fight for Our Rights
+LOCATION:\, Salt Lake City\, UT
+DESCRIPTION:Join us in Salt Lake City to support Palestinian rights and ad
+ vocate for the freedom of Mahmoud Khalil. We are gathering to make our voi
+ ces heard and demand justice.\n\nPresidents Circle
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+Salt+Lak
+ e+City%2C+UT&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

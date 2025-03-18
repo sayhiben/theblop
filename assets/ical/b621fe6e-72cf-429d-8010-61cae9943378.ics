@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:1af01f16-9ffe-4193-b9c5-b64a74bca35a
+SEQUENCE:0
+DTSTAMP:20250318T210341Z
+DTSTART:20250405T120000
+DTEND:20250405T140000
+SUMMARY:REMOVE\, REVERSE\, RECLAIM
+LOCATION:501 N 3rd St\, Harrisburg\, PA
+DESCRIPTION:This event is a peaceful\, family-friendly\, and inclusive pro
+ test aiming to remove corrupt politicians\, reverse damage\, and reclaim d
+ emocracy. It is part of a nationwide movement.\n\nCapitol Building
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=501+N+3rd+St
+ %2C+Harrisburg%2C+PA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

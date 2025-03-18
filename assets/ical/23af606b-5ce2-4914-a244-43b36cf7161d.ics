@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:87fd158b-6362-452d-a02d-9f34b3377d7b
+SEQUENCE:0
+DTSTAMP:20250318T210341Z
+DTSTART:20250318T113000
+DTEND:20250318T133000
+SUMMARY:Los Angeles Emergency Protest
+LOCATION:425 Westwood Plaza\, Los Angeles\, CA
+DESCRIPTION:Join students\, faculty\, and the community to demand divestme
+ nt and a full arms embargo against the genocide.\n\nLuskin Hotel
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=425+Westwood
+ +Plaza%2C+Los+Angeles%2C+CA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

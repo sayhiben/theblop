@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:daf35d6c-de82-4334-95a4-7cb233d2ae00
+SEQUENCE:0
+DTSTAMP:20250318T210341Z
+DTSTART:20250328T053000
+DTEND:20250328T073000
+SUMMARY:The Mockingjay Movement Protest
+LOCATION:1691 Woodland Drive\, Maumee\, OH
+DESCRIPTION:We are reminding our elected representatives of our commitment
+  to protecting and upholding reproductive freedom.\n\nPark at 1691 Woodlan
+ d Drive
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=1691+Woodlan
+ d+Drive%2C+Maumee%2C+OH&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

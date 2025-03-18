@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:faae0a2d-2f7a-4b46-b78c-09c1e3dd3f0b
+SEQUENCE:0
+DTSTAMP:20250318T210341Z
+DTSTART:20250322T130000
+DTEND:20250322T150000
+SUMMARY:Stop the Billionaires
+LOCATION:115 Kisco Avenue\, Mt. Kisco\, NY 10549 US
+DESCRIPTION:Join us at a public gathering to express our views at the Tesl
+ a Dealership in Mt. Kisco\, NY.\n\nTesla Dealership
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=115+Kisco+Av
+ enue%2C+Mt.+Kisco%2C+NY+10549+US&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
