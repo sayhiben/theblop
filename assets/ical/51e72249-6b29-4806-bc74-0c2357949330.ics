@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:1f442a73-fbd2-4526-a005-2d8b03e4e9db
+SEQUENCE:0
+DTSTAMP:20250319T210300Z
+DTSTART:20250405T130000
+DTEND:20250405T150000
+SUMMARY:Next 50 State Nation Wide Protest
+LOCATION:Poplar & Highland\, North East Corner Green Space\, Memphis\, TN
+DESCRIPTION:Join the 50501 movement for a nation-wide protest taking place
+  in every state. Gather at the Memphis event location for a demonstration 
+ aimed at advocating for change.\n\nNorth East Corner Green Space
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Poplar+%26+H
+ ighland%2C+North+East+Corner+Green+Space%2C+Memphis%2C+TN&zoom=15&basemap=
+ roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

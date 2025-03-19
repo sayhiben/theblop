@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:80fcc6bc-28c9-4c49-83e5-d8c9a0a250cd
+SEQUENCE:0
+DTSTAMP:20250319T210300Z
+DTSTART:20250405T120000
+DTEND:20250405T140000
+SUMMARY:Rally for Democracy
+LOCATION:400 Bridge St\, Clarkston\, WA
+DESCRIPTION:We are hosting a rally to remove corrupt politicians\, reverse
+  harmful policies\, and reclaim our democracy. Join us in support of democ
+ ratic values and oppose fascism.\n\nAlbertsons in Clarkston
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=400+Bridge+S
+ t%2C+Clarkston%2C+WA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

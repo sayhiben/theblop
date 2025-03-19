@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:6114e4c1-9b10-4621-95e3-3f92282f631e
+SEQUENCE:0
+DTSTAMP:20250319T210300Z
+DTSTART:20251220T190000
+DTEND:20251220T210000
+SUMMARY:Tour of Lights
+LOCATION:City Hall\, Springfield\, IL
+DESCRIPTION:Join us for a magical evening to witness the most beautiful ho
+ liday displays around town. Bring your friends and family.\n\nCity Hall
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=City+Hall%2C
+ +Springfield%2C+IL&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

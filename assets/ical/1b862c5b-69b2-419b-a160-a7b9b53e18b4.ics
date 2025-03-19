@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:07afd483-ac75-4555-aae9-008a2eae05d7
+SEQUENCE:0
+DTSTAMP:20250319T210300Z
+DTSTART:20250323T130000
+DTEND:20250323T150000
+SUMMARY:March 23 Rally
+LOCATION:Parkman Bandstand\, Boston Common
+DESCRIPTION:We aim to fight for a strong contract and oppose the privatiza
+ tion of USPS.\n\nParkman Bandstand
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Parkman+Band
+ stand%2C+Boston+Common&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

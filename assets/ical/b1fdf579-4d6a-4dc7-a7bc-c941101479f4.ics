@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:6b72385e-6932-4cb3-97b3-b40345a353c1
+SEQUENCE:0
+DTSTAMP:20250319T210300Z
+DTSTART:20250321T170000
+DTEND:20250321T190000
+SUMMARY:Sign Waving Event
+LOCATION:16400 Bothell Everett Hwy\, Mill Creek\, WA
+DESCRIPTION:Snohomish County Indivisible is organizing a public event to p
+ rotest against the Trump Administration's actions. The event focuses on ra
+ ising awareness and encouraging participation to defend democracy\, justic
+ e\, and equality.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=16400+Bothel
+ l+Everett+Hwy%2C+Mill+Creek%2C+WA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

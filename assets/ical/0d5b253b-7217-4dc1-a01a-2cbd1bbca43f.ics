@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:981ac989-7eda-4814-8aeb-1275508bc904
+SEQUENCE:0
+DTSTAMP:20250319T210300Z
+DTSTART:20250405T100000
+DTEND:20250405T120000
+SUMMARY:Hands Off Free Speech
+LOCATION:Rally on US 41\, east & west sidewalks between Daniels/Cypress La
+ ke & Cypress Trace Dr\, Ft. Myers\, FL
+DESCRIPTION:Join our biggest peaceful protest\, bringing together all prog
+ ressive groups including Indivisible\, 50501\, Women’s March\, and all l
+ ocal progressive groups.\n\nPark at old Lonestar Restaurant\, 13320 S Clev
+ eland Ave\, next to Blaze Pizza or at Bell Tower
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Rally+on+US+
+ 41%2C+east+%26+west+sidewalks+between+Daniels%2FCypress+Lake+%26+Cypress+T
+ race+Dr%2C+Ft.+Myers%2C+FL&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

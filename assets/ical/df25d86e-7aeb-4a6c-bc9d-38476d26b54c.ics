@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:04377c03-d493-4ced-9c7b-bc4176142c75
+SEQUENCE:0
+DTSTAMP:20250319T210300Z
+DTSTART:20250322T140000
+DTEND:20250322T160000
+SUMMARY:Free Mahmoud Khalil & Leqaa Kordia Protest
+LOCATION:Athens County Municipal Courthouse\, Athens\, OH
+DESCRIPTION:Join us in a protest demanding to free Mahmoud Khalil and Leqa
+ a Kordia. We aim to protect First Amendment rights\, stop school’s attac
+ ks on student groups\, and make Athens a sanctuary city.\n\nAthens County 
+ Municipal Courthouse
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Athens+Count
+ y+Municipal+Courthouse%2C+Athens%2C+OH&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

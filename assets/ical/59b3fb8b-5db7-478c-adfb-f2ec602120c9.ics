@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:46bc0808-b27d-46bb-bb33-290d2f0891a5
+SEQUENCE:0
+DTSTAMP:20250319T210300Z
+DTSTART:20250323T103000
+DTEND:20250323T123000
+SUMMARY:Rally to Save USPS
+LOCATION:500 S College Ave & Mulberry St.\, Fort Collins\, CO
+DESCRIPTION:Join us in a rally to support postal service workers and oppos
+ e the dismantling of the postal service.\n\n500 S College Ave & Mulberry S
+ t.
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=500+S+Colleg
+ e+Ave+%26+Mulberry+St.%2C+Fort+Collins%2C+CO&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
