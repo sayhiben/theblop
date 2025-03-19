@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:4e895990-7051-40fa-b01e-e393b414b88d
+SEQUENCE:0
+DTSTAMP:20250319T173654Z
+DTSTART:20250319T150000
+DTEND:20250319T170000
+SUMMARY:Pop-up Protest @John Joyce’s Altoona Office
+LOCATION:5414 6th Ave\, Altoona\, PA
+DESCRIPTION:Join us as we gather outside Rep. John Joyce’s Altoona offic
+ e to demand a town hall! Joyce continues to ignore his constituents\, refu
+ sing to hold a public forum where we can voice our concerns. It’s time t
+ o show him that we won’t be silenced. Bring your own signs and make your
+  voice heard! Let’s stand together for accountability and representation
+ .\n\nJohn Joyce’s Altoona Office
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=5414+6th+Ave
+ %2C+Altoona%2C+PA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
