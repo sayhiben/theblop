@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:af2bded4-265e-4ac4-b23d-bf541a6825d0
+SEQUENCE:0
+DTSTAMP:20250319T120251Z
+DTSTART:20250405T000000
+DTEND:20250405T020000
+SUMMARY:REMOVE REVERSE RECLAIM
+LOCATION:\, Nationwide\, Nationwide
+DESCRIPTION:Join us on a mission to remove corrupt politicians from office
+ \, reverse the damage\, and reclaim our democracy through nationwide prote
+ sts and sit-ins.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+Nationwi
+ de%2C+Nationwide&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

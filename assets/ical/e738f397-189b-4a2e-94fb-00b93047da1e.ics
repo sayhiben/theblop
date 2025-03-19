@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:b19a9135-2bfc-48a5-8923-e6358776cf93
+SEQUENCE:0
+DTSTAMP:20250319T120251Z
+DTSTART:20250405T130000
+DTEND:20250405T150000
+SUMMARY:Remove\, Reverse\, Reclaim
+LOCATION:250 Highway 101\, Florence\, OR
+DESCRIPTION:Join us in a movement to remove corrupt politicians from offic
+ e\, reverse the damage\, and reclaim our democracy. Stand up and push back
+  as part of this public event organized by Florence ORganizes.\n\nFlorence
+  City Hall
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=250+Highway+
+ 101%2C+Florence%2C+OR&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
