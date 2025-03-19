@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:3c35bf04-c60e-4a00-8d7d-34b53b98aabb
+SEQUENCE:0
+DTSTAMP:20250319T000606Z
+DTSTART:20250328T120000
+DTEND:20250328T140000
+SUMMARY:Hands Off Our VA!
+LOCATION:Polk and Damen in front of Jesse Brown VA\, Chicago\, IL
+DESCRIPTION:We stand together against cuts to the VA system and the rights
+  of federal workers. Join us to protest and maintain the integrity of our 
+ government systems.\n\nIn front of Jesse Brown VA
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Polk+and+Dam
+ en+in+front+of+Jesse+Brown+VA%2C+Chicago%2C+IL&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

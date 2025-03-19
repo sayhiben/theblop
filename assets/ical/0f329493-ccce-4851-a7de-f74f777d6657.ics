@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:857ad3d2-298c-46ff-acad-033b2b8c2813
+SEQUENCE:0
+DTSTAMP:20250319T000606Z
+DTSTART:20250320T160000
+DTEND:20250320T180000
+SUMMARY:Take Back Our Rights
+LOCATION:Along SR 32 between SR 38 and SR 19 (Federal Hill)\, Noblesville\
+ , IN
+DESCRIPTION:Join us for a veterans and allies protest in Hamilton County.\
+ n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Along+SR+32+
+ between+SR+38+and+SR+19+%28Federal+Hill%29%2C+Noblesville%2C+IN&zoom=15&ba
+ semap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

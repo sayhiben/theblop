@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:aaf30d32-b2e1-441b-af99-50371eef1d35
+SEQUENCE:0
+DTSTAMP:20250319T000606Z
+DTSTART:20250405T114500
+DTEND:20250405T134500
+SUMMARY:VETO Project 2025
+LOCATION:200 E. Colfax Ave. - Denver\, Colorado
+DESCRIPTION:Join us in our peaceful dissent against the Trump-Musk coup. P
+ rotecting rights across various social and political issues.\n\nDenver Sta
+ te Capitol
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=200+E.+Colfa
+ x+Ave.+-+Denver%2C+Colorado&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

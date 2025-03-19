@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:318c2623-c747-47a6-bde6-f2ae5373df03
+SEQUENCE:0
+DTSTAMP:20250319T000606Z
+DTSTART:20250323T120000
+DTEND:20250323T140000
+SUMMARY:Snohomish County Letter Carriers Rally
+LOCATION:3102 Hoyt Avenue\, Everett\, WA
+DESCRIPTION:We invite you to join the Snohomish County letter carriers in 
+ a rally to save the post office. We stand firmly against any attempts to d
+ ismantle the postal service and encourage you to 'fight like hell!' with u
+ s.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=3102+Hoyt+Av
+ enue%2C+Everett%2C+WA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

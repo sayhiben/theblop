@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:c07d58f3-60a7-47b1-8d3c-b1edfddbc989
+SEQUENCE:0
+DTSTAMP:20250319T000606Z
+DTSTART:20250323T110000
+DTEND:20250323T130000
+SUMMARY:Rally to Save USPS
+LOCATION:717 Del Monte Blvd\, Monterey\, CA
+DESCRIPTION:Protest against dismantling and privatizing the Postal Service
+  with letter carriers and postal employees. Stand in solidarity and fight 
+ for the USPS.\n\nWindow on the Bay
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=717+Del+Mont
+ e+Blvd%2C+Monterey%2C+CA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

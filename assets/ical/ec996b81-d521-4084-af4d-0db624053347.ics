@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:1523f1c0-1547-4aed-91c3-e147c439d5da
+SEQUENCE:0
+DTSTAMP:20250319T000606Z
+DTSTART:20250320T180000
+DTEND:20250320T200000
+SUMMARY:Senator Andy Kim’s Town Hall Series
+LOCATION:1 Philadelphia Ave\, 118 Lamington Rd\, 60 Drum Point Rd\, Egg Ha
+ rbor City\, Branchburg\, Brick Township\, NJ
+DESCRIPTION:We are hosting a series of three town hall meetings this week 
+ to address critical issues and engage with community members. Join us to d
+ iscuss what's on our minds.\n\nAtlantic County\, Somerset County\, Ocean C
+ ounty
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=1+Philadelph
+ ia+Ave%2C+118+Lamington+Rd%2C+60+Drum+Point+Rd%2C+Egg+Harbor+City%2C+Branc
+ hburg%2C+Brick+Township%2C+NJ&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

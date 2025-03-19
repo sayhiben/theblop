@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:e2e6ca69-158f-4918-ad56-537c570430ca
+SEQUENCE:0
+DTSTAMP:20250319T000606Z
+DTSTART:20250331T160000
+DTEND:20250331T180000
+SUMMARY:O'AHU EVENTS
+LOCATION:\, Honolulu\, HI
+DESCRIPTION:A series of advocacy and awareness events happening in O'ahu\,
+  including sign holdings\, vigils\, and protests against various issues af
+ fecting the community.\n\nVarious locations in O'ahu\, including Thomas Sq
+ uare\, Downtown Post Office\, Kaka‘ako Waterfront Park\, S King St & Ric
+ hards\, Tesla Waikiki\, Capitol.
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+Honolulu
+ %2C+HI&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

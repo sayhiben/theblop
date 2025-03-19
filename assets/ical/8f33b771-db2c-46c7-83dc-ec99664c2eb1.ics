@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:0558b411-4ad5-480f-9437-6d45102a686c
+SEQUENCE:0
+DTSTAMP:20250319T000606Z
+DTSTART:20250405T110000
+DTEND:20250405T130000
+SUMMARY:Peaceful Protest
+LOCATION:University & I75 (By Tesla)\, Tampa\, FL
+DESCRIPTION:Join us for a non-violent and peaceful protest organized by El
+  Pueblo Unido - Tampa Bay. Our mission includes removing corrupt politicia
+ ns\, reversing the damage\, and reclaiming our democracy. We stand for fig
+ hting discrimination and racism\, and promoting immigrant rights as human 
+ rights.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=University+%
+ 26+I75+%28By+Tesla%29%2C+Tampa%2C+FL&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

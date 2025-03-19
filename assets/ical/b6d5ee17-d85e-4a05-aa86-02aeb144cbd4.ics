@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:536e9bf4-3956-4a28-9343-e882551e853e
+SEQUENCE:0
+DTSTAMP:20250319T000606Z
+DTSTART:20250319T143000
+DTEND:20250319T163000
+SUMMARY:Event with Representative Dusty Johnson
+LOCATION:Sturgis Vets Club\, Sturgis\, SD
+DESCRIPTION:We invite you to join us at the Sturgis Vets Club with Represe
+ ntative Dusty Johnson to address veterans' benefits and support our vets w
+ ith the respect they deserve.\n\nSturgis Vets Club
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Sturgis+Vets
+ +Club%2C+Sturgis%2C+SD&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

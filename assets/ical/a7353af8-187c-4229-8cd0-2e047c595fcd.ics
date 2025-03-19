@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:61cbdd6a-f48f-4b98-b0aa-7a0a511dcd7a
+SEQUENCE:0
+DTSTAMP:20250319T000606Z
+DTSTART:20250323T120000
+DTEND:20250323T140000
+SUMMARY:Letter Carrier Rally
+LOCATION:135 E. Olive Ave\, Burbank\, CA
+DESCRIPTION:Join your Letter Carrier and Representative Laura Friedman as 
+ we rally in solidarity with our brothers and sisters as we face upcoming c
+ hallenges of recent cuts.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=135+E.+Olive
+ +Ave%2C+Burbank%2C+CA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

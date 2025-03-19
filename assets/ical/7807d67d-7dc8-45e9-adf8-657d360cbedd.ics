@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:6a289efb-86e3-4920-8b60-31c550e4d429
+SEQUENCE:0
+DTSTAMP:20250319T000606Z
+DTSTART:20250405T120000
+DTEND:20250405T140000
+SUMMARY:People's Townhall Protest
+LOCATION:9700 7th Street\, Hesperia\, CA
+DESCRIPTION:We invite you to come and share your outrage at the executive 
+ orders\, at DOGE\, and at every last thing the current regime and its enab
+ lers are doing!\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=9700+7th+Str
+ eet%2C+Hesperia%2C+CA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

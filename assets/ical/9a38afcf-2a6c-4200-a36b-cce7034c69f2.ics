@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:a0d56afc-82f3-4f47-83ae-aa02241f2898
+SEQUENCE:0
+DTSTAMP:20250319T000606Z
+DTSTART:20250321T140000
+DTEND:20250321T160000
+SUMMARY:Oil Families Rising Rally
+LOCATION:213 Elm Street\, Oil City\; Liberty and 12th Streets\, Franklin\,
+  Oil City\, Franklin\, PA
+DESCRIPTION:It's a rally organized during the congressional recess to enco
+ urage representatives to break with Republicans in red states. Participant
+ s are encouraged to bring signs and enthusiasm.\n\nQT Thompson Office and 
+ Venango County Courthouse
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=213+Elm+Stre
+ et%2C+Oil+City%3B+Liberty+and+12th+Streets%2C+Franklin%2C+Oil+City%2C+Fran
+ klin%2C+PA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

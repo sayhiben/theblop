@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:42e42835-271e-4460-805c-01456e81b7c2
+SEQUENCE:0
+DTSTAMP:20250319T000606Z
+DTSTART:20250405T120000
+DTEND:20250405T140000
+SUMMARY:Remove Reverse Reclaim Protest
+LOCATION:401 S. 2nd St.\, Springfield\, IL
+DESCRIPTION:Join us in a statewide protest aimed at removing corrupt polit
+ icians\, reversing the damage\, and reclaiming democracy. Be part of the m
+ ovement.\n\nIllinois State Capitol\, Lincoln Statue
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=401+S.+2nd+S
+ t.%2C+Springfield%2C+IL&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

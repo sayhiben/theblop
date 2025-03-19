@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:5c3b29c2-8590-469b-ba1a-7a9630483cea
+SEQUENCE:0
+DTSTAMP:20250319T000606Z
+DTSTART:20250405T120000
+DTEND:20250405T140000
+SUMMARY:Fort Smith AR Remove Reverse Reclaim
+LOCATION:S74st & Rogers ave\, Fort Smith\, AR
+DESCRIPTION:Stand up for democracy! Let’s take it back! Line the sidewal
+ ks and let this red state know that this can't continue.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=S74st+%26+Ro
+ gers+ave%2C+Fort+Smith%2C+AR&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
