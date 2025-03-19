@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:515b8710-523f-451c-8cc9-79528b203ae3
+SEQUENCE:0
+DTSTAMP:20250319T090622Z
+DTSTART:20250322T150000
+DTEND:20250322T170000
+SUMMARY:Free Mahmoud Khalil & Leqaa Kordia Protest
+LOCATION:Secor and Central\, Toledo\, OH
+DESCRIPTION:We are protesting to demand the release of political prisoners
+  like Mahmoud Khalil and Leqaa Korida\, focusing on protecting First Amend
+ ment rights and combating suppression of student voices.\n\nSecor and Cent
+ ral
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Secor+and+Ce
+ ntral%2C+Toledo%2C+OH&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

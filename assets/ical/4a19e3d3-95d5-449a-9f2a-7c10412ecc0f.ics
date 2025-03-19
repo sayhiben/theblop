@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:3f293a61-300b-471f-a09e-68ff14675d60
+SEQUENCE:0
+DTSTAMP:20250319T090622Z
+DTSTART:20250319T123000
+DTEND:20250319T143000
+SUMMARY:Learn in My Shoes
+LOCATION:State Capitol\, room 400 SE\, Madison\, WI
+DESCRIPTION:A grassroots group of Wisconsin parents organizes an event to 
+ advocate for more funding for special education at the state Capitol. Part
+ icipants will present children's shoes with letters to lawmakers.\n\nState
+  Capitol
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=State+Capito
+ l%2C+room+400+SE%2C+Madison%2C+WI&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

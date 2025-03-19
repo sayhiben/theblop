@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:ffc33f82-35e8-435a-af5c-28b18c143d01
+SEQUENCE:0
+DTSTAMP:20250319T090623Z
+DTSTART:20250405T000000
+DTEND:20250405T020000
+SUMMARY:Orlando 50 50 1 Event
+LOCATION:Orlando City Hall\, Orlando\, FL
+DESCRIPTION:Join us at Orlando City Hall on April 5th for an impactful eve
+ nt. Save the date and also mark your calendar for a meetup on April 12th i
+ n Downtown Orlando. More details will be provided soon through our contact
+  and social media channels.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Orlando+City
+ +Hall%2C+Orlando%2C+FL&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

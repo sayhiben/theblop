@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:a0a4a6c8-f5b2-49e2-8163-01a365017fce
+SEQUENCE:0
+DTSTAMP:20250319T090622Z
+DTSTART:20250320T120000
+DTEND:20250320T140000
+SUMMARY:Hands Off Our Healthcare
+LOCATION:7065 N. Ingram Ave\, Fresno CA 93704
+DESCRIPTION:Join us for a Rolling Statewide Action on March 20th as we fig
+ ht back against corporate greed and demand healthcare for the people\, not
+  profit.\n\nSW Corner of Walmart Parking Lot
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=7065+N.+Ingr
+ am+Ave%2C+Fresno+CA+93704&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

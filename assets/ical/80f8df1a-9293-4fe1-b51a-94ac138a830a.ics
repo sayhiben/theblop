@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:8087e369-f660-4dd0-adad-03b72277eac3
+SEQUENCE:0
+DTSTAMP:20250319T090622Z
+DTSTART:20250325T120000
+DTEND:20250325T140000
+SUMMARY:Emergency Action
+LOCATION:US EPA Region 9 Office\, 75 Hawthorne St\, between 2nd/3rd Street
+ s\, Folsom & Howard\, San Francisco\, CA
+DESCRIPTION:We are organizing an event to resist attacks on environmental 
+ and climate justice. Join us to defend our communities and planet!\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=US+EPA+Regio
+ n+9+Office%2C+75+Hawthorne+St%2C+between+2nd%2F3rd+Streets%2C+Folsom+%26+H
+ oward%2C+San+Francisco%2C+CA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

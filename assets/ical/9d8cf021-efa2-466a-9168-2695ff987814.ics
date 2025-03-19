@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:f78fb0d3-f85d-4467-92ac-f83aae63a936
+SEQUENCE:0
+DTSTAMP:20250319T090622Z
+DTSTART:20250322T130000
+DTEND:20250322T150000
+SUMMARY:Emergency Protest
+LOCATION:State Capitol\, North Side\, Lincoln\, NE
+DESCRIPTION:Join us in Lincoln\, NE\, for an emergency protest to stop gen
+ ocide. Stand with us to demand an arms embargo now.\n\nState Capitol\, Nor
+ th Side
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=State+Capito
+ l%2C+North+Side%2C+Lincoln%2C+NE&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

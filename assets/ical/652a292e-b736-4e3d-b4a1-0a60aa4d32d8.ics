@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:9b5325eb-5473-4475-b158-3caf53dd43db
+SEQUENCE:0
+DTSTAMP:20250319T090622Z
+DTSTART:20250326T180000
+DTEND:20250326T200000
+SUMMARY:Film Screening: The Occupation of the American Mind
+LOCATION:COS Visalia Campus\, Ponderosa Lecture Hall
+DESCRIPTION:Join us for a free film screening discussing the media portray
+ al of Palestine in the U.S. The event aims to foster conversation and unde
+ rstanding.\n\nCOS Visalia Campus\, Ponderosa Lecture Hall
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=COS+Visalia+
+ Campus%2C+Ponderosa+Lecture+Hall&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

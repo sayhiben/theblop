@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:113b9dd9-3d36-460a-8316-5a7f5b399ec6
+SEQUENCE:0
+DTSTAMP:20250319T090623Z
+DTSTART:20250405T110000
+DTEND:20250405T130000
+SUMMARY:Hands Off!
+LOCATION:Washington Park\, Cincinnati\, OH
+DESCRIPTION:Join us for a peaceful dissent rally and march against the Tru
+ mp-Musk coup. We aim to protect social security\, healthcare\, democracy\,
+  and more. Be part of our National Day of Action.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Washington+P
+ ark%2C+Cincinnati%2C+OH&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

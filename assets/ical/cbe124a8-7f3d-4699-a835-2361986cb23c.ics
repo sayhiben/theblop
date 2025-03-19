@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:91a5e79b-05ad-4396-88e4-a059c0dc7653
+SEQUENCE:0
+DTSTAMP:20250319T090622Z
+DTSTART:20250322T140000
+DTEND:20250322T160000
+SUMMARY:Gainesville Emergency Protest: Stop the Genocide
+LOCATION:Depot Park\, Gainesville\, FL
+DESCRIPTION:This protest at Depot Park is against the actions described as
+  genocidal in Gaza\, aiming to unite people to stand for Palestine and aga
+ inst violence.\n\nDepot Park
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Depot+Park%2
+ C+Gainesville%2C+FL&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:cd029eff-0a66-472d-8387-785ae6d4c1ed
+SEQUENCE:0
+DTSTAMP:20250319T090623Z
+DTSTART:20250513T090000
+DTEND:20250513T110000
+SUMMARY:Free Our Moms & Kids
+LOCATION:State Capitol\, Albany\, NY
+DESCRIPTION:Join us for a rally\, press conference\, and meetings with law
+ makers to address mass incarceration and unjust sentencing laws\, with pro
+ vided transportation and food.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=State+Capito
+ l%2C+Albany%2C+NY&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

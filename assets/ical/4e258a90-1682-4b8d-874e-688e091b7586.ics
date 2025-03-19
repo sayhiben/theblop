@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:647b2fac-8fab-451b-a58a-782ec822bbb0
+SEQUENCE:0
+DTSTAMP:20250319T090622Z
+DTSTART:20250323T140000
+DTEND:20250323T160000
+SUMMARY:Protect Our Parks\, Land\, and Waters
+LOCATION:1050 Monterey St.\, San Luis Obispo\, CA
+DESCRIPTION:Join us at the SLO Courthouse to advocate and protect our natu
+ ral environments including Carrizo Plains\, Los Padres Forest\, Santa Barb
+ ara Channel\, and more.\n\nSLO Courthouse
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=1050+Montere
+ y+St.%2C+San+Luis+Obispo%2C+CA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

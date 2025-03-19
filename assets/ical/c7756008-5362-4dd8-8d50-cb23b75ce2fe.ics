@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:6255af91-3f78-490a-b1a8-51436064c08a
+SEQUENCE:0
+DTSTAMP:20250319T090622Z
+DTSTART:20250319T203000
+DTEND:20250319T223000
+SUMMARY:#TeslaTakedown Mass Call
+DESCRIPTION:Join the organizing call to support the movement against Tesla
+  as part of the #TeslaTakedown initiative.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=&zoom=15&bas
+ emap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

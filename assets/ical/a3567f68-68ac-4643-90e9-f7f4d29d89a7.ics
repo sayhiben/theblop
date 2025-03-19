@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:2f7a68f0-109c-4af8-a8a1-e064b5864d2a
+SEQUENCE:0
+DTSTAMP:20250319T090622Z
+DTSTART:20250331T143000
+DTEND:20250331T163000
+SUMMARY:Transgender Day of Visibility
+LOCATION:1100 Congress Ave\, Austin\, TX
+DESCRIPTION:Join us at the Texas State Capitol to celebrate the Transgende
+ r Day of Visibility. Meet us at the South steps!\n\nSouth steps
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=1100+Congres
+ s+Ave%2C+Austin%2C+TX&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

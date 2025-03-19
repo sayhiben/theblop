@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:405134b7-588a-457f-a188-7f769d7e48f3
+SEQUENCE:0
+DTSTAMP:20250319T090622Z
+DTSTART:20250325T110000
+DTEND:20250325T130000
+SUMMARY:Cultivating Liberation: Exploring the Means of Care Through Disabi
+ lity Justice
+LOCATION:Templo Mayor\, 2nd floor of Conrad Prebys Student Union\, San Die
+ go\, CA
+DESCRIPTION:Join us in learning about disability justice and care work wit
+ h renowned activist and author Leah Lakshmi Piepzna-Samarasinha. Let's rei
+ magine collective care\, accessibility\, and liberation together!\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Templo+Mayor
+ %2C+2nd+floor+of+Conrad+Prebys+Student+Union%2C+San+Diego%2C+CA&zoom=15&ba
+ semap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

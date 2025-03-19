@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:9b48e41e-8745-4deb-bd05-29c0eef8b958
+SEQUENCE:0
+DTSTAMP:20250319T090623Z
+DTSTART:20250422T180000
+DTEND:20250422T200000
+SUMMARY:LGBTQ+ Town Hall
+LOCATION:\, Fresno\, CA
+DESCRIPTION:Join the LGBTQ+ community for a town hall event focused on eng
+ aging discussions and community-building. More details will follow.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+Fresno%2
+ C+CA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

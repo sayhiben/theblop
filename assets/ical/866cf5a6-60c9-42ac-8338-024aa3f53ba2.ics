@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:331e6d12-a189-4f48-a2c2-2e414da7690c
+SEQUENCE:0
+DTSTAMP:20250319T090622Z
+DTSTART:20250320T124500
+DTEND:20250320T144500
+SUMMARY:Release Mahmoud Khalil
+LOCATION:Howe Library Steps\, Burlington\, VT
+DESCRIPTION:We are organizing a protest rally to demand the release of Mah
+ moud Khalil and advocate for the removal of ICE from campuses.\n\nHowe Lib
+ rary Steps
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Howe+Library
+ +Steps%2C+Burlington%2C+VT&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

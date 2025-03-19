@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:a1da2f1a-cc2d-46be-8206-bfbb7d83bb0b
+SEQUENCE:0
+DTSTAMP:20250319T090622Z
+DTSTART:20250319T120000
+DTEND:20250319T140000
+SUMMARY:Kennesaw State University Rally: Release Mahmoud Khalil
+LOCATION:565 Cobb Ave NW\, Kennesaw\, GA
+DESCRIPTION:We are rallying at Kennesaw State University to demand the rel
+ ease of Mahmoud Khalil. Join us in standing against deportations and in su
+ pport of the Free Palestine movement.\n\nThe Green
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=565+Cobb+Ave
+ +NW%2C+Kennesaw%2C+GA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

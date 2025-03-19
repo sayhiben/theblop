@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:bd8cb121-36f8-4298-a7a3-dbef6a8f0dd9
+SEQUENCE:0
+DTSTAMP:20250319T090622Z
+DTSTART:20250319T170000
+DTEND:20250319T190000
+SUMMARY:Hands Off Our Healthcare
+LOCATION:2700 M St\, Bakersfield\, CA 93301
+DESCRIPTION:The event is part of the 2025 Rolling Statewide Actions to sto
+ p the billionaire raid on healthcare. Attendees are encouraged to join the
+  tour in Bakersfield.\n\nRep. David Valadao's Bakersfield Office
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=2700+M+St%2C
+ +Bakersfield%2C+CA+93301&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

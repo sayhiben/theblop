@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:5bdda09b-d9b1-4a87-948d-7b927aa2bc16
+SEQUENCE:0
+DTSTAMP:20250319T090622Z
+DTSTART:20250319T173000
+DTEND:20250319T193000
+SUMMARY:Emergency Protest
+LOCATION:Uptown\, Waterloo\, ON
+DESCRIPTION:Join us on March 19 at 5:30 PM in Uptown Waterloo for an emerg
+ ency protest organized by the Palestinian Youth Movement\, demanding a two
+ -way arms embargo and urging action against ongoing genocide.\n\nUptown Wa
+ terloo
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Uptown%2C+Wa
+ terloo%2C+ON&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

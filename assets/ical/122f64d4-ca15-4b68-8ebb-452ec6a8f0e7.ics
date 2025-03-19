@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:0748edeb-6ff1-46e4-9aff-927ead2718da
+SEQUENCE:0
+DTSTAMP:20250319T090622Z
+DTSTART:20250322T140000
+DTEND:20250322T160000
+SUMMARY:Tesla Takedown III
+LOCATION:3371 Brunswick Pike #100\, Lawrence Township\, NJ
+DESCRIPTION:A rally titled 'Tesla Takedown III.'\n\nTesla Dealership
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=3371+Brunswi
+ ck+Pike+%23100%2C+Lawrence+Township%2C+NJ&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

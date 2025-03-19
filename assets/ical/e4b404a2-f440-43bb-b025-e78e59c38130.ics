@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:8e315b25-e77e-408f-972f-2746c84e9288
+SEQUENCE:0
+DTSTAMP:20250319T090623Z
+DTSTART:20250405T000000
+DTEND:20250405T020000
+SUMMARY:Hands Off Protest
+LOCATION:\, Port Townsend\, WA
+DESCRIPTION:Join us to protest against threats to our societal and politic
+ al rights. We aim to stand against policies affecting social security\, he
+ althcare\, and more. Organized by Indivisible Port Townsend.\n\nE Sims Way
+  near the garden center
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+Port+Tow
+ nsend%2C+WA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

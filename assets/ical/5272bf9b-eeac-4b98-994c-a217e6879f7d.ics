@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:7fae648d-83f0-4be5-8505-9245fe3a0fc0
+SEQUENCE:0
+DTSTAMP:20250319T090622Z
+DTSTART:20250320T180000
+DTEND:20250320T200000
+SUMMARY:Hands Off Our Healthcare
+LOCATION:830 S Blackstone Street\, Tulare\, CA
+DESCRIPTION:Join us to learn about federal budget cuts threatening Medicai
+ d/Medi-Cal and other essential services. Enjoy free food and refreshments 
+ with Spanish and ASL interpretation available.\n\nTulare Community Center
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=830+S+Blacks
+ tone+Street%2C+Tulare%2C+CA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

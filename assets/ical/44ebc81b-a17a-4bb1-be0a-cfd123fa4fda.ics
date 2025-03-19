@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:e13df5b6-2f30-418e-9f48-a75970fd6d07
+SEQUENCE:0
+DTSTAMP:20250319T090622Z
+DTSTART:20250319T150000
+DTEND:20250319T170000
+SUMMARY:Emergency Protest for Gaza
+LOCATION:40 Wall Street\, The Trump Building\, New York\, NY
+DESCRIPTION:We mobilize against U.S.-Israeli atrocities with a teach-in at
+  3 PM followed by a protest at 4 PM at 40 Wall Street\, demanding justice 
+ for the victims of violence in Gaza and beyond.\n\n40 Wall Street\, The Tr
+ ump Building
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=40+Wall+Stre
+ et%2C+The+Trump+Building%2C+New+York%2C+NY&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

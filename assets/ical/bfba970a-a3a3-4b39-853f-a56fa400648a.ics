@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:86fab41e-7b9a-4430-88c9-182da86dd507
+SEQUENCE:0
+DTSTAMP:20250319T090622Z
+DTSTART:20250319T163000
+DTEND:20250319T183000
+SUMMARY:Emergency Rally
+LOCATION:255 East Ave\, Farash Building\, Rochester\, NY
+DESCRIPTION:Join us in raising awareness and demanding action with a rally
+  against genocide\, urging an arms embargo. Bring signs\, flyers\, and kef
+ fiyah.\n\nFarash Building
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=255+East+Ave
+ %2C+Farash+Building%2C+Rochester%2C+NY&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:b204f1fc-0421-4fe0-a4f5-0a6a3e4c534a
+SEQUENCE:0
+DTSTAMP:20250319T090622Z
+DTSTART:20250325T120000
+DTEND:20250325T140000
+SUMMARY:Emergency Protest
+LOCATION:75 Hawthorne St\, between 2nd/3rd Streets\, Folsom & Howard\, San
+  Francisco\, CA
+DESCRIPTION:This event is organized to resist the attack on environmental 
+ and climate justice\, urging the defense of communities and future.\n\nUS 
+ EPA Region 9 Office
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=75+Hawthorne
+ +St%2C+between+2nd%2F3rd+Streets%2C+Folsom+%26+Howard%2C+San+Francisco%2C+
+ CA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

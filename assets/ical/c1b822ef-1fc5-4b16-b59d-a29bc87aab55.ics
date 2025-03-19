@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:93dfc6e9-e610-4e40-a4a6-390a4f1be0fe
+SEQUENCE:0
+DTSTAMP:20250319T090623Z
+DTSTART:20250405T130000
+DTEND:20250405T150000
+SUMMARY:NATIONAL DAY OF ACTION
+LOCATION:600 W Santa Ana Blvd (Corner of Ross & Santa Ana)\, Santa Ana\, C
+ A
+DESCRIPTION:Join us for a protest at Sasscer Park\, Santa Ana. Bring signs
+ \, water\, and friends to turn your rage into effective peaceful action. S
+ ponsored by WAVE and others.\n\nSasscer Park
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=600+W+Santa+
+ Ana+Blvd+%28Corner+of+Ross+%26+Santa+Ana%29%2C+Santa+Ana%2C+CA&zoom=15&bas
+ emap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

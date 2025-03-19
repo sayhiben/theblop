@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:7ed3e649-13ea-4c25-ba35-1c3c81466416
+SEQUENCE:0
+DTSTAMP:20250319T090622Z
+DTSTART:20250319T173000
+DTEND:20250319T193000
+SUMMARY:Stop the Harassment Drop the Fines!
+LOCATION:1221 SW 4th Ave\, Portland\, OR
+DESCRIPTION:Join us at the upcoming city council meeting to demand Mayor K
+ eith Wilson and city council drop the fines on immigrant rights activists.
+  We will meet outside city hall at 5:30 pm and go in together as a group.\
+ n\nOutside City Hall
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=1221+SW+4th+
+ Ave%2C+Portland%2C+OR&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

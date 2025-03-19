@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:faa7102b-9fa6-4ddd-8ffe-67b0a7bfecd7
+SEQUENCE:0
+DTSTAMP:20250319T090622Z
+DTSTART:20250319T120000
+DTEND:20250319T140000
+SUMMARY:UC Stand Up For Research and Teaching
+LOCATION:\, \, CA
+DESCRIPTION:We are calling on UC Faculty\, staff\, and community members t
+ o protest against current political attacks on knowledge\, higher educatio
+ n\, and scientific research.\n\nLocations across UC
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+%2C+CA&z
+ oom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

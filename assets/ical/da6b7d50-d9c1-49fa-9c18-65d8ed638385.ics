@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:caea23e7-ac67-4e74-8ce0-5c0c81ba00ed
+SEQUENCE:0
+DTSTAMP:20250319T090622Z
+DTSTART:20250323T140000
+DTEND:20250323T160000
+SUMMARY:Portland Contra Las Deportaciones
+LOCATION:431 SW Madison St\, Portland\, OR
+DESCRIPTION:Join us on Sunday\, March 23rd at Terry Schrunk Plaza to deman
+ d an end to deportations and legalization for all. It's a family-friendly 
+ rally against deportations.\n\nTerry Schrunk Plaza
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=431+SW+Madis
+ on+St%2C+Portland%2C+OR&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

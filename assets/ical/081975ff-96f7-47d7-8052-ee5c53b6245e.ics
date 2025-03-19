@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:65b4f66a-1bd2-4373-bd27-1c9c648b8f05
+SEQUENCE:0
+DTSTAMP:20250319T090622Z
+DTSTART:20250328T173000
+DTEND:20250328T193000
+SUMMARY:Trans Day of Visibility Protest
+LOCATION:2880 Hennepin Ave\, Minneapolis\, MN
+DESCRIPTION:Join us for the Trans Day of Visibility Protest to smash trans
+ phobia\, protect trans youth\, and resist political attacks.\n\nOutside Wa
+ lker Library
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=2880+Hennepi
+ n+Ave%2C+Minneapolis%2C+MN&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

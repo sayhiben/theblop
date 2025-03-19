@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:69677ca6-d096-45af-9b75-6f510397a28f
+SEQUENCE:0
+DTSTAMP:20250319T090622Z
+DTSTART:20250323T120000
+DTEND:20250323T140000
+SUMMARY:Protest Against Tyranny
+LOCATION:Kingston turnoff from Highway 152\, nine miles east of Hillsboro\
+ , Kingston\, NM
+DESCRIPTION:Join us in Kingston\, New Mexico\, for a protest against our n
+ ation’s sliding into tyranny and cruelty. We gather every Sunday at noon
+ . Bring a friend and express your passion.\n\nKingston turnoff from Highwa
+ y 152
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Kingston+tur
+ noff+from+Highway+152%2C+nine+miles+east+of+Hillsboro%2C+Kingston%2C+NM&zo
+ om=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

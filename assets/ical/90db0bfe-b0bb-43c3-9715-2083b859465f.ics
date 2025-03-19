@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:bdaed794-a422-4757-85ec-7f27ba58b196
+SEQUENCE:0
+DTSTAMP:20250319T090622Z
+DTSTART:20250322T100000
+DTEND:20250322T120000
+SUMMARY:#TESLATAKEDOWN
+LOCATION:\, Seattle\, WA
+DESCRIPTION:A protest event against Tesla\, encouraging public participati
+ on across multiple Seattle locations on March 22nd.\n\nLynnwood\, Seattle 
+ (South Lake Union)\, Seattle (U-Village)\, Bellevue\, Renton
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+Seattle%
+ 2C+WA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

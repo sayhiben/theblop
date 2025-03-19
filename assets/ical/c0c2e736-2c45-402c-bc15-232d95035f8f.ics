@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:65e2146a-4687-4920-b1da-9a7cfc3219eb
+SEQUENCE:0
+DTSTAMP:20250319T090622Z
+DTSTART:20250323T110000
+DTEND:20250323T130000
+SUMMARY:Rally to Save USPS
+LOCATION:34 W Minarets Ave Fresno\, CA 93650
+DESCRIPTION:NALC Branch 231 is hosting a rally to raise awareness about th
+ e devastating consequences of USPS privatization. Join us as we stand toge
+ ther to protect our public postal service and the communities it serves.\n
+ \nPinedale Post Office Sidewalk
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=34+W+Minaret
+ s+Ave+Fresno%2C+CA+93650&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

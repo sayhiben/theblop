@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:57c75f79-120f-4778-ad0a-eb14a771565e
+SEQUENCE:0
+DTSTAMP:20250319T090623Z
+DTSTART:20250405T120000
+DTEND:20250405T140000
+SUMMARY:Hands Off Our Courts
+LOCATION:San Luis Obispo Courthouse\, San Luis Obispo\, CA
+DESCRIPTION:We are organizing a protest to advocate for the protection of 
+ courts and various social and civic rights including Medicaid\, Medicare\,
+  social security\, jobs\, and more.\n\nSan Luis Obispo Courthouse
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=San+Luis+Obi
+ spo+Courthouse%2C+San+Luis+Obispo%2C+CA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

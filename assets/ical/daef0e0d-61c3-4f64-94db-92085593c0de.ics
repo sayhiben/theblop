@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:99f27601-8392-4d6b-bea5-a691fc92af0b
+SEQUENCE:0
+DTSTAMP:20250319T090622Z
+DTSTART:20250320T110000
+DTEND:20250320T130000
+SUMMARY:Reject Trump's Border Policy
+LOCATION:Across from the Sainer Pavilion\, Sarasota\, FL
+DESCRIPTION:Join us at New College to protest against border policies and 
+ defend our communities against racist lies and deportations.\n\nSidewalk a
+ t New College
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Across+from+
+ the+Sainer+Pavilion%2C+Sarasota%2C+FL&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

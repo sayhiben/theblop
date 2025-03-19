@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:1499e2a4-920d-4e90-bb06-6340ee98cc05
+SEQUENCE:0
+DTSTAMP:20250319T090622Z
+DTSTART:20250319T170000
+DTEND:20250319T190000
+SUMMARY:Education Not Deportation
+LOCATION:1515 Hughes Way\, Long Beach\, CA
+DESCRIPTION:Join us to combat the criminalization of Black and Brown youth
+ . Demand stronger protections for immigrant and undocumented students by L
+ BUSD.\n\nLBUSD HQ
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=1515+Hughes+
+ Way%2C+Long+Beach%2C+CA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

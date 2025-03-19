@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:6991b60e-9743-447c-8df2-5e260c2594e8
+SEQUENCE:0
+DTSTAMP:20250319T090622Z
+DTSTART:20250404T160000
+DTEND:20250404T180000
+SUMMARY:#LetUsWork Rally to Save Our Services!
+LOCATION:Baltimore Penn Station (1515 N Charles St)\, Baltimore\, MD
+DESCRIPTION:Federal workers are demanding #LetUsWork to Save our Services!
+  Please join us at this event to fight back against the illegal firings of
+  federal employees and contractors. This is not just about our jobs\, this
+  is about protecting access to health\, education\, housing\, and wellbein
+ g for the American public. We are here to say\, let us work! Let us work t
+ o save our services!\n\nBaltimore Penn Station
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Baltimore+Pe
+ nn+Station+%281515+N+Charles+St%29%2C+Baltimore%2C+MD&zoom=15&basemap=road
+ map
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

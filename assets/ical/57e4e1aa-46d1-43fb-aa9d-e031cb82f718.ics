@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:93a0bc81-f262-4b7a-8fee-88ab9fbb23cf
+SEQUENCE:0
+DTSTAMP:20250319T090622Z
+DTSTART:20250321T160000
+DTEND:20250321T180000
+SUMMARY:Tesla Dealership Protest
+LOCATION:7101 Glenwood Ave\, Raleigh\, NC
+DESCRIPTION:Join Engaged Durhamites for Democracy and Durham Dems in prote
+ sting Elon Musk's influence on government and corporate sectors at a Tesla
+  dealership.\n\n7101 Glenwood Ave\, Raleigh\, NC 27612
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=7101+Glenwoo
+ d+Ave%2C+Raleigh%2C+NC&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

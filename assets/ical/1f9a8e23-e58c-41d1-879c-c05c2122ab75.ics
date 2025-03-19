@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:bd5b9c34-7dd4-4f06-aa4f-772e7782990e
+SEQUENCE:0
+DTSTAMP:20250319T090622Z
+DTSTART:20250322T120000
+DTEND:20250322T140000
+SUMMARY:Tesla Takedown - Brooklyn / Tesla Takedown NYC
+LOCATION:126 9th Street at 2nd Ave / 860 Washington St\, Brooklyn / New Yo
+ rk\, NY
+DESCRIPTION:Not explicitly provided\, assumed to be an event at Tesla stor
+ es in Brooklyn and NYC.\n\nTesla / Tesla Showroom
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=126+9th+Stre
+ et+at+2nd+Ave+%2F+860+Washington+St%2C+Brooklyn+%2F+New+York%2C+NY&zoom=15
+ &basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

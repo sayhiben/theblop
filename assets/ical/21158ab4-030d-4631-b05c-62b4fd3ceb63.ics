@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:8ce4ea8f-7a36-4e9c-8260-0c1e17765e25
+SEQUENCE:0
+DTSTAMP:20250319T090622Z
+DTSTART:20250320T170000
+DTEND:20250320T190000
+SUMMARY:Emergency Protest: Stop the Genocide
+LOCATION:500 Monroe St\, Dearborn\, MI
+DESCRIPTION:We organize a protest against genocide\, gathering at Ford Fie
+ ld Park to demand the cessation of violence.\n\nFord Field Park
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=500+Monroe+S
+ t%2C+Dearborn%2C+MI&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

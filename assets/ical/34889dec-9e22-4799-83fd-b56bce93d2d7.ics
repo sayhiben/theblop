@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:09041996-79cf-4211-87ee-49bd4c807394
+SEQUENCE:0
+DTSTAMP:20250319T090622Z
+DTSTART:20250319T170000
+DTEND:20250319T190000
+SUMMARY:Tesla Protest
+LOCATION:2330 Kalakaua Ave\, Waikiki\, HI
+DESCRIPTION:Join us for a protest against Elon Musk at the Waikiki Tesla D
+ ealership. The protest will occur every Wednesday and Friday from 5 to 6 P
+ M\, starting March 5\, 2025. We call for accountability and change\, expre
+ ssing our concerns about leadership at Tesla.\n\nWaikiki Tesla Dealership
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=2330+Kalakau
+ a+Ave%2C+Waikiki%2C+HI&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

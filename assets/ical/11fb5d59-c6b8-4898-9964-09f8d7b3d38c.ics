@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:5e7917f9-6beb-4c8c-a94a-2e6d3c427568
+SEQUENCE:0
+DTSTAMP:20250319T090622Z
+DTSTART:20250323T100000
+DTEND:20250323T120000
+SUMMARY:Rally to Save the USPS
+LOCATION:Intersection of NY-300 & 17K\, Newburgh\, NY
+DESCRIPTION:We rally to save the USPS with social activities to follow. Jo
+ in to push back efforts to privatize USPS.\n\nIntersection of NY-300 & 17K
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Intersection
+ +of+NY-300+%26+17K%2C+Newburgh%2C+NY&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

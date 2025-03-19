@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:5d8fae3c-efca-4939-821d-b416db3a32a7
+SEQUENCE:0
+DTSTAMP:20250319T090622Z
+DTSTART:20250330T130000
+DTEND:20250330T150000
+SUMMARY:Fight For Trans Rights
+LOCATION:\, Chicago\, IL
+DESCRIPTION:Join us to protest for trans rights\, organized by Trans Up Fr
+ ont and endorsed by Trans Chicago.\n\nFederal Plaza
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+Chicago%
+ 2C+IL&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

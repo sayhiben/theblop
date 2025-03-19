@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:ac6d0a1a-8161-47e3-9a7b-7ca7ceacd561
+SEQUENCE:0
+DTSTAMP:20250319T090622Z
+DTSTART:20250330T130000
+DTEND:20250330T150000
+SUMMARY:Land Day March and Rally
+LOCATION:510 N Shaver Street\, Unthank Park\, Portland\, OR
+DESCRIPTION:Join us on March 30th at 1 pm for Land Day\, advocating for th
+ e right of return and demanding hands off Gaza and Palestine. Land Day mar
+ ks the historic resistance of Palestinians in 1976. We rally for Palestini
+ an self-determination in response to ongoing violations.\n\nUnthank Park
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=510+N+Shaver
+ +Street%2C+Unthank+Park%2C+Portland%2C+OR&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

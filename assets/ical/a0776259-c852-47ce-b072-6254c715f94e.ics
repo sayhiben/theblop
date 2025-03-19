@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:f49610ca-90c4-4830-a3e0-ee9e23b80e64
+SEQUENCE:0
+DTSTAMP:20250319T090622Z
+DTSTART:20250329T120000
+DTEND:20250329T140000
+SUMMARY:People's March
+LOCATION:200 East Liberty St\, Ann Arbor\, Ann Arbor\, MI
+DESCRIPTION:A march against the oligarchy taking place in Ann Arbor.\n\nFe
+ deral Building
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=200+East+Lib
+ erty+St%2C+Ann+Arbor%2C+Ann+Arbor%2C+MI&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

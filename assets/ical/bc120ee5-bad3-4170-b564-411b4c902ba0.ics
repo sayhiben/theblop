@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:b80b0678-beaa-4075-9dd7-e9836cffb24f
+SEQUENCE:0
+DTSTAMP:20250319T090622Z
+DTSTART:20250322T163000
+DTEND:20250322T183000
+SUMMARY:Cleveland Emergency Protest
+LOCATION:Market Square\, W 25th St\, Cleveland\, OH
+DESCRIPTION:We are organizing an emergency protest to stop the genocide. J
+ oin us to take a stand against the ongoing violence and support the cause 
+ of Gaza. This event calls for freeing Mahmoud Khalil and Leqaa Kordia and 
+ pushes for an arms embargo.\n\nMarket Square
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Market+Squar
+ e%2C+W+25th+St%2C+Cleveland%2C+OH&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

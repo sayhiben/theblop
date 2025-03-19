@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:c879ca69-891b-4d85-a1c3-6d2f95abcb6b
+SEQUENCE:0
+DTSTAMP:20250319T090622Z
+DTSTART:20250319T180000
+DTEND:20250319T200000
+SUMMARY:Emergency Rally
+LOCATION:Pearl St & Monroe Ave\, Grand Rapids\, MI
+DESCRIPTION:Join us for an emergency rally as we gather to address the cur
+ rent situation in Gaza. The rally will include a statement from PSGR about
+  the end of the ceasefire deal. Organized in solidarity and support.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Pearl+St+%26
+ +Monroe+Ave%2C+Grand+Rapids%2C+MI&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

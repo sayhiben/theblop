@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:37621874-5484-49bd-ac8e-55a5dbc1ca96
+SEQUENCE:0
+DTSTAMP:20250319T090622Z
+DTSTART:20250322T140000
+DTEND:20250322T160000
+SUMMARY:Gainesville Emergency Protest
+LOCATION:Depot Park\, Gainesville\, FL
+DESCRIPTION:We must unite to stand up for Palestine and against the genoci
+ de. The Palestinian people have remained steadfast throughout the genocide
+ . Now is the time to organize and grow the movement.\n\nDepot Park
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Depot+Park%2
+ C+Gainesville%2C+FL&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:54b3dc64-e81d-4227-91bf-782f8453cf2c
+SEQUENCE:0
+DTSTAMP:20250319T090622Z
+DTSTART:20250319T163000
+DTEND:20250319T183000
+SUMMARY:Emergency Protest
+LOCATION:Federal Building\, Front St & Broadway\, San Diego\, CA
+DESCRIPTION:Join us in San Diego for a protest to stop the genocide\, dema
+ nding an arms embargo and justice.\n\nFederal Building
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Federal+Buil
+ ding%2C+Front+St+%26+Broadway%2C+San+Diego%2C+CA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
