@@ -2,17 +2,18 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:80babf68-59f4-4f75-8704-d18ba9eb95ba
+UID:162a468e-23ef-4b6a-bbf8-22e1a2275dfc
 SEQUENCE:0
-DTSTAMP:20250319T000606Z
+DTSTAMP:20250319T031207Z
 DTSTART:20250323T000000
 DTEND:20250323T020000
 SUMMARY:Solidarity Rally
+LOCATION:\, San Jose & San Francisco\, CA
 DESCRIPTION:Join us for a rally in support of solidarity. We will gather a
  t two different locations. Choose the closest one to you and be part of th
  e movement.\n\n
-URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=&zoom=15&bas
- emap=roadmap
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+San+Jose
+ +%26+San+Francisco%2C+CA&zoom=15&basemap=roadmap
 STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:f0f2ab0d-f04a-4939-b581-ced46b62a0e0
+SEQUENCE:0
+DTSTAMP:20250319T031207Z
+DTSTART:20250322T093000
+DTEND:20250322T113000
+SUMMARY:Great Smoky National Park Protect Our Parks Protest
+LOCATION:Sugarland Visitors Center Entrance\, Gatlinburg\, TN
+DESCRIPTION:Join us in Gatlinburg\, TN for a protest to protect our parks.
+  Meet at the Sugarland Visitors Center entrance. Please bring a sign\, sun
+ screen\, and water.\n\nSugarland Visitors Center Entrance
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Sugarland+Vi
+ sitors+Center+Entrance%2C+Gatlinburg%2C+TN&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

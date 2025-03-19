@@ -2,19 +2,18 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:d0cf7f90-bf23-4f23-b11e-51ef2d13802b
+UID:8f7b2038-4260-4796-9e9c-46593411df75
 SEQUENCE:0
-DTSTAMP:20250319T000606Z
+DTSTAMP:20250319T031207Z
 DTSTART:20250322T130000
 DTEND:20250322T150000
 SUMMARY:The People's Townhall
-LOCATION:Good Shepherd Presbyterian Church\, Melody Dr\, Northglenn\, CO
+LOCATION:10785 Melody Dr\, Northglenn\, CO
 DESCRIPTION:Join us for a town hall meeting to discuss community issues an
  d see if Gabe will attend. We are hosting this event to encourage engageme
  nt and dialogue.\n\nGood Shepherd Presbyterian Church
-URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Good+Shepher
- d+Presbyterian+Church%2C+Melody+Dr%2C+Northglenn%2C+CO&zoom=15&basemap=roa
- dmap
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=10785+Melody
+ +Dr%2C+Northglenn%2C+CO&zoom=15&basemap=roadmap
 STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

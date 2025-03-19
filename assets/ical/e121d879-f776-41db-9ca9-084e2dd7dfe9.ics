@@ -2,16 +2,17 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:b822a264-11bf-4fdf-a87b-1942ddabf2bc
+UID:a10a57cc-0608-462e-ab42-c6d43408acd1
 SEQUENCE:0
-DTSTAMP:20250319T000606Z
+DTSTAMP:20250319T031207Z
 DTSTART:20250323T000000
 DTEND:20250323T020000
 SUMMARY:Find a Rally Near You
+LOCATION:\, Nationwide\, Nationwide
 DESCRIPTION:Stand with letter carriers and veterans who are USPS employees
   in a rally against dismantling the postal service.\n\n
-URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=&zoom=15&bas
- emap=roadmap
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+Nationwi
+ de%2C+Nationwide&zoom=15&basemap=roadmap
 STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

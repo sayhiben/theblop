@@ -2,18 +2,18 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:a0d1f6b2-a5c8-462b-bb3b-1798519cc324
+UID:0cad4e70-c134-41c9-bf34-d90ec93a7b25
 SEQUENCE:0
-DTSTAMP:20250319T000606Z
+DTSTAMP:20250319T031207Z
 DTSTART:20250319T203000
 DTEND:20250319T223000
 SUMMARY:Tesla Takedown Mass Call
-LOCATION:\, \, Nationwide
+LOCATION:\, Nationwide\, Nationwide
 DESCRIPTION:We want you to join #TeslaTakedown with special guests for a M
  ass Mobilizing Call to hear from experts\, leaders\, and grassroots protes
  t organizers.\n\nVirtual
-URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+%2C+Nati
- onwide&zoom=15&basemap=roadmap
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+Nationwi
+ de%2C+Nationwide&zoom=15&basemap=roadmap
 STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:3d457686-7a5a-4da0-8031-dc0a21c4af22
+SEQUENCE:0
+DTSTAMP:20250319T031207Z
+DTSTART:20250319T120000
+DTEND:20250319T140000
+SUMMARY:Medicaid Saves Lives Rally in Issaquah
+LOCATION:East Lake Sammamish Pkwy & SE 56th St\, Issaquah\, WA
+DESCRIPTION:We are hosting a rally to stand together and protect healthcar
+ e for millions amid Medicaid threats.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=East+Lake+Sa
+ mmamish+Pkwy+%26+SE+56th+St%2C+Issaquah%2C+WA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

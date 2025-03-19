@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:4128897f-1f1f-4511-b5f6-43219abb653b
+SEQUENCE:0
+DTSTAMP:20250319T031208Z
+DTSTART:20250405T000000
+DTEND:20250405T020000
+SUMMARY:People's Veto Day
+LOCATION:\, Nationwide\, Nationwide
+DESCRIPTION:We the People reject the Trump-Musk coup. Join us in our peace
+ ful dissent. It’s part of "Project 2025" aimed at protecting rights rela
+ ted to healthcare\, democracy\, free speech\, and more.\n\nVarious cities 
+ including Washington\, D.C.\, Los Angeles\, New York City\, Chicago\, Phil
+ adelphia\, Phoenix
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+Nationwi
+ de%2C+Nationwide&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

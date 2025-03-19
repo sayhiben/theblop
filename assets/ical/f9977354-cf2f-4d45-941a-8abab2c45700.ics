@@ -2,12 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:229766a4-0207-4335-8042-5cde79e76352
+UID:04c12ace-8c4c-4be6-ad3b-975333e07f68
 SEQUENCE:0
-DTSTAMP:20250319T000606Z
+DTSTAMP:20250319T031208Z
 DTSTART:20250330T130000
 DTEND:20250330T150000
-SUMMARY:Stand Up! Fight Back!
+SUMMARY:Protest for Trans Lives
 LOCATION:Federal Plaza\, Chicago\, IL
 DESCRIPTION:Join us as we stand up and fight back against attacks on trans
   people. We rally to advocate for the rights and protection of the trans c

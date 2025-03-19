@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:9674e0ec-5523-4d64-bfdc-8b00a0a35493
+SEQUENCE:0
+DTSTAMP:20250319T031207Z
+DTSTART:20250319T110000
+DTEND:20250319T130000
+SUMMARY:Stronger Together: March for Immigrant Rights
+LOCATION:Cramton Bowl Stadium\, Montgomery\, AL
+DESCRIPTION:Join us at Cramton Bowl Stadium for the March for Immigrant Ri
+ ghts to stand up and speak up for immigrants. This event\, sponsored by va
+ rious organizations\, aims to empower and unite the community in support o
+ f immigrant rights.\n\nCramton Bowl Stadium
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Cramton+Bowl
+ +Stadium%2C+Montgomery%2C+AL&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

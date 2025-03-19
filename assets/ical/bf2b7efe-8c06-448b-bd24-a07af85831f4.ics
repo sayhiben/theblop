@@ -2,19 +2,19 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:28953fe9-7c57-4909-89fe-0d3c12335f37
+UID:8a8e2ab3-7aac-4cb8-b8f0-410b6cc26338
 SEQUENCE:0
-DTSTAMP:20250319T000606Z
+DTSTAMP:20250319T031207Z
 DTSTART:20250324T180000
 DTEND:20250324T200000
 SUMMARY:Empty Chair Townhall
-LOCATION:Rolling Hills Library\, Upper Level
+LOCATION:Rolling Hills Library\, Upper Level\, ?\, MO
 DESCRIPTION:Join us for an "Empty Chair" townhall discussing the absence o
  f Congressman Sam Graves. Issues such as tax cuts for billionaires\, Medic
  aid cuts\, and the defunding of public schools will be highlighted. We're 
  gathering to express our concerns and demand accountability.\n\n
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Rolling+Hill
- s+Library%2C+Upper+Level&zoom=15&basemap=roadmap
+ s+Library%2C+Upper+Level%2C+%3F%2C+MO&zoom=15&basemap=roadmap
 STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR
