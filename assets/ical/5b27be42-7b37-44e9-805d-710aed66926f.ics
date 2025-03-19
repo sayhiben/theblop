@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:ec8e9e69-5082-497b-82ce-f4be3361c723
+SEQUENCE:0
+DTSTAMP:20250319T060310Z
+DTSTART:20250405T120000
+DTEND:20250405T140000
+SUMMARY:Women Rise Up St. Pete
+LOCATION:Downtown St. Petersburg\, Florida
+DESCRIPTION:We are organizing a rally to stand against threats to our coun
+ try and Constitution. Join us to make your voice heard!\n\nDowntown St. Pe
+ tersburg
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Downtown+St.
+ +Petersburg%2C+Florida&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

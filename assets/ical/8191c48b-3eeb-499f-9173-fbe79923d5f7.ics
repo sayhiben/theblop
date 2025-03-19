@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:a68ccc0a-b066-4224-a821-16c92992f00f
+SEQUENCE:0
+DTSTAMP:20250319T060310Z
+DTSTART:20250322T120000
+DTEND:20250322T140000
+SUMMARY:Newport City Hall Stand for Democracy
+LOCATION:Newport City Hall
+DESCRIPTION:Join us at Newport City Hall as we stand for democracy\, free 
+ press\, and human rights\, and protest against mass firings. We aim to rai
+ se our voices and show solidarity against the stripping away of freedoms.\
+ n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Newport+City
+ +Hall&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

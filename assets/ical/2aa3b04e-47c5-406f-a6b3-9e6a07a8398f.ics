@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:d463340f-aa10-433a-a0eb-895c3dd4899d
+SEQUENCE:0
+DTSTAMP:20250319T060310Z
+DTSTART:20250322T120000
+DTEND:20250322T140000
+SUMMARY:Chicago TeslaTakedown Gold Coast
+LOCATION:901 N Rush Street\, Chicago\, IL
+DESCRIPTION:Event at the Chicago Tesla showroom from noon to 2 PM.\n\nChic
+ ago Tesla showroom
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=901+N+Rush+S
+ treet%2C+Chicago%2C+IL&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

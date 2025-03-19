@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:6e46ee7d-d6dc-4287-9860-080fd8aa9780
+SEQUENCE:0
+DTSTAMP:20250319T060310Z
+DTSTART:20250322T120000
+DTEND:20250322T140000
+SUMMARY:Don’t Buy Nazi Cars
+LOCATION:900 N. Rush Street\, Chicago\, IL
+DESCRIPTION:Join us to protest against Elon Musk and Trump at our weekly p
+ icket at Tesla.\n\nTesla Takedown—Chicago
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=900+N.+Rush+
+ Street%2C+Chicago%2C+IL&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

@@ -2,17 +2,18 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:e76ab795-0ab2-47db-9410-3dcbc8d1eaed
+UID:9cd72768-91f3-41e9-b663-95dbca70ace6
 SEQUENCE:0
-DTSTAMP:20250319T031627Z
+DTSTAMP:20250319T060310Z
 DTSTART:20250405T150000
 DTEND:20250405T170000
 SUMMARY:March to Protect Democracy
-LOCATION:Forsyth Park Amphitheater\, Savannah\, GA
+LOCATION:206 Washington St.\, S.W.\n\, Atlanta\, GA
 DESCRIPTION:Join us for a march to protect democracy\, focusing on justice
- \, fairness\, and vigilance. Stay heard. Stay seen. March with us.\n\n
-URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Forsyth+Park
- +Amphitheater%2C+Savannah%2C+GA&zoom=15&basemap=roadmap
+ \, fairness\, and vigilance. Stay heard. Stay seen. March with us.\n\nNEW 
+ LOCATION AS OF MARCH 18: Joining with Indivisible at the Capitol.
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=206+Washingt
+ on+St.%2C+S.W.%0A%2C+Atlanta%2C+GA&zoom=15&basemap=roadmap
 STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

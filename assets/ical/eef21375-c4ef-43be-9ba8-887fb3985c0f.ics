@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:8819d618-d24e-4d73-9b0c-fb5d5bbb0c0f
+SEQUENCE:0
+DTSTAMP:20250319T060310Z
+DTSTART:20250322T140000
+DTEND:20250322T160000
+SUMMARY:Tesla Takedown
+LOCATION:7520 N Military Hwy\, Norfolk\, VA
+DESCRIPTION:Tesla Takedown is a peaceful protest aimed at opposing Elon Mu
+ sk's influence by advocating for actions against Tesla's products and stoc
+ ks.\n\nTesla
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=7520+N+Milit
+ ary+Hwy%2C+Norfolk%2C+VA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

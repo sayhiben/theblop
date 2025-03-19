@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:edf1c7cd-e790-4adb-b665-5e23e0b8d0cc
+SEQUENCE:0
+DTSTAMP:20250319T060310Z
+DTSTART:20250320T120000
+DTEND:20250320T140000
+SUMMARY:FREE MAHMOUD KHALIL AND LEQAA KORDIA!
+LOCATION:UIC Quad\, Chicago\, IL
+DESCRIPTION:A public gathering advocating for the release of Mahmoud Khali
+ l and Leqaa Kordia\, supported by multiple organizations.\n\nUIC Quad
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=UIC+Quad%2C+
+ Chicago%2C+IL&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

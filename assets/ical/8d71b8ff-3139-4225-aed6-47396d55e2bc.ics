@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:c249ae61-7ff4-4daa-8523-94d112fa9726
+SEQUENCE:0
+DTSTAMP:20250319T060310Z
+DTSTART:20250322T100000
+DTEND:20250322T120000
+SUMMARY:Community Beach Cleanup
+LOCATION:123 Seaside Ave\, Seaville\, CA
+DESCRIPTION:Join us for a day of helping our environment.\n\nOceanview Par
+ k
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=123+Seaside+
+ Ave%2C+Seaville%2C+CA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

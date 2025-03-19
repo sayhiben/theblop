@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:73a0650a-f2b5-4af7-b63e-5a1b67e3e98a
+SEQUENCE:0
+DTSTAMP:20250319T060310Z
+DTSTART:20250321T170000
+DTEND:20250321T190000
+SUMMARY:Refuse Fascism Americans Against Oligarchy
+LOCATION:3711 196th St SW\, Lynnwood\, WA
+DESCRIPTION:Join Snohomish County Indivisible in a peaceful sign-waving ev
+ ent to protest the actions of the Trump Administration. Participate in 'Re
+ fuse Fascism Fridays' to promote justice and equality.\n\nLynnwood Convent
+ ions Center
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=3711+196th+S
+ t+SW%2C+Lynnwood%2C+WA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

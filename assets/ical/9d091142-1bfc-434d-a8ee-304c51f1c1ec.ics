@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:ad50355f-b8e1-4896-8627-3acc6b14e5af
+SEQUENCE:0
+DTSTAMP:20250319T060310Z
+DTSTART:20250321T170000
+DTEND:20250321T190000
+SUMMARY:Refuse Fascism: Americans Against Oligarchy
+LOCATION:3711 88th St NE\, Marysville\, WA
+DESCRIPTION:Snohomish County Indivisible invites you to a sign-waving even
+ t aimed at raising awareness about the perceived threats to democracy and 
+ justice linked to the Trump Administration. Join us in Marysville\, WA\, a
+ s part of our sustained campaign\, 'Refuse Fascism Fridays\,' to promote v
+ isibility and public awareness in defense of justice and equality.\n\nMeet
+  in Haggen Parking Lot
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=3711+88th+St
+ +NE%2C+Marysville%2C+WA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
