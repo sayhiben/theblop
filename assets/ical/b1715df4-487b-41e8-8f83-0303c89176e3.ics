@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:4a861c31-26ce-43ac-a9be-dfd2d5b91b39
+SEQUENCE:0
+DTSTAMP:20250320T210231Z
+DTSTART:20250320T180000
+DTEND:20250320T200000
+SUMMARY:Town Hall
+LOCATION:260 Central Campus Dr.\, Salt Lake City\, UT
+DESCRIPTION:Join us for a Town Hall event with Representatives Celeste Mal
+ oy and Mike Kennedy. This is an opportunity to speak to your representativ
+ es.\n\nCarolyn and Kem Gardner Commons\, Gardner Commons Siciliano Auditor
+ ium
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=260+Central+
+ Campus+Dr.%2C+Salt+Lake+City%2C+UT&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
