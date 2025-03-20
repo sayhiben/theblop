@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:a0ede32e-aebd-43b2-a654-035d25db700f
+SEQUENCE:0
+DTSTAMP:20250320T060252Z
+DTSTART:20250324T100000
+DTEND:20250324T120000
+SUMMARY:Meet "Rep Boebert"
+LOCATION:100 Waterfowl Wy\, Severance\, CO
+DESCRIPTION:Join IndivisibleNoCo and have your voice heard! Lauren refuses
+  to talk to her constituents\, so we’re bringing cardboard Lauren to you
+ . Bring your questions\, signs\, and friends!\n\nSeverance Community Park
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=100+Waterfow
+ l+Wy%2C+Severance%2C+CO&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:91ab3145-0370-41a6-9b7b-d638f4078729
+SEQUENCE:0
+DTSTAMP:20250320T060252Z
+DTSTART:20250326T180000
+DTEND:20250326T200000
+SUMMARY:Support the Thompson School District Board
+LOCATION:800 S Taft Ave\, Loveland\, CO
+DESCRIPTION:We aim to gather at the Thompson School District Board meeting
+  against a planned disruption by the Moms for Liberty\, supporting Nancy R
+ umselft's anti-trans stance. We urge you to attend to support other board 
+ members.\n\nThompson School District R2-J
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=800+S+Taft+A
+ ve%2C+Loveland%2C+CO&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

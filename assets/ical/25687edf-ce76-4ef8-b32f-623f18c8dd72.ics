@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:d670a483-0eae-4596-9556-477c26c764cb
+SEQUENCE:0
+DTSTAMP:20250320T060252Z
+DTSTART:20250329T103000
+DTEND:20250329T123000
+SUMMARY:Tesla Protest
+LOCATION:4601 34th St N\, St. Petersburg\, FL
+DESCRIPTION:Join us for a peaceful protest against Tesla organized by the 
+ St. Pete Ladies Democrat FB Group at the specified location and time. Part
+ icipants are expected to follow non-engagement rules to ensure safety.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=4601+34th+St
+ +N%2C+St.+Petersburg%2C+FL&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

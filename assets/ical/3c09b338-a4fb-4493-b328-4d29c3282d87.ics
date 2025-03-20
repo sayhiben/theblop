@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:7aa900fb-b62b-4c52-97a9-9f8d1301af49
+SEQUENCE:0
+DTSTAMP:20250320T060252Z
+DTSTART:20250324T133000
+DTEND:20250324T153000
+SUMMARY:Meet "Rep Boebert"
+LOCATION:Wellington Community Park - 8760 Buffalo Creek Pkwy
+DESCRIPTION:Join IndivisibleNoCo and have your voice heard! Since Lauren r
+ efuses to talk to her constituents\, we're bringing cardboard Lauren to yo
+ u. Bring your questions\, signs\, and friends!\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Wellington+C
+ ommunity+Park+-+8760+Buffalo+Creek+Pkwy&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
