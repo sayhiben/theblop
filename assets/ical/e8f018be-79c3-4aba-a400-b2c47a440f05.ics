@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:2a49cf41-5504-480b-9550-03b296ebb9b5
+SEQUENCE:0
+DTSTAMP:20250320T031119Z
+DTSTART:20250323T120000
+DTEND:20250323T140000
+SUMMARY:Tesla Protest
+LOCATION:811 S San Fernando Blvd\, Burbank\, CA
+DESCRIPTION:Join us in a protest against alleged illegal activities affect
+ ing our government and $TSLA stock by 'Musk-Trump'. Bring signs\, remain p
+ eaceful and respectful\, with no profanity.\n\nTesla Service Burbank
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=811+S+San+Fe
+ rnando+Blvd%2C+Burbank%2C+CA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

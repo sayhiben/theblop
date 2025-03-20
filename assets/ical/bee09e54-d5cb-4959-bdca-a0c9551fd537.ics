@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:05c592ef-b34e-42bb-9ac9-707d4c13886d
+SEQUENCE:0
+DTSTAMP:20250320T031120Z
+DTSTART:20250405T120000
+DTEND:20250405T140000
+SUMMARY:Nationwide Protests on April 5th
+LOCATION:Stephenson County Courthouse\, Freeport\, IL
+DESCRIPTION:We are organizing a nationwide protest at the Stephenson Count
+ y Courthouse\, encouraging everyone to join and bring signs.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Stephenson+C
+ ounty+Courthouse%2C+Freeport%2C+IL&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:fcf171a8-3002-4001-b7dd-0e27715fa7eb
+SEQUENCE:0
+DTSTAMP:20250320T031119Z
+DTSTART:20250322T140000
+DTEND:20250322T160000
+SUMMARY:Statewide Rally for Human Rights
+LOCATION:150 N Limestone\, Lexington\, KY
+DESCRIPTION:We are organizing a rally to advocate for human rights\, calli
+ ng for the release of Mahmoud Khalil and Leqaa Kordia\, ending the bombing
+ \, releasing all Palestinians in Israeli jails\, and letting aid into Gaza
+ .\n\nCourthouse
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=150+N+Limest
+ one%2C+Lexington%2C+KY&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

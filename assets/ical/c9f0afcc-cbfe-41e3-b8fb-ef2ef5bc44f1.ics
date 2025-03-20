@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:11d77c7e-6514-48f8-bcce-9c5d0922e873
+SEQUENCE:0
+DTSTAMP:20250320T031119Z
+DTSTART:20250322T093000
+DTEND:20250322T113000
+SUMMARY:Call to Action Against Alt-Right Meetings
+LOCATION:15245 SW 116th Avenue\, King City\, OR
+DESCRIPTION:Association for Mature American Citizens is having their first
+  chapter meeting to protest alt-right strategy meetings in Washington Coun
+ ty.\n\nKing City Clubhouse
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=15245+SW+116
+ th+Avenue%2C+King+City%2C+OR&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

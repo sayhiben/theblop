@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:adc6a124-b74c-483a-a49f-c9ec942183ea
+SEQUENCE:0
+DTSTAMP:20250320T031119Z
+DTSTART:20250322T120000
+DTEND:20250322T140000
+SUMMARY:Nationwide Rally for Public Lands and National Parks
+LOCATION:Tuckerman Ravine Trailhead\, Nationwide\, Nationwide
+DESCRIPTION:Join us for a national gathering to support public lands and n
+ ational parks. Bring signs and show your support for our parks.\n\nTuckerm
+ an Ravine Trailhead
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Tuckerman+Ra
+ vine+Trailhead%2C+Nationwide%2C+Nationwide&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

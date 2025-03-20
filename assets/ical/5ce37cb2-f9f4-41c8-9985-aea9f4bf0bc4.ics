@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:188a0180-b94b-471f-ab10-a8e686dc9914
+SEQUENCE:0
+DTSTAMP:20250320T031119Z
+DTSTART:20250322T130000
+DTEND:20250322T150000
+SUMMARY:Columbus Emergency Protest
+LOCATION:1 Capitol Sq\, Columbus\, OH
+DESCRIPTION:Join us in Columbus for an emergency protest to stop the genoc
+ ide and demand an arms embargo. The event will take place at the Ohio Stat
+ ehouse.\n\nOhio Statehouse
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=1+Capitol+Sq
+ %2C+Columbus%2C+OH&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

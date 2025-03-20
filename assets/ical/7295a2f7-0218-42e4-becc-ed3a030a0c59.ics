@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:4d977788-0081-4948-bf0d-755c011abca2
+SEQUENCE:0
+DTSTAMP:20250320T031119Z
+DTSTART:20250322T150000
+DTEND:20250322T170000
+SUMMARY:Tesla Protest
+LOCATION:539 Americana Way\, Glendale\, CA
+DESCRIPTION:This is a peaceful protest against Tesla regarding concerns ab
+ out Musk and government issues\, focusing on taking down $TSLA stock. Atte
+ ndees are encouraged to bring signs and maintain peaceful\, respectful con
+ duct.\n\nPublic Greens\, Americana
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=539+American
+ a+Way%2C+Glendale%2C+CA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
