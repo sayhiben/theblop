@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:a532e92a-e48d-4b26-82e6-349ef8dc1a54
+SEQUENCE:0
+DTSTAMP:20250320T000547Z
+DTSTART:20250320T093000
+DTEND:20250320T113000
+SUMMARY:Break the Border Chains
+LOCATION:In front of New College of Florida's Sainer Pavilion\, Sarasota\,
+  FL
+DESCRIPTION:We stand against border policies and political figures such as
+  Tom Homan\, Desantis\, and Chad Wolf in a protest event.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=In+front+of+
+ New+College+of+Florida%27s+Sainer+Pavilion%2C+Sarasota%2C+FL&zoom=15&basem
+ ap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

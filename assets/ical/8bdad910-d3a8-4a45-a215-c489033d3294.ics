@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:bf50b8ca-28fd-41d5-9873-8bd142493e4d
+SEQUENCE:0
+DTSTAMP:20250320T000547Z
+DTSTART:20250405T133000
+DTEND:20250405T153000
+SUMMARY:Remove. Reverse. Reclaim.
+LOCATION:Four Freedoms Monument\, Evansville\, IN
+DESCRIPTION:Join us to remove corrupt politicians from office\, reverse th
+ e damage\, and reclaim our democracy. Be part of this crucial movement to 
+ bring about positive political change.\n\nFour Freedoms Monument
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Four+Freedom
+ s+Monument%2C+Evansville%2C+IN&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

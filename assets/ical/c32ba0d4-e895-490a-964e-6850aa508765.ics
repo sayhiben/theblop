@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:c14e5c64-a52d-4757-8eab-ecec7fab1bab
+SEQUENCE:0
+DTSTAMP:20250320T000547Z
+DTSTART:20250330T120000
+DTEND:20250330T140000
+SUMMARY:We Will Not Become Invisible
+LOCATION:Colorado Capitol West Steps\, Denver\, CO
+DESCRIPTION:Join us in a protest against the government erasure of trans i
+ ndividuals and their rights.\n\nColorado Capitol West Steps
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Colorado+Cap
+ itol+West+Steps%2C+Denver%2C+CO&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

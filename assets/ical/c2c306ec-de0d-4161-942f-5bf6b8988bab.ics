@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:eec6aea0-df66-4200-8650-f43288c27346
+SEQUENCE:0
+DTSTAMP:20250320T000547Z
+DTSTART:20250405T110000
+DTEND:20250405T130000
+SUMMARY:Remove\, Reverse\, Reclaim
+LOCATION:Federal Courthouse\, Sioux Falls\, SD
+DESCRIPTION:Join us to remove corrupt politicians from office\, reverse th
+ e damage\, and reclaim our democracy. This event is part of 50 protests ac
+ ross 50 states.\n\nFederal Courthouse
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Federal+Cour
+ thouse%2C+Sioux+Falls%2C+SD&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

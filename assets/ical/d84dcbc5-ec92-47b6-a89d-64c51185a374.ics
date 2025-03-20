@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:8b579b7d-0e51-4023-8628-aba7a8cbdd85
+SEQUENCE:0
+DTSTAMP:20250320T000547Z
+DTSTART:20250321T171500
+DTEND:20250321T191500
+SUMMARY:Peaceful Protest: GOP Fundraising Dinner
+LOCATION:3003 Thanksgiving Way\, Lehi\, UT
+DESCRIPTION:We stand up to protest at the GOP fundraising dinner featuring
+  Senator John Curtis\, Rep. Burgess Owens\, and Treasurer Marlo Oaks. Join
+  us at Thanksgiving Point Barn.\n\nThanksgiving Point Barn
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=3003+Thanksg
+ iving+Way%2C+Lehi%2C+UT&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

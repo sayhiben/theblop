@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:0b8c98fb-5f2e-4de7-a9b8-210863d3f418
+SEQUENCE:0
+DTSTAMP:20250320T000547Z
+DTSTART:20250405T110000
+DTEND:20250405T130000
+SUMMARY:Nationwide Day of Action
+LOCATION:400 S. Phillips Ave.\, Sioux Falls\, SD
+DESCRIPTION:Join us for a nationwide day of action intended to address var
+ ious social and political issues. We're standing up for our rights\, freed
+ oms\, and future.\n\nFederal Courthouse
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=400+S.+Phill
+ ips+Ave.%2C+Sioux+Falls%2C+SD&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

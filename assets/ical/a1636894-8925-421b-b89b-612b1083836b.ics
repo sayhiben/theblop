@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:33c68b8b-c9ce-4f40-81fb-4545f238508b
+SEQUENCE:0
+DTSTAMP:20250320T000547Z
+DTSTART:20250322T090000
+DTEND:20250322T110000
+SUMMARY:César E. Chávez March for Justice
+LOCATION:Corner of S. Brazos & Guadalupe St. next to Guadalupe Theater (13
+ 10 Guadalupe)\, San Antonio\, TX
+DESCRIPTION:Join us for the 29th Annual March for Justice as we bring fort
+ h song and celebration. Participate in the morning program\, march step-of
+ f\, and celebrations at Hemisfair. Bring canned goods for donations to the
+  San Antonio Food Bank.\n\nCorner of S. Brazos & Guadalupe St. next to Gua
+ dalupe Theater
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Corner+of+S.
+ +Brazos+%26+Guadalupe+St.+next+to+Guadalupe+Theater+%281310+Guadalupe%29%2
+ C+San+Antonio%2C+TX&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

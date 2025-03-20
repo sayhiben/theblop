@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:0963327b-da48-4014-b05b-2a27988975ae
+SEQUENCE:0
+DTSTAMP:20250320T000547Z
+DTSTART:20250321T170000
+DTEND:20250321T190000
+SUMMARY:Refuse Fascism Fridays
+LOCATION:3809 Broadway\, Everett\, WA
+DESCRIPTION:Snohomish County Indivisible organizes a sign-waving event to 
+ protest the Trump Administration's actions and defend democratic values. P
+ articipants are encouraged to bring flags or signs.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=3809+Broadwa
+ y%2C+Everett%2C+WA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

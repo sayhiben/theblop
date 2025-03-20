@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:59c27461-de6b-478a-a067-49a7bd4a6bef
+SEQUENCE:0
+DTSTAMP:20250320T000547Z
+DTSTART:20250323T140000
+DTEND:20250323T160000
+SUMMARY:Stand Up! Fight Back! Protest Fascism!
+LOCATION:NE corner of Walton & Livernois\, Rochester Hills\, MI
+DESCRIPTION:We are organizing a sidewalk demonstration to protest against 
+ fascism. Join us on March 23rd to make your voice heard.\n\nNE corner of W
+ alton & Livernois
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=NE+corner+of
+ +Walton+%26+Livernois%2C+Rochester+Hills%2C+MI&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

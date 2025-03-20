@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:b6479e15-e9de-4a21-acae-9607ecc61153
+SEQUENCE:0
+DTSTAMP:20250320T000547Z
+DTSTART:20250326T110000
+DTEND:20250326T130000
+SUMMARY:No Monarchy\, No Oligarchy Protest
+LOCATION:1700 W. Washington Blvd.\, Phoenix\, AZ
+DESCRIPTION:Join us for a protest against monarchy and oligarchy at the Ar
+ izona State Capitol Building. Let's voice our stance for democracy and equ
+ ality.\n\nArizona State Capitol Building
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=1700+W.+Wash
+ ington+Blvd.%2C+Phoenix%2C+AZ&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
