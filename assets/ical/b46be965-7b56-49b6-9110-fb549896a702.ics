@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:d461f336-510f-488e-a3a0-b9f6e4cdc897
+SEQUENCE:0
+DTSTAMP:20250320T150239Z
+DTSTART:20250405T110000
+DTEND:20250405T130000
+SUMMARY:Nationwide Day of Action
+LOCATION:Pack Square Amphitheater\, Asheville\, NC
+DESCRIPTION:We are organizing a nationwide protest to remove corrupt polit
+ icians\, reverse damage\, and reclaim democracy. The event will feature mu
+ sic and speakers.\n\nPack Square Amphitheater
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Pack+Square+
+ Amphitheater%2C+Asheville%2C+NC&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
