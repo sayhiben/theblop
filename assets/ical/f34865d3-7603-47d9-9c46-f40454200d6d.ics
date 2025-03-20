@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:791c03ff-f4ac-4b1c-aa06-0633b64d7eca
+SEQUENCE:0
+DTSTAMP:20250320T090421Z
+DTSTART:20250322T120000
+DTEND:20250322T140000
+SUMMARY:March for Our Constitution
+LOCATION:Wilshire Federal Building\, Los Angeles\, CA
+DESCRIPTION:Join us for a march to support and uphold our Constitution.\n\
+ n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Wilshire+Fed
+ eral+Building%2C+Los+Angeles%2C+CA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

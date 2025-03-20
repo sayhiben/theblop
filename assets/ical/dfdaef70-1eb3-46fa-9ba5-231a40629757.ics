@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:0d75eb6f-cd69-4ebb-b4ae-456c1c93d43d
+SEQUENCE:0
+DTSTAMP:20250320T090421Z
+DTSTART:20250405T110000
+DTEND:20250405T130000
+SUMMARY:Hands Off!
+LOCATION:Bicentennial Plaza\, Raleigh\, NC
+DESCRIPTION:We are hosting a 'Hands Off! and Food Drive' event to protect 
+ various social and public services\, with partners advocating for numerous
+  causes.\n\nBicentennial Plaza
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Bicentennial
+ +Plaza%2C+Raleigh%2C+NC&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

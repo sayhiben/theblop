@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:2cfbf83c-dbfb-453b-9c79-4d05f24b110e
+SEQUENCE:0
+DTSTAMP:20250320T090421Z
+DTSTART:20250330T150000
+DTEND:20250330T170000
+SUMMARY:Trans Visibility Day Fundraiser
+DESCRIPTION:An event to support and celebrate trans visibility\, hosted by
+  The MVMNT Apothecary and Prism\, benefiting LGBTQIA+ youth.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=&zoom=15&bas
+ emap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

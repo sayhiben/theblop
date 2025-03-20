@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:0b0d8382-3849-486e-a5fe-a4571afee11d
+SEQUENCE:0
+DTSTAMP:20250320T090421Z
+DTSTART:20250322T130000
+DTEND:20250322T150000
+SUMMARY:MARCH TO: DEFEND FEDERAL AND PUBLIC SECTOR WORKERS!
+LOCATION:Congo Square\, New Orleans\, LA
+DESCRIPTION:Join us on March 22 at Congo Square to stand up and fight agai
+ nst Musk and Trump. We aim to stop attacks on Civil Rights and defend Dive
+ rsity\, Equity\, and Inclusion. Our purpose is to defend public sector wor
+ kers and maintain essential services.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Congo+Square
+ %2C+New+Orleans%2C+LA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

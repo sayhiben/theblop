@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:10617794-bc0a-49b8-8110-c66813eb9f1c
+SEQUENCE:0
+DTSTAMP:20250320T090421Z
+DTSTART:20250322T143000
+DTEND:20250322T163000
+SUMMARY:Dignity Not Detention
+LOCATION:395 Paseo Grande\, San Lorenzo\, CA 94580
+DESCRIPTION:Join us to stand against detention centers and promote dignity
+  for all. We aim to educate and mobilize the community to protect immigran
+ t rights and fight deportations.\n\nSan Lorenzo Library\, Greenhouse Commu
+ nity Room
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=395+Paseo+Gr
+ ande%2C+San+Lorenzo%2C+CA+94580&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:c28995fe-69c0-4ae0-9120-e1cdb243b727
+SEQUENCE:0
+DTSTAMP:20250320T090421Z
+DTSTART:20250320T160000
+DTEND:20250320T180000
+SUMMARY:Protest Against Radical Republicans' Cuts to Medicaid
+LOCATION:36-42 Main St\, Binghamton\, NY
+DESCRIPTION:Join Citizen Action of New York\, Indivisible Binghamton\, and
+  Lieutenant Governor Antonio Delgado in protesting against Medicaid cuts a
+ ffecting vulnerable groups.\n\nBroome County Department Of Social Services
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=36-42+Main+S
+ t%2C+Binghamton%2C+NY&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

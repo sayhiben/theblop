@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:c2d1b970-c67b-412a-ad3c-14facf2ff684
+SEQUENCE:0
+DTSTAMP:20250320T090421Z
+DTSTART:20250322T140000
+DTEND:20250322T160000
+SUMMARY:Protect the Parks at Yosemite
+LOCATION:\, Yosemite Valley\, CA
+DESCRIPTION:Join us for a rally and learning event to protect Yosemite. Br
+ ing your signs\, snacks\, and voice to support the cause.\n\nYosemite Vall
+ ey Exploration Center
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+Yosemite
+ +Valley%2C+CA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

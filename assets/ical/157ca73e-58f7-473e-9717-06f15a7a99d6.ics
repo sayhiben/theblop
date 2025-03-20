@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:658bebce-e5b7-44d6-b4de-22ab32c774a8
+SEQUENCE:0
+DTSTAMP:20250320T090421Z
+DTSTART:20250405T100000
+DTEND:20250405T120000
+SUMMARY:Hands Off Event
+LOCATION:3200 E Tahquitz Canyon Way\, Palm Springs\, CA 92262
+DESCRIPTION:Join us as we unite to declare Hands Off to protect democracy\
+ , health care\, social security\, data\, public schools\, and personal aut
+ onomy.\n\nPalm Springs City Hall
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=3200+E+Tahqu
+ itz+Canyon+Way%2C+Palm+Springs%2C+CA+92262&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

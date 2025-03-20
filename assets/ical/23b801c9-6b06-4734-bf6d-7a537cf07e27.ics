@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:76da2cd4-e4a3-4434-a787-696fe27353eb
+SEQUENCE:0
+DTSTAMP:20250320T090421Z
+DTSTART:20250405T130000
+DTEND:20250405T150000
+SUMMARY:HANDSOFFOUR DEMOCRACY
+LOCATION:Omaha Memorial Park\, Omaha\, NE
+DESCRIPTION:Join 50501 & Indivisible in a nationwide movement to send the 
+ message: Hands Off Our Democracy. The event involves a coalition with vari
+ ous groups and aims to protest against corrupt politicians.\n\nOmaha Memor
+ ial Park
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Omaha+Memori
+ al+Park%2C+Omaha%2C+NE&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

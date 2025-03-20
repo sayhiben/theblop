@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:56b00e06-5984-4eb8-852c-529ed94dc10a
+SEQUENCE:0
+DTSTAMP:20250320T090421Z
+DTSTART:20250329T120000
+DTEND:20250329T140000
+SUMMARY:Trans Joy Resource Fair
+LOCATION:Old Town Square
+DESCRIPTION:Join us for a heartwarming day of celebration\, support\, & co
+ mmunity! We’re bringing together amazing local trans artists\, creators\
+ , and nonprofit resources to highlight both the needs and the joys of our 
+ transgender community.\n\nOld Town Square
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Old+Town+Squ
+ are&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

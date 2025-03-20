@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:910a4f5d-5a13-4aa1-ad3a-489eabd83048
+SEQUENCE:0
+DTSTAMP:20250320T090421Z
+DTSTART:20250330T000000
+DTEND:20250330T020000
+SUMMARY:Trans Day (beyond) Visibility 2025
+LOCATION:\, Nationwide\, Nationwide
+DESCRIPTION:We are organizing a national day of action across several citi
+ es in Australia to celebrate Trans Day of Visibility 2025 with events\, ac
+ tions\, and picnics on March 30-31\, 2025.\n\nVarious locations across cit
+ ies in Australia
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+Nationwi
+ de%2C+Nationwide&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

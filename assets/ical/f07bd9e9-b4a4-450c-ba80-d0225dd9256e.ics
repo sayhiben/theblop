@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:fd8e9674-4fe9-43ee-b178-99db6dd3d383
+SEQUENCE:0
+DTSTAMP:20250320T090421Z
+DTSTART:20250329T120000
+DTEND:20250329T140000
+SUMMARY:Transgender Day of Visibility
+LOCATION:\, Fort Collins\, CO
+DESCRIPTION:We are hosting a series of events celebrating Transgender Day 
+ of Visibility\, including a Resource Fair\, Rainbow Skate\, March & Protes
+ t\, and a Night of Joy in collaboration with local organizations.\n\nOld T
+ own Square\, Rollerland\, Prism & MVMT Apothecary
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+Fort+Col
+ lins%2C+CO&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

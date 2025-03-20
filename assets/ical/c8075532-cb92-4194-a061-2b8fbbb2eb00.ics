@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:64d23f28-5015-4abc-ac9f-53ba0f6b1b0a
+SEQUENCE:0
+DTSTAMP:20250320T090421Z
+DTSTART:20250322T113000
+DTEND:20250322T133000
+SUMMARY:Fight for Our Rights
+LOCATION:River Market\, Little Rock\, AR
+DESCRIPTION:This event is organized to support the release of Mahmoud Khal
+ il and promote Palestinian rights.\n\nRiver Market
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=River+Market
+ %2C+Little+Rock%2C+AR&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

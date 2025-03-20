@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:d478a234-fc14-4d76-8c1f-915ad2ba92fc
+SEQUENCE:0
+DTSTAMP:20250320T090421Z
+DTSTART:20250330T233000
+DTEND:20250331T013000
+SUMMARY:Trans Day Beyond Visibility (Canberra)
+LOCATION:180 City Walk\, City ACT 2601\, Australia\, Canberra\, ACT
+DESCRIPTION:Join us to celebrate our annual rally on Transgender Day of Vi
+ sibility! Trans people play crucial roles in our community\, and all too o
+ ften are denied the support\, healthcare\, and rights they deserve. We dem
+ and better!\n\nGarema Place
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=180+City+Wal
+ k%2C+City+ACT+2601%2C+Australia%2C+Canberra%2C+ACT&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

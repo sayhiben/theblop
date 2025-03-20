@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:b9108e5d-03be-4845-bcdd-ccf9e47361d0
+SEQUENCE:0
+DTSTAMP:20250320T090421Z
+DTSTART:20250330T150000
+DTEND:20250330T170000
+SUMMARY:Trans Visibility Day Fundraiser
+LOCATION:2721 S. College Ave. Unit 3 AND 4\, Fort Collins\, CO
+DESCRIPTION:Join us for local talent\, raffles\, art\, community engagemen
+ t\, a silent auction\, dancing\, and resources with educational materials.
+ \n\nThe Movement Apothecary & Splash NOCO
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=2721+S.+Coll
+ ege+Ave.+Unit+3+AND+4%2C+Fort+Collins%2C+CO&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

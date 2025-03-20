@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:7def489a-961b-458c-926d-4b225332263f
+SEQUENCE:0
+DTSTAMP:20250320T090421Z
+DTSTART:20250323T150000
+DTEND:20250323T170000
+SUMMARY:Women Rise\, We All Rise
+LOCATION:1499 Fruitvale Avenue\, Oakland\, CA
+DESCRIPTION:Join us on Sunday\, March 23 as we bust myths about the origin
+ s of women’s oppression and discuss what is needed in today’s struggle
+ \, for the full liberation of all women. Why are women oppressed? Is patri
+ archy just the natural state of affairs? What is actually needed for women
+ ’s liberation? Join us this Sunday\, March 23 at 3pm at the Oakland Libe
+ ration Center to discuss what a working class feminism\, for everyone\, ev
+ erywhere\, looks like. To fight for our liberation\, we need to understand
+  what we are fighting against and what is needed to win. Because a woman
+ ’s place is in the struggle! All genders are encouraged to attend!\n\nOa
+ kland Liberation Center
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=1499+Fruitva
+ le+Avenue%2C+Oakland%2C+CA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

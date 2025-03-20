@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:09e75884-e35e-4c51-a154-db5bbd719c08
+SEQUENCE:0
+DTSTAMP:20250320T090421Z
+DTSTART:20250322T200000
+DTEND:20250322T220000
+SUMMARY:Free Mahmoud\, Free Palestine
+LOCATION:\, New York City\, NY
+DESCRIPTION:A forum in support of Mahmoud Khalil and Palestine\, discussin
+ g impacts on free speech and related social issues.\n\nNot explicitly stat
+ ed\, inferred to be at People's Forum likely from RSVP link but unclear.
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+New+York
+ +City%2C+NY&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

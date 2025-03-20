@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:a0b233ca-4a79-4af6-8f20-7fc997122713
+SEQUENCE:0
+DTSTAMP:20250320T090421Z
+DTSTART:20250405T110000
+DTEND:20250405T130000
+SUMMARY:Protest for Democracy
+LOCATION:Near Dartmouth Mall\, Route 6\, Faunce Corner Rd
+DESCRIPTION:Join us for a protest in support of democracy organized by Dem
+ ocracy Unleashed.\n\nNear Dartmouth Mall
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Near+Dartmou
+ th+Mall%2C+Route+6%2C+Faunce+Corner+Rd&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

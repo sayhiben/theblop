@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:c38504c1-289c-4f45-b9ff-baacf5b6fb33
+SEQUENCE:0
+DTSTAMP:20250320T090421Z
+DTSTART:20250405T100000
+DTEND:20250405T120000
+SUMMARY:TESLA TAKEDOWN!
+LOCATION:1381 Calle Joaquin\, San Luis Obispo\, CA
+DESCRIPTION:We are organizing a protest to stand up for democracy and figh
+ t against the corruption Elon Musk is perceived to be doing in America. Br
+ ing your protest signs and voices to this event.\n\nOff Los Osos Pkwy at H
+ wy 101
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=1381+Calle+J
+ oaquin%2C+San+Luis+Obispo%2C+CA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

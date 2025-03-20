@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:c2191c51-85a7-4c4a-bd6a-848708b1361c
+SEQUENCE:0
+DTSTAMP:20250320T090421Z
+DTSTART:20250330T120000
+DTEND:20250330T140000
+SUMMARY:Trans Day of Visibility March & Protest
+LOCATION:Old Town\, Fort Collins
+DESCRIPTION:Join us for the Trans Day of Visibility March & Protest\, dete
+ rmined to be loud\, proud\, and unstoppable. Organized by NoCoSafeSpace an
+ d the Megaphone team\, the event takes place in a First Amendment space wi
+ th an accessible protest route.\n\nOld Town
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Old+Town%2C+
+ Fort+Collins&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

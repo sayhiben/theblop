@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:e9265fa4-4abd-43f9-b9a9-6fdaf61db043
+SEQUENCE:0
+DTSTAMP:20250320T090421Z
+DTSTART:20250323T140000
+DTEND:20250323T160000
+SUMMARY:Tesla Takedown - Nassau & Queens County
+LOCATION:2122 Northern Blvd\, Manhasset\, NY
+DESCRIPTION:\n\nTesla Manhasset
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=2122+Norther
+ n+Blvd%2C+Manhasset%2C+NY&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

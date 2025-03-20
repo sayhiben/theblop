@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:f94769b3-7fd8-45da-9921-6037496a0f76
+SEQUENCE:0
+DTSTAMP:20250320T090421Z
+DTSTART:20250321T190000
+DTEND:20250321T210000
+SUMMARY:We Fight Back!
+LOCATION:1499 Fruitvale Ave\, Oakland\, CA
+DESCRIPTION:We are organizing a meeting to protest against deportations an
+ d political repression. Join us to make your voice heard.\n\nOakland Liber
+ ation Center
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=1499+Fruitva
+ le+Ave%2C+Oakland%2C+CA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

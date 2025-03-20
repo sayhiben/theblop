@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:3475856f-8757-482a-8435-2d947f1cc8cf
+SEQUENCE:0
+DTSTAMP:20250320T090421Z
+DTSTART:20250405T120000
+DTEND:20250405T140000
+SUMMARY:Pro-Democracy Demonstration
+LOCATION:Wooster Public Square\, Wooster\, OH
+DESCRIPTION:We are organizing a demonstration to support democracy. Join u
+ s in advocating for constitutional rights and against executive overreach.
+ \n\nWooster Public Square
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Wooster+Publ
+ ic+Square%2C+Wooster%2C+OH&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:ea0fbaf9-6fa8-4b77-8f50-379937d55e18
+SEQUENCE:0
+DTSTAMP:20250320T090421Z
+DTSTART:20250405T120000
+DTEND:20250405T140000
+SUMMARY:REMOVE REVERSE RECLAIM
+LOCATION:4100 Forbes Ave\, Pittsburgh\, PA
+DESCRIPTION:We invite you to join in a movement to remove corrupt politici
+ ans\, reverse the damage\, and reclaim our democracy. Be part of 50 protes
+ ts happening across 50 states.\n\nSchenley Plaza
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=4100+Forbes+
+ Ave%2C+Pittsburgh%2C+PA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

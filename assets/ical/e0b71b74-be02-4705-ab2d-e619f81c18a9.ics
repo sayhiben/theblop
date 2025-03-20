@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:1ec2d006-3dd7-4f54-a6b6-dffbc9207a7c
+SEQUENCE:0
+DTSTAMP:20250320T090421Z
+DTSTART:20250405T120000
+DTEND:20250405T140000
+SUMMARY:Hands Off
+LOCATION:Sonora Courthouse Park\, Sonora\, CA
+DESCRIPTION:We are organizing a mass mobilization at Sonora Courthouse Par
+ k in Sonora\, CA\, to speak against cuts affecting services and rights suc
+ h as Medicare\, Social Security\, and fair elections. Join us with your si
+ gns\, chair\, and water for a rally including speeches and music.\n\nSonor
+ a Courthouse Park
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Sonora+Court
+ house+Park%2C+Sonora%2C+CA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

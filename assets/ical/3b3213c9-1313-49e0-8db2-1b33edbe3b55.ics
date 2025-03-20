@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:62a4c3ca-6644-45f3-843e-194876023307
+SEQUENCE:0
+DTSTAMP:20250320T090421Z
+DTSTART:20250405T160000
+DTEND:20250405T180000
+SUMMARY:National Day of Action
+LOCATION:4035 Broadway\, Grove City\, Grove City\, OH
+DESCRIPTION:We are organizing a nationwide protest in Grove City\, OH\, as
+  part of a movement across all 50 states. The event aims to uphold the con
+ stitution\, end executive overreach\, and promote liberty and justice for 
+ all. Join us for a family-friendly protest where everyone is welcome to ma
+ ke their voices heard.\n\nGrove City Hall
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=4035+Broadwa
+ y%2C+Grove+City%2C+Grove+City%2C+OH&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

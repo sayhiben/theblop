@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:6ff08699-2620-4284-ba72-3b4fd95f8e53
+SEQUENCE:0
+DTSTAMP:20250320T090421Z
+DTSTART:20250322T100000
+DTEND:20250322T120000
+SUMMARY:Rally & Learn
+LOCATION:Downtown Park\, Palm Springs\, CA
+DESCRIPTION:Join us to protect Chuckwalla National Monument. Prepare for t
+ he heat by bringing water and sun protection.\n\nDowntown Park\, Palm Spri
+ ngs
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Downtown+Par
+ k%2C+Palm+Springs%2C+CA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

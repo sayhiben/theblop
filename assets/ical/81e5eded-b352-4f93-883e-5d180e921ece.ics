@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:3d371b55-a6da-4755-9829-924048e278bb
+SEQUENCE:0
+DTSTAMP:20250320T090421Z
+DTSTART:20250323T140000
+DTEND:20250323T160000
+SUMMARY:Workers Fight Back!
+LOCATION:344 Candler Park Rd NE\, Atlanta\, GA
+DESCRIPTION:Join to build a mass movement against Trump's billionaire agen
+ da and strategize for a people's agenda.\n\nAtlanta Liberation Center
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=344+Candler+
+ Park+Rd+NE%2C+Atlanta%2C+GA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

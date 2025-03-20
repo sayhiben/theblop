@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:f80fc1bc-b32b-4592-b551-4582dfeeb26d
+SEQUENCE:0
+DTSTAMP:20250320T090421Z
+DTSTART:20250329T120000
+DTEND:20250329T140000
+SUMMARY:Trans Joy Resource Fair
+LOCATION:Old Town Square\, Fort Collins\, CO
+DESCRIPTION:Join us for a heartwarming day of celebration\, support\, & co
+ mmunity. We’re bringing together amazing local trans artists\, creators\
+ , and nonprofit resources to highlight both the needs and the joys of our 
+ transgender community.\n\nOld Town\, Fort Collins
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Old+Town+Squ
+ are%2C+Fort+Collins%2C+CO&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

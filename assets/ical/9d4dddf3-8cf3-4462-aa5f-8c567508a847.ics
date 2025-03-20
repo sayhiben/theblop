@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:4064c5d2-6168-4e08-91b7-06d205a04fa9
+SEQUENCE:0
+DTSTAMP:20250320T090421Z
+DTSTART:20250322T120000
+DTEND:20250322T140000
+SUMMARY:Protect Your Parks Protest
+LOCATION:\, Nationwide\, Nationwide
+DESCRIPTION:We invite you to join us for a nationwide protest at national 
+ parks and monuments on March 22nd at 12 PM. Bring signs\, flags\, flyers\,
+  and banners to raise awareness about our federal lands.\n\nEntrance of th
+ e closest national park or monument
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+Nationwi
+ de%2C+Nationwide&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

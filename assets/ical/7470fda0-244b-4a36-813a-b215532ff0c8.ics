@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:b44436e7-1c3f-4413-b848-0fba716406e1
+SEQUENCE:0
+DTSTAMP:20250320T090421Z
+DTSTART:20250322T140000
+DTEND:20250322T160000
+SUMMARY:Wisconsin Protest: Unite Against Genocide
+LOCATION:920 N Water St\, Milwaukee\, WI
+DESCRIPTION:We are gathering to unite against genocide and show solidarity
+  with Palestine.\n\nRed Arrow Park
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=920+N+Water+
+ St%2C+Milwaukee%2C+WI&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

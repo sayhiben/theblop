@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:f142a9e0-47ae-41e0-b484-59dc2dbe68de
+SEQUENCE:0
+DTSTAMP:20250320T090421Z
+DTSTART:20250405T110000
+DTEND:20250405T130000
+SUMMARY:Nationwide Day of Protest
+LOCATION:Reid Park\, 22nd & Randolph\, Tucson\, AZ
+DESCRIPTION:Join Indivisible Tucson Action Alliance for a peaceful protest
+  aimed at addressing corruption\, reversing damage\, and reclaiming democr
+ acy. Wear white as a symbol of peace.\n\nReid Park
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Reid+Park%2C
+ +22nd+%26+Randolph%2C+Tucson%2C+AZ&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

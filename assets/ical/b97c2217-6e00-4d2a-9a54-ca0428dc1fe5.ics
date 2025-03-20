@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:7ef3a0ee-12ec-4107-ab0e-0bef1db7902f
+SEQUENCE:0
+DTSTAMP:20250320T090421Z
+DTSTART:20250328T110000
+DTEND:20250328T130000
+SUMMARY:March for Justice
+LOCATION:1700 W Washington St\, Phoenix\, AZ
+DESCRIPTION:We are organizing a march to raise awareness for missing and m
+ urdered Indigenous women and people\, focusing on unity and justice for af
+ fected communities.\n\nArizona State Capitol
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=1700+W+Washi
+ ngton+St%2C+Phoenix%2C+AZ&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

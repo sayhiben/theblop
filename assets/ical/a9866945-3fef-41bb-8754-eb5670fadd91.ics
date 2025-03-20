@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:c3a21408-6453-4616-80df-dd8137e11db1
+SEQUENCE:0
+DTSTAMP:20250320T090421Z
+DTSTART:20250405T110000
+DTEND:20250405T130000
+SUMMARY:Nationwide Day of Protest
+LOCATION:22nd & Randolph\, Tucson\, AZ
+DESCRIPTION:Join us for a protest to remove corruption\, reverse damage\, 
+ and reclaim democracy. Wear white as a symbol of peace.\n\nReid Park
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=22nd+%26+Ran
+ dolph%2C+Tucson%2C+AZ&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

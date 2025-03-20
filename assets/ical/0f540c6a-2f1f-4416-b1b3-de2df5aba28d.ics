@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:e738cdf3-8d4f-4921-afe5-0f9c6e89c125
+SEQUENCE:0
+DTSTAMP:20250320T090421Z
+DTSTART:20250322T000000
+DTEND:20250322T020000
+SUMMARY:#TeslaTakedown
+LOCATION:7329 Shallowford Rd\, Chattanooga\, TN 37421
+DESCRIPTION:TeslaTakedown event in Chattanooga\, TN\n\nShallowford Rd betw
+ een Gunbarrel Rd and Lifestyle Way
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=7329+Shallow
+ ford+Rd%2C+Chattanooga%2C+TN+37421&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

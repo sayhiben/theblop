@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:7b829d3a-3655-4088-9bc4-281be0a14cf1
+SEQUENCE:0
+DTSTAMP:20250320T090421Z
+DTSTART:20250322T130000
+DTEND:20250322T150000
+SUMMARY:Tesla Take Down - Edmonton
+LOCATION:17616 111 Ave NW\, Edmonton\, AB
+DESCRIPTION:This event is part of a campaign to boycott Tesla\, encouragin
+ g others to host similar events.\n\nTesla Edmonton
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=17616+111+Av
+ e+NW%2C+Edmonton%2C+AB&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

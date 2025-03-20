@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:3feb0f47-b104-42e8-aa00-77a140a5e42f
+SEQUENCE:0
+DTSTAMP:20250320T090421Z
+DTSTART:20250423T090000
+DTEND:20250423T110000
+SUMMARY:Lobby Day & Rally
+LOCATION:Wisconsin State Capitol 2 E Main St\, Madison\, WI
+DESCRIPTION:Wisconsin Right to Boycott calls all those who value their con
+ stitutional rights for a rally.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Wisconsin+St
+ ate+Capitol+2+E+Main+St%2C+Madison%2C+WI&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
