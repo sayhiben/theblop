@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:bcda4682-6f16-48e5-9d5e-dd6af7d8818b
+SEQUENCE:0
+DTSTAMP:20250320T180321Z
+DTSTART:20250322T130000
+DTEND:20250322T150000
+SUMMARY:End the Genocide
+LOCATION:Ida B. Wells Dr & Michigan Ave\, Chicago\, IL
+DESCRIPTION:A protest and march event organized by the Chicago Coalition f
+ or Justice in Palestine to address issues such as genocide\, free speech\,
+  deportations\, and U.S. aid to Israel.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Ida+B.+Wells
+ +Dr+%26+Michigan+Ave%2C+Chicago%2C+IL&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

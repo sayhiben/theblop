@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:55330b8e-f3eb-40ba-b3d7-1ee6d18e3107
+SEQUENCE:0
+DTSTAMP:20250320T180321Z
+DTSTART:20250331T000000
+DTEND:20250331T020000
+SUMMARY:Trans Day of Visibility
+LOCATION:George Washington Statue\, Union Square Park\, New York\, NY
+DESCRIPTION:We invite you to join us for the Trans Day of Visibility at th
+ e George Washington Statue in Union Square Park\, hosted by NYC Youth 4 Tr
+ ans Rights. Follow us on Instagram for more information.\n\nGeorge Washing
+ ton Statue
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=George+Washi
+ ngton+Statue%2C+Union+Square+Park%2C+New+York%2C+NY&zoom=15&basemap=roadma
+ p
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

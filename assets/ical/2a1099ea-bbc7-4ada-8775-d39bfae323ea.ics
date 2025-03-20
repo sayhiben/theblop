@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:0b346676-b386-4294-9fb2-984dae68492d
+SEQUENCE:0
+DTSTAMP:20250320T180321Z
+DTSTART:20250323T150000
+DTEND:20250323T170000
+SUMMARY:Town Hall Meeting
+LOCATION:203 E. Walworth St.\, Elkhorn\, WI
+DESCRIPTION:Join us to voice your opinions and concerns about your future 
+ and what's happening in Washington.\n\nUncle Hunk's Junk Building
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=203+E.+Walwo
+ rth+St.%2C+Elkhorn%2C+WI&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

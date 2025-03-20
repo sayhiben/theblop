@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:e7c5d867-b915-4db3-aee3-bb10a58308ed
+SEQUENCE:0
+DTSTAMP:20250320T180321Z
+DTSTART:20250405T120000
+DTEND:20250405T140000
+SUMMARY:Hands Off!
+LOCATION:605 Esther St\, Vancouver\, WA
+DESCRIPTION:We are organizing a protest aimed at removing corrupt politici
+ ans\, reversing damage\, and reclaiming democracy. The event focuses on pr
+ otecting public services and rights.\n\nEsther Short Park
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=605+Esther+S
+ t%2C+Vancouver%2C+WA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

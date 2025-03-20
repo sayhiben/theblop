@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:51f36806-df50-407c-ba31-f5f8191bdeb9
+SEQUENCE:0
+DTSTAMP:20250320T180321Z
+DTSTART:20250405T120000
+DTEND:20250405T140000
+SUMMARY:Replace Reverse Reclaim
+LOCATION:500 E 4th Ave.\, Eugene\, OR
+DESCRIPTION:Join us to replace corrupt politicians\, reverse the damage\, 
+ and reclaim our democracy. This protest is part of a nationwide movement a
+ cross 50 states.\n\nEugene City Hall
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=500+E+4th+Av
+ e.%2C+Eugene%2C+OR&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

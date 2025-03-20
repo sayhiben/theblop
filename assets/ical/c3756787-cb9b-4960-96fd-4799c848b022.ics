@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:b4a0e3e1-02f6-4569-bfcd-9212866bee59
+SEQUENCE:0
+DTSTAMP:20250320T180321Z
+DTSTART:20250331T160000
+DTEND:20250331T180000
+SUMMARY:March for Trans Day of Visibility 2025
+LOCATION:Union Square\, New York\, NY
+DESCRIPTION:Join us for the March for Trans Day of Visibility organized by
+  NYC Youth 4 Trans Rights\, featuring a gathering at Union Square to suppo
+ rt and celebrate visibility for trans rights.\n\nUnion Square
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Union+Square
+ %2C+New+York%2C+NY&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
