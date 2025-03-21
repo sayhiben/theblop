@@ -287,6 +287,7 @@ Description: ${event.Description}
               <img
                 src={`${baseAssetPath}/${localThumbnail}`}
                 alt="Event Flyer"
+                loading="lazy"
                 className="object-cover w-full h-67"
               />
             </a>
