@@ -2,18 +2,19 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:64e7ee9d-2b2a-4f3b-8357-79213098f499
+UID:fd4030a9-ae8c-404a-ab5c-43faa14182d0
 SEQUENCE:0
-DTSTAMP:20250321T031238Z
+DTSTAMP:20250321T051501Z
 DTSTART:20250405T150000
 DTEND:20250405T170000
 SUMMARY:March to Protect Democracy
-LOCATION:206 Washington St.\, S.W.\n\, Atlanta\, GA
+LOCATION:371 10th St NE\, Atlanta\, GA
 DESCRIPTION:Join us for a march to protect democracy\, focusing on justice
  \, fairness\, and vigilance. Stay heard. Stay seen. March with us.\n\nNEW 
- LOCATION AS OF MARCH 18: Joining with Indivisible at the Capitol.
-URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=206+Washingt
- on+St.%2C+S.W.%0A%2C+Atlanta%2C+GA&zoom=15&basemap=roadmap
+ LOCATION AS OF MARCH 18: Oak Hill (Piedmont Park). 371 10th St NE\, Atlant
+ a\, GA 30309\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=371+10th+St+
+ NE%2C+Atlanta%2C+GA&zoom=15&basemap=roadmap
 STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

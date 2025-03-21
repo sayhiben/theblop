@@ -2,19 +2,19 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:2cd6fc86-777f-4391-8258-c536ca26d26b
+UID:976ef248-cc9b-435e-a03b-0e1d02fd6f64
 SEQUENCE:0
-DTSTAMP:20250321T031238Z
+DTSTAMP:20250321T051501Z
 DTSTART:20250322T110000
 DTEND:20250322T130000
 SUMMARY:Protect our Parks Protest
-LOCATION:\, \, CA
+LOCATION:\, Pinnacles National Park\, CA
 DESCRIPTION:Join us for the Protect Our Parks Protest at Pinnacles Nationa
  l Park. Bring your family and friends to support our public lands. Partici
  pate by bringing signs\, bringing great energy\, and writing postcards to 
  thank park rangers for their amazing work.\n\nPinnacles National Park
-URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+%2C+CA&z
- oom=15&basemap=roadmap
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+Pinnacle
+ s+National+Park%2C+CA&zoom=15&basemap=roadmap
 STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

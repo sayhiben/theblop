@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:37b1c7dd-5c59-4bbe-a959-05e842294624
+SEQUENCE:0
+DTSTAMP:20250321T051501Z
+DTSTART:20250322T113000
+DTEND:20250322T133000
+SUMMARY:Democracy in Distress
+LOCATION:306 Federal Building\, 657 2nd Avenue North\, Fargo\, ND
+DESCRIPTION:Show Senator Cramer that you are concerned about issues threat
+ ening democracy. Join us to express our concerns and advocate for democrat
+ ic values.\n\n306 Federal Building
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=306+Federal+
+ Building%2C+657+2nd+Avenue+North%2C+Fargo%2C+ND&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

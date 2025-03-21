@@ -2,16 +2,16 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:b54d5ea6-3ea9-4c6f-934f-42a1114103ad
+UID:f48b23e1-6738-4f30-8fbd-99acfef40bd6
 SEQUENCE:0
-DTSTAMP:20250321T031238Z
-DTSTART:20250405T120000
-DTEND:20250405T140000
-SUMMARY:Remove Reverse Reclaim Protest
+DTSTAMP:20250321T051501Z
+DTSTART:20250405T110000
+DTEND:20250405T130000
+SUMMARY:[[ NEW TIME: 11AM ]] Remove Reverse Reclaim Protest
 LOCATION:1310 10th St\, Sacramento\, CA
 DESCRIPTION:Join us in Sacramento as we aim to remove corrupt politicians 
  from office\, reverse the damage\, and reclaim our democracy. Together we 
- are stronger!\n\nState Capitol
+ are stronger!\n\nState Capitol - NEW TIME: 11AM
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=1310+10th+St
  %2C+Sacramento%2C+CA&zoom=15&basemap=roadmap
 STATUS:CONFIRMED

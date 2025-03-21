@@ -2,19 +2,19 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:1cb35ff5-3938-43f3-bece-e60a8afc8788
+UID:190f5c5b-cf24-4aad-9d25-f3b1cbd555db
 SEQUENCE:0
-DTSTAMP:20250321T031238Z
+DTSTAMP:20250321T051501Z
 DTSTART:20250329T120000
 DTEND:20250329T140000
 SUMMARY:Protest & Boycott Against Elon Musk
-LOCATION:\, \, Nationwide
+LOCATION:\, Nationwide\, Nationwide
 DESCRIPTION:Join us for a protest against Elon Musk by gathering at all Te
  sla dealerships and manufacturing facilities. Additional calls to action i
  nclude selling Tesla stock and trading in Tesla vehicles.\n\nAll Tesla Dea
  lerships & Manufacturing Facilities
-URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+%2C+Nati
- onwide&zoom=15&basemap=roadmap
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+Nationwi
+ de%2C+Nationwide&zoom=15&basemap=roadmap
 STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR
