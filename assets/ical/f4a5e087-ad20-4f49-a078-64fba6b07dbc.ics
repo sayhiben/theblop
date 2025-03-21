@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:822dc723-a205-4bd4-8d14-6fd84cbe6f0c
+SEQUENCE:0
+DTSTAMP:20250321T090709Z
+DTSTART:20250405T090000
+DTEND:20250405T110000
+SUMMARY:Hands Off! Tampa Fights Back
+LOCATION:315 E Kennedy Blvd\, Tampa\, FL
+DESCRIPTION:This event is a mass mobilization rally against policies assoc
+ iated with Donald Trump and Elon Musk. We aim to protest the destruction o
+ f the government and economy for the benefit of billionaire allies. Our ac
+ tions are based on nonviolent principles.\n\nTampa City Hall
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=315+E+Kenned
+ y+Blvd%2C+Tampa%2C+FL&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

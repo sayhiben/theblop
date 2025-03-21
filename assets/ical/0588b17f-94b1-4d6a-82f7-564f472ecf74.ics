@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:9e7a389d-b8da-4356-926e-53292ccadddd
+SEQUENCE:0
+DTSTAMP:20250321T090709Z
+DTSTART:20250322T120000
+DTEND:20250322T140000
+SUMMARY:Trump Comes to Philadelphia
+LOCATION:Wells Fargo Center\, Zinkoff Boulevard\, Philadelphia\, PA
+DESCRIPTION:We are organizing a protest against Trump at the NCAA Wrestlin
+ g Championship. McCormick will also be attending.\n\nWells Fargo Center
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Wells+Fargo+
+ Center%2C+Zinkoff+Boulevard%2C+Philadelphia%2C+PA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

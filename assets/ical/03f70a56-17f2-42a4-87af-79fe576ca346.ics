@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:e07eea07-7cfa-4851-9741-fe3226684eda
+SEQUENCE:0
+DTSTAMP:20250321T090708Z
+DTSTART:20250321T183000
+DTEND:20250321T203000
+SUMMARY:Rally for Gaza
+LOCATION:Devon / Claremont
+DESCRIPTION:Join us for a rally and speakout for Gaza on March 21 at Devon
+  and Claremont. We aim to address the recent events in Gaza and stand in s
+ olidarity.\n\nDevon and Claremont
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Devon+%2F+Cl
+ aremont&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

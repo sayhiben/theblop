@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:114d50ab-405e-446d-ab14-ced333971cb8
+SEQUENCE:0
+DTSTAMP:20250321T090709Z
+DTSTART:20250322T130000
+DTEND:20250322T150000
+SUMMARY:WE THE PEOPLE DISSENT
+LOCATION:Hart Plaza\, Detroit\, MI
+DESCRIPTION:Participants are encouraged to join a protest in Detroit and w
+ ave to Canadian protesters. The emphasis is on public dissent and solidari
+ ty.\n\nHart Plaza
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Hart+Plaza%2
+ C+Detroit%2C+MI&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

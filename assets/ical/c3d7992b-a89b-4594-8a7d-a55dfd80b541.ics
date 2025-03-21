@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:dbcdcfb0-501d-4b2c-a192-8cf23e911f00
+SEQUENCE:0
+DTSTAMP:20250321T090708Z
+DTSTART:20250321T150000
+DTEND:20250321T170000
+SUMMARY:Peaceful Protest at Southside Indianapolis Tesla
+LOCATION:5290 Claybrooke Cmns Dr\, Indianapolis\, IN
+DESCRIPTION:Join us for a peaceful protest at the Southside Indianapolis T
+ esla dealership\, organized by Indivisible. Volunteer participation is enc
+ ouraged.\n\nTesla Dealership
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=5290+Claybro
+ oke+Cmns+Dr%2C+Indianapolis%2C+IN&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

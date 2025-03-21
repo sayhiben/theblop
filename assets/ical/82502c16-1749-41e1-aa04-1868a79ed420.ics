@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:01f3932b-deda-47c2-bd77-0d8c7fb51f3a
+SEQUENCE:0
+DTSTAMP:20250321T090709Z
+DTSTART:20250405T120000
+DTEND:20250405T140000
+SUMMARY:Hands Off! West Michigan Fights Back
+LOCATION:\, West Michigan\, MI
+DESCRIPTION:We are organizing a mass mobilization in West Michigan to prot
+ est against the power grabs of Trump and Musk. The event emphasizes nonvio
+ lent action as we fight to reclaim our rights and services.\n\nAddress is 
+ private
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+West+Mic
+ higan%2C+MI&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

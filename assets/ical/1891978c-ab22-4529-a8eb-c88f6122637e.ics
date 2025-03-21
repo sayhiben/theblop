@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:c7cd5a21-5dcc-4186-96d7-43d7a6b1de1c
+SEQUENCE:0
+DTSTAMP:20250321T090708Z
+DTSTART:20250321T150000
+DTEND:20250321T170000
+SUMMARY:Protest Against Billionaires
+LOCATION:32411 Golden Lantern\, Laguna Niguel\, CA
+DESCRIPTION:We are gathering to protest the influence of billionaires over
+  our government. Join us to stand for workers' rights.\n\nGather at Golden
+  Spoon Frozen Yogurt
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=32411+Golden
+ +Lantern%2C+Laguna+Niguel%2C+CA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:7a77e8c0-37fb-414c-b692-b0783a6fe552
+SEQUENCE:0
+DTSTAMP:20250321T090709Z
+DTSTART:20250322T113000
+DTEND:20250322T133000
+SUMMARY:Show Sen. Cramer That You Are Concerned
+LOCATION:306 Federal Bldg\, 657 2nd Avenue North\, Fargo\, ND
+DESCRIPTION:Join us to express our concerns about the current situation to
+  Senator Cramer\, as we feel scared and concerned.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=306+Federal+
+ Bldg%2C+657+2nd+Avenue+North%2C+Fargo%2C+ND&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

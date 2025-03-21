@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:23eb84ac-c6c2-44bf-9349-7b82d149c3b5
+SEQUENCE:0
+DTSTAMP:20250321T090709Z
+DTSTART:20250322T120000
+DTEND:20250322T140000
+SUMMARY:Emergency Action: All Out for Gaza
+LOCATION:Mestizo-Curtis Park\, Denver\, CO
+DESCRIPTION:We need all of our people in the streets to stand up and fight
+  in response to the events in Gaza.\n\nMestizo-Curtis Park
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Mestizo-Curt
+ is+Park%2C+Denver%2C+CO&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

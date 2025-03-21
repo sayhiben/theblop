@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:b7553a9b-a0ac-4a2e-8a5c-48b3f51190b6
+SEQUENCE:0
+DTSTAMP:20250321T090709Z
+DTSTART:20250322T120000
+DTEND:20250322T140000
+SUMMARY:Rally & Learn
+DESCRIPTION:Join us for the Rally & Learn event focused on protecting publ
+ ic lands. Ready for round 2\, this gathering continues the mission to safe
+ guard our parks.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=&zoom=15&bas
+ emap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

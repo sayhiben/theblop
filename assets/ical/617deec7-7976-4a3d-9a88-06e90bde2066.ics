@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:cd716ac2-2df0-45e7-baa5-b5ad4c95a3a1
+SEQUENCE:0
+DTSTAMP:20250321T090709Z
+DTSTART:20250323T140000
+DTEND:20250323T160000
+SUMMARY:Montreal Protest
+LOCATION:1134 Saint-Catherine St W\, Montreal\, QC
+DESCRIPTION:We are organizing a protest against the siege on Gaza\, callin
+ g for a ceasefire. Join us to show solidarity and make our voices heard.\n
+ \nUS Consulate
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=1134+Saint-C
+ atherine+St+W%2C+Montreal%2C+QC&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

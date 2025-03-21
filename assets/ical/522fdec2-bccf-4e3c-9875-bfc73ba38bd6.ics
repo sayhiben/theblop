@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:a18ab6ae-b11b-4b99-ab18-53f07e455b4c
+SEQUENCE:0
+DTSTAMP:20250321T090709Z
+DTSTART:20250322T110000
+DTEND:20250322T130000
+SUMMARY:Rally & Press Conference
+LOCATION:Eisenhower Park\, Field 2\, Long Island\, NY
+DESCRIPTION:Join us for a rally and press conference to support our negoti
+ ations with National Grid. Wear IBEW gear and red to show solidarity\, as 
+ we unite with other unions and officials.\n\nField 2
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Eisenhower+P
+ ark%2C+Field+2%2C+Long+Island%2C+NY&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

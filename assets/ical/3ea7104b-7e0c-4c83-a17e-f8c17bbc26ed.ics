@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:51abd7a7-7806-416f-96d3-94ef9927a34a
+SEQUENCE:0
+DTSTAMP:20250321T090709Z
+DTSTART:20250322T170000
+DTEND:20250322T190000
+SUMMARY:Anti-Fascist Tailgate
+LOCATION:Pattison Ave sidewalk between Broad St & S 11th St\, Philadelphia
+ \, PA
+DESCRIPTION:Join us for a peaceful protest as we hold an 'Anti-Fascist Tai
+ lgate' to give Trump a real Philly welcome during his visit to the NCAA wr
+ estling championship. The gathering will include a special wrestling match
+ : 'His Orangeness vs. OUR Orangeness'.\n\nAcross from Tackle Statue
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Pattison+Ave
+ +sidewalk+between+Broad+St+%26+S+11th+St%2C+Philadelphia%2C+PA&zoom=15&bas
+ emap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

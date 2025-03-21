@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:6d6fdd91-494a-4ede-8b5b-ed418d22a06f
+SEQUENCE:0
+DTSTAMP:20250321T090709Z
+DTSTART:20250324T120000
+DTEND:20250324T140000
+SUMMARY:Women's March Poster Design Day
+LOCATION:Center for Leadership & Development\, located in the Student Cent
+ er\, Sacramento\, CA
+DESCRIPTION:Join us to make posters for Fem Fest. Supplies are provided. B
+ ring your creativity and passion to design signs celebrating women.\n\nCen
+ ter for Leadership & Development
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Center+for+L
+ eadership+%26+Development%2C+located+in+the+Student+Center%2C+Sacramento%2
+ C+CA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

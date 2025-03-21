@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:23b683f2-0fab-4a4a-9941-c6ef9eb71949
+SEQUENCE:0
+DTSTAMP:20250321T090709Z
+DTSTART:20250518T130000
+DTEND:20250518T150000
+SUMMARY:MAYDAY! AMERICA
+LOCATION:Security Blvd.\, Woodlawn\, MD
+DESCRIPTION:Join us for "One big F'in rally" at SSA HQ in Woodlawn\, MD.\n
+ \nSSA HQ
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Security+Blv
+ d.%2C+Woodlawn%2C+MD&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

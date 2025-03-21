@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:2079800e-144e-4593-bac7-5877ae2ce4d5
+SEQUENCE:0
+DTSTAMP:20250321T090709Z
+DTSTART:20250323T130000
+DTEND:20250323T150000
+SUMMARY:Rally to Save USPS
+LOCATION:701 SW 6th Ave.\, Portland\, OR
+DESCRIPTION:Join us to stand with letter carriers against dismantling the 
+ postal service in a rally organized by NALC Branch 82.\n\nPioneer Courthou
+ se Square
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=701+SW+6th+A
+ ve.%2C+Portland%2C+OR&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

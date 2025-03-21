@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:1bf09ce9-0e72-41db-a886-9cf318bfe1e4
+SEQUENCE:0
+DTSTAMP:20250321T090709Z
+DTSTART:20250406T140000
+DTEND:20250406T160000
+SUMMARY:Commit to a Cause Open House
+LOCATION:\, Washington\, DC
+DESCRIPTION:Join us for an opportunity to connect with local organizations
+  and activists making a difference. Learn how to support causes you care a
+ bout through volunteer opportunities and community engagement. RSVP requir
+ ed.\n\nRhizome DC
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+Washingt
+ on%2C+DC&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

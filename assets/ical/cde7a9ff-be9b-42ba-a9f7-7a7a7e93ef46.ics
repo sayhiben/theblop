@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:daf8372e-d8a2-435f-8cc2-d68716927d42
+SEQUENCE:0
+DTSTAMP:20250321T090709Z
+DTSTART:20250405T130000
+DTEND:20250405T150000
+SUMMARY:HANDS OFF Mass Mobilization
+LOCATION:E. Sims Way behind the Garden Center\, Port Townsend\, WA
+DESCRIPTION:Join the national HANDS OFF Mass Mobilization protest against 
+ policies affecting various social issues. It's a strictly peaceful event o
+ rganized by Indivisible Port Townsend.\n\nE. Sims Way at the readerboard b
+ ehind the Garden Center
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=E.+Sims+Way+
+ behind+the+Garden+Center%2C+Port+Townsend%2C+WA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

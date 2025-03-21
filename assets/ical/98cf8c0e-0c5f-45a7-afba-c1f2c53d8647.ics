@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:9675f6f3-a1bd-476d-aa78-71f997e4313b
+SEQUENCE:0
+DTSTAMP:20250321T090709Z
+DTSTART:20250330T080000
+DTEND:20250330T100000
+SUMMARY:MI Resist Events
+LOCATION:Lansing Capitol\, Lansing\, MI
+DESCRIPTION:We connect people with organizers and mutual aid efforts throu
+ gh various events to empower communities in advocating for their causes.\n
+ \nSee individual events for specific locations
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Lansing+Capi
+ tol%2C+Lansing%2C+MI&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

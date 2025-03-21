@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:6e389adf-f529-4636-ba04-94d486cebc5a
+SEQUENCE:0
+DTSTAMP:20250321T090709Z
+DTSTART:20250322T120000
+DTEND:20250322T140000
+SUMMARY:Not Above the Law
+LOCATION:Shelburne Road\, South Burlington\, VT
+DESCRIPTION:We are organizing a protest specifically to communicate disapp
+ roval of the presidential administration. His executive overreach and unco
+ nstitutional actions pose a threat to America's democracy. We need to stan
+ d against actions in opposition to federal court orders which are unaccept
+ able. If unable to act within the law\, there are calls for resignation or
+  impeachment.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Shelburne+Ro
+ ad%2C+South+Burlington%2C+VT&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:8ad1cb56-4c54-41d5-9f29-66898607f736
+SEQUENCE:0
+DTSTAMP:20250321T090709Z
+DTSTART:20250325T133000
+DTEND:20250325T153000
+SUMMARY:Protect with Pride: Invest in TGNC New Yorkers
+LOCATION:4th Floor of Capitol Building Outside of the Senate Gallery\, Alb
+ any\, NY
+DESCRIPTION:Join us to speak out for the rights of TGNC New Yorkers. Our c
+ ommunity demands include expanding the Lorena Borjas Transgender Wellness 
+ & Equity Fund to $8 Million\, creating a Gender Affirming Care Contingency
+  Fund of at least $50 Million\, and maintaining increased funding in HIV+ 
+ assistance\, mental health services\, youth development\, and housing acce
+ ss.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=4th+Floor+of
+ +Capitol+Building+Outside+of+the+Senate+Gallery%2C+Albany%2C+NY&zoom=15&ba
+ semap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

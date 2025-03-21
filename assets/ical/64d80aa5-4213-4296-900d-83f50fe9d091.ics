@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:3b670b30-f505-47d1-9c67-0f86b1f8b90c
+SEQUENCE:0
+DTSTAMP:20250321T090709Z
+DTSTART:20250327T080000
+DTEND:20250327T100000
+SUMMARY:Yesler & I-5 Overpass Bannering Team
+LOCATION:Yesler Way\, Seattle\, WA
+DESCRIPTION:Backbone is expanding its bannering activities by increasing t
+ he number of locations and volunteer participants. The event aims to deplo
+ y banners at the Yesler & I-5 Overpass in Seattle. Volunteers are encourag
+ ed to join to help promote political messages.\n\nYesler & I-5 Overpass
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Yesler+Way%2
+ C+Seattle%2C+WA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

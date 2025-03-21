@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:735bfef1-360e-40c7-87e7-50433ab07734
+SEQUENCE:0
+DTSTAMP:20250321T090708Z
+DTSTART:20250321T110000
+DTEND:20250321T130000
+SUMMARY:Protesting Tillis luncheon
+LOCATION:2500 Glenwood Ave\, Raleigh\, NC
+DESCRIPTION:We are organizing a nonviolent protest outside the Tillis lunc
+ heon\, where Senator Budd is also expected. Participants are encouraged to
+  create signs. Gene and Rebekah will be present to address any questions.\
+ n\nGrassy strip in front of the country club on Glenwood Ave
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=2500+Glenwoo
+ d+Ave%2C+Raleigh%2C+NC&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

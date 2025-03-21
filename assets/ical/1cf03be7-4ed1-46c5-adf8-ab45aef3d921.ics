@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:15ee8383-64a9-47a6-8eec-843894369a2d
+SEQUENCE:0
+DTSTAMP:20250321T090709Z
+DTSTART:20250323T140000
+DTEND:20250323T160000
+SUMMARY:HELL NO: To Dismantling the Postal Service
+LOCATION:Broadway Blvd (47th and Main)\, Kansas City\, MO
+DESCRIPTION:We invite everyone to stand together against the dismantling o
+ f the Postal Service. Join union members and concerned citizens at Mill Cr
+ eek Park for a rally to support postal workers and stop the attacks.\n\nMi
+ ll Creek Park "South End" West of 47th & Main
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Broadway+Blv
+ d+%2847th+and+Main%29%2C+Kansas+City%2C+MO&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

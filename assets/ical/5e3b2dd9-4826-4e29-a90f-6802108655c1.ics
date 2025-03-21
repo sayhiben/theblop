@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:ca0daa5f-72ed-4c81-a1d6-aa28b0c02768
+SEQUENCE:0
+DTSTAMP:20250321T090709Z
+DTSTART:20250405T120000
+DTEND:20250405T140000
+SUMMARY:The day we take it back
+LOCATION:\, Nationwide\, Nationwide
+DESCRIPTION:Join us as we march to reclaim what is ours. Gathering at noon
+ \, the march will take place at the National Mall and every state capitol.
+ \n\nThe National Mall & every state capitol
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+Nationwi
+ de%2C+Nationwide&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

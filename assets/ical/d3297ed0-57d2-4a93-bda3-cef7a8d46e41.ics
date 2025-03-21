@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:b10f032e-0309-4b25-a2d1-79c57b18ae2a
+SEQUENCE:0
+DTSTAMP:20250321T090708Z
+DTSTART:20250321T120000
+DTEND:20250321T140000
+SUMMARY:People's March - Juneau\, AK
+LOCATION:123 4th Street\, Juneau\, AK
+DESCRIPTION:Join us for a march advocating for rights\, democracy\, and a 
+ united community. The event includes speeches from leaders and guidelines 
+ for a peaceful protest.\n\nDimond Courthouse
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=123+4th+Stre
+ et%2C+Juneau%2C+AK&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

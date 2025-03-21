@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:da422c63-4ec5-47e6-8bcf-498f6eacf48d
+SEQUENCE:0
+DTSTAMP:20250321T090709Z
+DTSTART:20250323T140000
+DTEND:20250323T160000
+SUMMARY:END THE SIEGE LET GAZA BREATHE
+LOCATION:1134 Saint-Catherine St W\, Montreal\, QC
+DESCRIPTION:We are holding a protest at the US Consulate to call for a cea
+ sefire in Gaza.\n\nUS Consulate
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=1134+Saint-C
+ atherine+St+W%2C+Montreal%2C+QC&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

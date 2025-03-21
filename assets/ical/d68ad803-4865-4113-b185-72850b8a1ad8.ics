@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:23a7cc2d-c2f0-450b-a79f-7944228b0392
+SEQUENCE:0
+DTSTAMP:20250321T090708Z
+DTSTART:20250321T100000
+DTEND:20250321T120000
+SUMMARY:Rally for Democracy\, Bay City\, TX
+LOCATION:1700 7th Street\, Bay City\, TX
+DESCRIPTION:Peaceful Rally for Democracy in Bay City\, Texas (SW of Housto
+ n near the Gulf of Mexico). We'll have guest speakers\, and bring your sig
+ ns (or we'll have supplies so you can make them there). We will be set up 
+ on the grounds on the north side of the courthouse.\n\nMatagorda County Co
+ urthouse
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=1700+7th+Str
+ eet%2C+Bay+City%2C+TX&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

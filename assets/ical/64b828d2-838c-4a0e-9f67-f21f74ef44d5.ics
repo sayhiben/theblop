@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:b165470d-a891-4bef-a9b6-2ad052330471
+SEQUENCE:0
+DTSTAMP:20250321T090709Z
+DTSTART:20250322T120000
+DTEND:20250322T140000
+SUMMARY:Trump Comes to Philadelphia
+LOCATION:Wells Fargo Center\, Zinkoff Boulevard\, Philadelphia\, PA
+DESCRIPTION:Join SwingPA at the Wells Fargo Center in Philadelphia for a p
+ rotest event\, emphasizing political movements and the potential impeachme
+ nt at the NCAA Wrestling Championship\, with McCormick also attending.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Wells+Fargo+
+ Center%2C+Zinkoff+Boulevard%2C+Philadelphia%2C+PA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

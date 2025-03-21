@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:b2460ed4-5e63-4f19-ac37-1574201f391a
+SEQUENCE:0
+DTSTAMP:20250321T090709Z
+DTSTART:20250322T140000
+DTEND:20250322T160000
+SUMMARY:PEACEFUL MARCHES OF VETERANS
+LOCATION:\, Nationwide\, Nationwide
+DESCRIPTION:Join us for the PEACEFUL MARCHES OF VETERANS\, a nationwide pr
+ otest against potential future V.A. benefit\, service\, and staffing cuts.
+  Meet at the closest intersection near your local VFW\, but stay off their
+  grounds. Marching on VFW property is prohibited. Bring water\, appropriat
+ e clothing\, and protest signs. Don't bring pets.\n\nClosest intersection 
+ near VFW
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+Nationwi
+ de%2C+Nationwide&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

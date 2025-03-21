@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:41b7c19e-7ca3-490e-a77c-d602b14c17bd
+SEQUENCE:0
+DTSTAMP:20250321T090709Z
+DTSTART:20250322T120000
+DTEND:20250322T140000
+SUMMARY:Don't Miss Round Two!
+LOCATION:Lions Park\, Moab\, UT
+DESCRIPTION:Join us for the Protect the Parks Protest at Arches National P
+ ark. Park at Lions Park and walk or bike to Arches. Engage in activities l
+ ike teaching each other how to contact representatives\, storytelling abou
+ t public lands\, and setting up various protest stations.\n\nWalk bike pat
+ h to Arches National Park
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Lions+Park%2
+ C+Moab%2C+UT&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:35cc980f-f507-401f-9c45-2480b691e2cd
+SEQUENCE:0
+DTSTAMP:20250321T090709Z
+DTSTART:20250330T140000
+DTEND:20250330T160000
+SUMMARY:Trans Day of Visibility March & Rally
+LOCATION:Pride Square\, Newtown\, Sydney\, AUS
+DESCRIPTION:Join us for the Trans Day of Visibility March & Rally in Sydne
+ y\, organized by Pride in Protest. Celebrate and support trans visibility 
+ with community members.\n\nPride Square
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Pride+Square
+ %2C+Newtown%2C+Sydney%2C+AUS&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

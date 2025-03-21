@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:9607445b-25d7-49e3-b37c-5e158faac71c
+SEQUENCE:0
+DTSTAMP:20250321T090709Z
+DTSTART:20250322T110000
+DTEND:20250322T130000
+SUMMARY:Rally & Press Conference
+LOCATION:Eisenhower Park\, Field #2\, Long Island\, NY
+DESCRIPTION:We invite everyone to join the rally and press conference to s
+ how solidarity as we approach the expiration of our contract with National
+  Grid. Your support with other labor unions and elected officials is cruci
+ al in demonstrating unity.\n\nEisenhower Park\, Field #2
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Eisenhower+P
+ ark%2C+Field+%232%2C+Long+Island%2C+NY&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

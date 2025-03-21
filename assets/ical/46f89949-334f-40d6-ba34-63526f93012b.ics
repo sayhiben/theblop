@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:7fbdb45f-f4fe-4c2e-9bde-45e3566a10b3
+SEQUENCE:0
+DTSTAMP:20250321T090709Z
+DTSTART:20250330T130000
+DTEND:20250330T150000
+SUMMARY:Tank Tesla
+LOCATION:East end of Strathcona Park at the Tesla Superstore site on Venab
+ les\, Vancouver\, BC
+DESCRIPTION:Join us as we take on "The Elon Musketeers" in a Tesla Takedow
+ n event. Meet at Strathcona Park for an afternoon of activism.\n\nEast end
+  of Strathcona Park
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=East+end+of+
+ Strathcona+Park+at+the+Tesla+Superstore+site+on+Venables%2C+Vancouver%2C+B
+ C&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:16ee0a5f-ced7-4624-b2b2-2ced0d474b9b
+SEQUENCE:0
+DTSTAMP:20250321T090708Z
+DTSTART:20250321T153000
+DTEND:20250321T173000
+SUMMARY:Rights Reform Protest
+LOCATION:25 Sweden St STE A\, Caribou\, ME
+DESCRIPTION:This is a people's protest against the fascist takeover of our
+  government and in support of freedom. Organized for Indivisible.\n\nSenat
+ or Susan M Collins Office
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=25+Sweden+St
+ +STE+A%2C+Caribou%2C+ME&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

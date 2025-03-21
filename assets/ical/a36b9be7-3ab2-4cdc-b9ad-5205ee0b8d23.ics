@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:2c5237c8-11c2-46a9-91f6-2ba76e501e2c
+SEQUENCE:0
+DTSTAMP:20250321T090708Z
+DTSTART:20250321T120000
+DTEND:20250321T140000
+SUMMARY:People's March - Juneau\, AK
+LOCATION:123 4th Street\, Juneau\, United States\, Juneau\, AK
+DESCRIPTION:Join Us: March for Rights\, Democracy\, and a Stronger\, Unite
+ d Community. On March 21st at noon\, gather at the state Capitol building 
+ to advocate for our rights. Together\, we'll advocate for democracy\, just
+ ice\, and a future where everyone's rights are protected. Celebrate Intern
+ ational Women's Month by marching for the People!\n\nJuneau Capitol Buildi
+ ng
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=123+4th+Stre
+ et%2C+Juneau%2C+United+States%2C+Juneau%2C+AK&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

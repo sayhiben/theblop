@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:0524ac72-079b-479d-8bc6-ef986719e796
+SEQUENCE:0
+DTSTAMP:20250321T090708Z
+DTSTART:20250321T050000
+DTEND:20250321T070000
+SUMMARY:Protest Tomorrow!
+LOCATION:32411 Golden Lantern\, Laguna Niguel\, CA
+DESCRIPTION:A protest event organized by the Democratic Women of South Ora
+ nge County.\n\nGather at Golden Spoon Frozen Yogurt
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=32411+Golden
+ +Lantern%2C+Laguna+Niguel%2C+CA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

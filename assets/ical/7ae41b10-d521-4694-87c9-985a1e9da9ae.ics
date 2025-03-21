@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:24313f64-9306-452c-a274-242f80aef883
+SEQUENCE:0
+DTSTAMP:20250321T090709Z
+DTSTART:20250322T120000
+DTEND:20250322T140000
+SUMMARY:Rally & Learn
+LOCATION:At a National Park Near You\, Nationwide\, Nationwide
+DESCRIPTION:Join us on March 22 for a "Rally & Learn" to protect national 
+ parks. Participate in storytelling and educational activities about public
+  lands and their significance.\n\nA National Park Near You
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=At+a+Nationa
+ l+Park+Near+You%2C+Nationwide%2C+Nationwide&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

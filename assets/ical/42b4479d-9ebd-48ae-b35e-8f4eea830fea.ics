@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:673dbec8-f487-4215-9819-bfe89d373971
+SEQUENCE:0
+DTSTAMP:20250321T090709Z
+DTSTART:20250322T090000
+DTEND:20250322T110000
+SUMMARY:Say No To Fascism
+LOCATION:Killingly Commons\, Sidewalk in front of Taco Bell\, Dayville\, C
+ T
+DESCRIPTION:Let's make some noise in the quiet corner!! Meet up on the sid
+ ewalk in front of Taco Bell.\n\nKillingly Commons\, Sidewalk in front of T
+ aco Bell
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Killingly+Co
+ mmons%2C+Sidewalk+in+front+of+Taco+Bell%2C+Dayville%2C+CT&zoom=15&basemap=
+ roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:db3d34d6-1ab6-46fb-87dc-cd6209be3330
+SEQUENCE:0
+DTSTAMP:20250321T090709Z
+DTSTART:20250405T140000
+DTEND:20250405T160000
+SUMMARY:Remove Reverse Reclaim Rally
+LOCATION:711 E Locust St\, Des Moines\, IA
+DESCRIPTION:Join us on April 5th to rally against political corruption and
+  executive overreach. We invite everyone to wear red in unity and bring fl
+ ags to reclaim our democracy.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=711+E+Locust
+ +St%2C+Des+Moines%2C+IA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

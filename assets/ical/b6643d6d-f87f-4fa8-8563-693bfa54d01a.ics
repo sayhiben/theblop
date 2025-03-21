@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:b2acfe2e-e3c2-4802-b13f-e2b657d34673
+SEQUENCE:0
+DTSTAMP:20250321T090709Z
+DTSTART:20250322T110000
+DTEND:20250322T130000
+SUMMARY:Tesla Takedown - Santa Rosa
+LOCATION:3286 Airway Dr\, Santa Rosa\, CA
+DESCRIPTION:You are invited to join a sign-waving event this weekend. Wher
+ e: On the sidewalk outside the Tesla showroom in Santa Rosa. 3286 Airway D
+ rive\, Santa Rosa\, CA\, 95403. What to bring: Signs to wave! Please stay 
+ on the sidewalk and do not block entrances. This is a volunteer-organized 
+ visibility event to protest Musk and Tesla.\n\nTesla Showroom
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=3286+Airway+
+ Dr%2C+Santa+Rosa%2C+CA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

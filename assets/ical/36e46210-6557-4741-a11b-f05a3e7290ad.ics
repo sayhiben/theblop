@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:3a2110b3-5e99-4f24-9a08-c586f45ea051
+SEQUENCE:0
+DTSTAMP:20250321T090709Z
+DTSTART:20250322T153000
+DTEND:20250322T173000
+SUMMARY:Rally in Whitefish for Glacier National Park
+LOCATION:\, Whitefish\, MT
+DESCRIPTION:We are hosting a rally and teach-in in Whitefish to support Gl
+ acier National Park. Join us for a protest and activities like contacting 
+ representatives and making signs to advocate for public lands.\n\nViaduct 
+ (Baker Ave bridge)
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+Whitefis
+ h%2C+MT&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

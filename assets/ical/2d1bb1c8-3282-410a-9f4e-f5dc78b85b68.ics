@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:5610a44d-d9f5-41fa-b73e-327a69ea3e79
+SEQUENCE:0
+DTSTAMP:20250321T090708Z
+DTSTART:20250321T080000
+DTEND:20250321T100000
+SUMMARY:Free Mahmoud Khalil
+LOCATION:600 Camp St\, New Orleans\, New Orleans\, LA
+DESCRIPTION:Rally and picket for Mahmoud Khalil’s release\; demands agai
+ nst illegal detentions and for protecting immigrant rights.\n\nUS Court of
+  Appeals
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=600+Camp+St%
+ 2C+New+Orleans%2C+New+Orleans%2C+LA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

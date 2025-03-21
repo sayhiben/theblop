@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:3198d317-18a0-4b46-ab9b-c78cbe19b547
+SEQUENCE:0
+DTSTAMP:20250321T090709Z
+DTSTART:20250322T100000
+DTEND:20250322T120000
+SUMMARY:Consumer Protection Town Hall
+LOCATION:1141 E Jefferson St\, Phoenix\, AZ
+DESCRIPTION:Join us for a town hall meeting focused on consumer protection
+ \, hosted by Kris Mayes. Engage in discussions and learn about consumer ri
+ ghts.\n\nFirst Institutional Baptist Church
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=1141+E+Jeffe
+ rson+St%2C+Phoenix%2C+AZ&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

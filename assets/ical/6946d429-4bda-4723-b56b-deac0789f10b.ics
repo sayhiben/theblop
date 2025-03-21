@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:b09b85d5-1639-46e6-b85e-31d693119f3f
+SEQUENCE:0
+DTSTAMP:20250321T090709Z
+DTSTART:20250322T120000
+DTEND:20250322T140000
+SUMMARY:Protect the Parks Protest
+LOCATION:Lions Park to Arches National Park\, Arches National Park\, UT
+DESCRIPTION:We invite you to join us for the Protect the Parks Protest at 
+ Arches National Park. Learn about public lands\, engage in rally activitie
+ s\, and educate yourself on advocacy. Park at Lions Park and walk or bike 
+ to Arches. Share stories\, connect with representatives\, and partake in c
+ reative protest methods.\n\nLions Park
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Lions+Park+t
+ o+Arches+National+Park%2C+Arches+National+Park%2C+UT&zoom=15&basemap=roadm
+ ap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

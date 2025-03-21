@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:bbb13e4b-175a-45a6-8611-8e3ba55f4948
+SEQUENCE:0
+DTSTAMP:20250321T090709Z
+DTSTART:20250331T190000
+DTEND:20250331T210000
+SUMMARY:Virtual Rally
+LOCATION:Virtual
+DESCRIPTION:Join SW4J for a virtual rally to hear from allies in local com
+ munities\, labor\, philanthropy\, and politics. The event is a call to act
+ ion to discuss challenges facing social workers.\n\nVirtual
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Virtual&zoom
+ =15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

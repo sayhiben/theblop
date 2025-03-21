@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:d707688f-d195-42ea-9813-5b4eacc59667
+SEQUENCE:0
+DTSTAMP:20250321T090709Z
+DTSTART:20250322T093000
+DTEND:20250322T113000
+SUMMARY:Say No to the Association of Mature American Citizens
+LOCATION:15245 SW 116th Avenue\, King City\, OR
+DESCRIPTION:Join us in a protest against the Association of Mature America
+ n Citizens' first chapter meeting at the King City Clubhouse. Key speakers
+  with concerning agendas from various organizations will be present.\n\nKi
+ ng City Clubhouse
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=15245+SW+116
+ th+Avenue%2C+King+City%2C+OR&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:8a132ae5-fba7-4132-8ba4-acddc633a718
+SEQUENCE:0
+DTSTAMP:20250321T090709Z
+DTSTART:20250322T120000
+DTEND:20250322T140000
+SUMMARY:Protect Your Parks Protest & Teach-In
+LOCATION:Redwood Creek Picnic Area\, Redwood National Park
+DESCRIPTION:Join the protest and teach-in event to support Redwood Nationa
+ l Park and public lands. The focus is on education and activism\, with res
+ ources available including items to make postcards\, apps\, and volunteer 
+ opportunities.\n\nRedwood Creek Picnic Area
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Redwood+Cree
+ k+Picnic+Area%2C+Redwood+National+Park&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

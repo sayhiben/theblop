@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:5f8585c9-564b-4bd2-a394-b3715c1464a9
+SEQUENCE:0
+DTSTAMP:20250321T090709Z
+DTSTART:20250329T120000
+DTEND:20250329T140000
+SUMMARY:People's March
+LOCATION:200 East Liberty St\, Ann Arbor\, MI
+DESCRIPTION:Join us in Ann Arbor as we gather for the People's March to fi
+ ght the oligarchy. Stand with us on March 29\, 2025\, at the Federal Build
+ ing to raise our voices.\n\nFederal Building
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=200+East+Lib
+ erty+St%2C+Ann+Arbor%2C+MI&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

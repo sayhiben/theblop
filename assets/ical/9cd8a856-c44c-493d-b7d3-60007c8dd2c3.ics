@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:c9e5d67c-dc54-4a50-8a14-62f5c5e77c77
+SEQUENCE:0
+DTSTAMP:20250321T090709Z
+DTSTART:20250327T080000
+DTEND:20250327T100000
+SUMMARY:Yesler & I-5 Overpass Bantering Team
+LOCATION:Yesler Way\, Seattle\, WA
+DESCRIPTION:We are organizing an overpass bannering event to promote democ
+ racy. Volunteers are needed to help increase banner locations.\n\nYesler &
+  I-5 Overpass
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Yesler+Way%2
+ C+Seattle%2C+WA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

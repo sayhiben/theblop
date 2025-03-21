@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:977dbbf5-41a3-4c89-98ab-928a357cde02
+SEQUENCE:0
+DTSTAMP:20250321T090708Z
+DTSTART:20250321T153000
+DTEND:20250321T173000
+SUMMARY:Indivisible Northeast Indiana's “Empty-Chair” Town Hall
+LOCATION:Allen County Public Library - Main\, 900 Book Drop\, Fort Wayne\,
+  IN 46802
+DESCRIPTION:Join us for the 'Empty-Chair' Town Hall where you can share yo
+ ur concerns with special guests\, including Indiana House Minority Leader 
+ Phil GiaQuinta and State Rep. Kyle Miller. There will also be a discussion
+  by PFW Professor Noor O'Neill on higher education threats.\n\nAllen Count
+ y Public Library - Main
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Allen+County
+ +Public+Library+-+Main%2C+900+Book+Drop%2C+Fort+Wayne%2C+IN+46802&zoom=15&
+ basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

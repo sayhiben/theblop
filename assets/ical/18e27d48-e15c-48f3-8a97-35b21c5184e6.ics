@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:11366738-2c07-4a0e-ad25-82bf71106dc4
+SEQUENCE:0
+DTSTAMP:20250321T090709Z
+DTSTART:20250518T130000
+DTEND:20250518T150000
+SUMMARY:Mayday America
+LOCATION:Security Blvd.\, Woodlawn\, MD
+DESCRIPTION:Join us for a major rally at the SSA HQ in Woodlawn\, MD. It's
+  an opportunity for people to gather and participate in a significant even
+ t.\n\nSSA HQ
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Security+Blv
+ d.%2C+Woodlawn%2C+MD&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:a0b19e7d-0aae-485a-9711-039196d9e2aa
+SEQUENCE:0
+DTSTAMP:20250321T090709Z
+DTSTART:20250323T130000
+DTEND:20250323T150000
+SUMMARY:Rally to Save USPS
+LOCATION:Main Post Office\, Melbourne\, FL
+DESCRIPTION:Join us at the rally to stand with letter carriers and oppose 
+ the dismantling of the postal service.\n\nNALC Branch 2689
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Main+Post+Of
+ fice%2C+Melbourne%2C+FL&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

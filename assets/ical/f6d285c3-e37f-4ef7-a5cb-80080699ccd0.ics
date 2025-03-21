@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:fdf430c2-c2d6-4421-a3e9-a0212bc5870c
+SEQUENCE:0
+DTSTAMP:20250321T090709Z
+DTSTART:20250322T120000
+DTEND:20250322T140000
+SUMMARY:Rally & Learn
+LOCATION:\, Nationwide\, Nationwide
+DESCRIPTION:Join us on March 22 for a Rally & Learn to protect national pa
+ rks. We’ll gather at noon at a national park near you to tell stories\, 
+ learn how to contact representatives\, and participate in various advocacy
+  activities.\n\nAt a National Park Near You
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+Nationwi
+ de%2C+Nationwide&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:befcecad-350b-45d1-9d27-35eb765cb84d
+SEQUENCE:0
+DTSTAMP:20250321T090709Z
+DTSTART:20250405T000000
+DTEND:20250405T020000
+SUMMARY:Hands Off Social Security
+LOCATION:Social Security field offices\, Nationwide\, Nationwide
+DESCRIPTION:We are organizing rallies at Social Security field offices acr
+ oss the country as part of a mass mobilization on April 5th. Join us to te
+ ll influential figures to keep their hands off our earned benefits.\n\nSoc
+ ial Security field offices
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Social+Secur
+ ity+field+offices%2C+Nationwide%2C+Nationwide&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

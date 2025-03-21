@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:970c5529-82b0-4e72-9fa3-d2efda0a2af2
+SEQUENCE:0
+DTSTAMP:20250321T090709Z
+DTSTART:20250329T120000
+DTEND:20250329T140000
+SUMMARY:People's March
+LOCATION:200 East Liberty St\, Ann Arbor\, MI
+DESCRIPTION:Join us in Ann Arbor for the People's March to fight the oliga
+ rchy. Make your voice heard at the Federal Building.\n\nFederal Building
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=200+East+Lib
+ erty+St%2C+Ann+Arbor%2C+MI&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

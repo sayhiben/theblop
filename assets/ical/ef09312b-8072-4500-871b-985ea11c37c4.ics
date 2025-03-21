@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:2e97e8cf-86ba-4dd3-8e2b-7e5f636d4fa1
+SEQUENCE:0
+DTSTAMP:20250321T090709Z
+DTSTART:20250323T140000
+DTEND:20250323T160000
+SUMMARY:HELL NO: To Dismantling the Postal Service
+LOCATION:Mill Creek Park\, Broadway Blvd (47th and Main)\, Kansas City\, M
+ O
+DESCRIPTION:We need to send a message: Stand up and say HELL NO to dismant
+ ling the Postal Service. Join members of the National Association of Lette
+ r Carriers\, members of different unions\, and concerned citizens to stand
+  together and stop these attacks.\n\nMill Creek Park "South End" West of 4
+ 7th & Main
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Mill+Creek+P
+ ark%2C+Broadway+Blvd+%2847th+and+Main%29%2C+Kansas+City%2C+MO&zoom=15&base
+ map=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

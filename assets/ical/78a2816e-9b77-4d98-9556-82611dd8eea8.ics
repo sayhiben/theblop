@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:d382abf4-b338-4177-ba5d-494ed579565a
+SEQUENCE:0
+DTSTAMP:20250321T090709Z
+DTSTART:20250323T130000
+DTEND:20250323T150000
+SUMMARY:Rally to Save USPS
+LOCATION:701 SW 6th Ave.\, Portland\, OR
+DESCRIPTION:We are organizing a rally to protest against the dismantling o
+ f the postal service. Join us and stand with letter carriers to show your 
+ support.\n\nPioneer Courthouse Square
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=701+SW+6th+A
+ ve.%2C+Portland%2C+OR&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

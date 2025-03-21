@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:6fe9e373-d467-4e71-82e0-01fdc4c7ecb6
+SEQUENCE:0
+DTSTAMP:20250321T090709Z
+DTSTART:20250405T120000
+DTEND:20250405T140000
+SUMMARY:Hands Off
+LOCATION:\, Washington\, DC
+DESCRIPTION:Join us for a mass mobilization at the Washington Monument. St
+ and together to voice your opinions and participate in a significant gathe
+ ring.\n\nWashington Monument
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+Washingt
+ on%2C+DC&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

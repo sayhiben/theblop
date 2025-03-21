@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:65431813-658f-480a-88fd-4b8d6df38063
+SEQUENCE:0
+DTSTAMP:20250321T090709Z
+DTSTART:20250329T130000
+DTEND:20250329T150000
+SUMMARY:Palestinian Land Day March
+LOCATION:Northwest Corner of Powderhorn Park (E 32nd St and 10th Ave S)\, 
+ Minneapolis\, MN
+DESCRIPTION:Join us in opposing Trump's Gaza "takeover" plan. From Turtle 
+ Island to Palestine\, we stand against occupation and support self-determi
+ nation for Palestine.\n\nNorthwest Corner of Powderhorn Park (E 32nd St an
+ d 10th Ave S)
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Northwest+Co
+ rner+of+Powderhorn+Park+%28E+32nd+St+and+10th+Ave+S%29%2C+Minneapolis%2C+M
+ N&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

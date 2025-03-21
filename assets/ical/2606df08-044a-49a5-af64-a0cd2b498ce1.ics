@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:7048b378-a3ab-4d73-83bd-91021158f9eb
+SEQUENCE:0
+DTSTAMP:20250321T090709Z
+DTSTART:20250405T000000
+DTEND:20250405T020000
+SUMMARY:Hands Off Social Security
+LOCATION:\, Nationwide\, Nationwide
+DESCRIPTION:We are organizing rallies at Social Security field offices acr
+ oss the country as part of the mass mobilization on April 5th. Join us to 
+ tell Elon Musk and Donald Trump to keep their hands off our earned benefit
+ s.\n\nSocial Security field offices
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+Nationwi
+ de%2C+Nationwide&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

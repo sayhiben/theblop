@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:7cbea959-2b1d-413f-b04d-9dfedc15ab93
+SEQUENCE:0
+DTSTAMP:20250321T090709Z
+DTSTART:20250324T160000
+DTEND:20250324T180000
+SUMMARY:True North Strong
+LOCATION:US Consulates across Canadian cities.\, Nationwide\, Nationwide
+DESCRIPTION:Together we stand not just for our Sovereignty\, but in solida
+ rity with those resisting fascism across the Globe.\n\nEVERY US Consulate 
+ in Canada
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=US+Consulate
+ s+across+Canadian+cities.%2C+Nationwide%2C+Nationwide&zoom=15&basemap=road
+ map
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:2a6ca6cc-7381-4369-913c-7a765f88446c
+SEQUENCE:0
+DTSTAMP:20250321T090708Z
+DTSTART:20250321T160000
+DTEND:20250321T180000
+SUMMARY:Silently Surround Fox News Protest
+LOCATION:1211 6th Avenue\, New York\, NY
+DESCRIPTION:We are organizing a silent protest at the Fox News building. P
+ articipants will silently surround the venue\, maintaining silence and pho
+ tographing the entrance and exit. This aims to make the presence and scrut
+ iny by the public known.\n\nNews Corp. Building
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=1211+6th+Ave
+ nue%2C+New+York%2C+NY&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

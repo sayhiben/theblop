@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:154e439b-2670-49c4-821f-b0d27ce21e98
+SEQUENCE:0
+DTSTAMP:20250321T090708Z
+DTSTART:20250321T163000
+DTEND:20250321T183000
+SUMMARY:Friday's at 4:30 Protest
+LOCATION:Old Lenawee County Courthouse\, Adrian\, MI
+DESCRIPTION:We're meeting at Old Lenawee County Courthouse\, every Friday 
+ at 4:30\, to hold representatives accountable. Join us to express your vie
+ ws.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Old+Lenawee+
+ County+Courthouse%2C+Adrian%2C+MI&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

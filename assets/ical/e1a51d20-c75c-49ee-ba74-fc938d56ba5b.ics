@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:9a975eeb-ce5a-4b6b-bafc-ae3009ab1f01
+SEQUENCE:0
+DTSTAMP:20250321T090708Z
+DTSTART:20250321T160000
+DTEND:20250321T180000
+SUMMARY:Emergency March
+LOCATION:450 Main St\, Hartford\, CT
+DESCRIPTION:We are organizing a march to protect Gaza\, immigrants\, and f
+ ree speech. Join us to protest USA aid to Israel and demand the freedom of
+  Mahmoud Khalil. Bring your friends\, masks\, and noise-makers.\n\nI.C.E B
+ uilding
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=450+Main+St%
+ 2C+Hartford%2C+CT&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:7bdaf256-d8e9-4244-ac08-649fd796257d
+SEQUENCE:0
+DTSTAMP:20250321T090709Z
+DTSTART:20250329T110000
+DTEND:20250329T130000
+SUMMARY:Tesla Takedown Gold Coast
+LOCATION:78 Nerang St\, Southport QLD\, Gold Coast\, AU
+DESCRIPTION:Join us in a protest against Tesla and Elon Musk by selling yo
+ ur Teslas and dumping Tesla stock. Let's make a statement on March 29\, 20
+ 25\, at the Tesla Southport location in Gold Coast\, AU.\n\nTesla Southpor
+ t
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=78+Nerang+St
+ %2C+Southport+QLD%2C+Gold+Coast%2C+AU&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
