@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:6055b688-803a-404c-813b-c61064613fd6
+SEQUENCE:0
+DTSTAMP:20250321T060301Z
+DTSTART:20250322T120000
+DTEND:20250322T140000
+SUMMARY:Rally for Our National Parks
+LOCATION:\, Nationwide\, Nationwide
+DESCRIPTION:Join us in supporting our national parks at various locations 
+ in the Pacific Northwest. Meet at designated entrances for community gathe
+ rings\, discussions\, and activities to promote conservation and awareness
+ .\n\n[Various—Mt. Rainier National Park Nisqually Entrance\, Olympic Nat
+ ional Park Port Angeles Visitors Center\, Fort Vancouver NHS]
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+Nationwi
+ de%2C+Nationwide&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

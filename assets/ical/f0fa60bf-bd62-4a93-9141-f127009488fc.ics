@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:be2484aa-f014-4755-9080-eedf117ebd89
+SEQUENCE:0
+DTSTAMP:20250321T060301Z
+DTSTART:20250323T130000
+DTEND:20250323T150000
+SUMMARY:NO KINGS IN AMERICA - Peaceful Protest
+LOCATION:2400 E. Broad St.\, Richmond\, VA
+DESCRIPTION:We are hosting a peaceful protest at the anniversary reenactme
+ nt of Patrick Henry’s speech "Liberty or Death." Join us as we highlight
+  historical resistance and draw parallels to contemporary issues.\n\nPatri
+ ck Henry Park
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=2400+E.+Broa
+ d+St.%2C+Richmond%2C+VA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

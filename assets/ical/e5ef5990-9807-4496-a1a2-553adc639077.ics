@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:d7fc7e25-65e3-43c2-b855-97dc5701a839
+SEQUENCE:0
+DTSTAMP:20250321T060301Z
+DTSTART:20250322T120000
+DTEND:20250322T140000
+SUMMARY:Haleakalā National Park Protest
+LOCATION:Haleakalā National Park\, \, HI
+DESCRIPTION:We invite you to join us at the Haleakalā National Park Prote
+ st where we will be providing posters\, postcards\, and guidance on contac
+ ting representatives. Join our protest along with 432 other NPS units.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Haleakal%C4%
+ 81+National+Park%2C+%2C+HI&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

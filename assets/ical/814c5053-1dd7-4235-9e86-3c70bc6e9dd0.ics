@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:dc7c589b-fc1b-4898-be20-b79be47bdb3c
+SEQUENCE:0
+DTSTAMP:20250321T060301Z
+DTSTART:20250402T173000
+DTEND:20250402T193000
+SUMMARY:Townhall Meetings
+LOCATION:Chenoweth Elementary - Cafeteria\, Rivera Middle - Gymnasium\, Me
+ rced\, CA
+DESCRIPTION:We invite members of our community to attend and share thought
+ s and concerns with MCSD Administrators and Board Members. Light refreshme
+ nts and interpretation services are available.\n\nChenoweth Elementary - C
+ afeteria (March 19)\, Rivera Middle - Gymnasium (April 2)
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Chenoweth+El
+ ementary+-+Cafeteria%2C+Rivera+Middle+-+Gymnasium%2C+Merced%2C+CA&zoom=15&
+ basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

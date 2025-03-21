@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:b7a947dd-4c3d-4645-a289-81a2e24d729a
+SEQUENCE:0
+DTSTAMP:20250321T060301Z
+DTSTART:20250322T100000
+DTEND:20250322T120000
+SUMMARY:Protect Chuckwalla National Monument
+LOCATION:Downtown Park\, Palm Springs\, located on the corner of Museum Wa
+ y & Belardo Road
+DESCRIPTION:Join us for a rally and learn event to support the protection 
+ of the Chuckwalla National Monument.\n\nDowntown Park
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Downtown+Par
+ k%2C+Palm+Springs%2C+located+on+the+corner+of+Museum+Way+%26+Belardo+Road&
+ zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

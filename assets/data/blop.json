@@ -1004,6 +1004,28 @@
     "raw_summary": "The image is a flyer for a protest event against Elon Musk and Tesla. It provides the date, time, and location of the protest."
   },
   {
+    "id": "968930ee-fc4d-4c07-8971-e328530b88f3",
+    "title": "Finding Kean Fridays",
+    "date": "Friday, March 21, 2025",
+    "time": "12:00 PM",
+    "description": "We the people demand an in-person town hall at the Bernardsville Train Station. Bring your signs and friends to join the event.",
+    "city": "Bernardsville",
+    "state": "NJ",
+    "address": "Train Station",
+    "meeting_location": "Bernardsville Train Station",
+    "links": [],
+    "sponsors": [
+      "morriscountydems"
+    ],
+    "image_url": "https://theblop.org/assets/images/968930ee-fc4d-4c07-8971-e328530b88f3.jpg",
+    "thumbnail_url": "https://theblop.org/assets/images/968930ee-fc4d-4c07-8971-e328530b88f3-thumb.jpg",
+    "canonical_id": "",
+    "permalink": "https://theblop.org/events/968930ee-fc4d-4c07-8971-e328530b88f3.html",
+    "ical": "https://theblop.org/assets/ical/968930ee-fc4d-4c07-8971-e328530b88f3.ics",
+    "raw_text": "morriscountydems\nCy Curnin • How Long 'Til They Find Me\nWE THE PEOPLE DEMAND IN-PERSON TOWN HALL! FINDING KEAN FRIDAYS FRIDAY MARCH 21 AT NOON BERNARDSVILLE TRAIN STATION BRING YOUR SIGNS BRING YOUR FRIENDS",
+    "raw_summary": "A flyer for a public event called 'Finding Kean Fridays,' encouraging attendance at an in-person town hall on Friday, March 21 at noon at the Bernardsville Train Station."
+  },
+  {
     "id": "5917473e-90eb-41f8-9a08-5fb2a527f11f",
     "title": "Clínica Legal De Inmigración",
     "date": "Saturday, March 22, 2025",
@@ -4128,6 +4150,70 @@
     "raw_summary": "The flyer is a call to action for people to show their concern to Senator Cramer about issues related to \"Democracy in Distress.\" It mentions a gathering at 11:30 AM on Saturday, March 22, at 306 Federal Building, 657 2nd Avenue North, Fargo, ND."
   },
   {
+    "id": "d39893f9-f614-4c10-8820-52bd8638bfb8",
+    "title": "Protect Chuckwalla National Monument",
+    "date": "Saturday, March 22, 2025",
+    "time": "10:00 AM",
+    "description": "Join us for a rally and learn event to support the protection of the Chuckwalla National Monument.",
+    "city": "Palm Springs",
+    "state": "CA",
+    "address": "Downtown Park, Palm Springs, located on the corner of Museum Way & Belardo Road",
+    "meeting_location": "Downtown Park",
+    "links": [],
+    "sponsors": [],
+    "image_url": "https://theblop.org/assets/images/d39893f9-f614-4c10-8820-52bd8638bfb8.jpg",
+    "thumbnail_url": "https://theblop.org/assets/images/d39893f9-f614-4c10-8820-52bd8638bfb8-thumb.jpg",
+    "canonical_id": "",
+    "permalink": "https://theblop.org/events/d39893f9-f614-4c10-8820-52bd8638bfb8.html",
+    "ical": "https://theblop.org/assets/ical/d39893f9-f614-4c10-8820-52bd8638bfb8.ics",
+    "raw_text": "SATURDAY, 03/22\n10AM - 2PM\nRALLY & LEARN\nHELP PROTECT MY HOME!\nPROTECT\nCHUCKWALLA\nNATIONAL MONUMENT\nCALIFORNIA\nDOWNTOWN PARK • PALM SPRINGS\nLOCATED ON THE CORNER OF MUSEUM WAY & BELARDO ROAD\n#PROTECTCHUCKWALLA #PROTECTPUBLICLANDS #RESISTANCERANGERSJOSHUATREE",
+    "raw_summary": "The image is an event flyer for a rally to support the protection of Chuckwalla National Monument in Palm Springs, California. The event is scheduled for Saturday, March 22, from 10 AM to 2 PM, at Downtown Park."
+  },
+  {
+    "id": "e5ef5990-9807-4496-a1a2-553adc639077",
+    "title": "Haleakalā National Park Protest",
+    "date": "Saturday, March 22, 2025",
+    "time": "12:00 PM",
+    "description": "We invite you to join us at the Haleakalā National Park Protest where we will be providing posters, postcards, and guidance on contacting representatives. Join our protest along with 432 other NPS units.",
+    "city": "",
+    "state": "HI",
+    "address": "Haleakalā National Park",
+    "meeting_location": "",
+    "links": [],
+    "sponsors": [],
+    "image_url": "https://theblop.org/assets/images/e5ef5990-9807-4496-a1a2-553adc639077.jpg",
+    "thumbnail_url": "https://theblop.org/assets/images/e5ef5990-9807-4496-a1a2-553adc639077-thumb.jpg",
+    "canonical_id": "",
+    "permalink": "https://theblop.org/events/e5ef5990-9807-4496-a1a2-553adc639077.html",
+    "ical": "https://theblop.org/assets/ical/e5ef5990-9807-4496-a1a2-553adc639077.ics",
+    "raw_text": "HALEAKALĀ NATIONAL PARK PROTEST\nJoin us and 432 other NPS units on March 22nd at noon\nPosters, postcards, how to call your reps, and more!\nHAWAII\nQuestions? Contact organizers at HaleakalaResistanceRangers@gmail.com",
+    "raw_summary": "The image describes a protest event happening at Haleakalā National Park. It encourages joining forces with other NPS units, providing resources like posters and postcards, and contains an email contact for questions."
+  },
+  {
+    "id": "5ecc7d12-09e5-4433-99df-7cafa5f3bece",
+    "title": "Rally for Our National Parks",
+    "date": "Saturday, March 22, 2025",
+    "time": "12:00 PM",
+    "description": "Join us in supporting our national parks at various locations in the Pacific Northwest. Meet at designated entrances for community gatherings, discussions, and activities to promote conservation and awareness.",
+    "city": "Nationwide",
+    "state": "Nationwide",
+    "address": "",
+    "meeting_location": "[Various—Mt. Rainier National Park Nisqually Entrance, Olympic National Park Port Angeles Visitors Center, Fort Vancouver NHS]",
+    "links": [
+      "www.resistancerangers.org/events"
+    ],
+    "sponsors": [
+      "Resistance Rangers"
+    ],
+    "image_url": "https://theblop.org/assets/images/5ecc7d12-09e5-4433-99df-7cafa5f3bece.jpg",
+    "thumbnail_url": "https://theblop.org/assets/images/5ecc7d12-09e5-4433-99df-7cafa5f3bece-thumb.jpg",
+    "canonical_id": "",
+    "permalink": "https://theblop.org/events/5ecc7d12-09e5-4433-99df-7cafa5f3bece.html",
+    "ical": "https://theblop.org/assets/ical/5ecc7d12-09e5-4433-99df-7cafa5f3bece.ics",
+    "raw_text": "MARCH 22ND\nRALLY FOR OUR NATIONAL PARKS\nPACIFIC NORTHWEST LOCATIONS\n\nMT. RAINIER NATIONAL PARK\nNISQUALLY ENTRANCE\n12-2PM\n\nOLYMPIC NATIONAL PARK\nPORT ANGELES VISITORS CENTER\n12-2PM\n\nFORT VANCOUVER NHS\nCORNER OF FORT VANCOUVER WAY\nAND EVERGREEN BLVD\n12-2PM\n\nwww.resistancerangers.org/events",
+    "raw_summary": "The flyer announces a rally for national parks at several Pacific Northwest locations on March 22nd. Specific parks and meeting points include Mt. Rainier National Park, Olympic National Park, and Fort Vancouver NHS, all meeting from 12 PM to 2 PM. There's a link provided for more information."
+  },
+  {
     "id": "704cc635-d2e1-4573-a682-11eaf6720982",
     "title": "Chalk Art Protest",
     "date": "Sunday, March 23, 2025",
@@ -5780,6 +5866,50 @@
     "raw_summary": "The flyer details a synchronized protest occurring across 50 states, organized for upholding constitutional rights against executive overreach. The specific event in Massillon, OH has been postponed due to a tornado watch and rescheduled for March 23 from Noon to 4:00 PM at 50 Lincoln Way. It includes general information about the Ohio chapter of 50501, its tenets, and contact details."
   },
   {
+    "id": "f0fa60bf-bd62-4a93-9141-f127009488fc",
+    "title": "NO KINGS IN AMERICA - Peaceful Protest",
+    "date": "Sunday, March 23, 2025",
+    "time": "1:00 PM",
+    "description": "We are hosting a peaceful protest at the anniversary reenactment of Patrick Henry’s speech \"Liberty or Death.\" Join us as we highlight historical resistance and draw parallels to contemporary issues.",
+    "city": "Richmond",
+    "state": "VA",
+    "address": "2400 E. Broad St.",
+    "meeting_location": "Patrick Henry Park",
+    "links": [
+      "[]"
+    ],
+    "sponsors": [
+      "[]"
+    ],
+    "image_url": "https://theblop.org/assets/images/f0fa60bf-bd62-4a93-9141-f127009488fc.png",
+    "thumbnail_url": "https://theblop.org/assets/images/f0fa60bf-bd62-4a93-9141-f127009488fc-thumb.jpg",
+    "canonical_id": "",
+    "permalink": "https://theblop.org/events/f0fa60bf-bd62-4a93-9141-f127009488fc.html",
+    "ical": "https://theblop.org/assets/ical/f0fa60bf-bd62-4a93-9141-f127009488fc.ics",
+    "raw_text": "250 YEARS OF NO KINGS IN AMERICA\nA PEACEFUL PROTEST\nAt the anniversary reenactment of Patrick Henry’s speech \"Liberty or Death\"\n\nWE RESISTED KING GEORGE. WE WILL RESIST TRUMP.\n\nPatrick Henry Park\n2400 E. Broad St. RVA\nSunday, March 23rd 1-3pm\n\nSIC SEMPER TYRANNIS = THUS ALWAYS TO TYRANTS",
+    "raw_summary": "The image advertises a peaceful protest in Richmond, Virginia, marking the 250th anniversary of Patrick Henry's speech \"Liberty or Death.\" It emphasizes historical resistance against King George and parallels it with modern resistance against Donald Trump."
+  },
+  {
+    "id": "3ec66a6e-cd3a-43ac-a3b0-723fb85df2bc",
+    "title": "250 Years of No Kings in America",
+    "date": "Sunday, March 23, 2025",
+    "time": "1:00 PM",
+    "description": "We invite participants to join a peaceful protest commemorating 250 years of 'No Kings in America,' featuring a reenactment of Patrick Henry's 'Liberty or Death' speech.",
+    "city": "Richmond",
+    "state": "VA",
+    "address": "2400 E. Broad St.",
+    "meeting_location": "Patrick Henry Park",
+    "links": [],
+    "sponsors": [],
+    "image_url": "https://theblop.org/assets/images/3ec66a6e-cd3a-43ac-a3b0-723fb85df2bc.png",
+    "thumbnail_url": "https://theblop.org/assets/images/3ec66a6e-cd3a-43ac-a3b0-723fb85df2bc-thumb.jpg",
+    "canonical_id": "",
+    "permalink": "https://theblop.org/events/3ec66a6e-cd3a-43ac-a3b0-723fb85df2bc.html",
+    "ical": "https://theblop.org/assets/ical/3ec66a6e-cd3a-43ac-a3b0-723fb85df2bc.ics",
+    "raw_text": "250 YEARS OF NO KINGS IN AMERICA\n\nA PEACEFUL PROTEST\n\nAt the anniversary reenactment of Patrick Henry’s speech “Liberty or Death”\n\nWE RESISTED KING GEORGE. WE WILL RESIST TRUMP.\n\nPatrick Henry Park\n2400 E. Broad St. RVA\nSunday, March 23rd 1-3pm",
+    "raw_summary": "The image is a flyer for a peaceful protest marking 250 years of \"No Kings in America,\" with a reenactment of Patrick Henry's speech. The event is scheduled for Sunday, March 23rd, from 1-3 PM at Patrick Henry Park, 2400 E. Broad St., RVA."
+  },
+  {
     "id": "9edc4d5f-02d8-40c8-b94f-a801e6b93b5f",
     "title": "March on Harrisburg",
     "date": "Monday, March 24, 2025",
@@ -6077,6 +6207,31 @@
     "ical": "https://theblop.org/assets/ical/3035405c-5fce-4075-bfbc-75300f89030d.ics",
     "raw_text": "Meet \"Rep Boebert\"\n\nJOIN INDIVISIBLENOCO AND HAVE YOUR VOICE HEARD!\n\nLAUREN REFUSES TO TALK TO HER CONSTITUENTS SO WE’RE BRINGING CARDBOARD LAUREN TO YOU! BRING YOUR QUESTIONS, SIGNS, AND FRIENDS!\n\nWhen: Monday March 24, 2025 from 10am - 11:30am\nWhere: Severance Community Park - 100 Waterfowl Wy, Severance, CO 80550\n\nwww.indivisiblenoco.com",
     "raw_summary": "The image advertises a public gathering organized by a group named IndivisibleNoCo. The event is framed as an opportunity for the community to have their voices heard. It appears to be a response to a representative, providing a chance for community interaction. Date, time, and location details are specified."
+  },
+  {
+    "id": "61df0d33-0c67-4c0f-8ae7-4574864a45bb",
+    "title": "SQE Week of Action",
+    "date": "Monday, March 24, 2025",
+    "time": "See Flyer",
+    "description": "Join faculty and students for actions across campuses to protest cuts, fees, and corporate influence in universities, and to support ethnic studies and DEI.",
+    "city": "Various",
+    "state": "CA",
+    "address": "Various campuses across California",
+    "meeting_location": "",
+    "links": [
+      "@sqestatewide"
+    ],
+    "sponsors": [
+      "SQE",
+      " CFA"
+    ],
+    "image_url": "https://theblop.org/assets/images/61df0d33-0c67-4c0f-8ae7-4574864a45bb.png",
+    "thumbnail_url": "https://theblop.org/assets/images/61df0d33-0c67-4c0f-8ae7-4574864a45bb-thumb.jpg",
+    "canonical_id": "",
+    "permalink": "https://theblop.org/events/61df0d33-0c67-4c0f-8ae7-4574864a45bb.html",
+    "ical": "https://theblop.org/assets/ical/61df0d33-0c67-4c0f-8ae7-4574864a45bb.ics",
+    "raw_text": "NO CUTS, NO FEES, NO CORPORATE UNIVERSITIES!\n\nSQE\n\nJOIN FACULTY & STUDENTS FOR SQE WEEK OF ACTION MARCH 24 - 27, 2025\n\nWEEK OF ACTION CAMPUS EVENTS:\n\nMONDAY, MARCH 24\nSAN MARCOS (SM) - STUDENT WALKOUT BAKERSFIELD (BA) - SQE + CFA PROTEST\n\nTUESDAY, MARCH 25\nLOS ANGELES (LA) - SQE + CFA ACTION\nSONOMA (SO) - SQE + CFA ACTION\n\nWEDNESDAY, MARCH 26\nLONG BEACH (LB) - SQE + CFA PROTEST\n\nTHURSDAY, MARCH 27 \nFULLERTON (FU) - SQE + CFA ACTION\nSACRAMENTO (SA) - STUDENT ACTION\nSAN JOSE (SJ) - TBD\n\nWHERE'S OUR MONEY?\nDEFEND ETHNIC STUDIES & DEI\nHANDS OFF STUDENTS!\nICE OFF CAMPUS!\n\nFor more details, contact your local CFA chapter or local SQE coordinator. \n\nFollow @sqestatewide for updates!",
+    "raw_summary": "The image announces an event called \"SQE Week of Action\" occurring from March 24-27, 2025. The event includes multiple actions and protests across different campuses, focusing on issues like student walkouts, protests, and actions by SQE and CFA. The flyer emphasizes themes like defending ethnic studies, demanding financial accountability, and opposing corporate involvement in universities."
   },
   {
     "id": "024e2db3-45d4-4507-9bef-acffbcc2d8d8",
@@ -8760,6 +8915,32 @@
     "raw_summary": "The image is a flyer for \"MARCH FOR TRANS DAY OF VISIBILITY 2025\" presented by NYC Youth 4 Trans Rights. The event is scheduled for March 31 at 4 PM at Union Square. Additional information can be accessed via a QR code or a specific URL."
   },
   {
+    "id": "deb26d97-d3e3-407a-a10c-ce4b2f5e07fb",
+    "title": "Immigrant Solidarity March",
+    "date": "Monday, March 31, 2025",
+    "time": "11:00 AM",
+    "description": "Join us for the Immigrant Solidarity March on Cesar Chavez Day, organized by the Central Labor Council and various labor organizations, to march to the historic 40 Acres in Delano.",
+    "city": "Delano",
+    "state": "CA",
+    "address": "100 S Lexington St",
+    "meeting_location": "Memorial Park",
+    "links": [
+      "bit.ly/solidaritymarch25"
+    ],
+    "sponsors": [
+      "United Farm Workers",
+      " SEIU California",
+      " California Federation of Labor Unions AFL-CIO"
+    ],
+    "image_url": "https://theblop.org/assets/images/deb26d97-d3e3-407a-a10c-ce4b2f5e07fb.png",
+    "thumbnail_url": "https://theblop.org/assets/images/deb26d97-d3e3-407a-a10c-ce4b2f5e07fb-thumb.jpg",
+    "canonical_id": "",
+    "permalink": "https://theblop.org/events/deb26d97-d3e3-407a-a10c-ce4b2f5e07fb.html",
+    "ical": "https://theblop.org/assets/ical/deb26d97-d3e3-407a-a10c-ce4b2f5e07fb.ics",
+    "raw_text": "MONDAY 3/31 CESAR CHAVEZ DAY\nIMMIGRANT SOLIDARITY MARCH\nSTARTING POINT: MEMORIAL PARK\n100 S LEXINGTON ST, DELANO, CA 93215\nMARCH: 11:00 AM • RALLY: 1:00 PM\nSIGN UP BIT.LY/SOLIDARITYMARCH25\nLogos: UNITED FARM WORKERS • SEIU CALIFORNIA • CALIFORNIA FEDERATION OF LABOR UNIONS AFC-CIO\n\ncvcommunityaction Repost from @centrallabor\nThis Cesar Chavez Day, join the Central Labor Council, along with community and labor organizations, for a day of solidarity as we march to the historic 40 Acres in Delano.\n📆 Monday, March 31, 11 AM March, 1 PM Rally\n📍 Starting point: 100 S Lexington St, Delano, CA 93215\nRSVP for updates at bit.ly/solidaritymarch25 or visit the link in our bio",
+    "raw_summary": "The flyer announces an 'Immigrant Solidarity March' on Cesar Chavez Day, Monday, March 31, in Delano, CA. The march starts at 11:00 AM with a rally at 1:00 PM, beginning at Memorial Park, Delano. The event is organized by several labor unions and organizations."
+  },
+  {
     "id": "b68d2613-8a10-4f46-a4e8-98209d940cc1",
     "title": "WeAreNotFools Political Protest",
     "date": "Tuesday, April 1, 2025",
@@ -8847,6 +9028,30 @@
     "ical": "https://theblop.org/assets/ical/08f2bb35-9bb3-48eb-a763-8e14ef3f961e.ics",
     "raw_text": "01 April Tuesday\n4:15 pm - 6:00 pm E Drake Rd & S College Ave, Fort Collins, CO 80525, USA\nCorner Protest for Public Lands\nJoin the Corner Protest occurring every Tuesday and Thursday from 4:15 PM to 6:00 PM. This event focuses on positive engagement and advocating for public lands and political awareness. We gather at the corner of Drake and College and encourage all views to partake in a peaceful demonstration.\nJoin the Corner Protest every Tuesday and Thursday 4:15-6PM\nCorner of Drake and College in Fort Collins\nPositive engagement\nPROTECT OUR PUBLIC LANDS\nRight or Left... we all know this is WRONG!\nWE THE PEOPLE",
     "raw_summary": "The Corner Protest for Public Lands is a recurring event every Tuesday and Thursday at the corner of Drake and College in Fort Collins. The protest happens from 4:15 PM to 6:00 PM and aims to promote positive engagement and advocate for public lands and political awareness. It's a peaceful demonstration encouraging participation from all viewpoints."
+  },
+  {
+    "id": "814c5053-1dd7-4235-9e86-3c70bc6e9dd0",
+    "title": "Townhall Meetings",
+    "date": "Wednesday, April 2, 2025",
+    "time": "5:30 PM",
+    "description": "We invite members of our community to attend and share thoughts and concerns with MCSD Administrators and Board Members. Light refreshments and interpretation services are available.",
+    "city": "Merced",
+    "state": "CA",
+    "address": "Chenoweth Elementary - Cafeteria, Rivera Middle - Gymnasium",
+    "meeting_location": "Chenoweth Elementary - Cafeteria (March 19), Rivera Middle - Gymnasium (April 2)",
+    "links": [
+      "[]"
+    ],
+    "sponsors": [
+      "Merced City School District"
+    ],
+    "image_url": "https://theblop.org/assets/images/814c5053-1dd7-4235-9e86-3c70bc6e9dd0.png",
+    "thumbnail_url": "https://theblop.org/assets/images/814c5053-1dd7-4235-9e86-3c70bc6e9dd0-thumb.jpg",
+    "canonical_id": "",
+    "permalink": "https://theblop.org/events/814c5053-1dd7-4235-9e86-3c70bc6e9dd0.html",
+    "ical": "https://theblop.org/assets/ical/814c5053-1dd7-4235-9e86-3c70bc6e9dd0.ics",
+    "raw_text": "Merced City School District\nTOWNHALL MEETINGS\nALL MEMBERS OF OUR COMMUNITY ARE INVITED TO ATTEND & SHARE THOUGHTS & CONCERNS\n\nTownhall # 1\nDate: Wednesday, March 19\nLocation: Chenoweth Elementary - Cafeteria\nTime: 5:30 - 7:30 p.m. (5:30 - 6:00 is tabling & sharing of resources)\n\nTownhall # 2\nDate: Wednesday, April 2\nLocation: Rivera Middle - Gymnasium\nTime: 5:30 - 7:30 p.m. (5:30 - 6:00 is tabling & sharing of resources)\n\nMCSD Administrators and Board Members will be in attendance to receive information that is shared.\n\nLIGHT REFRESHMENTS PROVIDED  ●  INTERPRETATION SERVICES AVAILABLE\n",
+    "raw_summary": "The image is an announcement flyer for two town hall meetings organized by the Merced City School District. These meetings invite community members to share thoughts and concerns with district administrators and board members."
   },
   {
     "id": "28ff009c-e8f9-4293-ab62-02e44c5821df",
@@ -13874,6 +14079,83 @@
     "ical": "https://theblop.org/assets/ical/78567cc6-7ff9-4caa-9799-18d4cb7262c5.ics",
     "raw_text": "50 PROTESTS • 50 STATES • 1 MOVEMENT\nREMOVE REVERSE RECLAIM\nREMOVE CORRUPT POLITICIANS FROM OFFICE\nREVERSE THE DAMAGE\nRECLAIM OUR DEMOCRACY\nSATURDAY APRIL 5, 2025\nAt the Veteran's Memorial Bridge from 4-6PM\n50 50 1\nNATION-WIDE PROTESTS AND SIT-INS IN ALL 50 STATES\nFind organizing resources + add your action at https://www.FiftyFifty.one",
     "raw_summary": "The image is a flyer for \"Remove, Reverse, Reclaim,\" a nationwide protest event scheduled for April 5, 2025. The event aims to \"Remove corrupt politicians,\" \"Reverse the damage,\" and \"Reclaim our democracy\" with protests and sit-ins in all 50 states. Additional details such as specific locations are available through provided resources."
+  },
+  {
+    "id": "c06c0c1e-de34-42ac-9c99-8c6a88065342",
+    "title": "Nationwide Protest by the 50501 Movement",
+    "date": "Saturday, April 5, 2025",
+    "time": "11:00 AM",
+    "description": "Join us for a nationwide protest organized by the 50501 movement to stand in solidarity across the country. We'll meet at Cary Park at 11 am in Fresno, near Fashion Fair mall on April 5th.",
+    "city": "Fresno",
+    "state": "CA",
+    "address": "Near Fashion Fair Mall",
+    "meeting_location": "Cary Park",
+    "links": [
+      "fiftyfifty.one"
+    ],
+    "sponsors": [
+      "50501 Movement",
+      " Women's March Central Valley"
+    ],
+    "image_url": "https://theblop.org/assets/images/c06c0c1e-de34-42ac-9c99-8c6a88065342.png",
+    "thumbnail_url": "https://theblop.org/assets/images/c06c0c1e-de34-42ac-9c99-8c6a88065342-thumb.jpg",
+    "canonical_id": "",
+    "permalink": "https://theblop.org/events/c06c0c1e-de34-42ac-9c99-8c6a88065342.html",
+    "ical": "https://theblop.org/assets/ical/c06c0c1e-de34-42ac-9c99-8c6a88065342.ics",
+    "raw_text": "JOIN THE 50501 MOVEMENT\nNation wide protest\nAPRIL 5TH\n11 am\nFresno\nBy Fashion Fair\nVisit fiftyfifty.one\nFor location details",
+    "raw_summary": "The image describes a nationwide protest organized by the 50501 movement, set for April 5th, at 11 am in Fresno, near Fashion Fair mall, with a meeting point at Cary Park."
+  },
+  {
+    "id": "a6b28c51-b1c6-4a47-b463-86e661fa4fd4",
+    "title": "Veto Project 2025",
+    "date": "Saturday, April 5, 2025",
+    "time": "1:00 PM",
+    "description": "We the People reject the Trump-Musk coup. Stand with us in our peaceful dissent. Join us for People's Veto Day to protect Medicaid, Medicare, Social Security, and more.",
+    "city": "Athens",
+    "state": "OH",
+    "address": "Athens Community Center (East State)",
+    "meeting_location": "Sidewalk in front of Athens Community Center",
+    "links": [
+      "[]"
+    ],
+    "sponsors": [
+      "50501",
+      " Political Revolution",
+      " Indivisible",
+      " Women’s March",
+      " The American People"
+    ],
+    "image_url": "https://theblop.org/assets/images/a6b28c51-b1c6-4a47-b463-86e661fa4fd4.png",
+    "thumbnail_url": "https://theblop.org/assets/images/a6b28c51-b1c6-4a47-b463-86e661fa4fd4-thumb.jpg",
+    "canonical_id": "",
+    "permalink": "https://theblop.org/events/a6b28c51-b1c6-4a47-b463-86e661fa4fd4.html",
+    "ical": "https://theblop.org/assets/ical/a6b28c51-b1c6-4a47-b463-86e661fa4fd4.ics",
+    "raw_text": "WE THE PEOPLE\nVETO\nPROJECT 2025\nSATURDAY\nAPRIL 5, 2025\nAthens, Ohio\n1 PM ~ 130pm - Guest Speakers\n130p ~ 230p Protest on sidewalk in front of Athens Community Center (East State)\nBring your own posters\nWe the People reject the Trump-Musk coup. Stand with us in our peaceful dissent.\nJOIN US FOR PEOPLE'S VETO DAY TO PROTECT:\nMEDICAID MEDICARE SOCIAL SECURITY OUR WALLETS OUR JOBS OUR BODIES DEMOCRACY\nPERSONAL DATA PUBLIC LAND VETERAN SERVICES CANCER RESEARCH NATO IMMIGRANTS\nCONSUMER PROTECTIONS CLEAN ENERGY SCHOOLS FREE SPEECH TRANS HEALTHCARE CLEAN AIR\nSIGNED,\n50501 POLITICAL REVOLUTION INDIVISIBLE WOMEN’S MARCH + THE AMERICAN PEOPLE\nREMOVE. REVERSE. RECLAIM.",
+    "raw_summary": "The flyer announces \"Veto Project 2025,\" a protest event taking place on April 5, 2025, in Athens, Ohio. The event includes guest speakers and a protest, urging attendees to bring their own posters in opposition to what is described as a \"Trump-Musk coup.\" The event is organized by multiple groups, including 50501, Political Revolution, Indivisible, Women's March, and others."
+  },
+  {
+    "id": "331963d8-d88a-4893-8dc9-2f8f41f5b45d",
+    "title": "Hands Off!",
+    "date": "Saturday, April 5, 2025",
+    "time": "11:00 AM",
+    "description": "We the People reject the Trump-Musk coup. Join us in our peaceful dissent. National Day of Action to protect various social and political issues.",
+    "city": "Cincinnati",
+    "state": "OH",
+    "address": "Washington Park",
+    "meeting_location": "Washington Park",
+    "links": [],
+    "sponsors": [
+      "FIFTYFIFTY.ONE",
+      " Indivisible Southwest Ohio",
+      " The American People"
+    ],
+    "image_url": "https://theblop.org/assets/images/331963d8-d88a-4893-8dc9-2f8f41f5b45d.png",
+    "thumbnail_url": "https://theblop.org/assets/images/331963d8-d88a-4893-8dc9-2f8f41f5b45d-thumb.jpg",
+    "canonical_id": "",
+    "permalink": "https://theblop.org/events/331963d8-d88a-4893-8dc9-2f8f41f5b45d.html",
+    "ical": "https://theblop.org/assets/ical/331963d8-d88a-4893-8dc9-2f8f41f5b45d.ics",
+    "raw_text": "HANDS OFF!\nCINCINNATI, OH\n\nSATURDAY\nAPRIL 5, 2025\n\nWASHINGTON PARK\nRALLY 11 AM - 1PM\nMARCH AT 1 PM\n\nWe the People reject the Trump-Musk coup. Join us in our peaceful dissent.\n\nNATIONAL DAY OF ACTION TO PROTECT:\nMEDICAID MEDICARE SOCIAL SECURITY OUR WALLETS OUR JOBS OUR BODIES DEMOCRACY\nPERSONAL DATA PUBLIC LAND VETERAN SERVICES CANCER RESEARCH NATO IMMIGRANTS\nCONSUMER PROTECTIONS CLEAN ENERGY SCHOOLS FREE SPEECH TRANS HEALTHCARE CLEAN AIR\n\nFIFTYFIFTY.ONE \nINDIVISIBLE SOUTHWEST OHIO + THE AMERICAN PEOPLE",
+    "raw_summary": "The image is an announcement for an event titled \"Hands Off!\" happening in Cincinnati, OH on April 5, 2025. It includes a rally and march starting at Washington Park. The theme is a national day of action against a \"Trump-Musk coup,\" emphasizing various social and political issues. Sponsors include \"Indivisible Southwest Ohio\" and others."
   },
   {
     "id": "bc2c4577-6d35-407c-9b27-53a1d1cec3b6",

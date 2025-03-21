@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:e32fc16d-4fca-407e-b836-42076d2b7b8f
+SEQUENCE:0
+DTSTAMP:20250321T060301Z
+DTSTART:20250405T110000
+DTEND:20250405T130000
+SUMMARY:Nationwide Protest by the 50501 Movement
+LOCATION:Near Fashion Fair Mall\, Fresno\, CA
+DESCRIPTION:Join us for a nationwide protest organized by the 50501 moveme
+ nt to stand in solidarity across the country. We'll meet at Cary Park at 1
+ 1 am in Fresno\, near Fashion Fair mall on April 5th.\n\nCary Park
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Near+Fashion
+ +Fair+Mall%2C+Fresno%2C+CA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

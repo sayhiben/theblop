@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:f675765c-9ed7-4a3c-afad-d339d0c4dedd
+SEQUENCE:0
+DTSTAMP:20250321T060301Z
+DTSTART:20250331T110000
+DTEND:20250331T130000
+SUMMARY:Immigrant Solidarity March
+LOCATION:100 S Lexington St\, Delano\, CA
+DESCRIPTION:Join us for the Immigrant Solidarity March on Cesar Chavez Day
+ \, organized by the Central Labor Council and various labor organizations\
+ , to march to the historic 40 Acres in Delano.\n\nMemorial Park
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=100+S+Lexing
+ ton+St%2C+Delano%2C+CA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

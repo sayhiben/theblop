@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:980303bf-4083-4fe1-820c-b67637a8db82
+SEQUENCE:0
+DTSTAMP:20250321T060301Z
+DTSTART:20250324T000000
+DTEND:20250324T020000
+SUMMARY:SQE Week of Action
+LOCATION:Various campuses across California
+DESCRIPTION:Join faculty and students for actions across campuses to prote
+ st cuts\, fees\, and corporate influence in universities\, and to support 
+ ethnic studies and DEI.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Various+camp
+ uses+across+California&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
