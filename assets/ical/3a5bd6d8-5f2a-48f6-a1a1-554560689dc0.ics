@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:6915b08f-ae94-491a-bd17-73e01c89b44f
+SEQUENCE:0
+DTSTAMP:20250321T120252Z
+DTSTART:20250606T000000
+DTEND:20250606T020000
+SUMMARY:D-DAY ANNIVERSARY PROTEST
+LOCATION:\, Nationwide\, Nationwide
+DESCRIPTION:We are organizing a veterans’ protest to end fascism in the 
+ United States on the anniversary of D-Day.\n\nWashington DC and every stat
+ e capitol\, city hall\, and town hall
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+Nationwi
+ de%2C+Nationwide&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
