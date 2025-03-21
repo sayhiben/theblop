@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:1b5dd143-349a-4f81-b55c-8459c086596c
+SEQUENCE:0
+DTSTAMP:20250321T180246Z
+DTSTART:20250325T160000
+DTEND:20250325T180000
+SUMMARY:Rally for Education
+LOCATION:Corners of 6th and Washington\, Brainerd\, MN
+DESCRIPTION:Join us at the Rally for Education to support educational caus
+ es. We encourage participants to bring their own signs or stop by 223 Wash
+ ington St to make or pick one up before the rally.\n\nCorners of 6th and W
+ ashington
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Corners+of+6
+ th+and+Washington%2C+Brainerd%2C+MN&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

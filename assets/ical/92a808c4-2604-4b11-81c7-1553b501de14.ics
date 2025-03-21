@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:863a0c1f-dc13-4b56-963c-0d156b3e59ce
+SEQUENCE:0
+DTSTAMP:20250321T180246Z
+DTSTART:20250727T000000
+DTEND:20250727T020000
+SUMMARY:March for Integrity
+LOCATION:\, Washington\, DC
+DESCRIPTION:Join our movement to end citizens united. We aim to remove mon
+ ey from politics and restore integrity.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+Washingt
+ on%2C+DC&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

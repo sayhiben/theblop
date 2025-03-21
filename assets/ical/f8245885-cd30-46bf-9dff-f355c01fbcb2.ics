@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:7bb49fba-4f0b-4181-a5d0-c5e040884a20
+SEQUENCE:0
+DTSTAMP:20250321T180246Z
+DTSTART:20250324T160000
+DTEND:20250324T180000
+SUMMARY:r/50501 Canadian Solidarity Protest
+LOCATION:\, Washington\, DC
+DESCRIPTION:Join us on March 24th to support our Canadian friends against 
+ the MAGA cult. Gather at your nearest Canadian consulate or the Canadian e
+ mbassy in Washington\, D.C.\n\nNearest Canadian Consulate or Canadian emba
+ ssy in Washington DC
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+Washingt
+ on%2C+DC&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

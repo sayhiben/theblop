@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:0cc02dc2-6cad-4ff1-8403-fa0977a3e384
+SEQUENCE:0
+DTSTAMP:20250321T180246Z
+DTSTART:20250405T130000
+DTEND:20250405T150000
+SUMMARY:Hands Off!
+LOCATION:Corner of 9 Mile and Woodward\, Ferndale\, MI
+DESCRIPTION:We are organizing a protest to stop Trump and Musk's alleged i
+ llegal\, billionaire power grab. The event will address issues including M
+ edicaid\, Medicare\, social security\, jobs\, and more.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Corner+of+9+
+ Mile+and+Woodward%2C+Ferndale%2C+MI&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

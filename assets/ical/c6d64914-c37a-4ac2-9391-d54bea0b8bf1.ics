@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:ac304380-5923-4c49-a46a-fd738e418f45
+SEQUENCE:0
+DTSTAMP:20250321T180246Z
+DTSTART:20250324T160000
+DTEND:20250324T180000
+SUMMARY:r/50501 Canadian Solidarity Protest
+LOCATION:580 California Street\, San Francisco\, CA
+DESCRIPTION:Real American patriots support our Canadian friends against th
+ e MAGA cult. Join us in solidarity with our Canadian brothers and sisters.
+ \n\nCanadian Consulate San Francisco
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=580+Californ
+ ia+Street%2C+San+Francisco%2C+CA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
