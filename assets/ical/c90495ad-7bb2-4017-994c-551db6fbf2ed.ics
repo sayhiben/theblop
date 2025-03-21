@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:db858d32-8051-4141-a0db-0c759e2447b8
+SEQUENCE:0
+DTSTAMP:20250321T000539Z
+DTSTART:20250405T120000
+DTEND:20250405T140000
+SUMMARY:Hands Off! - Wisconsin's March Forward
+LOCATION:\, Madison\, WI
+DESCRIPTION:We are organizing a mass mobilization on April 5th in Madison\
+ , WI\, to rally against attacks on social programs\, consumer protections\
+ , and more. This event unites people to resist political and economic powe
+ r grabs.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+Madison%
+ 2C+WI&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

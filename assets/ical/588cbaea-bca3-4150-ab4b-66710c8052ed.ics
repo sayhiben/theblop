@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:c5e1de76-5277-4be0-bd02-88672412e974
+SEQUENCE:0
+DTSTAMP:20250321T000539Z
+DTSTART:20250405T140000
+DTEND:20250405T160000
+SUMMARY:Hands Off
+LOCATION:3315 Tamiami Trail\, Naples\, FL
+DESCRIPTION:Join us to protest against actions believed to threaten variou
+ s social services and rights. This event aims to oppose figures like Trump
+  and Musk\, who are perceived as attempting to control the country and its
+  resources.\n\nCollier County Courthouse
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=3315+Tamiami
+ +Trail%2C+Naples%2C+FL&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

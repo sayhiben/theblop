@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:2c46a93c-de5a-4b77-9d9a-eaca0acdfc33
+SEQUENCE:0
+DTSTAMP:20250321T000539Z
+DTSTART:20250405T120000
+DTEND:20250405T140000
+SUMMARY:Reclaim Our Democracy Rally
+LOCATION:West Virginia State Capitol Complex\, Kanawha Blvd.\, Charleston\
+ , WV
+DESCRIPTION:We are gathering to remove corrupt politicians\, reverse the d
+ amage done\, and reclaim our democracy.\n\nWest Virginia State Capitol Com
+ plex
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=West+Virgini
+ a+State+Capitol+Complex%2C+Kanawha+Blvd.%2C+Charleston%2C+WV&zoom=15&basem
+ ap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

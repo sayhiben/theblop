@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:2445b42b-626e-4221-a56c-4b54fbbab2ba
+SEQUENCE:0
+DTSTAMP:20250321T000539Z
+DTSTART:20250405T120000
+DTEND:20250405T140000
+SUMMARY:Remove\, Reverse\, Reclaim Rally
+LOCATION:Kanawha Blvd.\, Charleston\, WV
+DESCRIPTION:We are hosting a rally to remove corrupt politicians from offi
+ ce\, reverse the damage done\, and reclaim our democracy. Join us at noon 
+ for speeches and activities in Charleston\, WV.\n\nWest Virginia State Cap
+ ital Complex
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Kanawha+Blvd
+ .%2C+Charleston%2C+WV&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

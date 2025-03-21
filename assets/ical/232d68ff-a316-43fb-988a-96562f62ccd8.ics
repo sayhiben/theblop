@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:c28198e5-812b-4c97-9d4a-cdd47b328e5e
+SEQUENCE:0
+DTSTAMP:20250321T000539Z
+DTSTART:20250405T120000
+DTEND:20250405T140000
+SUMMARY:Hands Off! Bozeman Fights Back
+LOCATION:311 W Main St\, Bozeman\, MT
+DESCRIPTION:Join us for a mass mobilization rally to express solidarity an
+ d stand up against current issues affecting our community.\n\nGallatin Cou
+ nty Court House
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=311+W+Main+S
+ t%2C+Bozeman%2C+MT&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

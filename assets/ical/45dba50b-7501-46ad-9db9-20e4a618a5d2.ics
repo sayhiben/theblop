@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:041023f6-4bab-416e-98a2-859318e6eabe
+SEQUENCE:0
+DTSTAMP:20250321T000539Z
+DTSTART:20250322T100000
+DTEND:20250322T120000
+SUMMARY:Rally & Learn
+LOCATION:Park Rd\, Baraboo\, WI
+DESCRIPTION:Join us to learn and participate in activities to protect our 
+ public land at Devil's Lake State Park.\n\nNorth Shore Parking Lot\, grass
+ y area across from the Visitor Center
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Park+Rd%2C+B
+ araboo%2C+WI&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

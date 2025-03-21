@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:59633443-f623-4cb8-a7e0-b78dc3de7030
+SEQUENCE:0
+DTSTAMP:20250321T000539Z
+DTSTART:20250323T120000
+DTEND:20250323T140000
+SUMMARY:50 PROTESTS\, 50 STATES\, 1 MOVEMENT
+LOCATION:50 Lincoln Way\, Massillon\, OH
+DESCRIPTION:We unite Ohioans across our state to defend democracy and cons
+ titutional rights through peaceful action. We organize civic action agains
+ t executive overreach and welcome all who share our commitment to protecti
+ ng democratic principles.\n\n50 Lincoln Way
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=50+Lincoln+W
+ ay%2C+Massillon%2C+OH&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
