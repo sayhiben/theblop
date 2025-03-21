@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:1b8c9226-8da4-43b5-89a2-4abdc26e5270
+SEQUENCE:0
+DTSTAMP:20250321T210227Z
+DTSTART:20250405T120000
+DTEND:20250405T140000
+SUMMARY:Hands Off! Santa Fe Fights Back
+LOCATION:490 Old Santa Fe Trail\, Santa Fe\, NM
+DESCRIPTION:A rally against political actions affecting multiple social an
+ d economic areas\, organized by volunteers.\n\nNew Mexico State Capitol
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=490+Old+Sant
+ a+Fe+Trail%2C+Santa+Fe%2C+NM&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

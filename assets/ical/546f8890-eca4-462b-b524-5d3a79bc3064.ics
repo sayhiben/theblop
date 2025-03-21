@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:852523c1-8ca2-4fa9-8f86-d85c0daa83d2
+SEQUENCE:0
+DTSTAMP:20250321T210227Z
+DTSTART:20250405T120000
+DTEND:20250405T140000
+SUMMARY:HANDS OFF!
+LOCATION:701 Ocean Street\, Santa Cruz\, CA
+DESCRIPTION:Join Indivisible Santa Cruz County for a mass mobilization to 
+ take a stand on important issues. Meet at the Superior Courthouse in Santa
+  Cruz County.\n\nSuperior Courthouse
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=701+Ocean+St
+ reet%2C+Santa+Cruz%2C+CA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
