@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:353d9d00-3dd3-4067-a451-c3e8e4e1270c
+SEQUENCE:0
+DTSTAMP:20250321T031238Z
+DTSTART:20250405T120000
+DTEND:20250405T140000
+SUMMARY:REMOVE REVERSE RECLAIM
+LOCATION:501 N 3rd ST\, Harrisburg\, PA
+DESCRIPTION:We aim to remove corrupt politicians from office\, reverse the
+  damage\, and reclaim democracy. Join us for a peaceful\, family-friendly\
+ , and inclusive protest.\n\nCapitol Building Steps
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=501+N+3rd+ST
+ %2C+Harrisburg%2C+PA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

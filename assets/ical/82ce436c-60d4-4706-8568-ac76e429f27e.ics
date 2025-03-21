@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:3fcf8a1c-7c29-4b04-b893-5677776233d6
+SEQUENCE:0
+DTSTAMP:20250321T031238Z
+DTSTART:20250405T150000
+DTEND:20250405T170000
+SUMMARY:HANDS OFF!
+LOCATION:\, Wilkes-Barre\, PA
+DESCRIPTION:We are organizing a national mobilization event in Wilkes-Barr
+ e. Mark your calendars for April 5 at 3 pm. More information will be avail
+ able soon on our website.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+Wilkes-B
+ arre%2C+PA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
