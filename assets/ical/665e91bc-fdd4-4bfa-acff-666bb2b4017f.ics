@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:88020003-416b-4cb4-913f-82f83f15e6f7
+SEQUENCE:0
+DTSTAMP:20250322T090734Z
+DTSTART:20250405T120000
+DTEND:20250405T140000
+SUMMARY:We the People Veto Project 2025
+LOCATION:State Capitol\, Topeka\, KS
+DESCRIPTION:We the People reject the Trump-Musk coup. Join us in our peace
+ ful dissent. Join us for People's Veto Day to protect various societal iss
+ ues such as healthcare\, jobs\, democracy\, and more.\n\nEast side @ Noon
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=State+Capito
+ l%2C+Topeka%2C+KS&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:1dbe0972-6615-40fe-91ac-038caa655d12
+SEQUENCE:0
+DTSTAMP:20250322T090733Z
+DTSTART:20250322T120000
+DTEND:20250322T140000
+SUMMARY:March for Our Constitution
+LOCATION:Federal Building\, Westwood\, Los Angeles\, CA
+DESCRIPTION:Join us in a march at the Federal Building Westwood\, Los Ange
+ les\, to stand up for our Constitution. Organized by Democracy Action Netw
+ ork\, we aim to gather support and solidarity for constitutional values.\n
+ \nFederal Building\, Westwood
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Federal+Buil
+ ding%2C+Westwood%2C+Los+Angeles%2C+CA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

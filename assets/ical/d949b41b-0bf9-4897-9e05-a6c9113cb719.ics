@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:4f5ef300-284e-4762-8bc5-50508ce2a2e7
+SEQUENCE:0
+DTSTAMP:20250322T090733Z
+DTSTART:20250322T140000
+DTEND:20250322T160000
+SUMMARY:Protest for Democracy
+LOCATION:\, Various cities\, OH
+DESCRIPTION:Join us in demanding democracy and resisting fascism. Stand ag
+ ainst dictators and kings\, and be seen\, heard\, and demand change alongs
+ ide others in your community.\n\nVarious locations including Statehouse\, 
+ Courthouse Square\, City Hall\, and Federal Courthouse in Ohio.
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+Various+
+ cities%2C+OH&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

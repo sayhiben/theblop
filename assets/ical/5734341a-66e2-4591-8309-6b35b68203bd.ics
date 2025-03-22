@@ -2,19 +2,17 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:d774411e-d9e9-428d-869e-da021107af46
+UID:cbface5f-3d7c-4414-96d7-c0fce92858e5
 SEQUENCE:0
-DTSTAMP:20250322T060328Z
+DTSTAMP:20250322T090733Z
 DTSTART:20250325T133000
 DTEND:20250325T153000
-SUMMARY:PROTECT WITH PRIDE: INVEST IN TGNC NEW YORKERS
+SUMMARY:Protect With Pride: Invest in TGNC New Yorkers
 LOCATION:4th Floor of Capitol Building\, Outside of the Senate Gallery\, A
  lbany\, NY
-DESCRIPTION:Join us for a rally in Albany\, NY\, as a final push for LGBTQ
- + community resources to be included in the budget. Demands include expand
- ing the Lorena Borjas Transgender Wellness Fund\, creating a Gender Affirm
- ing Care Fund\, and ensuring continuous support for HIV+ services and yout
- h development.\n\n4th Floor of Capitol Building
+DESCRIPTION:A rally in Albany\, NY demanding increased investment in trans
+ gender and gender-nonconforming New Yorkers\, focusing on wellness and equ
+ ity funds\, gender-affirming care\, and other supportive services.\n\n
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=4th+Floor+of
  +Capitol+Building%2C+Outside+of+the+Senate+Gallery%2C+Albany%2C+NY&zoom=15
  &basemap=roadmap

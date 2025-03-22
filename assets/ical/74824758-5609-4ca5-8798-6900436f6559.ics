@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:2590e7a2-98d0-4746-9c4a-b4305197d258
+SEQUENCE:0
+DTSTAMP:20250322T090733Z
+DTSTART:20250323T140000
+DTEND:20250323T160000
+SUMMARY:Sunday Protest
+LOCATION:NE corner of Walton & Livernois\, Rochester Hills\, MI
+DESCRIPTION:Join our sidewalk demonstration to protest fascism in Rocheste
+ r Hills. We encourage participation and previously had over 100 attendees.
+ \n\nNE corner of Walton & Livernois
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=NE+corner+of
+ +Walton+%26+Livernois%2C+Rochester+Hills%2C+MI&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

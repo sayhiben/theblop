@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:fc06bf81-ef82-4ec2-88d5-153126e32ee3
+SEQUENCE:0
+DTSTAMP:20250322T090734Z
+DTSTART:20250405T110000
+DTEND:20250405T130000
+SUMMARY:FRANKFORT SAYS HANDS OFF!
+LOCATION:Kentucky State Capitol Building\, Frankfort\, KY
+DESCRIPTION:A peaceful\, nonviolent rally and march organized by 5050 Kent
+ ucky.\n\nKentucky State Capitol Building
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Kentucky+Sta
+ te+Capitol+Building%2C+Frankfort%2C+KY&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

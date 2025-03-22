@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:a14a48dc-eabe-4672-accb-bf6e3cf4b825
+SEQUENCE:0
+DTSTAMP:20250322T090734Z
+DTSTART:20250405T120000
+DTEND:20250405T140000
+SUMMARY:Remove\, Reverse\, Reclaim
+LOCATION:Florida Capitol\, Tallahassee\, FL
+DESCRIPTION:Protest or gathering event at the Florida Capitol.\n\nFlorida 
+ Capitol
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Florida+Capi
+ tol%2C+Tallahassee%2C+FL&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:85f53ecf-b5a0-4cb7-94de-6a5306bbcb7a
+SEQUENCE:0
+DTSTAMP:20250322T090734Z
+DTSTART:20250405T110000
+DTEND:20250405T130000
+SUMMARY:Picnic Protest
+LOCATION:1310 10th St\, Sacramento\, CA
+DESCRIPTION:We are hosting a protest to remove corrupt politicians\, rever
+ se the damage\, and reclaim our democracy. Join us to raise your voice\, b
+ uild a community\, and network.\n\nState Capitol
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=1310+10th+St
+ %2C+Sacramento%2C+CA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

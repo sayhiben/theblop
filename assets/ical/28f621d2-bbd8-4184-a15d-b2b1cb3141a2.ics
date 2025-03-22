@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:691ba795-b47c-4103-9e7d-41267e87a88a
+SEQUENCE:0
+DTSTAMP:20250322T090733Z
+DTSTART:20250322T130000
+DTEND:20250322T150000
+SUMMARY:Protest
+LOCATION:Corner of Library Ave and Ogletown Rd.\, Newark\, DE
+DESCRIPTION:We are holding a peaceful protest to save democracy and fight 
+ for our values. This protest is organized by Indivisible Newark DE\, suita
+ ble for people with physical limitations\, and we emphasize staying on pub
+ lic property.\n\nPark in College Square Lot
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Corner+of+Li
+ brary+Ave+and+Ogletown+Rd.%2C+Newark%2C+DE&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

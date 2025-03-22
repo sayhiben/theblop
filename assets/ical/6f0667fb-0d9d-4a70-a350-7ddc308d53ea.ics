@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:f3ff82cc-7cda-4d19-8ae8-8018f10f133b
+SEQUENCE:0
+DTSTAMP:20250322T090733Z
+DTSTART:20250405T120000
+DTEND:20250405T140000
+SUMMARY:Hands Off! Rhode Island Fights Back
+LOCATION:324 Hope St\, Providence\, RI
+DESCRIPTION:This rally is organized by Indivisible RI and others to oppose
+  actions by Trump and Musk. The event aims to rally against threats to hea
+ lth care\, data\, jobs\, and services.\n\nHope High School
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=324+Hope+St%
+ 2C+Providence%2C+RI&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

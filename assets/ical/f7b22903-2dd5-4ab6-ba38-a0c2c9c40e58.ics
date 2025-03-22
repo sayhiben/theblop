@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:72a97dfb-9ab7-46ca-8a5f-c87a55d9ded7
+SEQUENCE:0
+DTSTAMP:20250322T090733Z
+DTSTART:20250405T120000
+DTEND:20250405T140000
+SUMMARY:Remove Reverse Reclaim
+LOCATION:12 S Central Ave\, Medford\, OR
+DESCRIPTION:Join our movement to remove corrupt politicians\, reverse the 
+ damage\, and reclaim our democracy. This non-violent protest is part of a 
+ series of events across 50 states.\n\nVogel Plaza
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=12+S+Central
+ +Ave%2C+Medford%2C+OR&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

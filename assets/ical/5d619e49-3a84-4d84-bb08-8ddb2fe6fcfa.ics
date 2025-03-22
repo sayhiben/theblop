@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:3f66bcb2-32a2-401d-94dc-8f74580e144f
+SEQUENCE:0
+DTSTAMP:20250322T090734Z
+DTSTART:20250405T120000
+DTEND:20250405T140000
+SUMMARY:50501 Miami Protest
+LOCATION:301 Biscayne Blvd.\, Miami\, FL
+DESCRIPTION:We are hosting a protest event in collaboration with the 50501
+  and other non-violent resistance movements. Our objective is to remove co
+ rrupt politicians\, reverse the damage\, and reclaim our democracy.\n\nTor
+ ch of Friendship
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=301+Biscayne
+ +Blvd.%2C+Miami%2C+FL&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

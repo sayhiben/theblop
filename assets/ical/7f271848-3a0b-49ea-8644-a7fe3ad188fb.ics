@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:e785c63f-7302-4bc8-b45d-92ebcbb9a5c0
+SEQUENCE:0
+DTSTAMP:20250322T090734Z
+DTSTART:20250405T120000
+DTEND:20250405T140000
+SUMMARY:Hands Off Our Democracy\, Our Diversity\, Our Rights Rally & Prote
+ st
+LOCATION:Seattle Center\, Seattle\, WA
+DESCRIPTION:Join us for a rally and protest to defend our democracy\, dive
+ rsity\, and rights. ASL interpretation will be provided.\n\nSeattle Center
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Seattle+Cent
+ er%2C+Seattle%2C+WA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

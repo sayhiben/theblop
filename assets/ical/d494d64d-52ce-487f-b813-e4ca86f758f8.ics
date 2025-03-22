@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:4d957922-c99f-479f-8ba3-7df9d274f6d1
+SEQUENCE:0
+DTSTAMP:20250322T090734Z
+DTSTART:20250405T120000
+DTEND:20250405T140000
+SUMMARY:Colorado Springs 50501 Protest
+LOCATION:107 N. Nevada Ave & Monument Valley Park Bridge\, Over I-25\, Col
+ orado Springs\, CO
+DESCRIPTION:Join the 50501 Movement for a nationwide peaceful protest in C
+ olorado Springs. The event is set to take place at City Hall and Monument 
+ Valley Park Bridge\, promoting unity and peaceful advocacy.\n\nColorado Sp
+ rings City Hall & Monument Valley Park Bridge
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=107+N.+Nevad
+ a+Ave+%26+Monument+Valley+Park+Bridge%2C+Over+I-25%2C+Colorado+Springs%2C+
+ CO&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

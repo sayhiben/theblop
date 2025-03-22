@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:7aeff1a2-bb3a-43d9-b16b-8a566946ff63
+SEQUENCE:0
+DTSTAMP:20250322T090733Z
+DTSTART:20250323T130000
+DTEND:20250323T150000
+SUMMARY:Rally to Save USPS
+LOCATION:200 E Liberty\, Ann Arbor\, MI 48104
+DESCRIPTION:Join us as we rally against the dismantling of the postal serv
+ ice. Stand with letter carriers to save USPS\, organized by NALC Branch 43
+ 4.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=200+E+Libert
+ y%2C+Ann+Arbor%2C+MI+48104&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

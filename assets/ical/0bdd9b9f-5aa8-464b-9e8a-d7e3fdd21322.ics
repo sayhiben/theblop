@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:ef326815-2417-4b9d-a47e-9ed27cb75421
+SEQUENCE:0
+DTSTAMP:20250322T090733Z
+DTSTART:20250322T170000
+DTEND:20250322T190000
+SUMMARY:Protest the Trump Regime
+LOCATION:3600 S Broad St\, Philadelphia\, PA 19145
+DESCRIPTION:Join us to protest as Trump and McCormick visit Philly.\n\nNRG
+  Broad Street Line Station
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=3600+S+Broad
+ +St%2C+Philadelphia%2C+PA+19145&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

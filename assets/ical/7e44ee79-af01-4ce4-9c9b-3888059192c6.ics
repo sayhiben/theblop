@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:46d9da86-f156-485e-9fc9-f4a384a83873
+SEQUENCE:0
+DTSTAMP:20250322T090733Z
+DTSTART:20250327T160000
+DTEND:20250327T180000
+SUMMARY:Teslatakedown protest
+LOCATION:Tesla West Bloomfield\, West Bloomfield\, MI
+DESCRIPTION:We are organizing a protest known as "Teslatakedown" that take
+ s place every Thursday from 4 PM to 6 PM at Tesla West Bloomfield.\n\nTesl
+ a West Bloomfield
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Tesla+West+B
+ loomfield%2C+West+Bloomfield%2C+MI&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

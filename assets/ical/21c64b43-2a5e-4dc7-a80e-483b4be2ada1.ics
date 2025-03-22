@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:a6bf8c1d-701d-495b-9225-9286d2af11b3
+SEQUENCE:0
+DTSTAMP:20250322T090734Z
+DTSTART:20250405T110000
+DTEND:20250405T130000
+SUMMARY:The People's Rally
+LOCATION:Corner of Port St. Lucie Blvd & Airoso Blvd\, Port St Lucie\, FL
+DESCRIPTION:The event is organized to remove corrupt politicians\, reverse
+  the damage\, and reclaim democracy\, occurring in all 50 states with a sp
+ ecific location in Port St Lucie\, FL.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Corner+of+Po
+ rt+St.+Lucie+Blvd+%26+Airoso+Blvd%2C+Port+St+Lucie%2C+FL&zoom=15&basemap=r
+ oadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

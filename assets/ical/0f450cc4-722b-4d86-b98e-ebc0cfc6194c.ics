@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:21f4a940-4b60-4a33-b319-90ac19b5bc77
+SEQUENCE:0
+DTSTAMP:20250322T090734Z
+DTSTART:20250415T180000
+DTEND:20250415T200000
+SUMMARY:Wayne Rogers: Fighting Back!
+LOCATION:Gardendale Public Library Meeting Room
+DESCRIPTION:Meet the Chair of the Jefferson County (AL) Democratic Party a
+ nd find out how Alabamians are pressuring politicians & billionaires to sa
+ ve their economy\, government\, and democracy for future generations. Snac
+ ks and soft drinks provided.\n\nGardendale Public Library Meeting Room
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Gardendale+P
+ ublic+Library+Meeting+Room&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:f904d575-b6bd-469d-91c1-ec96369e605e
+SEQUENCE:0
+DTSTAMP:20250322T090734Z
+DTSTART:20250405T110000
+DTEND:20250405T130000
+SUMMARY:Peaceful Protest
+LOCATION:University & I75 (by Tesla)\, Sarasota\, FL
+DESCRIPTION:We are organizing a non-violent\, lawful protest against corru
+ pt politicians to reverse the damage and reclaim our democracy.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=University+%
+ 26+I75+%28by+Tesla%29%2C+Sarasota%2C+FL&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

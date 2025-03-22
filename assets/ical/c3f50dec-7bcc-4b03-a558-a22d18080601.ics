@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:33e3587a-2362-48f4-a1a4-4aa199201ff3
+SEQUENCE:0
+DTSTAMP:20250322T090733Z
+DTSTART:20250323T130000
+DTEND:20250323T150000
+SUMMARY:Rally to Stop the Chaos
+LOCATION:Merrick Train Station\, Sunrise Highway\, Merrick\, NY
+DESCRIPTION:We are organizing a counter protest against supporters of an a
+ uthoritarian nation. Join us to fight back for the middle class on March 2
+ 3.\n\nMerrick Train Station
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Merrick+Trai
+ n+Station%2C+Sunrise+Highway%2C+Merrick%2C+NY&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

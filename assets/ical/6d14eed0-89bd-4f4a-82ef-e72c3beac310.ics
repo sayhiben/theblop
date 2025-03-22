@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:af0eda92-7978-40c8-80f3-209f500169b1
+SEQUENCE:0
+DTSTAMP:20250322T090733Z
+DTSTART:20250322T140000
+DTEND:20250322T160000
+SUMMARY:Town Hall
+LOCATION:5503 1st Ave N\, Birmingham\, AL
+DESCRIPTION:Join us at the Town Hall in Birmingham to discuss important co
+ mmunity issues. Despite some legislators declining to attend\, this is an 
+ open invitation for all interested individuals. Attend to engage and share
+  your thoughts.\n\nWoodlawn Theatre
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=5503+1st+Ave
+ +N%2C+Birmingham%2C+AL&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

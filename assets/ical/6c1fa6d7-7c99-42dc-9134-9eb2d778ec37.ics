@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:e75b14a5-2e25-43f0-8443-5c7c3b15b817
+SEQUENCE:0
+DTSTAMP:20250322T090733Z
+DTSTART:20250405T110000
+DTEND:20250405T130000
+SUMMARY:Remove Reverse Reclaim
+LOCATION:1310 10th St\, Sacramento\, CA
+DESCRIPTION:Join us to protest against corrupt politicians\, reverse the d
+ amage\, and reclaim our democracy. Part of a nationwide movement in all 50
+  states\, this event includes a picnic protest.\n\nState Capitol
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=1310+10th+St
+ %2C+Sacramento%2C+CA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

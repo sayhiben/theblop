@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:34ae908e-e553-4ac1-bc08-ee281b661f3b
+SEQUENCE:0
+DTSTAMP:20250322T090733Z
+DTSTART:20250322T100000
+DTEND:20250322T120000
+SUMMARY:Get Tesla Out of Tulsa
+LOCATION:6010 S 129th E Ave\, Tulsa\, OK
+DESCRIPTION:A protest event demanding Tesla to leave Tulsa\, organized to 
+ express public displeasure.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=6010+S+129th
+ +E+Ave%2C+Tulsa%2C+OK&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

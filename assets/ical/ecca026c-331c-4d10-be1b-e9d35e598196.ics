@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:757206dd-fc01-4dbc-83d0-911530e527a8
+SEQUENCE:0
+DTSTAMP:20250322T090733Z
+DTSTART:20250322T000000
+DTEND:20250322T020000
+SUMMARY:Peaceful & Lawful Protest at Tesla Showroom
+LOCATION:3605 S Padre Island Dr\, Corpus Christi\, TX 78415
+DESCRIPTION:We are organizing a peaceful and lawful protest at the Tesla S
+ howroom in Corpus Christi to express our views.\n\nTesla Showroom
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=3605+S+Padre
+ +Island+Dr%2C+Corpus+Christi%2C+TX+78415&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

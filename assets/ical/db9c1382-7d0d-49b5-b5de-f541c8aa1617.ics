@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:1af79e0e-4525-4f35-8f8b-ce6fe9c5e75f
+SEQUENCE:0
+DTSTAMP:20250322T090733Z
+DTSTART:20250322T000000
+DTEND:20250322T020000
+SUMMARY:Rally For Our Republic
+LOCATION:\, Atlanta\, GA
+DESCRIPTION:Senators Jon Ossoff and Raphael Warnock are hosting a rally to
+  support the Republic.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+Atlanta%
+ 2C+GA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

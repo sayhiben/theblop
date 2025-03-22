@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:e7679475-7d0b-4724-9b96-040a07dc3ad7
+SEQUENCE:0
+DTSTAMP:20250322T090733Z
+DTSTART:20250405T120000
+DTEND:20250405T140000
+SUMMARY:Mass Mobilization
+LOCATION:MN State Capitol\, St. Paul\, MN
+DESCRIPTION:We are organizing a mass mobilization to advocate for social a
+ nd political issues\, including Medicaid\, Medicare\, social security\, an
+ d more.\n\nMN State Capitol
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=MN+State+Cap
+ itol%2C+St.+Paul%2C+MN&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:587bd990-f074-4231-a931-1083cdd25018
+SEQUENCE:0
+DTSTAMP:20250322T090733Z
+DTSTART:20250327T163000
+DTEND:20250327T183000
+SUMMARY:Emergency Protest
+LOCATION:Congress Park\, Saratoga Springs\, NY
+DESCRIPTION:We are organizing a protest in Saratoga Springs to challenge d
+ eportations and demand the release of Mahmoud Khalil. Unite against Trump 
+ and his billionaire agenda.\n\nCongress Park
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Congress+Par
+ k%2C+Saratoga+Springs%2C+NY&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

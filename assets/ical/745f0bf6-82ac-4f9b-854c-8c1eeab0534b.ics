@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:c51c523a-5c76-4e43-89be-d7b75ec1d25c
+SEQUENCE:0
+DTSTAMP:20250322T090734Z
+DTSTART:20250405T110000
+DTEND:20250405T130000
+SUMMARY:Nationwide Day of Protest
+LOCATION:Reid Park\, 22nd & Randolph\, Tucson\, AZ
+DESCRIPTION:Join Mobilize Tucson at Reid Park as part of the national 5050
+ 1 movement! We will be stationed at 22nd and Randolph from 11 am to 1 pm o
+ n April 5th. Wear WHITE for peace and bring attention to national distress
+  by flying your flags upside down. For volunteering\, reach out via websit
+ e or Discord.\n\nReid Park
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Reid+Park%2C
+ +22nd+%26+Randolph%2C+Tucson%2C+AZ&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

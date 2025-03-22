@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:bbe19b4c-ec62-49ac-b0cc-ecba1cd70939
+SEQUENCE:0
+DTSTAMP:20250322T090733Z
+DTSTART:20250328T163000
+DTEND:20250328T183000
+SUMMARY:Protest at Lisa McClain's Office
+LOCATION:30 N Broadway St.\, Lake Orion\, MI
+DESCRIPTION:Join us to make your voice heard in District 09. Let's show Li
+ sa how democracy works. Bring a sign to show Lisa what issues matter most 
+ to you right now!\n\nLisa McClain's Office
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=30+N+Broadwa
+ y+St.%2C+Lake+Orion%2C+MI&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

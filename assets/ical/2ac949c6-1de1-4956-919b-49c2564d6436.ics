@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:84be0864-a005-4097-b07a-c04778b49d10
+SEQUENCE:0
+DTSTAMP:20250322T090734Z
+DTSTART:20250405T110000
+DTEND:20250405T130000
+SUMMARY:REMOVE REVERSE RECLAIM
+LOCATION:\, Nationwide\, Nationwide
+DESCRIPTION:We are organizing nation-wide protests to remove corrupt polit
+ icians from office\, reverse the damage\, and reclaim our democracy.\n\nTu
+ cson Reid Park\, Arizona State Capitol\, Flagstaff City Hall
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+Nationwi
+ de%2C+Nationwide&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

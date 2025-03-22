@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:063da632-2601-483d-bfb5-1cf31606aae5
+SEQUENCE:0
+DTSTAMP:20250322T090734Z
+DTSTART:20250405T120000
+DTEND:20250405T140000
+SUMMARY:Remove\, Reverse\, Reclaim
+LOCATION:Depot Ave/Main St.\, Gainesville\, FL
+DESCRIPTION:Join our protest and action movement organized by the 50501 Mo
+ vement.\n\nDepot Ave/Main St.
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Depot+Ave%2F
+ Main+St.%2C+Gainesville%2C+FL&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:f850d163-5d83-4bad-8ccb-923a1cb0672c
+SEQUENCE:0
+DTSTAMP:20250322T090733Z
+DTSTART:20250322T100000
+DTEND:20250322T120000
+SUMMARY:Hands Off Social Security Rally
+LOCATION:297 Knollwood Rd\, White Plains\, NY
+DESCRIPTION:Join us for the 'Hands Off Social Security Rally' to address c
+ oncerns about social security policies with prominent political and organi
+ zational leaders.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=297+Knollwoo
+ d+Rd%2C+White+Plains%2C+NY&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

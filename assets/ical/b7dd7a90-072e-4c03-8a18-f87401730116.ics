@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:cfe6ad09-e0a1-42a7-81ba-bd963bbd5f05
+SEQUENCE:0
+DTSTAMP:20250322T090734Z
+DTSTART:20250405T123000
+DTEND:20250405T143000
+SUMMARY:Louisville Says Hands Off!
+LOCATION:Louisville Metro Hall\, Louisville\, KY
+DESCRIPTION:Join us for a peaceful\, nonviolent rally and march at Louisvi
+ lle Metro Hall.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Louisville+M
+ etro+Hall%2C+Louisville%2C+KY&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

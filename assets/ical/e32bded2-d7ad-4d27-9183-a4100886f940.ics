@@ -2,16 +2,15 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:81dfc83f-6a6b-427c-9ba4-48fe9e496efd
+UID:9f9eda1a-baff-4260-a537-51cc8b929319
 SEQUENCE:0
-DTSTAMP:20250322T060328Z
+DTSTAMP:20250322T090733Z
 DTSTART:20250323T140000
 DTEND:20250323T160000
-SUMMARY:New Orleans Emergency Protest
+SUMMARY:Stop the Genocide
 LOCATION:401 Realty Drive\, Gretna\, LA
-DESCRIPTION:We are gathering in New Orleans to protest against the genocid
- e and demand an arms embargo. This event is organized by multiple activist
-  groups to show solidarity and demand action.\n\nMural at 401 Realty Dr
+DESCRIPTION:The event is an emergency protest against actions in Gaza\, ca
+ lling for an end to the genocide and an arms embargo.\n\nPalestinian Mural
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=401+Realty+D
  rive%2C+Gretna%2C+LA&zoom=15&basemap=roadmap
 STATUS:CONFIRMED

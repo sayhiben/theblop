@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:c16ea608-3c3b-477a-bbb3-d6bf0eecdc81
+SEQUENCE:0
+DTSTAMP:20250322T090734Z
+DTSTART:20250405T150000
+DTEND:20250405T170000
+SUMMARY:Hands Off! Spokane Fights Back
+LOCATION:3922 N Normandie St\, Spokane\, WA
+DESCRIPTION:We're taking action against the perceived overreach of certain
+  political figures. Join us to protest and convey a strong 'Hands off!' me
+ ssage. Our gathering will stand for nonviolence and community solidarity.\
+ n\nBA Clark Park
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=3922+N+Norma
+ ndie+St%2C+Spokane%2C+WA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

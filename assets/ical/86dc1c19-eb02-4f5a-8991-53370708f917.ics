@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:ab8be0c3-e888-4b7e-9eac-f7ab742cb088
+SEQUENCE:0
+DTSTAMP:20250322T090733Z
+DTSTART:20250322T140000
+DTEND:20250322T160000
+SUMMARY:Townhall
+LOCATION:5503 1st Ave N\, Birmingham\, AL
+DESCRIPTION:We are hosting a Townhall meeting inviting the public to engag
+ e with their representatives. Join us for an important discussion.\n\nWood
+ lawn Theatre
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=5503+1st+Ave
+ +N%2C+Birmingham%2C+AL&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

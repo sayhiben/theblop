@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:6a320be2-b466-4fad-9543-f065a95b6176
+SEQUENCE:0
+DTSTAMP:20250322T090734Z
+DTSTART:20250405T120000
+DTEND:20250405T140000
+SUMMARY:Women Rise Up St. Pete
+LOCATION:\, St. Petersburg\, FL
+DESCRIPTION:An event organized to rally against assaults on country and co
+ nstitution\, by Pinellas NOW.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+St.+Pete
+ rsburg%2C+FL&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:70abc5db-19fa-4418-9a75-cf5a96b7bea6
+SEQUENCE:0
+DTSTAMP:20250322T090733Z
+DTSTART:20250329T150000
+DTEND:20250329T170000
+SUMMARY:Stop the Genocide! Ceasefire Now!
+LOCATION:227 Capitol Ave SE\, Atlanta\, GA
+DESCRIPTION:In commemoration of Land Day & Quds Day\, this event is a prot
+ est advocating for Palestinian rights and an immediate ceasefire.\n\nEast 
+ Steps of the Georgia Capitol
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=227+Capitol+
+ Ave+SE%2C+Atlanta%2C+GA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

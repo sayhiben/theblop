@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:cc1c2b9a-5974-4f67-a42d-51f09768b76a
+SEQUENCE:0
+DTSTAMP:20250322T090733Z
+DTSTART:20250329T133000
+DTEND:20250329T153000
+SUMMARY:Rally for Democracy
+LOCATION:2829 North Federal Hwy\, Fort Lauderdale\, FL
+DESCRIPTION:Join us for a peaceful protest against the harmful actions tak
+ en by the current Trump administration. Bring your flags\, signs\, posters
+ \, and friends to show support for democracy.\n\nIn front of the Tesla dea
+ lership
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=2829+North+F
+ ederal+Hwy%2C+Fort+Lauderdale%2C+FL&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

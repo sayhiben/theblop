@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:2605b554-7e80-43ac-b3c7-6eb16168da16
+SEQUENCE:0
+DTSTAMP:20250322T090733Z
+DTSTART:20250324T000000
+DTEND:20250324T020000
+SUMMARY:50501 Protests
+LOCATION:\, Salt Lake City\, UT
+DESCRIPTION:Encourage public participation by writing postcards to news ag
+ encies to ensure coverage of the 50501 protests.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+Salt+Lak
+ e+City%2C+UT&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

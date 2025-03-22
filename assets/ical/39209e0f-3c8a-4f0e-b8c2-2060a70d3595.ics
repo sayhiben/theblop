@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:b3348825-c0af-437d-8c84-6a50eeeb9b63
+SEQUENCE:0
+DTSTAMP:20250322T090733Z
+DTSTART:20250405T120000
+DTEND:20250405T140000
+SUMMARY:Hands Off! Mendocino Coast Fights Back
+LOCATION:363 N Main St\, Fort Bragg\, CA
+DESCRIPTION:Join us for a volunteer-organized rally to defend key public s
+ ervices and rights in the community.\n\n363 N Main St
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=363+N+Main+S
+ t%2C+Fort+Bragg%2C+CA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

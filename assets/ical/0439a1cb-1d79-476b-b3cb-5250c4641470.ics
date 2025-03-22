@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:f6d13220-5b7b-465b-b4b5-32406621b1c6
+SEQUENCE:0
+DTSTAMP:20250322T090733Z
+DTSTART:20250330T130000
+DTEND:20250330T150000
+SUMMARY:Tesla Takedown Event
+LOCATION:East end of Strathcona Park\, Tesla Superstore site on Venables\,
+  Vancouver\, BC
+DESCRIPTION:Advocacy event against certain public figures\, involving a ga
+ thering at Strathcona Park.\n\nEast end of Strathcona Park
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=East+end+of+
+ Strathcona+Park%2C+Tesla+Superstore+site+on+Venables%2C+Vancouver%2C+BC&zo
+ om=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

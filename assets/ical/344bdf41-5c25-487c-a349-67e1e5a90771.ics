@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:e4bee005-d88c-4d28-8a03-b3bb15d6ab1a
+SEQUENCE:0
+DTSTAMP:20250322T090734Z
+DTSTART:20250405T120000
+DTEND:20250405T140000
+SUMMARY:People's Veto Day
+LOCATION:Washington Monument\, Washington\, DC
+DESCRIPTION:On April 5\, 2025\, we're mobilizing to stop the MAGA assault 
+ on our country and Constitution. Thousands will mobilize to send an undeni
+ able message of rejecting assaults on rights\, democracy\, and future.\n\n
+ Washington Monument
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Washington+M
+ onument%2C+Washington%2C+DC&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

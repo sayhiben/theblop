@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:728a3d96-3ed8-4108-b800-0811f6793312
+SEQUENCE:0
+DTSTAMP:20250322T090733Z
+DTSTART:20250324T140000
+DTEND:20250324T160000
+SUMMARY:Protest at Northrop Plaza
+LOCATION:Northrop Plaza\, Minneapolis\, MN
+DESCRIPTION:We are organizing a protest to support DEI and Gaza while oppo
+ sing ICE at UMN. Join us to make your voice heard.\n\nNorthrop Plaza
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Northrop+Pla
+ za%2C+Minneapolis%2C+MN&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

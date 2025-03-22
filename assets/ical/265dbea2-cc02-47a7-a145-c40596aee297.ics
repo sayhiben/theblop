@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:77f737fc-ca62-470f-a9a9-8541c5500601
+SEQUENCE:0
+DTSTAMP:20250322T090734Z
+DTSTART:20250421T000000
+DTEND:20250421T020000
+SUMMARY:National Boycott
+LOCATION:\, Nationwide\, Nationwide
+DESCRIPTION:We invite the public to join in a series of nationwide boycott
+ s to make their voices heard against companies like Amazon\, Nestle\, Walm
+ art\, and General Mills as part of the 50501 movement.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+Nationwi
+ de%2C+Nationwide&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

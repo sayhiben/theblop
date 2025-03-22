@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:adebc06b-2fce-48fd-a9ee-40b7bc0287be
+SEQUENCE:0
+DTSTAMP:20250322T090733Z
+DTSTART:20250325T150000
+DTEND:20250325T170000
+SUMMARY:Tesla Tuesday
+LOCATION:7077 W Sahara Ave\, Las Vegas\, NV
+DESCRIPTION:Join us for a volunteer-organized rally event at Tesla. We are
+  encouraging participation and activism within the community.\n\nTesla
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=7077+W+Sahar
+ a+Ave%2C+Las+Vegas%2C+NV&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

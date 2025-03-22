@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:bcc7bf39-689a-4afe-9c95-dcff8c6654e7
+SEQUENCE:0
+DTSTAMP:20250322T090734Z
+DTSTART:20250405T100000
+DTEND:20250405T120000
+SUMMARY:HANDS OFF! FREE SPEECH
+LOCATION:13320 S Cleveland Ave Ft. Myers 33907\, Ft. Myers\, FL
+DESCRIPTION:Join our Biggest Peaceful Protest bringing together ALL PROGRE
+ SSIVE GROUPS including Indivisible\, 50501\, Women’s March\, and all our
+  local progressive groups.\n\nRally on US 41 east & west sidewalks between
+  Daniels/Cypress Lake & Cypress Trace Dr
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=13320+S+Clev
+ eland+Ave+Ft.+Myers+33907%2C+Ft.+Myers%2C+FL&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

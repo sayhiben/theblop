@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:d71a2f85-f844-4420-92fe-0125a9ef98cf
+SEQUENCE:0
+DTSTAMP:20250322T090733Z
+DTSTART:20250322T130000
+DTEND:20250322T150000
+SUMMARY:National Demonstration
+LOCATION:Garden of Remembrance\, D1\, Dublin\, IRL
+DESCRIPTION:Join the Irish Healthcare Workers for Palestine in a protest a
+ gainst Israeli actions\, advocating to end Israeli Apartheid and Genocide.
+  The event includes speakers\, music\, and activities for families\, start
+ ing at the Garden of Remembrance and marching to Dáil.\n\nHugh Lane Galle
+ ry by The Garden of Remembrance
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Garden+of+Re
+ membrance%2C+D1%2C+Dublin%2C+IRL&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

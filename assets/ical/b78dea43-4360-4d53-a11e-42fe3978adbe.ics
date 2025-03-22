@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:ba756830-0331-4d2a-ae68-47d9fa6890c4
+SEQUENCE:0
+DTSTAMP:20250322T090733Z
+DTSTART:20250322T113000
+DTEND:20250322T133000
+SUMMARY:Protect Your Parks Protest
+LOCATION:1901 Spinnaker Drive\, Ventura\, CA
+DESCRIPTION:Join us at the Channel Islands National Park to stand in solid
+ arity with park rangers\, engage in postcard writing\, clean up the visito
+ r center\, learn about contacting representatives\, and participate in com
+ munity building efforts.\n\nVisitor Center
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=1901+Spinnak
+ er+Drive%2C+Ventura%2C+CA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

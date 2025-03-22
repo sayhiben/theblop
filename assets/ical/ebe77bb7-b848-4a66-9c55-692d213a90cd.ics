@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:86ef85e3-95e2-4376-bf43-04d69f64354b
+SEQUENCE:0
+DTSTAMP:20250322T090734Z
+DTSTART:20250405T120000
+DTEND:20250405T140000
+SUMMARY:National Day of Action: Hands Off!
+LOCATION:Fulton Rd NW & Wales Ave NW (Jackson Twp Library)\, Jackson Towns
+ hip\, OH
+DESCRIPTION:We are organizing a nationwide protest across 50 states\, advo
+ cating for constitutional rights and liberty. Join us for a peaceful demon
+ stration. All are welcome\, rain or shine.\n\nJackson Twp Library
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Fulton+Rd+NW
+ +%26+Wales+Ave+NW+%28Jackson+Twp+Library%29%2C+Jackson+Township%2C+OH&zoom
+ =15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

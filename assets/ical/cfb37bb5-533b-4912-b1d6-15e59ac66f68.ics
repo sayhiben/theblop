@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:81ccf3d2-1731-4bc0-a8dd-759f1941af0f
+SEQUENCE:0
+DTSTAMP:20250322T090734Z
+DTSTART:20250405T120000
+DTEND:20250405T140000
+SUMMARY:REMOVE REVERSE RECLAIM
+LOCATION:Graffiti Bridge\, Pensacola\, FL
+DESCRIPTION:Join us to protest and stand for the removal of corrupt politi
+ cians\, reversing the damage\, and reclaiming democracy. Be part of the mo
+ vement to make a change.\n\nGraffiti Bridge
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Graffiti+Bri
+ dge%2C+Pensacola%2C+FL&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

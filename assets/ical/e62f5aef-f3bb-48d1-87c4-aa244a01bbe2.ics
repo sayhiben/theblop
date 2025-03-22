@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:7fca9e0f-ba71-425f-b13c-51f2ab3154c5
+SEQUENCE:0
+DTSTAMP:20250322T090734Z
+DTSTART:20250405T120000
+DTEND:20250405T140000
+SUMMARY:HANDS OFF!
+LOCATION:Seattle Center\, Seattle\, WA
+DESCRIPTION:Join us in a rally and protest to support our democracy\, dive
+ rsity\, and rights. ASL interpretation will be provided.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Seattle+Cent
+ er%2C+Seattle%2C+WA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

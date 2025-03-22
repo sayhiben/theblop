@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:d0c79ce6-6b8f-452b-adc9-d71012db1987
+SEQUENCE:0
+DTSTAMP:20250322T090734Z
+DTSTART:20250405T120000
+DTEND:20250405T140000
+SUMMARY:50 PROTESTS • 50 STATES • 1 MOVEMENT
+LOCATION:120 NW 4TH ST STE 1\, Corvallis\, OR
+DESCRIPTION:Join us in a nationwide movement to 'Remove\, Reverse\, Reclai
+ m'. Our goal is to remove corrupt politicians\, reverse the damage\, and r
+ eclaim our democracy. The event theme is 'Career Day'\, and attendees are 
+ encouraged to wear attire representing the career they do not want to lose
+ .\n\nBenton County Courthouse
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=120+NW+4TH+S
+ T+STE+1%2C+Corvallis%2C+OR&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

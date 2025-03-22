@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:06d9acee-45e0-4821-b752-21b56b20e8d0
+SEQUENCE:0
+DTSTAMP:20250322T090733Z
+DTSTART:20250325T110000
+DTEND:20250325T130000
+SUMMARY:Unity Walk & Rally
+LOCATION:CSU Fresno\, Speaker Platform (next to the peace garden)\, Fresno
+ \, CA
+DESCRIPTION:Join us in support of all immigrants and migrants in our commu
+ nity. We will have a speaker\, Nuria Zuniga Head Consul of Mexico. Green a
+ ttire is encouraged.\n\nSpeaker Platform (next to the peace garden)
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=CSU+Fresno%2
+ C+Speaker+Platform+%28next+to+the+peace+garden%29%2C+Fresno%2C+CA&zoom=15&
+ basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

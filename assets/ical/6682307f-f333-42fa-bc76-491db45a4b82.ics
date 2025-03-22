@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:7cb0fd1d-c0a3-4e3b-bd88-de3f76cc9275
+SEQUENCE:0
+DTSTAMP:20250322T090733Z
+DTSTART:20250405T120000
+DTEND:20250405T140000
+SUMMARY:Replace\, Reverse\, Reclaim
+LOCATION:900 Center St.\, Salem\, OR
+DESCRIPTION:Join us to replace corrupt politicians in office\, reverse the
+  damage\, and reclaim our democracy as part of a nationwide movement.\n\nS
+ alem Capitol
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=900+Center+S
+ t.%2C+Salem%2C+OR&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:ac207da6-5ecc-421e-b2e9-a73a9629b004
+SEQUENCE:0
+DTSTAMP:20250322T090734Z
+DTSTART:20250405T120000
+DTEND:20250405T140000
+SUMMARY:Wisconsin's March Forward
+LOCATION:Wisconsin State Capitol Building\, Madison\, WI
+DESCRIPTION:We are organizing a march titled "Wisconsin's March Forward" o
+ n April 5 at the Wisconsin State Capitol Building. The goal is to promote 
+ democratic principles\, unity\, and solidarity. Participants are encourage
+ d to bring signs\, flags\, and expressions of hope.\n\nForward Statue
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Wisconsin+St
+ ate+Capitol+Building%2C+Madison%2C+WI&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

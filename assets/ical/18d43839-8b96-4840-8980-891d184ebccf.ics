@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:7d1fd0cd-2b29-4288-b587-9adf8a93ea67
+SEQUENCE:0
+DTSTAMP:20250322T090733Z
+DTSTART:20250331T160000
+DTEND:20250331T180000
+SUMMARY:Trans Day of Visibility Rally
+LOCATION:210 Lottie St.\, Bellingham\, WA
+DESCRIPTION:Join us in a rally to celebrate Trans Day of Visibility. We ar
+ e gathering to support the community and raise awareness about trans right
+ s and issues.\n\nBellingham City Hall
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=210+Lottie+S
+ t.%2C+Bellingham%2C+WA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

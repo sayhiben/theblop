@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:b558ad66-3802-41a0-b231-3ed6601146a5
+SEQUENCE:0
+DTSTAMP:20250322T090733Z
+DTSTART:20250323T150000
+DTEND:20250323T170000
+SUMMARY:Emergency Protest
+LOCATION:In front of Wendover Village\, Greensboro\, NC
+DESCRIPTION:We are organizing an emergency protest against genocide\, call
+ ing for an arms embargo.\n\nIn front of Wendover Village
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=In+front+of+
+ Wendover+Village%2C+Greensboro%2C+NC&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

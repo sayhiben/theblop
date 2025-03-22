@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:cb2c68e5-448c-4f76-922a-c9ef092cab70
+SEQUENCE:0
+DTSTAMP:20250322T090733Z
+DTSTART:20250405T120000
+DTEND:20250405T140000
+SUMMARY:REMOVE REVERSE RECLAIM
+LOCATION:State Capitol\, 1310 10th St\, Sacramento\, CA
+DESCRIPTION:Part of 50 protests in 50 states. A call to remove corrupt pol
+ iticians\, reverse damage\, and reclaim democracy in Sacramento.\n\nState 
+ Capitol
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=State+Capito
+ l%2C+1310+10th+St%2C+Sacramento%2C+CA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

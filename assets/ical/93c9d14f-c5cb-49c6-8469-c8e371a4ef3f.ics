@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:2890db3e-9452-41e8-9e41-8ff858300b30
+SEQUENCE:0
+DTSTAMP:20250322T090733Z
+DTSTART:20250323T130000
+DTEND:20250323T150000
+SUMMARY:Prism at the Park
+LOCATION:\, Southwest Alabama\, AL
+DESCRIPTION:We're heading outside for a day of fun\, relaxation\, and joyf
+ ul connection for the LGBTQ+ community. Participants can expect a communit
+ y picnic\, field day activities\, yard games\, live music\, and more. Brin
+ g a picnic blanket for comfort.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+Southwes
+ t+Alabama%2C+AL&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

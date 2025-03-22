@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:96e5755c-bb1e-42e3-87a1-10ed2e485998
+SEQUENCE:0
+DTSTAMP:20250322T090734Z
+DTSTART:20250405T000000
+DTEND:20250405T020000
+SUMMARY:Nationwide Protests and Sit-Ins
+LOCATION:\, Nationwide\, Nationwide
+DESCRIPTION:We are organizing nationwide protests and sit-ins to remove co
+ rrupt politicians\, reverse the damage\, and reclaim our democracy on Apri
+ l 5\, 2025. Join protests in all 50 states.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+Nationwi
+ de%2C+Nationwide&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

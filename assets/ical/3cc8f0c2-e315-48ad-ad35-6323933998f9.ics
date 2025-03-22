@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:1d71b7ec-738b-4b4d-8800-8a5594024fd8
+SEQUENCE:0
+DTSTAMP:20250322T090733Z
+DTSTART:20250322T120000
+DTEND:20250322T140000
+SUMMARY:3/22 Tesla Takedown - Alhambra
+LOCATION:1200 W. Main Street\, Alhambra\, CA
+DESCRIPTION:Join us on March 22\, 2025\, for the Tesla Takedown event at o
+ ur Alhambra location. Experience the latest in Tesla technology and commun
+ ity interaction.\n\nTesla Dealership
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=1200+W.+Main
+ +Street%2C+Alhambra%2C+CA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

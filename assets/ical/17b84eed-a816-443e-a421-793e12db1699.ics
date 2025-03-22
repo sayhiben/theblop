@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:467ad35d-6ecc-4124-a530-3d91e6595ea7
+SEQUENCE:0
+DTSTAMP:20250322T090734Z
+DTSTART:20250405T100000
+DTEND:20250405T120000
+SUMMARY:Hands Off!
+LOCATION:1733 E Young Circle\, Hollywood\, FL
+DESCRIPTION:Join us at the 'Hands Off!' event to engage in political activ
+ ism and march for social justice issues. We aim to remove corrupt politici
+ ans\, reverse the damage\, and reclaim our democracy.\n\nArts Park
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=1733+E+Young
+ +Circle%2C+Hollywood%2C+FL&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

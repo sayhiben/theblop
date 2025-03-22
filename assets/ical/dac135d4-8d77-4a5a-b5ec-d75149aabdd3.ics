@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:8e5d77a1-c266-47fd-a5b0-1393e87b851c
+SEQUENCE:0
+DTSTAMP:20250322T090734Z
+DTSTART:20250405T120000
+DTEND:20250405T140000
+SUMMARY:Remove\, Reverse\, Reclaim\, Protest
+LOCATION:1 SE Broadway St. Ocala\, Florida 34471
+DESCRIPTION:Join us for a nationwide day of protest demanding change. We a
+ im to remove\, reverse\, and reclaim our rights.\n\nOcala Historic Downtow
+ n Square
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=1+SE+Broadwa
+ y+St.+Ocala%2C+Florida+34471&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

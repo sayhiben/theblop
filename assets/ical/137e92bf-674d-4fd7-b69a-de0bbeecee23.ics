@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:9af4425b-aa87-40b1-862c-460a97773bf6
+SEQUENCE:0
+DTSTAMP:20250322T090734Z
+DTSTART:20250405T150000
+DTEND:20250405T170000
+SUMMARY:REMOVE\, REVERSE\, RECLAIM
+LOCATION:Dealey Plaza\, Dallas\, TX
+DESCRIPTION:Join us to address political reform by removing corrupt politi
+ cians\, reversing damage\, and reclaiming our democracy.\n\nDealey Plaza
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Dealey+Plaza
+ %2C+Dallas%2C+TX&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

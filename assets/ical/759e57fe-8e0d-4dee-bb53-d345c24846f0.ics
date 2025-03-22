@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:419e9dbb-3893-40b8-a104-c111f1a84df1
+SEQUENCE:0
+DTSTAMP:20250322T090733Z
+DTSTART:20250322T180000
+DTEND:20250322T200000
+SUMMARY:Town Hall Meeting
+LOCATION:24861 Airport Rd\, Athens\, AL
+DESCRIPTION:We invite you to join us at the town hall meeting to discuss t
+ he impacts of D.O.G.E. and the administration’s executive orders on the 
+ North Alabama community. This is an opportunity to show your support\, voi
+ ce your concerns\, and collaborate with your community.\n\nEl Opry Event C
+ enter
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=24861+Airpor
+ t+Rd%2C+Athens%2C+AL&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

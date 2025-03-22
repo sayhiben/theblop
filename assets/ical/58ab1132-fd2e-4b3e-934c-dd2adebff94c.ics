@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:59b1b2fa-09f5-4f74-a753-c972016efdbe
+SEQUENCE:0
+DTSTAMP:20250322T090734Z
+DTSTART:20250508T000000
+DTEND:20250508T020000
+SUMMARY:LGBTQ+ Advocacy Day
+LOCATION:Illinois State Capitol\, Springfield\, IL
+DESCRIPTION:Join LGBTQ+ leaders and allies from across Illinois for advoca
+ cy training on key LGBTQ+ legislative priorities and the opportunity to me
+ et with state lawmakers. Together\, we can drive progress\, tackle systemi
+ c challenges\, and advance LGBTQ+ rights. This is a vital opportunity to u
+ nite\, take action\, and make our voices heard.\n\nIllinois State Capitol\
+ , Springfield\, IL
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Illinois+Sta
+ te+Capitol%2C+Springfield%2C+IL&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

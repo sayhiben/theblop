@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:5d67ce2e-d0bd-416b-8caa-6c70bc0c5e7f
+SEQUENCE:0
+DTSTAMP:20250322T090733Z
+DTSTART:20250404T213000
+DTEND:20250404T233000
+SUMMARY:Get on the Bus to DC
+LOCATION:\, Columbus\, OH
+DESCRIPTION:Join us for a bus trip from Columbus to Washington\, DC\, for 
+ the national march. Sign up and secure your seat.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+Columbus
+ %2C+OH&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

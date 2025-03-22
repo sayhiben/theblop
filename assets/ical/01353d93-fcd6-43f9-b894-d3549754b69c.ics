@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:dea107f3-7422-4bd1-98a3-e063658272b5
+SEQUENCE:0
+DTSTAMP:20250322T090734Z
+DTSTART:20250524T120000
+DTEND:20250524T140000
+SUMMARY:Veterans Defending Democracy Rally
+LOCATION:400 High Street\, Jackson\, MS
+DESCRIPTION:This is a rally organized where veterans will gather to defend
+  democracy.\n\nMississippi State Capitol
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=400+High+Str
+ eet%2C+Jackson%2C+MS&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

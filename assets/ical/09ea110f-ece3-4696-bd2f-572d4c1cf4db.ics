@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:6eeb2702-4437-450f-8a50-19fbfeb9b87b
+SEQUENCE:0
+DTSTAMP:20250322T090734Z
+DTSTART:20250405T120000
+DTEND:20250405T140000
+SUMMARY:Rally at the Lansing Capitol
+LOCATION:Michigan State Capitol\, Lansing\, MI
+DESCRIPTION:Join us for a rally to remove corrupt politicians\, reverse ha
+ rmful policies\, and reclaim democracy. Activities include sign making\, l
+ etter writing\, petition signing\, community building\, and participation 
+ of Michigan organizations.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Michigan+Sta
+ te+Capitol%2C+Lansing%2C+MI&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

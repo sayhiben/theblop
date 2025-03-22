@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:d55216a8-6808-42a8-8e4c-b9788fe35ece
+SEQUENCE:0
+DTSTAMP:20250322T090733Z
+DTSTART:20250322T110000
+DTEND:20250322T130000
+SUMMARY:Idaho Rally for Public Lands
+LOCATION:Idaho Capitol Steps\, Boise\, ID
+DESCRIPTION:We are organizing a rally to support the preservation and publ
+ ic use of lands in Idaho. Join us to advocate for keeping public lands in 
+ public hands.\n\nIdaho Capitol Steps
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Idaho+Capito
+ l+Steps%2C+Boise%2C+ID&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:e5ddbd9b-3cb8-4bd0-9301-94bc45d707a5
+SEQUENCE:0
+DTSTAMP:20250322T090733Z
+DTSTART:20250405T120000
+DTEND:20250405T140000
+SUMMARY:Hands Off Our Rights!
+LOCATION:115 State St.\, Montpelier\, VT
+DESCRIPTION:We the people reject the Trump-Musk Coup. Join us in our peace
+ ful dissent.\n\nVermont State House
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=115+State+St
+ .%2C+Montpelier%2C+VT&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

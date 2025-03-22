@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:c5fbe00f-ccd4-40d3-98a5-a079e8f15528
+SEQUENCE:0
+DTSTAMP:20250322T090734Z
+DTSTART:20250405T120000
+DTEND:20250405T140000
+SUMMARY:RECLAIM REMOVE REVERSE Rally
+LOCATION:Michigan State Capitol\, Lansing\, MI
+DESCRIPTION:We invite you to join us for a rally aimed at removing corrupt
+  politicians\, reversing harmful policies\, and reclaiming democracy throu
+ gh activities like sign making\, letter writing\, petition signing\, and c
+ ommunity building.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Michigan+Sta
+ te+Capitol%2C+Lansing%2C+MI&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

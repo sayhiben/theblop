@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:b7238e1d-113c-4692-899b-2944b4a32e0b
+SEQUENCE:0
+DTSTAMP:20250322T090733Z
+DTSTART:20250322T140000
+DTEND:20250322T160000
+SUMMARY:Protest for Democracy
+LOCATION:\, Dayton\, OH
+DESCRIPTION:We are gathering to stand up for democracy\, resist dictatorsh
+ ip\, and demand change. Join us to be seen and heard.\n\nDayton Courthouse
+  Sq.
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+Dayton%2
+ C+OH&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:c1f8b634-7456-44e8-9ed1-ae3261373e70
+SEQUENCE:0
+DTSTAMP:20250322T090733Z
+DTSTART:20250322T113000
+DTEND:20250322T133000
+SUMMARY:March! For Our Constitution
+LOCATION:Corner of Veteran Ave and Wellworth Ave\, Los Angeles\, CA
+DESCRIPTION:Join us in Los Angeles for a march to support our constitution
+ . We will assemble at 11:30 AM at Veteran Ave and Wellworth Ave. We encour
+ age the use of public transit with parking options at UCLA.\n\nCorner of V
+ eteran Ave and Wellworth Ave
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Corner+of+Ve
+ teran+Ave+and+Wellworth+Ave%2C+Los+Angeles%2C+CA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

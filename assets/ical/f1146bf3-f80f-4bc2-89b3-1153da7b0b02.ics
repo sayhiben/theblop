@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:36a0e0f0-8976-47f6-a17a-668873318953
+SEQUENCE:0
+DTSTAMP:20250322T090733Z
+DTSTART:20250322T140000
+DTEND:20250322T160000
+SUMMARY:Latter-day Saints Renounce War & Proclaim Peace
+LOCATION:Utah State Capitol\, Salt Lake City\, UT
+DESCRIPTION:Join us for an emergency sit-in to renounce war and proclaim p
+ eace\, encouraging the community to gather in solidarity for peace.\n\nUta
+ h State Capitol
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Utah+State+C
+ apitol%2C+Salt+Lake+City%2C+UT&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

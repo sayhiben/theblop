@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:36e7f970-7535-4714-add9-6f3cda52bf4a
+SEQUENCE:0
+DTSTAMP:20250322T090733Z
+DTSTART:20250323T120000
+DTEND:20250323T140000
+SUMMARY:Upcoming Protests
+DESCRIPTION:We at Assemble Long Island are organizing protests to advocate
+  for change and raise awareness on several important issues including USPS
+ \, chaos\, and Tesla related concerns. Join us as we rally in Huntington S
+ tation\, Merrick\, and Manhasset.\n\nHuntington Station\, Merrick\, Manhas
+ set
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=&zoom=15&bas
+ emap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

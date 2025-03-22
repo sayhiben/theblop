@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:ba58aef8-a331-443a-9858-27fb0b77d11b
+SEQUENCE:0
+DTSTAMP:20250322T090733Z
+DTSTART:20250328T100000
+DTEND:20250328T120000
+SUMMARY:Support Our Veterans
+LOCATION:288 Veterans Ave\, Biloxi\, MS
+DESCRIPTION:We are hosting a peaceful protest to advocate for veterans' ri
+ ghts\, focusing on healthcare and compensation benefits.\n\nU.S. Veterans 
+ Center
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=288+Veterans
+ +Ave%2C+Biloxi%2C+MS&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

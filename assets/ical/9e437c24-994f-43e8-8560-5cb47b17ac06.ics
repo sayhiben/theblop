@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:556cf3c1-ce73-46d8-b804-6b31b6082a89
+SEQUENCE:0
+DTSTAMP:20250322T090734Z
+DTSTART:20250405T100000
+DTEND:20250405T120000
+SUMMARY:Hands Off Free Speech Protest
+LOCATION:13320 S Cleveland Ave\, Ft. Myers\, FL
+DESCRIPTION:Join the largest peaceful protest as progressive groups rally 
+ for free speech\, uniting to make their voices heard.\n\nUS 41 east & west
+  sidewalks between Daniels/Cypress Lake & Cypress Trace Dr
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=13320+S+Clev
+ eland+Ave%2C+Ft.+Myers%2C+FL&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

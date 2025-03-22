@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:ae179d40-59e6-4719-adec-ea5e8ac30f98
+SEQUENCE:0
+DTSTAMP:20250322T090734Z
+DTSTART:20250405T100000
+DTEND:20250405T120000
+SUMMARY:Peaceful Protest
+LOCATION:Palm Beach Courthouse\, Corner of 3rd St & Dixie\, West Palm Beac
+ h\, FL
+DESCRIPTION:We invite you to join a peaceful protest to remove corrupt pol
+ iticians and reclaim democracy. Meet at the Palm Beach Courthouse and marc
+ h to the Green Market.\n\nPalm Beach Courthouse
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Palm+Beach+C
+ ourthouse%2C+Corner+of+3rd+St+%26+Dixie%2C+West+Palm+Beach%2C+FL&zoom=15&b
+ asemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

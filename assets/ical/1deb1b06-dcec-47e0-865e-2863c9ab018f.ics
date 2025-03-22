@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:06af9733-8612-484f-b3c7-631e3d3079be
+SEQUENCE:0
+DTSTAMP:20250322T090734Z
+DTSTART:20250405T140000
+DTEND:20250405T160000
+SUMMARY:Drive Out Musk
+LOCATION:6500 Cedar Springs Rd\, Dallas\, TX
+DESCRIPTION:Join us for a protest against Elon Musk at the Tesla Dealershi
+ p. Part of the #TeslaTakedown movement.\n\nTesla Dealership
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=6500+Cedar+S
+ prings+Rd%2C+Dallas%2C+TX&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

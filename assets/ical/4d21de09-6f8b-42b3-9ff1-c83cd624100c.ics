@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:3150077d-ffb0-4e17-b6bc-748729396291
+SEQUENCE:0
+DTSTAMP:20250322T090733Z
+DTSTART:20250329T100000
+DTEND:20250329T120000
+SUMMARY:FAMILIES PROTECTING FAMILIES RALLY
+LOCATION:Roosevelt Bridge\, Stuart\, FL
+DESCRIPTION:Join us for a rally to show support for our immigrant communit
+ y. Bring supportive signs and join fellow community members. Afterwards\, 
+ you're invited to lunch in the Golden Gate neighborhood of Stuart.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Roosevelt+Br
+ idge%2C+Stuart%2C+FL&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

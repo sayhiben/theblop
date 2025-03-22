@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:25dc8701-a856-4b92-9c97-26c61251a545
+SEQUENCE:0
+DTSTAMP:20250322T090734Z
+DTSTART:20250405T110000
+DTEND:20250405T130000
+SUMMARY:Nationwide Day of Peaceful Protest
+LOCATION:102050 Overseas Highway\, Key Largo\, FL
+DESCRIPTION:We are hosting a peaceful protest to remove corrupt presidents
+  and politicians\, reverse the damage\, and reclaim our democracy. The eve
+ nt will take place in Key Largo\, where participants are invited to bring 
+ signs and sunscreen. We welcome speakers and encourage nonviolence.\n\nMur
+ ray Nelson Govt. Center
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=102050+Overs
+ eas+Highway%2C+Key+Largo%2C+FL&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

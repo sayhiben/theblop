@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:60877a17-7a2e-46ea-bce7-4168dff103ba
+SEQUENCE:0
+DTSTAMP:20250322T090734Z
+DTSTART:20250405T140000
+DTEND:20250405T160000
+SUMMARY:Peaceful Protest & March
+LOCATION:\, La Grande\, OR
+DESCRIPTION:We are organizing a peaceful protest and march to address poli
+ tical concerns\, focusing on removing corrupt politicians\, reversing dama
+ ge\, and reclaiming democracy.\n\nMax Square
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+La+Grand
+ e%2C+OR&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

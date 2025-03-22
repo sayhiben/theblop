@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:e3934e31-d1b4-43d2-89ce-aa07d01d6678
+SEQUENCE:0
+DTSTAMP:20250322T090734Z
+DTSTART:20250611T180000
+DTEND:20250611T200000
+SUMMARY:Social Justice Empowerment Reception
+LOCATION:300 New Jersey Avenue NW\, Washington\, DC
+DESCRIPTION:Join the Mississippi Center for Justice for their distinguishe
+ d event focusing on social justice empowerment.\n\nThe Observatory at Amer
+ ica’s Square
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=300+New+Jers
+ ey+Avenue+NW%2C+Washington%2C+DC&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

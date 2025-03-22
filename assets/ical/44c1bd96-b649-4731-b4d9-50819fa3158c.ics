@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:f701afab-aedd-4854-96cc-a49a29f56f16
+SEQUENCE:0
+DTSTAMP:20250322T090733Z
+DTSTART:20250323T170000
+DTEND:20250323T190000
+SUMMARY:Our Streets General Body Meeting
+LOCATION:816 Tripoli Street\, Pittsburgh\, PA
+DESCRIPTION:We are hosting a general meeting to discuss community initiati
+ ves\, with a special request for tent donations to support those in need.\
+ n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=816+Tripoli+
+ Street%2C+Pittsburgh%2C+PA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

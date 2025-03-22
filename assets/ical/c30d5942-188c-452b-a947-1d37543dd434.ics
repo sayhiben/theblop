@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:f67350dd-de66-43a6-8868-596b6317410b
+SEQUENCE:0
+DTSTAMP:20250322T090733Z
+DTSTART:20250405T120000
+DTEND:20250405T140000
+SUMMARY:Hands Off
+LOCATION:MN State Capitol\, St. Paul\, MN
+DESCRIPTION:We are organizing a mass mobilization called "Hands Off" to ad
+ dress diverse social and political issues\, including healthcare\, jobs\, 
+ fair elections\, consumer protections\, and more. Join us at the MN State 
+ Capitol.\n\nMN State Capitol
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=MN+State+Cap
+ itol%2C+St.+Paul%2C+MN&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

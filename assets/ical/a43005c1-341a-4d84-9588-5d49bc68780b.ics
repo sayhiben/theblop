@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:101483de-757f-4ded-b40d-758bb55e6e8a
+SEQUENCE:0
+DTSTAMP:20250322T090734Z
+DTSTART:20250405T110000
+DTEND:20250405T130000
+SUMMARY:Remove Reverse Reclaim
+LOCATION:Island Walk Shopping Center at Palm Coast Pkwy and Old Kings Rd\;
+  Target at Belle Terre and Rt. 100\, Palm Coast\, FL
+DESCRIPTION:We are organizing nationwide protests and sit-ins to remove co
+ rrupt politicians\, reverse the damage\, and reclaim our democracy.\n\nPal
+ m Coast\, Florida
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Island+Walk+
+ Shopping+Center+at+Palm+Coast+Pkwy+and+Old+Kings+Rd%3B+Target+at+Belle+Ter
+ re+and+Rt.+100%2C+Palm+Coast%2C+FL&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

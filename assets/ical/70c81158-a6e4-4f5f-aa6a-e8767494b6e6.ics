@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:dcfe5079-61b9-4db9-92eb-d7c88da08d45
+SEQUENCE:0
+DTSTAMP:20250322T090733Z
+DTSTART:20250322T100000
+DTEND:20250322T120000
+SUMMARY:Emergency Protest
+LOCATION:212 SW 9th St\, Lawton\, OK
+DESCRIPTION:An emergency protest to stop the genocide\, calling for an arm
+ s embargo.\n\nLawton City Hall
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=212+SW+9th+S
+ t%2C+Lawton%2C+OK&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
