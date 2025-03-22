@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:a28e151a-7cf6-4892-8d5d-a1ff96804bf1
+SEQUENCE:0
+DTSTAMP:20250322T150236Z
+DTSTART:20250322T130000
+DTEND:20250322T150000
+SUMMARY:Rally & Learn
+LOCATION:Gettysburg National Military Park
+DESCRIPTION:Join us to protect national parks and support park rangers. Th
+ e event emphasizes recent court rulings declaring previous firings illegal
+  and mobilizes participants to call for rehiring.\n\nGettysburg National M
+ ilitary Park
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Gettysburg+N
+ ational+Military+Park&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

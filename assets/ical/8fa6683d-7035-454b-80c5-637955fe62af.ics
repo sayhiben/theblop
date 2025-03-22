@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:3f26599c-c9a7-4cbf-8794-4a5ef3d2023f
+SEQUENCE:0
+DTSTAMP:20250322T150236Z
+DTSTART:20250405T083700
+DTEND:20250405T103700
+SUMMARY:The People's Veto / Hands Off! Rally on D.C.
+LOCATION:15th Street Northwest\, Washington\, DC
+DESCRIPTION:We are organizing a rally with a bus rideshare from York\, PA\
+ , to Washington\, DC. Join us as we head to the capital to participate in 
+ the People's Veto.\n\n15th Street Northwest\, Washington\, DC
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=15th+Street+
+ Northwest%2C+Washington%2C+DC&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

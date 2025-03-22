@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:75ae7da7-ae40-4edf-ad20-5a253eae34eb
+SEQUENCE:0
+DTSTAMP:20250322T150236Z
+DTSTART:20250327T163000
+DTEND:20250327T183000
+SUMMARY:Free Mahmoud Khalil
+LOCATION:Westlake Park\, 4th and Pine\, Seattle\, WA
+DESCRIPTION:This rally and march aim to demand the release of Mahmoud Khal
+ il\, a legal US resident\, against perceived injustice and oppression.\n\n
+ Westlake Park
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Westlake+Par
+ k%2C+4th+and+Pine%2C+Seattle%2C+WA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

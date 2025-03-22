@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:184abfaf-49ca-4613-bc49-cf84b86f45e9
+SEQUENCE:0
+DTSTAMP:20250322T150236Z
+DTSTART:20250323T000000
+DTEND:20250323T020000
+SUMMARY:Rally to Save USPS
+DESCRIPTION:We are organizing a rally to save the USPS and calling on all 
+ branches to participate and show support.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=&zoom=15&bas
+ emap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
