@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:ae154947-dece-4bb2-bf00-0554b98f0cb0
+SEQUENCE:0
+DTSTAMP:20250322T031202Z
+DTSTART:20250322T170000
+DTEND:20250322T190000
+SUMMARY:Anti-Fascist "Tailgate"
+LOCATION:Pattison Ave sidewalk between Broad St & S 11th St across from Ta
+ ckle Statue\, Philadelphia\, PA
+DESCRIPTION:Join the peaceful protest coinciding with Trump's attendance a
+ t the NCAA wrestling tournament in Philadelphia. Features a tongue-in-chee
+ k "Orangeness wrestling match."\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Pattison+Ave
+ +sidewalk+between+Broad+St+%26+S+11th+St+across+from+Tackle+Statue%2C+Phil
+ adelphia%2C+PA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
