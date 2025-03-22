@@ -2,17 +2,18 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:500eea8f-a0c6-4cc1-959e-7e419ae54001
+UID:641cd87f-2aba-462c-bcd4-91b63a549e60
 SEQUENCE:0
-DTSTAMP:20250322T180237Z
+DTSTAMP:20250322T193225Z
 DTSTART:20250322T120000
 DTEND:20250322T140000
 SUMMARY:Rally & Learn
+LOCATION:\, Nationwide\, Nationwide
 DESCRIPTION:Join us for the Rally & Learn event focused on protecting publ
  ic lands. Ready for round 2\, this gathering continues the mission to safe
  guard our parks.\n\n
-URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=&zoom=15&bas
- emap=roadmap
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+Nationwi
+ de%2C+Nationwide&zoom=15&basemap=roadmap
 STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

@@ -2,19 +2,19 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:4c7b0c96-3088-4b2e-8d7c-7c99fe4401c3
+UID:6ad8b625-6430-46e7-9c1a-a7158da75489
 SEQUENCE:0
-DTSTAMP:20250322T180237Z
+DTSTAMP:20250322T193225Z
 DTSTART:20250322T100000
 DTEND:20250322T120000
 SUMMARY:Tesla Takedown
-LOCATION:\, \, CA
+LOCATION:\, Multiple Locations\, CA
 DESCRIPTION:Join us for the Tesla Takedown event on March 22 across variou
  s locations in Southern California. We aim to bring attention to the $38 b
  illion in government handouts received by certain companies. Engage with u
  s in morning and afternoon protests.\n\n
-URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+%2C+CA&z
- oom=15&basemap=roadmap
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+Multiple
+ +Locations%2C+CA&zoom=15&basemap=roadmap
 STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

@@ -2,19 +2,20 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:76152b36-e0ca-4c73-9b66-2d54244b05aa
+UID:3e5f81ae-9704-4924-98ed-ed43ed01fbda
 SEQUENCE:0
-DTSTAMP:20250322T180237Z
+DTSTAMP:20250322T193225Z
 DTSTART:20250322T080000
 DTEND:20250322T100000
 SUMMARY:Art & Revolution Convergence
+LOCATION:\, Seattle\, WA
 DESCRIPTION:Join other organizers\, activists\, artists\, performers\, and
   folks yearning for a better world for two days of arts-organizing worksho
  ps\, skills sharing\, and public action. We aim to build skills\, communit
  y\, and imagination to spread and deepen the use of arts and culture in di
  rect action campaigns and movements.\n\n
-URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=&zoom=15&bas
- emap=roadmap
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+Seattle%
+ 2C+WA&zoom=15&basemap=roadmap
 STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

@@ -2,17 +2,17 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:4ca1ee77-1ce5-49ae-af4b-d63c400f5a5e
+UID:27711df7-2668-4764-85fe-da30d5f3e2e5
 SEQUENCE:0
-DTSTAMP:20250322T180237Z
+DTSTAMP:20250322T193225Z
 DTSTART:20250322T120000
 DTEND:20250322T140000
 SUMMARY:Rally & Learn
-LOCATION:\, \, Nationwide
+LOCATION:\, Nationwide\, Nationwide
 DESCRIPTION:Ready for Round 2? Protect the Parks is back! Join us in our e
  fforts to protect public lands.\n\n
-URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+%2C+Nati
- onwide&zoom=15&basemap=roadmap
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+Nationwi
+ de%2C+Nationwide&zoom=15&basemap=roadmap
 STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR
