@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:aa30075f-4a27-4df8-b95d-7bf4e7bb7202
+SEQUENCE:0
+DTSTAMP:20250322T120309Z
+DTSTART:20250405T120000
+DTEND:20250405T140000
+SUMMARY:Hands Off! Joliet Fights Back
+LOCATION:100 W Jefferson St\, Joliet\, IL
+DESCRIPTION:Join us for a visibility event to raise awareness and mobilize
+  against proposed changes. This volunteer-organized event aims to rally su
+ pport and demonstrate community unity.\n\nOld Courthouse Grounds
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=100+W+Jeffer
+ son+St%2C+Joliet%2C+IL&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

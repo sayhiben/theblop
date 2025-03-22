@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:e92bbc9a-fef8-4d3f-a837-453f0bf2681c
+SEQUENCE:0
+DTSTAMP:20250322T120309Z
+DTSTART:20250405T120000
+DTEND:20250405T140000
+SUMMARY:Wisconsin's March Forward
+LOCATION:Wisconsin State Capitol Building\, Madison\, WI
+DESCRIPTION:Join us as we rally together at the Wisconsin State Capitol to
+  take back power from big corporations by supporting local organizations a
+ nd communities. Everyone supporting democratic principles and a better wor
+ ld is welcome. Bring signs\, instruments\, or something to share.\n\nForwa
+ rd Statue
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Wisconsin+St
+ ate+Capitol+Building%2C+Madison%2C+WI&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

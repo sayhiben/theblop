@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:882f9c81-da4b-4818-9516-3a8559acbc1b
+SEQUENCE:0
+DTSTAMP:20250322T120309Z
+DTSTART:20250323T110000
+DTEND:20250323T130000
+SUMMARY:March 23 Rally
+LOCATION:Minnesota State Capitol\, St. Paul\, MN
+DESCRIPTION:We are organizing a rally to advocate for a strong contract an
+ d oppose the privatization of USPS.\n\nMinnesota State Capitol
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Minnesota+St
+ ate+Capitol%2C+St.+Paul%2C+MN&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

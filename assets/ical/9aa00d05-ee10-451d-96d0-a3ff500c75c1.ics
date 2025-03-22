@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:dcb079ac-a6a7-4ea2-be8f-baa6126a2538
+SEQUENCE:0
+DTSTAMP:20250322T120309Z
+DTSTART:20250323T110000
+DTEND:20250323T130000
+SUMMARY:WE WON'T BACK DOWN
+LOCATION:Cumberland Town Commons\, Tuttle Road\, Cumberland (across from M
+ IW\, 353 Tuttle Road)\, Cumberland\, ME
+DESCRIPTION:We will march in solidarity and loving support for LGBTQIA+ st
+ udents.\n\nCumberland Town Commons
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Cumberland+T
+ own+Commons%2C+Tuttle+Road%2C+Cumberland+%28across+from+MIW%2C+353+Tuttle+
+ Road%29%2C+Cumberland%2C+ME&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

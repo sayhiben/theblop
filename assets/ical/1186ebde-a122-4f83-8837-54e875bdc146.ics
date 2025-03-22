@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:8ed1e9b4-c94b-4683-82c4-e741fb4f8633
+SEQUENCE:0
+DTSTAMP:20250322T120309Z
+DTSTART:20250329T110000
+DTEND:20250329T130000
+SUMMARY:Global Tesla Protest
+LOCATION:2601 104th St\, Urbandale\, IA
+DESCRIPTION:We are organizing a global protest against Tesla on March 29th
+  to have protestors present outside of every showroom in the world.\n\nTes
+ la (sidewalk)
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=2601+104th+S
+ t%2C+Urbandale%2C+IA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

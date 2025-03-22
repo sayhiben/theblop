@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:5d4a1595-95dc-4540-9ce3-33f3008ca795
+SEQUENCE:0
+DTSTAMP:20250322T120309Z
+DTSTART:20250422T120000
+DTEND:20250422T140000
+SUMMARY:Indigenous Peoples Rally
+LOCATION:WA State Capitol\, Olympia\, WA
+DESCRIPTION:Join us at the Water is Life Earth Day Rally\, welcoming all. 
+ The event includes a gathering\, speeches\, and activities focused on Indi
+ genous peoples\, organized by 50501 and The Peoples Rebellion.\n\nTivoli F
+ ountain
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=WA+State+Cap
+ itol%2C+Olympia%2C+WA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

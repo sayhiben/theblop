@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:46b6770d-e6fe-489a-bd91-1373d0cae978
+SEQUENCE:0
+DTSTAMP:20250322T120309Z
+DTSTART:20250406T130000
+DTEND:20250406T150000
+SUMMARY:LGBTQIA+ Rally Together
+LOCATION:1199 Capitol Way S\, Olympia\, WA
+DESCRIPTION:Together we fight the erasure of our LGBTQIA+ community.\n\nTi
+ voli Fountain (Front of Capitol Building)
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=1199+Capitol
+ +Way+S%2C+Olympia%2C+WA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

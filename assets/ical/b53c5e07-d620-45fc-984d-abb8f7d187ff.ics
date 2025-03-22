@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:03e1b61c-a80f-4c57-aa1e-60dd413a2251
+SEQUENCE:0
+DTSTAMP:20250322T120309Z
+DTSTART:20250322T110000
+DTEND:20250322T130000
+SUMMARY:Town Hall
+LOCATION:100 Academic Way\, Stratham\, NH
+DESCRIPTION:We are hosting a Town Hall at Cooperative Middle School to sha
+ re updates on Congressman Chris Pappas's work in Congress and engage with 
+ attendees.\n\nCooperative Middle School
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=100+Academic
+ +Way%2C+Stratham%2C+NH&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
