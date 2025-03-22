@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:71d8661c-4fdc-439a-a7c6-0359914c0a7a
+SEQUENCE:0
+DTSTAMP:20250322T210244Z
+DTSTART:20250328T170000
+DTEND:20250328T190000
+SUMMARY:Fridays Against Fascism Visibility
+LOCATION:Magnolia & Tujunga\, North Hollywood\, CA
+DESCRIPTION:Join us every Friday to take a stand against fascism and show 
+ our neighbors they are not alone. Bring signs\, water\, and your passion t
+ o North Hollywood Park.\n\nNorth Hollywood Park
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Magnolia+%26
+ +Tujunga%2C+North+Hollywood%2C+CA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

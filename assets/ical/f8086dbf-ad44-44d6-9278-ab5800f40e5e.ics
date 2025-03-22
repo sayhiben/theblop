@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:3a968593-4a3e-444e-8a31-d696fab6e604
+SEQUENCE:0
+DTSTAMP:20250322T210244Z
+DTSTART:20250324T120000
+DTEND:20250324T140000
+SUMMARY:Stop Elon Musk!
+LOCATION:999 Van Ness Avenue\, San Francisco\, CA
+DESCRIPTION:Join our protest every Monday to support federal workers and o
+ ppose Elon Musk. We gather at noon to show solidarity and support over 600
+ \,000 veterans in government.\n\nTesla Dealership
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=999+Van+Ness
+ +Avenue%2C+San+Francisco%2C+CA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

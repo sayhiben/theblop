@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:630862f3-6797-4f12-8dd1-da5f919c5cc7
+SEQUENCE:0
+DTSTAMP:20250322T210244Z
+DTSTART:20250405T120000
+DTEND:20250405T140000
+SUMMARY:Hands Off!
+LOCATION:Civic Center Plaza\, San Diego\, CA
+DESCRIPTION:We are organizing a mass mobilization in San Diego County to e
+ ncourage community participation.\n\nCivic Center Plaza
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Civic+Center
+ +Plaza%2C+San+Diego%2C+CA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:64f67f89-559e-44d0-8670-0d8883dbdd84
+SEQUENCE:0
+DTSTAMP:20250322T210244Z
+DTSTART:20250405T100000
+DTEND:20250405T120000
+SUMMARY:REMOVE REVERSE RECLAIM
+LOCATION:Veterans' Park\, Washington & 3rd Ave.\, Westwood\, NJ
+DESCRIPTION:We are organizing a protest to remove corrupt politicians\, re
+ verse the damage\, and reclaim our democracy. Join us to make a difference
+ .\n\n@Bandstand
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Veterans%27+
+ Park%2C+Washington+%26+3rd+Ave.%2C+Westwood%2C+NJ&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
