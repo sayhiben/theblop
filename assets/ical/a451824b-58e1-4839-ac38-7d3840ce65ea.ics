@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:480a0c5b-1890-445a-a522-03c04b00ffe7
+SEQUENCE:0
+DTSTAMP:20250322T000734Z
+DTSTART:20250405T140000
+DTEND:20250405T160000
+SUMMARY:REMOVE REVERSE RECLAIM
+LOCATION:711 E Locust St\, Des Moines\, IA
+DESCRIPTION:We are organizing a rally to remove corrupt politicians\, reve
+ rse the damage from executive overreach\, and reclaim our democracy. We as
+ k everyone to wear red in unity and encourage bringing flags and other pat
+ riotic items.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=711+E+Locust
+ +St%2C+Des+Moines%2C+IA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:d9485062-7040-4324-a9bc-8df8393ff86a
+SEQUENCE:0
+DTSTAMP:20250322T000734Z
+DTSTART:20250405T120000
+DTEND:20250405T140000
+SUMMARY:REMOVE\, REVERSE\, RECLAIM
+LOCATION:N. Main St\, Concord\, NH
+DESCRIPTION:Join us as we fight to restore democracy and build toward a be
+ tter future that includes safety\, diversity\, equity\, and inclusion for 
+ all.\n\nState Capitol
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=N.+Main+St%2
+ C+Concord%2C+NH&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

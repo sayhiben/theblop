@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:f1a9049c-4bb3-46b4-b874-4b110fb8f45e
+SEQUENCE:0
+DTSTAMP:20250322T000734Z
+DTSTART:20250405T140000
+DTEND:20250405T160000
+SUMMARY:Drive Out Musk
+LOCATION:6500 Cedar Springs Rd\, Dallas\, TX
+DESCRIPTION:Join us for a protest against Tesla\, as part of the #TeslaTak
+ edown and #NoNazi movements.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=6500+Cedar+S
+ prings+Rd%2C+Dallas%2C+TX&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

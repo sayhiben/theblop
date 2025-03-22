@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:7c70fcab-32a7-4018-9f00-48428091937b
+SEQUENCE:0
+DTSTAMP:20250322T000734Z
+DTSTART:20250405T120000
+DTEND:20250405T140000
+SUMMARY:We the People VETO Project 2025
+LOCATION:State Capitol\, East side\, Topeka\, KS
+DESCRIPTION:Join us in our peaceful dissent against the Trump-Musk coup to
+  protect various public policies and interests.\n\nEast side @ Noon
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=State+Capito
+ l%2C+East+side%2C+Topeka%2C+KS&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

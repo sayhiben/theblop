@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:dd805915-c94d-4903-9b3f-633d4bd82b96
+SEQUENCE:0
+DTSTAMP:20250322T000734Z
+DTSTART:20250322T130000
+DTEND:20250322T150000
+SUMMARY:SAVE DEMOCRACY! FIGHT FOR OUR VALUES!
+LOCATION:Corner of Library Ave and Ogletown Rd.\, Newark\, DE
+DESCRIPTION:We will be standing on the corner\, making it accessible for p
+ eople with physical limitations. This is a peaceful protest\; do not engag
+ e with hecklers. We must stay on public property.\n\nCollege Square Lot
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Corner+of+Li
+ brary+Ave+and+Ogletown+Rd.%2C+Newark%2C+DE&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

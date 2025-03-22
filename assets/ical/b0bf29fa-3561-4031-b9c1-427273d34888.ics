@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:36b76dbd-e91e-4499-912f-aa85c0e2b825
+SEQUENCE:0
+DTSTAMP:20250322T000734Z
+DTSTART:20250322T120000
+DTEND:20250322T140000
+SUMMARY:Rally for Working People
+LOCATION:375 Adelaide Ave (across Tesla dealership)\, Providence\, RI
+DESCRIPTION:Peacefully protest the billionaire breaking the country for ta
+ x breaks. Stand with us as we fight to put workers first.\n\nPark behind t
+ he school in the lot or on street
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=375+Adelaide
+ +Ave+%28across+Tesla+dealership%29%2C+Providence%2C+RI&zoom=15&basemap=roa
+ dmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

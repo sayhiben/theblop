@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:aef70d24-990e-4d38-b55a-caca5fa614b3
+SEQUENCE:0
+DTSTAMP:20250322T000734Z
+DTSTART:20250405T113000
+DTEND:20250405T133000
+SUMMARY:Tesla Takeover
+LOCATION:435 Westlake Ave N\, Tesla Dealership\, Seattle\, WA
+DESCRIPTION:Join us for a protest against Elon Musk's actions in Seattle\,
+  organized by Voices Ignited and Tesla Takedown.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=435+Westlake
+ +Ave+N%2C+Tesla+Dealership%2C+Seattle%2C+WA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

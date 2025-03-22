@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:9415d9d9-e143-4484-bdc2-1e74dd5a4812
+SEQUENCE:0
+DTSTAMP:20250322T000734Z
+DTSTART:20250329T100000
+DTEND:20250329T120000
+SUMMARY:Rally with AFGE Local 1206!
+LOCATION:10535 Hospital Way\, Mather CA 95655
+DESCRIPTION:Join AFGE Local 1206\, your colleagues\, dynamic labor leaders
+ \, and fellow union and coalition family members as we come together and r
+ ally to safeguard the civil service and preserve the rights of workers.\n\
+ nParking Lot across the street from Mather VA Medical Center (Outside)
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=10535+Hospit
+ al+Way%2C+Mather+CA+95655&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

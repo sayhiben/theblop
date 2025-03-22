@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:073d0ab5-a3da-4882-af52-8bd5994322e7
+SEQUENCE:0
+DTSTAMP:20250322T000734Z
+DTSTART:20250405T120000
+DTEND:20250405T140000
+SUMMARY:Hands Off Protest
+LOCATION:Newcomb Park\, Wasilla\, AK
+DESCRIPTION:We are organizing a protest against the billionaire power grab
+  by Trump and Musk. Join us to defend social and economic rights\, support
+ ing Medicare\, Medicaid\, Social Security\, and more. Bring friends and si
+ gns to support our cause.\n\nNewcomb Park\, Wasilla
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Newcomb+Park
+ %2C+Wasilla%2C+AK&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:b911b5d8-5c23-4eb2-8892-da97ee95afac
+SEQUENCE:0
+DTSTAMP:20250322T000734Z
+DTSTART:20250322T120000
+DTEND:20250322T140000
+SUMMARY:TeslaTakedown Northbrook
+LOCATION:1200 Skokie Blvd\, Northbrook\, IL
+DESCRIPTION:We are holding a protest event\, encouraging participants to b
+ ring signs and friends to show support.\n\n1200 Skokie Blvd\, Northbrook\,
+  IL\, 60062
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=1200+Skokie+
+ Blvd%2C+Northbrook%2C+IL&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

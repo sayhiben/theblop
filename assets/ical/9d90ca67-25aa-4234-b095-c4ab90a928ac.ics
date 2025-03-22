@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:df66e935-60b6-4ce8-9412-ddac29b8fa8e
+SEQUENCE:0
+DTSTAMP:20250322T000734Z
+DTSTART:20250405T120000
+DTEND:20250405T140000
+SUMMARY:National Day of Action
+LOCATION:Fulton Rd NW & Wales Ave NW (Jackson Twp Library)\, Jackson Towns
+ hip\, OH
+DESCRIPTION:Join us for a national protest across 50 states to uphold the 
+ constitution\, end executive overreach\, and promote liberty and justice f
+ or all. This peaceful protest is open to everyone and will proceed rain or
+  shine. Bring your signs and a chair if you like!\n\nFulton Rd NW & Wales 
+ Ave NW (Jackson Twp Library)
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Fulton+Rd+NW
+ +%26+Wales+Ave+NW+%28Jackson+Twp+Library%29%2C+Jackson+Township%2C+OH&zoom
+ =15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:8f7db461-5852-47c2-a0fe-5467652502b3
+SEQUENCE:0
+DTSTAMP:20250322T000734Z
+DTSTART:20250323T133000
+DTEND:20250323T153000
+SUMMARY:DEFEND ABQ
+LOCATION:501 Elizabeth St SE\, Albuquerque\, NM
+DESCRIPTION:Meet with Mayor Tim Keller and the City about ways we are figh
+ ting for our families during tough times against federal cuts affecting jo
+ bs\, programs\, and protections.\n\nManzano Mesa Multigenerational Center
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=501+Elizabet
+ h+St+SE%2C+Albuquerque%2C+NM&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

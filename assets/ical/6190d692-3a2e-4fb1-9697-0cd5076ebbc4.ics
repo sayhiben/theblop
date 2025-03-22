@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:29a66b65-3c0e-4643-abc4-64f9e6cdd2f8
+SEQUENCE:0
+DTSTAMP:20250322T000734Z
+DTSTART:20250328T113000
+DTEND:20250328T133000
+SUMMARY:Solidarity with Federal Workers
+LOCATION:Henry M. Jackson Federal Building\, 915 2nd Ave\, Seattle\, WA
+DESCRIPTION:Join us to show solidarity with federal workers and vulnerable
+  groups at the Federal Building. Our diverse and nonpartisan workforce fac
+ es challenges from billionaires and MAGA bullies.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Henry+M.+Jac
+ kson+Federal+Building%2C+915+2nd+Ave%2C+Seattle%2C+WA&zoom=15&basemap=road
+ map
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

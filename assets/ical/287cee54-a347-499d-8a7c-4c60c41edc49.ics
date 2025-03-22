@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:02787b19-cced-4f2c-94f5-495cacb4dfa5
+SEQUENCE:0
+DTSTAMP:20250322T000734Z
+DTSTART:20250322T100000
+DTEND:20250322T120000
+SUMMARY:Protest Against Rep. Monica De La Cruz
+LOCATION:1400 N. McColl Rd. Ste. 103\, McAllen\, TX
+DESCRIPTION:We are protesting against Congresswoman Monica de La Cruz for 
+ refusing to meet in person for a town hall and voting against constituents
+ ' interests such as SS\, Medicare\, Medicaid\, and the PACT Act for Vetera
+ ns.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=1400+N.+McCo
+ ll+Rd.+Ste.+103%2C+McAllen%2C+TX&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

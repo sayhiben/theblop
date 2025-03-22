@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:ab7729b5-1087-4e66-91e0-18d5c6fd10d7
+SEQUENCE:0
+DTSTAMP:20250322T000734Z
+DTSTART:20250323T130000
+DTEND:20250323T150000
+SUMMARY:Rally to Save USPS
+LOCATION:1401 W Fort St.\, Detroit\, MI
+DESCRIPTION:Join us at NALC Branch 1 in Detroit\, MI to stand with letter 
+ carriers in a rally against dismantling the Postal Service. The rally aims
+  to show support for USPS and oppose any actions that may undermine postal
+  services.\n\nNALC Branch 1
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=1401+W+Fort+
+ St.%2C+Detroit%2C+MI&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

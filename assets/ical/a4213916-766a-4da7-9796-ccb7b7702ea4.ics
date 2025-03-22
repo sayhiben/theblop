@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:ade4f03e-7b3b-4f30-9b43-0e01e05cba11
+SEQUENCE:0
+DTSTAMP:20250322T000734Z
+DTSTART:20250322T120000
+DTEND:20250322T140000
+SUMMARY:Planned Protest Tomorrow
+LOCATION:Olympia Capitol Building\, Olympia\, WA
+DESCRIPTION:Join us at the Olympia Capitol Building to protest and call fo
+ r the repeal of the Alien Enemies Act of 1798. Stand with us against inter
+ nment and deportations.\n\nOlympia Capitol Building
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Olympia+Capi
+ tol+Building%2C+Olympia%2C+WA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:b2d7f8c4-e636-406b-9f2e-fede2b779e6c
+SEQUENCE:0
+DTSTAMP:20250322T000734Z
+DTSTART:20250322T120000
+DTEND:20250322T140000
+SUMMARY:Protect our Democracy Protest
+LOCATION:703 Washington St\, Holliston\, MA
+DESCRIPTION:Standout for our Democracy in front of Holliston Town Hall.\n\
+ nHolliston Town Hall
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=703+Washingt
+ on+St%2C+Holliston%2C+MA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

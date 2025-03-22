@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:a9e409ef-8882-40da-9c4b-b687b225299f
+SEQUENCE:0
+DTSTAMP:20250322T000734Z
+DTSTART:20250329T130000
+DTEND:20250329T150000
+SUMMARY:Stop the Coup Rally
+LOCATION:1018 North 3rd Street\, Wilmington\, NC
+DESCRIPTION:The rally aims to express opposition\, themed “By Any Means 
+ Necessary\,” supported by a coalition of various organizations. Attendee
+ s are invited to join at the specified location and time.\n\n1898 Memorial
+  Park
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=1018+North+3
+ rd+Street%2C+Wilmington%2C+NC&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

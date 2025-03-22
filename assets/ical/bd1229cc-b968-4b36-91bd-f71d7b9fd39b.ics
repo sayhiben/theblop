@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:6a97b874-55f3-43ef-a041-88922d152c89
+SEQUENCE:0
+DTSTAMP:20250322T000734Z
+DTSTART:20250322T120000
+DTEND:20250322T140000
+SUMMARY:Anti-Musk/Trump Rally at Tesla - Brooklyn
+LOCATION:106 2nd Ave\, Brooklyn\, NY
+DESCRIPTION:This rally is part of a series aimed at expressing dissent aga
+ inst Musk and Trump. Organized by volunteers\, it's the fifth round of ral
+ lies.\n\nTesla Gowanus Brooklyn
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=106+2nd+Ave%
+ 2C+Brooklyn%2C+NY&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

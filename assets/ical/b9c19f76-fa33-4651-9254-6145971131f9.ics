@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:3a4aa6c0-4759-4432-aa84-8756a7bcc1a9
+SEQUENCE:0
+DTSTAMP:20250322T000734Z
+DTSTART:20250405T130000
+DTEND:20250405T150000
+SUMMARY:Newtown Protest & March
+LOCATION:1 Main Street\, Newtown\, CT
+DESCRIPTION:Join us for a mass mobilization protest and march in Newtown t
+ o make our voices heard. Participate in this movement to demand action and
+  change.\n\n1 Main Street\, Newtown\, CT
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=1+Main+Stree
+ t%2C+Newtown%2C+CT&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

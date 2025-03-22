@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:82444a6b-2e67-4c60-b572-7d68ef4f046e
+SEQUENCE:0
+DTSTAMP:20250322T000734Z
+DTSTART:20250322T130000
+DTEND:20250322T150000
+SUMMARY:Stop the Scapegoating! Rally & March
+LOCATION:711 E Locust St\, Des Moines IA
+DESCRIPTION:We are organizing a rally and march to protest the scapegoatin
+ g of vulnerable communities. Join us to stand against the demonization of 
+ immigrants and transgender people\, and advocate for meeting people's need
+ s over military interests.\n\nPeople's Plaza
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=711+E+Locust
+ +St%2C+Des+Moines+IA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

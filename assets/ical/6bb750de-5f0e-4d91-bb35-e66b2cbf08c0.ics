@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:8a060c6a-db7b-4ea3-b48f-21731aad33b8
+SEQUENCE:0
+DTSTAMP:20250322T000734Z
+DTSTART:20250326T170000
+DTEND:20250326T190000
+SUMMARY:Rally to Protest Trump and Support Ukraine and Our Allies
+LOCATION:Castillo de San Marcos (The Fort)\, St. Augustine\, FL
+DESCRIPTION:Join us for a rally organized by St. Johns Democrats to protes
+ t against Trump and support Ukraine and our allies. Stand against hate and
+  policies affecting our country.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Castillo+de+
+ San+Marcos+%28The+Fort%29%2C+St.+Augustine%2C+FL&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

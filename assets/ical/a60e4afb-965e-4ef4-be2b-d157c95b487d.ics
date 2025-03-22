@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:48079af4-cc00-4366-aea1-6f6bfa787800
+SEQUENCE:0
+DTSTAMP:20250322T000734Z
+DTSTART:20250329T120000
+DTEND:20250329T140000
+SUMMARY:MISSING REPRESENTATION
+LOCATION:City Winery 1627 Small St. Strip District\, Pittsburgh\, PA
+DESCRIPTION:Join us for a peaceful protest outside the book talk event hel
+ d by Pennsylvania senators to demand attention to democratic issues instea
+ d of book selling.\n\nCity Winery
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=City+Winery+
+ 1627+Small+St.+Strip+District%2C+Pittsburgh%2C+PA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

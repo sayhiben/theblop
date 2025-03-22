@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:7372e022-c775-4ba5-927e-cf3969666a32
+SEQUENCE:0
+DTSTAMP:20250322T000734Z
+DTSTART:20250322T120000
+DTEND:20250322T140000
+SUMMARY:Say No To Fascism!
+LOCATION:Killingly Commons\, sidewalk in front of Taco Bell\, Dayville\, C
+ T
+DESCRIPTION:We are hosting a protest to stand against fascism in Dayville\
+ , Connecticut. Join us at Killingly Commons\, on the sidewalk in front of 
+ Taco Bell.\n\nSidewalk in front of Taco Bell
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Killingly+Co
+ mmons%2C+sidewalk+in+front+of+Taco+Bell%2C+Dayville%2C+CT&zoom=15&basemap=
+ roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

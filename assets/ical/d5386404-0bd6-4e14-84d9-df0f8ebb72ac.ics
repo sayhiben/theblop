@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:1ef80a0e-2089-4184-971e-7dec2b5c6900
+SEQUENCE:0
+DTSTAMP:20250322T000734Z
+DTSTART:20250322T130000
+DTEND:20250322T150000
+SUMMARY:Defend Democracy
+LOCATION:5544 Okeechobee Blvd.\, West Palm Beach\, FL
+DESCRIPTION:We invite you to join a peaceful protest advocating for democr
+ atic values. The event takes place at WPB Tesla Dealership\, and participa
+ nts can park at College Plaza.\n\nWPB Tesla Dealership
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=5544+Okeecho
+ bee+Blvd.%2C+West+Palm+Beach%2C+FL&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:ccac9453-7357-49d5-97a1-81292b309e38
+SEQUENCE:0
+DTSTAMP:20250322T000734Z
+DTSTART:20250322T103000
+DTEND:20250322T123000
+SUMMARY:Fighting Oligarchy: Where We Go From Here with Bernie Sanders in T
+ ucson
+LOCATION:3645 E Pima St\, Tucson\, AZ 85716
+DESCRIPTION:Join Bernie Sanders for an event in Tucson with music from Cal
+ exico and speeches including special guests Alexandria Ocasio-Cortez and G
+ reg Casar. The event promotes action against oligarchy.\n\nCatalina High S
+ chool Football Stadium
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=3645+E+Pima+
+ St%2C+Tucson%2C+AZ+85716&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

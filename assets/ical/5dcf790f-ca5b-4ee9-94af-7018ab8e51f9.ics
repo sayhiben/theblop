@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:d91a7d32-2d2b-4731-8bf9-3825bd31fd7f
+SEQUENCE:0
+DTSTAMP:20250322T000734Z
+DTSTART:20250322T140000
+DTEND:20250322T160000
+SUMMARY:Protest for Democracy
+LOCATION:125 Market St\, Youngstown\, OH
+DESCRIPTION:A peaceful protest rally against the Trump Administration's Pr
+ oject 2025 Agenda\, focusing on resisting fascism and demanding change.\n\
+ n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=125+Market+S
+ t%2C+Youngstown%2C+OH&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

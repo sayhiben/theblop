@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:6f0871a6-5499-4e98-b82b-db7f10514b9c
+SEQUENCE:0
+DTSTAMP:20250322T000734Z
+DTSTART:20250405T120000
+DTEND:20250405T140000
+SUMMARY:REMOVE REVERSE RECLAIM
+LOCATION:1 East Market St\, Corning\, NY
+DESCRIPTION:Join us in a peaceful rally to remove corrupt politicians\, re
+ verse the damage done\, and reclaim our democracy. This movement is part o
+ f a broader campaign happening across all 50 states.\n\nCenterway Square
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=1+East+Marke
+ t+St%2C+Corning%2C+NY&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

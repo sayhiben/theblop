@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:24814b83-f5de-4a24-bbe5-2d6562284dfc
+SEQUENCE:0
+DTSTAMP:20250322T000734Z
+DTSTART:20250323T130000
+DTEND:20250323T150000
+SUMMARY:Rally to Save USPS
+LOCATION:120 Main Street\, Falmouth\, MA
+DESCRIPTION:We are organizing a rally at the Falmouth Post Office to oppos
+ e the dismantling of the postal service. Bring your signs and posters to s
+ how support.\n\nFalmouth Post Office
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=120+Main+Str
+ eet%2C+Falmouth%2C+MA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:87c240bf-81be-4df9-9170-72c0c23517ef
+SEQUENCE:0
+DTSTAMP:20250322T000734Z
+DTSTART:20250322T130000
+DTEND:20250322T150000
+SUMMARY:Protect your Vote - Stop the SAVE Act
+LOCATION:Lansing Capitol - East Steps\, Lansing\, MI
+DESCRIPTION:Join us at the Lansing Capitol to rally against the SAVE Act\,
+  which is seen as creating unfair voting barriers. The event will feature 
+ speakers highlighting the act's impact and will provide action steps to pr
+ otect democracy.\n\nLansing Capitol - East Steps
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Lansing+Capi
+ tol+-+East+Steps%2C+Lansing%2C+MI&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

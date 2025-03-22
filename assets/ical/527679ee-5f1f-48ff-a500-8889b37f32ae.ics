@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:184e1836-4314-448f-8d16-5c56637b80a6
+SEQUENCE:0
+DTSTAMP:20250322T000734Z
+DTSTART:20250331T180000
+DTEND:20250331T200000
+SUMMARY:TAKIN’ IT TO THE STREETS: Women on the Frontlines of Social Chan
+ ge
+LOCATION:500 Ackerman Dr\, Porter\, IN
+DESCRIPTION:Join a panel discussion with Dr. Colette Morrow\, PhD and Jerr
+ y Boyle to explore the themes of women's rights and social change. Learn h
+ ow to know\, exercise\, and stay safe while pursuing your rights.\n\nHawth
+ orne Park Community Center
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=500+Ackerman
+ +Dr%2C+Porter%2C+IN&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

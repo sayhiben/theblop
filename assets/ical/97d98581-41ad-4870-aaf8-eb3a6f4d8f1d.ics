@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:c9ea3d2e-041e-46be-a6e2-44166f559747
+SEQUENCE:0
+DTSTAMP:20250322T000734Z
+DTSTART:20250322T120000
+DTEND:20250322T140000
+SUMMARY:Defending Democracy Protests
+LOCATION:Corner of William and Sandusky Streets\, Delaware\, OH
+DESCRIPTION:Join us in a grassroots and peaceful protest every Saturday to
+  stand up for democracy at the corner of William and Sandusky Streets\, in
+  front of City Hall. Bring signs and flags to show your support.\n\nIn fro
+ nt of City Hall
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Corner+of+Wi
+ lliam+and+Sandusky+Streets%2C+Delaware%2C+OH&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

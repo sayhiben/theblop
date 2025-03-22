@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:c114bad1-b3cc-4c92-99e3-be566bd633b3
+SEQUENCE:0
+DTSTAMP:20250322T000734Z
+DTSTART:20250322T120000
+DTEND:20250322T140000
+SUMMARY:Haleakalā National Park Protest
+LOCATION:Park Entrance\, Haleakalā National Park\, HI
+DESCRIPTION:Join us and 432 other NPS units on March 22nd at noon. Posters
+ \, postcards\, how to call your reps\, and more.\n\nPark Entrance
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Park+Entranc
+ e%2C+Haleakal%C4%81+National+Park%2C+HI&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

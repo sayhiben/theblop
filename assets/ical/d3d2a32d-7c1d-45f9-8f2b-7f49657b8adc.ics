@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:0f3aabb3-ad25-4d93-bc11-9621fcc0ae30
+SEQUENCE:0
+DTSTAMP:20250322T000734Z
+DTSTART:20250405T140000
+DTEND:20250405T160000
+SUMMARY:HANDS OFF! WASHINGTON COUNTY
+LOCATION:SW Hall and SW 5th St\, Beaverton\, OR
+DESCRIPTION:Rally organized to support the community and address the conce
+ rns of Washington County residents.\n\nSW Hall and SW 5th St
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=SW+Hall+and+
+ SW+5th+St%2C+Beaverton%2C+OR&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

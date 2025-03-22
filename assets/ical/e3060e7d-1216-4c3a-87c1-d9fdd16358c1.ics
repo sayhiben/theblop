@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:36dc76d5-e11c-4d1a-ad25-9a419cddb7fb
+SEQUENCE:0
+DTSTAMP:20250322T000734Z
+DTSTART:20250329T110000
+DTEND:20250329T130000
+SUMMARY:KEWEENAW AGAINST THE OLIGARCHY SILENT PROTEST
+LOCATION:\, Houghton\, MI
+DESCRIPTION:Join us for a powerful protest against the oligarchy. Our fist
+ s will be up in solidarity. We will meet at 10:40 am at Veteran’s Memori
+ al Park\, where police will be present for everyone's safety.\n\nVeteran
+ ’s Memorial Park
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+Houghton
+ %2C+MI&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

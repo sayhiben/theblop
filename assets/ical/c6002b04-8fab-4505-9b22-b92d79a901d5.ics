@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:4966341e-1802-4cfa-91a3-2a33be06abb5
+SEQUENCE:0
+DTSTAMP:20250322T000734Z
+DTSTART:20250323T130000
+DTEND:20250323T150000
+SUMMARY:Rally to Save USPS
+LOCATION:1400 Trumbull (meeting point)\, 1401 W Fort St (rally location)\,
+  Detroit\, MI
+DESCRIPTION:Join us to stand with letter carriers and support our postal s
+ ervice. We will gather for a rally\, with t-shirts available and transport
+ ation to the site. The event aims to protect postal service jobs and livel
+ ihoods.\n\nBranch 1’s Union Hall\, 1400 Trumbull\, Detroit\, MI 48216
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=1400+Trumbul
+ l+%28meeting+point%29%2C+1401+W+Fort+St+%28rally+location%29%2C+Detroit%2C
+ +MI&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

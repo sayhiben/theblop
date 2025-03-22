@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:24e62bbc-980d-41f4-9684-1d3d51064121
+SEQUENCE:0
+DTSTAMP:20250322T000734Z
+DTSTART:20250405T130000
+DTEND:20250405T150000
+SUMMARY:NY-11 Empty Chair Town Hall
+LOCATION:2329 Victory Blvd\, Staten Island\, NY
+DESCRIPTION:We invite all residents of NY-11 (Staten Island and Brooklyn) 
+ to discuss important topics and questions that matter to you with Rep. Mal
+ liotakis\, who is in her third term in Congress but has never held a town 
+ hall.\n\nAll Saints
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=2329+Victory
+ +Blvd%2C+Staten+Island%2C+NY&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

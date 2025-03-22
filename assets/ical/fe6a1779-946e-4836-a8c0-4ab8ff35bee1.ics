@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:6148bfbe-accc-41fc-84f6-1bc9a78d1a5a
+SEQUENCE:0
+DTSTAMP:20250322T000734Z
+DTSTART:20250322T120000
+DTEND:20250322T140000
+SUMMARY:Planned Protest
+LOCATION:Roosevelt Arch\, Yellowstone National Park\, Gardiner\, MT
+DESCRIPTION:Join us for the second rally to protect our public lands.\n\nR
+ oosevelt Arch
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Roosevelt+Ar
+ ch%2C+Yellowstone+National+Park%2C+Gardiner%2C+MT&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

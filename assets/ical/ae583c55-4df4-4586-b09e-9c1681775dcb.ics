@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:57f528f2-b894-4f19-a492-eb32f2a97aba
+SEQUENCE:0
+DTSTAMP:20250322T000734Z
+DTSTART:20250322T130000
+DTEND:20250322T150000
+SUMMARY:March to: Defend Federal and Public Sector Workers
+LOCATION:Congo Square\, New Orleans\, LA
+DESCRIPTION:We are organizing a march to defend federal and public sector 
+ workers. This event aims to protest against attacks by Musk and Trump\, pr
+ otect civil rights\, uphold diversity\, equity\, and inclusion\, and ensur
+ e essential services are off-limits to disruptions.\n\nCongo Square
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Congo+Square
+ %2C+New+Orleans%2C+LA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

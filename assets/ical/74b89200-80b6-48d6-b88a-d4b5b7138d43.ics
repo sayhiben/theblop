@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:09331ae2-4041-4f0a-8a0d-b030fc3ae445
+SEQUENCE:0
+DTSTAMP:20250322T000734Z
+DTSTART:20250405T150000
+DTEND:20250405T170000
+SUMMARY:Hands Off! Spokane Fights Back
+LOCATION:3922 N Normandie St\, Spokane\, WA
+DESCRIPTION:On Saturday\, April 5th\, we're taking to the streets to prote
+ st nonviolently against actions by Donald Trump and Elon Musk\, emphasizin
+ g a commitment to nonviolent action\, urging people to fight back with the
+  message "Hands off!"\n\nBA Clark Park
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=3922+N+Norma
+ ndie+St%2C+Spokane%2C+WA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

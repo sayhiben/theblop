@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:9f706792-8062-4236-bb03-a87d64e64f63
+SEQUENCE:0
+DTSTAMP:20250322T000734Z
+DTSTART:20250322T140000
+DTEND:20250322T160000
+SUMMARY:50501: The People’s Movement
+LOCATION:6101 Frisco Square Blvd\, Frisco\, TX
+DESCRIPTION:Join us to uphold the Constitution and end executive overreach
+ . Let’s hold our representatives accountable!\n\nRep Pat Fallon Office
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=6101+Frisco+
+ Square+Blvd%2C+Frisco%2C+TX&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

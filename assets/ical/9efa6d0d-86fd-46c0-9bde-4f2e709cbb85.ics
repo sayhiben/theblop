@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:c4e03416-1900-4493-b606-07b118606a00
+SEQUENCE:0
+DTSTAMP:20250322T000734Z
+DTSTART:20250405T120000
+DTEND:20250405T140000
+SUMMARY:Hands Off!
+LOCATION:701 Ocean Street\, Santa Cruz\, CA
+DESCRIPTION:We are hosting a mass mobilization event to express collective
+  concerns. Join us at the Superior Courthouse to stand together.\n\nSuperi
+ or Courthouse
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=701+Ocean+St
+ reet%2C+Santa+Cruz%2C+CA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

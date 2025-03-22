@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:cc3204ee-e9ff-4743-80ae-f53bdee630a5
+SEQUENCE:0
+DTSTAMP:20250322T000734Z
+DTSTART:20250326T120000
+DTEND:20250326T140000
+SUMMARY:Boycott One Day for Iowa
+LOCATION:Pentacrest\, Iowa City\, IA
+DESCRIPTION:We urge you to join the rally to boycott contributions to the 
+ university\, highlighting the need for academic freedom\, diversity\, equi
+ ty\, and inclusion.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Pentacrest%2
+ C+Iowa+City%2C+IA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
