@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:bb993ee5-a552-4a03-9fa8-410a44297a91
+SEQUENCE:0
+DTSTAMP:20250322T060328Z
+DTSTART:20250405T110000
+DTEND:20250405T130000
+SUMMARY:United We Resist
+LOCATION:Randall & Algonquin Rds (in front of Jewel)\, Algonquin\, IL
+DESCRIPTION:OUR RIGHTS & FREEDOMS ARE UNDER ATTACK! Women's rights are hum
+ an rights. LOVE = LOVE. SKIN COLOUR IS NOT A CRIME. HATE IS. NO HUMAN BEIN
+ G IS ILLEGAL. HANDS OFF SOCIAL SECURITY EARNED BENEFITS.\n\nRandall & Algo
+ nquin Rds (in front of Jewel)
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Randall+%26+
+ Algonquin+Rds+%28in+front+of+Jewel%29%2C+Algonquin%2C+IL&zoom=15&basemap=r
+ oadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

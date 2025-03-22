@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:01b4a3af-39a1-43ae-8f02-c5385ac11612
+SEQUENCE:0
+DTSTAMP:20250322T060328Z
+DTSTART:20250323T130000
+DTEND:20250323T150000
+SUMMARY:Rally to Save USPS
+LOCATION:Intersection of Central & Rock\, Wichita\, KS
+DESCRIPTION:Join us in standing with letter carriers to oppose the dismant
+ ling of the postal service.\n\nIntersection of Central & Rock
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Intersection
+ +of+Central+%26+Rock%2C+Wichita%2C+KS&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:6e46db93-c561-4c46-aaac-d17e5eabb502
+SEQUENCE:0
+DTSTAMP:20250322T060328Z
+DTSTART:20250322T000000
+DTEND:20250322T020000
+SUMMARY:Art and Revolution Convergence
+LOCATION:\, Seattle\, Vashon Island\, WA
+DESCRIPTION:We are gathering to promote funding for communities rather tha
+ n war\, featuring events in Seattle and Vashon Island.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+Seattle%
+ 2C+Vashon+Island%2C+WA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

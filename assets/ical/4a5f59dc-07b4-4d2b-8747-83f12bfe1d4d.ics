@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:ced4ff90-f507-460d-8b4e-ae1d3c3107d7
+SEQUENCE:0
+DTSTAMP:20250322T060328Z
+DTSTART:20250405T120000
+DTEND:20250405T140000
+SUMMARY:Hands Off! Lawrence Township Fights Back
+LOCATION:Central Park\, 100 Dave Nevius Way\, Eggerts Crossing Road\, Lawr
+ ence Township\, NJ
+DESCRIPTION:Join us as Lawrence Township stands up against the illegal act
+ ions by Trump and Musk. We will be rallying to protect our healthcare\, da
+ ta\, jobs\, and rights\, advocating for resistance against their power gra
+ b. This event calls for mass mobilization to protest and build an oppositi
+ on against the looting of our country.\n\nCentral Park
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Central+Park
+ %2C+100+Dave+Nevius+Way%2C+Eggerts+Crossing+Road%2C+Lawrence+Township%2C+N
+ J&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:aff74d21-934c-4233-a56c-1a75eb312dbd
+SEQUENCE:0
+DTSTAMP:20250322T060328Z
+DTSTART:20250405T120000
+DTEND:20250405T140000
+SUMMARY:Remove! Reverse Reclaim!
+LOCATION:100 N Capitol Ave\, Lansing\, MI
+DESCRIPTION:Join us to stand for democracy\, remove corrupt politicians\, 
+ reverse harmful policies\, and reclaim democracy. This rally encourages pa
+ rticipation in making signs\, writing letters\, signing petitions\, buildi
+ ng community\, and more.\n\nMichigan State Capitol
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=100+N+Capito
+ l+Ave%2C+Lansing%2C+MI&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

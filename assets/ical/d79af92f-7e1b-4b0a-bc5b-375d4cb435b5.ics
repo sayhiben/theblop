@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:ce43e798-90ce-4443-b41d-9a5ee91512c9
+SEQUENCE:0
+DTSTAMP:20250322T060328Z
+DTSTART:20250405T100000
+DTEND:20250405T120000
+SUMMARY:Hands Off! Norfolk Fights Back
+LOCATION:810 Union St\, Norfolk\, VA
+DESCRIPTION:This event is a mass mobilization and protest against perceive
+ d injustice by prominent figures. It focuses on defending American service
+ s and opposing actions perceived as damaging to the country.\n\n810 Union 
+ St
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=810+Union+St
+ %2C+Norfolk%2C+VA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

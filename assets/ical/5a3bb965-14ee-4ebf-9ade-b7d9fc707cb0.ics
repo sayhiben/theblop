@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:ba999045-1457-45d7-b3ce-3a9a3c9d2839
+SEQUENCE:0
+DTSTAMP:20250322T060328Z
+DTSTART:20250326T120000
+DTEND:20250326T140000
+SUMMARY:Peaceful Protest Against Social Security Actions
+LOCATION:La Paz / Marguerite\, Mission Viejo\, CA
+DESCRIPTION:We are organizing a peaceful protest to oppose actions that mi
+ ght cripple the social security claims process. Join us in expressing our 
+ concerns.\n\nAt the Corner of La Paz / Marguerite
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=La+Paz+%2F+M
+ arguerite%2C+Mission+Viejo%2C+CA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:042da9c3-ab5f-4f65-91a3-96f34e3e134f
+SEQUENCE:0
+DTSTAMP:20250322T060328Z
+DTSTART:20250405T120000
+DTEND:20250405T140000
+SUMMARY:Rally & Protest
+LOCATION:Seattle Center\, Seattle\, WA
+DESCRIPTION:Join us to stand for democracy\, diversity\, and rights at a r
+ ally and protest event with ASL interpretation provided.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Seattle+Cent
+ er%2C+Seattle%2C+WA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

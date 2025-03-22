@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:4dd4ac29-acff-4aef-8b38-011a6db500c2
+SEQUENCE:0
+DTSTAMP:20250322T060328Z
+DTSTART:20250405T130000
+DTEND:20250405T150000
+SUMMARY:Hands Off! Weehawken Fights Back
+LOCATION:Hamilton Park\, Hudson Pl\, Boulevard East\, Weehawken Township\,
+  NJ
+DESCRIPTION:We are organizing a rally to oppose threats posed by figures l
+ ike Donald Trump and Elon Musk who are perceived as endangering public ser
+ vices and rights. This is a cause to protect our healthcare\, data\, jobs\
+ , and services.\n\nHamilton Park
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Hamilton+Par
+ k%2C+Hudson+Pl%2C+Boulevard+East%2C+Weehawken+Township%2C+NJ&zoom=15&basem
+ ap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

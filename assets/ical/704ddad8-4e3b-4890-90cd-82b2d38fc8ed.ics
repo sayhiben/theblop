@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:df509517-7cb7-4729-a397-fdf5e7165609
+SEQUENCE:0
+DTSTAMP:20250322T060328Z
+DTSTART:20250405T120000
+DTEND:20250405T140000
+SUMMARY:Hands Off! Galloway - Atlantic County - Fights Back
+LOCATION:This event's address is private.\, Galloway\, NJ
+DESCRIPTION:We're taking to the streets to fight back against political ov
+ erreach by Donald Trump and Elon Musk. We aim to rally and protest to prot
+ ect healthcare\, jobs\, and services.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=This+event%2
+ 7s+address+is+private.%2C+Galloway%2C+NJ&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

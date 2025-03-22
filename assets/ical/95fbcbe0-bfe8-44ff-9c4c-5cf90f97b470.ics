@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:c8bcc847-4f87-4144-ad7c-0bbdb8b6743a
+SEQUENCE:0
+DTSTAMP:20250322T060328Z
+DTSTART:20250405T150000
+DTEND:20250405T170000
+SUMMARY:Hands Off! Central Jersey Fights Back
+LOCATION:480 Middlesex Ave\, Metuchen\, NJ
+DESCRIPTION:This rally is organized to oppose actions by Donald Trump and 
+ Elon Musk\, particularly their impact on healthcare\, data\, jobs\, and se
+ rvices. Participants will march to send a message against governmental and
+  economic destruction for the benefit of select individuals.\n\nThe Revere
+ nd Dr. Martin Luther King Jr. Memorial Park
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=480+Middlese
+ x+Ave%2C+Metuchen%2C+NJ&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

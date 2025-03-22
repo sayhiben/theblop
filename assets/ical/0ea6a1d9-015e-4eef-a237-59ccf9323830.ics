@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:fcd28921-c12e-41a0-880d-16074e3f284b
+SEQUENCE:0
+DTSTAMP:20250322T060328Z
+DTSTART:20250405T120000
+DTEND:20250405T140000
+SUMMARY:Hands Off! Montclair Area Fights Back
+LOCATION:\, Montclair\, NJ
+DESCRIPTION:Join us in Montclair as part of a mass mobilization to oppose 
+ the influence of Donald Trump and his allies. We aim to send a clear messa
+ ge against the destruction of our government and economy. Marching and ral
+ lying to build an opposition movement.\n\nEvent Location TBD
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+Montclai
+ r%2C+NJ&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

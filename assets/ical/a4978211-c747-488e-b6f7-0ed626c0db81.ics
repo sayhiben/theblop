@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:aa27e8ad-082d-451e-9c59-2b4e60f43b80
+SEQUENCE:0
+DTSTAMP:20250322T060328Z
+DTSTART:20250405T000000
+DTEND:20250405T020000
+SUMMARY:HANDS OFF!
+LOCATION:Denver State Capitol\, Denver\, CO
+DESCRIPTION:This event is a rally to protest against perceived detrimental
+  policy changes affecting Medicaid\, Social Security\, and other social pr
+ ograms. Participants are called to unite and express their opposition.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Denver+State
+ +Capitol%2C+Denver%2C+CO&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

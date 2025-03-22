@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:f0c21588-035a-4160-a378-8ae5088e536d
+SEQUENCE:0
+DTSTAMP:20250322T060328Z
+DTSTART:20250405T120000
+DTEND:20250405T140000
+SUMMARY:Hands Off! Cumberland County & South Jersey Fights Back
+LOCATION:\, Cumberland County\, NJ
+DESCRIPTION:We are organizing a mass mobilization rally against policies l
+ inked to Donald Trump and Elon Musk\, focusing on healthcare\, jobs\, and 
+ services. We advocate for nonviolent action and encourage participants to 
+ join against these perceived threats.\n\nThis event's address is private. 
+ Sign up for more details.
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+Cumberla
+ nd+County%2C+NJ&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
