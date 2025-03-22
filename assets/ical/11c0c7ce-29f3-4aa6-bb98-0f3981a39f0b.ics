@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:855ae927-ea12-4f08-a96d-986b800edc72
+SEQUENCE:0
+DTSTAMP:20250322T180238Z
+DTSTART:20250331T120000
+DTEND:20250331T140000
+SUMMARY:Trans Day of Visibility
+LOCATION:1 Capitol Sq\, Columbus\, OH
+DESCRIPTION:Join us for the Trans Day of Visibility where we celebrate wit
+ h pride and loudness. The event is a gathering to support and recognize th
+ e visibility of transgender individuals.\n\nOhio State House\, West Plaza
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=1+Capitol+Sq
+ %2C+Columbus%2C+OH&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

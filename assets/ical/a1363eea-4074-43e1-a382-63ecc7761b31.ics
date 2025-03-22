@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:cd3a5f16-cf7d-4400-b311-af1f2c2a7471
+SEQUENCE:0
+DTSTAMP:20250322T180238Z
+DTSTART:20250405T140000
+DTEND:20250405T160000
+SUMMARY:A Peaceful\, Non-Partisan Rally
+LOCATION:1100 Gervais Street\, Columbia\, SC
+DESCRIPTION:Join us for a rally to remove corrupt politicians\, reverse th
+ e damage\, and reclaim our democracy. We aim to unite against oppression a
+ nd dictatorship as part of the 50501 movement.\n\nSC State House
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=1100+Gervais
+ +Street%2C+Columbia%2C+SC&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

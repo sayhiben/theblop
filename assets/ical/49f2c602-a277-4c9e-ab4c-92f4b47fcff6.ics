@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:c2fecd35-84f4-4e9a-8b75-4b0636b3d916
+SEQUENCE:0
+DTSTAMP:20250322T180237Z
+DTSTART:20250324T090000
+DTEND:20250324T110000
+SUMMARY:Rally for a Fair Contract
+LOCATION:Monroe & Laflin\, between Engine 103 & Whitney Young HS\, Chicago
+ \, IL
+DESCRIPTION:Join the Chicago Firefighters Union Local 2 and Chicago Teache
+ rs Union to rally for fair contract terms.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Monroe+%26+L
+ aflin%2C+between+Engine+103+%26+Whitney+Young+HS%2C+Chicago%2C+IL&zoom=15&
+ basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

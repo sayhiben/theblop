@@ -8185,6 +8185,31 @@
     "raw_summary": "The flyer is a call to action for national protests, urging people to send postcards to specific news agencies to cover the 50501 protests."
   },
   {
+    "id": "49f2c602-a277-4c9e-ab4c-92f4b47fcff6",
+    "title": "Rally for a Fair Contract",
+    "date": "Monday, March 24, 2025",
+    "time": "9:00 AM",
+    "description": "Join the Chicago Firefighters Union Local 2 and Chicago Teachers Union to rally for fair contract terms.",
+    "city": "Chicago",
+    "state": "IL",
+    "address": "Monroe & Laflin, between Engine 103 & Whitney Young HS",
+    "meeting_location": "",
+    "links": [
+      "[]"
+    ],
+    "sponsors": [
+      "Chicago Firefighters Union Local 2",
+      " Chicago Teachers Union"
+    ],
+    "image_url": "https://theblop.org/assets/images/49f2c602-a277-4c9e-ab4c-92f4b47fcff6.png",
+    "thumbnail_url": "https://theblop.org/assets/images/49f2c602-a277-4c9e-ab4c-92f4b47fcff6-thumb.jpg",
+    "canonical_id": "",
+    "permalink": "https://theblop.org/events/49f2c602-a277-4c9e-ab4c-92f4b47fcff6.html",
+    "ical": "https://theblop.org/assets/ical/49f2c602-a277-4c9e-ab4c-92f4b47fcff6.ics",
+    "raw_text": "JOIN\nCHICAGO FIREFIGHTERS UNION LOCAL 2\nAND\nCHICAGO TEACHERS UNION\nTO RALLY FOR A FAIR CONTRACT!\nWHEN: MONDAY, MARCH 24 AT 9 AM\nWHERE: MONROE & LAFLIN, BETWEEN ENGINE 103 & WHITNEY YOUNG HS",
+    "raw_summary": "The flyer invites attendees to join the Chicago Firefighters Union Local 2 and the Chicago Teachers Union for a rally advocating for fair contract terms. The event is scheduled for Monday, March 24 at 9 AM, located at Monroe & Laflin, between Engine 103 & Whitney Young HS in Chicago."
+  },
+  {
     "id": "024e2db3-45d4-4507-9bef-acffbcc2d8d8",
     "title": "Advocacy Day",
     "date": "Tuesday, March 25, 2025",
@@ -12015,6 +12040,30 @@
     "ical": "https://theblop.org/assets/ical/18d43839-8b96-4840-8980-891d184ebccf.ics",
     "raw_text": "TRANS DAY OF VISIBILITY RALLY\nMonday, March 31st\n4:00 p.m.\nBellingham City Hall\n210 Lottie St.",
     "raw_summary": "The image is a flyer for the \"Trans Day of Visibility Rally\" held in Bellingham, WA. It takes place on Monday, March 31st, at 4:00 PM at the Bellingham City Hall, located at 210 Lottie St. The flyer includes colorful illustrations of people and a QR code."
+  },
+  {
+    "id": "11c0c7ce-29f3-4aa6-bb98-0f3981a39f0b",
+    "title": "Trans Day of Visibility",
+    "date": "Monday, March 31, 2025",
+    "time": "12:00 PM",
+    "description": "Join us for the Trans Day of Visibility where we celebrate with pride and loudness. The event is a gathering to support and recognize the visibility of transgender individuals.",
+    "city": "Columbus",
+    "state": "OH",
+    "address": "1 Capitol Sq",
+    "meeting_location": "Ohio State House, West Plaza",
+    "links": [
+      "[]"
+    ],
+    "sponsors": [
+      "[]"
+    ],
+    "image_url": "https://theblop.org/assets/images/11c0c7ce-29f3-4aa6-bb98-0f3981a39f0b.jpg",
+    "thumbnail_url": "https://theblop.org/assets/images/11c0c7ce-29f3-4aa6-bb98-0f3981a39f0b-thumb.jpg",
+    "canonical_id": "",
+    "permalink": "https://theblop.org/events/11c0c7ce-29f3-4aa6-bb98-0f3981a39f0b.html",
+    "ical": "https://theblop.org/assets/ical/11c0c7ce-29f3-4aa6-bb98-0f3981a39f0b.ics",
+    "raw_text": "Trans Day of Visibility\nBe Proud and Be Loud!!\n\nJOIN US!\n\nMarch 31st Noon-2 pm EST\nOhio State House, West Plaza,\n1 Capitol Sq, Columbus, Ohio",
+    "raw_summary": "The image advertises an event called \"Trans Day of Visibility\" with the theme \"Be Proud and Be Loud!!\". It is scheduled for March 31st from Noon to 2 PM EST at the Ohio State House, West Plaza, 1 Capitol Sq, Columbus, Ohio."
   },
   {
     "id": "b68d2613-8a10-4f46-a4e8-98209d940cc1",
@@ -19888,6 +19937,31 @@
     "ical": "https://theblop.org/assets/ical/8fa6683d-7035-454b-80c5-637955fe62af.ics",
     "raw_text": "Rally to  \nThe People's Veto / Hands Off! Rally on D.C.  \n🗺️ Rides to 15th Street Northwest, Washington, DC, USA in Washington, DC from York, PA  \n📅 Trip departing at 8:37 am on Saturday, April 5, 2025  \n✈️ Rally is bus rideshare  \nYork  \n18 Riders needed to confirm  \nBook",
     "raw_summary": "The image promotes a rally titled \"The People's Veto / Hands Off! Rally on D.C.\" with a bus rideshare available from York, PA, to Washington, DC. The trip departs at 8:37 am on April 5, 2025. The rally's meeting point is 15th Street Northwest, Washington, DC."
+  },
+  {
+    "id": "a1363eea-4074-43e1-a382-63ecc7761b31",
+    "title": "A Peaceful, Non-Partisan Rally",
+    "date": "Saturday, April 5, 2025",
+    "time": "2:00 PM",
+    "description": "Join us for a rally to remove corrupt politicians, reverse the damage, and reclaim our democracy. We aim to unite against oppression and dictatorship as part of the 50501 movement.",
+    "city": "Columbia",
+    "state": "SC",
+    "address": "1100 Gervais Street",
+    "meeting_location": "SC State House",
+    "links": [
+      "LINKTR.EE/50501SC",
+      " WWW.FIFTYFIFTY.ONE"
+    ],
+    "sponsors": [
+      "50501: The People's Movement"
+    ],
+    "image_url": "https://theblop.org/assets/images/a1363eea-4074-43e1-a382-63ecc7761b31.jpg",
+    "thumbnail_url": "https://theblop.org/assets/images/a1363eea-4074-43e1-a382-63ecc7761b31-thumb.jpg",
+    "canonical_id": "",
+    "permalink": "https://theblop.org/events/a1363eea-4074-43e1-a382-63ecc7761b31.html",
+    "ical": "https://theblop.org/assets/ical/a1363eea-4074-43e1-a382-63ecc7761b31.ics",
+    "raw_text": "A PEACEFUL, NON-PARTISAN RALLY\nREMOVE CORRUPT POLITICIANS\nREVERSE THE DAMAGE\nRECLAIM OUR DEMOCRACY\nCOLUMBIA\nSATURDAY, APRIL 5, 2025\n2PM – 4:30PM\nSC STATE HOUSE\n1100 GERVAIS STREET\nCOLUMBIA, SC 29208\nUNITE AGAINST OPPRESSION & DICTATORSHIP\n50501: THE PEOPLE’S MOVEMENT\nDEFEND OUR DEMOCRACY!\nLINKTR.EE/50501SC\n50 PROTESTS 50 STATES ONE DAY | WWW.FIFTYFIFTY.ONE | #50501MOVEMENT #50501SC",
+    "raw_summary": "This image is advertising a peaceful, non-partisan rally aimed at removing corrupt politicians, reversing the damage, and reclaiming democracy. The event will take place in Columbia on April 5, 2025, from 2 PM to 4:30 PM at the SC State House, Columbia, SC."
   },
   {
     "id": "bc2c4577-6d35-407c-9b27-53a1d1cec3b6",
