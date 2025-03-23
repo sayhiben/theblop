@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:aa8bb8f5-3dd8-4954-9f42-703cfe3e8212
+SEQUENCE:0
+DTSTAMP:20250323T180243Z
+DTSTART:20250405T140000
+DTEND:20250405T160000
+SUMMARY:#TESLATAKEDOWN
+LOCATION:2935 N. Orange Blossom Trail\, Kissimmee\, FL
+DESCRIPTION:Join us in protesting against Elon Musk's influence on our gov
+ ernment and to make a statement by gathering at Tesla Kissimmee.\n\nTesla 
+ Kissimmee
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=2935+N.+Oran
+ ge+Blossom+Trail%2C+Kissimmee%2C+FL&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
