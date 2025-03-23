@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:fe6b052c-fae1-428a-a8b0-0be3be72956e
+SEQUENCE:0
+DTSTAMP:20250323T000632Z
+DTSTART:20250323T120000
+DTEND:20250323T140000
+SUMMARY:Rally to Save the Postal Service
+LOCATION:208 W Kincaid St\, Mount Vernon\, WA
+DESCRIPTION:Join us to advocate against the dismantling\, privatization\, 
+ and diminished services of the postal service. We are pushing for timely r
+ ural mail deliveries\, affordable shipping\, a fair contract\, living wage
+ s\, and work-life balance.\n\nMount Vernon Library Commons
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=208+W+Kincai
+ d+St%2C+Mount+Vernon%2C+WA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

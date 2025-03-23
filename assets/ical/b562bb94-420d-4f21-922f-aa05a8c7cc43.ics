@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:5cd7be8d-3ed6-4923-a853-23502ea0b06f
+SEQUENCE:0
+DTSTAMP:20250323T000632Z
+DTSTART:20250329T140000
+DTEND:20250329T160000
+SUMMARY:Day of Action in Solidarity with Immigrants
+LOCATION:\, Fort Lee\, NJ
+DESCRIPTION:Join the AAPI community for a day of action in support of immi
+ grant rights and a future where all community members are free from isolat
+ ion and fear.\n\nHudson Lights
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+Fort+Lee
+ %2C+NJ&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

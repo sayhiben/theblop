@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:b4bb7e13-5cef-498b-8429-b5ba99a95eb7
+SEQUENCE:0
+DTSTAMP:20250323T000632Z
+DTSTART:20250329T090000
+DTEND:20250329T110000
+SUMMARY:Know Your Rights Town Hall
+LOCATION:8181 Airport Boulevard\, Houston\, TX
+DESCRIPTION:Join Congressman Al Green for essential tools and insights on 
+ immigration and citizenship rights.\n\nDoubleTree by Hilton Hotel Houston 
+ Hobby Airport
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=8181+Airport
+ +Boulevard%2C+Houston%2C+TX&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

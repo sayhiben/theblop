@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:1d09ae01-2383-4f68-a6ad-4f6de4d9daea
+SEQUENCE:0
+DTSTAMP:20250323T000632Z
+DTSTART:20250330T120000
+DTEND:20250330T140000
+SUMMARY:Fox: Stop the Lies! & Mass Media March
+LOCATION:1211 6th Ave (48th St.)\, New York\, NY
+DESCRIPTION:Join us for the "Fox: Stop the Lies! & Mass Media March" to pr
+ otest misinformation and demand integrity in media.\n\nFox Lies HQ
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=1211+6th+Ave
+ +%2848th+St.%29%2C+New+York%2C+NY&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

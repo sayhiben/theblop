@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:462d1f66-70b3-40f3-942b-dfa84d9628e6
+SEQUENCE:0
+DTSTAMP:20250323T000632Z
+DTSTART:20250405T103000
+DTEND:20250405T123000
+SUMMARY:Hands Off! Mass Mobilization
+LOCATION:Multiple Addresses\, Multiple Cities\, ME
+DESCRIPTION:Join us on April 5th to oppose lawlessness\, cruelty\, and cor
+ ruption. We unite to protect Our Democracy\, Our Health Care\, Social Secu
+ rity\, Our Data\, Public Schools\, Our Bodies\, Our Wallets\, and Public L
+ ands through various gatherings in Maine.\n\nMultiple Locations
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Multiple+Add
+ resses%2C+Multiple+Cities%2C+ME&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

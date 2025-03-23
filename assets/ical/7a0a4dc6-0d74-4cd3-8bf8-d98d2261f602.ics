@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:5722ba44-9d71-4b52-9391-6723bf013ef9
+SEQUENCE:0
+DTSTAMP:20250323T000632Z
+DTSTART:20250330T120000
+DTEND:20250330T140000
+SUMMARY:Mass Media March
+LOCATION:1211 6th Ave\, NYC (48th St.)\, New York City\, NY
+DESCRIPTION:Join us as we march to protest against misinformation by Fox a
+ t their headquarters.\n\nFox headquarters
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=1211+6th+Ave
+ %2C+NYC+%2848th+St.%29%2C+New+York+City%2C+NY&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:4a2397b5-3983-4985-9cd0-cec2e98485fb
+SEQUENCE:0
+DTSTAMP:20250323T000632Z
+DTSTART:20250330T120000
+DTEND:20250330T140000
+SUMMARY:Mass Media March
+LOCATION:\, Nationwide\, Nationwide
+DESCRIPTION:Join us for the Mass Media March as we make our presence known
+  at strategic locations. We challenge the media to ignore us when we’re 
+ right at their front door. Our movement is strong\, and we are the flood p
+ ushing for change.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+Nationwi
+ de%2C+Nationwide&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
