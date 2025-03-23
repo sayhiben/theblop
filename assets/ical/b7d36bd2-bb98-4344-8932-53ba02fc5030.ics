@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:e073cf2a-0c8e-4e30-8c93-41a47757c21d
+SEQUENCE:0
+DTSTAMP:20250323T031539Z
+DTSTART:20250327T120000
+DTEND:20250327T140000
+SUMMARY:Rally Against Senator Durbin's Cowardice & the MAGA Agenda
+LOCATION:230 S Dearborn St\, Chicago\, IL
+DESCRIPTION:Join us as we rally against Senator Durbin's recent actions su
+ pporting the MAGA agenda. We deserve a government for the people and the p
+ lanet\, not for billionaires and corporations. Let's fight for change!\n\n
+ Senator Durbin's Office
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=230+S+Dearbo
+ rn+St%2C+Chicago%2C+IL&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

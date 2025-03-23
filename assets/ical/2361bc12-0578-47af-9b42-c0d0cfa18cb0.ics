@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:cbdb7c74-00ee-41c4-8d5d-5bf337c5116c
+SEQUENCE:0
+DTSTAMP:20250323T031540Z
+DTSTART:20250405T150000
+DTEND:20250405T170000
+SUMMARY:Hands Off! Palm Beach Fights Back
+LOCATION:205 N Dixie Hwy\, West Palm Beach\, FL
+DESCRIPTION:This is a volunteer-organized visibility event focusing on a m
+ ass mobilization on April 5. The goal is to gather community support and m
+ ake a statement.\n\nClerk of the Circuit Court & Comptroller\, Palm Beach 
+ County
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=205+N+Dixie+
+ Hwy%2C+West+Palm+Beach%2C+FL&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
