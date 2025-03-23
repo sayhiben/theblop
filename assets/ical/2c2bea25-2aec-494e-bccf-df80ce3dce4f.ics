@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:57d7245e-3dc9-4900-9595-2c5b9999e79e
+SEQUENCE:0
+DTSTAMP:20250323T090225Z
+DTSTART:20250405T103000
+DTEND:20250405T123000
+SUMMARY:REMOVE REVERSE RECLAIM
+LOCATION:\, Unknown\, TX
+DESCRIPTION:We aim to remove corrupt politicians from office\, reverse the
+  damage\, and reclaim our democracy. Join us in a protest and march to sup
+ port the 50501 Movement.\n\nMain Plaza
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+Unknown%
+ 2C+TX&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

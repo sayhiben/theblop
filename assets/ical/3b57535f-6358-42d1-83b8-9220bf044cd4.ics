@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:06323b7f-bd26-4db6-b435-946db3fe1ed1
+SEQUENCE:0
+DTSTAMP:20250323T090225Z
+DTSTART:20250405T160000
+DTEND:20250405T180000
+SUMMARY:Remove Reverse Reclaim
+LOCATION:\, \, Nationwide
+DESCRIPTION:A protest focused on removing corrupt politicians\, reversing 
+ damage\, and reclaiming democracy.\n\nWaters Edge Park
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+%2C+Nati
+ onwide&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

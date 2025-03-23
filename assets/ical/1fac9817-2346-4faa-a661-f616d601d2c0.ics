@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:148e8f5e-75dd-41ad-ab09-af1b321c04b2
+SEQUENCE:0
+DTSTAMP:20250323T090224Z
+DTSTART:20250329T113000
+DTEND:20250329T133000
+SUMMARY:#TeslaTakedown Vermont
+LOCATION:1001 Shelburne Rd\, South Burlington\, VT
+DESCRIPTION:We’re peacefully protesting to raise awareness of Elon’s a
+ ctions\, to crater the value of Elon’s wealth\, and to dissuade our neig
+ hbors from spending another dime on his company. Come join a community dis
+ play of defiance. Children welcome. Signs\, chants\, and a healthy distast
+ e for autocracy encouraged.\n\nShelburne Rd in front of the Tesla store
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=1001+Shelbur
+ ne+Rd%2C+South+Burlington%2C+VT&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
