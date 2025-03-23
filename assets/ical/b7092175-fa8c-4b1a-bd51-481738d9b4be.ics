@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:cb18eee5-dffa-4562-9a18-ac0eb4bbcdfa
+SEQUENCE:0
+DTSTAMP:20250323T060241Z
+DTSTART:20250405T000000
+DTEND:20250405T020000
+SUMMARY:April 5th Rides to DC
+LOCATION:\, Washington\, DC
+DESCRIPTION:Join us in organizing transportation for the protest on April 
+ 5\, 2025\, in Washington D.C. Find resources and coordination help via Han
+ ds Off 2025 and connect through the ProtestFinderUSA platform.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+Washingt
+ on%2C+DC&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

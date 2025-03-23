@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:42f5d2cf-df74-4f28-8ed0-fa352b32a499
+SEQUENCE:0
+DTSTAMP:20250323T060241Z
+DTSTART:20250411T080000
+DTEND:20250411T100000
+SUMMARY:State Legislative Breakfast
+LOCATION:62249 Shimmel Rd\, Centreville\, MI 49032
+DESCRIPTION:Join us as Representative Steve Carra & State Senator Jonathon
+  Lindsey answer questions and give a legislative update for what is happen
+ ing for St. Joseph County. Free to attend. Must provide name\, email\, and
+  phone number.\n\nGlen Oaks Community College\, Dresser Business Center
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=62249+Shimme
+ l+Rd%2C+Centreville%2C+MI+49032&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:15995641-c9de-440c-b20b-4bd744d37663
+SEQUENCE:0
+DTSTAMP:20250323T060241Z
+DTSTART:20250405T130000
+DTEND:20250405T150000
+SUMMARY:Hands Off!
+LOCATION:Corner of Aurora Ave N & N 205th St\, Shoreline\, WA
+DESCRIPTION:On Saturday\, April 5\, join us for a nationwide event in Shor
+ eline fighting against cuts to Medicaid\, Medicare\, social security\, and
+  more\, aiming to stop power consolidation.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Corner+of+Au
+ rora+Ave+N+%26+N+205th+St%2C+Shoreline%2C+WA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
