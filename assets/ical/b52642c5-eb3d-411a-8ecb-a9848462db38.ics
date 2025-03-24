@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:bc3d70f4-c54f-4f7b-a0c8-e5eb083786c4
+SEQUENCE:0
+DTSTAMP:20250324T210240Z
+DTSTART:20250406T150000
+DTEND:20250406T170000
+SUMMARY:Stand for American Values
+LOCATION:Lincoln Memorial\, Washington\, DC
+DESCRIPTION:An event organized by the American Coalition for Ukraine to su
+ pport Ukraine\, happening on April 6th\, at the Lincoln Memorial.\n\nLinco
+ ln Memorial\, Washington\, DC
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Lincoln+Memo
+ rial%2C+Washington%2C+DC&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

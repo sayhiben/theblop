@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:120f03e8-687e-4816-83e8-11d45aca1cb4
+SEQUENCE:0
+DTSTAMP:20250324T210240Z
+DTSTART:20250405T120000
+DTEND:20250405T140000
+SUMMARY:Hands Off! Quincy
+LOCATION:3236 Broadway St\, Quincy\, IL
+DESCRIPTION:We are organizing a mass mobilization rally at Representative 
+ Mary Miller's Quincy office\, aiming to gather support and raise awareness
+  for our cause.\n\nRepresentative Mary Miller's Quincy office
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=3236+Broadwa
+ y+St%2C+Quincy%2C+IL&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
