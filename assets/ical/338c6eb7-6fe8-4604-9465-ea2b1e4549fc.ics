@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:38b99362-b7e2-45dc-be3f-7f11c817dd2e
+SEQUENCE:0
+DTSTAMP:20250324T031607Z
+DTSTART:20250329T120000
+DTEND:20250329T140000
+SUMMARY:Human rights protest
+LOCATION:ND State Capitol\, Bismarck\, ND
+DESCRIPTION:Join us for a human rights protest at the ND State Capitol to 
+ advocate for human rights and justice.\n\nSouth side on Boulevard
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=ND+State+Cap
+ itol%2C+Bismarck%2C+ND&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
