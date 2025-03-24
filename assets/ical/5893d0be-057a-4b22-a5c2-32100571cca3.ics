@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:405b2e35-f19a-4aa4-a451-0c45cc1c944f
+SEQUENCE:0
+DTSTAMP:20250324T060254Z
+DTSTART:20250405T120000
+DTEND:20250405T140000
+SUMMARY:Veto Project 2025
+LOCATION:Washington County Courthouse\, Fayetteville\, AR
+DESCRIPTION:We the People reject the Trump-Musk coup. Join us in our peace
+ ful dissent to protect various social and political rights.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Washington+C
+ ounty+Courthouse%2C+Fayetteville%2C+AR&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

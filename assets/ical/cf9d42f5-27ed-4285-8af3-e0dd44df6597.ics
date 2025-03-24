@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:55178171-567b-4352-829b-e0d52ac77c49
+SEQUENCE:0
+DTSTAMP:20250324T060254Z
+DTSTART:20250405T120000
+DTEND:20250405T140000
+SUMMARY:Hands Off! Ottawa Fights Back
+LOCATION:101 E Lafayette St\, Ottawa\, IL
+DESCRIPTION:This is a rally organized to express collective opposition and
+  encourage community engagement.\n\nWashington Square Park
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=101+E+Lafaye
+ tte+St%2C+Ottawa%2C+IL&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

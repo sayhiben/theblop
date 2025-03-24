@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:0ff6f896-4c71-4404-b1ba-8abd4b8e6af0
+SEQUENCE:0
+DTSTAMP:20250324T060254Z
+DTSTART:20250405T113000
+DTEND:20250405T133000
+SUMMARY:Remove. Reverse. Reclaim
+LOCATION:South 7th Street\, Geneva\, IL
+DESCRIPTION:We aim to remove corrupt politicians from office\, reverse the
+  damage\, and reclaim our democracy. Join us in movements and politics.\n\
+ n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=South+7th+St
+ reet%2C+Geneva%2C+IL&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
