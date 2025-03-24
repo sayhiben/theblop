@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:e4e85fe2-36b8-4991-93c1-f0196d4e75b2
+SEQUENCE:0
+DTSTAMP:20250324T090252Z
+DTSTART:20250405T120000
+DTEND:20250405T140000
+SUMMARY:Hands Off! Bloomington Fights Back
+LOCATION:600 N East St\, Bloomington\, IL
+DESCRIPTION:Join us for a visibility event to mobilize our community and s
+ tand together. Volunteer organized\, this event is a mass mobilization eff
+ ort.\n\nGrass area in front of BCPA
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=600+N+East+S
+ t%2C+Bloomington%2C+IL&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

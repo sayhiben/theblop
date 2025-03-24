@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:cedc0c74-271c-43e0-926c-3a16be70fad9
+SEQUENCE:0
+DTSTAMP:20250324T090252Z
+DTSTART:20250405T140000
+DTEND:20250405T160000
+SUMMARY:Hands Off! Ogle County Fights Back
+LOCATION:Illinois 64 & Illinois 2\, 104 S. 5th Street\, Oregon\, IL
+DESCRIPTION:Join us for a volunteer-organized rally as Ogle County mobiliz
+ es against ongoing issues. Engage with like-minded individuals for advocac
+ y and community support.\n\nOgle County Courthouse
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Illinois+64+
+ %26+Illinois+2%2C+104+S.+5th+Street%2C+Oregon%2C+IL&zoom=15&basemap=roadma
+ p
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

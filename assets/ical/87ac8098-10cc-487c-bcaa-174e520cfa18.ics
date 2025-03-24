@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:c98e90c7-e26b-4388-9e0d-1289beaa9b33
+SEQUENCE:0
+DTSTAMP:20250324T090252Z
+DTSTART:20250405T120000
+DTEND:20250405T140000
+SUMMARY:Hands Off! NE Lake County IL Fights Back
+LOCATION:Grand Avenue & Hunt Club Road\, Gurnee\, IL
+DESCRIPTION:Join us for a mass mobilization event to stand together in NE 
+ Lake County\, IL. Organized as a visibility event\, this volunteer-led gat
+ hering is a call to action for the community.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Grand+Avenue
+ +%26+Hunt+Club+Road%2C+Gurnee%2C+IL&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
