@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:9dc255df-939a-4f55-96a9-22aad830d885
+SEQUENCE:0
+DTSTAMP:20250324T000611Z
+DTSTART:20250324T090000
+DTEND:20250324T110000
+SUMMARY:Save the Trees\, Save Our Nature Center
+LOCATION:Thurston Nature Center
+DESCRIPTION:We are organizing a peaceful meetup to protect our trees and s
+ ave the Thurston Nature Center. Please bring signs to show support for gre
+ en spaces.\n\nThurston Nature Center
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Thurston+Nat
+ ure+Center&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

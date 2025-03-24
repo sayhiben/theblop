@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:b8e928a5-6ec7-41db-b6f9-73a649df800a
+SEQUENCE:0
+DTSTAMP:20250324T000612Z
+DTSTART:20250329T100000
+DTEND:20250329T120000
+SUMMARY:Reproductive Justice as a Human Right
+LOCATION:405 SE Spokane St\, Pullman\, WA
+DESCRIPTION:Join us for a community forum on reproductive justice featurin
+ g a pro-voice exhibition "Worth of a Woman\," organized by the Reproductiv
+ e Justice Allies Coalition and supported by multiple organizations.\n\nEls
+ on S. Floyd Cultural Center
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=405+SE+Spoka
+ ne+St%2C+Pullman%2C+WA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:ee92ffac-8f05-4239-aaa0-b86810e94e71
+SEQUENCE:0
+DTSTAMP:20250324T000612Z
+DTSTART:20250405T130000
+DTEND:20250405T150000
+SUMMARY:Hands Off! 12th District Fights Back
+LOCATION:200 S Illinois Ave\, Carbondale\, IL
+DESCRIPTION:A mass mobilization rally to support the 12th district.\n\nCar
+ bondale Civic Center
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=200+S+Illino
+ is+Ave%2C+Carbondale%2C+IL&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
