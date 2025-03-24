@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:c10bc29d-5520-4d53-93bd-bf02f665b0b2
+SEQUENCE:0
+DTSTAMP:20250324T180302Z
+DTSTART:20250405T163000
+DTEND:20250405T183000
+SUMMARY:Hands Off! McDonough County Fights Back
+LOCATION:120 E Carroll St\, Macomb\, IL
+DESCRIPTION:A rally aimed at mobilizing volunteers to fight back against l
+ ocal issues. This event is part of a broader mass mobilization effort.\n\n
+ Chandler Park (South Side)
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=120+E+Carrol
+ l+St%2C+Macomb%2C+IL&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

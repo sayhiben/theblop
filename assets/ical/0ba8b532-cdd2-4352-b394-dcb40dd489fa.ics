@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:35ad90a7-714b-4cf1-bc7f-cee9d723e51d
+SEQUENCE:0
+DTSTAMP:20250324T180302Z
+DTSTART:20250405T110000
+DTEND:20250405T130000
+SUMMARY:Demonstrate: National Day of Action
+LOCATION:1315 White St.\, Key West\, FL
+DESCRIPTION:We are organizing a demonstration to protect various social an
+ d personal services\, expressing 'Hands Off!' for our wallets\, bodies\, M
+ edicare\, Medicaid\, and more.\n\nNational Weather Service
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=1315+White+S
+ t.%2C+Key+West%2C+FL&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
