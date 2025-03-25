@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:86d7c2a7-a955-4c23-82c8-7da05fc67115
+SEQUENCE:0
+DTSTAMP:20250325T090633Z
+DTSTART:20250405T110000
+DTEND:20250405T130000
+SUMMARY:PICNIC PROTEST
+LOCATION:1310 10th St\, Sacramento\, CA
+DESCRIPTION:We aim to raise our voices\, build a community\, and network s
+ ecurely. Bring blankets and snacks.\n\nState Capitol
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=1310+10th+St
+ %2C+Sacramento%2C+CA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:9a4c273a-381a-4497-ae70-381d029b36b9
+SEQUENCE:0
+DTSTAMP:20250325T090633Z
+DTSTART:20250329T130000
+DTEND:20250329T150000
+SUMMARY:Global Tesla Takedown
+LOCATION:Portland: 4330 S Macadam Ave\, Portland\, OR 97239\; Salem: 2755 
+ Mission Street\, Salem\, OR 97302\; Woodburn: 255 N Arney Rd\, Woodburn\, 
+ OR 97071\, Portland\, Salem\, Woodburn\, OR
+DESCRIPTION:Join us for a day of peaceful protest against Tesla and Elon M
+ usk at various locations. We aim to raise awareness and take action agains
+ t Tesla's business practices by gathering at Tesla locations across the Un
+ ited States and worldwide.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Portland%3A+
+ 4330+S+Macadam+Ave%2C+Portland%2C+OR+97239%3B+Salem%3A+2755+Mission+Street
+ %2C+Salem%2C+OR+97302%3B+Woodburn%3A+255+N+Arney+Rd%2C+Woodburn%2C+OR+9707
+ 1%2C+Portland%2C+Salem%2C+Woodburn%2C+OR&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:94453769-5dc9-48f1-b652-7218244fd8d1
+SEQUENCE:0
+DTSTAMP:20250325T090633Z
+DTSTART:20250405T130000
+DTEND:20250405T150000
+SUMMARY:Hands Off Our Democracy
+LOCATION:\, New York\, NY
+DESCRIPTION:Join us in a march to remove corruption and bigotry\, reverse 
+ executive orders\, and reclaim our government. The event emphasizes unity 
+ and action for democracy.\n\nBryant Park to Madison Square Park
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+New+York
+ %2C+NY&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

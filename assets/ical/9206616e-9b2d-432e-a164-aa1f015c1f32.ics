@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:cc88c1e9-eda5-491a-a67f-8f82c9bac7ba
+SEQUENCE:0
+DTSTAMP:20250325T090633Z
+DTSTART:20250329T140000
+DTEND:20250329T160000
+SUMMARY:Remove Donald Trump
+LOCATION:\, Birmingham\, AL
+DESCRIPTION:Join us in a gathering to voice our concerns and advocate for 
+ change by removing Donald Trump and reversing his damage.\n\nRailroad Park
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+Birmingh
+ am%2C+AL&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:557d84dc-dad1-4335-bf40-c8a95b2018dc
+SEQUENCE:0
+DTSTAMP:20250325T090632Z
+DTSTART:20250325T120000
+DTEND:20250325T140000
+SUMMARY:Brick by Brick Rage Ritual + Art Rally
+LOCATION:Capitol West Steps\, Denver\, CO
+DESCRIPTION:We are hosting a public rage ritual and art rally to celebrate
+  Women's History Month and renew our commitment to smashing the patriarchy
+ . Join us to create communal magic\, hear stories\, and express protest th
+ rough art.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Capitol+West
+ +Steps%2C+Denver%2C+CO&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

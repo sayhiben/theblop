@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:a42a63dc-9522-49e6-a3de-c1fa13bde3a3
+SEQUENCE:0
+DTSTAMP:20250325T090633Z
+DTSTART:20250405T130000
+DTEND:20250405T150000
+SUMMARY:No Kings OC! Hands Off!
+LOCATION:600 W Santa Ana Blvd\, Santa Ana\, CA
+DESCRIPTION:A peaceful national day of action at Sasscer Park\, encouragin
+ g participants to express their concerns peacefully.\n\nSasscer Park (Corn
+ er of Ross & Santa Ana)
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=600+W+Santa+
+ Ana+Blvd%2C+Santa+Ana%2C+CA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

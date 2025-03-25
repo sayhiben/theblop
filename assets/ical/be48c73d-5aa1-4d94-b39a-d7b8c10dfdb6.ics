@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:73f3b8a8-b2ef-406f-a8c4-70eabf8835ec
+SEQUENCE:0
+DTSTAMP:20250325T090632Z
+DTSTART:20250327T160000
+DTEND:20250327T180000
+SUMMARY:Protest at Tesla West Bloomfield
+LOCATION:6800 Orchard Lake Rd\, West Bloomfield\, MI
+DESCRIPTION:We are organizing a weekly protest at Tesla's West Bloomfield 
+ location. Join us every Thursday to show support.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=6800+Orchard
+ +Lake+Rd%2C+West+Bloomfield%2C+MI&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

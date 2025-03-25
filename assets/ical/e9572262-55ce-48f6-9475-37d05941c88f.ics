@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:262f1173-6adc-48b6-b8dd-01bff8e086e1
+SEQUENCE:0
+DTSTAMP:20250325T090633Z
+DTSTART:20250329T140000
+DTEND:20250329T160000
+SUMMARY:#TESLATAKEDOWN
+LOCATION:16775 50 West\, Clermont\, FL
+DESCRIPTION:Join us at the Tesla Showroom in Clermont to protest against E
+ lon Musk. Let’s hit him where it hurts—his wallet.\n\nTesla Showroom
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=16775+50+Wes
+ t%2C+Clermont%2C+FL&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

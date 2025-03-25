@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:b3bd6ba2-fd54-448b-b972-8d1721370320
+SEQUENCE:0
+DTSTAMP:20250325T090633Z
+DTSTART:20250329T113000
+DTEND:20250329T133000
+SUMMARY:Stand With Democracy: Empty Seat Townhall & Protest
+LOCATION:To be announced\, Pittsburgh\, PA
+DESCRIPTION:Join us for a peaceful town hall outside the event to tell Sen
+ ators McCormick and Fetterman that they work for us. The event is organize
+ d by Mondays with(OUT) McCormick and Indivisible Pittsburgh with local par
+ tners.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=To+be+announ
+ ced%2C+Pittsburgh%2C+PA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

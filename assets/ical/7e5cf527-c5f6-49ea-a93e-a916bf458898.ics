@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:a7b5b30c-4c7a-4545-b442-819041e1d7bb
+SEQUENCE:0
+DTSTAMP:20250325T090633Z
+DTSTART:20250405T110000
+DTEND:20250405T130000
+SUMMARY:Hands Off Atlanta Bus Ride!
+LOCATION:1795 Mall of Georgia Blvd\, Buford\, GA
+DESCRIPTION:We have reserved an air-conditioned bus (with restrooms) to ta
+ ke us from Buford directly to Piedmont Park in Atlanta. Let’s make our v
+ oices heard by participating in this event!\n\nParking Lot BEHIND La Madel
+ eine’s at 1795 Mall of GA Boulevard
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=1795+Mall+of
+ +Georgia+Blvd%2C+Buford%2C+GA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

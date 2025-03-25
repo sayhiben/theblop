@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:cdc3749f-b56a-411d-bceb-35b3e8c4b2e4
+SEQUENCE:0
+DTSTAMP:20250325T090632Z
+DTSTART:20250327T170000
+DTEND:20250327T190000
+SUMMARY:Say No to Moms 4 Liberty
+LOCATION:Intersection of Oakwood and Witzel\, Oshkosh\, WI
+DESCRIPTION:Join us in protesting Moms for Liberty. We reject your agenda.
+  Bring American flags\, signs\, and friends.\n\nIntersection of Oakwood an
+ d Witzel\, Oshkosh
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Intersection
+ +of+Oakwood+and+Witzel%2C+Oshkosh%2C+WI&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

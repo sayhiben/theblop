@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:d6398527-828a-4af5-961a-c3b0df53646b
+SEQUENCE:0
+DTSTAMP:20250325T090633Z
+DTSTART:20250330T120000
+DTEND:20250330T140000
+SUMMARY:Unity Rally for Trans Visibility Day
+LOCATION:Benton County Courthouse\, 4th Ave\, Corvallis\, OR
+DESCRIPTION:Join us to rally and unite in honor of Trans Visibility Day. T
+ his event celebrates and honors trans friends\, relatives\, and ancestors\
+ , signifying that they are seen and loved without compromising on their hu
+ man rights. The rally will take place outside the Benton County Courthouse
+ \, welcoming signs\, dogs\, and kids.\n\nBenton County Courthouse
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Benton+Count
+ y+Courthouse%2C+4th+Ave%2C+Corvallis%2C+OR&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

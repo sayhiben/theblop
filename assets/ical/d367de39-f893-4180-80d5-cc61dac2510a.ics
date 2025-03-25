@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:9dd0d813-2483-42f5-89df-ed13f3f0ab8b
+SEQUENCE:0
+DTSTAMP:20250325T090633Z
+DTSTART:20250329T120000
+DTEND:20250329T140000
+SUMMARY:Congressional Town Hall
+DESCRIPTION:Robert Garcia will host a town hall event for constituents of 
+ CA-40 as Young Kim is not facing her community.\n\nLocation Upon RSVP
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=&zoom=15&bas
+ emap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

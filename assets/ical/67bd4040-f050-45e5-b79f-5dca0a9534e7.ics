@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:2234636b-5c8c-47f9-9c30-828cd8ec67fd
+SEQUENCE:0
+DTSTAMP:20250325T090633Z
+DTSTART:20250405T130000
+DTEND:20250405T150000
+SUMMARY:March on Washington
+LOCATION:\, Washington\, DC
+DESCRIPTION:A demonstration advocating for a ceasefire\, stopping genocide
+ \, and enforcing an arms embargo to support Palestine\, taking place in Wa
+ shington\, D.C.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+Washingt
+ on%2C+DC&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

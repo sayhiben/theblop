@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:a1640a3a-497f-4412-8963-b16aac0f7a8e
+SEQUENCE:0
+DTSTAMP:20250325T090633Z
+DTSTART:20250405T130000
+DTEND:20250405T150000
+SUMMARY:Hands Off! National Day of Action
+LOCATION:Sasscer Park\, 600 W Santa Ana Blvd\, Santa Ana\, CA
+DESCRIPTION:We invite you to join us at the Hands Off! National Day of Act
+ ion in Santa Ana. Bring a sign\, water\, good shoes\, and your friends and
+  family as we turn our rage into effective peaceful action.\n\nCorner of R
+ oss & Santa Ana
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Sasscer+Park
+ %2C+600+W+Santa+Ana+Blvd%2C+Santa+Ana%2C+CA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

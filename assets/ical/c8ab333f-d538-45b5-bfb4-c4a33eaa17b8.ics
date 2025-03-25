@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:f0c6594d-7a18-445e-9127-aa2e4127e76b
+SEQUENCE:0
+DTSTAMP:20250325T090633Z
+DTSTART:20250405T120000
+DTEND:20250405T140000
+SUMMARY:REMOVE REVERSE RECLAIM
+LOCATION:\, Sebastopol\, CA
+DESCRIPTION:Join us to protest against corrupt politicians\, reverse damag
+ e\, and reclaim our democracy.\n\nMain and Bodega
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+Sebastop
+ ol%2C+CA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:678084f8-0d2e-492c-8312-3070ad0be12c
+SEQUENCE:0
+DTSTAMP:20250325T090633Z
+DTSTART:20250405T120000
+DTEND:20250405T140000
+SUMMARY:Hands Off! San Diego Fights Back
+LOCATION:Civic Center Plaza\, 1200 Third Ave\, San Diego\, CA
+DESCRIPTION:Donald Trump and Elon Musk think this country belongs to them.
+  San Diego is fighting back! They’re taking everything they can get thei
+ r hands on—our health care\, our data\, our jobs\, our services—and da
+ ring the world to stop them. This is a crisis\, and the time to act is now
+ . On Saturday\, April 5th\, we’re taking to the streets to fight back wi
+ th a clear message: Hands off! This mass mobilization day is our message t
+ o the world that we do not consent to the destruction of our government an
+ d economy for the benefit of Trump and his billionaire allies. Alongside A
+ mericans\, we are marching\, rallying\, and protesting against the looting
+  of our country.\n\nSan Diego Civic Center Plaza
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Civic+Center
+ +Plaza%2C+1200+Third+Ave%2C+San+Diego%2C+CA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

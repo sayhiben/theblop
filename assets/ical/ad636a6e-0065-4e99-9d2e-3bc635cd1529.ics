@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:81623a8d-3201-4002-8b29-72f50af28a8f
+SEQUENCE:0
+DTSTAMP:20250325T090633Z
+DTSTART:20250329T120000
+DTEND:20250329T140000
+SUMMARY:Ann Arbor People's March
+LOCATION:200 East Liberty Street\, Ann Arbor\, MI
+DESCRIPTION:Join us in Ann Arbor for a march to raise awareness and unite 
+ against oligarchy. We will meet at the Federal Building to make our voices
+  heard.\n\nFederal Building
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=200+East+Lib
+ erty+Street%2C+Ann+Arbor%2C+MI&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

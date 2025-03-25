@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:5c08f2c0-ec7a-4348-8488-d866f371c8c4
+SEQUENCE:0
+DTSTAMP:20250325T090633Z
+DTSTART:20250405T120000
+DTEND:20250405T140000
+SUMMARY:50501 Movement
+LOCATION:Depot Ave/Main St.\, Gainesville\, FL
+DESCRIPTION:Join us as we come together to protest and make our voices hea
+ rd against Trump\, Vance\, & Musk. It's time to remove\, reverse\, and rec
+ laim.\n\nDepot Ave/Main St.
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Depot+Ave%2F
+ Main+St.%2C+Gainesville%2C+FL&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

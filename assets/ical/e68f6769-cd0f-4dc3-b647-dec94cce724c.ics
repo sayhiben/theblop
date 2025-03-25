@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:f1ea2450-5626-4d6e-b0fe-3a71ced9845d
+SEQUENCE:0
+DTSTAMP:20250325T090632Z
+DTSTART:20250327T200000
+DTEND:20250327T220000
+SUMMARY:Join the Feminist Cyber Force
+DESCRIPTION:Join us on Thursday\, March 27 at 8 PM ET as Dr. Heather Woods
+  and Dr. Leslie Hahner break down how platforms and algorithms shape power
+ —and how we can outsmart the system and strengthen our resistance online
+ .\n\nVirtual Event
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=&zoom=15&bas
+ emap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

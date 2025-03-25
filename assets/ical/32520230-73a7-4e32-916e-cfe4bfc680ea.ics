@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:9617b0e0-6e6a-4df8-97d2-9ae0cf90263f
+SEQUENCE:0
+DTSTAMP:20250325T090633Z
+DTSTART:20250405T120000
+DTEND:20250405T140000
+SUMMARY:Remove Reverse Reclaim
+LOCATION:180 N. First St.\, San Jose\, CA
+DESCRIPTION:We are organizing a protest to remove corrupt politicians from
+  office\, reverse the damage they have caused\, and reclaim our democracy.
+  This is part of a larger movement taking place in all 50 states.\n\nSt. J
+ ames Park @ The McKinley Statue
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=180+N.+First
+ +St.%2C+San+Jose%2C+CA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

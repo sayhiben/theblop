@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:99c185bb-2449-4c34-90e5-53994d32ba31
+SEQUENCE:0
+DTSTAMP:20250325T090633Z
+DTSTART:20250405T120000
+DTEND:20250405T140000
+SUMMARY:Hands Off! MN State Capitol
+LOCATION:75 Rev Dr Martin Luther King Jr Boulevard\, Saint Paul\, MN
+DESCRIPTION:Join Indivisible Twin Cities and other organizations at the MN
+  State Capitol for a rally against perceived political and social threats.
+  The event seeks to mobilize the public to take action against corruption 
+ and power grabs.\n\nMinnesota State Capitol
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=75+Rev+Dr+Ma
+ rtin+Luther+King+Jr+Boulevard%2C+Saint+Paul%2C+MN&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

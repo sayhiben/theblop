@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:f8567aee-3213-437c-b4e6-d97f1bd84a44
+SEQUENCE:0
+DTSTAMP:20250325T090632Z
+DTSTART:20250327T120000
+DTEND:20250327T140000
+SUMMARY:March to Take Petition to UA President
+LOCATION:Admin Building\, University of Arizona\, Tucson\, AZ
+DESCRIPTION:Join us in marching from the Admin Building to Old Main to del
+ iver copies of the petition to the UA President.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Admin+Buildi
+ ng%2C+University+of+Arizona%2C+Tucson%2C+AZ&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

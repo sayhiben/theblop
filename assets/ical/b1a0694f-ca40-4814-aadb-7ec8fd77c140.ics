@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:434d80e3-2e4d-4fb1-b51c-aa6f1ade57b5
+SEQUENCE:0
+DTSTAMP:20250325T090633Z
+DTSTART:20250329T130000
+DTEND:20250329T150000
+SUMMARY:Peaceful Tesla Protest
+LOCATION:Corner of LOVR and Calle Joaquin\, San Luis Obispo\, CA
+DESCRIPTION:Join us in San Luis Obispo for a peaceful protest against Tesl
+ a and the issues of oligarchy.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Corner+of+LO
+ VR+and+Calle+Joaquin%2C+San+Luis+Obispo%2C+CA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

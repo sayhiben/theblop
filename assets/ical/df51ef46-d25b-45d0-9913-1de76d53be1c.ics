@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:14a14ba9-5b05-4cdd-b3a2-aa4984a1309c
+SEQUENCE:0
+DTSTAMP:20250325T090633Z
+DTSTART:20250329T120000
+DTEND:20250329T140000
+SUMMARY:TESLA TAKEDOWN PASADENA
+LOCATION:117 W Colorado Blvd\, Pasadena\, CA
+DESCRIPTION:Join us for the Tesla Takedown event at the Pasadena showroom\
+ , focusing on one of the largest gatherings of Tesla enthusiasts.\n\nTESLA
+  SHOWROOM OLD PASADENA
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=117+W+Colora
+ do+Blvd%2C+Pasadena%2C+CA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

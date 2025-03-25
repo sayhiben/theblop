@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:88af3b83-e847-443f-9d93-548419e4083b
+SEQUENCE:0
+DTSTAMP:20250325T090633Z
+DTSTART:20250405T110000
+DTEND:20250405T130000
+SUMMARY:We the People March & Rally
+LOCATION:\, Seattle\, WA
+DESCRIPTION:We the People – Means Everyone. A gathering to support democ
+ racy\, diversity\, and equality with speakers\, live music\, and informati
+ on booths.\n\nCal Anderson Park
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+Seattle%
+ 2C+WA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

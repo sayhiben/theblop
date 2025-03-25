@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:4d96c017-a727-4d99-8cd2-1bf83eb23e51
+SEQUENCE:0
+DTSTAMP:20250325T090633Z
+DTSTART:20250405T130000
+DTEND:20250405T150000
+SUMMARY:March on Washington
+LOCATION:\, Washington\, DC
+DESCRIPTION:Join us in Washington D.C. to demand a ceasefire\, stop the ge
+ nocide\, and impose an arms embargo. Stand in solidarity for justice and p
+ eace.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+Washingt
+ on%2C+DC&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

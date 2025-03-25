@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:fb226662-57df-4304-898b-1015fd391f19
+SEQUENCE:0
+DTSTAMP:20250325T090633Z
+DTSTART:20250329T120000
+DTEND:20250329T140000
+SUMMARY:3/29 Tesla Takedown
+LOCATION:1932 E. Garvey Ave\, West Covina\, CA 91791
+DESCRIPTION:Join us for the 3/29 Tesla Takedown event happening at the Tes
+ la Dealership in West Covina. Be there for the exciting happenings on this
+  day!\n\nTesla Dealership
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=1932+E.+Garv
+ ey+Ave%2C+West+Covina%2C+CA+91791&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

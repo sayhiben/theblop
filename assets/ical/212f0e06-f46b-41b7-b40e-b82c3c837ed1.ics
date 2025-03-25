@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:14d4ff71-1478-4fe3-b733-4981737aaaba
+SEQUENCE:0
+DTSTAMP:20250325T090633Z
+DTSTART:20250405T120000
+DTEND:20250405T140000
+SUMMARY:HANDS OFF!
+LOCATION:605 Esther St\, Vancouver\, WA
+DESCRIPTION:Join us for a nationwide movement to advocate for public servi
+ ces and rights\, aiming to remove corrupt politicians\, restore damages\, 
+ and reclaim democracy. The event emphasizes the importance of lands\, libr
+ aries\, healthcare\, schools\, veteran services\, sciences\, social securi
+ ty\, and citizenship for all.\n\nEsther Short Park
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=605+Esther+S
+ t%2C+Vancouver%2C+WA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

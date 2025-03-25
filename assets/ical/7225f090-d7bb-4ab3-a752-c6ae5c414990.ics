@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:3de22bf8-ec05-432b-976d-aba797a715c6
+SEQUENCE:0
+DTSTAMP:20250325T090633Z
+DTSTART:20250330T120000
+DTEND:20250330T140000
+SUMMARY:FOX: STOP THE LIES! & MASS MEDIA MARCH
+LOCATION:1211 6th Ave\, NYC (48th St.)\, New York\, NY
+DESCRIPTION:Join us at the FOX: STOP THE LIES! & MASS MEDIA MARCH to prote
+ st and raise awareness against misinformation in the media. We aim to advo
+ cate for truthfulness in mass media. Be part of this movement with us!\n\n
+ #FOXLIES HQ
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=1211+6th+Ave
+ %2C+NYC+%2848th+St.%29%2C+New+York%2C+NY&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

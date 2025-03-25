@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:5dda7e96-2c9c-4b2f-9333-3bc768c953dc
+SEQUENCE:0
+DTSTAMP:20250325T090633Z
+DTSTART:20250405T120000
+DTEND:20250405T140000
+SUMMARY:REMOVE REVERSE RECLAIM
+LOCATION:701 Ocean Street\, Santa Cruz\, CA
+DESCRIPTION:Join us as we organize to remove corrupt politicians from offi
+ ce\, reverse the damage\, and reclaim our democracy. This event is part of
+  a nationwide movement occurring across all 50 states.\n\nSuperior Court
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=701+Ocean+St
+ reet%2C+Santa+Cruz%2C+CA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

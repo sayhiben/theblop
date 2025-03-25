@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:6ebab92a-29d9-415a-a152-ccd35661cfb3
+SEQUENCE:0
+DTSTAMP:20250325T090633Z
+DTSTART:20250405T160000
+DTEND:20250405T180000
+SUMMARY:SOCAL SE UNE
+LOCATION:532 S Olive St\, Los Angeles\, CA 90013
+DESCRIPTION:Join us for an engaging day starting with a gathering at Persh
+ ing Square\, followed by a march to City Hall. The event will feature a ma
+ nifestation with speakers and entertainment\, creating a united front on i
+ mportant issues.\n\nPershing Square
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=532+S+Olive+
+ St%2C+Los+Angeles%2C+CA+90013&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

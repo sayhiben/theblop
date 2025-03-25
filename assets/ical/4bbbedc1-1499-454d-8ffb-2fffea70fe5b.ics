@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:88eea58e-8195-41de-b645-29221737c87b
+SEQUENCE:0
+DTSTAMP:20250325T090633Z
+DTSTART:20250405T150000
+DTEND:20250405T170000
+SUMMARY:Peaceful Protest
+LOCATION:\, Hartford\, CT
+DESCRIPTION:We invite you to join a peaceful protest to express our stance
+  on removing corrupt politicians\, reversing harmful policies\, and reclai
+ ming democracy.\n\nConnecticut State Capitol
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+Hartford
+ %2C+CT&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

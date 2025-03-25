@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:c24f240d-eccf-4e48-9c67-7bcf85414815
+SEQUENCE:0
+DTSTAMP:20250325T090633Z
+DTSTART:20250430T000000
+DTEND:20250430T020000
+SUMMARY:Inclusion Day
+LOCATION:National Mall\, Washington\, DC
+DESCRIPTION:Join us at the National Mall in DC for Inclusion Day\, a signi
+ ficant event focused on LGBTQIA+ community support and celebration.\n\nNat
+ ional Mall
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=National+Mal
+ l%2C+Washington%2C+DC&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

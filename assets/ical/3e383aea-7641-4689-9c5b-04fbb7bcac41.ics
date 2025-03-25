@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:d8e15bbe-f322-4e70-9f44-591067fe385b
+SEQUENCE:0
+DTSTAMP:20250325T090633Z
+DTSTART:20250405T140000
+DTEND:20250405T160000
+SUMMARY:Slutwalk Boise
+LOCATION:150 N Capitol Blvd\, Boise\, ID
+DESCRIPTION:Join us for Slutwalk Boise to end sexual abuse and assault. We
+  invite everyone to join forces and break the silence.\n\nBoise City Hall 
+ Plaza
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=150+N+Capito
+ l+Blvd%2C+Boise%2C+ID&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

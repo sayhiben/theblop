@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:83a410c5-f518-4523-85be-89afa592e98c
+SEQUENCE:0
+DTSTAMP:20250325T090633Z
+DTSTART:20250405T120000
+DTEND:20250405T140000
+SUMMARY:Trump Protest at the Capitol
+LOCATION:Steps of the Capitol Building\, Topeka\, KS
+DESCRIPTION:We invite you to join us in protesting against Trump\, Elon\, 
+ Roger Marshall\, and other oligarchs attempting to take control of our cou
+ ntry. The protest is organized by Indivisible\, Women's March\, and others
+ .\n\nCapitol Building
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Steps+of+the
+ +Capitol+Building%2C+Topeka%2C+KS&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

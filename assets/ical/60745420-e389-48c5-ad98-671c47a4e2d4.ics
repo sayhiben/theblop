@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:10fd532a-6542-42a4-9935-c5a5abac1c52
+SEQUENCE:0
+DTSTAMP:20250325T090633Z
+DTSTART:20250405T120000
+DTEND:20250405T140000
+SUMMARY:Hands Off Our Courts+
+LOCATION:San Luis Obispo Courthouse\, San Luis Obispo\, CA
+DESCRIPTION:Join us to advocate for Medicaid\, Medicare\, Social Security\
+ , and various social and political issues at the San Luis Obispo Courthous
+ e.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=San+Luis+Obi
+ spo+Courthouse%2C+San+Luis+Obispo%2C+CA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

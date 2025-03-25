@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:ab5fb9cd-6c44-4cc7-9da8-bbed65a74220
+SEQUENCE:0
+DTSTAMP:20250325T090633Z
+DTSTART:20250329T120000
+DTEND:20250329T140000
+SUMMARY:TeslaTakedown at Colonie Center
+LOCATION:131 Colonie Center\, Albany\, NY
+DESCRIPTION:Join us for the TeslaTakedown event at Colonie Center. Meet at
+  the sidewalk near the Tesla superchargers. For more details\, contact the
+  host.\n\nSidewalk near Tesla superchargers
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=131+Colonie+
+ Center%2C+Albany%2C+NY&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:1f777de9-e902-49a3-8946-1d23602e04d9
+SEQUENCE:0
+DTSTAMP:20250325T090633Z
+DTSTART:20250405T100000
+DTEND:20250405T120000
+SUMMARY:Remove\, Reverse\, Reclaim
+LOCATION:800 S. Victoria Avenue\, Ventura\, CA
+DESCRIPTION:Join us to remove corrupt politicians\, reverse the damage\, a
+ nd reclaim our democracy. This protest is part of a nationwide movement.\n
+ \nVentura County Govt Center\, Northeast Corner
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=800+S.+Victo
+ ria+Avenue%2C+Ventura%2C+CA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

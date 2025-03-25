@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:13c85a91-ca4e-4a1d-abde-16cde528af97
+SEQUENCE:0
+DTSTAMP:20250325T090633Z
+DTSTART:20250405T120000
+DTEND:20250405T140000
+SUMMARY:Remove\, Reverse\, Reclaim
+LOCATION:Main and Bodega\, Sebastopol\, CA
+DESCRIPTION:This event is part of a nationwide protest to remove corrupt p
+ oliticians\, reverse damage\, and reclaim democracy.\n\nMain and Bodega
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Main+and+Bod
+ ega%2C+Sebastopol%2C+CA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

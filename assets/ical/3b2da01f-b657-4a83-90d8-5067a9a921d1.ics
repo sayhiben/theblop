@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:7bf0663c-d231-4ded-8e78-2f3f3eb799fc
+SEQUENCE:0
+DTSTAMP:20250325T090633Z
+DTSTART:20250405T000000
+DTEND:20250405T020000
+SUMMARY:Defend Democracy Event
+LOCATION:\, Los Angeles\, CA
+DESCRIPTION:We invite you to join us in defending democracy in Los Angeles
+ \, with accessible transportation from San Diego County.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+Los+Ange
+ les%2C+CA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

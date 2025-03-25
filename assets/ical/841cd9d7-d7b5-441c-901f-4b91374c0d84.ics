@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:4594f21e-d4b7-484d-a3dd-3f5c384f112f
+SEQUENCE:0
+DTSTAMP:20250325T090633Z
+DTSTART:20250329T120000
+DTEND:20250329T140000
+SUMMARY:Long Island Congressional Town Hall
+LOCATION:\, Suffolk County\, NY
+DESCRIPTION:Join us for the People's Town Hall to engage in discussions wi
+ th congressional representatives LaLota and Garbarino. Hear stories and as
+ k questions as part of this community conversation.\n\nLocation provided u
+ pon registration
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+Suffolk+
+ County%2C+NY&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

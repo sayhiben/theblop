@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:80b6abba-556b-40f0-95ce-39fb37dcfa84
+SEQUENCE:0
+DTSTAMP:20250325T090632Z
+DTSTART:20250327T180000
+DTEND:20250327T200000
+SUMMARY:What Is An Effective Protest Today?
+LOCATION:JFK Jr. Forum\, Cambridge\, MA
+DESCRIPTION:An event by the Harvard Kennedy School's Ash Center discussing
+  new research on protest strategies\, accessible for free via livestream o
+ n the Institute of Politics' YouTube channel.\n\nJFK Jr. Forum
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=JFK+Jr.+Foru
+ m%2C+Cambridge%2C+MA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

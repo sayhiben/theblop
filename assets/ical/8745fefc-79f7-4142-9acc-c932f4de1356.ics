@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:c9b64a2a-5d38-479b-af1a-1422c136204f
+SEQUENCE:0
+DTSTAMP:20250325T090632Z
+DTSTART:20250328T163000
+DTEND:20250328T183000
+SUMMARY:Car Rally & Protest
+LOCATION:Phil Long Music Hall\, Colorado Springs\, CO
+DESCRIPTION:Join us for a car rally and a sidewalk protest against Steve B
+ annon\, expressing that he is not welcome in Colorado. Bring your signs.\n
+ \nBass Pro Shops parking lot
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Phil+Long+Mu
+ sic+Hall%2C+Colorado+Springs%2C+CO&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

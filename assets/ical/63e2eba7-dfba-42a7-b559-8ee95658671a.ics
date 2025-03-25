@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:000cf6f2-80ee-42d7-9798-b79b2aca38f5
+SEQUENCE:0
+DTSTAMP:20250325T090632Z
+DTSTART:20250327T180000
+DTEND:20250327T200000
+SUMMARY:Congressional Town Hall with Tim Walz & Beto O’Rourke
+LOCATION:4310 TX-36\, Rosenberg\, TX
+DESCRIPTION:Gov. Tim Walz and Beto O’Rourke are coming to the Houston/Fo
+ rt Bend area for a town hall to discuss community concerns. Attendees can 
+ ask questions and engage in conversations to shape the future.\n\nFort Ben
+ d County Fairgrounds - Building C
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=4310+TX-36%2
+ C+Rosenberg%2C+TX&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

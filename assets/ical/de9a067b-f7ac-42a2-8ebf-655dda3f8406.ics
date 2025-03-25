@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:50160b0d-c5cb-45c1-8b7d-6ce2d3244ae4
+SEQUENCE:0
+DTSTAMP:20250325T090633Z
+DTSTART:20250330T130000
+DTEND:20250330T150000
+SUMMARY:Tesla Takedown @ Somerset
+LOCATION:2800 W Big Beaver Rd\, Troy\, MI 48084 US
+DESCRIPTION:Join us every Sunday for Tesla Takedown @ Somerset\, held at t
+ he North Parking Lot of Somerset Mall in Troy. Engage with us from 1-3pm.\
+ n\nSidewalk by Somerset Mall North Parking Lot
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=2800+W+Big+B
+ eaver+Rd%2C+Troy%2C+MI+48084+US&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

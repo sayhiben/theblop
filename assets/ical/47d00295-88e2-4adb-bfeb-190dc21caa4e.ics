@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:b5f264dc-f7f8-4430-b141-350264c248c7
+SEQUENCE:0
+DTSTAMP:20250325T090633Z
+DTSTART:20250403T173000
+DTEND:20250403T193000
+SUMMARY:We the People of Alabama Declare: Fascists Are Not Welcome Here!
+LOCATION:Corner of Richard Arrington Jr Blvd and 22nd St N\, Birmingham\, 
+ AL
+DESCRIPTION:Join us on April 3rd in directly opposing Donald Trump Jr's vi
+ sit to our state\, and bring your friends\, your voice\, and the power of 
+ community.\n\nThe BJCC
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Corner+of+Ri
+ chard+Arrington+Jr+Blvd+and+22nd+St+N%2C+Birmingham%2C+AL&zoom=15&basemap=
+ roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

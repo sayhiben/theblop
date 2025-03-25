@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:ba526ad7-249d-40b3-8c79-caec1a261d97
+SEQUENCE:0
+DTSTAMP:20250325T090633Z
+DTSTART:20250329T113000
+DTEND:20250329T133000
+SUMMARY:Tesla Takedown Global Day of Action
+LOCATION:Tesla Showroom\, 395 Santa Monica Pl Unit 120
+DESCRIPTION:A gathering in Santa Monica aimed at addressing concerns about
+  Tesla.\n\nThird & Broadway
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Tesla+Showro
+ om%2C+395+Santa+Monica+Pl+Unit+120&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

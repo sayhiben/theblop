@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:9347d5fb-0948-4344-a711-7d481a5c0155
+SEQUENCE:0
+DTSTAMP:20250325T090633Z
+DTSTART:20250405T130000
+DTEND:20250405T150000
+SUMMARY:Hands Off!
+LOCATION:\, Canton\, MI
+DESCRIPTION:Join Belleville Area Friends Indivisible (BAFI) to support and
+  protect essential public services and rights.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+Canton%2
+ C+MI&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

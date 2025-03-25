@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:4dc1768b-54b4-4278-bc5e-17aa87feee55
+SEQUENCE:0
+DTSTAMP:20250325T090633Z
+DTSTART:20250406T150000
+DTEND:20250406T170000
+SUMMARY:Stand for American Values
+LOCATION:Lincoln Memorial\, Washington\, DC
+DESCRIPTION:Join us at the Lincoln Memorial in Washington\, DC\, to suppor
+ t American values and stand in solidarity with Ukraine\, organized by the 
+ American Coalition for Ukraine.\n\nLincoln Memorial
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Lincoln+Memo
+ rial%2C+Washington%2C+DC&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

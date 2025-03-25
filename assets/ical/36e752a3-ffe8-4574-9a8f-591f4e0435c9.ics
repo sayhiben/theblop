@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:96f04280-1001-440a-8368-7a4f395a3e49
+SEQUENCE:0
+DTSTAMP:20250325T090633Z
+DTSTART:20250405T110000
+DTEND:20250405T130000
+SUMMARY:REMOVE REVERSE RECLAIM
+LOCATION:1310 10th St\, Sacramento\, CA
+DESCRIPTION:Join us for a picnic protest as part of the REMOVE REVERSE REC
+ LAIM movement. We aim to remove corrupt politicians from office\, reverse 
+ the damage done\, and reclaim our democracy. Together with Indivisible and
+  Hands Off!\, we emphasize unity and collective action.\n\nState Capitol
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=1310+10th+St
+ %2C+Sacramento%2C+CA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

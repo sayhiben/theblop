@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:0f60d6b8-56ee-44a8-b294-d1987822cd60
+SEQUENCE:0
+DTSTAMP:20250325T090633Z
+DTSTART:20250405T110000
+DTEND:20250405T130000
+SUMMARY:WE WERE LIED TO RALLY
+LOCATION:CORNER OF TUCKER X W TEHACHAPI BLVD
+DESCRIPTION:We are organizing a peaceful protest to raise awareness and de
+ mand truth from leaders. Join us in advocating for transparency and justic
+ e.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=CORNER+OF+TU
+ CKER+X+W+TEHACHAPI+BLVD&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:bbe5f7e2-730e-464a-912d-8eae046cddcd
+SEQUENCE:0
+DTSTAMP:20250325T090633Z
+DTSTART:20250405T120000
+DTEND:20250405T140000
+SUMMARY:Hands Off Our Courts!
+LOCATION:San Luis Obispo Courthouse\, San Luis Obispo\, CA
+DESCRIPTION:We are hosting a protest to address issues related to public s
+ ervices\, fair elections\, and various rights. Join us to make your voice 
+ heard in support of these causes.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=San+Luis+Obi
+ spo+Courthouse%2C+San+Luis+Obispo%2C+CA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:d6523840-c2fd-45a2-9bfe-1926bee1f1c4
+SEQUENCE:0
+DTSTAMP:20250325T090633Z
+DTSTART:20250405T120000
+DTEND:20250405T140000
+SUMMARY:Nationwide Day of Action
+LOCATION:Footsteps of 517 E Wisconsin Ave\, Milwaukee\, WI
+DESCRIPTION:We are organizing a nationwide day of action with protests\, f
+ eaturing speakers and community voices\, across all 50 states as part of a
+  united movement.\n\nFederal Building & U.S. Courthouse
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Footsteps+of
+ +517+E+Wisconsin+Ave%2C+Milwaukee%2C+WI&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

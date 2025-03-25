@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:9ab51c6b-d640-40bb-a666-676d96b1130f
+SEQUENCE:0
+DTSTAMP:20250325T090633Z
+DTSTART:20250405T130000
+DTEND:20250405T150000
+SUMMARY:HANDS OFF Event Syracuse NY 4/5
+LOCATION:\, Syracuse\, NY
+DESCRIPTION:We are organizing a mass mobilization in Syracuse to protest a
+ gainst the policies of Trump and Musk\, focusing on protecting healthcare\
+ , jobs\, and services. The event promotes nonviolent action to demand chan
+ ge and stop potential chaos.\n\nForman Park
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+Syracuse
+ %2C+NY&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

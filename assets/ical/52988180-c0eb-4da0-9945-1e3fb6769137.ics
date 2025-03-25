@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:94f44b39-41f4-423a-a2e6-03ca0300f660
+SEQUENCE:0
+DTSTAMP:20250325T090633Z
+DTSTART:20250405T000000
+DTEND:20250405T020000
+SUMMARY:Nation-wide Protests and Sit-ins
+LOCATION:Colfax and Lincoln\, Denver\, CO
+DESCRIPTION:We are organizing nation-wide protests and sit-ins in all 50 s
+ tates to remove corrupt politicians\, reverse damage\, and reclaim democra
+ cy.\n\nColorado State Capitol
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Colfax+and+L
+ incoln%2C+Denver%2C+CO&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

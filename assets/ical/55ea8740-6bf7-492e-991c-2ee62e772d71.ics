@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:2cb4c2c1-f9be-4459-b299-4a7ec9350b84
+SEQUENCE:0
+DTSTAMP:20250325T090633Z
+DTSTART:20250405T000000
+DTEND:20250405T020000
+SUMMARY:Rally for Veterans and Federal Employees
+LOCATION:\, Sioux City\, IA
+DESCRIPTION:We invite you to join us in Sioux City\, Iowa\, to share your 
+ experiences as a veteran or federal employee under the current administrat
+ ion. Come tell your story and participate in our rally.\n\nSioux City
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+Sioux+Ci
+ ty%2C+IA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

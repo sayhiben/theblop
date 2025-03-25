@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:bd3c7d46-e1d1-4bf6-a627-a9b66c3527c9
+SEQUENCE:0
+DTSTAMP:20250325T090633Z
+DTSTART:20250501T170000
+DTEND:20250501T190000
+SUMMARY:Unite and Fight May Day March 2025
+LOCATION:Austin Steward Plaza\, Rochester\, NY
+DESCRIPTION:Join us at the May Day Coalition\, hosted by the Rochester Lab
+ or Council\, for a march and rally in support of economic and social justi
+ ce. Stand alongside immigrants\, federal workers\, and LGBT neighbors for 
+ a better future.\n\nParcel 5
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Austin+Stewa
+ rd+Plaza%2C+Rochester%2C+NY&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
