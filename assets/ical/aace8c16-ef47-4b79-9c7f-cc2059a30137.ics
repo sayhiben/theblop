@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:b5032509-3960-41b7-b7b2-f4e19f92845a
+SEQUENCE:0
+DTSTAMP:20250325T120507Z
+DTSTART:20250329T110000
+DTEND:20250329T130000
+SUMMARY:#TeslaTakedown
+LOCATION:11701 Gateworth Way\, Louisville\, KY
+DESCRIPTION:Join us for the #TeslaTakedown event in Louisville to make a s
+ tatement together.\n\nTesla Service Center
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=11701+Gatewo
+ rth+Way%2C+Louisville%2C+KY&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

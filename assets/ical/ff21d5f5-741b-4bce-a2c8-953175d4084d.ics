@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:000b240f-0608-4d43-a7cd-4ce3dc3675ab
+SEQUENCE:0
+DTSTAMP:20250325T120507Z
+DTSTART:20250329T120000
+DTEND:20250329T140000
+SUMMARY:Congressional Town Hall
+LOCATION:\, \, CA
+DESCRIPTION:Join Robert Garcia for a Congressional Town Hall to engage wit
+ h constituents and address community concerns.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+%2C+CA&z
+ oom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

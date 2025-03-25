@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:fbbdce00-330a-46cb-a971-dd91ec7d9726
+SEQUENCE:0
+DTSTAMP:20250325T120507Z
+DTSTART:20250329T000000
+DTEND:20250329T020000
+SUMMARY:#TeslaTakedown
+DESCRIPTION:Join us for a global day of action on March 29 to oppose what 
+ is described as Elon Musk's illegal coup. Turn out in numbers across 277 T
+ esla locations in the US and 500+ sites worldwide. Visit the website for m
+ ore details or to start an action.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=&zoom=15&bas
+ emap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

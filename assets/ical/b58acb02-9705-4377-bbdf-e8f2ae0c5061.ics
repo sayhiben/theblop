@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:83d4ecaa-f549-4a76-9bda-35a3a09f0c88
+SEQUENCE:0
+DTSTAMP:20250325T120507Z
+DTSTART:20250405T110000
+DTEND:20250405T130000
+SUMMARY:SpringFest 2025
+LOCATION:Hillsboro Hidden Creek Community Center
+DESCRIPTION:We are excited to present SpringFest\, emphasizing resistance 
+ and community empowerment\, featuring a notable guest. Activities include 
+ a follow-up rally\, encouraging engagement on shared goals.\n\nHillsboro H
+ idden Creek Community Center
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Hillsboro+Hi
+ dden+Creek+Community+Center&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

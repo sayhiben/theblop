@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:5281573b-2474-4849-94b0-ae3d28b31d27
+SEQUENCE:0
+DTSTAMP:20250325T120507Z
+DTSTART:20250325T180000
+DTEND:20250325T200000
+SUMMARY:Migra Watch Training: We Keep Eyes on ICE
+LOCATION:\, \, CA
+DESCRIPTION:Become a part of the Northern California rapid response to ICE
+  network. This training is for folks living in specified areas.\n\nZoom
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+%2C+CA&z
+ oom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

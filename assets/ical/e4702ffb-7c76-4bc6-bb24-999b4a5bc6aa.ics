@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:944e1e29-e0ea-4b88-916a-988ce7b50d1b
+SEQUENCE:0
+DTSTAMP:20250325T120507Z
+DTSTART:20250405T120000
+DTEND:20250405T140000
+SUMMARY:HANDS OFF!
+LOCATION:Perry Square\, Erie\, PA
+DESCRIPTION:A protest aimed at defending various social and civil rights\,
+  including Medicaid\, Medicare\, social security\, and more.\n\nPerry Squa
+ re
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Perry+Square
+ %2C+Erie%2C+PA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

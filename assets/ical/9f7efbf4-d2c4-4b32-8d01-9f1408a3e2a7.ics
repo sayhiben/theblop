@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:206b6170-8bae-4cfb-8654-1546e0548dd8
+SEQUENCE:0
+DTSTAMP:20250325T120507Z
+DTSTART:20250329T120000
+DTEND:20250329T140000
+SUMMARY:Tesla Protest
+LOCATION:7920 Lindbergh Dr\, Riverside\, Riverside\, CA
+DESCRIPTION:Join us in protesting against Tesla and Trump at the Riverside
+  Tesla location. Bring signs and remain peaceful.\n\nTesla\, Riverside
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=7920+Lindber
+ gh+Dr%2C+Riverside%2C+Riverside%2C+CA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

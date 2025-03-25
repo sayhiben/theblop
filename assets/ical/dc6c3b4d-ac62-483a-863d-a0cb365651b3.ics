@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:00f874d7-5662-437e-b31e-f494f79e995f
+SEQUENCE:0
+DTSTAMP:20250325T120507Z
+DTSTART:20250330T110000
+DTEND:20250330T130000
+SUMMARY:Transgender Day of Visibility
+LOCATION:2026 N Van Ness Blvd\, Fresno\, CA
+DESCRIPTION:We are gathering to honor trans healing and advocacy\, promoti
+ ng awareness and support for the transgender community.\n\nDulce Upfront
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=2026+N+Van+N
+ ess+Blvd%2C+Fresno%2C+CA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

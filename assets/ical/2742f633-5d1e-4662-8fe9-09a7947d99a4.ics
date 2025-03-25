@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:f8add7bb-9b74-4ead-ab53-f0496b6d1019
+SEQUENCE:0
+DTSTAMP:20250325T120507Z
+DTSTART:20250328T080000
+DTEND:20250328T100000
+SUMMARY:Halt the Hike Protest
+LOCATION:Outside of University Hall (UNH)\, Edmonton\, AB
+DESCRIPTION:Join us as we protest against the next round of yearly tuition
+  hikes. We aim to halt these increases and show our opposition.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Outside+of+U
+ niversity+Hall+%28UNH%29%2C+Edmonton%2C+AB&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

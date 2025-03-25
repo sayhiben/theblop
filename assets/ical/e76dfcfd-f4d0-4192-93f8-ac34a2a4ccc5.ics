@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:9a7c4e51-1a99-48fd-ab75-c25347b1a492
+SEQUENCE:0
+DTSTAMP:20250325T120507Z
+DTSTART:20250325T113000
+DTEND:20250325T133000
+SUMMARY:Weekly Sign Waving / Protest to Raise Awareness
+LOCATION:272 East Via Rancho Parkway\, Escondido\, CA
+DESCRIPTION:We invite participants to join a peaceful protest to raise awa
+ reness about economic policies\, encouraging civic engagement and solidari
+ ty.\n\nNorth County Mall
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=272+East+Via
+ +Rancho+Parkway%2C+Escondido%2C+CA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

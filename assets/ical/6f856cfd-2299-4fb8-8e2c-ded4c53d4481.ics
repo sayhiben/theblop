@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:74d482d5-616d-40b4-bed6-4ef2555bd44c
+SEQUENCE:0
+DTSTAMP:20250325T120507Z
+DTSTART:20250329T130000
+DTEND:20250329T150000
+SUMMARY:Fight Against Oligarchy
+LOCATION:Corner of LOVR & Calle Joaquin\, San Luis Obispo\, CA
+DESCRIPTION:Join us at the corner of LOVR and Calle Joaquin to take a stan
+ d against oligarchy. Engage with community members in a public demonstrati
+ on.\n\nCorner of LOVR & Calle Joaquin
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Corner+of+LO
+ VR+%26+Calle+Joaquin%2C+San+Luis+Obispo%2C+CA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

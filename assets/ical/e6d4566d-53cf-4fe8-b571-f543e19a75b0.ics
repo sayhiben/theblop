@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:89828148-dd69-4233-8bc3-ee8cbe9ed20e
+SEQUENCE:0
+DTSTAMP:20250325T120507Z
+DTSTART:20250412T120000
+DTEND:20250412T140000
+SUMMARY:THE PEOPLE
+LOCATION:Henry County Courthouse
+DESCRIPTION:An event advocating for citizens' rights and roles in governan
+ ce\, themed with 'Justice for Peace'.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Henry+County
+ +Courthouse&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

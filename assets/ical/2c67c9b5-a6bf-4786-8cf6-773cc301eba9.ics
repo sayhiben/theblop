@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:e1fe3b4c-bf5a-42c8-8734-4bb85a218cab
+SEQUENCE:0
+DTSTAMP:20250325T120507Z
+DTSTART:20250405T000000
+DTEND:20250405T020000
+SUMMARY:Defend Democracy in Los Angeles
+LOCATION:\, Los Angeles\, CA
+DESCRIPTION:Join us in defending democracy with 50 50 1 San Diego on April
+  5th in Los Angeles. We are offering accessible transportation from across
+  San Diego County. Register as soon as possible to stand with us and other
+ s from SoCal.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+Los+Ange
+ les%2C+CA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

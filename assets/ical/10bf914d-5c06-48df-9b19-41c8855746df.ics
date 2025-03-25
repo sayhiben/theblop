@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:8a492430-1d30-4bf0-b24c-5aed99ca8103
+SEQUENCE:0
+DTSTAMP:20250325T120507Z
+DTSTART:20250606T000000
+DTEND:20250606T020000
+SUMMARY:June 6th D-Day Anniversary Protest – Veterans Stand Against Fasc
+ ism Nationwide
+LOCATION:Every State Capital\, Washington D.C.\, Nationwide\, Nationwide
+DESCRIPTION:Join us as veterans stand united against fascism on the D-Day 
+ anniversary. This protest represents a nationwide call to action.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Every+State+
+ Capital%2C+Washington+D.C.%2C+Nationwide%2C+Nationwide&zoom=15&basemap=roa
+ dmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

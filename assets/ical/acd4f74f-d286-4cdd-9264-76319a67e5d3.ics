@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:f6c4685c-d1c5-49ad-8a52-69432137bdb5
+SEQUENCE:0
+DTSTAMP:20250325T120507Z
+DTSTART:20250405T120000
+DTEND:20250405T140000
+SUMMARY:Hands Off! Rally Against the Musk/Trump Agenda
+LOCATION:901 Bagby\, Houston\, TX
+DESCRIPTION:Join us for a mass mobilization rally organized by Indivisible
+  Houston to stand against the Musk/Trump agenda.\n\nHouston City Hall
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=901+Bagby%2C
+ +Houston%2C+TX&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

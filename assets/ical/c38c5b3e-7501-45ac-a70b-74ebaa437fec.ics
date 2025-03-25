@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:eae94b7d-fc1d-4383-b3f8-04e61d1397b1
+SEQUENCE:0
+DTSTAMP:20250325T120507Z
+DTSTART:20250326T120000
+DTEND:20250326T140000
+SUMMARY:Peaceful Protest for Social Security
+LOCATION:At the corner of La Paz and Marguerite\, Mission Viejo\, CA
+DESCRIPTION:Join us for a peaceful protest led by SOUTHOC4DEMOCRACY to opp
+ ose threats against social security benefits.\n\nMission Viejo
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=At+the+corne
+ r+of+La+Paz+and+Marguerite%2C+Mission+Viejo%2C+CA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

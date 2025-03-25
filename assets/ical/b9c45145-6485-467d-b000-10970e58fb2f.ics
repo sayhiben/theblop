@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:a4d52f09-1413-48c5-a062-30742c112f3b
+SEQUENCE:0
+DTSTAMP:20250325T120507Z
+DTSTART:20250405T120000
+DTEND:20250405T140000
+SUMMARY:50 Protests 50 States 1 Movement
+LOCATION:City Hall\, Rapid City\, SD
+DESCRIPTION:We are organizing a peaceful protest to remove corrupt politic
+ ians\, reverse the damage\, and reclaim our democracy. Join us in Rapid Ci
+ ty\, SD\, to show support and solidarity.\n\nPublic sidewalks outside City
+  Hall and by Memorial Park\, along Omaha St.
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=City+Hall%2C
+ +Rapid+City%2C+SD&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

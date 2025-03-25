@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:84ae051a-4357-4f95-bedf-93bee3f1464b
+SEQUENCE:0
+DTSTAMP:20250325T120507Z
+DTSTART:20250327T163000
+DTEND:20250327T183000
+SUMMARY:Silent Protest Outside Waikato Hospital
+LOCATION:Intersection between Ohaupo Rd and Lorne Rd\, Hamilton\, NZL
+DESCRIPTION:Join us for a silent protest to raise awareness against the on
+ going conflict impacting hospitals and medical facilities.\n\nOutside Waik
+ ato Hospital
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Intersection
+ +between+Ohaupo+Rd+and+Lorne+Rd%2C+Hamilton%2C+NZL&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

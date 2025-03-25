@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:9b3fe199-a614-4974-b066-3f807971396b
+SEQUENCE:0
+DTSTAMP:20250325T120507Z
+DTSTART:20250325T120000
+DTEND:20250325T140000
+SUMMARY:Solidarity Walk - Save EPA
+LOCATION:77 W Jackson Blvd\, Chicago\, IL
+DESCRIPTION:We are organizing a solidarity walk in Chicago to raise awaren
+ ess and support for the EPA. This event is crucial in demonstrating our co
+ mmitment to preserving the environment for current and future generations.
+ \n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=77+W+Jackson
+ +Blvd%2C+Chicago%2C+IL&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

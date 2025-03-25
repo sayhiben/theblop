@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:339ce652-4c79-4e56-af3e-1bd20c7ddb0f
+SEQUENCE:0
+DTSTAMP:20250325T120507Z
+DTSTART:20250405T140000
+DTEND:20250405T160000
+SUMMARY:Hands Off!
+LOCATION:5 Bayfront Dr\, Sarasota\, FL
+DESCRIPTION:Join us for the Hands Off! event to protect our rights and res
+ ources. Gather with others to voice support for issues like healthcare\, p
+ ublic lands\, and more.\n\nBayfront Park
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=5+Bayfront+D
+ r%2C+Sarasota%2C+FL&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

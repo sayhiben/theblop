@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:cd43af2e-7600-4ff7-9ef9-604f26c7da78
+SEQUENCE:0
+DTSTAMP:20250325T120507Z
+DTSTART:20250331T103000
+DTEND:20250331T123000
+SUMMARY:Trans Day of Visibility
+LOCATION:\, Saint Paul\, MN
+DESCRIPTION:Join us for the Trans Day of Visibility rally at the State Cap
+ itol\, featuring speakers like Representative Leigh Finke\, and organized 
+ in collaboration with OutFront Minnesota\, Minnesota Council on LGBTQIA2S 
+ Minnesotans\, and Queer Equity Institute.\n\nState Capitol
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+Saint+Pa
+ ul%2C+MN&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

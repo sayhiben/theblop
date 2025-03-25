@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:16076d28-debc-4ca0-ac35-7a94b23a1f0e
+SEQUENCE:0
+DTSTAMP:20250325T120507Z
+DTSTART:20250329T120000
+DTEND:20250329T140000
+SUMMARY:Picket Tesla
+LOCATION:2300 South State Street\, So. Salt Lake City
+DESCRIPTION:We are organizing a peaceful protest against Tesla's practices
+ . Join us for a Global Day of Action to express our concerns peacefully.\n
+ \nTesla Dealership
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=2300+South+S
+ tate+Street%2C+So.+Salt+Lake+City&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:60edbf62-1958-41c1-9675-fbca49174c36
+SEQUENCE:0
+DTSTAMP:20250325T120507Z
+DTSTART:20250402T170000
+DTEND:20250402T190000
+SUMMARY:Take Back the Night
+LOCATION:Resnick Student Union Event Plaza\, Fresno\, CA
+DESCRIPTION:Learn and stand in solidarity with our survivors of sexual ass
+ ault\, dating/domestic violence\, and stalking. Resources to support survi
+ vors\, food (while supplies last)\, a protest march\, and a survivor speak
+ out. All are welcome.\n\nResnick Student Union Event Plaza
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Resnick+Stud
+ ent+Union+Event+Plaza%2C+Fresno%2C+CA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:981de2c8-efbf-47f8-83de-fde9075366d9
+SEQUENCE:0
+DTSTAMP:20250325T120507Z
+DTSTART:20250329T110000
+DTEND:20250329T130000
+SUMMARY:#TeslaTakedown
+LOCATION:11701 Gateworth Way\, Louisville\, KY
+DESCRIPTION:The event is tagged as '#TeslaTakedown' in Louisville on March
+  29\, 2025\, likely involving activities related to this theme.\n\nTesla S
+ ervice Center
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=11701+Gatewo
+ rth+Way%2C+Louisville%2C+KY&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

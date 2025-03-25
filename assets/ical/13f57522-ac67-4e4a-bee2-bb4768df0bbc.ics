@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:2532a1f6-1133-4a47-ae81-0fb060c9750a
+SEQUENCE:0
+DTSTAMP:20250325T120507Z
+DTSTART:20250329T130000
+DTEND:20250329T150000
+SUMMARY:Global Tesla Takedown
+LOCATION:4330 S Macadam Ave\, Portland\, OR
+DESCRIPTION:Join us for a day of peaceful protest at 277 Tesla locations i
+ n the US and 500 worldwide\, aiming to raise awareness against Elon Musk.\
+ n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=4330+S+Macad
+ am+Ave%2C+Portland%2C+OR&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

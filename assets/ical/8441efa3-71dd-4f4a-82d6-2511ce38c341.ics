@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:b090edf6-ce73-4921-916a-a4fe8e9e390f
+SEQUENCE:0
+DTSTAMP:20250325T120507Z
+DTSTART:20250327T173000
+DTEND:20250327T193000
+SUMMARY:Launch Event by Stonewall Action
+LOCATION:211 W 4th St\, Austin\, TX
+DESCRIPTION:We invite you to join our movement with Stonewall Democrats in
+  advocating for LGBTQ rights. Participate in this launch event to support 
+ our cause.\n\nOilcan Harry's
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=211+W+4th+St
+ %2C+Austin%2C+TX&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

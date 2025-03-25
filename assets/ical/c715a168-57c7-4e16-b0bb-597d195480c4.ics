@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:0dd054e9-9c8c-458a-8c3c-ab8e4ea31ad2
+SEQUENCE:0
+DTSTAMP:20250325T120507Z
+DTSTART:20250331T120000
+DTEND:20250331T140000
+SUMMARY:Trans Unity Rally
+LOCATION:San Jose City Hall\, San Jose\, CA
+DESCRIPTION:Join us at the Trans Unity Rally to stand up for trans youth\,
+  athletes\, healthcare\, and our right to be part of public life. Allies a
+ re encouraged to come and support the trans community.\n\nSan Jose City Ha
+ ll
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=San+Jose+Cit
+ y+Hall%2C+San+Jose%2C+CA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

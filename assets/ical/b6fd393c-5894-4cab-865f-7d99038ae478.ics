@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:8142da6f-6b47-41b8-8df2-0d07b2c8d7a1
+SEQUENCE:0
+DTSTAMP:20250325T120507Z
+DTSTART:20250405T130000
+DTEND:20250405T150000
+SUMMARY:Hands Off!
+LOCATION:335 McAllister St.\, SF\, San Francisco\, CA
+DESCRIPTION:Join us for a nonviolent\, peaceful protest in San Francisco t
+ o express our collective stance. Let's come together to make our voices he
+ ard.\n\nCivic Center Plaza
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=335+McAllist
+ er+St.%2C+SF%2C+San+Francisco%2C+CA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

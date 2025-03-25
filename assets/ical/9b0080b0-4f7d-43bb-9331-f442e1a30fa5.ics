@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:1551f306-5377-4f4e-94ef-a1bbfcbf1e44
+SEQUENCE:0
+DTSTAMP:20250325T120507Z
+DTSTART:20250405T140000
+DTEND:20250405T160000
+SUMMARY:Hands Off! Washington County
+LOCATION:SW Hall and SW 5th St\, Beaverton\, OR
+DESCRIPTION:Join us for a family-friendly rally to support our cause. This
+  event is organized by Washington County Democrats and promises a peaceful
+  gathering to express our collective concerns.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=SW+Hall+and+
+ SW+5th+St%2C+Beaverton%2C+OR&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

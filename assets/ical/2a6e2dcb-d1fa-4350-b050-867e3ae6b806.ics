@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:72369380-15fb-4673-9eab-1be5a757527b
+SEQUENCE:0
+DTSTAMP:20250325T120507Z
+DTSTART:20250405T120000
+DTEND:20250405T140000
+SUMMARY:We The People Protest
+LOCATION:1301 E 6th Ave\, Helena\, MT
+DESCRIPTION:Join us on April 5th to push our representatives to represent 
+ us\, addressing issues such as supporting Ukraine\, protecting human right
+ s\, removing corruption\, funding public education\, and more.\n\nMontana 
+ State Capitol\, Flag Plaza
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=1301+E+6th+A
+ ve%2C+Helena%2C+MT&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:d11b041c-9fec-412e-8808-88a62c1129f6
+SEQUENCE:0
+DTSTAMP:20250325T120507Z
+DTSTART:20250405T120000
+DTEND:20250405T140000
+SUMMARY:Hands Off!
+LOCATION:\, Erie\, PA
+DESCRIPTION:Join us for a powerful protest highlighting various social and
+  political issues\, emphasizing our rights and protections.\n\nPerry Squar
+ e
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+Erie%2C+
+ PA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

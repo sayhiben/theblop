@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:a8354d1d-6de8-4907-a7f0-a4ae0579c2fb
+SEQUENCE:0
+DTSTAMP:20250325T120507Z
+DTSTART:20250405T110000
+DTEND:20250405T130000
+SUMMARY:Remove Reverse Reclaim
+LOCATION:Federal Courthouse\, Sioux Falls\, SD
+DESCRIPTION:We are part of a movement to remove corrupt politicians from o
+ ffice\, reverse the damage\, and reclaim our democracy. Join us for a prot
+ est in Sioux Falls\, SD.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Federal+Cour
+ thouse%2C+Sioux+Falls%2C+SD&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

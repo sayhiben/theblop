@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:54dacb60-d0c7-43ce-a590-696a93a33903
+SEQUENCE:0
+DTSTAMP:20250325T120507Z
+DTSTART:20250405T120000
+DTEND:20250405T140000
+SUMMARY:Hands Off! Maine Fights Back!
+LOCATION:Augusta State House\, Augusta\, ME
+DESCRIPTION:We are organizing to protect social services\, environmental p
+ olicies\, and civil rights. Join us to voice support for Medicaid\, Medica
+ re\, fair elections\, and more.\n\nAugusta State House
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Augusta+Stat
+ e+House%2C+Augusta%2C+ME&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
