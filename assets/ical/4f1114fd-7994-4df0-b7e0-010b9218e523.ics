@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:79a5ed90-f7dc-40f8-aa6b-f38da45b0f1a
+SEQUENCE:0
+DTSTAMP:20250325T060259Z
+DTSTART:20250405T170000
+DTEND:20250405T190000
+SUMMARY:Hands Off! Bend Oregon Fights Back
+LOCATION:1077 NW Wall St\, Bend\, OR
+DESCRIPTION:We invite you to join us for a rally in Bend\, Oregon to addre
+ ss concerns about various social issues such as jobs\, medicare\, schools\
+ , and more.\n\nPeace Corner Greenwood & Wall
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=1077+NW+Wall
+ +St%2C+Bend%2C+OR&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
