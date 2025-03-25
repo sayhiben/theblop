@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:55557ff6-0a2e-4dd3-b6e2-e0f8fd820624
+SEQUENCE:0
+DTSTAMP:20250325T210636Z
+DTSTART:20250405T120000
+DTEND:20250405T140000
+SUMMARY:HANDS OFF
+LOCATION:East Side of City Hall\, Oklahoma City\, OK
+DESCRIPTION:Join the mass mobilization to reject the Trump-Musk coup in Ok
+ lahoma. We are organizing to reclaim our democracy.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=East+Side+of
+ +City+Hall%2C+Oklahoma+City%2C+OK&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

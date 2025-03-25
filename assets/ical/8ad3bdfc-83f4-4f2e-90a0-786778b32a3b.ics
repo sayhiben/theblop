@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:66adb462-7879-42d0-a953-2506b968a50d
+SEQUENCE:0
+DTSTAMP:20250325T210636Z
+DTSTART:20250329T150000
+DTEND:20250329T170000
+SUMMARY:Brown Issues Protest
+LOCATION:141 N El Dorado St\, Stockton\, CA
+DESCRIPTION:Join us in standing in solidarity with our community at the Br
+ own Issues Protest. The march aims to bring attention to important issues 
+ affecting our community.\n\nMarch to City Hall
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=141+N+El+Dor
+ ado+St%2C+Stockton%2C+CA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

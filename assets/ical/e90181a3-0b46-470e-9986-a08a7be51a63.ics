@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:ba5bb776-ec1f-4ebd-9e6d-94577259ea9e
+SEQUENCE:0
+DTSTAMP:20250325T210636Z
+DTSTART:20250405T120000
+DTEND:20250405T140000
+SUMMARY:Veto Project 2025
+LOCATION:Benton County Courthouse\, Corvallis\, OR
+DESCRIPTION:We are organizing a peaceful dissent against the Trump-Musk co
+ up on People's Veto Day. Join us to protect Medicaid\, Medicare\, jobs\, d
+ emocracy\, and more.\n\nBenton County Courthouse
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Benton+Count
+ y+Courthouse%2C+Corvallis%2C+OR&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

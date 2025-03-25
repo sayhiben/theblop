@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:c474685c-a4e5-422a-bdaa-2c2b2d6c0a64
+SEQUENCE:0
+DTSTAMP:20250325T210636Z
+DTSTART:20250325T090000
+DTEND:20250325T110000
+SUMMARY:Kūhiō Kākau Unity Rally
+LOCATION:Hawai‘i “State” Capitol Rotunda\, Honolulu\, HI
+DESCRIPTION:Join us at the Hawai'i "State" Capitol Rotunda for a Kūhiō K
+ ākau Unity Rally aimed at fostering community and unity.\n\nHawai‘i “
+ State” Capitol Rotunda
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Hawai%E2%80%
+ 98i+%E2%80%9CState%E2%80%9D+Capitol+Rotunda%2C+Honolulu%2C+HI&zoom=15&base
+ map=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:48dac9bf-a422-48c3-ade0-68e67957b5c7
+SEQUENCE:0
+DTSTAMP:20250325T210636Z
+DTSTART:20250329T100000
+DTEND:20250329T120000
+SUMMARY:National Tesla Takedown Day
+LOCATION:12845 N Highway 183\, Austin\, TX
+DESCRIPTION:Join us for lawful\, nonviolent civil resistance of Trump and 
+ his enablers.\n\nTesla Gallery
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=12845+N+High
+ way+183%2C+Austin%2C+TX&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

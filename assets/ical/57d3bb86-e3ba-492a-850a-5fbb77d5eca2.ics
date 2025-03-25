@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:9d5cf2ed-6ab2-4e03-9deb-8a8f123d570e
+SEQUENCE:0
+DTSTAMP:20250325T210636Z
+DTSTART:20250405T120000
+DTEND:20250405T140000
+SUMMARY:Hands Off Our Democracy
+LOCATION:\, Nashville\, Knoxville\, Memphis\, Chattanooga\, TN
+DESCRIPTION:Join us in a protest against actions affecting our democracy. 
+ Stand up for Tennessee and America against the influence of Trump and Musk
+  in multiple cities.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+Nashvill
+ e%2C+Knoxville%2C+Memphis%2C+Chattanooga%2C+TN&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

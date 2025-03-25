@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:16f23dd7-afee-4fd2-bcdf-9464b696b691
+SEQUENCE:0
+DTSTAMP:20250325T210636Z
+DTSTART:20250405T110000
+DTEND:20250405T130000
+SUMMARY:Protest and Rally Against Fascism
+LOCATION:501 West Adams St\, Jacksonville\, FL
+DESCRIPTION:Join us to remove corrupt politicians from office\, reverse th
+ e damage\, and reclaim our democracy through a protest and rally.\n\nDuval
+  County Courthouse
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=501+West+Ada
+ ms+St%2C+Jacksonville%2C+FL&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

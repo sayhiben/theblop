@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:c35688a5-8d1d-4965-bd1d-8e2c514e6661
+SEQUENCE:0
+DTSTAMP:20250325T210636Z
+DTSTART:20250327T140000
+DTEND:20250327T160000
+SUMMARY:Protest Against Oil Consumption by Dodgers
+LOCATION:Dodgers Stadium\, SE corner of Stadium Way and Vin Scully Avenue\
+ , Los Angeles\, CA
+DESCRIPTION:Join us in protesting the Dodgers' oil intake. Wear your Dodge
+ rs logos and meet at the southeast corner of Stadium Way and Vin Scully Av
+ enue.\n\nLot 13 south of entrance on Stadium Way
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Dodgers+Stad
+ ium%2C+SE+corner+of+Stadium+Way+and+Vin+Scully+Avenue%2C+Los+Angeles%2C+CA
+ &zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

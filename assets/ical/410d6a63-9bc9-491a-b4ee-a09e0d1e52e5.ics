@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:36dd4a55-65a0-4f09-9e91-21e83ab99768
+SEQUENCE:0
+DTSTAMP:20250325T210636Z
+DTSTART:20250325T110000
+DTEND:20250325T130000
+SUMMARY:Hands Off! Indivisible Inland Empire Fights Back
+LOCATION:Rancho Cucamonga City Hall - all corners of Haven Ave & Civic Cen
+ ter Dr.\, Foothill Boulevard & North Indian Hill Boulevard\, Rancho Cucamo
+ nga\, Claremont\, CA
+DESCRIPTION:We are hosting two visibility events aimed at rallying support
+  and showing solidarity through sign-waving and community engagement.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Rancho+Cucam
+ onga+City+Hall+-+all+corners+of+Haven+Ave+%26+Civic+Center+Dr.%2C+Foothill
+ +Boulevard+%26+North+Indian+Hill+Boulevard%2C+Rancho+Cucamonga%2C+Claremon
+ t%2C+CA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

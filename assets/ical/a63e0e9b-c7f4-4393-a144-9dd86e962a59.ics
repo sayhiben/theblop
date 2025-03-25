@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:07c395e6-1899-42b9-93dd-bb8c81688af7
+SEQUENCE:0
+DTSTAMP:20250325T210636Z
+DTSTART:20250328T160000
+DTEND:20250328T180000
+SUMMARY:AL QUDS DAY PROTEST
+LOCATION:301 W. 2nd St.\, Austin\, TX
+DESCRIPTION:Join members of Austin’s Muslim community for the 46th annua
+ l Quds day to reaffirm our commitment to the cause of freedom. The importa
+ nce of unity and putting aside sectarianism is more important than ever!\n
+ \nAustin City Hall
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=301+W.+2nd+S
+ t.%2C+Austin%2C+TX&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

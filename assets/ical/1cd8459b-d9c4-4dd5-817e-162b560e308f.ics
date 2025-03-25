@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:f92f684c-665d-4c11-ae39-e21aa6ae8789
+SEQUENCE:0
+DTSTAMP:20250325T210636Z
+DTSTART:20250405T120000
+DTEND:20250405T140000
+SUMMARY:Hands Off!
+LOCATION:Various locations as specified\, Various\, HI
+DESCRIPTION:We aim to protect public services\, jobs\, and rights by bring
+ ing attention to key issues such as Medicaid\, Medicare\, Social Security\
+ , and more. Join us at multiple locations across Hawaii to stand for these
+  causes collaboratively.\n\nSpecific locations on each island
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Various+loca
+ tions+as+specified%2C+Various%2C+HI&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

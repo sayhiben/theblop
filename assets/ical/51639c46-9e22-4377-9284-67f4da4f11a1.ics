@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:79a33a30-750a-4fad-913f-b45663d2c2a4
+SEQUENCE:0
+DTSTAMP:20250325T210636Z
+DTSTART:20250405T100000
+DTEND:20250405T120000
+SUMMARY:Hands Off
+LOCATION:4396 Rice St
+DESCRIPTION:Join us to raise awareness on important social issues includin
+ g Medicare\, Social Security\, jobs\, fair elections\, and more. Organized
+  by Indivisible.\n\nCounty Building
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=4396+Rice+St
+ &zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

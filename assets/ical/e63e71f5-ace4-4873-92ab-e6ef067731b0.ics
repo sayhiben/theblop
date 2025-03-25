@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:a186d4cb-72c7-4419-845f-75799337a82a
+SEQUENCE:0
+DTSTAMP:20250325T210636Z
+DTSTART:20250405T150000
+DTEND:20250405T170000
+SUMMARY:National Day of Action
+LOCATION:Old Courthouse Square\, Santa Rosa\, CA
+DESCRIPTION:We're taking to the streets nationwide to fight back with a cl
+ ear message: Hands off!\n\nOld Courthouse Square
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Old+Courthou
+ se+Square%2C+Santa+Rosa%2C+CA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

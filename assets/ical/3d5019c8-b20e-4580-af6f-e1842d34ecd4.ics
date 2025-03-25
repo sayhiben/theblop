@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:b290cfcb-2e94-479e-983b-46948359e3ac
+SEQUENCE:0
+DTSTAMP:20250325T210636Z
+DTSTART:20250329T130000
+DTEND:20250329T150000
+SUMMARY:Tesla Takedown
+LOCATION:3530 Jackson Rd Ann Arbor\, Ann Arbor\, MI
+DESCRIPTION:Join us as Voices Ignited leads a protest event in Ann Arbor a
+ gainst Tesla. The event aims to voice concerns and bring attention to spec
+ ific issues.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=3530+Jackson
+ +Rd+Ann+Arbor%2C+Ann+Arbor%2C+MI&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

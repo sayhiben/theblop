@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:aacd0d34-ac0d-42a1-8ca0-3a856e365024
+SEQUENCE:0
+DTSTAMP:20250325T210636Z
+DTSTART:20250405T120000
+DTEND:20250405T140000
+SUMMARY:Wisconsin's March Forward
+LOCATION:Wisconsin State Capitol Building\, Madison\, WI
+DESCRIPTION:Join us for Wisconsin's March Forward by inviting community or
+ ganizations\, sharing online\, and marching together at the Capitol.\n\nWi
+ sconsin State Capitol Building
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Wisconsin+St
+ ate+Capitol+Building%2C+Madison%2C+WI&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

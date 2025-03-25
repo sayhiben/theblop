@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:3f48ff35-4e2f-4f5d-a147-cf3d18e921ea
+SEQUENCE:0
+DTSTAMP:20250325T210636Z
+DTSTART:20250412T110000
+DTEND:20250412T130000
+SUMMARY:Stop the Billionaire Coup
+LOCATION:North Star LGBTQ+ Community Center\, Winston-Salem\, NC
+DESCRIPTION:Join us for a zine and booklet folding party on 04/12 & 04/13 
+ at the North Star LGBTQ+ Community Center in Winston-Salem. We are organiz
+ ing teams to canvas conservative North Carolina cities on 04/19.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=North+Star+L
+ GBTQ%2B+Community+Center%2C+Winston-Salem%2C+NC&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

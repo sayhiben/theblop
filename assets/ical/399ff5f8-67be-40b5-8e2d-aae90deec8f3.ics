@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:86c893da-212c-4279-9a96-24a987f9fea2
+SEQUENCE:0
+DTSTAMP:20250325T210636Z
+DTSTART:20250405T120000
+DTEND:20250405T140000
+SUMMARY:Hands Off Rally
+LOCATION:415 S Beretania St\, Honolulu\, HI
+DESCRIPTION:We are organizing a rally to protect various social and civic 
+ services and rights including Medicaid\, Social Security\, fair elections\
+ , and more.\n\nHawai’i State Capitol
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=415+S+Bereta
+ nia+St%2C+Honolulu%2C+HI&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

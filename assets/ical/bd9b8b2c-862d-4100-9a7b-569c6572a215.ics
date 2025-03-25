@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:f01189c8-0fd6-4dc5-a0ad-e165fc10d9de
+SEQUENCE:0
+DTSTAMP:20250325T210636Z
+DTSTART:20250405T110000
+DTEND:20250405T130000
+SUMMARY:Don’t Let Our Democracy Perish: Hands Off!
+LOCATION:Bicentennial Plaza\, Raleigh\, NC
+DESCRIPTION:An event organized by Iron Front NC featuring a food donation 
+ drive with a list of needed food items. Attendees are encouraged to donate
+  to FBCENC at the event.\n\nBicentennial Plaza\, Raleigh\, NC 27601
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Bicentennial
+ +Plaza%2C+Raleigh%2C+NC&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

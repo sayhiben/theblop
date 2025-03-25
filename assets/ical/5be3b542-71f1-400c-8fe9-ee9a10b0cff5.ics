@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:57c2242c-8c5a-49a1-90a5-d25a94a433f9
+SEQUENCE:0
+DTSTAMP:20250325T210636Z
+DTSTART:20250329T110000
+DTEND:20250329T130000
+SUMMARY:Fight Back Coalition: Trump & Musk Policies
+LOCATION:6610 Anderson Street\, Philadelphia\, PA
+DESCRIPTION:Join us for a public meeting to discuss concerns about Trump a
+ nd Musk policies\, how they affect Philadelphia\, and what actions we can 
+ take. Moderated by notable journalists with panels featuring local governm
+ ent representatives.\n\nDARE TO IMAGINE CHURCH
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=6610+Anderso
+ n+Street%2C+Philadelphia%2C+PA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

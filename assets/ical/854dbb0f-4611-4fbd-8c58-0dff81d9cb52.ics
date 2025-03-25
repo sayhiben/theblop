@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:c97a44f4-30d1-4eed-a688-85e4371f5b7b
+SEQUENCE:0
+DTSTAMP:20250325T210636Z
+DTSTART:20250405T130000
+DTEND:20250405T150000
+SUMMARY:Hands Off!
+LOCATION:1114 S Main St.\, Ste 120\, Las Vegas\, NV 89104
+DESCRIPTION:We invite you to join us for a mass mobilization protest to ad
+ dress numerous issues including Medicaid\, Medicare\, Social Security\, an
+ d more. This event is organized to advocate for fair elections\, consumer 
+ protections\, and other societal concerns.\n\nRecycled Propaganda
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=1114+S+Main+
+ St.%2C+Ste+120%2C+Las+Vegas%2C+NV+89104&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

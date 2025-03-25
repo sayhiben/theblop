@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:a9db32dc-06b6-4f66-a3cf-cf8e787c4ac0
+SEQUENCE:0
+DTSTAMP:20250325T210636Z
+DTSTART:20250405T120000
+DTEND:20250405T140000
+SUMMARY:Hands Off! OKC Fights Back
+LOCATION:200 N Walker Ave\, Oklahoma City\, OK
+DESCRIPTION:On Saturday\, April 5th\, we're taking to the streets to fight
+  back with a clear message: Hands off! This mass mobilization day is our m
+ essage to the world that we do not consent to the destruction of our gover
+ nment and our economy for the benefit of Trump and his billionaire allies.
+  Alongside Americans across the country\, we are marching\, rallying\, and
+  protesting to demand a stop the chaos and build an opposition movement ag
+ ainst the looting of our country.\n\nEast side of OKC City Hall
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=200+N+Walker
+ +Ave%2C+Oklahoma+City%2C+OK&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

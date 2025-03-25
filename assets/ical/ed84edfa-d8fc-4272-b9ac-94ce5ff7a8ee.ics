@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:b6fd29d4-a2c9-4fcc-aa2e-b429854ec63f
+SEQUENCE:0
+DTSTAMP:20250325T210636Z
+DTSTART:20250330T120000
+DTEND:20250330T140000
+SUMMARY:Protesta y Boicot Trump y Musk
+LOCATION:2330 Kalākaua Ave\, Honolulu\, HI
+DESCRIPTION:We are organizing a protest in front of the Tesla dealership t
+ o oppose Trump and Musk's actions. Our objectives include encouraging part
+ icipants to sell Tesla shares\, dispose of Tesla vehicles\, and close rela
+ ted accounts.\n\nIn front of the Tesla dealership
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=2330+Kal%C4%
+ 81kaua+Ave%2C+Honolulu%2C+HI&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

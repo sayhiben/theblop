@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:aa0c6177-83c6-41fd-ab96-5652c097d07f
+SEQUENCE:0
+DTSTAMP:20250325T210636Z
+DTSTART:20250329T110000
+DTEND:20250329T130000
+SUMMARY:Rally to Stop Kamp Krome
+LOCATION:Corner of Tamiami Trail & Krome Avenue\, Miami\, FL
+DESCRIPTION:Join us for a protest to advocate for immigrant rights\, empha
+ sizing the humanity of immigrants and demanding America treat them accordi
+ ngly.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Corner+of+Ta
+ miami+Trail+%26+Krome+Avenue%2C+Miami%2C+FL&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

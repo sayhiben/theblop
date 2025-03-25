@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:6900341d-557b-4323-8368-54fcdc1aabd2
+SEQUENCE:0
+DTSTAMP:20250325T210636Z
+DTSTART:20250329T140000
+DTEND:20250329T160000
+SUMMARY:Sign Making Activity
+LOCATION:20 N Main St\, St. George\, UT
+DESCRIPTION:Join us at Zion’s Bank Park to make signs for upcoming prote
+ st events. Materials and snacks provided\, but bring your own craft suppli
+ es. Creativity encouraged!\n\nZion’s Bank Park
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=20+N+Main+St
+ %2C+St.+George%2C+UT&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

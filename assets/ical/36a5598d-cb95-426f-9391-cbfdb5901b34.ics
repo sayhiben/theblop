@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:b1864462-7b8b-4a28-aec6-6b83720546f4
+SEQUENCE:0
+DTSTAMP:20250325T210636Z
+DTSTART:20250404T155300
+DTEND:20250404T175300
+SUMMARY:Trip from Fort Myers\, FL
+LOCATION:13711 S Tamiami Trl\, Target - Department store\, Fort Myers\, FL
+DESCRIPTION:Join a ride to The People's Veto / Hands Off! Rally on D.C. Bo
+ ok early to confirm your seat for the trip and get notified about updates.
+  Savings are available for early booking and bookings should be completed 
+ before the prices rise on March 29.\n\nWashington Monument\, 15th Street N
+ orthwest\, Washington\, DC\, USA
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=13711+S+Tami
+ ami+Trl%2C+Target+-+Department+store%2C+Fort+Myers%2C+FL&zoom=15&basemap=r
+ oadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

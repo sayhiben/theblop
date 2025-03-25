@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:17e6dc4d-7517-48d2-a7f6-b6c7ef35a3ea
+SEQUENCE:0
+DTSTAMP:20250325T210636Z
+DTSTART:20250327T180000
+DTEND:20250327T200000
+SUMMARY:People's Council
+LOCATION:9801 Denison Ave\, Cleveland\, OH
+DESCRIPTION:Join us for the People's Council event to discuss neighborhood
+  concerns\, ideas\, and proposals. Organized by the Cleveland Liberation C
+ enter for residents of West Boulevard\, Cudell\, and West Old Brooklyn.\n\
+ nCleveland Liberation Center
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=9801+Denison
+ +Ave%2C+Cleveland%2C+OH&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:3d185ff2-8749-4aa1-8020-658e03b14ce4
+SEQUENCE:0
+DTSTAMP:20250325T210636Z
+DTSTART:20250329T113000
+DTEND:20250329T133000
+SUMMARY:United for Democracy
+LOCATION:500 Woodlane\, Little Rock\, AR
+DESCRIPTION:Join us in a movement for democracy.\n\nArkansas State Capitol
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=500+Woodlane
+ %2C+Little+Rock%2C+AR&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:67428ab8-4226-4be8-b047-937cf82072f4
+SEQUENCE:0
+DTSTAMP:20250325T210636Z
+DTSTART:20250405T120000
+DTEND:20250405T140000
+SUMMARY:Defend Democracy
+LOCATION:\, San Diego\, CA
+DESCRIPTION:Join San Diego 50501 on April 5th for a journey to Los Angeles
+  to join demonstrations against a perceived government power grab. Accessi
+ ble transportation is organized from San Diego County.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+San+Dieg
+ o%2C+CA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

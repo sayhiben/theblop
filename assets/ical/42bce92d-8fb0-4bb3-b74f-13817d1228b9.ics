@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:136e640e-ceb4-4f22-9833-2560300ad2fc
+SEQUENCE:0
+DTSTAMP:20250325T210636Z
+DTSTART:20250405T120000
+DTEND:20250405T140000
+SUMMARY:Nationwide Protest
+LOCATION:401 S Carson St\, Carson City\, NV
+DESCRIPTION:Join 350\, Indivisible\, and the Women's March for a day of pe
+ aceful protest against government corruption and executive overreach.\n\nN
+ evada Capitol Complex
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=401+S+Carson
+ +St%2C+Carson+City%2C+NV&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

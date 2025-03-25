@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:b712ddfb-3b90-4072-8c6b-4b1f572b3fe6
+SEQUENCE:0
+DTSTAMP:20250325T210636Z
+DTSTART:20250327T200000
+DTEND:20250327T220000
+SUMMARY:Statewide Meeting: Protesting 101
+DESCRIPTION:We invite you to join Grassroots 4 GVP to hear from @getwithth
+ eprogram about using our platform to protest the 'Guns Everywhere' agenda 
+ and support Constitutional values. This session will provide practical adv
+ ice on protesting and resisting to advocate for safety and democracy.\n\nZ
+ oom
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=&zoom=15&bas
+ emap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

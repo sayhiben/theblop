@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:945ff786-ff55-45d8-b369-f7641ff2a6c4
+SEQUENCE:0
+DTSTAMP:20250325T210636Z
+DTSTART:20250327T140000
+DTEND:20250327T160000
+SUMMARY:Migrant Equity Southeast at the Capitol
+LOCATION:Capitol\, Atlanta\, GA
+DESCRIPTION:Take action and advocate for immigrants and refugees in our re
+ gion. You will have the opportunity to speak with your local representativ
+ es and learn how we can make a difference. Transportation will be provided
+ .\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Capitol%2C+A
+ tlanta%2C+GA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

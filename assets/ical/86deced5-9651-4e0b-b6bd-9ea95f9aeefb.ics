@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:a655f828-e428-45ae-9f8d-edb58ad9bd5b
+SEQUENCE:0
+DTSTAMP:20250325T210636Z
+DTSTART:20250405T110000
+DTEND:20250405T130000
+SUMMARY:The People's Rally
+LOCATION:400 14th Ave N\, Myrtle Beach\, SC
+DESCRIPTION:We are hosting The People's Rally to protest nationwide agains
+ t corruption and damage to democracy. Join us in removing corrupt politici
+ ans\, reversing the damage\, and reclaiming democracy.\n\nChapin Memorial 
+ Park
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=400+14th+Ave
+ +N%2C+Myrtle+Beach%2C+SC&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

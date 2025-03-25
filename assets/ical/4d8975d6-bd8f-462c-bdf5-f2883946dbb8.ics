@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:5e79ece7-8a4a-4378-9b59-36f1adbb8638
+SEQUENCE:0
+DTSTAMP:20250325T210636Z
+DTSTART:20250405T120000
+DTEND:20250405T140000
+SUMMARY:Hands Off!
+LOCATION:415 S Beretania St\, Honolulu\, HI
+DESCRIPTION:We are organizing a protest to stand up for various critical i
+ ssues such as Medicaid\, Medicare\, social security\, healthcare\, jobs\, 
+ fair elections\, personal data protection\, public lands\, veteran service
+ s\, LGBTQ+ rights\, and more.\n\nHawai'i State Capitol
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=415+S+Bereta
+ nia+St%2C+Honolulu%2C+HI&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

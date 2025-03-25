@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:a632d918-bc43-4b57-9532-4b65b2b23df9
+SEQUENCE:0
+DTSTAMP:20250325T210636Z
+DTSTART:20250405T120000
+DTEND:20250405T140000
+SUMMARY:Oceanside fights back
+LOCATION:Oceanside City Hall\, Oceanside\, CA
+DESCRIPTION:Join us in Oceanside as we unite to stand our ground\, especia
+ lly for those who can't make it to San Diego. We will gather at the city h
+ all to express our solidarity and determination.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Oceanside+Ci
+ ty+Hall%2C+Oceanside%2C+CA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

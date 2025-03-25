@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:e54d9415-7d43-4aed-9e63-dfa8f9e74516
+SEQUENCE:0
+DTSTAMP:20250325T210636Z
+DTSTART:20250405T120000
+DTEND:20250405T140000
+SUMMARY:People’s Veto Day – Hands Off Our Rights
+LOCATION:Washington Monument\, Washington\, DC
+DESCRIPTION:We’re organizing a bus from different cities to ride togethe
+ r to defend rights\, future\, and democracy. Join hundreds of freedom figh
+ ters at the Washington Monument.\n\nWashington Monument
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Washington+M
+ onument%2C+Washington%2C+DC&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

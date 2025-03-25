@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:c31d5a33-c5b4-4b45-aaec-ce1d706cbe61
+SEQUENCE:0
+DTSTAMP:20250325T210636Z
+DTSTART:20250405T100000
+DTEND:20250405T120000
+SUMMARY:HANDS OFF!
+LOCATION:\, Multiple Cities (Hilo\, Kailua-Kona\, Na'alehu\, Waimea)\, HI
+DESCRIPTION:We are protesting to safeguard Medicaid\, Medicare\, Social Se
+ curity\, and various public and individual rights. The campaign involves g
+ atherings at different locations across Hawaii to voice our concerns.\n\nH
+ ilo: Grassy Area by Walmart and Ross\, Kailua-Kona: Mormon Temple\, Na'ale
+ hu: Post Office\, Waimea: Ikua Purdy Monument
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+Multiple
+ +Cities+%28Hilo%2C+Kailua-Kona%2C+Na%27alehu%2C+Waimea%29%2C+HI&zoom=15&ba
+ semap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

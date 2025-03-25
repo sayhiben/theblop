@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:0b2d6344-e4c2-4ba2-9f14-cdf85b942d57
+SEQUENCE:0
+DTSTAMP:20250325T210636Z
+DTSTART:20250401T190000
+DTEND:20250401T210000
+SUMMARY:Corvallis In Person Meeting
+LOCATION:\, Corvallis\, OR
+DESCRIPTION:We are organizing a meeting to prepare for the April 5th Hands
+  Off Rally. Our focus is to mobilize\, plan actions\, organize into action
+  teams\, and make signs. We encourage participation and the bringing of su
+ pplies.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+Corvalli
+ s%2C+OR&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

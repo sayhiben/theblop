@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:44e5de76-c215-4851-acb6-259cc469ebe2
+SEQUENCE:0
+DTSTAMP:20250325T210636Z
+DTSTART:20250501T000000
+DTEND:20250501T020000
+SUMMARY:MAYDAY
+LOCATION:National Mall\, Washington\, DC
+DESCRIPTION:We are organizing a continuous occupation at the National Mall
+  demanding the impeachment\, conviction\, and removal of Donald J. Trump f
+ rom office. This event includes art\, music\, poetry\, talks\, classes\, p
+ erformances\, and guest appearances.\n\nNational Mall
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=National+Mal
+ l%2C+Washington%2C+DC&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:f1a6e717-7216-4cd5-b38a-0466834d6c8c
+SEQUENCE:0
+DTSTAMP:20250325T210636Z
+DTSTART:20250330T120000
+DTEND:20250330T140000
+SUMMARY:Palestinian Land Day
+LOCATION:7530 SE 22nd Ave\, Portland\, OR
+DESCRIPTION:Join us for a powerful march and rally commemorating Palestini
+ an Land Day. This marks the historic struggle beginning on March 30\, 1976
+ \, when Palestinians protested against land theft in the Galilee. The even
+ t continues to highlight ongoing issues faced by Palestinians.\n\nWestmore
+ land Park
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=7530+SE+22nd
+ +Ave%2C+Portland%2C+OR&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

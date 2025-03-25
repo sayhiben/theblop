@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:08f853e3-63a5-49d3-b8dd-39873f6e2472
+SEQUENCE:0
+DTSTAMP:20250325T210636Z
+DTSTART:20250405T120000
+DTEND:20250405T140000
+SUMMARY:National Day of Action
+LOCATION:Multiple locations\, Olympia\, Seattle\, Vancouver\, Everett\, Po
+ rt Angeles\, Port Orchard\, WA
+DESCRIPTION:We are organizing a nonviolent action across several cities in
+  Washington State to resist corruption and reclaim democracy. Join us to t
+ ake a stand against government corruption.\n\nOlympia WA State Capitol\, S
+ eattle Seattle Center\, Vancouver Esther Short Park\, Everett Everett Cour
+ thouse\, Port Angeles Conrad Dyar Memorial Fountain\, Port Orchard Interse
+ ction at Bethel & Lund
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Multiple+loc
+ ations%2C+Olympia%2C+Seattle%2C+Vancouver%2C+Everett%2C+Port+Angeles%2C+Po
+ rt+Orchard%2C+WA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

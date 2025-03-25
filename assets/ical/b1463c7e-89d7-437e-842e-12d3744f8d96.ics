@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:83ffdebf-99a7-4ed1-8daa-abf55dbe8add
+SEQUENCE:0
+DTSTAMP:20250325T210636Z
+DTSTART:20250405T120000
+DTEND:20250405T140000
+SUMMARY:Remove Reverse Reclaim
+LOCATION:111 7th Ave SE\, Cedar Rapids\, IA
+DESCRIPTION:We are hosting a rally to protest at the Federal Courthouse in
+  Cedar Rapids\, Iowa\, aiming to remove corrupt politicians from office\, 
+ reverse the damage\, and reclaim our democracy. Join us on April 5\, 2025\
+ , to march together in force.\n\n8th Ave SW Sidewalk\, across from Federal
+  Courthouse
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=111+7th+Ave+
+ SE%2C+Cedar+Rapids%2C+IA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

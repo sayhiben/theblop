@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:f77f6076-e66f-4072-9d08-3f10fedb0acc
+SEQUENCE:0
+DTSTAMP:20250325T210636Z
+DTSTART:20250325T130000
+DTEND:20250325T150000
+SUMMARY:Pizza Party Protest to Call Gov. Mike DeWine
+LOCATION:1970 Waldeck Ave\, Columbus\, OH
+DESCRIPTION:We aim to protest against Senate Bill 1 and urge participants 
+ to call or email Governor Mike DeWine. Join us for a fun pizza party with 
+ snacks\, childcare\, and activities.\n\nIndianola Presbyterian Church
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=1970+Waldeck
+ +Ave%2C+Columbus%2C+OH&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

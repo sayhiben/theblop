@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:37a6df17-5ea2-498d-ad96-3cb41dc0a73d
+SEQUENCE:0
+DTSTAMP:20250325T210636Z
+DTSTART:20250329T130000
+DTEND:20250329T150000
+SUMMARY:Stop Fueling Genocide Picket
+LOCATION:4000 3rd Ave S.\, Birmingham\, AL
+DESCRIPTION:Join the Birmingham DSA for an informational picket against Ch
+ evron. We'll gather at MAKEbhm and move to select Chevron locations to pro
+ test their involvement in political issues\, encouraging a boycott.\n\nMAK
+ Ebhm
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=4000+3rd+Ave
+ +S.%2C+Birmingham%2C+AL&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

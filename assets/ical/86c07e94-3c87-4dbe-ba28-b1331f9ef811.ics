@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:b0d1c347-08f4-4640-acbd-89445313c28a
+SEQUENCE:0
+DTSTAMP:20250325T210636Z
+DTSTART:20250325T183000
+DTEND:20250325T203000
+SUMMARY:Hands Off! Indivisible Riverside Fights Back
+LOCATION:Market Street & University Avenue\, Riverside\, CA\; Hesperia Civ
+ ic Plaza (City Hall)\, 9700 Seventh Ave\, Hesperia\, CA\, Riverside\, Hesp
+ eria\, CA
+DESCRIPTION:We invite you to join us for visibility events organized by vo
+ lunteers to protest and make our voices heard.\n\nMarket Street & Universi
+ ty Avenue\, Riverside\; Hesperia Civic Plaza\, Hesperia
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Market+Stree
+ t+%26+University+Avenue%2C+Riverside%2C+CA%3B+Hesperia+Civic+Plaza+%28City
+ +Hall%29%2C+9700+Seventh+Ave%2C+Hesperia%2C+CA%2C+Riverside%2C+Hesperia%2C
+ +CA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

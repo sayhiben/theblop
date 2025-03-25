@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:119100e4-9ddd-4a9d-b759-c9227907bf35
+SEQUENCE:0
+DTSTAMP:20250325T210636Z
+DTSTART:20250330T120000
+DTEND:20250330T140000
+SUMMARY:Palestine Car Rally
+LOCATION:4500 N Tryon St\, Charlotte\, NC
+DESCRIPTION:Join us in commemorating Land Day and Quds Day with a car rall
+ y to stand with Palestine. We honor the right to remain and return to hist
+ oric lands in solidarity with Palestinian struggles.\n\nFamily Dollar Park
+ ing Lot
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=4500+N+Tryon
+ +St%2C+Charlotte%2C+NC&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

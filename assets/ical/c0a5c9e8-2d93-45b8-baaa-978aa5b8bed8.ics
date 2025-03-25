@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:b14b654a-c605-4abf-b784-7c982b2b401a
+SEQUENCE:0
+DTSTAMP:20250325T210636Z
+DTSTART:20250405T120000
+DTEND:20250405T140000
+SUMMARY:Save Our Democracy
+LOCATION:\, Nationwide\, Nationwide
+DESCRIPTION:Join the national protest to resist the expansion of executive
+  power. Events will take place in Washington DC\, Philadelphia\, Trenton\,
+  and every state capital and major city. This movement is organized by 505
+ 01\, committed to non-violence.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+Nationwi
+ de%2C+Nationwide&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:53793c39-47b5-4936-88ef-73935361f2d2
+SEQUENCE:0
+DTSTAMP:20250325T210636Z
+DTSTART:20250327T130000
+DTEND:20250327T150000
+SUMMARY:Arizona Rally for Public Lands
+LOCATION:1700 W Washington St\, Phoenix\, AZ
+DESCRIPTION:Join us in uniting with fellow Arizonans to stand up for our p
+ ublic lands\, waters\, and the wildlife that depends on them. The rally\, 
+ organized by The Wilderness Society\, calls for action to protect access\,
+  wildlife\, public workforce\, and maintain public lands and waters.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=1700+W+Washi
+ ngton+St%2C+Phoenix%2C+AZ&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:90547cf4-e056-4348-8f28-7ae8d15e70eb
+SEQUENCE:0
+DTSTAMP:20250325T210636Z
+DTSTART:20250405T120000
+DTEND:20250405T140000
+SUMMARY:Hands Off! Glen Ridge Fights Back
+LOCATION:Bloomfield Avenue & Ridgewood Avenue\, Glen Ridge\, NJ
+DESCRIPTION:We invite you to join our rally and protest against actions ta
+ ken by Donald Trump and Elon Musk that we believe harm our society. As par
+ t of a mass mobilization day\, we're reclaiming our rights and sending a c
+ lear message that we will not consent to detrimental policies. Together\, 
+ we stand united to oppose the destruction of our government for the benefi
+ t of a few.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Bloomfield+A
+ venue+%26+Ridgewood+Avenue%2C+Glen+Ridge%2C+NJ&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

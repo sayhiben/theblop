@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:46ae5f35-bde0-483d-b58b-5443ca87e4cb
+SEQUENCE:0
+DTSTAMP:20250325T210636Z
+DTSTART:20250501T000000
+DTEND:20250501T020000
+SUMMARY:MAYDAY
+LOCATION:National Mall\, Washington\, DC
+DESCRIPTION:Join us for Camp Mayday\, a vision of protest\, art\, and chan
+ ge. Engage in daily public demonstrations and art as resistance with the g
+ oal to impeach and remove Donald J. Trump.\n\nNational Mall
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=National+Mal
+ l%2C+Washington%2C+DC&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

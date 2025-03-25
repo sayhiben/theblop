@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:165e7d90-e2cd-4b30-8b89-329d6040a5f2
+SEQUENCE:0
+DTSTAMP:20250325T210636Z
+DTSTART:20250405T150000
+DTEND:20250405T170000
+SUMMARY:Political Rally for Democracy
+LOCATION:Dealey Plaza\, Dallas\, TX
+DESCRIPTION:Join us to remove corrupt politicians\, reverse the damage\, a
+ nd reclaim our democracy. The rally will be held at Dealey Plaza.\n\nDeale
+ y Plaza
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Dealey+Plaza
+ %2C+Dallas%2C+TX&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

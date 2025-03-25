@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:85b52faa-23a2-41c8-82b4-fb1d453934be
+SEQUENCE:0
+DTSTAMP:20250325T210636Z
+DTSTART:20250329T110000
+DTEND:20250329T130000
+SUMMARY:Walk to End All Hostilities
+LOCATION:98TH & E14TH\, Oakland\, CA
+DESCRIPTION:Join us this Saturday at 11am in Oakland to extend the Agreeme
+ nt to End Hostilities (AEH) from the prisons to the streets. We will be wa
+ lking to City Hall to bring awareness to a community-led campaign to keep 
+ each other safe without law enforcement. See you there!\n\nOscar Grant Pla
+ za (City Hall)
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=98TH+%26+E14
+ TH%2C+Oakland%2C+CA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

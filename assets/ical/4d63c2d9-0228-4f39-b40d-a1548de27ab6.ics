@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:599bffd8-0489-4d9e-892a-e4bf741e397a
+SEQUENCE:0
+DTSTAMP:20250325T210636Z
+DTSTART:20250328T163000
+DTEND:20250328T183000
+SUMMARY:SAY NO TO FASCISTS
+LOCATION:Bass Pro Shops parking lot\, Colorado Springs\, CO
+DESCRIPTION:We are organizing a car rally and sidewalk protest against Ste
+ ve Bannon's appearance in Colorado Springs.\n\nBass Pro Shops parking lot
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Bass+Pro+Sho
+ ps+parking+lot%2C+Colorado+Springs%2C+CO&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

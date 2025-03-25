@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:0fe900f0-38ae-4285-aea2-f7995976499b
+SEQUENCE:0
+DTSTAMP:20250325T210636Z
+DTSTART:20250519T070000
+DTEND:20250519T090000
+SUMMARY:Quest for Democracy
+LOCATION:Sacramento Capitol
+DESCRIPTION:Join us for an annual lobby day at the Sacramento Capitol. Eng
+ age in activities like working with bills\, networking with lawmakers\, pa
+ rticipating in training sessions\, and advocating for racial justice.\n\nS
+ acramento Capitol
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Sacramento+C
+ apitol&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
