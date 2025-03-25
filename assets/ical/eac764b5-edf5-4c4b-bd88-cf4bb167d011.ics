@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:46138c9f-96a6-4497-9445-dd837c68c8be
+SEQUENCE:0
+DTSTAMP:20250325T000616Z
+DTSTART:20250329T140000
+DTEND:20250329T160000
+SUMMARY:Tesla Takedown - Lawrence\, NJ - Global Day of Action
+LOCATION:3371 Brunswick Pike\, Lawrence Township\, NJ
+DESCRIPTION:A gathering scheduled to occur at the Tesla Showroom in Lawren
+ ce Township\, NJ.\n\nTesla Showroom
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=3371+Brunswi
+ ck+Pike%2C+Lawrence+Township%2C+NJ&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

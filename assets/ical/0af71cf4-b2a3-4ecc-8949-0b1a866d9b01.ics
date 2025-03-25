@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:f8803cf6-552e-41d8-96db-8e220b6a84ac
+SEQUENCE:0
+DTSTAMP:20250325T000616Z
+DTSTART:20250326T160000
+DTEND:20250326T180000
+SUMMARY:Tesla Takedown Paramus - March 26
+LOCATION:530 Rte 17\, Paramus\, Paramus\, NJ
+DESCRIPTION:This is a nonviolent protest against Tesla and Elon Musk\, aim
+ ing to impact Tesla's stock and oppose alleged attempts against democracy.
+ \n\nTesla Paramus - Route 17 Location
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=530+Rte+17%2
+ C+Paramus%2C+Paramus%2C+NJ&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

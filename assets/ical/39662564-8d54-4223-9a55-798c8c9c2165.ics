@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:bfad82fc-1262-4378-985b-e3f4bc9168e8
+SEQUENCE:0
+DTSTAMP:20250325T000616Z
+DTSTART:20250329T120000
+DTEND:20250329T140000
+SUMMARY:Tesla Takedown—No Nazis in Paramus!
+LOCATION:530 NJ-17\, Paramus\, NJ 07652 US
+DESCRIPTION:We are organizing a protest at the Tesla Showroom in Paramus t
+ o take nonviolent action against Elon Musk's influence on democracy by inf
+ luencing Tesla’s stock price. Our movement emphasizes peaceful assembly 
+ and opposes violence\, vandalism\, and destruction.\n\nTesla Showroom Para
+ mus
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=530+NJ-17%2C
+ +Paramus%2C+NJ+07652+US&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:5d135ff0-0427-46eb-b188-dab3bdf34e23
+SEQUENCE:0
+DTSTAMP:20250325T000616Z
+DTSTART:20250329T120000
+DTEND:20250329T140000
+SUMMARY:Tesla Takedown- Eatontown
+LOCATION:269 Route 35\, Eatontown\, NJ
+DESCRIPTION:We are taking nonviolent action at Tesla to stop Musk's illega
+ l coup. The protest aims to stop Elon Musk by affecting Tesla’s stock pr
+ ice and encouraging participants to join the demonstration.\n\nTesla Showr
+ oom (Eatontown)
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=269+Route+35
+ %2C+Eatontown%2C+NJ&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

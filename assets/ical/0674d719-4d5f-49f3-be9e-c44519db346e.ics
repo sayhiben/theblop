@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:224f871e-960d-4064-9e49-2b580a1342b0
+SEQUENCE:0
+DTSTAMP:20250325T000616Z
+DTSTART:20250331T180000
+DTEND:20250331T200000
+SUMMARY:TRANS + Day of Visibility Celebration
+LOCATION:Utah Cultural Celebration Center\, West Valley\, UT
+DESCRIPTION:We invite you to join us in celebrating Trans Day of Visibilit
+ y at the Utah Cultural Celebration Center. Expect an inclusive and vibrant
+  event with performances and community engagement. The event is entry-free
+ \, suitable for all ages\, and donations are appreciated to support the ca
+ use.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Utah+Cultura
+ l+Celebration+Center%2C+West+Valley%2C+UT&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

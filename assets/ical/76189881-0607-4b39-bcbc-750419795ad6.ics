@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:43881d5a-40ae-4e6e-b6b5-8f9c43e3c3c6
+SEQUENCE:0
+DTSTAMP:20250325T000616Z
+DTSTART:20250329T130000
+DTEND:20250329T150000
+SUMMARY:Global Day of Action! Springfield NJ Tesla Showroom
+LOCATION:135 US-22\, Springfield\, NJ 07081
+DESCRIPTION:We are organizing a nonviolent protest to take action against 
+ Tesla's practices\, accusing them of harming democracy. Join us to help st
+ op Musk's alleged illegal actions\, protect democracy\, and make a stand.\
+ n\nSpringfield Tesla
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=135+US-22%2C
+ +Springfield%2C+NJ+07081&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

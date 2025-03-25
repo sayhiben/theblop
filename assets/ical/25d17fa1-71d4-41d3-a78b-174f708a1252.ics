@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:4e0c4e0f-4ee1-43d6-9285-ad1941fee1b4
+SEQUENCE:0
+DTSTAMP:20250325T000616Z
+DTSTART:20250327T110000
+DTEND:20250327T130000
+SUMMARY:In the name of Humanity - Free Mahmoud Kahlil NOW!
+LOCATION:50 Walnut St 4015\, Newark\, NJ
+DESCRIPTION:Mahmoud Kahlil is a Columbia graduate student detained by ICE 
+ under allegedly unjust circumstances. This rally\, hosted by the Tom Paine
+  Brigade\, aims to show support for his release and uphold the rule of law
+ .\n\nUS District Court for the District of New Jersey
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=50+Walnut+St
+ +4015%2C+Newark%2C+NJ&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

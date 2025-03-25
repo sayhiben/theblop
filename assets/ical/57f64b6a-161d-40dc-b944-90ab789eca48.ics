@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:a8a4fe0b-37b8-4069-8253-a85ffe018cbb
+SEQUENCE:0
+DTSTAMP:20250325T000616Z
+DTSTART:20250329T120000
+DTEND:20250329T140000
+SUMMARY:Tesla Takedown in Tom Kean Jr's District!
+LOCATION:7 Fadem Rd\, Springfield\, NJ 07081
+DESCRIPTION:We are organizing a nonviolent protest at Tesla to challenge E
+ lon Musk's actions threatening democracy. Join us in selling Tesla stocks\
+ , joining the picket lines\, and taking a stand to protect our society.\n\
+ nTesla Route 22 Springfield NJ
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=7+Fadem+Rd%2
+ C+Springfield%2C+NJ+07081&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

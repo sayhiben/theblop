@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:7be0b47a-61bd-491c-aaf3-ad3191439de3
+SEQUENCE:0
+DTSTAMP:20250325T000616Z
+DTSTART:20250329T130000
+DTEND:20250329T150000
+SUMMARY:Dykstra Park Gathering
+LOCATION:4 Mohawk Ave\, Sparta\, NJ
+DESCRIPTION:Join us as we gather to advocate for justice and equality. Our
+  event is a call for all voices\, lives\, and rights to come together in a
+  collective push for a more equitable society.\n\nDykstra Park
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=4+Mohawk+Ave
+ %2C+Sparta%2C+NJ&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

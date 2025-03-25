@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:c0898c9a-9823-4ebc-a13d-4cb5457777fe
+SEQUENCE:0
+DTSTAMP:20250325T000616Z
+DTSTART:20250404T163000
+DTEND:20250404T183000
+SUMMARY:March for Human Rights and Economic Justice! We Refuse to Accept a
+  Fascist America!
+LOCATION:484 Dr Martin Luther King Jr Blvd.\, Between Springfield Ave. and
+  West Market Street\, Newark\, NJ
+DESCRIPTION:Join us on April 4th to commemorate the anniversary of Rev. Dr
+ . Martin Luther King's assassination. We will rally and march to demand hu
+ man rights and economic justice. The event aims to stand against deportati
+ ons\, lack of care for veterans\, and attacks on communities and education
+  systems. Partner organizations include the Tom Paine Brigade\, labor unio
+ ns\, and civil rights groups.\n\nMartin Luther King\, jr. statue
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=484+Dr+Marti
+ n+Luther+King+Jr+Blvd.%2C+Between+Springfield+Ave.+and+West+Market+Street%
+ 2C+Newark%2C+NJ&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

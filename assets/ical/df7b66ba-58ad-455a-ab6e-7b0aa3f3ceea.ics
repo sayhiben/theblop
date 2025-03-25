@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:f5698b94-b69a-4aa0-9655-e2d047e45419
+SEQUENCE:0
+DTSTAMP:20250325T000616Z
+DTSTART:20250405T120000
+DTEND:20250405T140000
+SUMMARY:Rally to Remove\, Reverse\, Reclaim
+LOCATION:World War II Memorial\, Trenton\, NJ
+DESCRIPTION:We are organizing a rally to remove corrupt politicians from o
+ ffice\, reverse the damage\, and reclaim our democracy. Join us in taking 
+ action together.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=World+War+II
+ +Memorial%2C+Trenton%2C+NJ&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

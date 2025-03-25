@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:de0c4c23-2590-4291-a578-ec0f94d0f9a4
+SEQUENCE:0
+DTSTAMP:20250325T000616Z
+DTSTART:20250329T110000
+DTEND:20250329T130000
+SUMMARY:Tesla Supercharger Protest\, Boonton NJ- Hands Off Our Country!
+LOCATION:550 Myrtle Avenue\, Boonton\, NJ
+DESCRIPTION:We are hosting a protest against Elon Musk and Tesla's influen
+ ce\, calling for nonviolent action to stop an alleged illegal coup by Musk
+ . Attendees are encouraged to sell Tesla stocks and join the picket lines 
+ to reduce Tesla's stock price\, aiming to protect democracy.\n\nTesla Supe
+ rcharger Boonton\, Acme Shopping Center
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=550+Myrtle+A
+ venue%2C+Boonton%2C+NJ&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

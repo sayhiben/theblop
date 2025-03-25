@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:f4d577d7-c3e3-49ec-8592-f11c033ec074
+SEQUENCE:0
+DTSTAMP:20250325T000616Z
+DTSTART:20250326T093000
+DTEND:20250326T113000
+SUMMARY:Tax Justice NJ Rally
+LOCATION:NJIT Student Center (Outside)\, Newark\, NJ
+DESCRIPTION:We are organizing a rally to advocate for bold investments in 
+ New Jersey's schools\, transit\, and healthcare. Without progressive reven
+ ues\, essential services are at risk. Amid federal budget cuts\, New Jerse
+ y's budget resilience is vital to avoid dependency on DC's dysfunction.\n\
+ nNJIT Student Center (Outside)
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=NJIT+Student
+ +Center+%28Outside%29%2C+Newark%2C+NJ&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

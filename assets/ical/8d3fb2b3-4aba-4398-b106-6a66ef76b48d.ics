@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:a3ebad41-cd1b-43ca-b1ba-bc0ffc48f74c
+SEQUENCE:0
+DTSTAMP:20250325T000616Z
+DTSTART:20250404T120000
+DTEND:20250404T140000
+SUMMARY:RALLY AGAINST KEAN'S SUPPORT FOR TRUMP/MUSK!
+LOCATION:Rt22\, Mountainside\, NJ
+DESCRIPTION:Come and rally outside Kean's Mountainside office on Rt22 to p
+ rotest his support for the Trump/Musk agenda\, and failure to explain hims
+ elf in public!\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Rt22%2C+Moun
+ tainside%2C+NJ&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:c9b4c4f3-0ad9-4960-be2e-343b6f4cf195
+SEQUENCE:0
+DTSTAMP:20250325T000616Z
+DTSTART:20250328T170000
+DTEND:20250328T190000
+SUMMARY:Rally for the People
+LOCATION:27398 Old 41 Rd\, Bonita Springs\, FL
+DESCRIPTION:Join us as we rally to demand leadership from Rep Byron Donald
+ s that truly serves the people rather than opposing them.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=27398+Old+41
+ +Rd%2C+Bonita+Springs%2C+FL&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
