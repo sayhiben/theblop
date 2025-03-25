@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:6bad8821-4799-4e0d-8c3d-8334d5c09ba0
+SEQUENCE:0
+DTSTAMP:20250325T181314Z
+DTSTART:20250405T100000
+DTEND:20250405T120000
+SUMMARY:Rise Against Corruption
+LOCATION:1039 SE 9th Ave\, Cape Coral\, FL
+DESCRIPTION:Join us for a peaceful "park-in" to rise against corruption. S
+ ituated at 1039 SE 9th Ave\, Cape Coral\, FL\, from 10 AM to 2 PM.\n\nIn t
+ he parking lot\, outside Rep. Donalds' Office
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=1039+SE+9th+
+ Ave%2C+Cape+Coral%2C+FL&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

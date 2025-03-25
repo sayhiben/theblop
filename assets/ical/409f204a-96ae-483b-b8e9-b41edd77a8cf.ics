@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:7f833e3e-7739-43d1-8e87-26a71257eadf
+SEQUENCE:0
+DTSTAMP:20250325T181314Z
+DTSTART:20250329T000000
+DTEND:20250329T020000
+SUMMARY:Tesla Takedown
+LOCATION:320 W. Golf Road\, Schaumburg\, IL
+DESCRIPTION:Join us for a peaceful protest at the Schaumburg Tesla Showroo
+ m/Dealership. Bring your signs\, flags\, and voices to participate.\n\nSch
+ aumburg Tesla Showroom/Dealership
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=320+W.+Golf+
+ Road%2C+Schaumburg%2C+IL&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

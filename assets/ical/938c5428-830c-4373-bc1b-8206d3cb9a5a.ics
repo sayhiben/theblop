@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:d4a69ce3-c34d-4921-be62-7659d06d6a30
+SEQUENCE:0
+DTSTAMP:20250325T181314Z
+DTSTART:20250405T110000
+DTEND:20250405T130000
+SUMMARY:Hands Off! Mass Mobilization
+LOCATION:100 W Lawrence St\, Appleton\, WI
+DESCRIPTION:Join us for a people's veto day organized by We The People of 
+ NE Wisconsin Veto Project 2025. We will protect Medicaid\, Medicare\, soci
+ al security\, and other rights. The event promotes non-violent protest aga
+ inst perceived threats. Bring kazoos\, signs\, and noisemakers.\n\nHoudini
+  Plaza
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=100+W+Lawren
+ ce+St%2C+Appleton%2C+WI&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

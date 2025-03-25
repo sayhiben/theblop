@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:cdfa060a-8ba7-41ea-9445-4d17969067c6
+SEQUENCE:0
+DTSTAMP:20250325T181314Z
+DTSTART:20250329T130000
+DTEND:20250329T150000
+SUMMARY:Tesla Take Down
+LOCATION:9850 W Broad Street\, Henrico\, VA
+DESCRIPTION:A protest against Tesla President Elon Musk. Gather at the Tes
+ la dealership for a scheduled event.\n\nTesla dealership on Broad St
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=9850+W+Broad
+ +Street%2C+Henrico%2C+VA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

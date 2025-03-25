@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:20bc832c-4cbc-461e-ade0-0b9979aeecd2
+SEQUENCE:0
+DTSTAMP:20250325T181314Z
+DTSTART:20250330T120000
+DTEND:20250330T140000
+SUMMARY:Mass Media March
+LOCATION:750 Park of Commerce Drive\, Boca Raton\, FL
+DESCRIPTION:Join us for the Mass Media March as we make our presence known
+ . Meet us at the Newsmax headquarters to stand together and voice our mess
+ age.\n\nNewsmax
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=750+Park+of+
+ Commerce+Drive%2C+Boca+Raton%2C+FL&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

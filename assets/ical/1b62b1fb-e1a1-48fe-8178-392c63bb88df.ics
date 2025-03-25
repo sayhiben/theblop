@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:629e9282-709d-4f3b-83e1-ce18519790d8
+SEQUENCE:0
+DTSTAMP:20250325T181314Z
+DTSTART:20250329T120000
+DTEND:20250329T140000
+SUMMARY:Tesla Protest
+LOCATION:1932 E Garvey Ave S\, West Covina\, CA 91791
+DESCRIPTION:We are organizing a protest against Tesla in West Covina\, CA.
+  Bring signs and remain peaceful & respectful. The event aims to raise awa
+ reness about concerns regarding Musk-Trump's actions.\n\nTesla\, West Covi
+ na
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=1932+E+Garve
+ y+Ave+S%2C+West+Covina%2C+CA+91791&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

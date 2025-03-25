@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:653c2a87-6b24-4a22-826c-008d3e3209e6
+SEQUENCE:0
+DTSTAMP:20250325T181314Z
+DTSTART:20250405T130000
+DTEND:20250405T150000
+SUMMARY:Hands Off NYC Protest and March
+LOCATION:Bryant Park\, New York\, NY
+DESCRIPTION:Join Indivisible Brooklyn's contingent in the New York City Ha
+ nds Off protest march as part of a nationwide mobilization.\n\nBryant Park
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Bryant+Park%
+ 2C+New+York%2C+NY&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

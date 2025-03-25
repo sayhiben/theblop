@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:16ff5b5a-5a60-4b7e-ba95-08fac4aab912
+SEQUENCE:0
+DTSTAMP:20250325T181314Z
+DTSTART:20250330T110000
+DTEND:20250330T130000
+SUMMARY:Make Signs for 'Hands Off' Rally
+LOCATION:3413 SW Raymond St\, Seattle\, WA
+DESCRIPTION:Join us as we come together to create signs for the 'Hands Off
+ ' rally at High Point Library. Our goal is to raise awareness and express 
+ our collective voices.\n\nHigh Point Library
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=3413+SW+Raym
+ ond+St%2C+Seattle%2C+WA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

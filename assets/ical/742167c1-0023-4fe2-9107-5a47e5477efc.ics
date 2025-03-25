@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:320563ef-aac0-49f5-b6d8-6ae42dd5a2cb
+SEQUENCE:0
+DTSTAMP:20250325T181314Z
+DTSTART:20250402T090000
+DTEND:20250402T110000
+SUMMARY:Rally for Patients' Rights
+LOCATION:US Supreme Court\, Washington\, DC
+DESCRIPTION:We are holding a rally at the U.S. Supreme Court to protest th
+ e Medina v. Planned Parenthood of South Atlantic case. Volunteers are need
+ ed to assist with crowd activities and distribute Women's March merchandis
+ e.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=US+Supreme+C
+ ourt%2C+Washington%2C+DC&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

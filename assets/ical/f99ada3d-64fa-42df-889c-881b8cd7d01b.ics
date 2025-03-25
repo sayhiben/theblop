@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:9bc67205-4cbc-4494-af64-29e046476dda
+SEQUENCE:0
+DTSTAMP:20250325T181314Z
+DTSTART:20250405T120000
+DTEND:20250405T140000
+SUMMARY:Hands Off Our Democracy!
+LOCATION:\, Nationwide\, Nationwide
+DESCRIPTION:Join the nationwide protest against Trump's Project 2025. We a
+ re organizing protests across all major cities and state capitals\, highli
+ ghting our commitment to democracy and non-violence.\n\nEvery state capita
+ l and major city
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+Nationwi
+ de%2C+Nationwide&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

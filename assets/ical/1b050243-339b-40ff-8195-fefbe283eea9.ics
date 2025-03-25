@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:05d06274-95e2-4cf9-8881-ca7e5e43e1d0
+SEQUENCE:0
+DTSTAMP:20250325T181314Z
+DTSTART:20250501T000000
+DTEND:20250501T020000
+SUMMARY:People's Festival in Rock Creek Park
+LOCATION:\, Washington\, DC
+DESCRIPTION:Join us in celebrating the signing of the Peace Treaty\, where
+  politics and culture unite\, marking the first day of Treaty enforcement 
+ through a rally\, demonstrations\, and non-violent direct actions in Washi
+ ngton\, D.C.\n\nRock Creek Park
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+Washingt
+ on%2C+DC&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

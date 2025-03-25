@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:c394362b-ec4d-4d8b-8ed8-d19c47c6954a
+SEQUENCE:0
+DTSTAMP:20250325T181314Z
+DTSTART:20250405T100000
+DTEND:20250405T120000
+SUMMARY:Defend Democracy\, Resist Fascism Rally
+LOCATION:Historic Courthouse\, Inverness\, FL
+DESCRIPTION:A rally focused on defending democracy and resisting fascism.\
+ n\nHistoric Courthouse
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Historic+Cou
+ rthouse%2C+Inverness%2C+FL&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

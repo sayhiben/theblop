@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:1122cb5b-ae2e-4744-a278-e9c261c73a2e
+SEQUENCE:0
+DTSTAMP:20250325T181314Z
+DTSTART:20250330T130000
+DTEND:20250330T150000
+SUMMARY:Fight for Trans Rights
+LOCATION:Federal Plaza\, Chicago\, IL
+DESCRIPTION:We are hosting a protest advocating for trans rights\, organiz
+ ed by Trans Up Front and endorsed by the Illinois Environmental Council.\n
+ \nFederal Plaza
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Federal+Plaz
+ a%2C+Chicago%2C+IL&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:7d6275cd-ed8d-4319-b6fb-1c1e0ff884a6
+SEQUENCE:0
+DTSTAMP:20250325T181314Z
+DTSTART:20250405T110000
+DTEND:20250405T130000
+SUMMARY:Peaceful Protest
+LOCATION:University & I75 (by Tesla)\, Sarasota\, FL
+DESCRIPTION:Join us for a non-violent\, lawful\, and peaceful protest orga
+ nized by El Pueblo Unido - Tampa Bay. Our goal is to remove corrupt politi
+ cians\, reverse the damage\, and reclaim our democracy.\n\nUniversity & I7
+ 5 (by Tesla)
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=University+%
+ 26+I75+%28by+Tesla%29%2C+Sarasota%2C+FL&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

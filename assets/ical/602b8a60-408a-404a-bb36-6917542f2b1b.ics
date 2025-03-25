@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:493dc5dd-dc3b-4a44-bee8-4102d40c5890
+SEQUENCE:0
+DTSTAMP:20250325T181314Z
+DTSTART:20250330T110000
+DTEND:20250330T130000
+SUMMARY:Trans Day of Visibility
+LOCATION:Dallas City Hall\, Dallas\, TX
+DESCRIPTION:Join us at Dallas City Hall for the Trans Day of Visibility on
+  March 30th at 11 am. We aim to empower and support the trans community\, 
+ showcasing resilience and strength.\n\nDallas City Hall
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Dallas+City+
+ Hall%2C+Dallas%2C+TX&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

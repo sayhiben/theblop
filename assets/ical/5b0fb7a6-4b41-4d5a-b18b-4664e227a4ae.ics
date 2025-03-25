@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:9fbd418c-92dd-44a1-8990-c31529247f32
+SEQUENCE:0
+DTSTAMP:20250325T181314Z
+DTSTART:20250405T140000
+DTEND:20250405T160000
+SUMMARY:REMOVE REVERSE RECLAIM
+LOCATION:Washington State Capitol\, Olympia\, WA
+DESCRIPTION:We are organizing a peaceful\, non-partisan protest to remove 
+ corrupt politicians\, reverse the damage\, and reclaim democracy\, support
+ ed by Evergreen Resistance and Olympia Indivisible.\n\nWashington State Ca
+ pitol
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Washington+S
+ tate+Capitol%2C+Olympia%2C+WA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

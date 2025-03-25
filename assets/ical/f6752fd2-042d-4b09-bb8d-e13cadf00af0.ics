@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:722a1071-2db0-4284-9769-751e70d51765
+SEQUENCE:0
+DTSTAMP:20250325T181314Z
+DTSTART:20250329T110000
+DTEND:20250329T130000
+SUMMARY:#TeslaTakedown Global Day of Action
+LOCATION:NE corner of Coburg Rd and Oakway Rd
+DESCRIPTION:Join us for a peaceful protest against Tesla and its associati
+ on with Elon Musk's operations.\n\nNE corner of Coburg Rd and Oakway Rd
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=NE+corner+of
+ +Coburg+Rd+and+Oakway+Rd&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

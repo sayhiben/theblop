@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:007a443d-603d-4a15-b96b-ff083de077d4
+SEQUENCE:0
+DTSTAMP:20250325T181314Z
+DTSTART:20250330T130000
+DTEND:20250330T150000
+SUMMARY:Tank Tesla
+LOCATION:East end of Strathcona Park at the Tesla Superstore site on Venab
+ les\, Vancouver\, BC
+DESCRIPTION:We are organizing a Tesla Takedown event to express opposition
+  against Musk\, Trump\, and Poilievre\, known as "The Elon Musketeers." Jo
+ in us as we stand against fascism.\n\nEast end of Strathcona Park
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=East+end+of+
+ Strathcona+Park+at+the+Tesla+Superstore+site+on+Venables%2C+Vancouver%2C+B
+ C&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

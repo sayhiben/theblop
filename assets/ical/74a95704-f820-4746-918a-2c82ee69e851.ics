@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:929c0fa4-8765-4ae9-8192-38a71ed6923a
+SEQUENCE:0
+DTSTAMP:20250325T181314Z
+DTSTART:20250405T120000
+DTEND:20250405T140000
+SUMMARY:Remove\, Reverse\, Reclaim\, Protest
+LOCATION:1 SE Broadway St.\, Ocala\, FL
+DESCRIPTION:Join us for a nationwide day of protest as we demand change. P
+ articipate in the Ocala Historic Downtown Square to make your voice heard.
+ \n\nOcala Historic Downtown Square
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=1+SE+Broadwa
+ y+St.%2C+Ocala%2C+FL&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

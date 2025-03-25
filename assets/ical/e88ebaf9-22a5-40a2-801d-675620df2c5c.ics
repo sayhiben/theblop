@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:b4a6732a-69b5-4275-81c2-9474b4f2879d
+SEQUENCE:0
+DTSTAMP:20250325T181314Z
+DTSTART:20250405T133000
+DTEND:20250405T153000
+SUMMARY:Hands Off! Protest
+LOCATION:Golden Heart Plaza\, Fairbanks\, AK
+DESCRIPTION:We want to tell the Trump Administration to keep their HANDS O
+ FF our services\, jobs\, and dollars. Bring your best signs. Be peaceful. 
+ Keep a watchful eye.\n\nGolden Heart Plaza
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Golden+Heart
+ +Plaza%2C+Fairbanks%2C+AK&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

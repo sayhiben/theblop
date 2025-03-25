@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:739081ba-cf3b-4bf1-98da-974e5bacb1be
+SEQUENCE:0
+DTSTAMP:20250325T181314Z
+DTSTART:20250330T150000
+DTEND:20250330T170000
+SUMMARY:Make signs for the "Hands Off" rally at Seattle Center
+LOCATION:2306 42nd Ave SW\, Seattle\, WA
+DESCRIPTION:Join us in making signs for the upcoming "Hands Off" rally at 
+ Seattle Center. This event is organized by Randall E. Winn and West Seattl
+ e Indivisible.\n\nWest Seattle Public Library
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=2306+42nd+Av
+ e+SW%2C+Seattle%2C+WA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

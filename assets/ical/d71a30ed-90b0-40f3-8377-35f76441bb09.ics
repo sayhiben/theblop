@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:2fc93ab6-b9fd-448f-9649-daccf5496c53
+SEQUENCE:0
+DTSTAMP:20250325T181314Z
+DTSTART:20250406T140000
+DTEND:20250406T160000
+SUMMARY:Protest fascism!
+LOCATION:Northeast corner of Walton and Livernois\, Rochester Hills\, MI
+DESCRIPTION:Join us for a protest against fascism in Rochester Hills\, MI.
+  We aim to stand up and fight back against oppressive systems in a sidewal
+ k demonstration.\n\nNortheast corner of Walton and Livernois
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Northeast+co
+ rner+of+Walton+and+Livernois%2C+Rochester+Hills%2C+MI&zoom=15&basemap=road
+ map
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

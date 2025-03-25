@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:7d04aba1-d39f-428c-9247-9cc5a3d491d2
+SEQUENCE:0
+DTSTAMP:20250325T181314Z
+DTSTART:20250405T120000
+DTEND:20250405T140000
+SUMMARY:50501 Protests
+LOCATION:Albert Johnson Park\, Intersection of Main & Picacho\, Las Cruces
+ \, NM
+DESCRIPTION:Join us for a peaceful protest to stand up against fascism and
+  defend democracy. This nationwide event is part of a movement occurring i
+ n 50 states\, advocating for rights and unity.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Albert+Johns
+ on+Park%2C+Intersection+of+Main+%26+Picacho%2C+Las+Cruces%2C+NM&zoom=15&ba
+ semap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

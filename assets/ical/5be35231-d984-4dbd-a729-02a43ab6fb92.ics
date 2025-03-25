@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:6955c23a-4989-42d5-bb32-74ecaa66c849
+SEQUENCE:0
+DTSTAMP:20250325T181314Z
+DTSTART:20250405T120000
+DTEND:20250405T140000
+SUMMARY:Fill the Hill
+LOCATION:Coles Hill\, Water Street\, Plymouth\, MA
+DESCRIPTION:On April 5th\, participants will gather to protest against pol
+ itical and economic figures\, emphasizing nonviolent action. The event aim
+ s to build an opposition movement.\n\nColes Hill\, Water Street\, Plymouth
+ \, MA
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Coles+Hill%2
+ C+Water+Street%2C+Plymouth%2C+MA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

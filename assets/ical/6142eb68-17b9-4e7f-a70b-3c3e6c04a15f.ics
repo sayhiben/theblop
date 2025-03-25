@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:d752c26d-21e0-42c9-9a5a-2bf77044649c
+SEQUENCE:0
+DTSTAMP:20250325T181314Z
+DTSTART:20250405T120000
+DTEND:20250405T140000
+SUMMARY:Hands Off Veterans Benefits
+LOCATION:1027 Hooper Avenue\, Toms River\, NJ
+DESCRIPTION:We are organizing a mass mobilization to protect veterans' ben
+ efits in Toms River. Join us to stand against any reductions or changes af
+ fecting our veterans.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=1027+Hooper+
+ Avenue%2C+Toms+River%2C+NJ&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

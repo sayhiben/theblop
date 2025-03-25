@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:82427892-3905-4561-b125-ab42ac7162e1
+SEQUENCE:0
+DTSTAMP:20250325T181314Z
+DTSTART:20250326T170000
+DTEND:20250326T190000
+SUMMARY:Rally to Protest Trump and Support Ukraine and Our Allies
+LOCATION:11 S Castillo Dr\, St. Augustine\, FL
+DESCRIPTION:We are hosting a rally to protest against Trump and support Uk
+ raine and our allies. Join us to make your voices heard and stand up again
+ st hate\, Musk\, Putin\, and the selling out of our country.\n\nCastillo d
+ e San Marcos National Monument
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=11+S+Castill
+ o+Dr%2C+St.+Augustine%2C+FL&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

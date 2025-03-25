@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:60aabb7f-0c20-4257-8c86-aff77e4bc388
+SEQUENCE:0
+DTSTAMP:20250325T181314Z
+DTSTART:20250405T120000
+DTEND:20250405T140000
+SUMMARY:People's Veto Day
+LOCATION:Conrad Dyar Memorial Fountain\, Port Angeles\, WA
+DESCRIPTION:Join us for a peaceful dissent to reject the Trump-Musk coup\,
+  protecting social services and rights.\n\nConrad Dyar Memorial Fountain
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Conrad+Dyar+
+ Memorial+Fountain%2C+Port+Angeles%2C+WA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

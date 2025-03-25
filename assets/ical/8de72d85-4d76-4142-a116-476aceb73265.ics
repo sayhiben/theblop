@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:8d6c42e5-25cc-41e7-a492-0a1ed1409067
+SEQUENCE:0
+DTSTAMP:20250325T181314Z
+DTSTART:20250329T150000
+DTEND:20250329T170000
+SUMMARY:#TeslaTakedown
+LOCATION:8001 S Orange Blossom Trl Space 1280A\, Orlando\, FL
+DESCRIPTION:\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=8001+S+Orang
+ e+Blossom+Trl+Space+1280A%2C+Orlando%2C+FL&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

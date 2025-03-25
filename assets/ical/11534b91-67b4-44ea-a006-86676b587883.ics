@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:af761e25-02e1-428a-96c6-878ad709218f
+SEQUENCE:0
+DTSTAMP:20250325T181314Z
+DTSTART:20250329T120000
+DTEND:20250329T140000
+SUMMARY:Chicago TeslaTakedown - Global Day of Action 3/29
+LOCATION:901 N Rush Street\, Chicago\, IL
+DESCRIPTION:Join us for the Chicago TeslaTakedown\, part of a Global Day o
+ f Action\, taking place at the Tesla showroom in downtown Chicago.\n\nChic
+ ago Tesla showroom
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=901+N+Rush+S
+ treet%2C+Chicago%2C+IL&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
