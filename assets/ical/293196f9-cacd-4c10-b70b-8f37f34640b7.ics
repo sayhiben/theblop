@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:1b1e5ae0-1911-4260-8569-65c262c2ce34
+SEQUENCE:0
+DTSTAMP:20250325T220600Z
+DTSTART:20250405T123000
+DTEND:20250405T143000
+SUMMARY:Remove\, Reverse\, Reclaim
+LOCATION:Manette Bridge\, Bremerton\, WA
+DESCRIPTION:Join us for a visibility event organized by Indivisible to pro
+ mote community engagement and awareness. Connect with others and make an i
+ mpact in Bremerton.\n\nManette Bridge
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Manette+Brid
+ ge%2C+Bremerton%2C+WA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

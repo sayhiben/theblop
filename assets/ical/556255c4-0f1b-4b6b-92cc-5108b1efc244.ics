@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:aa59ef25-683d-4eab-b007-2e4797a8faf3
+SEQUENCE:0
+DTSTAMP:20250325T220600Z
+DTSTART:20250331T180000
+DTEND:20250331T200000
+SUMMARY:Rally for Jeanette
+LOCATION:3130 Oakland St\, Aurora\, CO
+DESCRIPTION:Join us to rally and vigil to mark a week of ICE detaining Jea
+ nette.\n\n3130 Oakland St\, Aurora CO\, 80010
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=3130+Oakland
+ +St%2C+Aurora%2C+CO&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

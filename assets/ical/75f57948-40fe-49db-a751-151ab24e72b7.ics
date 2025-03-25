@@ -2,17 +2,18 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:e0f9d76a-9dc1-42bc-be92-f0a1ecc5db60
+UID:ad9999b4-e240-44cd-bc9b-daabeb7d06dc
 SEQUENCE:0
-DTSTAMP:20250325T210636Z
+DTSTAMP:20250325T220600Z
 DTSTART:20250331T190000
 DTEND:20250331T210000
 SUMMARY:Virtual Rally
+LOCATION:\, Nationwide\, Nationwide
 DESCRIPTION:Join SW4J for a virtual rally to hear from allies in various s
  ectors about responses to current challenges and discuss how social worker
  s can take action.\n\nVirtual
-URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=&zoom=15&bas
- emap=roadmap
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+Nationwi
+ de%2C+Nationwide&zoom=15&basemap=roadmap
 STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

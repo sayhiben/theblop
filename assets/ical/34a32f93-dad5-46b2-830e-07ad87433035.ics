@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:66261877-2916-4819-b12d-11f41b3c3ad9
+SEQUENCE:0
+DTSTAMP:20250325T220600Z
+DTSTART:20250405T120000
+DTEND:20250405T140000
+SUMMARY:Rally to Remove Corrupt Politicians
+LOCATION:Kanawha Blvd.\, Charleston\, WV
+DESCRIPTION:Join us to remove corrupt politicians\, reverse the damage cau
+ sed\, and reclaim our democracy.\n\nWest Virginia State Capitol Complex
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Kanawha+Blvd
+ .%2C+Charleston%2C+WV&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:856ce6f1-e120-433a-9a57-f431f4b1aa2c
+SEQUENCE:0
+DTSTAMP:20250325T220600Z
+DTSTART:20250405T000000
+DTEND:20250405T020000
+SUMMARY:Florida Protests
+LOCATION:Varies per city (e.g.\, City Hall in Orlando\, Duval County Court
+ house in Jacksonville)\, Multiple cities\, FL
+DESCRIPTION:Various protests are organized across Florida on April 5th\, w
+ ith specific meeting locations and times in each city.\n\nVarious location
+ s across Florida
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Varies+per+c
+ ity+%28e.g.%2C+City+Hall+in+Orlando%2C+Duval+County+Courthouse+in+Jacksonv
+ ille%29%2C+Multiple+cities%2C+FL&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:6986e1d6-ab5b-475f-93a0-2325bf411976
+SEQUENCE:0
+DTSTAMP:20250325T220600Z
+DTSTART:20250405T120000
+DTEND:20250405T140000
+SUMMARY:We The People VETO Project 2025
+LOCATION:Kiener Plaza\, St. Louis\, MO
+DESCRIPTION:Join us in the nation-wide fight at Kiener Plaza to reclaim de
+ mocracy\, free speech\, privacy\, and other key social and civic issues. W
+ e aim to stop corporate influence and promote a range of important causes.
+ \n\nKiener Plaza
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Kiener+Plaza
+ %2C+St.+Louis%2C+MO&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

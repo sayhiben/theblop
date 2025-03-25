@@ -2,19 +2,20 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:e4ff5d45-3702-4604-b1b6-e77e464da8d5
+UID:90d2af7c-4553-499e-b47b-100c5cf78eb4
 SEQUENCE:0
-DTSTAMP:20250325T210636Z
+DTSTAMP:20250325T220600Z
 DTSTART:20250330T120000
 DTEND:20250330T140000
 SUMMARY:Mass Media March
+LOCATION:\, Nationwide\, Nationwide
 DESCRIPTION:Join us for the Mass Media March on March 30th at 12 PM. The m
  arch will occur simultaneously in several major locations\, including Wash
  ington\, DC\; New York City\, NY\; Atlanta\, GA\; and Boca Raton\, FL. The
   event is a collective demonstration with gatherings at notable media outl
  ets in each city.\n\n
-URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=&zoom=15&bas
- emap=roadmap
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+Nationwi
+ de%2C+Nationwide&zoom=15&basemap=roadmap
 STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

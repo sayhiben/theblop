@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:eeb3f788-1798-48f5-be98-a05b4d9ce507
+SEQUENCE:0
+DTSTAMP:20250325T220600Z
+DTSTART:20250411T143000
+DTEND:20250411T163000
+SUMMARY:Michigan Shut Down for Palestine
+LOCATION:100 N Capitol Ave\, Lansing\, MI
+DESCRIPTION:Join students from various Michigan universities to demand an 
+ arms embargo against Israel. Unite at the State Capitol to advocate for di
+ vestment.\n\nState Capitol
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=100+N+Capito
+ l+Ave%2C+Lansing%2C+MI&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

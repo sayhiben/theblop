@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:e5381814-1090-415c-81b8-08a645f3bb86
+SEQUENCE:0
+DTSTAMP:20250325T220600Z
+DTSTART:20250328T160000
+DTEND:20250328T180000
+SUMMARY:Chicago March for Al Quds & Palestine
+LOCATION:\, Chicago\, IL
+DESCRIPTION:Join us for a march in support of Al Quds and Palestine. The e
+ vent will bring together various community organizations to stand in unity
+  and solidarity.\n\nConsulate General of Israel\, 500 W. Madison St\, Chic
+ ago
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+Chicago%
+ 2C+IL&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

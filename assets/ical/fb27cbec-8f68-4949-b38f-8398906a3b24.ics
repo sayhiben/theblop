@@ -2,13 +2,13 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:f8055796-cbe2-4006-9ea3-5ce9c0f66167
+UID:2ad3d495-827e-4fab-b693-3db445d8cad2
 SEQUENCE:0
-DTSTAMP:20250325T210636Z
+DTSTAMP:20250325T220600Z
 DTSTART:20250405T160000
 DTEND:20250405T180000
 SUMMARY:HANDS OFF!
-LOCATION:70 E Kaahumanu Ave
+LOCATION:70 E Kaahumanu Ave\, Kahului\, HI
 DESCRIPTION:Join us to stand against cuts or changes to critical services 
  and rights such as Medicaid\, Medicare\, Social Security\, jobs\, wallets\
  , bodies\, fair elections\, personal data\, public lands\, veteran service
@@ -16,7 +16,7 @@ DESCRIPTION:Join us to stand against cuts or changes to critical services
  gy\, schools\, libraries\, free speech\, LGBTQ+ rights\, immigrants\, and 
  courts.\n\nWhole Foods
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=70+E+Kaahuma
- nu+Ave&zoom=15&basemap=roadmap
+ nu+Ave%2C+Kahului%2C+HI&zoom=15&basemap=roadmap
 STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

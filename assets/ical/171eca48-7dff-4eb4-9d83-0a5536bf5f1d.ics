@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:c6a5b729-7462-4b82-87ca-f135b424c8f2
+SEQUENCE:0
+DTSTAMP:20250325T220600Z
+DTSTART:20250405T100000
+DTEND:20250405T120000
+SUMMARY:Central Jersey Community Listening and Power Building Session
+LOCATION:19-21 South 2nd Ave\, Highland Park\, NJ
+DESCRIPTION:Share your voice\, connect with neighbors\, and strategize for
+  change. Together\, we'll turn voices into action and build collective pow
+ er for a stronger community.\n\nReformed Church of Highland Park
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=19-21+South+
+ 2nd+Ave%2C+Highland+Park%2C+NJ&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

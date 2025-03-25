@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:cd40fbf9-beb5-4e35-8ad0-ba0274f128b5
+SEQUENCE:0
+DTSTAMP:20250325T220600Z
+DTSTART:20250405T150000
+DTEND:20250405T170000
+SUMMARY:Hands Off!
+LOCATION:Public Square\, Wilkes-Barre\, PA
+DESCRIPTION:Join us to fight back against an unprecedented power grab thro
+ ugh a national mobilization event.\n\nPublic Square in Wilkes-Barre
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Public+Squar
+ e%2C+Wilkes-Barre%2C+PA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

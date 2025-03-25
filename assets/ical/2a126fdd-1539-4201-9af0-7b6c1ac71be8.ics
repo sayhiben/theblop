@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:d3b846d3-015f-4bf4-bf6f-96e40ecb105d
+SEQUENCE:0
+DTSTAMP:20250325T220600Z
+DTSTART:20250405T120000
+DTEND:20250405T140000
+SUMMARY:Hands Off!
+LOCATION:Colorado State Capitol\, Denver\, CO
+DESCRIPTION:On April 5\, we're uniting to say hands off. Join us to fight 
+ back against Trump's unprecedented power grab.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Colorado+Sta
+ te+Capitol%2C+Denver%2C+CO&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:a0c94cfc-b628-44a4-a6eb-ecb8583c9a3f
+SEQUENCE:0
+DTSTAMP:20250325T220600Z
+DTSTART:20250405T100000
+DTEND:20250405T120000
+SUMMARY:Stand UP in Middletown - Fight Against the Oligarchs and Project 2
+ 025
+LOCATION:29-37 W Main St\, Middletown\, NY 10940
+DESCRIPTION:On April 5th\, 2025\, join other protesting groups at John Deg
+ nan Square\, Middletown\, NY from 10am-2pm. Bring signs\, flags\, and info
+ rmation to share on standing up against the US government and Project 2025
+ .\n\nJohn Degnan Square
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=29-37+W+Main
+ +St%2C+Middletown%2C+NY+10940&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

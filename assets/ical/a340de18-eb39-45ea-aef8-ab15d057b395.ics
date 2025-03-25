@@ -2,20 +2,21 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:f33572cf-63cb-4e35-b122-68b4787ce4c1
+UID:a6f5bff6-3fd7-43a0-9aee-8ffb84787391
 SEQUENCE:0
-DTSTAMP:20250325T210636Z
+DTSTAMP:20250325T220600Z
 DTSTART:20250405T090000
 DTEND:20250405T110000
 SUMMARY:Maine Hands Øff Mass Mobilization Events
+LOCATION:\, Multiple cities\, ME
 DESCRIPTION:Pine Tree Activism is organizing a mass protest on April 5th a
  s part of a national day of action. The events focus on resisting policies
   affecting social services\, healthcare\, and various personal freedoms. T
  he protests aim to stop perceived power grabs by political and corporate i
  nterests. Participants are encouraged to join events at multiple locations
   in Maine and New Hampshire.\n\n
-URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=&zoom=15&bas
- emap=roadmap
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+Multiple
+ +cities%2C+ME&zoom=15&basemap=roadmap
 STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

@@ -2,17 +2,18 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:e6c619dc-0b13-4b20-a01b-00a2e91f709d
+UID:1ff021b4-ae09-46de-9db9-4ce3b5a84ae0
 SEQUENCE:0
-DTSTAMP:20250325T210636Z
+DTSTAMP:20250325T220600Z
 DTSTART:20250326T190000
 DTEND:20250326T210000
 SUMMARY:Democracy Under Siege
+LOCATION:\, Nationwide\, Nationwide
 DESCRIPTION:Join Ruth Ben-Ghiat\, Barbara McQuade\, and Kimberly Atkins St
  ohr for an online conversation about democracy\, disinformation\, and the 
  rule of law\, hosted by BigTentUSA.\n\nOnline (Virtual)
-URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=&zoom=15&bas
- emap=roadmap
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+Nationwi
+ de%2C+Nationwide&zoom=15&basemap=roadmap
 STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:82c707da-2049-4f9c-9207-86e370dcab7b
+SEQUENCE:0
+DTSTAMP:20250325T220600Z
+DTSTART:20250329T100000
+DTEND:20250329T120000
+SUMMARY:North Jersey Community Listening and Power Building Session
+LOCATION:275 Market Street\, Newark\, NJ
+DESCRIPTION:Come together to grow our power through increased voter partic
+ ipation and civic engagement. Connect with local and state organizations w
+ ho are dedicated to building a new era of democracy in NJ. Share your comm
+ unity priorities and strategize to make change.\n\nBethany Baptist Church 
+ – Fellowship Hall
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=275+Market+S
+ treet%2C+Newark%2C+NJ&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

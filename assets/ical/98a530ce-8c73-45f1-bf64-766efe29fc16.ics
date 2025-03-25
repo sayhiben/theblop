@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:0e1ac03d-6e97-4ada-8f87-1634298c1f7c
+SEQUENCE:0
+DTSTAMP:20250325T220600Z
+DTSTART:20250330T120000
+DTEND:20250330T140000
+SUMMARY:Mass Media March
+LOCATION:1211 6th Ave\, New York\, NY
+DESCRIPTION:We're taking it to the Belly of the Disinformation Beast: FOX 
+ NEWS HQ. Join our nonviolent protest—NYC’s part of the nationwide Mass
+  Media March.\n\nFOXLIES HQ
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=1211+6th+Ave
+ %2C+New+York%2C+NY&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

@@ -2,18 +2,19 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:b705a389-f4c7-4b33-9d67-d976e499d4ae
+UID:4d962a88-3246-4d00-84fb-50e18e9afab8
 SEQUENCE:0
-DTSTAMP:20250325T210636Z
+DTSTAMP:20250325T220600Z
 DTSTART:20250329T000000
 DTEND:20250329T020000
 SUMMARY:#TeslaTakedown
+LOCATION:\, Nationwide\, Nationwide
 DESCRIPTION:Join us for a global day of action on March 29 to oppose what 
  is described as Elon Musk's illegal coup. Turn out in numbers across 277 T
  esla locations in the US and 500+ sites worldwide. Visit the website for m
  ore details or to start an action.\n\n
-URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=&zoom=15&bas
- emap=roadmap
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+Nationwi
+ de%2C+Nationwide&zoom=15&basemap=roadmap
 STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

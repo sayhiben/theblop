@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:94932ae3-b37c-4d9a-bb97-cffde0ef4cc7
+SEQUENCE:0
+DTSTAMP:20250325T220600Z
+DTSTART:20250405T120000
+DTEND:20250405T140000
+SUMMARY:Remove - Reverse - Reclaim Indianapolis
+LOCATION:200 W Washington St\, Indianapolis\, IN
+DESCRIPTION:Join us for a mass mobilization event as we move to remove\, r
+ everse\, and reclaim Indianapolis. This volunteer-organized visibility eve
+ nt aims to bring people together for change.\n\nIndiana Statehouse
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=200+W+Washin
+ gton+St%2C+Indianapolis%2C+IN&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

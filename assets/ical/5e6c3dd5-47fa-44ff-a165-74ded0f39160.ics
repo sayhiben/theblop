@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:97924d95-2453-499a-ace2-281d997dae39
+SEQUENCE:0
+DTSTAMP:20250325T220600Z
+DTSTART:20250405T120000
+DTEND:20250405T140000
+SUMMARY:We the People Veto Project 2025
+LOCATION:Sylvan Theater\, Washington Monument\, Washington\, DC
+DESCRIPTION:Join us in our peaceful dissent to reject the Trump-Musk coup 
+ and protect public rights such as healthcare\, democracy\, veteran service
+ s\, and more.\n\nSylvan Theater\, Washington Monument
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Sylvan+Theat
+ er%2C+Washington+Monument%2C+Washington%2C+DC&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

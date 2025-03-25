@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:bb2117b9-717c-4cd4-a7d6-14a14236a80e
+SEQUENCE:0
+DTSTAMP:20250325T220600Z
+DTSTART:20250405T130000
+DTEND:20250405T150000
+SUMMARY:Hands Off Our Democracy
+LOCATION:\, New York City\, NY
+DESCRIPTION:Join us in a march to remove corruption and oligarchy\, revers
+ e executive orders\, and reclaim the government by the people. We are marc
+ hing from Bryant Park to Madison Square Park to stand for democracy.\n\nBr
+ yant Park
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+New+York
+ +City%2C+NY&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

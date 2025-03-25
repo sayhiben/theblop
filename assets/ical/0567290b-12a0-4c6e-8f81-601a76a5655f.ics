@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:8538a676-8222-410b-8fdc-5712e07f96c7
+SEQUENCE:0
+DTSTAMP:20250325T220600Z
+DTSTART:20250424T160000
+DTEND:20250424T180000
+SUMMARY:Chris Kluwe: The Courage and Cost of Civil Disobedience
+LOCATION:\, Orange County\, CA
+DESCRIPTION:Join us for a conversation with former NFL player and author C
+ hris Kluwe\, discussing civil disobedience and standing up for beliefs.\n\
+ nArgyros Forum 208
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+Orange+C
+ ounty%2C+CA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

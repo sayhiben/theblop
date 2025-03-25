@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:fd01d783-57c1-4564-9280-f0af1a133ec8
+SEQUENCE:0
+DTSTAMP:20250325T220600Z
+DTSTART:20250405T040000
+DTEND:20250405T060000
+SUMMARY:Get on the Bus to DC!
+LOCATION:6055 W 130th St\, Parma\, OH
+DESCRIPTION:Join us for a national march in Washington D.C. on April 5 to 
+ protest against genocide. Catch the bus from the Islamic Center of Clevela
+ nd with provided pick-up details and reserve your spot online.\n\nIslamic 
+ Center of Cleveland
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=6055+W+130th
+ +St%2C+Parma%2C+OH&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

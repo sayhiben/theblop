@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:806865b8-7a47-44f7-9ed8-ec85e1b00fb9
+SEQUENCE:0
+DTSTAMP:20250325T220600Z
+DTSTART:20250405T160000
+DTEND:20250405T180000
+SUMMARY:Remove Reverse Reclaim
+LOCATION:\, Corpus Christi\, TX
+DESCRIPTION:Join us in a movement to remove corrupt politicians\, reverse 
+ the damage\, and reclaim our democracy. This event is part of a nationwide
+  protest across all states.\n\nWaters Edge Park
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+Corpus+C
+ hristi%2C+TX&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

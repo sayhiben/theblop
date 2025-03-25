@@ -2,17 +2,17 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:a68de37b-4f49-45e0-8878-c7ffa65c4f1f
+UID:b551fb72-c3af-45aa-bf5e-377f2740d24f
 SEQUENCE:0
-DTSTAMP:20250325T210636Z
+DTSTAMP:20250325T220600Z
 DTSTART:20250329T110000
 DTEND:20250329T130000
 SUMMARY:#TeslaTakedown Global Day of Action
-LOCATION:NE corner of Coburg Rd and Oakway Rd
+LOCATION:NE corner of Coburg Rd and Oakway Rd\, Eugene\, OR
 DESCRIPTION:Join us for a peaceful protest against Tesla and its associati
  on with Elon Musk's operations.\n\nNE corner of Coburg Rd and Oakway Rd
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=NE+corner+of
- +Coburg+Rd+and+Oakway+Rd&zoom=15&basemap=roadmap
+ +Coburg+Rd+and+Oakway+Rd%2C+Eugene%2C+OR&zoom=15&basemap=roadmap
 STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

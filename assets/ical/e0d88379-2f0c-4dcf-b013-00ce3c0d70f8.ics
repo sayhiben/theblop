@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:105f89f7-10c9-42bd-b35a-49ac48a9a10c
+SEQUENCE:0
+DTSTAMP:20250325T220600Z
+DTSTART:20250329T110000
+DTEND:20250329T130000
+SUMMARY:Global Day of Action
+LOCATION:2535 Arden Way\, Sacramento\, CA
+DESCRIPTION:An event titled "Tesla Takedown" as part of a global day of ac
+ tion\, taking place at a Tesla Service Center.\n\nTesla Service Center
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=2535+Arden+W
+ ay%2C+Sacramento%2C+CA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:4e57c9da-08ae-46bb-976e-15e3a7e10c92
+SEQUENCE:0
+DTSTAMP:20250325T220600Z
+DTSTART:20250405T113000
+DTEND:20250405T133000
+SUMMARY:Hands Off! Mass Mobilization
+LOCATION:Columbia Center Blvd\, Kennewick\, WA
+DESCRIPTION:Join us for a mass mobilization event at Columbia Center Blvd\
+ , focusing on collective action.\n\nJC Penny's back parking lot
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Columbia+Cen
+ ter+Blvd%2C+Kennewick%2C+WA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
