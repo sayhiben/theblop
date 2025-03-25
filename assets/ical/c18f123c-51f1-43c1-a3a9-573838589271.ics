@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:696d0b59-d9f4-4e8d-ad01-7f9708978628
+SEQUENCE:0
+DTSTAMP:20250325T150327Z
+DTSTART:20250415T100000
+DTEND:20250415T120000
+SUMMARY:Technical State of The Nation
+DESCRIPTION:Join us for a thought-provoking virtual conference on the curr
+ ent technical trends.\n\nOnline
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=&zoom=15&bas
+ emap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

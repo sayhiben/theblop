@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:d9d09eda-1800-4f2a-9302-a02f277d473a
+SEQUENCE:0
+DTSTAMP:20250325T150327Z
+DTSTART:20250405T110000
+DTEND:20250405T130000
+SUMMARY:Hands Off! Our Democracy
+LOCATION:100 S Main St\, Anderson\, SC
+DESCRIPTION:We aim to remove corrupt politicians\, reverse executive order
+ s\, and reclaim government control for the people.\n\nAnderson County Cour
+ t House
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=100+S+Main+S
+ t%2C+Anderson%2C+SC&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

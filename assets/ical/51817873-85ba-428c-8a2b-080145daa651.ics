@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:8612cc9f-2c3f-4567-9f1d-8d22080d918c
+SEQUENCE:0
+DTSTAMP:20250325T150327Z
+DTSTART:20250405T140000
+DTEND:20250405T160000
+SUMMARY:Hands Off Our Democracy Rally
+LOCATION:111 E White St\, Rock Hill\, SC
+DESCRIPTION:We are organizing a peaceful\, non-partisan rally to protest a
+ gainst political issues\, focusing on removing corrupt politicians\, rever
+ sing damage\, and reclaiming democracy.\n\nDave Lyle between Main St & Whi
+ te St
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=111+E+White+
+ St%2C+Rock+Hill%2C+SC&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

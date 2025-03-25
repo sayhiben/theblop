@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:8f993088-4ce0-43d8-a679-f95258e3e42a
+SEQUENCE:0
+DTSTAMP:20250325T150327Z
+DTSTART:20250426T083000
+DTEND:20250426T103000
+SUMMARY:Martin Luther King People's Convention for Justice & Resistance
+LOCATION:303 University Avenue\, Newark\, NJ
+DESCRIPTION:We invite you to join us for a day dedicated to justice and re
+ sistance at the Martin Luther King People's Convention. Held at Essex Coun
+ ty College\, this event aims to bring together individuals and organizatio
+ ns committed to social justice. Endorsed by a variety of civil rights grou
+ ps\, participants can expect a day full of meaningful dialogue and action.
+  For further details or registration\, please contact the provided phone n
+ umber or email.\n\nEssex County College
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=303+Universi
+ ty+Avenue%2C+Newark%2C+NJ&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

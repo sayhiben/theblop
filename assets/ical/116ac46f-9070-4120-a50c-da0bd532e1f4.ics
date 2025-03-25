@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:5fab22fd-0480-459e-b8f8-2f2a06a64f7d
+SEQUENCE:0
+DTSTAMP:20250325T150327Z
+DTSTART:20250326T103000
+DTEND:20250326T123000
+SUMMARY:Rally
+LOCATION:54th St and Minnehaha\, Minneapolis\, MN
+DESCRIPTION:Join with the American Federation of Government Employees Loca
+ ls 1969 and 3669 AFL-CIO\, with Save Our VA-Veterans for Peace\, and other
+  supporters to support healthcare for America’s Veterans.\n\nBy the ligh
+ t rail
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=54th+St+and+
+ Minnehaha%2C+Minneapolis%2C+MN&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
