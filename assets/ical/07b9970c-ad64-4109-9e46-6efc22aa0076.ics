@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:250bc5ff-a459-4cff-b8c2-6447abd72273
+SEQUENCE:0
+DTSTAMP:20250326T180312Z
+DTSTART:20250405T130000
+DTEND:20250405T150000
+SUMMARY:Hands Off!
+LOCATION:1150 Canton Center Rd\, Canton\, MI
+DESCRIPTION:We are organizing a protest to mobilize community support and 
+ action on critical issues such as healthcare\, veteran services\, personal
+  freedoms\, and more.\n\nin front of Canton Twp. Admin Bldg.
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=1150+Canton+
+ Center+Rd%2C+Canton%2C+MI&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

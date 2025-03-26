@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:9eb40d8a-23c6-4c0c-a7f9-312ee2e70e9e
+SEQUENCE:0
+DTSTAMP:20250326T180312Z
+DTSTART:20250328T153000
+DTEND:20250328T173000
+SUMMARY:Motorcade Protest
+LOCATION:828 Southern Blvd\, West Palm Beach\, FL
+DESCRIPTION:Join us for a motorcade protest focusing on national security 
+ issues and cuts to veterans benefits. Plenty of parking\, food\, and restr
+ ooms available.\n\nIn front of Publix Supermarket\, Southdale Shopping Mal
+ l
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=828+Southern
+ +Blvd%2C+West+Palm+Beach%2C+FL&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

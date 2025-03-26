@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:944509a0-7c9a-4184-8f15-2d2823e9b62b
+SEQUENCE:0
+DTSTAMP:20250326T180312Z
+DTSTART:20250328T153000
+DTEND:20250328T173000
+SUMMARY:Are You Angry? Motorcade Protest
+LOCATION:Southdale Shopping Plaza\, 828 Southern Blvd\, West Palm Beach\, 
+ FL
+DESCRIPTION:We are organizing a motorcade protest against President Trump'
+ s policies\, focusing on national security issues and recent breaches. Joi
+ n us in expressing our concerns.\n\nPublix Plaza
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Southdale+Sh
+ opping+Plaza%2C+828+Southern+Blvd%2C+West+Palm+Beach%2C+FL&zoom=15&basemap
+ =roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

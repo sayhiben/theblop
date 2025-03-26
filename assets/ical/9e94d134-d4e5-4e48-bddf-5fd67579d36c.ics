@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:5dde1278-ee17-4b08-ba2c-a5e6da551db1
+SEQUENCE:0
+DTSTAMP:20250326T180312Z
+DTSTART:20250331T180000
+DTEND:20250331T200000
+SUMMARY:Vigil for Migrant Families
+LOCATION:\, Multiple\, CA
+DESCRIPTION:We respectfully ask for a night of uplifting the voices of tho
+ se most impacted by injustice to advocate for human rights\, in honor of C
+ esar Chavez Day. Participants are invited to bring a candle\, a teddy bear
+ \, and a bag of groceries.\n\nSanta Barbara City Hall\, Lompoc Adam Park\,
+  Ventura City Hall
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+Multiple
+ %2C+CA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
