@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:01c6ee89-89ef-4b79-bcb1-db80ed1bc5db
+SEQUENCE:0
+DTSTAMP:20250326T090438Z
+DTSTART:20250405T110000
+DTEND:20250405T130000
+SUMMARY:HANDS OFF! and Food Drive
+LOCATION:Bicentennial Plaza\, Raleigh\, NC
+DESCRIPTION:We are gathering at Bicentennial Plaza in Raleigh\, NC\, to ra
+ ise awareness and protect vital social services and rights\, including Med
+ icaid\, Medicare\, jobs\, fair elections\, clean energy\, and more. Join u
+ s on April 5th for a rally and food drive with various partnered organizat
+ ions.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Bicentennial
+ +Plaza%2C+Raleigh%2C+NC&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

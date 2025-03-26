@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:309c9c92-c9f3-4690-8dce-13b61530d2ad
+SEQUENCE:0
+DTSTAMP:20250326T090438Z
+DTSTART:20250405T120000
+DTEND:20250405T140000
+SUMMARY:REMOVE REVERSE RECLAIM
+LOCATION:180 N. First St.\, San Jose\, CA
+DESCRIPTION:We aim to remove corrupt politicians\, reverse the damage\, an
+ d reclaim our democracy.\n\nSt. James Park @ The McKinley Statue
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=180+N.+First
+ +St.%2C+San+Jose%2C+CA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

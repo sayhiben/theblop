@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:22eca929-4917-4a4e-8868-8fb2af579917
+SEQUENCE:0
+DTSTAMP:20250326T090438Z
+DTSTART:20250405T110000
+DTEND:20250405T130000
+SUMMARY:People's Veto Day
+LOCATION:Cary Park to Shaw & Fresno
+DESCRIPTION:People's Veto Day is an event aimed at protecting various soci
+ al services and rights. It includes sign-making\, speakers\, and community
+  resources.\n\nCary Park
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Cary+Park+to
+ +Shaw+%26+Fresno&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

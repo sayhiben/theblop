@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:2ccea690-11cf-44b1-8be1-f5d84311b257
+SEQUENCE:0
+DTSTAMP:20250326T090437Z
+DTSTART:20250327T090000
+DTEND:20250327T110000
+SUMMARY:STAND STRONG\, SPEAK UP
+LOCATION:1636 N Swan Road\, Tucson\, AZ
+DESCRIPTION:We aim to stop Project 2025 by encouraging people to speak up 
+ and demand that Ciscomani honors his oath and protects the constitution.\n
+ \nIn front of Ciscomani’s office
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=1636+N+Swan+
+ Road%2C+Tucson%2C+AZ&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

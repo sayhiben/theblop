@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:022198c0-88c0-409a-b393-718d99d0dfe5
+SEQUENCE:0
+DTSTAMP:20250326T090438Z
+DTSTART:20250405T160000
+DTEND:20250405T180000
+SUMMARY:SoCal Unites
+LOCATION:532 S Olive St\, Los Angeles\, CA
+DESCRIPTION:We are gathering for the 'SoCal Unites' event to assemble\, ma
+ rch\, and rally with speeches and entertainment in cooperation with variou
+ s organizations.\n\nPershing Square
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=532+S+Olive+
+ St%2C+Los+Angeles%2C+CA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

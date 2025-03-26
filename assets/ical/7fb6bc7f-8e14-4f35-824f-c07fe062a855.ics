@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:42904800-a71d-475f-b7ae-39a77a3bb630
+SEQUENCE:0
+DTSTAMP:20250326T090437Z
+DTSTART:20250329T130000
+DTEND:20250329T150000
+SUMMARY:Tesla/ MUSK Takedown – Global Day of Action
+LOCATION:311 E Daily Dr\, Camarillo
+DESCRIPTION:Join us for a peaceful protest to advocate for our benefits an
+ d personal data protection. Bring a sign and a friend to the Tesla dealers
+ hip in Camarillo.\n\nTesla Dealership
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=311+E+Daily+
+ Dr%2C+Camarillo&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

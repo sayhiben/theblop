@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:5be214d0-5952-4b4a-a78f-000cfb957395
+SEQUENCE:0
+DTSTAMP:20250326T090437Z
+DTSTART:20250329T093000
+DTEND:20250329T113000
+SUMMARY:Tesla Protest
+LOCATION:5081 N Oracle Rd\, Tucson\, AZ
+DESCRIPTION:Join us for a protest against Tesla at the specified location.
+  Park at nearby spots such as Denny's\, Red Lobster\, or the bowling alley
+ .\n\nPark at Denny’s\, Red Lobster\, or the bowling alley.
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=5081+N+Oracl
+ e+Rd%2C+Tucson%2C+AZ&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

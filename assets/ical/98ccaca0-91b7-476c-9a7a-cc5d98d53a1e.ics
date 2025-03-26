@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:a0179114-ac83-4d2a-8914-fdcdd76e7e17
+SEQUENCE:0
+DTSTAMP:20250326T090438Z
+DTSTART:20250405T140000
+DTEND:20250405T160000
+SUMMARY:People's Veto Day
+LOCATION:Olympia Capitol\, Olympia\, WA
+DESCRIPTION:On April 5\, 2025\, we're mobilizing to stop the MAGA assault 
+ on our country and Constitution. Across the nation\, we're taking to the s
+ treets to defend our freedoms\, our rights\, and our future. When those in
+  power try to silence us\, we rise louder. When they attack our communitie
+ s\, we fight back—together.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Olympia+Capi
+ tol%2C+Olympia%2C+WA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

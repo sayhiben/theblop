@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:d78597a2-304a-44cd-b9ac-61e022d35424
+SEQUENCE:0
+DTSTAMP:20250326T090438Z
+DTSTART:20250405T120000
+DTEND:20250405T140000
+SUMMARY:Hands Off!
+LOCATION:1875 S Boulder Park Dr.\, Tulsa\, OK
+DESCRIPTION:We are organizing a protest to oppose the illegal power grab b
+ y Trump and Musk\, targeting various social and political measures. Join u
+ s in defending crucial public services and rights.\n\nDream Keepers Park\,
+  AKA Veterans Park
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=1875+S+Bould
+ er+Park+Dr.%2C+Tulsa%2C+OK&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:106cb79e-ed4d-40d9-9ecf-cb7f8025c0c0
+SEQUENCE:0
+DTSTAMP:20250326T090438Z
+DTSTART:20250405T100000
+DTEND:20250405T120000
+SUMMARY:Remove Reverse Reclaim
+LOCATION:New York Ave & Woodland Blvd\, Deland\, FL
+DESCRIPTION:We are organizing a political activism event aimed at removing
+  corrupt politicians\, reversing the damage\, and reclaiming our democracy
+ . Join us in this movement as we protest in Deland\, FL.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=New+York+Ave
+ +%26+Woodland+Blvd%2C+Deland%2C+FL&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
