@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:873a2c78-7358-41a1-9aaa-e81b12837cac
+SEQUENCE:0
+DTSTAMP:20250326T210251Z
+DTSTART:20250404T120000
+DTEND:20250404T140000
+SUMMARY:Remove\, Reverse\, Reclaim!
+LOCATION:400 S Monroe Street\, Tallahassee\, FL
+DESCRIPTION:Join us at the Capitol for a peaceful protest to defend our ri
+ ghts\, our country\, and our future.\n\nFlorida Capitol
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=400+S+Monroe
+ +Street%2C+Tallahassee%2C+FL&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

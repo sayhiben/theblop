@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:c7d16082-8c0a-489f-aeab-303c86c3b879
+SEQUENCE:0
+DTSTAMP:20250326T210251Z
+DTSTART:20250329T120000
+DTEND:20250329T140000
+SUMMARY:GLOBAL DAY OF ACTION
+LOCATION:860 Washington\, Manhattan\, New York City\, NY
+DESCRIPTION:Be a part of the worldwide movement to squash Elon’s wealth 
+ and power\, so the rest of us can live.\n\nTesla Showroom
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=860+Washingt
+ on%2C+Manhattan%2C+New+York+City%2C+NY&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
