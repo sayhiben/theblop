@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:e6c78bf6-f821-443c-97fd-5dd4d28d4508
+SEQUENCE:0
+DTSTAMP:20250326T060407Z
+DTSTART:20250405T110000
+DTEND:20250405T130000
+SUMMARY:Veto Project 2025
+LOCATION:Cary Park to Shaw & Fresno
+DESCRIPTION:We are hosting an event called "People's Veto Day" to protect 
+ services like Medicaid\, Medicare\, and more\, featuring sign-making\, spe
+ akers\, and community resources.\n\nCary Park
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Cary+Park+to
+ +Shaw+%26+Fresno&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:ca16c218-619a-48b3-af1f-34a80f7168e2
+SEQUENCE:0
+DTSTAMP:20250326T060407Z
+DTSTART:20250329T113000
+DTEND:20250329T133000
+SUMMARY:Tesla Takedown OP
+LOCATION:8601 159th St\, Orland Park\, Orland Park\, IL
+DESCRIPTION:A public event happening at the Tesla Showroom in Orland Park 
+ with scheduled activities.\n\nTesla Showroom Orland Park
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=8601+159th+S
+ t%2C+Orland+Park%2C+Orland+Park%2C+IL&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

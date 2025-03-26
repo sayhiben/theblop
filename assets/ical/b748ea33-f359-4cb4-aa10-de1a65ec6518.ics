@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:66f1fa27-a479-45f0-938a-dd72064fd586
+SEQUENCE:0
+DTSTAMP:20250326T060407Z
+DTSTART:20250330T120000
+DTEND:20250330T140000
+SUMMARY:Mass Media March
+LOCATION:\, Nationwide\, Nationwide
+DESCRIPTION:We are organizing a nationwide event called the "Mass Media Ma
+ rch" to gather in several cities and raise awareness with the motto "Ignor
+ e us when we’re at your front door."\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+Nationwi
+ de%2C+Nationwide&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

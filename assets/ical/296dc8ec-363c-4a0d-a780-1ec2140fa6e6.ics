@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:fa88853c-71ec-4498-b65f-6bfb0392fedd
+SEQUENCE:0
+DTSTAMP:20250326T060407Z
+DTSTART:20250415T180000
+DTEND:20250415T200000
+SUMMARY:Voices of Lexington: A Public Town Hall for the People
+LOCATION:1260 Lexington Dr\, West Columbia\, SC
+DESCRIPTION:Join us for a public town hall meeting organized by volunteers
+  to discuss community issues and opportunities. This event is open to all 
+ residents and aims to foster open dialogue and engagement.\n\nMidlands Tec
+ hnical College - Airport Campus Auditorium 144
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=1260+Lexingt
+ on+Dr%2C+West+Columbia%2C+SC&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

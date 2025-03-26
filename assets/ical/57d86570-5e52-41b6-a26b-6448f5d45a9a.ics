@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:32892e1d-b048-47e7-b165-192b0fa6b4ab
+SEQUENCE:0
+DTSTAMP:20250326T060407Z
+DTSTART:20250329T110000
+DTEND:20250329T130000
+SUMMARY:Stop Musk Saturdays at Lisle Tesla
+LOCATION:3200 Ogden Ave\, Lisle\, IL 60532
+DESCRIPTION:The flyer is about an event named 'Stop Musk Saturdays' occurr
+ ing at the Tesla dealership in Lisle.\n\nTesla of Lisle
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=3200+Ogden+A
+ ve%2C+Lisle%2C+IL+60532&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

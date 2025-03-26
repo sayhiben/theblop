@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:bb31305d-7042-4b8a-9dc5-b05222a3e7bf
+SEQUENCE:0
+DTSTAMP:20250326T060407Z
+DTSTART:20250424T160000
+DTEND:20250424T180000
+SUMMARY:Chris Kluwe: The Courage and Cost of Civil Disobedience
+LOCATION:Chapman University\, Argyros Forum 208\, Orange\, CA
+DESCRIPTION:Join former NFL player and author Chris Kluwe in a discussion 
+ about civil disobedience\, sharing personal experiences and insights on st
+ anding up for beliefs in today’s America.\n\nArgyros Forum 208
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Chapman+Univ
+ ersity%2C+Argyros+Forum+208%2C+Orange%2C+CA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:70b53aae-0b60-4eb0-b0a5-f9be78c3410f
+SEQUENCE:0
+DTSTAMP:20250326T060407Z
+DTSTART:20250405T120000
+DTEND:20250405T140000
+SUMMARY:West Michigan Rally and March
+LOCATION:Rosa Parks Circle\, Grand Rapids\, MI
+DESCRIPTION:Join us to protest against Trump and Musk's illegal\, billiona
+ ire power grab at Rosa Parks Circle in Grand Rapids\, Michigan.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Rosa+Parks+C
+ ircle%2C+Grand+Rapids%2C+MI&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

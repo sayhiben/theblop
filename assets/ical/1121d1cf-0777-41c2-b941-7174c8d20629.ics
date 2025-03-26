@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:33f28c03-8fb8-4606-8afb-69e0cea0f539
+SEQUENCE:0
+DTSTAMP:20250326T060407Z
+DTSTART:20250405T130000
+DTEND:20250405T150000
+SUMMARY:Peaceful Protest
+LOCATION:Intersection of Lee and Oakton\, Des Plaines\, IL
+DESCRIPTION:Join us for a peaceful protest to defend democracy and stand u
+ p against tyranny. People of all faiths and backgrounds are welcome to use
+  their voices to promote change.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Intersection
+ +of+Lee+and+Oakton%2C+Des+Plaines%2C+IL&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

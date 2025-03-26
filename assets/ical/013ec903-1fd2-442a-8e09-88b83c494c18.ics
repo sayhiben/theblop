@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:ff81638c-aaaf-4f36-a55f-e1a197c054f4
+SEQUENCE:0
+DTSTAMP:20250326T060407Z
+DTSTART:20250330T120000
+DTEND:20250330T140000
+SUMMARY:Mass Media March
+LOCATION:750 Park of Commerce Drive\, Boca Raton\, FL
+DESCRIPTION:Join us at the Mass Media March\, where we gather to make our 
+ voices heard against media organizations. We seek mass participation for i
+ mpactful visibility.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=750+Park+of+
+ Commerce+Drive%2C+Boca+Raton%2C+FL&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

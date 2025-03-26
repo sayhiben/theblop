@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:114c2d9a-72a1-41b5-8ca5-2c1c91662f91
+SEQUENCE:0
+DTSTAMP:20250326T060407Z
+DTSTART:20250329T110000
+DTEND:20250329T130000
+SUMMARY:Tesla Takedown
+LOCATION:5245 Ridge Ave\, Oakley\, OH
+DESCRIPTION:Join us for the Tesla Takedown movement with 500 protests plan
+ ned at Tesla stores worldwide. We aim to make an impact together.\n\nTesla
+  Oakley
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=5245+Ridge+A
+ ve%2C+Oakley%2C+OH&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

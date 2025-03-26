@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:94a68f35-d8a2-45a8-9afc-317ac2a904b6
+SEQUENCE:0
+DTSTAMP:20250326T060407Z
+DTSTART:20250329T120000
+DTEND:20250329T140000
+SUMMARY:Tesla Takedown
+LOCATION:6701 Amador Plaza Road\, Dublin\, CA
+DESCRIPTION:\n\nTesla Dublin
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=6701+Amador+
+ Plaza+Road%2C+Dublin%2C+CA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:ff0c1e4b-7d57-47f9-a212-8b4abe2cfc4c
+SEQUENCE:0
+DTSTAMP:20250326T060407Z
+DTSTART:20250405T120000
+DTEND:20250405T140000
+SUMMARY:Hands Off Our Democracy
+LOCATION:Daley Plaza\, Chicago\, IL
+DESCRIPTION:Join us for a peaceful protest at Daley Plaza to advocate for 
+ the removal of corruption\, reversal of certain executive orders\, and to 
+ reclaim our government for the people.\n\nDaley Plaza
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Daley+Plaza%
+ 2C+Chicago%2C+IL&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

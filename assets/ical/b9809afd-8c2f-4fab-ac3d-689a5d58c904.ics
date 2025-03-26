@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:f196a938-4150-440c-ba0d-28bfcf0127e3
+SEQUENCE:0
+DTSTAMP:20250326T060407Z
+DTSTART:20250329T150000
+DTEND:20250329T170000
+SUMMARY:Social Event
+LOCATION:4335 Wadsworth Blvd\, Wheat Ridge\, CO
+DESCRIPTION:Come and join us for a grassroots community event and bond wit
+ h fellow Coloradans. Create a protest sign and enjoy a pint or handcrafted
+  root beer. Families and dogs are welcome. The Rolling Chef food truck wil
+ l be available.\n\nBrewery Rickoli
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=4335+Wadswor
+ th+Blvd%2C+Wheat+Ridge%2C+CO&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

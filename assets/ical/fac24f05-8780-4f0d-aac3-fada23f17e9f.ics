@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:3c2bb164-8238-491c-838d-423f68e5e1dd
+SEQUENCE:0
+DTSTAMP:20250326T060407Z
+DTSTART:20250405T140000
+DTEND:20250405T160000
+SUMMARY:Hands Off Our Rights & Our Jobs
+LOCATION:Big Spring Park\, at the gazebo\, Huntsville\, AL
+DESCRIPTION:Join us for a rally and march to stand up for our rights and j
+ obs\, taking place at the gazebo in Big Spring Park\, Huntsville.\n\nBig S
+ pring Park\, at the gazebo
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Big+Spring+P
+ ark%2C+at+the+gazebo%2C+Huntsville%2C+AL&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

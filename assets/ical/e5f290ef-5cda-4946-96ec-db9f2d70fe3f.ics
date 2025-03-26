@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:c13f9c71-547e-47ee-91f2-930ae8aed335
+SEQUENCE:0
+DTSTAMP:20250326T060407Z
+DTSTART:20250405T110000
+DTEND:20250405T130000
+SUMMARY:National Day of Action to Protect
+LOCATION:Washington Park\, Cincinnati\, OH
+DESCRIPTION:Join us in a peaceful dissent against the Trump-Musk coup\, pr
+ otecting key social services and rights. We aim to rally support for Medic
+ aid\, Medicare\, Social Security\, and more.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Washington+P
+ ark%2C+Cincinnati%2C+OH&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

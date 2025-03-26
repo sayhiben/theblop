@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:c50e9419-8ec4-4b75-bdf6-c5a19afb5044
+SEQUENCE:0
+DTSTAMP:20250326T060407Z
+DTSTART:20250405T160000
+DTEND:20250405T180000
+SUMMARY:We are the People!
+LOCATION:305 Main Street\, Wakefield\, RI
+DESCRIPTION:We are organizing a protest march to express our dissent towar
+ ds Trump and Musk\, advocating for constitutional rights and government ac
+ countability. Join us to let your voices be heard.\n\nBike Path
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=305+Main+Str
+ eet%2C+Wakefield%2C+RI&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
