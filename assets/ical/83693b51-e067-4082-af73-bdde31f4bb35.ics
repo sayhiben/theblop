@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:632102fc-1455-4786-b741-621e168e1c0c
+SEQUENCE:0
+DTSTAMP:20250326T000605Z
+DTSTART:20250405T140000
+DTEND:20250405T160000
+SUMMARY:We Want a Town Hall
+LOCATION:Third & Market St\, Williamsport\, PA
+DESCRIPTION:Join us in Williamsport\, PA to demand a town hall meeting wit
+ h our representatives to remind them that they represent all of us\, not j
+ ust those who voted for them.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Third+%26+Ma
+ rket+St%2C+Williamsport%2C+PA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
