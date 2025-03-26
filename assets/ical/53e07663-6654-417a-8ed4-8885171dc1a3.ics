@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:d59d8c60-16fa-4f9d-aba8-975ac7aa3de9
+SEQUENCE:0
+DTSTAMP:20250326T031251Z
+DTSTART:20250329T130000
+DTEND:20250329T150000
+SUMMARY:Tesla/Musk Protest!!
+LOCATION:1927 W Dorothy Lane\, Moraine\, OH
+DESCRIPTION:Join us for a protest against Tesla/Elon Musk. Meet on the pub
+ lic sidewalk\, bring signs\, and use your voice.\n\nPublic sidewalk
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=1927+W+Dorot
+ hy+Lane%2C+Moraine%2C+OH&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:6b042198-b431-4be9-b208-4d68365546d8
+SEQUENCE:0
+DTSTAMP:20250326T031251Z
+DTSTART:20250406T110000
+DTEND:20250406T130000
+SUMMARY:Support Transgender Troops
+LOCATION:Marine Corps Base Camp Pendleton\, off San Rafael Dr\, Oceanside\
+ , CA
+DESCRIPTION:We are holding a peaceful demonstration to show support for tr
+ ansgender service members.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Marine+Corps
+ +Base+Camp+Pendleton%2C+off+San+Rafael+Dr%2C+Oceanside%2C+CA&zoom=15&basem
+ ap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:3dd837a1-7a84-4f23-b157-b2fe03a94a2d
+SEQUENCE:0
+DTSTAMP:20250326T031251Z
+DTSTART:20250405T110000
+DTEND:20250405T130000
+SUMMARY:Hands Off Coastal Virginia!
+LOCATION:113 Waterside Dr\, Norfolk\, VA
+DESCRIPTION:We are organizing a mass mobilization day on April 5th to say 
+ 'hands off' our freedoms and liberties. This event is a rally against the 
+ destruction of our government and economy for the benefit of certain billi
+ onaire allies. Our protest demands an end to the chaos and promotes nonvio
+ lent action to de-escalate conflict.\n\nTown Point Park and downtown Norfo
+ lk
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=113+Watersid
+ e+Dr%2C+Norfolk%2C+VA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

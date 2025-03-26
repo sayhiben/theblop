@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:5f08472d-b3a3-4fb1-9ff1-b15b8b956498
+SEQUENCE:0
+DTSTAMP:20250326T031251Z
+DTSTART:20250405T110000
+DTEND:20250405T130000
+SUMMARY:SpringFest 2025: Growing the Resistance
+LOCATION:5100 NE Hidden Creek Drive\, Hillsboro\, OR
+DESCRIPTION:We are hosting SpringFest 2025 to grow the resistance and late
+ r a rally to protest against Musk and Trump’s influence over Washington 
+ County.\n\nHillsboro Hidden Creek Community Center
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=5100+NE+Hidd
+ en+Creek+Drive%2C+Hillsboro%2C+OR&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
