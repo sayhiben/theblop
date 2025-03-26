@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:1657fe0e-c0fc-4277-a48a-582ac6c57a8f
+SEQUENCE:0
+DTSTAMP:20250326T150311Z
+DTSTART:20250405T100000
+DTEND:20250405T120000
+SUMMARY:Central Jersey Community Listening and Power Building Session
+LOCATION:19 S 2nd Ave\, Highland Park\, NJ
+DESCRIPTION:Come together to grow our power through increased voter partic
+ ipation and civic engagement. Connect with local and state organizations w
+ ho are dedicated to building a new era of democracy in NJ. Develop message
+ s to share with decision-makers about the issues that matter to our commun
+ ities. Light refreshments will be served.\n\nReformed Church of Highland P
+ ark
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=19+S+2nd+Ave
+ %2C+Highland+Park%2C+NJ&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:1a7f5226-8f1a-4f7e-932f-dc6045c64992
+SEQUENCE:0
+DTSTAMP:20250326T150310Z
+DTSTART:20250329T100000
+DTEND:20250329T120000
+SUMMARY:North Jersey Community Listening and Power Building Session
+LOCATION:275 W Market St\, Fellowship Hall\, Newark\, NJ
+DESCRIPTION:Join us to enhance our power through increased voter participa
+ tion and civic engagement\, involving collaboration with local and state o
+ rganizations to promote democracy. Develop messages to communicate communi
+ ty concerns to decision-makers. Light refreshments will be provided.\n\nBe
+ thany Baptist Church
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=275+W+Market
+ +St%2C+Fellowship+Hall%2C+Newark%2C+NJ&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:f7788391-651e-4370-a1df-d38ecc12bff1
+SEQUENCE:0
+DTSTAMP:20250326T150311Z
+DTSTART:20250405T133000
+DTEND:20250405T153000
+SUMMARY:Hands Off! Mass Mobilization
+LOCATION:Lincoln Park\, Downtown\, Waterloo\, IA
+DESCRIPTION:Rally and march to stop Trump and Musk's illegal billionaire p
+ ower grab.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Lincoln+Park
+ %2C+Downtown%2C+Waterloo%2C+IA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
