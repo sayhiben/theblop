@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:cacfb888-081c-4b6d-8f00-84f7763700b9
+SEQUENCE:0
+DTSTAMP:20250327T060318Z
+DTSTART:20250402T170000
+DTEND:20250402T190000
+SUMMARY:Elbows Up For Canada
+LOCATION:Shoreline Trail Bridge (just south of the Peace Bridge)\, Buffalo
+ \, NY 14213
+DESCRIPTION:Rally in solidarity with Canadian neighbors to oppose tariffs\
+ , prevent annexation threats\, and show support for Canada. Encourages pea
+ ceful protest and strong proclamation.\n\nMather Park (between the arch an
+ d the Peace Bridge\, near the water)\, Fort Erie\, ON L2A 1B1
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Shoreline+Tr
+ ail+Bridge+%28just+south+of+the+Peace+Bridge%29%2C+Buffalo%2C+NY+14213&zoo
+ m=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:615cf6b8-d4bb-4ac6-859c-13eb411d0fdb
+SEQUENCE:0
+DTSTAMP:20250327T060318Z
+DTSTART:20250327T153000
+DTEND:20250327T173000
+SUMMARY:Rally to Resign
+LOCATION:Daley Plaza\, Chicago\, IL
+DESCRIPTION:Join Illinois leaders in a rally to demand the resignation of 
+ Pete Hegseth for disclosing classified information and endangering lives. 
+ The event is co-hosted by IL Veterans for Change and others.\n\nDaley Plaz
+ a
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Daley+Plaza%
+ 2C+Chicago%2C+IL&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

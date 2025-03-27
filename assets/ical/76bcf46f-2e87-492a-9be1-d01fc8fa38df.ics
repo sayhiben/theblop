@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:a1d94b51-2c42-4b1a-84e6-8738ee575428
+SEQUENCE:0
+DTSTAMP:20250327T060318Z
+DTSTART:20250329T120000
+DTEND:20250329T140000
+SUMMARY:Walk Your Voice
+LOCATION:Midway Avenue Sidewalks\, Grand Coulee\, WA
+DESCRIPTION:We are organizing a nonviolent walk to advocate for veterans' 
+ rights\, healthcare\, Social Security\, and public services. Join us as we
+  express our concerns and exercise our constitutional rights.\n\nMidway Av
+ enue Sidewalks
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Midway+Avenu
+ e+Sidewalks%2C+Grand+Coulee%2C+WA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:575752a5-d786-452c-86fa-99d99eca32b8
+SEQUENCE:0
+DTSTAMP:20250327T060319Z
+DTSTART:20250405T120000
+DTEND:20250405T140000
+SUMMARY:Hands Off!
+LOCATION:\, \, IN
+DESCRIPTION:Indivisible North East Indiana is organizing a mass mobilizati
+ on event to gather people and raise awareness about their cause.\n\nAllen 
+ County Courthouse
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+%2C+IN&z
+ oom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
