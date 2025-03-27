@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:84b652de-cf0e-4e06-8df3-8618ba03c8ff
+SEQUENCE:0
+DTSTAMP:20250327T031350Z
+DTSTART:20250405T120000
+DTEND:20250405T140000
+SUMMARY:Hands Off! Billings Fights Back
+LOCATION:217 N 27th St\, Billings\, MT
+DESCRIPTION:Donald Trump and Elon Musk think this country belongs to them.
+  We are fighting back! They're taking everything they can get their hands 
+ on—our health care\, our data\, our jobs\, our services—and daring the
+  world to stop them. This is a crisis.\n\nYellowstone County Courthouse
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=217+N+27th+S
+ t%2C+Billings%2C+MT&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

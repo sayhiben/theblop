@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:5e8ee990-0fe4-472b-8b3f-aff7c7c95f17
+SEQUENCE:0
+DTSTAMP:20250327T031349Z
+DTSTART:20250328T093000
+DTEND:20250328T113000
+SUMMARY:All Out for Mahmoud Khalil
+LOCATION:50 Walnut St #4015\, Newark\, NJ
+DESCRIPTION:We are organizing a rally at the NJ Federal Court in support o
+ f Mahmoud Khalil. Join us in Newark\, NJ\, to show our solidarity.\n\nNJ F
+ ederal Court
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=50+Walnut+St
+ +%234015%2C+Newark%2C+NJ&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:1d5e7376-2ffa-4b03-a0d1-78fab2b09bae
+SEQUENCE:0
+DTSTAMP:20250327T031349Z
+DTSTART:20250329T120000
+DTEND:20250329T140000
+SUMMARY:Tesla Takeover
+LOCATION:4851 S 1500 W\, Riverdale\, UT
+DESCRIPTION:Join us for a peaceful Tesla Takeover at Riverdale\, Utah. Ple
+ ase ensure no violence or vandalism. Spread the word on Instagram.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=4851+S+1500+
+ W%2C+Riverdale%2C+UT&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
