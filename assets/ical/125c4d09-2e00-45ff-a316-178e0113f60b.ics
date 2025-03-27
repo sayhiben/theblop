@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:7b5bd6e5-f8ec-4763-8139-4371ddcc0868
+SEQUENCE:0
+DTSTAMP:20250327T000547Z
+DTSTART:20250418T160000
+DTEND:20250418T180000
+SUMMARY:Voices for Change: Community Town Hall
+LOCATION:220 N 300 E\, Washington\, UT 84780
+DESCRIPTION:We are hosting a community town hall to foster dialogue and ch
+ ange. Invited guests include notable Senators and Representatives.\n\nWash
+ ington City Library
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=220+N+300+E%
+ 2C+Washington%2C+UT+84780&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

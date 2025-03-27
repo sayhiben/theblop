@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:deff80bf-3d33-4933-bc58-cbd1baa68cf6
+SEQUENCE:0
+DTSTAMP:20250327T000547Z
+DTSTART:20250329T110000
+DTEND:20250329T130000
+SUMMARY:Sign-Waving Event
+LOCATION:3286 Airway Drive\, Santa Rosa\, CA
+DESCRIPTION:We invite you to a sign-waving event to protest Musk and Tesla
+  by showing accountability for Musk's political actions. Please bring sign
+ s\, stay on the sidewalk\, and don’t engage counter-protests. Our intent
+ ion is not to harm businesses economically.\n\nOn the sidewalk outside the
+  Tesla showroom
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=3286+Airway+
+ Drive%2C+Santa+Rosa%2C+CA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

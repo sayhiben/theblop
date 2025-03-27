@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:156837a5-e20f-462a-aa41-0927747a47ae
+SEQUENCE:0
+DTSTAMP:20250327T000547Z
+DTSTART:20250405T120000
+DTEND:20250405T140000
+SUMMARY:Hands Off
+LOCATION:Corner of Biden & Washington\, Scranton\, PA
+DESCRIPTION:We are organizing a peaceful protest to remove corrupt politic
+ ians from office\, reverse the damage\, and reclaim our democracy.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Corner+of+Bi
+ den+%26+Washington%2C+Scranton%2C+PA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
