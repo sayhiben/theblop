@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:423e8a15-b7c6-4e2d-b581-11425c182dd0
+SEQUENCE:0
+DTSTAMP:20250327T120400Z
+DTSTART:20250405T000000
+DTEND:20250405T020000
+SUMMARY:Join Us in Los Angeles
+LOCATION:\, Los Angeles\, CA
+DESCRIPTION:We invite you to join us and all of Southern California in Los
+  Angeles to defend democracy. Accessible transportation is available from 
+ San Diego County.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+Los+Ange
+ les%2C+CA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:bff6284d-a7f0-4bc2-822e-d9cda977fc10
+SEQUENCE:0
+DTSTAMP:20250327T120359Z
+DTSTART:20250327T183000
+DTEND:20250327T203000
+SUMMARY:Rally to Stop Brad Schimel with Officer Harry Dunn
+LOCATION:1225 Robruck Dr\, Oconomowoc\, WI
+DESCRIPTION:Join us at a rally organized by the Working Families Power wit
+ h Officer Harry Dunn to oppose Brad Schimel's policies. The event highligh
+ ts community disapproval of Schimel's agenda and campaign contributions.\n
+ \nSteel Tank Brewery
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=1225+Robruck
+ +Dr%2C+Oconomowoc%2C+WI&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

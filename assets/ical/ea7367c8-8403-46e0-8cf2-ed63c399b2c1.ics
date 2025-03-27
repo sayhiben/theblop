@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:2ce1adce-cfbf-4a4a-9c3f-a3cfc27232a6
+SEQUENCE:0
+DTSTAMP:20250327T120359Z
+DTSTART:20250329T100000
+DTEND:20250329T120000
+SUMMARY:Patriots Against Elon Musk
+LOCATION:306 N Wright St\, Caldwell\, TX
+DESCRIPTION:We're organizing a protest against billionaire influence\, spe
+ cifically targeting Elon Musk. Join us to stand for democracy at a Tesla C
+ harging Station.\n\nIn the parking lot of Whataburger off of Hwy 21
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=306+N+Wright
+ +St%2C+Caldwell%2C+TX&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

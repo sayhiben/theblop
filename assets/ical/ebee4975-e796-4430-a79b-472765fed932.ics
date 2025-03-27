@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:75887d6b-9018-46cf-b780-ae0ff544f099
+SEQUENCE:0
+DTSTAMP:20250327T120359Z
+DTSTART:20250328T180000
+DTEND:20250328T200000
+SUMMARY:Power to the People! Black Coalition Community Vote Event w/ Mande
+ la Barnes
+LOCATION:1835 N Doctor M.L.K. Jr Dr\, Milwaukee\, WI
+DESCRIPTION:Join us for a community event hosted by WisDems featuring Mand
+ ela Barnes. Engage in discussions and activities centered around voter eng
+ agement and empowerment.\n\nMi Casa Su Cafe
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=1835+N+Docto
+ r+M.L.K.+Jr+Dr%2C+Milwaukee%2C+WI&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

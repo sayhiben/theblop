@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:b008742b-170c-4c3f-a0b5-3fcced3a3ad4
+SEQUENCE:0
+DTSTAMP:20250327T120400Z
+DTSTART:20250405T120000
+DTEND:20250405T140000
+SUMMARY:National Day of Action - Veto Project 2025
+LOCATION:Ohio Statehouse\, 1 Capitol Sq.\, Columbus\, OH
+DESCRIPTION:Join us for a nationwide protest occurring in all 50 states\, 
+ focusing on upholding the constitution\, ending executive overreach\, and 
+ advocating for liberty and justice for all. The event will feature guest s
+ peakers and will happen rain or shine.\n\nIn front of McKinley Memorial
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Ohio+Stateho
+ use%2C+1+Capitol+Sq.%2C+Columbus%2C+OH&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

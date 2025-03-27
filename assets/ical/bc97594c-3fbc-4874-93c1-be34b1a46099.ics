@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:b7ff3545-2b94-4449-91a6-2ffa8a00e360
+SEQUENCE:0
+DTSTAMP:20250327T120359Z
+DTSTART:20250329T133000
+DTEND:20250329T153000
+SUMMARY:Rally to Stop Brad Schimel
+LOCATION:3311 Cth H\, Franksville\, WI
+DESCRIPTION:Join us to protest against Brad Schimel's policies and his sup
+ port from billionaire Elon Musk. We aim to oppose the sale of Wisconsin an
+ d cutbacks on MEDICAID.\n\nTavern on H
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=3311+Cth+H%2
+ C+Franksville%2C+WI&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

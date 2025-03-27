@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:71b34916-2225-4630-9264-efd6c56e016d
+SEQUENCE:0
+DTSTAMP:20250327T120359Z
+DTSTART:20250328T100000
+DTEND:20250328T120000
+SUMMARY:Protest at St Joseph School
+LOCATION:110 E. Stephen St\, Martinsburg\, WV
+DESCRIPTION:We invite participants to join a protest against RFK and Gover
+ nor Morrisey's visit to St Joseph School\, encouraging everyone to bring s
+ igns and express their views.\n\nSt Joseph School
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=110+E.+Steph
+ en+St%2C+Martinsburg%2C+WV&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

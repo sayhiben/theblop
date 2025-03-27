@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:a063d1ff-c5ab-41e0-bbc6-3b6f274ec42a
+SEQUENCE:0
+DTSTAMP:20250327T120359Z
+DTSTART:20250327T173000
+DTEND:20250327T193000
+SUMMARY:Mass Action
+LOCATION:1623 E J St\, Tacoma\, WA
+DESCRIPTION:We invite labor leaders\, union members\, and the community to
+  join a mass action in defense of detained immigrant union members.\n\nNW 
+ Detention Center
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=1623+E+J+St%
+ 2C+Tacoma%2C+WA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

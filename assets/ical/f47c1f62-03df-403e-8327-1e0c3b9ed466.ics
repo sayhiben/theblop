@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:6952c8da-6616-4e12-b937-29a2972ac569
+SEQUENCE:0
+DTSTAMP:20250327T120359Z
+DTSTART:20250328T154500
+DTEND:20250328T174500
+SUMMARY:Rally for Reproductive Freedom with Judge Susan Crawford
+LOCATION:625 57th St\, Kenosha\, WI
+DESCRIPTION:Join Judge Susan Crawford in Kenosha\, WI\, for a rally advoca
+ ting reproductive rights\, hosted by Working Families Power.\n\nThe Vault
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=625+57th+St%
+ 2C+Kenosha%2C+WI&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

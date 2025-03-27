@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:c5ea893a-b12d-4df2-a5fe-30d5ea120826
+SEQUENCE:0
+DTSTAMP:20250327T120359Z
+DTSTART:20250331T113000
+DTEND:20250331T133000
+SUMMARY:Trans Day of Visibility
+LOCATION:201 S. Vine Street\, Urbana\, IL
+DESCRIPTION:Join us for a protest/rally as part of the Trans Day of Visibi
+ lity. We encourage everyone to bring posters\, signs\, and a desire for eq
+ uality.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=201+S.+Vine+
+ Street%2C+Urbana%2C+IL&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

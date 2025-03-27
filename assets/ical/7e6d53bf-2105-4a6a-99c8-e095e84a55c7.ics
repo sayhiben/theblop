@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:8b82f10b-ab66-412c-b9ed-ec6b060a8c5d
+SEQUENCE:0
+DTSTAMP:20250327T120400Z
+DTSTART:20250405T130000
+DTEND:20250405T150000
+SUMMARY:Nationwide Day of Action
+LOCATION:\, New York\, NY
+DESCRIPTION:Join us in a rally and march to protect our jobs\, Medicaid\, 
+ unions\, social security\, healthcare\, climate\, and communities from bil
+ lionaires' influence. Meeting point at Bryant Park and marching to Madison
+  Square Park.\n\nBryant Park
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+New+York
+ %2C+NY&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

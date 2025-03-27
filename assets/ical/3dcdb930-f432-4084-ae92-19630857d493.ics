@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:59936e7a-5172-4289-9b31-a44ec5611a09
+SEQUENCE:0
+DTSTAMP:20250327T120359Z
+DTSTART:20250329T133000
+DTEND:20250329T153000
+SUMMARY:Stand with Immigrants
+LOCATION:1717 Pacific Ave\, Tacoma\, WA
+DESCRIPTION:Join us to defend humanity and reject the Alien Enemies Act. T
+ his event protests against the powers granted under the Act to deport peop
+ le without due process. Immigrants are not our enemy.\n\nUnion Station
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=1717+Pacific
+ +Ave%2C+Tacoma%2C+WA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

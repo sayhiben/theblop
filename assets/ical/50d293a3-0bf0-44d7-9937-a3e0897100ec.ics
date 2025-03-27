@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:55cb0d06-e3ee-4a5d-828a-4490d893b66e
+SEQUENCE:0
+DTSTAMP:20250327T120359Z
+DTSTART:20250331T180000
+DTEND:20250331T200000
+SUMMARY:Veterans Town Hall
+LOCATION:4650 Jimmy Carter Blvd\, Norcross\, GA
+DESCRIPTION:We're hosting an event to provide a platform for veterans to b
+ e heard\, featuring expert speakers and an open floor for discussions.\n\n
+ Atlanta Comedy Theater
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=4650+Jimmy+C
+ arter+Blvd%2C+Norcross%2C+GA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

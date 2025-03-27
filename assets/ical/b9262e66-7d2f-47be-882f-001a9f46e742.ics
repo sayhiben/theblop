@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:070dcef6-18ea-4a68-b786-cb6868db96c9
+SEQUENCE:0
+DTSTAMP:20250327T120400Z
+DTSTART:20250418T160000
+DTEND:20250418T180000
+SUMMARY:Voices for Change: Community Town Hall
+LOCATION:220 N 300 E\, Washington\, UT
+DESCRIPTION:Join TogetherWorks Southern Utah for a community town hall whe
+ re dialogue will shape the future\, featuring invited Senators and Represe
+ ntatives.\n\nWashington City Library
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=220+N+300+E%
+ 2C+Washington%2C+UT&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

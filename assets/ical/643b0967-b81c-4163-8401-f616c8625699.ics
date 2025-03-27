@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:d6571782-0fb4-464a-94c9-f063a1d95b20
+SEQUENCE:0
+DTSTAMP:20250327T120359Z
+DTSTART:20250329T113000
+DTEND:20250329T133000
+SUMMARY:Rally to Stop Brad Schimel
+LOCATION:8025 128th Ave\, Bristol\, WI
+DESCRIPTION:We're organizing a rally to oppose Brad Schimel and highlight 
+ concerns about external influences on Wisconsin's political landscape.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=8025+128th+A
+ ve%2C+Bristol%2C+WI&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

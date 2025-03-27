@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:35837d84-bc90-409e-a5d1-6a1312e458fd
+SEQUENCE:0
+DTSTAMP:20250327T120400Z
+DTSTART:20250405T100000
+DTEND:20250405T120000
+SUMMARY:Kansas City Protest: Hands Off!
+LOCATION:4601 N Main\, Kansas City\, MO. 64112
+DESCRIPTION:We're educating people and taking to the streets to fight back
+  with a clear message to oppose the perceived takeover by Donald Trump and
+  Elon Musk. This is a crisis\, and the time to act is now by rallying and 
+ protesting to demand a stop to the chaos and build an opposition.\n\nCommu
+ nity Christian Church. Across from Plaza Fountain
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=4601+N+Main%
+ 2C+Kansas+City%2C+MO.+64112&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

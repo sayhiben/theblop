@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:93757107-3d37-44a9-a757-a2b2bddac5cf
+SEQUENCE:0
+DTSTAMP:20250327T120400Z
+DTSTART:20250405T000000
+DTEND:20250405T020000
+SUMMARY:Wisconsin Protests
+LOCATION:\, Multiple cities\, WI
+DESCRIPTION:Protests are taking place across multiple cities in Wisconsin 
+ on April 5th\, 2025.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+Multiple
+ +cities%2C+WI&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

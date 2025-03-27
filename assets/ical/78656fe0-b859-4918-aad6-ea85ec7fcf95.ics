@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:63ef8585-74c6-4ed5-a080-c99a4f2ca176
+SEQUENCE:0
+DTSTAMP:20250327T120359Z
+DTSTART:20250330T143000
+DTEND:20250330T163000
+SUMMARY:Pop-Up Event @ Schimel Rally
+LOCATION:990 Tony Canadeo Run\, Green Bay\, WI
+DESCRIPTION:Join us to express our opinions and feelings at the rally.\n\n
+ Sidewalk of Badger State Brewery
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=990+Tony+Can
+ adeo+Run%2C+Green+Bay%2C+WI&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

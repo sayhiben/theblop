@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:48897b4b-3a36-41ec-9c8f-65d354df1c8d
+SEQUENCE:0
+DTSTAMP:20250327T120359Z
+DTSTART:20250327T000000
+DTEND:20250327T020000
+SUMMARY:Sanctuary for All Benefit Concert
+LOCATION:2009 Larimer St\, Denver\, CO
+DESCRIPTION:We are hosting a benefit concert featuring performances by Los
+  Mocochetes\, LatinSoul\, Time (calm.)\, and Stay Tuned. All proceeds will
+  support Sanctuary For All\, aiding immigrant communities of Colorado thro
+ ugh mutual aid.\n\nMarquis
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=2009+Larimer
+ +St%2C+Denver%2C+CO&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
