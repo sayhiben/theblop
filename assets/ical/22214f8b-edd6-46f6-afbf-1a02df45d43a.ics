@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:927872ab-613c-41e8-b984-b3017f84a297
+SEQUENCE:0
+DTSTAMP:20250327T180408Z
+DTSTART:20250405T123000
+DTEND:20250405T143000
+SUMMARY:Remove\, Reverse\, Reclaim
+LOCATION:Manette Bridge\, Bremerton\, WA
+DESCRIPTION:We are organizing a visibility event to engage the community. 
+ Hosted by volunteers and open to participants\, aimed at promoting awarene
+ ss and unity.\n\nManette Bridge
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Manette+Brid
+ ge%2C+Bremerton%2C+WA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:66dd4589-1b0a-46ed-851f-de490b13df4d
+SEQUENCE:0
+DTSTAMP:20250327T180408Z
+DTSTART:20250329T140000
+DTEND:20250329T160000
+SUMMARY:Duluth Town Hall
+LOCATION:301 N. 40th Ave E.\, Duluth\, MN
+DESCRIPTION:Join us at the Duluth Town Hall to discuss how federal policie
+ s impact you and your community. Share your story\, ask questions\, and ge
+ t involved with Rep. Pete Stauber and local elected officials.\n\nEast Hig
+ h School Auditorium
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=301+N.+40th+
+ Ave+E.%2C+Duluth%2C+MN&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

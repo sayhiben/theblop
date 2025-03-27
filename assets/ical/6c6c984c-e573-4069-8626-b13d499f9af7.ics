@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:33b48604-c977-47eb-8197-d38f7b480ee6
+SEQUENCE:0
+DTSTAMP:20250327T180408Z
+DTSTART:20250405T120000
+DTEND:20250405T140000
+SUMMARY:Hands Off! Protest
+LOCATION:Cougar Plaza\, Grand Ave\, Pullman\, WA
+DESCRIPTION:Join us for a 'Hands Off!' protest as part of the national day
+  of action. Our protest will focus on collective advocacy and solidarity. 
+ Organized by Indivisible Palouse in collaboration with Robyn Roche-Paull a
+ nd 50501 Movement Washington State.\n\nCougar Plaza
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Cougar+Plaza
+ %2C+Grand+Ave%2C+Pullman%2C+WA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:69d2396a-1b8e-45ed-83b3-96113be436f1
+SEQUENCE:0
+DTSTAMP:20250327T180408Z
+DTSTART:20250401T154500
+DTEND:20250401T174500
+SUMMARY:Protest Tuesday
+LOCATION:815 George Washington Way\, Richland\, WA
+DESCRIPTION:Join the Tri-City Democrats for a public event at John Dam Pla
+ za to voice your concerns and show support for community issues.\n\nJohn D
+ am Plaza
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=815+George+W
+ ashington+Way%2C+Richland%2C+WA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

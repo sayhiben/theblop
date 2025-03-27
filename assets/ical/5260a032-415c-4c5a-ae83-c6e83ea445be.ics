@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:8c5a37d4-1dd3-474a-b399-c9a7fa737562
+SEQUENCE:0
+DTSTAMP:20250327T180408Z
+DTSTART:20250329T120000
+DTEND:20250329T140000
+SUMMARY:Rally for Science and the Environment
+LOCATION:Esther Short Park\, Vancouver\, WA
+DESCRIPTION:Join us for a day of engaging activities including speakers\, 
+ kids activities\, music\, community building\, and petition signing to sup
+ port science and the environment.\n\nEsther Short Park
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Esther+Short
+ +Park%2C+Vancouver%2C+WA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

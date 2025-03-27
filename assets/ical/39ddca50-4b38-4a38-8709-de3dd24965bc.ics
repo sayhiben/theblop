@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:3cc0be72-117c-47e6-bb5a-47beea17d671
+SEQUENCE:0
+DTSTAMP:20250327T180408Z
+DTSTART:20250405T110000
+DTEND:20250405T130000
+SUMMARY:Hands Off! Bothell Fights Back!
+LOCATION:Intersection of 522 and Bothell Way NE
+DESCRIPTION:Join us to stand against social and educational cuts in Bothel
+ l. This public event is organized to oppose reductions in Medicare\, libra
+ ries\, schools\, and student resources. Hosted by Liz Sexauer Fallin and 5
+ 0501 Movement\, come together to make your voice heard.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Intersection
+ +of+522+and+Bothell+Way+NE&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

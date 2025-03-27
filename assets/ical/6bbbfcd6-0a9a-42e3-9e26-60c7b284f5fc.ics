@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:13bcc439-efd2-49c3-9efd-b6aceda13b4b
+SEQUENCE:0
+DTSTAMP:20250327T180407Z
+DTSTART:20250327T173000
+DTEND:20250327T193000
+SUMMARY:Fight Back Against the Targeting of Immigrant Union Members
+LOCATION:1623 E J St\, Tacoma\, WA
+DESCRIPTION:Join us for a rally to fight against the targeting of immigran
+ t union members. We aim to stand in solidarity and advocate for the rights
+  of immigrants in the union.\n\nTacoma NW Detention Center
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=1623+E+J+St%
+ 2C+Tacoma%2C+WA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

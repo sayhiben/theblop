@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:b2cebb7f-4708-41bb-80f8-b11c057cd869
+SEQUENCE:0
+DTSTAMP:20250327T180408Z
+DTSTART:20250405T120000
+DTEND:20250405T140000
+SUMMARY:Remove Reverse Reclaim
+LOCATION:Commercial Ave\, Anacortes\, WA
+DESCRIPTION:We will meet along the street at Safeway for a peaceful protes
+ t to have our voices heard while respecting the community. The event aims 
+ to remove corrupt politicians from office\, fix damage\, and reclaim democ
+ racy.\n\nStreet at Safeway
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Commercial+A
+ ve%2C+Anacortes%2C+WA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

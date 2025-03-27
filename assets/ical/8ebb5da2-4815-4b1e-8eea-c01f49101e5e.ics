@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:160c8fac-a729-4f19-aace-0bcde6373125
+SEQUENCE:0
+DTSTAMP:20250327T180408Z
+DTSTART:20250405T120000
+DTEND:20250405T140000
+SUMMARY:HANDS OFF!
+LOCATION:Bellingham City Hall\, 210 Lottie\, Bellingham\, WA
+DESCRIPTION:Join us for a mass mobilization rally to stop the Trump/Musk p
+ ower grab. We aim to protect various democratic and social rights.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Bellingham+C
+ ity+Hall%2C+210+Lottie%2C+Bellingham%2C+WA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:3fd58505-2047-4268-8352-611371923699
+SEQUENCE:0
+DTSTAMP:20250327T180408Z
+DTSTART:20250402T160000
+DTEND:20250402T180000
+SUMMARY:Musk or Us Protest
+LOCATION:22630 NE Marketplace Dr\, Redmond\, WA
+DESCRIPTION:Join us for the 'Musk or Us' protest\, a visibility event orga
+ nized by Indivisible aimed at raising awareness and advocating for change.
+  This protest is scheduled to occur every Wednesday to gather support and 
+ make an impact. Be part of a community striving for better futures.\n\nInt
+ ersection of Novelty Hill and Redmond Ridge Dr.
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=22630+NE+Mar
+ ketplace+Dr%2C+Redmond%2C+WA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

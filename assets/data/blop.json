@@ -905,6 +905,75 @@
     "raw_summary": "The image advertises a benefit concert titled \"Sanctuary for All,\" scheduled for March 27, 2025, at 2009 Larimer St, Denver. Performers include Los Mocochetes, LatinSoul, Time (calm.), and Stay Tuned. Proceeds support immigrant communities."
   },
   {
+    "id": "4ce40b5a-2d78-4e1a-9801-68c141717f8f",
+    "title": "Overpass Bannering",
+    "date": "Thursday, March 27, 2025",
+    "time": "3:45 PM",
+    "description": "Join the 350Tacoma freeway bannering team at the I-5 overpass in Fife to raise awareness with banners. Meet at Poodle Dog Restaurant or join on the overpass.",
+    "city": "Fife",
+    "state": "WA",
+    "address": "I-5 overpass at 54th Ave.",
+    "meeting_location": "Poodle Dog Restaurant",
+    "links": [
+      "http://www.350tacoma.org"
+    ],
+    "sponsors": [
+      "350Tacoma"
+    ],
+    "image_url": "https://theblop.org/assets/images/4ce40b5a-2d78-4e1a-9801-68c141717f8f.png",
+    "thumbnail_url": "https://theblop.org/assets/images/4ce40b5a-2d78-4e1a-9801-68c141717f8f-thumb.jpg",
+    "canonical_id": "",
+    "permalink": "https://theblop.org/events/4ce40b5a-2d78-4e1a-9801-68c141717f8f.html",
+    "ical": "https://theblop.org/assets/ical/4ce40b5a-2d78-4e1a-9801-68c141717f8f.ics",
+    "raw_text": "Overpass Bannering\nIMMIGRANTS MAKE AMERICA GREAT\nTHURSDAYS 3:45-5:00PM\nSATURDAYS 12:45-2:00PM\nI-5 overpass in Fife at 54th Ave.\nMeet at Poodle Dog Restaurant or join us up on the overpass.\nJoin the 350Tacoma freeway bannering team\nshow up or rsvp through http://www.350tacoma.org",
+    "raw_summary": "The image describes an event called \"Overpass Bannering,\" which occurs on Thursdays and Saturdays. Activities happen at the I-5 overpass in Fife at 54th Ave. There's a call to meet at Poodle Dog Restaurant or join on the overpass. Participants are encouraged to RSVP at a provided link."
+  },
+  {
+    "id": "93ea0fc6-bebd-4d2c-8778-1747f2045a5b",
+    "title": "Rally to Resign",
+    "date": "Thursday, March 27, 2025",
+    "time": "3:30 PM",
+    "description": "We are joining Rep. Krishnamoorthi and Illinois leaders to demand Pete Hegseth's resignation for disclosing classified information and endangering lives. The event serves as a call to action for transparency and accountability.",
+    "city": "Chicago",
+    "state": "IL",
+    "address": "Daley Center Plaza",
+    "meeting_location": "Daley Plaza",
+    "links": [],
+    "sponsors": [
+      "Indivisible Chicago",
+      " IL Veterans for Change"
+    ],
+    "image_url": "https://theblop.org/assets/images/93ea0fc6-bebd-4d2c-8778-1747f2045a5b.png",
+    "thumbnail_url": "https://theblop.org/assets/images/93ea0fc6-bebd-4d2c-8778-1747f2045a5b-thumb.jpg",
+    "canonical_id": "",
+    "permalink": "https://theblop.org/events/93ea0fc6-bebd-4d2c-8778-1747f2045a5b.html",
+    "ical": "https://theblop.org/assets/ical/93ea0fc6-bebd-4d2c-8778-1747f2045a5b.ics",
+    "raw_text": "indivisiblechicago\nDaley Center Plaza\nRALLY TO RESIGN\nJoin Rep. Krishnamoorthi & IL leaders to demand Pete Hegseth RESIGN for disclosing classified information & endangering lives\nTHURSDAY MARCH 27\n3:30 @ DALEY PLAZA\nCO-HOSTED BY IL VETERANS FOR CHANGE + MORE",
+    "raw_summary": "The image is for a rally called 'Rally to Resign' organized by Indivisible Chicago to call for Pete Hegseth's resignation. It is scheduled for Thursday, March 27 at 3:30 PM at Daley Center Plaza and co-hosted by IL Veterans for Change."
+  },
+  {
+    "id": "6bbbfcd6-0a9a-42e3-9e26-60c7b284f5fc",
+    "title": "Fight Back Against the Targeting of Immigrant Union Members",
+    "date": "Thursday, March 27, 2025",
+    "time": "5:30 PM",
+    "description": "Join us for a rally to fight against the targeting of immigrant union members. We aim to stand in solidarity and advocate for the rights of immigrants in the union.",
+    "city": "Tacoma",
+    "state": "WA",
+    "address": "1623 E J St",
+    "meeting_location": "Tacoma NW Detention Center",
+    "links": [],
+    "sponsors": [
+      "MLK Labor"
+    ],
+    "image_url": "https://theblop.org/assets/images/6bbbfcd6-0a9a-42e3-9e26-60c7b284f5fc.png",
+    "thumbnail_url": "https://theblop.org/assets/images/6bbbfcd6-0a9a-42e3-9e26-60c7b284f5fc-thumb.jpg",
+    "canonical_id": "",
+    "permalink": "https://theblop.org/events/6bbbfcd6-0a9a-42e3-9e26-60c7b284f5fc.html",
+    "ical": "https://theblop.org/assets/ical/6bbbfcd6-0a9a-42e3-9e26-60c7b284f5fc.ics",
+    "raw_text": "mlklabor\nFIGHT BACK AGAINST THE TARGETING OF IMMIGRANT UNION MEMBERS\nRally at the Tacoma NW Detention Center\nThursday, March 27 at 5:30 PM\n(1623 E J St, Tacoma, WA 98421)\nMLK LABOR",
+    "raw_summary": "An event called 'Fight Back Against the Targeting of Immigrant Union Members' is taking place at the Tacoma NW Detention Center on Thursday, March 27 at 5:30 PM."
+  },
+  {
     "id": "7718bae1-6dc7-466e-ac66-567cc1a9429b",
     "title": "The Mockingjay Movement Protest",
     "date": "Friday, March 28, 2025",
@@ -1563,6 +1632,50 @@
     "ical": "https://theblop.org/assets/ical/46d1ea80-013b-428d-bfb5-2fee16938317.ics",
     "raw_text": "ATTENTION MARTINSBURG\nRFK AND GOVERNOR MORRISEY WILL BE AT ST JOSEPH SCHOOL FRIDAY MARCH 28 AT 10 AM\n110 E. STEPHEN ST, MARTINSBURG, WV\nBRING SIGNS TO LET THEM KNOW WHAT'S ON YOUR MIND!\nPROTEST!\nu/BeekindBeeyou\nThis Friday in Martinsburg Gov. Morrisey and RFKjr will need a \"welcoming party\" bring a sign! Governor Patrick Morrisey and HHS Secretary Robert Ken... (text cut off)",
     "raw_summary": "A protest event is planned at St Joseph School, Martinsburg, WV, on March 28 at 10 AM, featuring RFK and Governor Morrisey. Participants are encouraged to bring signs."
+  },
+  {
+    "id": "800cb987-e0d9-49a4-ba68-7afcf8a836e6",
+    "title": "Town Halls This Week",
+    "date": "Friday, March 28, 2025",
+    "time": "5:00 PM",
+    "description": "We are hosting town hall meetings with Congresswoman Emily Randall in Washington's 6th district to engage with the community.",
+    "city": "Port Townsend, Shelton",
+    "state": "WA",
+    "address": "",
+    "meeting_location": "",
+    "links": [
+      "randall.house.gov/events"
+    ],
+    "sponsors": [
+      "Emily Randall"
+    ],
+    "image_url": "https://theblop.org/assets/images/800cb987-e0d9-49a4-ba68-7afcf8a836e6.png",
+    "thumbnail_url": "https://theblop.org/assets/images/800cb987-e0d9-49a4-ba68-7afcf8a836e6-thumb.jpg",
+    "canonical_id": "",
+    "permalink": "https://theblop.org/events/800cb987-e0d9-49a4-ba68-7afcf8a836e6.html",
+    "ical": "https://theblop.org/assets/ical/800cb987-e0d9-49a4-ba68-7afcf8a836e6.ics",
+    "raw_text": "Emily Randall\nCONGRESSWOMAN | WASHINGTON 6TH\nTOWN HALLS THIS WEEK\n\nFRIDAY\n3.28\nLocation: Port Townsend\nTime: 5:00PM\n(Doors open @ 4:30PM)\n\nSATURDAY\n3.29\nLocation: Shelton\nTime: 10AM\n(Doors open @ 9:30AM)\n\nPlease make sure to RSVP here:\nrandall.house.gov/events\nDetails will be shared 48 hours in advance.",
+    "raw_summary": "The flyer advertises town hall meetings occurring this week. The events are hosted by Congresswoman Emily Randall in Washington's 6th district, with locations in Port Townsend on March 28 and Shelton on March 29, 2025. There's mention of RSVP requirements and a link for more details."
+  },
+  {
+    "id": "b0f669cc-22e7-434f-aef6-d8ddc1c5a47a",
+    "title": "Peace Vigil",
+    "date": "Friday, March 28, 2025",
+    "time": "4:30 PM",
+    "description": "Join us every Friday for a peace vigil at 4th and Water St. in Olympia, WA. This Friday, we call for the release of Mahmoud Khalil.",
+    "city": "Olympia",
+    "state": "WA",
+    "address": "4th and Water St.",
+    "meeting_location": "",
+    "links": [],
+    "sponsors": [],
+    "image_url": "https://theblop.org/assets/images/b0f669cc-22e7-434f-aef6-d8ddc1c5a47a.jpg",
+    "thumbnail_url": "https://theblop.org/assets/images/b0f669cc-22e7-434f-aef6-d8ddc1c5a47a-thumb.jpg",
+    "canonical_id": "",
+    "permalink": "https://theblop.org/events/b0f669cc-22e7-434f-aef6-d8ddc1c5a47a.html",
+    "ical": "https://theblop.org/assets/ical/b0f669cc-22e7-434f-aef6-d8ddc1c5a47a.ics",
+    "raw_text": "PEACE VIGIL EVERY FRIDAY March 14 | 4:30 - 6 p.m. 4th and Water St. Olympia, WA THIS FRIDAY, WE DEMAND THE RELEASE OF MAHMOUD KHALIL",
+    "raw_summary": "The image promotes a recurring peace vigil event scheduled for March 14 from 4:30 to 6 p.m. at 4th and Water St. in Olympia, WA. It features a call for the release of Mahmoud Khalil."
   },
   {
     "id": "f76acf01-d25f-4637-b505-1e679286f835",
@@ -5127,6 +5240,143 @@
     "raw_summary": "A flyer announcing a march for Land Day organized by the Chicago Coalition for Justice in Palestine. The event calls for ending genocide and an arms embargo on Israel. Taking place on Saturday, March 29th at 1 PM at Water Tower Park, Chicago Ave. & Michigan Ave."
   },
   {
+    "id": "5f7948d1-07e8-4c9d-994d-4ded53b93e79",
+    "title": "Solidarity Day",
+    "date": "Saturday, March 29, 2025",
+    "time": "1:00 PM",
+    "description": "Join La Resistencia to demand the release of everyone detained, those that have been detained and have made the news, and those that no media cares about. We demand the release of absolutely every person imprisoned by ICE and in danger at the hands of Geo Group.",
+    "city": "Tacoma",
+    "state": "WA",
+    "address": "1623 East J St.",
+    "meeting_location": "1623 East J St.",
+    "links": [],
+    "sponsors": [
+      "La Resistencia"
+    ],
+    "image_url": "https://theblop.org/assets/images/5f7948d1-07e8-4c9d-994d-4ded53b93e79.png",
+    "thumbnail_url": "https://theblop.org/assets/images/5f7948d1-07e8-4c9d-994d-4ded53b93e79-thumb.jpg",
+    "canonical_id": "",
+    "permalink": "https://theblop.org/events/5f7948d1-07e8-4c9d-994d-4ded53b93e79.html",
+    "ical": "https://theblop.org/assets/ical/5f7948d1-07e8-4c9d-994d-4ded53b93e79.ics",
+    "raw_text": "LA RESISTENCIA\nSolidarity Day\nDate: Saturday March 29, 2025\nTime: 1PM-3PM\nLocation: 1623 East J St. Tacoma, WA 98405\n\nJoin La Resistencia to demand the release of everyone detained, those that have been detained and have made the news, and those that no media cares about. We demand the release of absolutely every person imprisoned by ICE and in danger at the hands of Geo Group.",
+    "raw_summary": "The image is an event flyer for 'Solidarity Day' organized by La Resistencia. The event calls for the release of all detained individuals and highlights the plight of those imprisoned by ICE and endangered by Geo Group. It will take place on March 29, 2025, at 1623 East J St., Tacoma, WA."
+  },
+  {
+    "id": "e9d9a5c5-bbef-4eb1-9a60-c8487222a803",
+    "title": "Peace, ❤️ and a Handshake",
+    "date": "Saturday, March 29, 2025",
+    "time": "12:00 PM",
+    "description": "Meeting each other at the Peace Arch Monument. American and Canadian citizens coming together in peace, love and support of one another. There’s honour in a handshake amongst longstanding FRIENDS and SOVEREIGN ALLIES. FLAGS and messages of SOLIDARITY are welcome.",
+    "city": "Blaine",
+    "state": "WA",
+    "address": "Peace Arch Park",
+    "meeting_location": "Peace Arch Park",
+    "links": [],
+    "sponsors": [
+      "Haidee Landry"
+    ],
+    "image_url": "https://theblop.org/assets/images/e9d9a5c5-bbef-4eb1-9a60-c8487222a803.jpg",
+    "thumbnail_url": "https://theblop.org/assets/images/e9d9a5c5-bbef-4eb1-9a60-c8487222a803-thumb.jpg",
+    "canonical_id": "",
+    "permalink": "https://theblop.org/events/e9d9a5c5-bbef-4eb1-9a60-c8487222a803.html",
+    "ical": "https://theblop.org/assets/ical/e9d9a5c5-bbef-4eb1-9a60-c8487222a803.ics",
+    "raw_text": "Saturday at 12PM – 2PM\nPeace, ❤️ and a Handshake\nPublic · Event by Haidee Landry\nPeace Arch Park\nBlaine, WA\n16 going · 82 interested\nPublic · Anyone on or off Facebook\n\nAbout Discussion\n\nWhat to expect\n\nMeeting each other at the Peace Arch Monument\nAmerican and Canadian citizens coming together in\npeace, love and support of one another. There’s\nhonour in a handshake amongst long standing\nFRIENDS and SOVEREIGN ALLIES. FLAGS and\nmessages of SOLIDARITY are welcome.",
+    "raw_summary": "The event \"Peace, ❤️ and a Handshake\" is scheduled for Saturday from 12 PM to 2 PM at Peace Arch Park in Blaine, WA. Hosted by Haidee Landry, it aims to unite American and Canadian citizens for peace and solidarity, involving symbolic gestures like handshakes among longstanding allies."
+  },
+  {
+    "id": "656f19f5-22bc-44e7-ae8f-18fb4712e187",
+    "title": "Take a Stand for Public Education",
+    "date": "Saturday, March 29, 2025",
+    "time": "10:30 AM",
+    "description": "Join us for a peaceful, positive event to support kids and educators. We will hold signs along Bothell Way. All are welcome.",
+    "city": "Bothell",
+    "state": "WA",
+    "address": "Bothell Landing Park",
+    "meeting_location": "",
+    "links": [
+      "[]"
+    ],
+    "sponsors": [
+      "[]"
+    ],
+    "image_url": "https://theblop.org/assets/images/656f19f5-22bc-44e7-ae8f-18fb4712e187.png",
+    "thumbnail_url": "https://theblop.org/assets/images/656f19f5-22bc-44e7-ae8f-18fb4712e187-thumb.jpg",
+    "canonical_id": "",
+    "permalink": "https://theblop.org/events/656f19f5-22bc-44e7-ae8f-18fb4712e187.html",
+    "ical": "https://theblop.org/assets/ical/656f19f5-22bc-44e7-ae8f-18fb4712e187.ics",
+    "raw_text": "TAKE A STAND FOR PUBLIC EDUCATION! Join us for a peaceful, positive event to support kids and educators! We will hold signs along Bothell Way. ALL ARE WELCOME! Bothell Landing Park Saturday March 29 10:30 am to 12:00pm",
+    "raw_summary": "The flyer announces an event titled 'Take a Stand for Public Education,' intended to support kids and educators positively and peacefully. Attendees will hold signs along Bothell Way, and it welcomes everyone. The event is scheduled at Bothell Landing Park on Saturday, March 29, from 10:30 AM to 12:00 PM."
+  },
+  {
+    "id": "5260a032-415c-4c5a-ae83-c6e83ea445be",
+    "title": "Rally for Science and the Environment",
+    "date": "Saturday, March 29, 2025",
+    "time": "12:00 PM",
+    "description": "Join us for a day of engaging activities including speakers, kids activities, music, community building, and petition signing to support science and the environment.",
+    "city": "Vancouver",
+    "state": "WA",
+    "address": "Esther Short Park",
+    "meeting_location": "Esther Short Park",
+    "links": [],
+    "sponsors": [],
+    "image_url": "https://theblop.org/assets/images/5260a032-415c-4c5a-ae83-c6e83ea445be.png",
+    "thumbnail_url": "https://theblop.org/assets/images/5260a032-415c-4c5a-ae83-c6e83ea445be-thumb.jpg",
+    "canonical_id": "",
+    "permalink": "https://theblop.org/events/5260a032-415c-4c5a-ae83-c6e83ea445be.html",
+    "ical": "https://theblop.org/assets/ical/5260a032-415c-4c5a-ae83-c6e83ea445be.ics",
+    "raw_text": "JOIN US TO\nRALLY FOR\nSCIENCE AND\nTHE ENVIRONMENT\nSATURDAY,\nMARCH 29\nNOON-4\nESTHER\nSHORT PARK\n\nSPEAKERS\nKIDS ACTIVIES\nMUSIC\nCOMMUNITY BUILDING\nPETITION SIGNING\n\nREGISTER TO VOLUNTEER\nRALLYFORSCIENCEVANCOUVER@PROTON.ME",
+    "raw_summary": "The image promotes an event called \"Rally for Science and the Environment,\" listing activities such as speakers, kids' activities, music, community building, and petition signing. The event is scheduled for Saturday, March 29 at Esther Short Park."
+  },
+  {
+    "id": "557e6da6-9de2-4fd1-b1e7-6460af2c4b88",
+    "title": "Solidarity Day",
+    "date": "Saturday, March 29, 2025",
+    "time": "1:00 PM",
+    "description": "Join La Resistencia to demand the release of everyone detained, including individuals who have been publicized and those overlooked by media. The goal is the release of all persons held by ICE and threatened by Geo Group.",
+    "city": "Tacoma",
+    "state": "WA",
+    "address": "1623 East J St",
+    "meeting_location": "",
+    "links": [
+      "[]"
+    ],
+    "sponsors": [
+      "La Resistencia"
+    ],
+    "image_url": "https://theblop.org/assets/images/557e6da6-9de2-4fd1-b1e7-6460af2c4b88.png",
+    "thumbnail_url": "https://theblop.org/assets/images/557e6da6-9de2-4fd1-b1e7-6460af2c4b88-thumb.jpg",
+    "canonical_id": "",
+    "permalink": "https://theblop.org/events/557e6da6-9de2-4fd1-b1e7-6460af2c4b88.html",
+    "ical": "https://theblop.org/assets/ical/557e6da6-9de2-4fd1-b1e7-6460af2c4b88.ics",
+    "raw_text": "La RESISTENCIA  \nSolidarity Day  \nDate: Saturday March 29, 2025  \nTime: 1PM-3PM  \nLocation: 1623 East J St, Tacoma, WA 98405  \n\nJoin La Resistencia to demand the release of everyone detained, those that have been detained and have made the news, and those that no media cares about. We demand the release of absolutely every person imprisoned by ICE and in danger at the hands of Geo Group.",
+    "raw_summary": "The image is an announcement for \"Solidarity Day\" organized by La Resistencia, demanding the release of detained individuals by ICE. It provides details about the date, time, and location of the event."
+  },
+  {
+    "id": "74035911-c4f4-4642-b416-def290863404",
+    "title": "Duluth Town Hall",
+    "date": "Saturday, March 29, 2025",
+    "time": "2:00 PM",
+    "description": "Join us at the Duluth Town Hall to discuss how federal policies impact you and your community. Share your story, ask questions, and get involved with Rep. Pete Stauber and local elected officials.",
+    "city": "Duluth",
+    "state": "MN",
+    "address": "301 N. 40th Ave E.",
+    "meeting_location": "East High School Auditorium",
+    "links": [
+      "Practicing-Democracy.org"
+    ],
+    "sponsors": [
+      "Practicing Democracy",
+      " Rep. Pete Stauber"
+    ],
+    "image_url": "https://theblop.org/assets/images/74035911-c4f4-4642-b416-def290863404.png",
+    "thumbnail_url": "https://theblop.org/assets/images/74035911-c4f4-4642-b416-def290863404-thumb.jpg",
+    "canonical_id": "",
+    "permalink": "https://theblop.org/events/74035911-c4f4-4642-b416-def290863404.html",
+    "ical": "https://theblop.org/assets/ical/74035911-c4f4-4642-b416-def290863404.ics",
+    "raw_text": "PRACTICING DEMOCRACY\n\nDuluth Town Hall\nLet Your Voice Be Heard\n\nHOW ARE FEDERAL POLICIES IMPACTING YOU & YOUR COMMUNITY?\nSHARE YOUR STORY, ASK QUESTIONS, & GET INVOLVED!\n\nREP. PETE STAUBER & LOCAL ELECTED OFFICIALS INVITED.\n\nSATURDAY, MARCH 29\n2:00 PM\nEAST HIGH SCHOOL AUDITORIUM\n301 N. 40TH AVE E.\nDULUTH\n\nPracticing-Democracy.org",
+    "raw_summary": "The event is a town hall in Duluth where federal policy impacts are discussed, hosted by Rep. Pete Stauber, with local officials invited. It's scheduled for Saturday, March 29, at 2:00 PM at the East High School Auditorium."
+  },
+  {
     "id": "98cf8c0e-0c5f-45a7-afba-c1f2c53d8647",
     "title": "MI Resist Events",
     "date": "Sunday, March 30, 2025",
@@ -6554,6 +6804,28 @@
     "raw_summary": "Pop-Up Event @ Schimel Rally scheduled for March 30, 2:30 pm at Sidewalk of Badger State Brewery, Green Bay."
   },
   {
+    "id": "1b567e0f-a3d9-4235-84e9-1379d2e50567",
+    "title": "March for TDOV 25",
+    "date": "Sunday, March 30, 2025",
+    "time": "2:00 PM",
+    "description": "Join us for a march in celebration of community, solidarity, and rebellion as we launch a campaign to extend sanctuary protections for trans people across Washington State.",
+    "city": "Olympia",
+    "state": "WA",
+    "address": "Washington State Capitol Steps",
+    "meeting_location": "",
+    "links": [],
+    "sponsors": [
+      "Olympia DSA"
+    ],
+    "image_url": "https://theblop.org/assets/images/1b567e0f-a3d9-4235-84e9-1379d2e50567.png",
+    "thumbnail_url": "https://theblop.org/assets/images/1b567e0f-a3d9-4235-84e9-1379d2e50567-thumb.jpg",
+    "canonical_id": "",
+    "permalink": "https://theblop.org/events/1b567e0f-a3d9-4235-84e9-1379d2e50567.html",
+    "ical": "https://theblop.org/assets/ical/1b567e0f-a3d9-4235-84e9-1379d2e50567.ics",
+    "raw_text": "Sunday, March 30th Trans Day of Visibility.\nWashington State Capitol Steps in Olympia at 2pm.\nOrganized by Olympia DSA\n\nMarch for TDOV 25\nTrans Day Of Visibility 2025\nCapitol Steps\nSunday March 30th @ 2pm\n\nMasks encouraged and provided.\n\nAll out for trans liberation! Join us for a march in celebration of community, solidarity, and rebellion as we launch a campaign to extend sanctuary protections for trans people across Washington State! Reception to follow.",
+    "raw_summary": "The image describes an event called \"March for TDOV 25\" organized by Olympia DSA. It is set to take place on Sunday, March 30th, 2025, at 2 PM at the Washington State Capitol Steps in Olympia. The event is a march celebrating community, solidarity, and rebellion while launching a campaign for trans protection. Masks will be encouraged and provided."
+  },
+  {
     "id": "f164618b-921e-4c85-a1e0-4f09e40b62f8",
     "title": "Cesar Chavez Day: A March For All Workers",
     "date": "Monday, March 31, 2025",
@@ -7252,6 +7524,30 @@
     "raw_summary": "The flyer announces the 'Corner Protest' occurring every Tuesday and Thursday from 4:15 PM to 6:00 PM at the corner of Drake and College in Fort Collins. A specific event is highlighted for April 1, 2025, at the address 2601 S College Ave, Fort Collins, CO."
   },
   {
+    "id": "a0e1c5c8-b3a4-4742-b09f-b245dda3330b",
+    "title": "Protest Tuesday",
+    "date": "Tuesday, April 1, 2025",
+    "time": "3:45 PM",
+    "description": "Join the Tri-City Democrats for a public event at John Dam Plaza to voice your concerns and show support for community issues.",
+    "city": "Richland",
+    "state": "WA",
+    "address": "815 George Washington Way",
+    "meeting_location": "John Dam Plaza",
+    "links": [
+      "[]"
+    ],
+    "sponsors": [
+      "Tri-City Democrats"
+    ],
+    "image_url": "https://theblop.org/assets/images/a0e1c5c8-b3a4-4742-b09f-b245dda3330b.jpg",
+    "thumbnail_url": "https://theblop.org/assets/images/a0e1c5c8-b3a4-4742-b09f-b245dda3330b-thumb.jpg",
+    "canonical_id": "",
+    "permalink": "https://theblop.org/events/a0e1c5c8-b3a4-4742-b09f-b245dda3330b.html",
+    "ical": "https://theblop.org/assets/ical/a0e1c5c8-b3a4-4742-b09f-b245dda3330b.ics",
+    "raw_text": "Tuesday, April 1, 2025 at 3:45 PM – 5:45 PM\nProtest Tuesday\nPublic · Event by Tri-City Democrats\nTUE, APR 1 3:45 PM\nTUE, APR 8 3:45 PM\nTUE, APR 15 3:45 PM\nJohn Dam Plaza\n815 george washington way, Richland, WA 99354\n2 going · 11 interested\nPublic · Anyone on or off Facebook",
+    "raw_summary": "This is an event flyer for 'Protest Tuesday' organized by Tri-City Democrats. It specifies the date, time, and location of a public event."
+  },
+  {
     "id": "742167c1-0023-4fe2-9107-5a47e5477efc",
     "title": "Rally for Patients' Rights",
     "date": "Wednesday, April 2, 2025",
@@ -7393,6 +7689,53 @@
     "raw_summary": "\"Elbows Up For Canada\" is a rally taking place on April 2, 2025, from 5-7 pm in two locations: the Shoreline Trail Bridge just south of the Peace Bridge in Buffalo, NY, USA, and Mather Park near the arch and the Peace Bridge in Fort Erie, ON, Canada. The event aims to oppose arbitrary tariffs, prevent annexation threats, and show solidarity with Canadian neighbors. Participants are encouraged to make visible signs and bring Canadian flags. More details can be found on elbowsupforcanada.us."
   },
   {
+    "id": "3160170a-435a-4de7-8c99-4b7a554758f8",
+    "title": "Banner Building at Backbone Warehouse on Vashon",
+    "date": "Wednesday, April 2, 2025",
+    "time": "12:00 PM",
+    "description": "Join us for our banner-building workshop, organized by Knights Who Say Ni and 50501 Movement Washington State. RSVP for the full address.",
+    "city": "Vashon",
+    "state": "WA",
+    "address": "",
+    "meeting_location": "Backbone Warehouse",
+    "links": [],
+    "sponsors": [
+      "Knights Who Say Ni",
+      " 50501 Movement Washington State"
+    ],
+    "image_url": "https://theblop.org/assets/images/3160170a-435a-4de7-8c99-4b7a554758f8.jpg",
+    "thumbnail_url": "https://theblop.org/assets/images/3160170a-435a-4de7-8c99-4b7a554758f8-thumb.jpg",
+    "canonical_id": "",
+    "permalink": "https://theblop.org/events/3160170a-435a-4de7-8c99-4b7a554758f8.html",
+    "ical": "https://theblop.org/assets/ical/3160170a-435a-4de7-8c99-4b7a554758f8.ics",
+    "raw_text": "Wednesday, April 2, 2025 at 12 PM – 4 PM\nBanner Building at Backbone Warehouse on Vashon\nPublic · Event by Knights Who Say Ni and 50501 Movement Washington State\nWED, APR 2\n12:00 PM\nWED, APR 9\n12:00 PM\nWED, APR 16\n12:00 PM\nRSVP for full address\ninfo@backbonecampaign.org\n1 going\nPublic · Anyone on or off Facebook",
+    "raw_summary": "The image announces a banner-building event at Backbone Warehouse on Vashon, organized by the Knights Who Say Ni and 50501 Movement Washington State. It's scheduled for Wednesday, April 2, 2025, from 12 PM to 4 PM, with additional events on April 9 and April 16. Participants are instructed to RSVP for the full address."
+  },
+  {
+    "id": "f99ce593-f440-4fbe-b53c-a2ae7b8d4922",
+    "title": "Musk or Us Protest",
+    "date": "Wednesday, April 2, 2025",
+    "time": "4:00 PM",
+    "description": "Join us for the 'Musk or Us' protest, a visibility event organized by Indivisible aimed at raising awareness and advocating for change. This protest is scheduled to occur every Wednesday to gather support and make an impact. Be part of a community striving for better futures.",
+    "city": "Redmond",
+    "state": "WA",
+    "address": "22630 NE Marketplace Dr",
+    "meeting_location": "Intersection of Novelty Hill and Redmond Ridge Dr.",
+    "links": [],
+    "sponsors": [
+      "Indivisible",
+      " Knights Who Say Ni",
+      " 50501 Movement Washington State"
+    ],
+    "image_url": "https://theblop.org/assets/images/f99ce593-f440-4fbe-b53c-a2ae7b8d4922.jpg",
+    "thumbnail_url": "https://theblop.org/assets/images/f99ce593-f440-4fbe-b53c-a2ae7b8d4922-thumb.jpg",
+    "canonical_id": "",
+    "permalink": "https://theblop.org/events/f99ce593-f440-4fbe-b53c-a2ae7b8d4922.html",
+    "ical": "https://theblop.org/assets/ical/f99ce593-f440-4fbe-b53c-a2ae7b8d4922.ics",
+    "raw_text": "Musk or Us Protest\nVisibility Event • Volunteer organized for Indivisible\nWednesdays\n4 – 5pm PDT\nStarlink\n22630 NE Marketplace Dr\nMeet at the intersection of Novelty Hill and Redmond Ridge Dr.\nRedmond, WA 98053\nWednesday, April 2, 2025 at 4 PM – 5 PM\nRedmond- Musk or Us- protest\nPublic • Event by Knights Who Say Ni and 50501 Movement Washington State\nStarlink- 22630 NE Marketplace Dr\nRedmond\n22630 NE Marketplace Dr, Redmond, WA 98053-2034, United States\n1 going • 1 interested",
+    "raw_summary": "The image is a promotional flyer for a protest event called 'Musk or Us Protest,' organized as a visibility event by Indivisible. It is scheduled to occur on Wednesdays from 4 PM to 5 PM PDT at Starlink, located at 22630 NE Marketplace Dr, Redmond, WA. The event specifically highlights a protest happening on April 2, 2025."
+  },
+  {
     "id": "28ff009c-e8f9-4293-ab62-02e44c5821df",
     "title": "Lake County Economic Alliance",
     "date": "Thursday, April 3, 2025",
@@ -7524,6 +7867,31 @@
     "ical": "https://theblop.org/assets/ical/41c807b5-d011-426c-abee-62b4a5a826d9.ics",
     "raw_text": "",
     "raw_summary": ""
+  },
+  {
+    "id": "78259ec8-ca45-4fd4-8d43-c01e82dc71a6",
+    "title": "Protest Sign Making Workshop",
+    "date": "Thursday, April 3, 2025",
+    "time": "6:00 PM",
+    "description": "Come join our Protest Sign Workshop! Bring your ideas, and we’ll provide you with all the supplies and inspiration to create bold signs for Northern Nevada’s April 5th protest demanding our government uphold the constitution.",
+    "city": "Reno",
+    "state": "NV",
+    "address": "140 Vesta St",
+    "meeting_location": "The Holland Project, Serva Pool Space",
+    "links": [
+      "https://tinyurl.com/renoposters"
+    ],
+    "sponsors": [
+      "ACLU Nevada",
+      " 50501 NNV"
+    ],
+    "image_url": "https://theblop.org/assets/images/78259ec8-ca45-4fd4-8d43-c01e82dc71a6.png",
+    "thumbnail_url": "https://theblop.org/assets/images/78259ec8-ca45-4fd4-8d43-c01e82dc71a6-thumb.jpg",
+    "canonical_id": "",
+    "permalink": "https://theblop.org/events/78259ec8-ca45-4fd4-8d43-c01e82dc71a6.html",
+    "ical": "https://theblop.org/assets/ical/78259ec8-ca45-4fd4-8d43-c01e82dc71a6.ics",
+    "raw_text": "PROTEST SIGN MAKING WORKSHOP\n\nREADY TO MAKE SOME NOISE AT LOCAL PROTESTS?\n\nCome join our Protest Sign Workshop! Bring your ideas, and we’ll provide you with all the supplies and inspo to create bold signs for Northern Nevada’s April 5th protest demanding our government uphold the constitution.\n\nTIME\nTHURSDAY APRIL 3\n6:00 pm - 8:00 pm\n\nPLACE\nTHE HOLLAND PROJECT\nSERVA POOL SPACE\n140 Vesta St\nReno, NV 89502\n\nMORE INFO/RSVP\nHTTPS://TINYURL.COM/RENOPOSTERS\n\nACLU Nevada 50501 NNV",
+    "raw_summary": "This is a flyer for a 'Protest Sign Making Workshop' aimed at helping participants create signs for a Northern Nevada protest. It provides the date, time, location, and a link for more information."
   },
   {
     "id": "f676e501-78d3-4c77-8887-5137cb6b47ea",
@@ -20728,6 +21096,288 @@
     "ical": "https://theblop.org/assets/ical/983b5c59-55a9-4fd7-867b-0fb657d76cbe.ics",
     "raw_text": "HANDS OFF!\nOur Jobs, Our Wallets, Our Bodies\nMedicaid, Medicare, Social Security\nFair Elections, A Public Option, Cancer Research, Clean Energy\nLands, Resources, Protection\nSchools, Libraries, Free Speech\nLGBTQ Rights, Immigrants, Courts\n\nDonald Trump and Elon Musk think this country belongs to them.\nFort Collins is fighting back!\nThey're taking everything they can get their hands on—our health care, our data, our jobs, our services—and daring the world to stop them. This is a crisis, and the time to act is now. We're taking to the streets to fight back with a clear message: Hands off!\n\nOn Saturday, April 5, 2025 at 12:00 PM\nWhere: Civic Center Park, Fort Collins (Howes St. & LaPorte Ave)",
     "raw_summary": "The flyer is announcing a protest event against Donald Trump and Elon Musk, urging the community in Fort Collins to oppose certain political and social actions by taking to the streets."
+  },
+  {
+    "id": "0a750d82-7647-4b03-9efb-c01d66e4b99f",
+    "title": "VETO Project 2025",
+    "date": "Saturday, April 5, 2025",
+    "time": "12:00 PM",
+    "description": "We the People reject the Trump-Musk coup. Join us in our peaceful dissent. Join us for People's VETO Day to protect various rights.",
+    "city": "Topeka",
+    "state": "KS",
+    "address": "State Capitol",
+    "meeting_location": "East side",
+    "links": [],
+    "sponsors": [
+      "50501",
+      " Voices of Florida",
+      " Political Revolution",
+      " Indivisible",
+      " Women’s March",
+      " The American People"
+    ],
+    "image_url": "https://theblop.org/assets/images/0a750d82-7647-4b03-9efb-c01d66e4b99f.png",
+    "thumbnail_url": "https://theblop.org/assets/images/0a750d82-7647-4b03-9efb-c01d66e4b99f-thumb.jpg",
+    "canonical_id": "",
+    "permalink": "https://theblop.org/events/0a750d82-7647-4b03-9efb-c01d66e4b99f.html",
+    "ical": "https://theblop.org/assets/ical/0a750d82-7647-4b03-9efb-c01d66e4b99f.ics",
+    "raw_text": "WE THE PEOPLE\nVETO PROJECT 2025\nREMOVE. REVERSE. RECLAIM.\nSATURDAY\nAPRIL 5, 2025\nTopeka Kansas\nState Capitol\nEast side @ Noon\nWe the People reject the Trump-Musk coup. Join us in our peaceful dissent.\nJOIN US FOR PEOPLE'S VETO DAY TO PROTECT:\nMEDICAID MEDICARE SOCIAL SECURITY OUR WALLETS OUR JOBS OUR BODIES DEMOCRACY\nPERSONAL DATA PUBLIC LAND VETERAN SERVICES CANCER RESEARCH NATO IMMIGRANTS\nCONSUMER PROTECTIONS CLEAN ENERGY SCHOOLS FREE SPEECH TRANS HEALTHCARE CLEAN AIR\nSIGNED,\n50501 VOICES OF FLORIDA POLITICAL REVOLUTION INDIVISIBLE WOMEN’S MARCH\n+ THE AMERICAN PEOPLE",
+    "raw_summary": "The flyer announces a public protest event called \"VETO Project 2025\" organized to oppose a political situation referred to as the \"Trump-Musk coup.\" The protest is set for April 5, 2025, in Topeka, Kansas, at the State Capitol, on the east side at noon. There's a call for peaceful dissent to protect various social and political rights."
+  },
+  {
+    "id": "9fea99c9-8c5b-4ca2-ac73-a24e23247f5b",
+    "title": "HANDS OFF! Mass Mobilization",
+    "date": "Saturday, April 5, 2025",
+    "time": "12:00 PM",
+    "description": "We are organizing a mass mobilization on April 5th to fight back against those who believe this country belongs to them. Our event is a protest against the actions affecting our healthcare, data, jobs, and services. Join us to make a stand.",
+    "city": "San Juan Island",
+    "state": "WA",
+    "address": "350 Court Street",
+    "meeting_location": "",
+    "links": [
+      "handsoff2025.com"
+    ],
+    "sponsors": [
+      "Knights Who Say Ni"
+    ],
+    "image_url": "https://theblop.org/assets/images/9fea99c9-8c5b-4ca2-ac73-a24e23247f5b.jpg",
+    "thumbnail_url": "https://theblop.org/assets/images/9fea99c9-8c5b-4ca2-ac73-a24e23247f5b-thumb.jpg",
+    "canonical_id": "",
+    "permalink": "https://theblop.org/events/9fea99c9-8c5b-4ca2-ac73-a24e23247f5b.html",
+    "ical": "https://theblop.org/assets/ical/9fea99c9-8c5b-4ca2-ac73-a24e23247f5b.ics",
+    "raw_text": "HANDS OFF! MASS MOBILIZATION SATURDAY, APRIL 5 handsoff2025.com \n\nTime Saturday, April 5 12 – 2pm PDT \n\nLocation San Juan Island 350 Court Street San Juan County, WA 98250 Map \n\nAbout this event Donald Trump and Elon Musk think this country belongs to them. San Juan Island County is fighting back! They're taking everything they can get their hands on—our health care, our data, our jobs, our services—and daring the world to stop them. This is a crisis, and the time to act is now. \n\nOn Saturday, April 5th, we're taking to the streets to fight back with a clear message: Hands \n\nKnights Who Say Ni",
+    "raw_summary": "A mass mobilization event titled 'HANDS OFF!' is scheduled for Saturday, April 5, at San Juan Island, WA. The event, organized by handsoff2025.com, is a protest against perceived overreach by public figures. It will occur from 12 to 2 PM PDT at 350 Court Street, San Juan County, WA 98250."
+  },
+  {
+    "id": "39ddca50-4b38-4a38-8709-de3dd24965bc",
+    "title": "Hands Off! Bothell Fights Back!",
+    "date": "Saturday, April 5, 2025",
+    "time": "11:00 AM",
+    "description": "Join us to stand against social and educational cuts in Bothell. This public event is organized to oppose reductions in Medicare, libraries, schools, and student resources. Hosted by Liz Sexauer Fallin and 50501 Movement, come together to make your voice heard.",
+    "city": "Bothell",
+    "state": "WA",
+    "address": "Intersection of 522 and Bothell Way NE",
+    "meeting_location": "",
+    "links": [],
+    "sponsors": [
+      "Liz Sexauer Fallin",
+      " 50501 Movement"
+    ],
+    "image_url": "https://theblop.org/assets/images/39ddca50-4b38-4a38-8709-de3dd24965bc.jpg",
+    "thumbnail_url": "https://theblop.org/assets/images/39ddca50-4b38-4a38-8709-de3dd24965bc-thumb.jpg",
+    "canonical_id": "",
+    "permalink": "https://theblop.org/events/39ddca50-4b38-4a38-8709-de3dd24965bc.html",
+    "ical": "https://theblop.org/assets/ical/39ddca50-4b38-4a38-8709-de3dd24965bc.ics",
+    "raw_text": "MEDICARE SOCIAL HANDS OFF!\nSchools Libraries Free Students\nSaturday, April 5, 2025 at 11 AM – 12:30 PM\nHands Off! Bothell Fights Back!\nPublic · Event by Liz Sexauer Fallin and 50501 Movement Washington State\nIntersection of 522 and Bothell Way NE\n2 going · 6 interested\nPublic · Anyone on or off Facebook",
+    "raw_summary": "The event 'Hands Off! Bothell Fights Back!' is scheduled for Saturday, April 5, 2025, from 11 AM to 12:30 PM. It is a public event organized by Liz Sexauer Fallin and 50501 Movement in Washington State. The event location is at the intersection of 522 and Bothell Way NE."
+  },
+  {
+    "id": "c4f27990-93b4-4e17-97b2-9e7c619916b0",
+    "title": "Everyone Into The Streets!",
+    "date": "Saturday, April 5, 2025",
+    "time": "12:00 PM",
+    "description": "Join us for a public gathering as we take to the streets at Waterfront Park in Poulsbo. The event is expected to bring the community together to celebrate and enjoy the vibrant atmosphere.",
+    "city": "Poulsbo",
+    "state": "WA",
+    "address": "Waterfront Park",
+    "meeting_location": "Waterfront Park",
+    "links": [],
+    "sponsors": [],
+    "image_url": "https://theblop.org/assets/images/c4f27990-93b4-4e17-97b2-9e7c619916b0.png",
+    "thumbnail_url": "https://theblop.org/assets/images/c4f27990-93b4-4e17-97b2-9e7c619916b0-thumb.jpg",
+    "canonical_id": "",
+    "permalink": "https://theblop.org/events/c4f27990-93b4-4e17-97b2-9e7c619916b0.html",
+    "ical": "https://theblop.org/assets/ical/c4f27990-93b4-4e17-97b2-9e7c619916b0.ics",
+    "raw_text": "SATURDAY APRIL 5TH NOON POULSBO Everyone Into The Streets! Waterfront Park",
+    "raw_summary": "The flyer announces an event happening on Saturday, April 5th at noon in Poulsbo, specifically at Waterfront Park. It's an event titled 'Everyone Into The Streets!'."
+  },
+  {
+    "id": "3c977b54-c2f7-4e2b-93f1-718c539a2ad9",
+    "title": "Hands Off! Peaceful March & Rally",
+    "date": "Saturday, April 5, 2025",
+    "time": "12:00 PM",
+    "description": "This rally promotes protecting democracy, diversity, rights, and data through a peaceful march starting at University Way and concluding at Unity Park.",
+    "city": "Ellensburg",
+    "state": "WA",
+    "address": "University Way, Ellensburg, WA",
+    "meeting_location": "University Way (Barge to Kamola), Rally at Unity Park",
+    "links": [],
+    "sponsors": [
+      "Ellensburg Indivisible"
+    ],
+    "image_url": "https://theblop.org/assets/images/3c977b54-c2f7-4e2b-93f1-718c539a2ad9.png",
+    "thumbnail_url": "https://theblop.org/assets/images/3c977b54-c2f7-4e2b-93f1-718c539a2ad9-thumb.jpg",
+    "canonical_id": "",
+    "permalink": "https://theblop.org/events/3c977b54-c2f7-4e2b-93f1-718c539a2ad9.html",
+    "ical": "https://theblop.org/assets/ical/3c977b54-c2f7-4e2b-93f1-718c539a2ad9.ics",
+    "raw_text": "HANDS OFF!\nour DEMOCRACY\nour DIVERSITY\nour RIGHTS\nour DATA\nPeaceful March & Rally\nSaturday April 5\n12 Noon University Way (Barge to Kamola)\n1230 March (Main to 5th to Pearl)\n1 PM Rally at Unity Park\nELLENSBURG INDIVISIBLE",
+    "raw_summary": "The image promotes a peaceful march and rally called \"Hands Off!\" It aims to protect democracy, diversity, rights, and data. The event is scheduled for Saturday, April 5th in Ellensburg, with activities starting at University Way and concluding at Unity Park. The sponsors or collaborators are Ellensburg Indivisible."
+  },
+  {
+    "id": "951928d8-a7c0-47c4-a353-2a361e1fba54",
+    "title": "Remove Reverse Reclaim",
+    "date": "Saturday, April 5, 2025",
+    "time": "12:00 PM",
+    "description": "We will meet along the street at Safeway for a peaceful protest to have our voices heard while respecting the community. The event aims to remove corrupt politicians from office, fix damage, and reclaim democracy.",
+    "city": "Anacortes",
+    "state": "WA",
+    "address": "Commercial Ave",
+    "meeting_location": "Street at Safeway",
+    "links": [
+      "https://www.fiftyfifty.one"
+    ],
+    "sponsors": [],
+    "image_url": "https://theblop.org/assets/images/951928d8-a7c0-47c4-a353-2a361e1fba54.png",
+    "thumbnail_url": "https://theblop.org/assets/images/951928d8-a7c0-47c4-a353-2a361e1fba54-thumb.jpg",
+    "canonical_id": "",
+    "permalink": "https://theblop.org/events/951928d8-a7c0-47c4-a353-2a361e1fba54.html",
+    "ical": "https://theblop.org/assets/ical/951928d8-a7c0-47c4-a353-2a361e1fba54.ics",
+    "raw_text": "REMOVE REVERSE RECLAIM\nAnacortes\nNOON TO 1PM\nSATURDAY APRIL 5TH\nCOMMERCIAL AVE\nANACORTES WA\n\nWe will meet along the street at Safeway.\nThis is a peaceful protest.\nPlease do not park in any business lots,\nor block business driveways.\nPlease clean up after yourself.\nWe want to have our voices heard,\nwhile still being good neighbors.\n\nREMOVE - Remove corrupt politicians from office.\nREVERSE - Fix the damage.\nRECLAIM - Take back our democracy.\n\nhttps://www.fiftyfifty.one",
+    "raw_summary": "The flyer announces a protest event in Anacortes, WA, titled \"Remove Reverse Reclaim.\" It will take place on Saturday, April 5th, from Noon to 1 PM on Commercial Ave. The event aims to remove corrupt politicians, fix damage, and reclaim democracy. Attendees are instructed to gather at Safeway, emphasize peaceful protest, and be considerate neighbors."
+  },
+  {
+    "id": "8ebb5da2-4815-4b1e-8eea-c01f49101e5e",
+    "title": "HANDS OFF!",
+    "date": "Saturday, April 5, 2025",
+    "time": "12:00 PM",
+    "description": "Join us for a mass mobilization rally to stop the Trump/Musk power grab. We aim to protect various democratic and social rights.",
+    "city": "Bellingham",
+    "state": "WA",
+    "address": "Bellingham City Hall, 210 Lottie",
+    "meeting_location": "",
+    "links": [
+      "www.IndivisibleBellingham.org"
+    ],
+    "sponsors": [
+      "Indivisible Bellingham"
+    ],
+    "image_url": "https://theblop.org/assets/images/8ebb5da2-4815-4b1e-8eea-c01f49101e5e.png",
+    "thumbnail_url": "https://theblop.org/assets/images/8ebb5da2-4815-4b1e-8eea-c01f49101e5e-thumb.jpg",
+    "canonical_id": "",
+    "permalink": "https://theblop.org/events/8ebb5da2-4815-4b1e-8eea-c01f49101e5e.html",
+    "ical": "https://theblop.org/assets/ical/8ebb5da2-4815-4b1e-8eea-c01f49101e5e.ics",
+    "raw_text": "STOP THE TRUMP/MUSK POWER GRAB \n HANDS OFF! \n MASS MOBILIZATION SATURDAY, APRIL 5 \n RALLY • NOON • BELLINGHAM CITY HALL • 210 LOTTIE \n INDIVISIBLE BELLINGHAM www.IndivisibleBellingham.org",
+    "raw_summary": "The image is an event flyer for a rally against the 'Trump/Musk Power Grab' on Saturday, April 5. The rally will take place at noon at Bellingham City Hall, located at 210 Lottie. The event seems to be organized by Indivisible Bellingham."
+  },
+  {
+    "id": "6776eae3-eaab-48c4-8719-f06e97630a01",
+    "title": "RALLY & MARCH",
+    "date": "Saturday, April 5, 2025",
+    "time": "12:00 PM",
+    "description": "We are organizing a rally and march to unite people in supporting causes such as melting ICE, funding public schools, supporting immigrant and trans students, and defending public workers and services.",
+    "city": "SeaTac",
+    "state": "WA",
+    "address": "",
+    "meeting_location": "Angle Lake Park, 19408 International Blvd; Federal Detention Center, 2425 S 200th St, SeaTac",
+    "links": [],
+    "sponsors": [
+      "Organized Workers for Labor Solidarity (OWLS)",
+      " A. Philip Randolph Institute",
+      " Seattle (APRI)",
+      " Seattle Caucus of Rank-and-file Educators (SCORE)",
+      " Radical Women",
+      " Seattle Rideshare Drivers Association"
+    ],
+    "image_url": "https://theblop.org/assets/images/6776eae3-eaab-48c4-8719-f06e97630a01.png",
+    "thumbnail_url": "https://theblop.org/assets/images/6776eae3-eaab-48c4-8719-f06e97630a01-thumb.jpg",
+    "canonical_id": "",
+    "permalink": "https://theblop.org/events/6776eae3-eaab-48c4-8719-f06e97630a01.html",
+    "ical": "https://theblop.org/assets/ical/6776eae3-eaab-48c4-8719-f06e97630a01.ics",
+    "raw_text": "RALLY & MARCH\nUnite to:\n• Melt ICE\n• Fund Public Schools\n• Support Immigrant and Trans Students\n• Defend Public Workers and Services\n\nSaturday, April 5, noon\n\nRally at Angle Lake Park\n19408 International Blvd, SeaTac\n\nMarch to Federal Detention Center\n2425 S 200th St, SeaTac\n\nSponsors: Organized Workers for Labor Solidarity (OWLS), A. Philip Randolph Institute, Seattle (APRI), Seattle Caucus of Rank-and-file Educators (SCORE), Radical Women, Seattle Rideshare Drivers Association\nEndorsers: MLK Labor, Teamsters Local 763, Transit Riders Union\n\nFor info or to endorse: OrganizedWorkersLS@gmail.com",
+    "raw_summary": "A flyer calling for a rally and march on April 5 to support various social causes such as education funding and immigrant rights, hosted in SeaTac, with specified rally and march locations."
+  },
+  {
+    "id": "6c6c984c-e573-4069-8626-b13d499f9af7",
+    "title": "Hands Off! Protest",
+    "date": "Saturday, April 5, 2025",
+    "time": "12:00 PM",
+    "description": "Join us for a 'Hands Off!' protest as part of the national day of action. Our protest will focus on collective advocacy and solidarity. Organized by Indivisible Palouse in collaboration with Robyn Roche-Paull and 50501 Movement Washington State.",
+    "city": "Pullman",
+    "state": "WA",
+    "address": "Cougar Plaza, Grand Ave",
+    "meeting_location": "Cougar Plaza",
+    "links": [],
+    "sponsors": [
+      "Indivisible Palouse",
+      " Robyn Roche-Paull",
+      " 50501 Movement Washington State"
+    ],
+    "image_url": "https://theblop.org/assets/images/6c6c984c-e573-4069-8626-b13d499f9af7.jpg",
+    "thumbnail_url": "https://theblop.org/assets/images/6c6c984c-e573-4069-8626-b13d499f9af7-thumb.jpg",
+    "canonical_id": "",
+    "permalink": "https://theblop.org/events/6c6c984c-e573-4069-8626-b13d499f9af7.html",
+    "ical": "https://theblop.org/assets/ical/6c6c984c-e573-4069-8626-b13d499f9af7.ics",
+    "raw_text": "HANDS OFF!\nNATIONAL DAY OF ACTION\nSATURDAY, APRIL 5\n\nSaturday, April 5, 2025 at 12PM – 2PM\nHands Off! Protest\nPublic · Event by Indivisible Palouse\nSaturday, April 5, 2025 at 12PM – 2PM\nHands Off! Protest\nEvent by Robyn Roche-Paull and 50501 Movement Washington State\nCougar Plaza\nGrand Ave, Pullman, WA 99163\n2 going · 1 interested\nPublic · Anyone on or off Facebook",
+    "raw_summary": "The image promotes a protest event titled \"Hands Off!\" scheduled for a national day of action on Saturday, April 5, 2025, in Pullman, Washington. It's organized by Robyn Roche-Paull and the 50501 Movement Washington State, hosted at Cougar Plaza on Grand Ave."
+  },
+  {
+    "id": "22214f8b-edd6-46f6-afbf-1a02df45d43a",
+    "title": "Remove, Reverse, Reclaim",
+    "date": "Saturday, April 5, 2025",
+    "time": "12:30 PM",
+    "description": "We are organizing a visibility event to engage the community. Hosted by volunteers and open to participants, aimed at promoting awareness and unity.",
+    "city": "Bremerton",
+    "state": "WA",
+    "address": "Manette Bridge",
+    "meeting_location": "Manette Bridge",
+    "links": [
+      "[]"
+    ],
+    "sponsors": [
+      "Indivisible"
+    ],
+    "image_url": "https://theblop.org/assets/images/22214f8b-edd6-46f6-afbf-1a02df45d43a.png",
+    "thumbnail_url": "https://theblop.org/assets/images/22214f8b-edd6-46f6-afbf-1a02df45d43a-thumb.jpg",
+    "canonical_id": "",
+    "permalink": "https://theblop.org/events/22214f8b-edd6-46f6-afbf-1a02df45d43a.html",
+    "ical": "https://theblop.org/assets/ical/22214f8b-edd6-46f6-afbf-1a02df45d43a.ics",
+    "raw_text": "INDIVISIBLE\n\nRSVP NOW!\n\nRemove, Reverse, Reclaim\n\nVisibility Event · Volunteer organized\n\nSaturday, April 5\n12:30 – 2pm PDT\n\nManette Bridge\nManette Bridge\nBremerton, WA 98337\nMap",
+    "raw_summary": "The image is a flyer for a visibility event organized by volunteers, titled 'Remove, Reverse, Reclaim,' taking place on Saturday, April 5, from 12:30 to 2 pm at Manette Bridge, Bremerton, WA. It encourages RSVPs and appears to be linked with the group 'Indivisible.'"
+  },
+  {
+    "id": "7fd4bb5e-2143-414c-9056-6ec0f26f4c44",
+    "title": "Hands Off!",
+    "date": "Saturday, April 5, 2025",
+    "time": "1:00 PM",
+    "description": "Join us at the Huron Lightship to walk the boardwalk to the Blue Water Bridge in support of protecting public services and rights.",
+    "city": "Port Huron",
+    "state": "MI",
+    "address": "Pine Grove Park to the Blue Water Bridge",
+    "meeting_location": "Huron Lightship at the north end of Pine Grove Park",
+    "links": [],
+    "sponsors": [
+      "Blue Water Indivisible",
+      " Blue Water Allies"
+    ],
+    "image_url": "https://theblop.org/assets/images/7fd4bb5e-2143-414c-9056-6ec0f26f4c44.png",
+    "thumbnail_url": "https://theblop.org/assets/images/7fd4bb5e-2143-414c-9056-6ec0f26f4c44-thumb.jpg",
+    "canonical_id": "",
+    "permalink": "https://theblop.org/events/7fd4bb5e-2143-414c-9056-6ec0f26f4c44.html",
+    "ical": "https://theblop.org/assets/ical/7fd4bb5e-2143-414c-9056-6ec0f26f4c44.ics",
+    "raw_text": "Blue Water Indivisible\nBridging the Divide\nHANDS OFF!\nEDUCATION • MEDICAID • MEDICARE • COURTS • FEMA •\nSOCIAL SECURITY • VETERANS SERVICES • LGBTQ+ RIGHTS •\nPUBLIC LANDS • UNIVERSITIES • JUDGES • RESEARCH •\nLIBRARIES • IMMIGRANTS • CLEAN ENERGY • PERSONAL DATA •\nFISH AND WILDLIFE • CANADA!!!\n\nHANDS OFF! BLUE WATER AREA FIGHTS BACK!!\nWHEN: 1 TO 3 P.M., SAT., APRIL 5, 2025\nWHERE: Pine Grove Park to the Blue Water Bridge\n\nJoin us at the Huron Lightship at the north end of\nPine Grove Park in Port Huron to walk the boardwalk to the Blue Water Bridge. Bring your signs!!\n\nIn collaboration with Blue Water Allies",
+    "raw_summary": "The image is a flyer for an event organized by 'Blue Water Indivisible' titled 'Hands Off!' relating to social and political issues. It announces a gathering on April 5, 2025, in the Blue Water area to protect various public services and rights. Details include time and location: Pine Grove Park to Blue Water Bridge, Port Huron."
+  },
+  {
+    "id": "1b485649-07e8-431e-9a6f-47cee3a114f8",
+    "title": "Remove Reverse Reclaim",
+    "date": "Saturday, April 5, 2025",
+    "time": "12:00 PM",
+    "description": "We are organizing a protest to remove corrupt politicians, reverse the damage, and reclaim our democracy.",
+    "city": "Augusta",
+    "state": "GA",
+    "address": "505 Telfair St",
+    "meeting_location": "Augusta City Hall",
+    "links": [
+      "allmylinks.com/50501augustaga"
+    ],
+    "sponsors": [],
+    "image_url": "https://theblop.org/assets/images/1b485649-07e8-431e-9a6f-47cee3a114f8.png",
+    "thumbnail_url": "https://theblop.org/assets/images/1b485649-07e8-431e-9a6f-47cee3a114f8-thumb.jpg",
+    "canonical_id": "",
+    "permalink": "https://theblop.org/events/1b485649-07e8-431e-9a6f-47cee3a114f8.html",
+    "ical": "https://theblop.org/assets/ical/1b485649-07e8-431e-9a6f-47cee3a114f8.ics",
+    "raw_text": "REMOVE REVERSE RECLAIM\nREMOVE CORRUPT POLITICIANS FROM OFFICE\nREVERSE THE DAMAGE\nRECLAIM OUR DEMOCRACY\nSATURDAY APRIL 5, 2025\nAUGUSTA 50501\nAUGUSTA CITY HALL\n505 TELFAIR ST\nAUGUSTA GA\n12 - 2 PM\nallmylinks.com/50501augustaga #50501AugustaGA",
+    "raw_summary": "The image is an event flyer for a protest titled \"Remove Reverse Reclaim\" aimed at removing corrupt politicians and reclaiming democracy. It is scheduled for Saturday, April 5, 2025, in Augusta, Georgia, at the Augusta City Hall."
   },
   {
     "id": "79e512e8-7190-4c2e-b35d-c919832240a4",

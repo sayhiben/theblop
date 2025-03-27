@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:fbda3a07-0595-45a3-b85f-d5801f70afba
+SEQUENCE:0
+DTSTAMP:20250327T180408Z
+DTSTART:20250403T180000
+DTEND:20250403T200000
+SUMMARY:Protest Sign Making Workshop
+LOCATION:140 Vesta St\, Reno\, NV
+DESCRIPTION:Come join our Protest Sign Workshop! Bring your ideas\, and we
+ ’ll provide you with all the supplies and inspiration to create bold sig
+ ns for Northern Nevada’s April 5th protest demanding our government upho
+ ld the constitution.\n\nThe Holland Project\, Serva Pool Space
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=140+Vesta+St
+ %2C+Reno%2C+NV&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

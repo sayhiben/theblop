@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:68eb7579-3b96-49a6-a938-a51c896d7372
+SEQUENCE:0
+DTSTAMP:20250327T180408Z
+DTSTART:20250328T163000
+DTEND:20250328T183000
+SUMMARY:Peace Vigil
+LOCATION:4th and Water St.\, Olympia\, WA
+DESCRIPTION:Join us every Friday for a peace vigil at 4th and Water St. in
+  Olympia\, WA. This Friday\, we call for the release of Mahmoud Khalil.\n\
+ n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=4th+and+Wate
+ r+St.%2C+Olympia%2C+WA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

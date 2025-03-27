@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:0cdd388b-1e9f-4e81-aa89-9f85f408de0b
+SEQUENCE:0
+DTSTAMP:20250327T180407Z
+DTSTART:20250327T153000
+DTEND:20250327T173000
+SUMMARY:Rally to Resign
+LOCATION:Daley Center Plaza\, Chicago\, IL
+DESCRIPTION:We are joining Rep. Krishnamoorthi and Illinois leaders to dem
+ and Pete Hegseth's resignation for disclosing classified information and e
+ ndangering lives. The event serves as a call to action for transparency an
+ d accountability.\n\nDaley Plaza
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Daley+Center
+ +Plaza%2C+Chicago%2C+IL&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

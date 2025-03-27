@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:a1e60edc-5226-4ab3-bba7-f47649d4f006
+SEQUENCE:0
+DTSTAMP:20250327T180408Z
+DTSTART:20250405T120000
+DTEND:20250405T140000
+SUMMARY:Hands Off! Peaceful March & Rally
+LOCATION:University Way\, Ellensburg\, WA
+DESCRIPTION:This rally promotes protecting democracy\, diversity\, rights\
+ , and data through a peaceful march starting at University Way and conclud
+ ing at Unity Park.\n\nUniversity Way (Barge to Kamola)\, Rally at Unity Pa
+ rk
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=University+W
+ ay%2C+Ellensburg%2C+WA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

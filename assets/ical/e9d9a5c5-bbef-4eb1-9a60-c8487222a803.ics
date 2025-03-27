@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:bedd71b4-8ff8-4608-8387-7b8159be8b4e
+SEQUENCE:0
+DTSTAMP:20250327T180408Z
+DTSTART:20250329T120000
+DTEND:20250329T140000
+SUMMARY:Peace\, ❤️ and a Handshake
+LOCATION:Peace Arch Park\, Blaine\, WA
+DESCRIPTION:Meeting each other at the Peace Arch Monument. American and Ca
+ nadian citizens coming together in peace\, love and support of one another
+ . There’s honour in a handshake amongst longstanding FRIENDS and SOVEREI
+ GN ALLIES. FLAGS and messages of SOLIDARITY are welcome.\n\nPeace Arch Par
+ k
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Peace+Arch+P
+ ark%2C+Blaine%2C+WA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

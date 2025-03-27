@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:691b4cce-3c2d-45d2-8691-945741635f24
+SEQUENCE:0
+DTSTAMP:20250327T180408Z
+DTSTART:20250405T120000
+DTEND:20250405T140000
+SUMMARY:RALLY & MARCH
+LOCATION:\, SeaTac\, WA
+DESCRIPTION:We are organizing a rally and march to unite people in support
+ ing causes such as melting ICE\, funding public schools\, supporting immig
+ rant and trans students\, and defending public workers and services.\n\nAn
+ gle Lake Park\, 19408 International Blvd\; Federal Detention Center\, 2425
+  S 200th St\, SeaTac
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+SeaTac%2
+ C+WA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

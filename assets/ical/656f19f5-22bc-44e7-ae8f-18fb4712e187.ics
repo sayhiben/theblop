@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:4dcf9697-c8b9-41b1-80c7-eddacb766b00
+SEQUENCE:0
+DTSTAMP:20250327T180408Z
+DTSTART:20250329T103000
+DTEND:20250329T123000
+SUMMARY:Take a Stand for Public Education
+LOCATION:Bothell Landing Park\, Bothell\, WA
+DESCRIPTION:Join us for a peaceful\, positive event to support kids and ed
+ ucators. We will hold signs along Bothell Way. All are welcome.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Bothell+Land
+ ing+Park%2C+Bothell%2C+WA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

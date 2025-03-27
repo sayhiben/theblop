@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:427e99f0-6d11-4350-a79b-17414ec6dd40
+SEQUENCE:0
+DTSTAMP:20250327T180408Z
+DTSTART:20250405T130000
+DTEND:20250405T150000
+SUMMARY:Hands Off!
+LOCATION:Pine Grove Park to the Blue Water Bridge\, Port Huron\, MI
+DESCRIPTION:Join us at the Huron Lightship to walk the boardwalk to the Bl
+ ue Water Bridge in support of protecting public services and rights.\n\nHu
+ ron Lightship at the north end of Pine Grove Park
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Pine+Grove+P
+ ark+to+the+Blue+Water+Bridge%2C+Port+Huron%2C+MI&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

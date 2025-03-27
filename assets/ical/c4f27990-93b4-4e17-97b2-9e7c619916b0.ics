@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:d170420b-dc1a-4dc0-868b-997150d2330b
+SEQUENCE:0
+DTSTAMP:20250327T180408Z
+DTSTART:20250405T120000
+DTEND:20250405T140000
+SUMMARY:Everyone Into The Streets!
+LOCATION:Waterfront Park\, Poulsbo\, WA
+DESCRIPTION:Join us for a public gathering as we take to the streets at Wa
+ terfront Park in Poulsbo. The event is expected to bring the community tog
+ ether to celebrate and enjoy the vibrant atmosphere.\n\nWaterfront Park
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Waterfront+P
+ ark%2C+Poulsbo%2C+WA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

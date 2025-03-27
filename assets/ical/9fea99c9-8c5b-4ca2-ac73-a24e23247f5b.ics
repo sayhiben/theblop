@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:769ba727-f818-495d-bf05-bc8cf9313756
+SEQUENCE:0
+DTSTAMP:20250327T180408Z
+DTSTART:20250405T120000
+DTEND:20250405T140000
+SUMMARY:HANDS OFF! Mass Mobilization
+LOCATION:350 Court Street\, San Juan Island\, WA
+DESCRIPTION:We are organizing a mass mobilization on April 5th to fight ba
+ ck against those who believe this country belongs to them. Our event is a 
+ protest against the actions affecting our healthcare\, data\, jobs\, and s
+ ervices. Join us to make a stand.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=350+Court+St
+ reet%2C+San+Juan+Island%2C+WA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

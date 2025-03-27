@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:33fb4db6-d4d3-4933-8cc3-cb9bd3201407
+SEQUENCE:0
+DTSTAMP:20250327T180408Z
+DTSTART:20250329T130000
+DTEND:20250329T150000
+SUMMARY:Solidarity Day
+LOCATION:1623 East J St.\, Tacoma\, WA
+DESCRIPTION:Join La Resistencia to demand the release of everyone detained
+ \, those that have been detained and have made the news\, and those that n
+ o media cares about. We demand the release of absolutely every person impr
+ isoned by ICE and in danger at the hands of Geo Group.\n\n1623 East J St.
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=1623+East+J+
+ St.%2C+Tacoma%2C+WA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

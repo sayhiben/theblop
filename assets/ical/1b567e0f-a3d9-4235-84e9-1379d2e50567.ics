@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:c830ff9a-42c3-4060-9c1e-e1453903b35f
+SEQUENCE:0
+DTSTAMP:20250327T180408Z
+DTSTART:20250330T140000
+DTEND:20250330T160000
+SUMMARY:March for TDOV 25
+LOCATION:Washington State Capitol Steps\, Olympia\, WA
+DESCRIPTION:Join us for a march in celebration of community\, solidarity\,
+  and rebellion as we launch a campaign to extend sanctuary protections for
+  trans people across Washington State.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Washington+S
+ tate+Capitol+Steps%2C+Olympia%2C+WA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
