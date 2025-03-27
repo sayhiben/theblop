@@ -5105,6 +5105,28 @@
     "raw_summary": "A rally event protesting Brad Schimel is scheduled for March 29th in Franksville, WI. It is organized by Working Families Power and aims to voice opposition against Brad Schimel's associations and policies. The event will take place at Tavern on H from 1:30 to 2:30pm."
   },
   {
+    "id": "77a862a2-a806-42f4-8c84-4b0f8e5b8107",
+    "title": "March for Land Day",
+    "date": "Saturday, March 29, 2025",
+    "time": "1:00 PM",
+    "description": "Join us for a march to observe Land Day, advocating against genocide and for an arms embargo on Israel.",
+    "city": "Chicago",
+    "state": "IL",
+    "address": "Water Tower Park, Chicago Ave. & Michigan Ave",
+    "meeting_location": "Water Tower Park",
+    "links": [],
+    "sponsors": [
+      "Chicago Coalition for Justice in Palestine"
+    ],
+    "image_url": "https://theblop.org/assets/images/77a862a2-a806-42f4-8c84-4b0f8e5b8107.jpg",
+    "thumbnail_url": "https://theblop.org/assets/images/77a862a2-a806-42f4-8c84-4b0f8e5b8107-thumb.jpg",
+    "canonical_id": "",
+    "permalink": "https://theblop.org/events/77a862a2-a806-42f4-8c84-4b0f8e5b8107.html",
+    "ical": "https://theblop.org/assets/ical/77a862a2-a806-42f4-8c84-4b0f8e5b8107.ics",
+    "raw_text": "THE CHICAGO COALITION FOR JUSTICE IN PALESTINE\nMARCH FOR LAND DAY\nيوم الأرض\nEND THE GENOCIDE | ARMS EMBARGO ON ISRAEL NOW!\n\nSATURDAY, MARCH 29TH | 1PM\n\nWATER TOWER PARK\nCHICAGO AVE. & MICHIGAN AVE",
+    "raw_summary": "A flyer announcing a march for Land Day organized by the Chicago Coalition for Justice in Palestine. The event calls for ending genocide and an arms embargo on Israel. Taking place on Saturday, March 29th at 1 PM at Water Tower Park, Chicago Ave. & Michigan Ave."
+  },
+  {
     "id": "98cf8c0e-0c5f-45a7-afba-c1f2c53d8647",
     "title": "MI Resist Events",
     "date": "Sunday, March 30, 2025",
@@ -20662,6 +20684,50 @@
     "ical": "https://theblop.org/assets/ical/bdbec9cf-32a1-4a94-8fa1-15bb965de737.ics",
     "raw_text": "50 PROTESTS 50 STATES 1 MOVEMENT\n\nNATIONAL DAY OF ACTION\nVETO PROJECT 2025\n\nSATURDAY APRIL 5TH, 2025\n\nCOLUMBUS, OH\nOHIO STATEHOUSE\n1 CAPITOL SQ.\nCOLUMBUS, OH 43215\nIN FRONT OF MCKINLEY MEMORIAL\n\nNOON TO 3 PM\n\nOUR TENETS\nUPHOLD THE CONSTITUTION\nEND EXECUTIVE OVERREACH\nLIBERTY AND JUSTICE FOR ALL\n\nPROTEST INFORMATION:\n- ALL ARE WELCOME\n- RAIN OR SHINE\n- FEATURING GUEST SPEAKERS\n- MAKE YOUR VOICES HEARD!\n\nTHIS EVENT IS IN COALITION WITH:\nINDIVISIBLE, 5050IOH.IO, INDIVISIBLECENTRALOHIO.ORG, COMMONCAUSE.ORG",
     "raw_summary": "The flyer announces a nationwide protest event, part of the \"Veto Project 2025,\" taking place in all 50 states, specifically providing details for the Columbus, Ohio location at the Ohio Statehouse. It is scheduled for Saturday, April 5th, 2025, from noon to 3 PM. The event is to address constitutional and executive topics, promoting participation regardless of weather conditions."
+  },
+  {
+    "id": "84cf2b3b-1ab5-451c-95b8-1e97e36510f0",
+    "title": "Defend Democracy Rally",
+    "date": "Saturday, April 5, 2025",
+    "time": "12:30 PM",
+    "description": "Join us at the Beaufort Courthouse to rally against actions by Trump and Musk, and defend essential services and rights such as Medicare, Social Security, fair elections, and more.",
+    "city": "Beaufort",
+    "state": "NC",
+    "address": "200 Courthouse Square",
+    "meeting_location": "Beaufort Courthouse",
+    "links": [],
+    "sponsors": [],
+    "image_url": "https://theblop.org/assets/images/84cf2b3b-1ab5-451c-95b8-1e97e36510f0.jpg",
+    "thumbnail_url": "https://theblop.org/assets/images/84cf2b3b-1ab5-451c-95b8-1e97e36510f0-thumb.jpg",
+    "canonical_id": "",
+    "permalink": "https://theblop.org/events/84cf2b3b-1ab5-451c-95b8-1e97e36510f0.html",
+    "ical": "https://theblop.org/assets/ical/84cf2b3b-1ab5-451c-95b8-1e97e36510f0.ics",
+    "raw_text": "DEFEND DEMOCRACY RALLY\nBEAUFORT COURTHOUSE\n12:30 - 2:30\n200 Courthouse Square .. Beaufort, NC 28516\nHANDS OFF!\nMEDICAID • MEDICARE • SOCIAL SECURITY • OUR JOBS\nOUR WALLETS • OUR BODIES • FAIR ELECTIONS\nPERSONAL DATA • PUBLIC LANDS • VETERAN SERVICES • CANCER RESEARCH • NATO • CONSUMER PROTECTIONS • CLEAN AIR • CLEAN ENERGY • SCHOOLS • LIBRARIES • FREE SPEECH • LGBTQ+ RIGHTS • IMMIGRANTS • COURTS • MORE\nMASS MOBILIZATION\nWE MUST STOP TRUMP AND MUSK’S ILLEGAL, BILLIONAIRE POWER GRAB.\nSATURDAY\nAPRIL 5",
+    "raw_summary": "The image promotes a 'Defend Democracy Rally' at Beaufort Courthouse on April 5, from 12:30 to 2:30. The event aims to protest political actions by Trump and Musk. The address is 200 Courthouse Square, Beaufort, NC 28516."
+  },
+  {
+    "id": "983b5c59-55a9-4fd7-867b-0fb657d76cbe",
+    "title": "HANDS OFF!",
+    "date": "Saturday, April 5, 2025",
+    "time": "12:00 PM",
+    "description": "The event is a protest in Fort Collins against perceived hostile actions by influential figures, stressing urgency in defending community rights and resources.",
+    "city": "Fort Collins",
+    "state": "CO",
+    "address": "Civic Center Park, Fort Collins (Howes St. & LaPorte Ave)",
+    "meeting_location": "",
+    "links": [
+      "[]"
+    ],
+    "sponsors": [
+      "[]"
+    ],
+    "image_url": "https://theblop.org/assets/images/983b5c59-55a9-4fd7-867b-0fb657d76cbe.png",
+    "thumbnail_url": "https://theblop.org/assets/images/983b5c59-55a9-4fd7-867b-0fb657d76cbe-thumb.jpg",
+    "canonical_id": "",
+    "permalink": "https://theblop.org/events/983b5c59-55a9-4fd7-867b-0fb657d76cbe.html",
+    "ical": "https://theblop.org/assets/ical/983b5c59-55a9-4fd7-867b-0fb657d76cbe.ics",
+    "raw_text": "HANDS OFF!\nOur Jobs, Our Wallets, Our Bodies\nMedicaid, Medicare, Social Security\nFair Elections, A Public Option, Cancer Research, Clean Energy\nLands, Resources, Protection\nSchools, Libraries, Free Speech\nLGBTQ Rights, Immigrants, Courts\n\nDonald Trump and Elon Musk think this country belongs to them.\nFort Collins is fighting back!\nThey're taking everything they can get their hands on—our health care, our data, our jobs, our services—and daring the world to stop them. This is a crisis, and the time to act is now. We're taking to the streets to fight back with a clear message: Hands off!\n\nOn Saturday, April 5, 2025 at 12:00 PM\nWhere: Civic Center Park, Fort Collins (Howes St. & LaPorte Ave)",
+    "raw_summary": "The flyer is announcing a protest event against Donald Trump and Elon Musk, urging the community in Fort Collins to oppose certain political and social actions by taking to the streets."
   },
   {
     "id": "79e512e8-7190-4c2e-b35d-c919832240a4",

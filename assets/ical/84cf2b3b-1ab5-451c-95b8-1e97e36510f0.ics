@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:c4d484f3-a752-487b-b7d7-c36dfd319ba8
+SEQUENCE:0
+DTSTAMP:20250327T150259Z
+DTSTART:20250405T123000
+DTEND:20250405T143000
+SUMMARY:Defend Democracy Rally
+LOCATION:200 Courthouse Square\, Beaufort\, NC
+DESCRIPTION:Join us at the Beaufort Courthouse to rally against actions by
+  Trump and Musk\, and defend essential services and rights such as Medicar
+ e\, Social Security\, fair elections\, and more.\n\nBeaufort Courthouse
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=200+Courthou
+ se+Square%2C+Beaufort%2C+NC&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

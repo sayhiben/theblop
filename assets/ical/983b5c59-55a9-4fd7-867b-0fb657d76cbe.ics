@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:45b2514a-af1e-471f-9eb4-74ff6178b852
+SEQUENCE:0
+DTSTAMP:20250327T150259Z
+DTSTART:20250405T120000
+DTEND:20250405T140000
+SUMMARY:HANDS OFF!
+LOCATION:Civic Center Park\, Fort Collins (Howes St. & LaPorte Ave)
+DESCRIPTION:The event is a protest in Fort Collins against perceived hosti
+ le actions by influential figures\, stressing urgency in defending communi
+ ty rights and resources.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Civic+Center
+ +Park%2C+Fort+Collins+%28Howes+St.+%26+LaPorte+Ave%29&zoom=15&basemap=road
+ map
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

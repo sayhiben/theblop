@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:382692b7-5b2b-49ae-ae56-dd9d30b92012
+SEQUENCE:0
+DTSTAMP:20250327T150259Z
+DTSTART:20250329T130000
+DTEND:20250329T150000
+SUMMARY:March for Land Day
+LOCATION:Water Tower Park\, Chicago Ave. & Michigan Ave\, Chicago\, IL
+DESCRIPTION:Join us for a march to observe Land Day\, advocating against g
+ enocide and for an arms embargo on Israel.\n\nWater Tower Park
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Water+Tower+
+ Park%2C+Chicago+Ave.+%26+Michigan+Ave%2C+Chicago%2C+IL&zoom=15&basemap=roa
+ dmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
