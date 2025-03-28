@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:d91b19bb-07f0-45a7-8f2c-0bb892eefee6
+SEQUENCE:0
+DTSTAMP:20250328T000550Z
+DTSTART:20250328T180000
+DTEND:20250328T200000
+SUMMARY:Save Wisconsin Rally
+LOCATION:Corner of Park Ave and Main St\, Germantown\, WI
+DESCRIPTION:Join us to protest the "Save Wisconsin Rally" featuring speake
+ rs Brad Schimel\, Scott Fitzgerald\, and others. The protest aims to make 
+ our voices heard in Germantown.\n\nBub's Irish Pub
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Corner+of+Pa
+ rk+Ave+and+Main+St%2C+Germantown%2C+WI&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

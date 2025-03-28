@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:838b1567-ffcd-4fa1-a553-082ad8ddbf23
+SEQUENCE:0
+DTSTAMP:20250328T000551Z
+DTSTART:20250329T140000
+DTEND:20250329T160000
+SUMMARY:Land Day Rally and March
+LOCATION:Maple Street Bridge\, Northside Overpass
+DESCRIPTION:Join us for the Land Day Rally and March as we come together f
+ or a cause at the Maple Street Bridge.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Maple+Street
+ +Bridge%2C+Northside+Overpass&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

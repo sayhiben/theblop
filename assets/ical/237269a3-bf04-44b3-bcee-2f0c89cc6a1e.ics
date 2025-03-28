@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:db759de3-aded-47db-893a-2904695a4fc5
+SEQUENCE:0
+DTSTAMP:20250328T000551Z
+DTSTART:20250405T120000
+DTEND:20250405T140000
+SUMMARY:Hands Off!
+LOCATION:Washington Monument\, 2 15th St NW\, Washington\, DC
+DESCRIPTION:We must stop Trump and Musk's illegal\, billionaire power grab
+ . This event highlights the need to protect various social services and ri
+ ghts\, such as Medicare\, Medicaid\, schools\, and more.\n\nWashington Mon
+ ument
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Washington+M
+ onument%2C+2+15th+St+NW%2C+Washington%2C+DC&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

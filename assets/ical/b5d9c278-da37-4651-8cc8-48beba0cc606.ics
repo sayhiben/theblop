@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:08782dfa-ba22-41ec-ab66-15d7a49e3318
+SEQUENCE:0
+DTSTAMP:20250328T000551Z
+DTSTART:20250330T120000
+DTEND:20250330T140000
+SUMMARY:Mass Media March
+LOCATION:207 10th Street NW\, Atlanta\, GA
+DESCRIPTION:We are organizing a 'Mass Media March' to raise awareness and 
+ make our voices heard with the theme 'Ignore us when we’re at your front
+  door'.\n\nCNN Techwood Campus
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=207+10th+Str
+ eet+NW%2C+Atlanta%2C+GA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

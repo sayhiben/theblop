@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:2ab33058-8d6a-4c99-88df-e87ed7620594
+SEQUENCE:0
+DTSTAMP:20250328T000551Z
+DTSTART:20250405T110000
+DTEND:20250405T130000
+SUMMARY:Remove Reverse Reclaim Picnic Protest
+LOCATION:State Capitol\, 1310 10th St\, Sacramento\, CA
+DESCRIPTION:Join us to remove corrupt politicians from office\, reverse th
+ e damage\, and reclaim our democracy. Participate in a picnic and protest 
+ with your community.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=State+Capito
+ l%2C+1310+10th+St%2C+Sacramento%2C+CA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
