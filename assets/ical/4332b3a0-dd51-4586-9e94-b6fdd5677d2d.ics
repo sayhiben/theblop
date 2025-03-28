@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:96da0de1-e60f-424c-990e-d9a2e30da386
+SEQUENCE:0
+DTSTAMP:20250328T060303Z
+DTSTART:20250405T150000
+DTEND:20250405T170000
+SUMMARY:Hands Off!
+LOCATION:641 Camino De Los Mares\, San Clemente\, CA
+DESCRIPTION:Join a protest against the policies and actions of Trump and M
+ usk impacting various social services and rights. Part of a nationwide pro
+ test aiming to gather 500 people\, emphasizing a stand on multiple social 
+ issues.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=641+Camino+D
+ e+Los+Mares%2C+San+Clemente%2C+CA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

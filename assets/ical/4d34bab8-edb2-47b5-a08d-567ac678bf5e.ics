@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:2448d941-ca52-4698-9367-b73303b05571
+SEQUENCE:0
+DTSTAMP:20250328T060303Z
+DTSTART:20250419T110000
+DTEND:20250419T130000
+SUMMARY:Voice Heard ‘Round the World
+LOCATION:Old North Bridge\, Concord\, MA
+DESCRIPTION:On the 250th anniversary of the shot heard ‘round the world\
+ , we stand against abuses of power. Join us at the start of the American R
+ evolutionary War site to make your voice heard.\n\nOld North Bridge
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Old+North+Br
+ idge%2C+Concord%2C+MA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

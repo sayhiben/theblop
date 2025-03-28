@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:330886c9-6be4-4589-a932-c2786783615b
+SEQUENCE:0
+DTSTAMP:20250328T060303Z
+DTSTART:20250405T140000
+DTEND:20250405T160000
+SUMMARY:HANDS OFF!
+LOCATION:Lafayette Square\, New Orleans\, LA
+DESCRIPTION:Join us to protest and reclaim our lands\, libraries\, healthc
+ are\, schools\, veteran services\, and more. This is a movement across 50 
+ states to protect civil resources and rights.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Lafayette+Sq
+ uare%2C+New+Orleans%2C+LA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
