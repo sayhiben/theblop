@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:2a2dc76c-8c47-49f0-a333-6bee75a81f27
+SEQUENCE:0
+DTSTAMP:20250328T031444Z
+DTSTART:20250329T130000
+DTEND:20250329T150000
+SUMMARY:Stand with Immigrants
+LOCATION:1623 E J St\, Tacoma\, WA
+DESCRIPTION:We are gathering to defend humanity and reject the Alien Enemi
+ es Act. Join us to stand against deportations without due process and supp
+ ort immigrants’ rights.\n\nNWDC
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=1623+E+J+St%
+ 2C+Tacoma%2C+WA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
