@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:3cd2701a-6c4d-49a1-9cdb-da2ff61b24a5
+SEQUENCE:0
+DTSTAMP:20250328T120313Z
+DTSTART:20250405T110000
+DTEND:20250405T130000
+SUMMARY:HANDS OFF!
+LOCATION:Bicentennial Plaza\, Raleigh\, NC
+DESCRIPTION:We are organizing a HANDS OFF! event to support democracy and 
+ encourage food donations. Join us in contributing essential food items to 
+ FBCENC. This is a community effort to ensure those in need receive proper 
+ nutrition.\n\nBicentennial Plaza
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Bicentennial
+ +Plaza%2C+Raleigh%2C+NC&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
