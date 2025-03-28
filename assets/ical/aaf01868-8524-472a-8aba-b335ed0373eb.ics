@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:6e555785-b989-43ad-9ce8-2fde05eee661
+SEQUENCE:0
+DTSTAMP:20250328T180302Z
+DTSTART:20250405T130000
+DTEND:20250405T150000
+SUMMARY:HANDS OFF!
+LOCATION:Terre Haute Courthouse\, Terre Haute\, IN
+DESCRIPTION:Join Indivisible Wabash Valley in a rally to protest against t
+ hreats to jobs\, wallets\, bodies\, Medicaid\, Medicare\, social security\
+ , fair elections\, personal protections\, clean air\, LGBT+ rights\, and i
+ mmigrant rights.\n\nTerre Haute Courthouse
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Terre+Haute+
+ Courthouse%2C+Terre+Haute%2C+IN&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

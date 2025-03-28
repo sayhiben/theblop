@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:19df703b-5f89-4459-a5fd-7e911fe214c0
+SEQUENCE:0
+DTSTAMP:20250328T180301Z
+DTSTART:20250330T180000
+DTEND:20250330T200000
+SUMMARY:Rally Against Schimel
+LOCATION:605 Fond du Lac Ave\, Fond du Lac\, WI
+DESCRIPTION:Fighting against Schimel\, MAGA\, and the Trump Agenda. We wil
+ l occupy public spaces near the venue. Expect a pro Schimel rally - please
+  be respectful\, peaceful\, and safe.\n\nKorneli's on the Avenue
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=605+Fond+du+
+ Lac+Ave%2C+Fond+du+Lac%2C+WI&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

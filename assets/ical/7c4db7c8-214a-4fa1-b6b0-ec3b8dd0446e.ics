@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:1f07fe86-6f6d-4233-a95c-9adc7a65c77b
+SEQUENCE:0
+DTSTAMP:20250328T180301Z
+DTSTART:20250404T183000
+DTEND:20250404T203000
+SUMMARY:Sign Making for Democracy!
+LOCATION:901 Wythe St.\, Alexandria\, VA
+DESCRIPTION:Join us for a sign-making event ahead of the “Hands Off!” 
+ National March. We’ll gather to prepare signs for the march\, welcoming 
+ all participants to contribute even if they cannot join the march.\n\nChar
+ les Houston Recreation Center
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=901+Wythe+St
+ .%2C+Alexandria%2C+VA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
