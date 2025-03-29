@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:a32b666b-c718-4d13-803d-6262377dd043
+SEQUENCE:0
+DTSTAMP:20250329T000551Z
+DTSTART:20250331T120000
+DTEND:20250331T140000
+SUMMARY:Let Us Work: Info Picket Defending Civil Service
+LOCATION:1700 G St NW\, Washington\, DC
+DESCRIPTION:We welcome our union siblings\, current or unjustly fired\, fr
+ om the Dept of Energy\, Ed\, FEMA\, HUD\, HHS\, IRS\, and others to join u
+ s for a community gathering with solidarity and pizza.\n\nCFPB Headquarter
+ s
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=1700+G+St+NW
+ %2C+Washington%2C+DC&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
