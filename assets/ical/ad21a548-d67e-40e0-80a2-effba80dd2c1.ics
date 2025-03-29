@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:2d3a9fa9-6ab6-42ad-b081-78aa2b626340
+SEQUENCE:0
+DTSTAMP:20250329T180245Z
+DTSTART:20250405T120000
+DTEND:20250405T140000
+SUMMARY:Hands Off! March Against Power Grab
+LOCATION:Corner of 933 and Brother Andre Drive\, South Bend\, IN
+DESCRIPTION:We are gathering for a protest march against the Trump-Musk il
+ legal billionaire power grab. Join us to march from The Inn at St Mary's t
+ o the intersection of Angela and 933\, and back.\n\nThe Inn at St Mary's
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Corner+of+93
+ 3+and+Brother+Andre+Drive%2C+South+Bend%2C+IN&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

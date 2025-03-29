@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:f8590873-d90e-4ecc-bb37-5047f0e62d50
+SEQUENCE:0
+DTSTAMP:20250329T180245Z
+DTSTART:20250401T120000
+DTEND:20250401T140000
+SUMMARY:Walk-Out of Class
+LOCATION:\, Medford\, MA
+DESCRIPTION:We invite you to join our walk-out of class to stand against o
+ ppression and demand the release of Mahmoud and Rumeysa while supporting t
+ he freedom of Palestine. Meet us outside Ballou at noon on April 1st.\n\nO
+ utside Ballou
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+Medford%
+ 2C+MA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
