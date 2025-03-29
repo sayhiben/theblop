@@ -3794,6 +3794,26 @@
     "raw_summary": "The image describes an event called Solidarity Day hosted by La Resistencia, addressing the demand for the release of detainees by ICE, scheduled for March 29, 2025, in Tacoma, WA."
   },
   {
+    "id": "1bb6c620-32be-470b-a510-26c68407085f",
+    "title": "Finding Kean Fridays",
+    "date": "Saturday, March 29, 2025",
+    "time": "12:00 PM",
+    "description": "We demand an in-person town hall meeting at the Bernardsville Train Station. Bring your signs and friends to join the cause.",
+    "city": "Bernardsville",
+    "state": "NJ",
+    "address": "Bernardsville Train Station",
+    "meeting_location": "Bernardsville Train Station",
+    "links": [],
+    "sponsors": [],
+    "image_url": "https://theblop.org/assets/images/1bb6c620-32be-470b-a510-26c68407085f.jpg",
+    "thumbnail_url": "https://theblop.org/assets/images/1bb6c620-32be-470b-a510-26c68407085f-thumb.jpg",
+    "canonical_id": "",
+    "permalink": "https://theblop.org/events/1bb6c620-32be-470b-a510-26c68407085f.html",
+    "ical": "https://theblop.org/assets/ical/1bb6c620-32be-470b-a510-26c68407085f.ics",
+    "raw_text": "WE THE PEOPLE DEMAND IN-PERSON TOWN HALL! FINDING KEAN FRIDAYS FRIDAYS AT NOON BERNARDSVILLE TRAIN STATION BRING YOUR SIGNS BRING YOUR FRIENDS",
+    "raw_summary": "The image is a flyer for a public event called 'Finding Kean Fridays,' demanding an in-person town hall. It specifies the event time as 'Fridays at Noon' and the location as the Bernardsville Train Station."
+  },
+  {
     "id": "98cf8c0e-0c5f-45a7-afba-c1f2c53d8647",
     "title": "MI Resist Events",
     "date": "Sunday, March 30, 2025",
@@ -20011,6 +20031,73 @@
     "ical": "https://theblop.org/assets/ical/aaf01868-8524-472a-8aba-b335ed0373eb.ics",
     "raw_text": "INDIVISIBLE Wabash Valley HANDS OFF! OUR JOBS OUR WALLETS BODIES MEDICAID MEDICARE SOCIAL SECURITY FAIR ELECTIONS PERSONAL PROTECTIONS CLEAN AIR LGBT+ RIGHTS IMMIGRANTS Terre Haute Courthouse, Sat. April 5, 1pm visit handsoff2025.com for more info",
     "raw_summary": "The image is a flyer promoting an event called \"HANDS OFF!\" organized by Indivisible Wabash Valley. The event will take place at Terre Haute Courthouse on Saturday, April 5, at 1:00 PM. The flyer lists various social issues like Medicare, Medicaid, and fair elections, suggesting the event is possibly a protest or rally. It provides a link for more information."
+  },
+  {
+    "id": "0f8416fe-7b43-4817-ac3c-1016a0bbf60e",
+    "title": "Hands Off! Mass Mobilization",
+    "date": "Saturday, April 5, 2025",
+    "time": "11:30 AM",
+    "description": "Join us for the \"Hands Off!\" mass mobilization event to gather and support our cause at Morristown Town Hall on April 5th.",
+    "city": "Morristown",
+    "state": "NJ",
+    "address": "200 South St",
+    "meeting_location": "Morristown Town Hall",
+    "links": [
+      "handsoff2025.com"
+    ],
+    "sponsors": [
+      "[]"
+    ],
+    "image_url": "https://theblop.org/assets/images/0f8416fe-7b43-4817-ac3c-1016a0bbf60e.jpg",
+    "thumbnail_url": "https://theblop.org/assets/images/0f8416fe-7b43-4817-ac3c-1016a0bbf60e-thumb.jpg",
+    "canonical_id": "",
+    "permalink": "https://theblop.org/events/0f8416fe-7b43-4817-ac3c-1016a0bbf60e.html",
+    "ical": "https://theblop.org/assets/ical/0f8416fe-7b43-4817-ac3c-1016a0bbf60e.ics",
+    "raw_text": "HANDS OFF!\nMASS MOBILIZATION\nSATURDAY, APRIL 5\nhandsoff2025.com\nTime\nSaturday, April 5\n11:30am – 1pm EDT\nLocation\nMorristown Town Hall\n200 South St\nMorristown, NJ 07960",
+    "raw_summary": "The flyer announces a mass mobilization event called \"Hands Off!\" scheduled for Saturday, April 5, at the Morristown Town Hall in Morristown, NJ. The event time is from 11:30 AM to 1 PM EDT. The flyer website is \"handsoff2025.com\"."
+  },
+  {
+    "id": "466bdd86-d817-441d-b889-459d1e75031f",
+    "title": "It's Time to Protest!",
+    "date": "Saturday, April 5, 2025",
+    "time": "3:00 PM",
+    "description": "Join us in fighting back to support the social safety net and democracy. We're opposing Elon Musk and DOGE!",
+    "city": "Fort Worth",
+    "state": "TX",
+    "address": "275 University Dr.",
+    "meeting_location": "Tesla",
+    "links": [],
+    "sponsors": [],
+    "image_url": "https://theblop.org/assets/images/466bdd86-d817-441d-b889-459d1e75031f.jpg",
+    "thumbnail_url": "https://theblop.org/assets/images/466bdd86-d817-441d-b889-459d1e75031f-thumb.jpg",
+    "canonical_id": "",
+    "permalink": "https://theblop.org/events/466bdd86-d817-441d-b889-459d1e75031f.html",
+    "ical": "https://theblop.org/assets/ical/466bdd86-d817-441d-b889-459d1e75031f.ics",
+    "raw_text": "It's time to Protest!\nWe're fighting back! We say YES to the social safety net! We say YES to our democracy!\nSTOP Elon Musk and DOGE!\nSTOP the attack on democracy!\nSaturday, April 5, 2025\n3:00 p.m.\nTesla. 275 University Dr. Fort Worth 76107",
+    "raw_summary": "The event is a protest against Elon Musk and DOGE, scheduled for April 5, 2025, at Tesla's location in Fort Worth, Texas, to oppose threats to democracy."
+  },
+  {
+    "id": "8a099dbb-f703-4eef-8314-7b5895abce12",
+    "title": "Hands Off!",
+    "date": "Saturday, April 5, 2025",
+    "time": "12:00 PM",
+    "description": "Join us for the 'Hands Off!' event in Westminster, MD. We aim to defend democracy and ignite hope. The event will take place across from the library on Locust Ln., with parking available at Longwell Parking Garage on Winters St.",
+    "city": "Westminster",
+    "state": "MD",
+    "address": "On Locust Ln. across from the library",
+    "meeting_location": "Locust Ln. across from the library",
+    "links": [],
+    "sponsors": [
+      "Indivisible Carroll County",
+      " MD"
+    ],
+    "image_url": "https://theblop.org/assets/images/8a099dbb-f703-4eef-8314-7b5895abce12.png",
+    "thumbnail_url": "https://theblop.org/assets/images/8a099dbb-f703-4eef-8314-7b5895abce12-thumb.jpg",
+    "canonical_id": "",
+    "permalink": "https://theblop.org/events/8a099dbb-f703-4eef-8314-7b5895abce12.html",
+    "ical": "https://theblop.org/assets/ical/8a099dbb-f703-4eef-8314-7b5895abce12.ics",
+    "raw_text": "INDIVISIBLE CARROLL COUNTY, MD DEFEND DEMOCRACY, IGNITE HOPE\nHANDS OFF!\nWESTMINSTER, MD\nAPRIL 5TH @ 12PM-2PM\nOn Locust Ln. across from the library\nParking: Longwell Parking Garage on Winters St.\nLEARN MORE indivisiblecarrollcountymd@gmail.com",
+    "raw_summary": "The image promotes an event called 'Hands Off!' by Indivisible Carroll County, MD, taking place in Westminster, MD on April 5th from 12 PM to 2 PM. Location details include Locust Ln. across from the library with parking at Longwell Parking Garage on Winters St."
   },
   {
     "id": "79e512e8-7190-4c2e-b35d-c919832240a4",

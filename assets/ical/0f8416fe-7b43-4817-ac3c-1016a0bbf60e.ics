@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:44233bd7-4b2e-4a1b-bcc6-cfd0b6b0f683
+SEQUENCE:0
+DTSTAMP:20250329T060302Z
+DTSTART:20250405T113000
+DTEND:20250405T133000
+SUMMARY:Hands Off! Mass Mobilization
+LOCATION:200 South St\, Morristown\, NJ
+DESCRIPTION:Join us for the "Hands Off!" mass mobilization event to gather
+  and support our cause at Morristown Town Hall on April 5th.\n\nMorristown
+  Town Hall
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=200+South+St
+ %2C+Morristown%2C+NJ&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

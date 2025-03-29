@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:f986943c-e152-4200-8b76-bdfc06daaa76
+SEQUENCE:0
+DTSTAMP:20250329T060302Z
+DTSTART:20250405T120000
+DTEND:20250405T140000
+SUMMARY:Hands Off!
+LOCATION:On Locust Ln. across from the library\, Westminster\, MD
+DESCRIPTION:Join us for the 'Hands Off!' event in Westminster\, MD. We aim
+  to defend democracy and ignite hope. The event will take place across fro
+ m the library on Locust Ln.\, with parking available at Longwell Parking G
+ arage on Winters St.\n\nLocust Ln. across from the library
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=On+Locust+Ln
+ .+across+from+the+library%2C+Westminster%2C+MD&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

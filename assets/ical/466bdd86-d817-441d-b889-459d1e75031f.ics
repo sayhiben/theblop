@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:0cf57371-127f-4663-8507-0196eca82ed6
+SEQUENCE:0
+DTSTAMP:20250329T060302Z
+DTSTART:20250405T150000
+DTEND:20250405T170000
+SUMMARY:It's time to Protest!
+LOCATION:275 University Dr.\, Fort Worth\, TX
+DESCRIPTION:Join us in fighting back to support the social safety net and 
+ democracy. We're opposing Elon Musk and DOGE!\n\nTesla
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=275+Universi
+ ty+Dr.%2C+Fort+Worth%2C+TX&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

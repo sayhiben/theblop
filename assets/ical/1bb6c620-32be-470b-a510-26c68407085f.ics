@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:26812605-f588-424d-bc34-b6328d16e660
+SEQUENCE:0
+DTSTAMP:20250329T060301Z
+DTSTART:20250329T120000
+DTEND:20250329T140000
+SUMMARY:Finding Kean Fridays
+LOCATION:Bernardsville Train Station\, Bernardsville\, NJ
+DESCRIPTION:We demand an in-person town hall meeting at the Bernardsville 
+ Train Station. Bring your signs and friends to join the cause.\n\nBernards
+ ville Train Station
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Bernardsvill
+ e+Train+Station%2C+Bernardsville%2C+NJ&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
