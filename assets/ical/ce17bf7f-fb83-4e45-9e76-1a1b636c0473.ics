@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:140c2b6a-eb42-47c4-b859-06fc6fa9ba1e
+SEQUENCE:0
+DTSTAMP:20250330T150241Z
+DTSTART:20250405T000000
+DTEND:20250405T020000
+SUMMARY:Orlando 50501
+LOCATION:Orlando City Hall\, Orlando\, FL
+DESCRIPTION:An event organized by Orlando 50/50 with activities planned on
+  April 5th at Orlando City Hall and a meet-up on April 12th in Downtown Or
+ lando. More details to be announced.\n\nDowntown Orlando
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Orlando+City
+ +Hall%2C+Orlando%2C+FL&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
