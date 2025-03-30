@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:6168ab5c-1d29-43fa-8c6f-ab2895d8a415
+SEQUENCE:0
+DTSTAMP:20250330T210250Z
+DTSTART:20250402T170000
+DTEND:20250402T190000
+SUMMARY:Senator Curtis Constituent Meet and Greet
+DESCRIPTION:Join Senator John Curtis for a virtual meet and greet to ask q
+ uestions\, get updates\, and sign up for a one-on-one interaction.\n\nVirt
+ ual
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=&zoom=15&bas
+ emap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:6f77295e-afa1-422b-beb3-b66184895d09
+SEQUENCE:0
+DTSTAMP:20250330T210250Z
+DTSTART:20250401T170000
+DTEND:20250401T190000
+SUMMARY:March on Billionaire’s Row
+LOCATION:15 Central Park West\, New York\, NY
+DESCRIPTION:We are organizing a march to protest and raise awareness about
+  the situation in Gaza. Join us to demand justice with the message 'No War
+  but Class War' and to 'Free Gaza.'\n\nBillionaire’s Row
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=15+Central+P
+ ark+West%2C+New+York%2C+NY&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

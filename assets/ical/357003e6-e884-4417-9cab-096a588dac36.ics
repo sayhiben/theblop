@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:1f722cfd-a928-456b-bfd8-d547e6f377f1
+SEQUENCE:0
+DTSTAMP:20250330T210250Z
+DTSTART:20250402T170000
+DTEND:20250402T190000
+SUMMARY:Senator Curtis Constituent Event
+LOCATION:\, \, Nationwide
+DESCRIPTION:Join U.S. Senator John Curtis for a virtual meet and greet to 
+ engage on federal issues and ideas for legislation. This event encourages 
+ direct conversation and accountability without grandstanding.\n\nVirtual v
+ ia WebEx
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+%2C+Nati
+ onwide&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
