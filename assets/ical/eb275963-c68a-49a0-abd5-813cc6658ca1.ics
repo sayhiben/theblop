@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:e7f62ced-85bc-4a39-b71c-cf90bdf85f8d
+SEQUENCE:0
+DTSTAMP:20250330T180246Z
+DTSTART:20250405T113000
+DTEND:20250405T133000
+SUMMARY:Hands Off!
+LOCATION:Iowa Ave & North Clinton\, Iowa City\, IA
+DESCRIPTION:Join us in a rally to protect our rights and services\, includ
+ ing jobs\, social security\, clean energy\, free speech\, and more. Bring 
+ homemade signs and spread the word via social media and news outlets.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Iowa+Ave+%26
+ +North+Clinton%2C+Iowa+City%2C+IA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
