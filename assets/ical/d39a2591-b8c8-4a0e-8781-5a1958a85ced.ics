@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:01438ac6-869d-49f3-b081-d9aa6788d3e6
+SEQUENCE:0
+DTSTAMP:20250330T031810Z
+DTSTART:20250402T160000
+DTEND:20250402T180000
+SUMMARY:Bannering #3
+LOCATION:I-5 and NE 220th overpass\, Lynnwood\, WA
+DESCRIPTION:Join us for an enthusiastic public demonstration to support de
+ mocracy. Bring signs\, flags\, and your enthusiasm (and a warm jacket).\n\
+ nI-5 and NE 220th overpass
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=I-5+and+NE+2
+ 20th+overpass%2C+Lynnwood%2C+WA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

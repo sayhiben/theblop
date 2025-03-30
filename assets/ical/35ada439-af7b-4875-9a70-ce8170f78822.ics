@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:9635016a-5586-441d-ad43-558c7752288b
+SEQUENCE:0
+DTSTAMP:20250330T031810Z
+DTSTART:20250404T113000
+DTEND:20250404T133000
+SUMMARY:Federal Building Fridays
+LOCATION:915 2nd Ave\, Seattle\, WA
+DESCRIPTION:Join us every Friday to stand in solidarity with federal worke
+ rs against certain political actions. Bring your banners\, chants\, songs\
+ , and more to fight for democracy.\n\nJackson M. Federal Building
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=915+2nd+Ave%
+ 2C+Seattle%2C+WA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

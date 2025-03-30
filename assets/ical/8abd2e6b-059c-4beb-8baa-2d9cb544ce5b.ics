@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:71ad430c-b815-41cc-bea9-9fbd9f4f4b9f
+SEQUENCE:0
+DTSTAMP:20250330T031810Z
+DTSTART:20250402T170000
+DTEND:20250402T190000
+SUMMARY:Stronger Together
+LOCATION:Intersection of Bakerview and Meridian\, Bellingham\, WA
+DESCRIPTION:We envision a nation where immigrants are embraced\, communiti
+ es are enriched\, and justice prevails for all! Come show your support!\n\
+ nIntersection of Bakerview and Meridian
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Intersection
+ +of+Bakerview+and+Meridian%2C+Bellingham%2C+WA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

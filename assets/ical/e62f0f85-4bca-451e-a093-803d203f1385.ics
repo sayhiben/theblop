@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:15d7355e-e597-44db-975b-1d406a03dd1e
+SEQUENCE:0
+DTSTAMP:20250330T031810Z
+DTSTART:20250403T154500
+DTEND:20250403T174500
+SUMMARY:Overpass Bannering
+LOCATION:I-5 overpass at 54th Ave.\, Fife\, WA
+DESCRIPTION:Join the 350Tacoma freeway bannering team to display banners o
+ n the I-5 overpass. Meet at Poodle Dog Restaurant or join us up on the ove
+ rpass.\n\nPoodle Dog Restaurant
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=I-5+overpass
+ +at+54th+Ave.%2C+Fife%2C+WA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
