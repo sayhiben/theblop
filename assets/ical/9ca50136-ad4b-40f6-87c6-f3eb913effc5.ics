@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:8ff1d9d2-97fa-4734-b0f9-6628bcdcf031
+SEQUENCE:0
+DTSTAMP:20250330T000617Z
+DTSTART:20250405T143000
+DTEND:20250405T163000
+SUMMARY:A Nationwide Day of Action
+LOCATION:Texas State Capitol\, 1100 Congress Ave\, Austin\, TX
+DESCRIPTION:Join us to remove corruption from the government\, reverse Cit
+ izens United\, and reclaim our democracy.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Texas+State+
+ Capitol%2C+1100+Congress+Ave%2C+Austin%2C+TX&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
