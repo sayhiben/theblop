@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:bc1f7eb6-3233-4c8d-b955-753ea1cfe58e
+SEQUENCE:0
+DTSTAMP:20250331T000623Z
+DTSTART:20250405T133000
+DTEND:20250405T153000
+SUMMARY:Hands Off We the People
+LOCATION:1615 W Market St\, Akron\, OH
+DESCRIPTION:We the People reject the Trump-Musk coup. Join us in our peace
+ ful dissent. Tell Trump to keep his hands off our rights and services.\n\n
+ Hardesty Park
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=1615+W+Marke
+ t+St%2C+Akron%2C+OH&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
