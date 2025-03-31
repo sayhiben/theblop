@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:e4f8ec5b-3bf2-4b82-a425-729089161f96
+SEQUENCE:0
+DTSTAMP:20250331T120350Z
+DTSTART:20250405T140000
+DTEND:20250405T160000
+SUMMARY:Hands Off! Cape Girardeau Fights Back
+LOCATION:1400 Broadway St\, Broadway St. and N. West End Blvd.\, Cape Gira
+ rdeau\, MO
+DESCRIPTION:Join us for a rally organized to support the Hands Off movemen
+ t\, featuring volunteer efforts to mobilize the community.\n\nCapaha Park
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=1400+Broadwa
+ y+St%2C+Broadway+St.+and+N.+West+End+Blvd.%2C+Cape+Girardeau%2C+MO&zoom=15
+ &basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

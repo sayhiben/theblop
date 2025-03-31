@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:91fbf7c9-02c1-44bd-a880-3c4c56975491
+SEQUENCE:0
+DTSTAMP:20250331T120350Z
+DTSTART:20250402T163000
+DTEND:20250402T183000
+SUMMARY:SAVE DEMOCRACY Rally at Josh Hawley Office Downtown KC
+LOCATION:400 E 9th St\, Kansas City\, MO
+DESCRIPTION:We invite you to join us in our weekly rally to support democr
+ acy. Organized by volunteers for Indivisible\, this event occurs every Wed
+ nesday in downtown Kansas City.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=400+E+9th+St
+ %2C+Kansas+City%2C+MO&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

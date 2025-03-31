@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:52a9b4c4-3e61-4779-be0b-4c462ab7441a
+SEQUENCE:0
+DTSTAMP:20250331T120350Z
+DTSTART:20250405T000000
+DTEND:20250405T020000
+SUMMARY:Remove Reverse Reclaim
+LOCATION:\, Rancho Mirage\, CA
+DESCRIPTION:We aim to remove corrupt politicians from office\, reverse the
+  damage\, and reclaim our democracy through nationwide protests.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+Rancho+M
+ irage%2C+CA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:9569fc3e-0f06-4ca1-ae40-82bc31a432ae
+SEQUENCE:0
+DTSTAMP:20250331T120350Z
+DTSTART:20250405T120000
+DTEND:20250405T140000
+SUMMARY:Hands Off! Joplin Fights Back
+LOCATION:East 7th Street & South Rangeline Road\, Joplin\, MO
+DESCRIPTION:Join us for a hands-off mass mobilization event in Joplin. Vol
+ unteers are organizing a visibility event to support the "Hands Off" movem
+ ent\, aimed at community engagement and awareness.\n\n7th and Rangeline
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=East+7th+Str
+ eet+%26+South+Rangeline+Road%2C+Joplin%2C+MO&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

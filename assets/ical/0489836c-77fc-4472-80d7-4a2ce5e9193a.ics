@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:f1c93e80-d08a-4674-8260-1c56e272f509
+SEQUENCE:0
+DTSTAMP:20250331T120350Z
+DTSTART:20250405T110000
+DTEND:20250405T130000
+SUMMARY:Hands Off! Potosi Fights Back
+LOCATION:102 N. Missouri St.\, Potosi\, MO
+DESCRIPTION:Join us for a rally as Potosi stands together to push back aga
+ inst external influences. Part of a mass mobilization effort.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=102+N.+Misso
+ uri+St.%2C+Potosi%2C+MO&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

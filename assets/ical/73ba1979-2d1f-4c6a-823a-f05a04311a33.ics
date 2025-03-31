@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:85ccbcbe-1b92-4938-a956-f6e74a949e1c
+SEQUENCE:0
+DTSTAMP:20250331T120350Z
+DTSTART:20250405T110000
+DTEND:20250405T130000
+SUMMARY:Hands Off! North Idaho Fights Back
+LOCATION:U.S. 95 & Appleway Avenue\, Coeur d'Alene\, ID
+DESCRIPTION:Join us for a visibility event in Coeur d'Alene\, Idaho\, wher
+ e participants will gather for a 'Honk and Wave' on the sidewalk to show s
+ upport and raise awareness. This volunteer-organized event invites the com
+ munity to make their voices heard.\n\nHwy 95 Coeur d'Alene Honk and Wave\,
+  northbound side near Walgreens
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=U.S.+95+%26+
+ Appleway+Avenue%2C+Coeur+d%27Alene%2C+ID&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

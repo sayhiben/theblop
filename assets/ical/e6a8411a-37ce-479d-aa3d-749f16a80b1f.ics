@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:3409b3c5-1d0d-49ae-a75f-9f4f109e8908
+SEQUENCE:0
+DTSTAMP:20250331T120350Z
+DTSTART:20250405T120000
+DTEND:20250405T140000
+SUMMARY:Hands Off! Indivisible in the Ozarks Fights Back
+LOCATION:South Campbell Overpass\, Springfield\, MO
+DESCRIPTION:A visibility event organized to fight back in the Ozarks regio
+ n.\n\nSouth Campbell Overpass
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=South+Campbe
+ ll+Overpass%2C+Springfield%2C+MO&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

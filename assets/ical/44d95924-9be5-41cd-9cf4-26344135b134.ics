@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:c468af6d-182f-47c1-97fd-a01df52143b6
+SEQUENCE:0
+DTSTAMP:20250331T120350Z
+DTSTART:20250405T160000
+DTEND:20250405T180000
+SUMMARY:Hands Off! Idaho Falls Fights Back
+LOCATION:Japanese Friendship Garden\, Broadway Bridge\, Idaho Falls\, ID
+DESCRIPTION:Join us for the 'Hands Off!' rally in Idaho Falls. We come tog
+ ether for a mass mobilization to express our collective voice and stand up
+  for our community. Organized by dedicated volunteers.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Japanese+Fri
+ endship+Garden%2C+Broadway+Bridge%2C+Idaho+Falls%2C+ID&zoom=15&basemap=roa
+ dmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

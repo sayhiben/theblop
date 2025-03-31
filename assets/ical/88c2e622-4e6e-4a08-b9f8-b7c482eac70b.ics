@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:b6fe2e88-2214-4c1e-9bab-4afe5fdeb5b5
+SEQUENCE:0
+DTSTAMP:20250331T120350Z
+DTSTART:20250405T113000
+DTEND:20250405T133000
+SUMMARY:Hands Off! The Wood River Valley Fights Back
+LOCATION:480 4th St E\, Ketchum\, ID
+DESCRIPTION:Join us for a rally against threats to essential services and 
+ rights. Organized by volunteers\, we aim to protect Medicaid\, Social Secu
+ rity\, and more.\n\nKetchum Town Square
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=480+4th+St+E
+ %2C+Ketchum%2C+ID&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

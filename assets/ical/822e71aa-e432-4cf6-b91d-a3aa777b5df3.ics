@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:b8800681-23a5-4d4b-baeb-ebabf800d5bf
+SEQUENCE:0
+DTSTAMP:20250331T120350Z
+DTSTART:20250415T180000
+DTEND:20250415T200000
+SUMMARY:AFGE: Join Us to Fight for Federal Employees in Columbia
+LOCATION:404 Tiger Ln\, Columbia\, MO
+DESCRIPTION:Join us for a rally organized by the American Federation of Go
+ vernment Employees (AFGE) to advocate for the rights of federal employees 
+ in Columbia.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=404+Tiger+Ln
+ %2C+Columbia%2C+MO&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

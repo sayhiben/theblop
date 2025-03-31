@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:381f7a4a-54b3-42c1-8798-10bd655be865
+SEQUENCE:0
+DTSTAMP:20250331T120350Z
+DTSTART:20250405T110000
+DTEND:20250405T130000
+SUMMARY:Hands Off! Northwest Missouri Fights Back
+LOCATION:North Belt Highway & Frederick Avenue\, Saint Joseph\, MO
+DESCRIPTION:Join us for a volunteer-organized visibility event to mobilize
+  support and awareness by gathering on public sidewalks.\n\nPublic Sidewal
+ ks at the corners of Belt & Frederick
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=North+Belt+H
+ ighway+%26+Frederick+Avenue%2C+Saint+Joseph%2C+MO&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
