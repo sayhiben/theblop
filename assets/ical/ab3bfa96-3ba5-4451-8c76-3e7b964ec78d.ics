@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:626ee75a-dc8b-4b4c-b474-d3debead00f0
+SEQUENCE:0
+DTSTAMP:20250331T212232Z
+DTSTART:20250405T120000
+DTEND:20250405T140000
+SUMMARY:Hands Off! Mass Mobilization
+LOCATION:The OLD Courthouse\, CO-9 (Main St) between 4th and 5th St.\, Fai
+ rplay\, CO
+DESCRIPTION:Join us for the Hands Off mass mobilization event aimed at gat
+ hering support and making a stand.\n\nThe OLD Courthouse
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=The+OLD+Cour
+ thouse%2C+CO-9+%28Main+St%29+between+4th+and+5th+St.%2C+Fairplay%2C+CO&zoo
+ m=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

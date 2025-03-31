@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:7d81cc0f-7a4b-4c4e-a122-85a955734975
+SEQUENCE:0
+DTSTAMP:20250331T212232Z
+DTSTART:20250405T120000
+DTEND:20250405T140000
+SUMMARY:HANDS OFF!
+LOCATION:3rd Avenue & Main Street\, Lyons\, CO
+DESCRIPTION:Join us for a mass mobilization event to make a significant im
+ pact. The goal is to assemble in the Triangle area to rally for our cause.
+ \n\nTriangle area
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=3rd+Avenue+%
+ 26+Main+Street%2C+Lyons%2C+CO&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

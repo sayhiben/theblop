@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:a11c7551-d3f7-4cb3-ae54-16ca033ffc66
+SEQUENCE:0
+DTSTAMP:20250331T212232Z
+DTSTART:20250405T120000
+DTEND:20250405T140000
+SUMMARY:HANDS OFF!
+LOCATION:170 E Sackett Ave\, Salida\, CO
+DESCRIPTION:The event aims to raise awareness and rally support to protect
+  various social programs and rights\, including Medicaid\, Medicare\, and 
+ free speech.\n\nRiverside Park
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=170+E+Sacket
+ t+Ave%2C+Salida%2C+CO&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

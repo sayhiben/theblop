@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:0ace0c31-947a-4c1f-8722-4499fb81b1b3
+SEQUENCE:0
+DTSTAMP:20250331T212232Z
+DTSTART:20250405T130000
+DTEND:20250405T150000
+SUMMARY:Hands Off!
+LOCATION:Downtown Saline\, Saline\, MI
+DESCRIPTION:A peaceful protest organized by Saline Indivisible focusing on
+  protecting various social services and rights.\n\nDowntown Saline
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Downtown+Sal
+ ine%2C+Saline%2C+MI&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

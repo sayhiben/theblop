@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:9452a95d-ce15-4040-a80f-b25b60a3eaba
+SEQUENCE:0
+DTSTAMP:20250331T212232Z
+DTSTART:20250405T130000
+DTEND:20250405T150000
+SUMMARY:Hands Off!
+LOCATION:Table Mesa Drive & South Broadway\, Boulder\, CO
+DESCRIPTION:We are organizing a mass mobilization to stop what we see as i
+ llegal\, billionaire power grabs by Trump and Musk. The event aims to prot
+ ect rights and services such as Medicaid\, Social Security\, clean energy\
+ , and more.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Table+Mesa+D
+ rive+%26+South+Broadway%2C+Boulder%2C+CO&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

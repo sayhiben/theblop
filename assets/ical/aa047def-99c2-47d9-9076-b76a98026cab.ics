@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:f9e386a3-a302-4789-a648-eb5ad4d6dc7c
+SEQUENCE:0
+DTSTAMP:20250331T212232Z
+DTSTART:20250405T103000
+DTEND:20250405T123000
+SUMMARY:Hands Off! Cortez Fights Back
+LOCATION:\, Cortez\, CO
+DESCRIPTION:We are organizing a mass mobilization event to raise awareness
+  and take action. Join us to fight back and stand in solidarity with the c
+ ommunity.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+Cortez%2
+ C+CO&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

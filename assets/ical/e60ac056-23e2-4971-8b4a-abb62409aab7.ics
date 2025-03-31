@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:8a4ffd4a-2dbb-4457-98fa-889ab3f5224c
+SEQUENCE:0
+DTSTAMP:20250331T212232Z
+DTSTART:20250405T120000
+DTEND:20250405T140000
+SUMMARY:Hands Off Our Democracy
+LOCATION:\, Flagstaff\, AZ
+DESCRIPTION:Join our peaceful protest to speak against policies affecting 
+ Medicare\, Medicaid\, Social Security\, jobs\, wallets\, bodies\, fair ele
+ ctions\, personal data\, public lands\, veteran services\, cancer research
+ \, NATO\, consumer protections\, clean air\, clean energy\, schools\, libr
+ aries\, free speech\, LGBTQ+ rights\, immigrants\, and courts.\n\nFlagstaf
+ f City Hall Lawn
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+Flagstaf
+ f%2C+AZ&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

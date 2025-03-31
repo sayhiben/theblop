@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:499b284e-4fda-405d-b394-7b21b16c8b8c
+SEQUENCE:0
+DTSTAMP:20250331T212232Z
+DTSTART:20250405T120000
+DTEND:20250405T140000
+SUMMARY:Hands Off! Paonia Fights Back
+LOCATION:\, Paonia\, CO
+DESCRIPTION:Join us for a rally to stand against threats to various public
+  goods and rights\, including jobs\, wallets\, bodies\, Medicaid\, Medicar
+ e\, social security\, fair elections\, public lands\, cancer research\, en
+ ergy\, schools\, libraries\, free speech\, voting rights\, immigrants\, an
+ d courts. This is a volunteer-organized event to protect our community and
+  resources.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+Paonia%2
+ C+CO&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

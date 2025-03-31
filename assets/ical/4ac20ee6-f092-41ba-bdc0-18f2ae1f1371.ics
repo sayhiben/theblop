@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:56224e8d-88c1-4ef8-8b41-4734bc30f725
+SEQUENCE:0
+DTSTAMP:20250331T212232Z
+DTSTART:20250405T100000
+DTEND:20250405T120000
+SUMMARY:Hands Off
+LOCATION:South Adams Boulevard & Main Street\, Westcliffe\, CO
+DESCRIPTION:Join us for the Hands Off mass mobilization event happening on
+  April 5. We are gathering at The Bluff in Westcliffe\, CO\, to rally and 
+ make our voices heard.\n\nThe Bluff
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=South+Adams+
+ Boulevard+%26+Main+Street%2C+Westcliffe%2C+CO&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

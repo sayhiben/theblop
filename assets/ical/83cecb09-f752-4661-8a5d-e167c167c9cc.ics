@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:38280d9c-b077-4797-8595-26421cbaf1ff
+SEQUENCE:0
+DTSTAMP:20250331T212232Z
+DTSTART:20250405T120000
+DTEND:20250405T140000
+SUMMARY:Hands Off!
+LOCATION:State Avenue & Main Street\, Alamosa\, CO
+DESCRIPTION:We are gathering to advocate for the protection of public serv
+ ices and rights such as jobs\, wallets\, bodies\, Medicaid\, Medicare\, So
+ cial Security\, and more.\n\nState and Main
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=State+Avenue
+ +%26+Main+Street%2C+Alamosa%2C+CO&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

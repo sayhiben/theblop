@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:b7322b98-a221-4283-90d1-045ab21c9190
+SEQUENCE:0
+DTSTAMP:20250331T212232Z
+DTSTART:20250405T120000
+DTEND:20250405T140000
+SUMMARY:HANDS OFF
+LOCATION:180 S 6th St\, Pagosa Springs\, CO
+DESCRIPTION:Join us for a mass mobilization event called "HANDS OFF" to ra
+ lly our community. Everyone is welcome to participate and make a stand tog
+ ether.\n\nSan Juan Riverwalk 6th Street Bridge
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=180+S+6th+St
+ %2C+Pagosa+Springs%2C+CO&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

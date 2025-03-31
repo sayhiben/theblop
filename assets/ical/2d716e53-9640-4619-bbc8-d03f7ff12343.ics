@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:7cea8767-bda5-4606-b8fa-5512c36292a2
+SEQUENCE:0
+DTSTAMP:20250331T212232Z
+DTSTART:20250405T120000
+DTEND:20250405T140000
+SUMMARY:Hands Off! Cheyenne Fights Back
+LOCATION:\, Cheyenne\, WY
+DESCRIPTION:Join us for a mass mobilization event to protest and show our 
+ solidarity in Cheyenne. The event is volunteer-organized and part of a lar
+ ger movement.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+Cheyenne
+ %2C+WY&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

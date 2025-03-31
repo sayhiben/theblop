@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:c0e2e20c-6463-46ed-9158-db666a5dc222
+SEQUENCE:0
+DTSTAMP:20250331T212232Z
+DTSTART:20250405T130000
+DTEND:20250405T150000
+SUMMARY:“Hands-Off” National Day of Action
+LOCATION:Corners of Pt. Fosdick & Olympic Drives\, Gig Harbor\, WA
+DESCRIPTION:Come hit the streets in protest of the Trump-MAGA assault on o
+ ur democracy. Bring signs on the theme of “Hands-Off” such as Hands-of
+ f our Medicare\, Social Security\, Veterans’ Benefits\, National Parks\,
+  Free Speech\, etc.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Corners+of+P
+ t.+Fosdick+%26+Olympic+Drives%2C+Gig+Harbor%2C+WA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
