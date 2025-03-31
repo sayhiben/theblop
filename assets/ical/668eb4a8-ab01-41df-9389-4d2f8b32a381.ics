@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:5b8849f4-bcd7-481a-a51a-cdcd5bced7e1
+SEQUENCE:0
+DTSTAMP:20250331T031720Z
+DTSTART:20250405T110000
+DTEND:20250405T130000
+SUMMARY:Protest Rally
+LOCATION:Little Rd & Citizens Dr\, NPR\, FL
+DESCRIPTION:Join us in protesting threats to valuable social services and 
+ agencies.\n\nLittle Rd & Citizens Dr - NPR
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Little+Rd+%2
+ 6+Citizens+Dr%2C+NPR%2C+FL&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

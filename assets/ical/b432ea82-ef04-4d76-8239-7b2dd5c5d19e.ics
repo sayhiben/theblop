@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:1149544b-0c31-40a8-9564-96d5a822cff4
+SEQUENCE:0
+DTSTAMP:20250331T031720Z
+DTSTART:20250405T093000
+DTEND:20250405T113000
+SUMMARY:HANDS OFF PROTEST
+LOCATION:Corner of Route 56 & Bruce B Downs (CVS corner)
+DESCRIPTION:Join us in protesting against policies affecting Medicare\, Me
+ dicaid\, Social Security\, Veterans' Benefits\, and USPS.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Corner+of+Ro
+ ute+56+%26+Bruce+B+Downs+%28CVS+corner%29&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
