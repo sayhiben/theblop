@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:8732d8e3-3f9b-4ffa-ac74-7cc7090f2ea5
+SEQUENCE:0
+DTSTAMP:20250331T060315Z
+DTSTART:20250405T140000
+DTEND:20250405T160000
+SUMMARY:Hands Off Mass Mobilization
+LOCATION:Paul & Babe\, Bemidji\, MN
+DESCRIPTION:Join us in a protest to stop chaos\, build a movement\, and op
+ pose the looting of our country. Bring friends\, neighbors\, and "Hands Of
+ f" signs.\n\nPaul & Babe
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Paul+%26+Bab
+ e%2C+Bemidji%2C+MN&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

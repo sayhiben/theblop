@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:2b54c7a9-70bd-4b9a-9c33-53883ad70423
+SEQUENCE:0
+DTSTAMP:20250331T060314Z
+DTSTART:20250404T160000
+DTEND:20250404T180000
+SUMMARY:Hands Off Our Schools
+LOCATION:400 MD Ave SW\, Washington\, DC
+DESCRIPTION:We are hosting a student rally to advocate for educational iss
+ ues\, organized by student governments from various universities.\n\nDepar
+ tment of Education
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=400+MD+Ave+S
+ W%2C+Washington%2C+DC&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

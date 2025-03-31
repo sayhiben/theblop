@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:ce21b5e7-487c-4c67-b9d2-5ba8e4ed77a8
+SEQUENCE:0
+DTSTAMP:20250331T060314Z
+DTSTART:20250331T200000
+DTEND:20250331T220000
+SUMMARY:Rock Fest
+LOCATION:123 Main Street\, Metropolis\, NY
+DESCRIPTION:Join us for an unforgettable night featuring The Vibes live in
+  concert. Rock Fest promises an exhilarating experience with great music a
+ nd atmosphere.\n\nCity Arena
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=123+Main+Str
+ eet%2C+Metropolis%2C+NY&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
