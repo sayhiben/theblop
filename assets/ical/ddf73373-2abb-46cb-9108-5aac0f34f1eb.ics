@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:83cbb544-d67d-441f-8ac0-6b503f0d1868
+SEQUENCE:0
+DTSTAMP:20250331T180322Z
+DTSTART:20250405T130000
+DTEND:20250405T150000
+SUMMARY:Hands Off! Boca Raton Indivisible Fights Back
+LOCATION:201 W Palmetto Park Road\, Boca Raton\, FL
+DESCRIPTION:We are organizing a mass mobilization rally at Boca Raton City
+  Hall to fight back for our cause. Join us and stand up against actions th
+ at threaten our community.\n\nBoca Raton City Hall
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=201+W+Palmet
+ to+Park+Road%2C+Boca+Raton%2C+FL&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

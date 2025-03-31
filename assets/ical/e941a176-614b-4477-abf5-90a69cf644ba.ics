@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:69c6c93c-7947-4e7f-b86b-0ba35fb79ebc
+SEQUENCE:0
+DTSTAMP:20250331T180322Z
+DTSTART:20250405T120000
+DTEND:20250405T140000
+SUMMARY:Hands Off! Mass Mobilization
+LOCATION:Edwards Roundabout\, Hwy 6 and Edwards Access Rd\, Edwards\, CO
+DESCRIPTION:Join us for a mass mobilization to stop Trump and Musk's illeg
+ al\, billionaire power grab. We are gathering to protect issues such as Me
+ dicare\, Social Security\, fair elections\, and more.\n\nEdwards Roundabou
+ t
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Edwards+Roun
+ dabout%2C+Hwy+6+and+Edwards+Access+Rd%2C+Edwards%2C+CO&zoom=15&basemap=roa
+ dmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

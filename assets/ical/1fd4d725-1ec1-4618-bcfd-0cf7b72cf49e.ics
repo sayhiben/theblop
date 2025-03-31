@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:9fa31880-52b5-413e-ac60-5fd597089135
+SEQUENCE:0
+DTSTAMP:20250331T180322Z
+DTSTART:20250405T130000
+DTEND:20250405T150000
+SUMMARY:Hands OFF!
+LOCATION:\, Montrose\, CO
+DESCRIPTION:We must stop Trump and Musk’s illegal\, billionaire power gr
+ ab. Join the mass mobilization to protect various social issues such as Me
+ dicaid\, Medicare\, Social Security\, and more.\n\nMontrose\, CO
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+Montrose
+ %2C+CO&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

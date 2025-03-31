@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:a1d1af53-27b2-4a2c-97e2-a8be93bf8a51
+SEQUENCE:0
+DTSTAMP:20250331T180322Z
+DTSTART:20250405T130000
+DTEND:20250405T150000
+SUMMARY:Hands Off! Durango\, CO Fights Back
+LOCATION:1200 Main Ave\, Durango\, CO
+DESCRIPTION:We are organizing a mass mobilization rally at Buckley Park\, 
+ aiming to bring the community together in Durango\, Colorado.\n\nBuckley P
+ ark
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=1200+Main+Av
+ e%2C+Durango%2C+CO&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

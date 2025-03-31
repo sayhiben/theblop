@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:e3bfea14-dea8-4c5c-8139-384d0a15cc69
+SEQUENCE:0
+DTSTAMP:20250331T180322Z
+DTSTART:20250405T120000
+DTEND:20250405T140000
+SUMMARY:Hands Off! Highlands Ranch\, CO Fights Back
+LOCATION:\, Highlands Ranch\, CO
+DESCRIPTION:We are organizing a visibility event to protest against illega
+ l political and social measures attributed to Trump and Musk. We aim to pr
+ otect essential services and rights including Medicare\, Social Security\,
+  and more.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+Highland
+ s+Ranch%2C+CO&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

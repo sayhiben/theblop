@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:ba3b8a4e-776c-4173-b49c-336ba0c6a391
+SEQUENCE:0
+DTSTAMP:20250331T180322Z
+DTSTART:20250405T120000
+DTEND:20250405T140000
+SUMMARY:Hands Off!
+LOCATION:South 9th Street & U.S. 50\, Cañon City\, CO
+DESCRIPTION:Join us for a mass mobilization to resist illegal power grabs 
+ and protect crucial social services. We will stand together against threat
+ s to Medicaid\, Medicare\, Social Security\, fair elections\, and more.\n\
+ n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=South+9th+St
+ reet+%26+U.S.+50%2C+Ca%C3%B1on+City%2C+CO&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:d7bbebc5-9089-4e2b-a416-b2b9e1bf692e
+SEQUENCE:0
+DTSTAMP:20250331T180322Z
+DTSTART:20250405T140000
+DTEND:20250405T160000
+SUMMARY:HANDS OFF!
+LOCATION:702 Pitkin Ave\, Saguache\, CO
+DESCRIPTION:Join us for a mass mobilization event to rally support against
+  current policies. We aim to gather individuals in a collective demonstrat
+ ion.\n\nOtto Mears Park
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=702+Pitkin+A
+ ve%2C+Saguache%2C+CO&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

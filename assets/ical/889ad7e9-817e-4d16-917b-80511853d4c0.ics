@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:3aa0b02b-e8e3-4345-a012-f4f12df8c501
+SEQUENCE:0
+DTSTAMP:20250331T180322Z
+DTSTART:20250405T120000
+DTEND:20250405T140000
+SUMMARY:HANDS OFF!
+LOCATION:W Mill St\, Bayfield\, CO
+DESCRIPTION:A demonstration covering various public issues like jobs\, hea
+ lthcare\, and human rights. Activities include protests and advocacy to pr
+ otect these rights.\n\nW Mill St
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=W+Mill+St%2C
+ +Bayfield%2C+CO&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

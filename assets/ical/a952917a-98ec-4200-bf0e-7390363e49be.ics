@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:f20f38b6-2ce0-4cae-955a-66d9afc35af2
+SEQUENCE:0
+DTSTAMP:20250331T180322Z
+DTSTART:20250405T130000
+DTEND:20250405T150000
+SUMMARY:Hands Off Mass Mobilization
+LOCATION:310 N 7th St\, Grand Junction\, CO
+DESCRIPTION:We are organizing a mass mobilization event to engage the comm
+ unity in a collective effort to promote our cause.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=310+N+7th+St
+ %2C+Grand+Junction%2C+CO&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

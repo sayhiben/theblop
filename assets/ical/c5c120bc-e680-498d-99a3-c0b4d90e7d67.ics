@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:abe2ee79-fe79-40f2-8f1e-454499ff11f1
+SEQUENCE:0
+DTSTAMP:20250331T180322Z
+DTSTART:20250405T130000
+DTEND:20250405T150000
+SUMMARY:Hands OFF!
+LOCATION:\, Montrose\, CO
+DESCRIPTION:We are organizing a rally to protest against the illegal power
+  grab by prominent figures\, aiming to protect social services\, jobs\, fa
+ ir elections\, and various rights.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+Montrose
+ %2C+CO&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
