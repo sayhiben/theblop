@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:b3e6e966-4b1d-487c-940c-6ec99111c3f9
+SEQUENCE:0
+DTSTAMP:20250331T150250Z
+DTSTART:20250405T130000
+DTEND:20250405T150000
+SUMMARY:Hands Off! Hastings Fights Back
+LOCATION:422 N Burlington Ave\, Hastings\, NE
+DESCRIPTION:Join us for a visibility event in Hastings as we mobilize agai
+ nst actions threatened by certain officials. This volunteer-organized even
+ t aims to gather the community in support of our cause.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=422+N+Burlin
+ gton+Ave%2C+Hastings%2C+NE&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
