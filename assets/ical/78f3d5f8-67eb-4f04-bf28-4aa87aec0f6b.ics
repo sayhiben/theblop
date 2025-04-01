@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:9fcbbeb9-3df5-4394-9690-7add6d5489ae
+SEQUENCE:0
+DTSTAMP:20250401T120316Z
+DTSTART:20250405T130000
+DTEND:20250405T150000
+SUMMARY:Hands Off! Western Kentucky Fights Back
+LOCATION:1127 Broadway St\, Paducah\, KY
+DESCRIPTION:Join us for the "Hands Off!" rally where Western Kentucky stan
+ ds up against various concerns. Led by volunteers\, the community gathers 
+ in solidarity to protect rights and express concerns.\n\nPlumber & Steamfi
+ tters Local 184 Union Hall
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=1127+Broadwa
+ y+St%2C+Paducah%2C+KY&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

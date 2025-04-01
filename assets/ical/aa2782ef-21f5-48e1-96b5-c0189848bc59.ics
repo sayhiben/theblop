@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:ffc805fa-3d51-4f86-a1de-879ea6080b76
+SEQUENCE:0
+DTSTAMP:20250401T120316Z
+DTSTART:20250405T120000
+DTEND:20250405T140000
+SUMMARY:Hands Off! Champaign County\, IL Fights Back
+LOCATION:400 W University Ave\, Champaign\, IL
+DESCRIPTION:Join a mass mobilization rally to stand against unwanted polic
+ ies. This volunteer-organized event aims to unite the community for collec
+ tive action.\n\nWest Side Park
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=400+W+Univer
+ sity+Ave%2C+Champaign%2C+IL&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
