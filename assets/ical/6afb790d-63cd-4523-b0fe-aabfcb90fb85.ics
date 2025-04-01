@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:10a80a65-20b8-495f-a4ba-69057123cdca
+SEQUENCE:0
+DTSTAMP:20250401T032036Z
+DTSTART:20250404T113000
+DTEND:20250404T133000
+SUMMARY:Rally in Support of Federal Workers
+LOCATION:3001 Green Bay Rd. North Chicago\, IL 60064
+DESCRIPTION:Join us to support federal workers in a rally organized by AFG
+ E Local 2107.\n\nOutside of Captain James A. Lovell Federal Health Care Ce
+ nter (Lewis Gate)
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=3001+Green+B
+ ay+Rd.+North+Chicago%2C+IL+60064&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
