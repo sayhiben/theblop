@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:5b302a52-4b5d-473c-bc24-f6921d64ca8b
+SEQUENCE:0
+DTSTAMP:20250401T210245Z
+DTSTART:20250405T130000
+DTEND:20250405T150000
+SUMMARY:HANDS OFF!
+LOCATION:The Shops at Stonefield\, Charlottesville\, VA
+DESCRIPTION:Join us for a mass mobilization event aimed at raising awarene
+ ss and advocating for our cause. Connect with like-minded individuals and 
+ support our movement.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=The+Shops+at
+ +Stonefield%2C+Charlottesville%2C+VA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
