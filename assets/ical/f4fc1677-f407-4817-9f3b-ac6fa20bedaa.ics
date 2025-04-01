@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:109e544d-a3c9-4ca2-b700-4a419e038f1a
+SEQUENCE:0
+DTSTAMP:20250401T060452Z
+DTSTART:20250405T130000
+DTEND:20250405T150000
+SUMMARY:Hands Off Kansas
+LOCATION:510 N. Main\, Wichita\, KS
+DESCRIPTION:Join us in discussing important topics affecting Kansas\, incl
+ uding agriculture\, aerospace\, and veterans.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=510+N.+Main%
+ 2C+Wichita%2C+KS&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

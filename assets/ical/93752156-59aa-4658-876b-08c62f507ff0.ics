@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:30208bf0-1485-43bf-ba35-1bf7096b3769
+SEQUENCE:0
+DTSTAMP:20250401T060452Z
+DTSTART:20250405T140000
+DTEND:20250405T160000
+SUMMARY:Hands Off! Kankakee Fights Back
+LOCATION:450 E Court St\, Kankakee\, IL
+DESCRIPTION:A mass mobilization rally in Kankakee to oppose unspecified ac
+ tions or policies\, organized by volunteers.\n\nKankakee County Courthouse
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=450+E+Court+
+ St%2C+Kankakee%2C+IL&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
