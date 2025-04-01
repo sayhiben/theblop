@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:0e164498-abea-4c80-9198-fec7c11884c6
+SEQUENCE:0
+DTSTAMP:20250401T000629Z
+DTSTART:20250402T120000
+DTEND:20250402T140000
+SUMMARY:Peaceful Protest Against Medicaid Cuts
+LOCATION:Corner of La Paz / Marguerite\, Mission Viejo\, CA
+DESCRIPTION:Join our peaceful protest led by SOUTHOC4DEMOCRACY to oppose t
+ he Republican proposal to slash $880 billion in Medicaid. We aim to raise 
+ awareness about the implications for constituents.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Corner+of+La
+ +Paz+%2F+Marguerite%2C+Mission+Viejo%2C+CA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
