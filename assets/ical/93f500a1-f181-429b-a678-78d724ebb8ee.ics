@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:2a498355-496d-4ca1-b4ee-ed963dc0f082
+SEQUENCE:0
+DTSTAMP:20250402T181831Z
+DTSTART:20250410T161500
+DTEND:20250410T181500
+SUMMARY:Corner Protest
+LOCATION:2601 S College Ave\, Fort Collins\, CO
+DESCRIPTION:Join us for the Corner Protest to engage positively and stand 
+ against perceived wrongs. Let's come together every Tuesday and Thursday t
+ o voice our concerns for public lands and societal issues.\n\nCorner of Dr
+ ake and College in Fort Collins
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=2601+S+Colle
+ ge+Ave%2C+Fort+Collins%2C+CO&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

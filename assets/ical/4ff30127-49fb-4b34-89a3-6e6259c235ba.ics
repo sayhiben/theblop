@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:efe479ab-eed8-4abb-b333-000858b0b801
+SEQUENCE:0
+DTSTAMP:20250402T181831Z
+DTSTART:20250405T110000
+DTEND:20250405T130000
+SUMMARY:Hands Off! (The Protest)
+LOCATION:@ the intersection of Weidman & Manchester Rds\, West County\, MO
+DESCRIPTION:Join us for a non-violent and peaceful gathering to demand acc
+ ountability\, defend our rights\, and protect the foundation of our democr
+ acy. Your voice matters—let's make it heard.\n\nIntersection of Weidman 
+ & Manchester Roads
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%40+the+inte
+ rsection+of+Weidman+%26+Manchester+Rds%2C+West+County%2C+MO&zoom=15&basema
+ p=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

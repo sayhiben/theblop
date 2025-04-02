@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:c87648eb-0cb4-46cb-812e-da9cc93f2c15
+SEQUENCE:0
+DTSTAMP:20250402T181831Z
+DTSTART:20250405T110000
+DTEND:20250405T130000
+SUMMARY:Remove Reverse Reclaim
+LOCATION:70 Huntington Street\, New London\, CT
+DESCRIPTION:Join us to reclaim our democracy\, reverse the damage\, and re
+ move corrupt politicians. This protest is part of a nationwide movement ac
+ ross 50 states.\n\nNew London Courthouse
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=70+Huntingto
+ n+Street%2C+New+London%2C+CT&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

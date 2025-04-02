@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:b67065ae-ee18-49e7-9931-325ed7c4d751
+SEQUENCE:0
+DTSTAMP:20250402T181831Z
+DTSTART:20250407T120000
+DTEND:20250407T140000
+SUMMARY:Tesla Picket
+LOCATION:2919 29THST SE\, Grand Rapids\, MI
+DESCRIPTION:Join us for a protest against Tesla\, expressing our concerns 
+ and demands. Gather with others in the Grand Rapids community to make our 
+ voices heard.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=2919+29THST+
+ SE%2C+Grand+Rapids%2C+MI&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

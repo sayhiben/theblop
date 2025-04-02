@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:92e5c20e-d68a-4b60-943f-982f64c4ecd7
+SEQUENCE:0
+DTSTAMP:20250402T181831Z
+DTSTART:20250413T133000
+DTEND:20250413T153000
+SUMMARY:Sanger Sidewalk Protest
+LOCATION:Square near Babes\, Sanger\, 
+DESCRIPTION:Join us for a protest focusing on a variety of bipartisan issu
+ es such as education\, public funding\, and environmental conservation. At
+ tendees are advised to bring signs and adhere to peaceful assembly guideli
+ nes.\n\nSquare near Babes
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Square+near+
+ Babes%2C+Sanger%2C+&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
