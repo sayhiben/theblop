@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:fe8be4fa-2982-417e-ab20-88a12587d5db
+SEQUENCE:0
+DTSTAMP:20250402T000605Z
+DTSTART:20250405T120000
+DTEND:20250405T140000
+SUMMARY:Chicago Hands Off! Rally
+LOCATION:Daley Plaza\, Chicago\, IL
+DESCRIPTION:Join us at Daley Plaza on April 5th from 12 noon to 2 pm to st
+ and together for Palestine and oppose the arming of Israel. Coordinated by
+  the Committee for A Just Peace in Palestine/Israel.\n\nAt the Miro statue
+ \, East of the Chicago Temple\, 77 W. Washington
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Daley+Plaza%
+ 2C+Chicago%2C+IL&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
