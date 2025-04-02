@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:170e2291-7ee3-44f1-a679-e30bedbcb52d
+SEQUENCE:0
+DTSTAMP:20250402T060259Z
+DTSTART:20250405T110000
+DTEND:20250405T130000
+SUMMARY:Hands Off!
+LOCATION:818 Teaneck Rd\, Teaneck\, NJ
+DESCRIPTION:We are organizing a peaceful rally to protest the influence of
+  Donald Trump and Elon Musk on our national resources and services. Join u
+ s to make a stand for Bergen County at the Teaneck Municipal Green.\n\nTea
+ neck Municipal Green
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=818+Teaneck+
+ Rd%2C+Teaneck%2C+NJ&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

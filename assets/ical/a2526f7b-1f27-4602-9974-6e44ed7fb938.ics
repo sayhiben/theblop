@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:d794fc72-ec83-404b-b9cb-2dbd4d4f9051
+SEQUENCE:0
+DTSTAMP:20250402T060259Z
+DTSTART:20250405T100000
+DTEND:20250405T120000
+SUMMARY:Hands Off! Ukiah Fights Back
+LOCATION:100 N State Street\, Ukiah\, CA
+DESCRIPTION:We are organizing a volunteer-led rally titled 'Hands Off! Uki
+ ah Fights Back' to mobilize the community. Join us for a mass mobilization
+  on Saturday\, April 5th to voice our concerns and take action.\n\nCourtho
+ use
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=100+N+State+
+ Street%2C+Ukiah%2C+CA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

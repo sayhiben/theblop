@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:194839fd-677d-47a3-ad4a-c0135a625a6c
+SEQUENCE:0
+DTSTAMP:20250402T060259Z
+DTSTART:20250405T130000
+DTEND:20250405T150000
+SUMMARY:Hands Off! Blue Water Area Fights Back!
+LOCATION:Pine Grove Park to Blue Water Bridge\, Port Huron\, MI
+DESCRIPTION:Join us as we protect various essential services and rights in
+ cluding education\, healthcare\, veterans’ services\, and more. March fr
+ om Pine Grove Park to the Blue Water Bridge to show your support.\n\nHuron
+  Lightship at north end of Pine Grove Park
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Pine+Grove+P
+ ark+to+Blue+Water+Bridge%2C+Port+Huron%2C+MI&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
