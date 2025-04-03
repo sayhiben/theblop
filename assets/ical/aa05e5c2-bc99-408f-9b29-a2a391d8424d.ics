@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:e9edbf09-a45d-437d-b80f-2deb0b764685
+SEQUENCE:0
+DTSTAMP:20250403T120307Z
+DTSTART:20250405T120000
+DTEND:20250405T140000
+SUMMARY:50 Protests 50 States 1 Movement
+LOCATION:Fulton Rd NW at Jackson North Park\, Canton\, OH
+DESCRIPTION:Join us in a peaceful protest to uphold the Constitution\, end
+  executive overreach\, and promote liberty and justice for all. Everyone i
+ s welcome\; bring your signs and chairs.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Fulton+Rd+NW
+ +at+Jackson+North+Park%2C+Canton%2C+OH&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
