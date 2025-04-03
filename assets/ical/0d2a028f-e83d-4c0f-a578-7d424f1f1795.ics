@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:4162ba33-5103-410d-a721-a6170d64d2d2
+SEQUENCE:0
+DTSTAMP:20250403T060300Z
+DTSTART:20250412T120000
+DTEND:20250412T140000
+SUMMARY:Save Democracy Rally
+LOCATION:Medina Square
+DESCRIPTION:Join us at Medina Square on Saturday\, April 12\, for the Save
+  Democracy Rally from 12 PM to 2 PM. Come raise your voice for America!\n\
+ nMedina Square
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Medina+Squar
+ e&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
