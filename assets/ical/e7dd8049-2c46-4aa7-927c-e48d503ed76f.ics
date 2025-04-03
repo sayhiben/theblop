@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:06ca1872-26f6-4751-93d7-ee666fad3f0b
+SEQUENCE:0
+DTSTAMP:20250403T031449Z
+DTSTART:20250405T120000
+DTEND:20250405T140000
+SUMMARY:Local Skagit Mass Mobilization
+LOCATION:Skagit County Courthouse\, 12th & Commercial\, National Park Serv
+ ice Office\, Mount Vernon\, Anacortes\, Sedro-Woolley\, WA
+DESCRIPTION:Join us for the local Skagit version of the national mass mobi
+ lization led by Indivisible\, Move On\, 50501\, Working Families Party\, P
+ ublic Citizen\, and hundreds more activist organizations.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Skagit+Count
+ y+Courthouse%2C+12th+%26+Commercial%2C+National+Park+Service+Office%2C+Mou
+ nt+Vernon%2C+Anacortes%2C+Sedro-Woolley%2C+WA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
