@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:2067d8fe-1caf-45c4-96d4-47279d68ed54
+SEQUENCE:0
+DTSTAMP:20250404T031403Z
+DTSTART:20250405T100000
+DTEND:20250405T120000
+SUMMARY:HANDS OFF! NATIONAL DAY OF ACTION
+LOCATION:Castillo de San Marcos National Monument\, St. Augustine\, FL
+DESCRIPTION:Join us on People's Veto Day at Castillo de San Marcos Nationa
+ l Monument to protect Medicaid\, Medicare\, Social Security\, and more. Th
+ is event highlights the importance of democracy\, public services\, and so
+ cial protections.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Castillo+de+
+ San+Marcos+National+Monument%2C+St.+Augustine%2C+FL&zoom=15&basemap=roadma
+ p
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
