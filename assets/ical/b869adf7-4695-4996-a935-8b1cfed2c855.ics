@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:d7677a64-4dfd-4fb3-b5e8-edc53df72531
+SEQUENCE:0
+DTSTAMP:20250404T000613Z
+DTSTART:20250405T120000
+DTEND:20250405T140000
+SUMMARY:Hands Off! Mass Mobilization
+LOCATION:1875 S Boulder Park Dr.\, Tulsa\, OK
+DESCRIPTION:Join us in Tulsa at Dream Keepers Park for a mass mobilization
+  event. Hosted by Indivisible Tulsa County and Good Trouble Tulsa to bring
+  together community members on April 5th from 12 PM to 2 PM.\n\nDream Keep
+ ers Park
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=1875+S+Bould
+ er+Park+Dr.%2C+Tulsa%2C+OK&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:d2c97d03-0c0a-4fa1-8114-08c38554d8b0
+SEQUENCE:0
+DTSTAMP:20250404T000613Z
+DTSTART:20250415T000000
+DTEND:20250415T020000
+SUMMARY:Annual Music Fest
+LOCATION:Central Park\, New York\, NY
+DESCRIPTION:We are hosting the Annual Music Fest featuring live performanc
+ es\, workshops\, and more in Central Park.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Central+Park
+ %2C+New+York%2C+NY&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
