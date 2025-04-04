@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:b55e168b-600f-46fd-9193-6c840b0ffc4e
+SEQUENCE:0
+DTSTAMP:20250404T060259Z
+DTSTART:20250405T130000
+DTEND:20250405T150000
+SUMMARY:Hands Off!
+LOCATION:Jefferson St & Elm Ave\, Roanoke\, VA
+DESCRIPTION:This is a public demonstration addressing various social and p
+ olitical issues including Medicaid\, Medicare\, Social Security\, clean en
+ ergy\, and more.\n\nJefferson St & Elm Ave
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Jefferson+St
+ +%26+Elm+Ave%2C+Roanoke%2C+VA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

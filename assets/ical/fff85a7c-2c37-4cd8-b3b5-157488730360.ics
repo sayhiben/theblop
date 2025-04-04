@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:b507338a-4f7b-4f25-8561-69e5ab19d86a
+SEQUENCE:0
+DTSTAMP:20250404T060259Z
+DTSTART:20250405T080000
+DTEND:20250405T100000
+SUMMARY:Hands Off!
+LOCATION:Corner of Main St. & School St.\, Freeport\, ME
+DESCRIPTION:A public event titled "Hands Off!" is scheduled with the aim o
+ f gathering people for a cause. Participants are expected to meet at the s
+ pecified location and time.\n\nCorner of Main St. & School St.
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Corner+of+Ma
+ in+St.+%26+School+St.%2C+Freeport%2C+ME&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
