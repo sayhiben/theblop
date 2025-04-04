@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:dfb98850-effb-40aa-9d08-a4a2d1211553
+SEQUENCE:0
+DTSTAMP:20250404T180307Z
+DTSTART:20250405T120000
+DTEND:20250405T140000
+SUMMARY:Hands Off!
+LOCATION:Airport Rotary\, Hyannis\, MA
+DESCRIPTION:We are organizing a mass mobilization against perceived illega
+ l power grabs by political figures\, focusing on protecting social and pol
+ itical rights. Join us to advocate for Medicaid\, Social Security\, fair e
+ lections\, and more.\n\nAirport Rotary
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Airport+Rota
+ ry%2C+Hyannis%2C+MA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

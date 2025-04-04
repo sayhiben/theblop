@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:347dbb67-aacc-4e38-b7d1-f153afbc37d1
+SEQUENCE:0
+DTSTAMP:20250404T180307Z
+DTSTART:20250411T120000
+DTEND:20250411T140000
+SUMMARY:Finding Kean Fridays
+LOCATION:\, Bernardsville\, NJ
+DESCRIPTION:Join us for "Finding Kean Fridays" to rally against votes supp
+ orting Donald Trump’s MAGA agenda\, which impacts working families\, peo
+ ple with disabilities\, and veterans.\n\nBernardsville\, NJ 07924
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+Bernards
+ ville%2C+NJ&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
