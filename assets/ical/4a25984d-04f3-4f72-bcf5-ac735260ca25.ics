@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:eb58053c-b7a2-447c-b857-42467ec3d5c1
+SEQUENCE:0
+DTSTAMP:20250404T090252Z
+DTSTART:20250405T183000
+DTEND:20250405T203000
+SUMMARY:Hands Off! Indivisible Riverside Fights Back
+LOCATION:Market Street & University Avenue\, Riverside\, CA
+DESCRIPTION:Indivisible Riverside is organizing a protest against policies
+  affecting healthcare\, data privacy\, jobs\, and services\, with lighted 
+ letter boards to spell 'hands off'. The event aims at nonviolent resistanc
+ e and building an opposition against destructive policies.\n\nDowntown Riv
+ erside
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Market+Stree
+ t+%26+University+Avenue%2C+Riverside%2C+CA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
