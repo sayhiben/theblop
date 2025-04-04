@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:6bb1b51c-6ebe-45aa-bcda-f5788f26ad73
+SEQUENCE:0
+DTSTAMP:20250404T210247Z
+DTSTART:20250405T140000
+DTEND:20250405T160000
+SUMMARY:HANDS OFF!
+LOCATION:400 S. Orange Ave\, Orlando FL
+DESCRIPTION:We are organizing a public event addressing key social and pol
+ itical issues such as healthcare\, clean energy\, free speech\, and LGBTQ+
+  rights. Join us to advocate for these important causes.\n\nOrlando City H
+ all
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=400+S.+Orang
+ e+Ave%2C+Orlando+FL&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

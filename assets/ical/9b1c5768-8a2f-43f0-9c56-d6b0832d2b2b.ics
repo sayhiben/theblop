@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:f59763e2-4915-4dc7-9a24-fa1fac769425
+SEQUENCE:0
+DTSTAMP:20250404T210247Z
+DTSTART:20250405T120000
+DTEND:20250405T140000
+SUMMARY:Mississippi State Capitol Event
+LOCATION:Southside steps of the State Capitol\, Jackson\, MS
+DESCRIPTION:Join us for an event at the Mississippi State Capitol featurin
+ g chanting\, songs\, and speakers to inspire and educate the community. Pa
+ rticipate in a meaningful gathering to show solidarity.\n\nSouthside steps
+  of the State Capitol
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Southside+st
+ eps+of+the+State+Capitol%2C+Jackson%2C+MS&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
