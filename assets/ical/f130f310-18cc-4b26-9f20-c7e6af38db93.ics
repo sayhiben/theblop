@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:996cd7d8-c8cb-4f90-8792-22afa0fa3f70
+SEQUENCE:0
+DTSTAMP:20250405T120259Z
+DTSTART:20250405T150000
+DTEND:20250405T170000
+SUMMARY:Hands Off
+LOCATION:120 Market St and 125 Market St\, Youngstown\, OH
+DESCRIPTION:We are organizing a mass mobilization event in Youngstown\, Oh
+ io. Join us in rallying the community as Youngstown fights back.\n\nMahoni
+ ng County Court House\, US District Court
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=120+Market+S
+ t+and+125+Market+St%2C+Youngstown%2C+OH&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
