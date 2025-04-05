@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:b8efe713-4ae1-4ad4-9d16-c25e9a55f4d5
+SEQUENCE:0
+DTSTAMP:20250405T001124Z
+DTSTART:20250405T110000
+DTEND:20250405T130000
+SUMMARY:Resistance Day
+LOCATION:Nebraska State Capitol\, Lincoln\, NE
+DESCRIPTION:Join us at the Nebraska State Capitol for Resistance Day as we
+  gather on April 5th at 11 AM.\n\nNebraska State Capitol
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Nebraska+Sta
+ te+Capitol%2C+Lincoln%2C+NE&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
