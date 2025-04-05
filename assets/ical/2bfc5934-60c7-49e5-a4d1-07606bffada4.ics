@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:8e7c9b02-44d0-42b6-a67b-9346cc02fa5a
+SEQUENCE:0
+DTSTAMP:20250405T031300Z
+DTSTART:20250415T113000
+DTEND:20250415T133000
+SUMMARY:Tax Day Rally & March
+LOCATION:Plaza between the State House & Cross Office Building\, Augusta\,
+  ME
+DESCRIPTION:Join us as we rally against tax cuts for the rich that come at
+  the expense of social programs. We're gathering to voice our opposition a
+ nd call for fair taxation.\n\nThen march to the Edmund S. Muskie Federal B
+ uilding
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Plaza+betwee
+ n+the+State+House+%26+Cross+Office+Building%2C+Augusta%2C+ME&zoom=15&basem
+ ap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
