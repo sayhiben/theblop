@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:dec01079-ed57-4003-a1ea-114aa8b832fc
+SEQUENCE:0
+DTSTAMP:20250406T060300Z
+DTSTART:20250411T120000
+DTEND:20250411T140000
+SUMMARY:Save Our VA Rally
+LOCATION:VA entrance on 6th Ave\, North of Ajo\, Tucson\, AZ
+DESCRIPTION:We aim to support veterans\, VA workers\, and their unions aga
+ inst planned job cuts and union eliminations\, which threaten veterans’ 
+ health care.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=VA+entrance+
+ on+6th+Ave%2C+North+of+Ajo%2C+Tucson%2C+AZ&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
