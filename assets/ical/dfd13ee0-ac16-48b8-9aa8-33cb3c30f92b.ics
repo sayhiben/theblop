@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:8ef3f720-3a9d-495a-a17d-31f6d5fdf4fc
+SEQUENCE:0
+DTSTAMP:20250406T032257Z
+DTSTART:20250409T180000
+DTEND:20250409T200000
+SUMMARY:Dance Against DOGE Slumber Party
+LOCATION:1800 F St\, NW\, Washington\, DC
+DESCRIPTION:Join us for a fun-filled gathering where we will dance and enj
+ oy a themed slumber party\, opposing the DOGE trend.\n\n1800 F St\, NW\, W
+ ashington DC
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=1800+F+St%2C
+ +NW%2C+Washington%2C+DC&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
