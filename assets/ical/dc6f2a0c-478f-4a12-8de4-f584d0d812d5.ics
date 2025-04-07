@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:75067c49-4a93-49e7-ab9f-65ee249153b9
+SEQUENCE:0
+DTSTAMP:20250407T000621Z
+DTSTART:20250419T000000
+DTEND:20250419T020000
+SUMMARY:Fort Worth Fights Back
+LOCATION:Burk Burnett Park\, Fort Worth\, TX
+DESCRIPTION:Join us for a peaceful protest to remove corrupt politicians\,
+  reverse damage\, and reclaim our democracy. Stay updated as we work with 
+ the city on permits.\n\nBurk Burnett Park
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Burk+Burnett
+ +Park%2C+Fort+Worth%2C+TX&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
