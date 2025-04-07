@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:6bc7abd3-89e7-454b-a5b3-bef8cbd6f6b9
+SEQUENCE:0
+DTSTAMP:20250407T150247Z
+DTSTART:20250407T140000
+DTEND:20250407T160000
+SUMMARY:Clap Out
+LOCATION:2301 Constitution Ave NW\, Washington\, DC
+DESCRIPTION:Join USIP staff and alumni supporting colleagues as they retri
+ eve their belongings. Encourages peaceful and respectful expressions celeb
+ rating USIP\, their mission\, and staff.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=2301+Constit
+ ution+Ave+NW%2C+Washington%2C+DC&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
