@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:2a25c4ce-2f97-479c-bd81-0e3e20e3a151
+SEQUENCE:0
+DTSTAMP:20250407T210253Z
+DTSTART:20250412T120000
+DTEND:20250412T140000
+SUMMARY:Rally for Science
+LOCATION:Corners of Highways 101 & 20\, Newport\, OR
+DESCRIPTION:We are gathering to support local scientists and protest again
+ st recent mass firings and ending of science research by Trump. Bring your
+  loudest voice and signs.\n\nParking available at large lot\, 208 SW 2nd S
+ treet
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Corners+of+H
+ ighways+101+%26+20%2C+Newport%2C+OR&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

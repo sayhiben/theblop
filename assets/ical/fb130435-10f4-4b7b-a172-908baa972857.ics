@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:70139f66-4600-48e2-bd69-3e1a6cec89d8
+SEQUENCE:0
+DTSTAMP:20250407T210253Z
+DTSTART:20250408T160000
+DTEND:20250408T180000
+SUMMARY:KILL THE CUTS
+LOCATION:51 Park Pl\, Newark\, Newark\, NJ
+DESCRIPTION:Join New Jersey research\, healthcare\, and education workers 
+ at a rally in Newark\, with featured speakers Newark Mayor Ras Baraka and 
+ AFT President Randi Weingarten. NO cuts to education and research!\n\nMili
+ tary Park
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=51+Park+Pl%2
+ C+Newark%2C+Newark%2C+NJ&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:257a63ea-4611-45ea-9376-cb2474218db3
+SEQUENCE:0
+DTSTAMP:20250407T210253Z
+DTSTART:20250415T173000
+DTEND:20250415T193000
+SUMMARY:No Taxes for Tyrants Rally & March
+LOCATION:14 S Washington\, Naperville
+DESCRIPTION:Join us for a rally and march to protest taxes deemed oppressi
+ ve. Bring your walking shoes and your best signs to make your voices heard
+ . The event is supported by several local organizations.\n\nNaperville Wom
+ an's Club
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=14+S+Washing
+ ton%2C+Naperville&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
