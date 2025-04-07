@@ -359,6 +359,26 @@
     "raw_summary": "The image is an event flyer for a protest named \"Sanger Sidewalk Protest.\" It includes details such as the date, time, and meeting location along with suggested protest signs. There is an advisory note regarding behavior during the protest."
   },
   {
+    "id": "efb07b1d-665e-462b-98bd-67fd74c71e5a",
+    "title": "March for Veterans' Healthcare",
+    "date": "Sunday, April 13, 2025",
+    "time": "11:00 AM",
+    "description": "We invite you to join a peaceful march around Capitol Square to support our veterans. Let's advocate for no cuts to VA services.",
+    "city": "",
+    "state": "",
+    "address": "State Capitol Grounds",
+    "meeting_location": "King St.",
+    "links": [],
+    "sponsors": [],
+    "image_url": "https://theblop.org/assets/images/efb07b1d-665e-462b-98bd-67fd74c71e5a.jpg",
+    "thumbnail_url": "https://theblop.org/assets/images/efb07b1d-665e-462b-98bd-67fd74c71e5a-thumb.jpg",
+    "canonical_id": "",
+    "permalink": "https://theblop.org/events/efb07b1d-665e-462b-98bd-67fd74c71e5a.html",
+    "ical": "https://theblop.org/assets/ical/efb07b1d-665e-462b-98bd-67fd74c71e5a.ics",
+    "raw_text": "EVERYONE WELCOME!\n\nMARCH FOR VETERANS’ HEALTHCARE\n\nSUNDAY, APRIL 13TH\n11 AM - NOON\nSTATE CAPITOL GROUNDS\nMEET @ KING ST.\n\nPEACEFUL MARCH AROUND CAPITOL SQUARE TO SUPPORT OUR VETERANS\nNO CUTS TO VA SERVICES!",
+    "raw_summary": "The flyer is announcing an event called \"March for Veterans' Healthcare,\" inviting everyone to a peaceful march to support veterans, happening on Sunday, April 13th from 11 AM to Noon, at the State Capitol Grounds, meeting at King St. The flyer emphasizes \"No cuts to VA services.\""
+  },
+  {
     "id": "c18f123c-51f1-43c1-a3a9-573838589271",
     "title": "Technical State of The Nation",
     "date": "Tuesday, April 15, 2025",
@@ -781,6 +801,30 @@
     "ical": "https://theblop.org/assets/ical/dc6f2a0c-478f-4a12-8de4-f584d0d812d5.ics",
     "raw_text": "WE ARE STILL WORKING WITH THE CITY ON PERMITS  \nDETAILS SUBJECT TO CHANGE.  \nSTAY UP TO DATE AT: 50150TEXAS.COM  \n\nFORT WORTH FIGHTS BACK  \n\nSAVE THE DATE | PEACEFUL PROTEST  \nApril 19 • Burk Burnett Park • Time TBD  \n\nREMOVE THE CORRUPT POLITICIANS  \nREVERSE THE DAMAGE  \nRECLAIM OUR DEMOCRACY  \n\nIN THE MEANTIME - COME PROTEST WITH US AT:  \nDEALEY PLAZA | APRIL 5TH FROM 3-6PM",
     "raw_summary": "The flyer is an announcement for a peaceful protest titled 'Fort Worth Fights Back' scheduled for April 19 at Burk Burnett Park. It mentions ongoing work with the city for permits and suggests staying updated via a website. Another protest is also mentioned to take place at Dealey Plaza on April 5."
+  },
+  {
+    "id": "d382dda4-c0ca-45ed-97d7-bece1f39d39b",
+    "title": "Next 50 State Nationwide Protest",
+    "date": "Saturday, April 19, 2025",
+    "time": "See Flyer",
+    "description": "We are organizing a nationwide protest taking place in every state, inviting people to join the 50501 Movement for a collective action on April 19th.",
+    "city": "Nationwide",
+    "state": "Nationwide",
+    "address": "",
+    "meeting_location": "",
+    "links": [
+      "www.Fiftyfifty.one"
+    ],
+    "sponsors": [
+      "50501 Movement"
+    ],
+    "image_url": "https://theblop.org/assets/images/d382dda4-c0ca-45ed-97d7-bece1f39d39b.jpg",
+    "thumbnail_url": "https://theblop.org/assets/images/d382dda4-c0ca-45ed-97d7-bece1f39d39b-thumb.jpg",
+    "canonical_id": "",
+    "permalink": "https://theblop.org/events/d382dda4-c0ca-45ed-97d7-bece1f39d39b.html",
+    "ical": "https://theblop.org/assets/ical/d382dda4-c0ca-45ed-97d7-bece1f39d39b.ics",
+    "raw_text": "JOIN THE 50501 MOVEMENT\n\nNEXT 50 STATE NATIONWIDE PROTEST\nAPRIL 19TH\n(A WEEKEND!)\n\nVisit www.Fiftyfifty.one\nFOR LOCATION DETAILS",
+    "raw_summary": "The image is promoting a nationwide protest organized by '50501 Movement' on April 19th. It encourages participants to visit a website for location details."
   },
   {
     "id": "4659b329-bd99-4f26-894f-269c7f343b53",

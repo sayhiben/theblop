@@ -2,16 +2,16 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:8e668fce-46dc-4e06-b820-319f74c88f69
+UID:168267fc-a889-4dab-bb0d-92edad19cd2e
 SEQUENCE:0
 DTSTAMP:20250407T031642Z
-DTSTART:20250425T000000
-DTEND:20250425T020000
-SUMMARY:Arbor Day Plant Trees
+DTSTART:20250419T000000
+DTEND:20250419T020000
+SUMMARY:Next 50 State Nationwide Protest
 LOCATION:\, Nationwide\, Nationwide
-DESCRIPTION:We are organizing to plant trees on Arbor Day\, April 25th\, i
- n response to executive orders affecting our forests. Join us to make a di
- fference and plant LiberTREES locally.\n\n
+DESCRIPTION:We are organizing a nationwide protest taking place in every s
+ tate\, inviting people to join the 50501 Movement for a collective action 
+ on April 19th.\n\n
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+Nationwi
  de%2C+Nationwide&zoom=15&basemap=roadmap
 STATUS:CONFIRMED
