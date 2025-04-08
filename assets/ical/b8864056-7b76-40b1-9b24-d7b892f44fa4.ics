@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:e0df2a5c-5e72-4490-8dce-86978e8a85cc
+SEQUENCE:0
+DTSTAMP:20250408T060300Z
+DTSTART:20250412T120000
+DTEND:20250412T140000
+SUMMARY:Olympia Visibility Brigade
+LOCATION:Chehalis Western Trail over I-5\, Lacey\, WA
+DESCRIPTION:We organize protests to create visibility for key issues. Join
+  us at the Chehalis Western Trail to participate in our upcoming event\, b
+ ring signs\, flags\, and costumes\, and help amplify our message.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Chehalis+Wes
+ tern+Trail+over+I-5%2C+Lacey%2C+WA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

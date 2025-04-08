@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:e037e621-4055-4b6a-95b7-01ab1f1027c9
+SEQUENCE:0
+DTSTAMP:20250408T060301Z
+DTSTART:20250419T110000
+DTEND:20250419T130000
+SUMMARY:A Rally to Declare Our Independence from Fascism
+LOCATION:10250 Overseas Highway\, Key Largo\, FL
+DESCRIPTION:Join us on the anniversary of the American Revolution for a na
+ tionwide day of peaceful protest. We aim to declare our independence from 
+ fascism.\n\nMurray Nelson Govt. Center
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=10250+Overse
+ as+Highway%2C+Key+Largo%2C+FL&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
