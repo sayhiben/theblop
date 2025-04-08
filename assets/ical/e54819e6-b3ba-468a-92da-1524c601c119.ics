@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:83e79dcf-0976-4b29-9d45-d20a4d196075
+SEQUENCE:0
+DTSTAMP:20250408T031444Z
+DTSTART:20250410T173000
+DTEND:20250410T193000
+SUMMARY:Hunger Hike
+LOCATION:125 State Street\, Salt Lake City\, UT
+DESCRIPTION:Starting at 5:15 PM\, participants will gather at the federal 
+ building in downtown Salt Lake City and walk to Hildegarde’s Food Pantry
+  to raise awareness about federal policies worsening hunger in Utah.\n\nFe
+ deral building at downtown Salt Lake City
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=125+State+St
+ reet%2C+Salt+Lake+City%2C+UT&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
