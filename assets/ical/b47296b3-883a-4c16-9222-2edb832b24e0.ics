@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:0c021dee-c07b-4290-b41a-e052e8d1f870
+SEQUENCE:0
+DTSTAMP:20250408T000552Z
+DTSTART:20250510T110000
+DTEND:20250510T130000
+SUMMARY:A Mother Lovin’ Rally
+LOCATION:Brentwood Square\, Brentwood\, MO
+DESCRIPTION:Join us for A Mother Lovin’ Rally to celebrate Mother's Day.
+  We aim to love and protect mothers' rights. Hosted by Organize Disrupt Re
+ sist Indivisible. Register on Mobilize.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Brentwood+Sq
+ uare%2C+Brentwood%2C+MO&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

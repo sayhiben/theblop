@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:4d081c17-14fd-4f16-ad4b-076e74b24f45
+SEQUENCE:0
+DTSTAMP:20250408T000552Z
+DTSTART:20250408T170000
+DTEND:20250408T190000
+SUMMARY:Macoupin Pride
+LOCATION:215 S East St.\, Carlinville\, IL
+DESCRIPTION:Join us to show support for our LGBTQIA+ Community at a rally 
+ and meeting. Demonstrate to our board members who they represent.\n\nCount
+ y Board Room
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=215+S+East+S
+ t.%2C+Carlinville%2C+IL&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

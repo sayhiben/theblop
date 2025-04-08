@@ -1,51 +1,5 @@
 [
   {
-    "id": "0712ff63-a877-458d-bce7-c015f4f53288",
-    "title": "Tesla Picket",
-    "date": "Monday, April 7, 2025",
-    "time": "12:00 PM",
-    "description": "Join us for a protest against Tesla, expressing our concerns and demands. Gather with others in the Grand Rapids community to make our voices heard.",
-    "city": "Grand Rapids",
-    "state": "MI",
-    "address": "2919 29THST SE",
-    "meeting_location": "",
-    "links": [
-      "TeslaTakedown.com"
-    ],
-    "sponsors": [],
-    "image_url": "https://theblop.org/assets/images/0712ff63-a877-458d-bce7-c015f4f53288.png",
-    "thumbnail_url": "https://theblop.org/assets/images/0712ff63-a877-458d-bce7-c015f4f53288-thumb.jpg",
-    "canonical_id": "",
-    "permalink": "https://theblop.org/events/0712ff63-a877-458d-bce7-c015f4f53288.html",
-    "ical": "https://theblop.org/assets/ical/0712ff63-a877-458d-bce7-c015f4f53288.ics",
-    "raw_text": "GRAND RAPIDS\nTesla Picket\nMONDAY 12:00 noon\nAPR 7\nTeslaTakedown.com\n2919 29THST SE\nGRAND RAPIDS, MI 49512",
-    "raw_summary": "The image announces a \"Tesla Picket\" event scheduled for Monday, April 7, at 12:00 noon. It will be held in Grand Rapids, Michigan, at 2919 29th Street SE. The flyer includes visuals of protestors with signs and a website link: TeslaTakedown.com."
-  },
-  {
-    "id": "5228ffad-d8b2-4a89-821f-c343d167061c",
-    "title": "Clap Out",
-    "date": "Monday, April 7, 2025",
-    "time": "2:00 PM",
-    "description": "Join USIP staff and alumni supporting colleagues as they retrieve their belongings. Encourages peaceful and respectful expressions celebrating USIP, their mission, and staff.",
-    "city": "Washington",
-    "state": "DC",
-    "address": "2301 Constitution Ave NW",
-    "meeting_location": "",
-    "links": [
-      "[]"
-    ],
-    "sponsors": [
-      "[\"USIP\"]"
-    ],
-    "image_url": "https://theblop.org/assets/images/5228ffad-d8b2-4a89-821f-c343d167061c.png",
-    "thumbnail_url": "https://theblop.org/assets/images/5228ffad-d8b2-4a89-821f-c343d167061c-thumb.jpg",
-    "canonical_id": "",
-    "permalink": "https://theblop.org/events/5228ffad-d8b2-4a89-821f-c343d167061c.html",
-    "ical": "https://theblop.org/assets/ical/5228ffad-d8b2-4a89-821f-c343d167061c.ics",
-    "raw_text": "Join USIP Staff and alumni for a CLAP OUT supporting colleagues as they retrieve their belongings MONDAY APRIL 7 from 2-6pm 2301 Constitution Ave NW We encourage peaceful & respectful signage celebrating USIP, their mission, and staff. STAND in SOLIDARITY",
-    "raw_summary": "The flyer invites USIP staff and alumni to a 'Clap Out' event held in support of colleagues retrieving their belongings. It takes place on 2301 Constitution Ave NW, advocating peaceful and respectful expressions celebrating USIP, its mission, and staff."
-  },
-  {
     "id": "8cb72461-d8f5-4014-9a8f-70a7b07093ce",
     "title": "Corner Protest",
     "date": "Tuesday, April 8, 2025",
@@ -93,6 +47,28 @@
     "ical": "https://theblop.org/assets/ical/fb130435-10f4-4b7b-a172-908baa972857.ics",
     "raw_text": "NATIONAL DAY OF ACTION!\nKILL THE CUTS\nSAVE LIFESAVING RESEARCH, HEALTHCARE, AND EDUCATION\nJoin New Jersey research, healthcare, and education workers at a rally in Newark, with featured speakers\nNewark Mayor Ras Baraka and AFT President Randi Weingarten.\nNO cuts to education and research!\nAPRIL 8TH, 2025\n4:00 - 5:00 PM\nMilitary Park\n51 Park Pl, Newark\nbit.ly/April8KilltheCuts",
     "raw_summary": "A public rally titled 'KILL THE CUTS' is organized to advocate against cuts to research, healthcare, and education, featuring Newark Mayor Ras Baraka and AFT President Randi Weingarten, on April 8th, 2025, at Military Park, Newark."
+  },
+  {
+    "id": "029921e0-01c3-48c2-b638-f27d2d9b467b",
+    "title": "Macoupin Pride",
+    "date": "Tuesday, April 8, 2025",
+    "time": "5:00 PM",
+    "description": "Join us to show support for our LGBTQIA+ Community at a rally and meeting. Demonstrate to our board members who they represent.",
+    "city": "Carlinville",
+    "state": "IL",
+    "address": "215 S East St.",
+    "meeting_location": "County Board Room",
+    "links": [
+      "https://macoupincountyil.gov/ova_sev/county_board/"
+    ],
+    "sponsors": [],
+    "image_url": "https://theblop.org/assets/images/029921e0-01c3-48c2-b638-f27d2d9b467b.jpg",
+    "thumbnail_url": "https://theblop.org/assets/images/029921e0-01c3-48c2-b638-f27d2d9b467b-thumb.jpg",
+    "canonical_id": "",
+    "permalink": "https://theblop.org/events/029921e0-01c3-48c2-b638-f27d2d9b467b.html",
+    "ical": "https://theblop.org/assets/ical/029921e0-01c3-48c2-b638-f27d2d9b467b.ics",
+    "raw_text": "MACOUPIN PRIDE\n\nShow your support of our LGBTQIA+ Community\n\nApril 8, 2025\n\nRALLY AT 5PM\n\n6PM-MEETING\n\nCounty Board Room\n215 S East St.\nCarlinville IL 62626\n\nShow our board members who they represent!\n\nhttps://macoupincountyil.gov/ova_sev/county_board/",
+    "raw_summary": "The image describes an event called \"Macoupin Pride\" aiming to support the LGBTQIA+ Community. It mentions a rally and meeting on April 8, 2025, at the County Board Room in Carlinville, Illinois."
   },
   {
     "id": "dfd13ee0-ac16-48b8-9aa8-33cb3c30f92b",
@@ -645,6 +621,46 @@
     "ical": "https://theblop.org/assets/ical/82fad61a-cbdf-48ff-bf34-01d735ce2062.ics",
     "raw_text": "NO TAXES FOR TYRANTS RALLY & MARCH  WEAR YOUR WALKING SHOES AND BRING YOUR BEST SIGNS!  APRIL 15 5:30-6:30 PM  NAPERVILLE WOMAN'S CLUB 14 S WASHINGTON, NAPERVILLE",
     "raw_summary": "The image is a flyer for the \"No Taxes for Tyrants Rally & March\" event, taking place on April 15 from 5:30 to 6:30 PM at Naperville Woman's Club, 14 S Washington, Naperville. Attendees are encouraged to wear walking shoes and bring signs. The event is supported by several organizations, including Indivisible Naperville and WSTU Local 571."
+  },
+  {
+    "id": "225538b2-3ae8-4b89-b575-d51c43fafdf4",
+    "title": "Corner Protest",
+    "date": "Tuesday, April 15, 2025",
+    "time": "4:15 PM",
+    "description": "Join us for the Corner Protest every Tuesday and Thursday to engage positively and protect our public lands. A special event will occur on April 15, 2025.",
+    "city": "Fort Collins",
+    "state": "CO",
+    "address": "2601 S College Ave, Fort Collins, CO",
+    "meeting_location": "Corner of Drake and College in Fort Collins",
+    "links": [],
+    "sponsors": [],
+    "image_url": "https://theblop.org/assets/images/225538b2-3ae8-4b89-b575-d51c43fafdf4.png",
+    "thumbnail_url": "https://theblop.org/assets/images/225538b2-3ae8-4b89-b575-d51c43fafdf4-thumb.jpg",
+    "canonical_id": "",
+    "permalink": "https://theblop.org/events/225538b2-3ae8-4b89-b575-d51c43fafdf4.html",
+    "ical": "https://theblop.org/assets/ical/225538b2-3ae8-4b89-b575-d51c43fafdf4.ics",
+    "raw_text": "Join the Corner Protest every Tuesday and Thursday 4:15-6PM\nCorner of Drake and College in Fort Collins\nPositive engagement\n\nPROTECT OUR PUBLIC LANDS\nRight or Left ... we all know this is WRONG!\nWE THE PEOPLE\n\nTuesday, April 15, 2025\n4:15 - 6:00 pm\n2601 S College Ave, Fort Collins, CO",
+    "raw_summary": "The image describes a recurring event called the \"Corner Protest\" happening every Tuesday and Thursday from 4:15 to 6 PM at the corner of Drake and College in Fort Collins, with a special event on Tuesday, April 15, 2025, at 2601 S College Ave, Fort Collins, CO. The event emphasizes positive engagement and protection of public lands."
+  },
+  {
+    "id": "e50ab39b-a727-4576-8ecb-26115822a11c",
+    "title": "Corner Protest",
+    "date": "Thursday, April 17, 2025",
+    "time": "4:15 PM",
+    "description": "Join us every Tuesday and Thursday for positive engagement at the corner of Drake and College in Fort Collins. We aim to protect public lands and express our collective voice.",
+    "city": "Fort Collins",
+    "state": "CO",
+    "address": "2601 S College Ave, Fort Collins, CO",
+    "meeting_location": "Corner of Drake and College",
+    "links": [],
+    "sponsors": [],
+    "image_url": "https://theblop.org/assets/images/e50ab39b-a727-4576-8ecb-26115822a11c.png",
+    "thumbnail_url": "https://theblop.org/assets/images/e50ab39b-a727-4576-8ecb-26115822a11c-thumb.jpg",
+    "canonical_id": "",
+    "permalink": "https://theblop.org/events/e50ab39b-a727-4576-8ecb-26115822a11c.html",
+    "ical": "https://theblop.org/assets/ical/e50ab39b-a727-4576-8ecb-26115822a11c.ics",
+    "raw_text": "Join the Corner Protest every Tuesday and Thursday 4:15-6PM\nCorner of Drake and College in Fort Collins\nPositive engagement\nPROTECT OUR PUBLIC LANDS\nRight or Left ... we all know this is WRONG!\nWE THE PEOPLE\nOMG GOP WTF\nThursday, April 17, 2025\n4:15 - 6:00 pm\n2601 S College Ave, Fort Collins, CO",
+    "raw_summary": "A protest event scheduled for Tuesdays and Thursdays in Fort Collins with specific location and time."
   },
   {
     "id": "125c4d09-2e00-45ff-a316-178e0113f60b",
@@ -1761,6 +1777,28 @@
     "ical": "https://theblop.org/assets/ical/5ea651ad-4ba2-495f-a72a-b0fe5e41ef78.ics",
     "raw_text": "MAY 9, 2025\nVICTORY DAY\nSlava Ukraini!\nWashington, DC\nNational Mall, 10am\nUp Yours,\nVladimir",
     "raw_summary": "This image is a flyer announcing a Victory Day event on May 9, 2025, taking place at the National Mall in Washington, DC at 10 am. The flyer includes a phrase in support of Ukraine, \"Slava Ukraini!\" and a message directed \"Up Yours, Vladimir.\""
+  },
+  {
+    "id": "b47296b3-883a-4c16-9222-2edb832b24e0",
+    "title": "A Mother Lovin’ Rally",
+    "date": "Saturday, May 10, 2025",
+    "time": "11:00 AM",
+    "description": "Join us for A Mother Lovin’ Rally to celebrate Mother's Day. We aim to love and protect mothers' rights. Hosted by Organize Disrupt Resist Indivisible. Register on Mobilize.",
+    "city": "Brentwood",
+    "state": "MO",
+    "address": "Brentwood Square",
+    "meeting_location": "",
+    "links": [],
+    "sponsors": [
+      "Organize Disrupt Resist Indivisible"
+    ],
+    "image_url": "https://theblop.org/assets/images/b47296b3-883a-4c16-9222-2edb832b24e0.png",
+    "thumbnail_url": "https://theblop.org/assets/images/b47296b3-883a-4c16-9222-2edb832b24e0-thumb.jpg",
+    "canonical_id": "",
+    "permalink": "https://theblop.org/events/b47296b3-883a-4c16-9222-2edb832b24e0.html",
+    "ical": "https://theblop.org/assets/ical/b47296b3-883a-4c16-9222-2edb832b24e0.ics",
+    "raw_text": "A Mother Lovin’ Rally  \nSaturday May 10, 2025 11am-1pm  \nHappy Mother’s Day  \nLove Your Mother, Protect Her Rights  \nBrentwood Square Brentwood, MO  \nHosted by: Organize Disrupt Resist Indivisible  \nRegister on Mobilize  ",
+    "raw_summary": "This image is a flyer for an event called \"A Mother Lovin’ Rally\" happening on May 10, 2025, from 11 am to 1 pm in Brentwood, MO. It’s hosted by Organize Disrupt Resist Indivisible, and attendees are encouraged to register on Mobilize. It’s themed around Mother's Day with a call to action to love and protect mothers' rights."
   },
   {
     "id": "60dc489f-1904-48f3-85e7-acb538505c8d",
