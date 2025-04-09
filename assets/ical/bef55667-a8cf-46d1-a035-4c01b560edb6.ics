@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:0e3cd842-5ef7-4c2d-9e4e-6fb5b515fed3
+SEQUENCE:0
+DTSTAMP:20250409T210255Z
+DTSTART:20250419T100000
+DTEND:20250419T120000
+SUMMARY:HANDS OFF
+LOCATION:Biesterfield Road & Meacham Road\, Elk Grove Village\, IL
+DESCRIPTION:Join us for a volunteer-organized rally event.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Biesterfield
+ +Road+%26+Meacham+Road%2C+Elk+Grove+Village%2C+IL&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

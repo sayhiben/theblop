@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:d3bae837-5d2c-458b-b529-97bdd3048f07
+SEQUENCE:0
+DTSTAMP:20250409T210254Z
+DTSTART:20250413T120000
+DTEND:20250413T140000
+SUMMARY:2nd Monthly Family-Friendly Block Party Style Tesla Takedown
+LOCATION:3067 N Elston Avenue\, Chicago\, IL
+DESCRIPTION:Join us for a family-friendly block party at the Tesla Service
+  Center.\n\nTesla Service Center
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=3067+N+Elsto
+ n+Avenue%2C+Chicago%2C+IL&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

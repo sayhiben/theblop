@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:193088b3-90d0-4b84-af88-06301fb7696e
+SEQUENCE:0
+DTSTAMP:20250409T210254Z
+DTSTART:20250412T110000
+DTEND:20250412T130000
+SUMMARY:Stop Musk Saturdays
+LOCATION:3200 Ogden Avenue\, Lisle\, IL 60532
+DESCRIPTION:Join us for a gathering at Tesla of Naperville/Lisle to expres
+ s our views. We aim to engage in discussions and activities.\n\nTesla of N
+ aperville/Lisle
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=3200+Ogden+A
+ venue%2C+Lisle%2C+IL+60532&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

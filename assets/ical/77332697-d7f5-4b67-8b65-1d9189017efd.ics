@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:62f3c74e-413d-4347-bc0e-715691fea6d2
+SEQUENCE:0
+DTSTAMP:20250409T210254Z
+DTSTART:20250411T120000
+DTEND:20250411T140000
+SUMMARY:Finding Kean Fridays
+LOCATION:\, Bernardsville\, NJ
+DESCRIPTION:This is a recurring rally hosted by OneNJ7 to protest against 
+ Tom Kean Jr.'s political decisions\, framed as supporting Donald Trump’s
+  agenda\, affecting working families\, people with disabilities\, and vete
+ rans.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+Bernards
+ ville%2C+NJ&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

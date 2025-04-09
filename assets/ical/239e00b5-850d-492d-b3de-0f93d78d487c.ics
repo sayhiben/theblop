@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:2f148bcc-c605-4abf-943b-d408b95d740a
+SEQUENCE:0
+DTSTAMP:20250409T210254Z
+DTSTART:20250412T140000
+DTEND:20250412T160000
+SUMMARY:Down With Musk
+LOCATION:1121 S Milwaukee Ave\, Libertyville\, IL
+DESCRIPTION:Join us for the 'Down With Musk' event to voice our concerns a
+ nd participate in discussions.\n\nTesla Libertyville
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=1121+S+Milwa
+ ukee+Ave%2C+Libertyville%2C+IL&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

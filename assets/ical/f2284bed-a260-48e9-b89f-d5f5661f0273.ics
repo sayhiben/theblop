@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:ad4f4b84-584f-4a99-89a4-0a419a44138b
+SEQUENCE:0
+DTSTAMP:20250409T210254Z
+DTSTART:20250412T120000
+DTEND:20250412T140000
+SUMMARY:Tesla Takedown Buffalo Grove
+LOCATION:915 Dundee Road\, Buffalo Grove\, IL
+DESCRIPTION:This event is taking place at the Tesla Showroom in Buffalo Gr
+ ove and seems to involve activities related to "Takedown" based on the tit
+ le.\n\nTesla Showroom
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=915+Dundee+R
+ oad%2C+Buffalo+Grove%2C+IL&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

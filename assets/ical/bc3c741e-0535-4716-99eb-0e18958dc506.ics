@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:f3977808-73bf-4b8f-87f5-c86953932487
+SEQUENCE:0
+DTSTAMP:20250409T210255Z
+DTSTART:20250419T120000
+DTEND:20250419T140000
+SUMMARY:Anti-Trump: No King Protest
+LOCATION:320 S Wyman St\, Rockford\, IL
+DESCRIPTION:Join us on the anniversary of the American Revolution to resis
+ t perceived authoritarianism and advocate for democratic values in a solid
+ arity event hosted by The People of Rockford.\n\nDavis Park at Founders La
+ nding
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=320+S+Wyman+
+ St%2C+Rockford%2C+IL&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
