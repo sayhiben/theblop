@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:2ef853cf-4050-4410-81e7-15645d82979b
+SEQUENCE:0
+DTSTAMP:20250409T060303Z
+DTSTART:20250419T120000
+DTEND:20250419T140000
+SUMMARY:We the People Means Everyone Rally
+LOCATION:Seattle Central College\, Seattle\, WA
+DESCRIPTION:Speakers\, Live Music and Information booths Supporting Democr
+ acy\, Diversity and Equality\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Seattle+Cent
+ ral+College%2C+Seattle%2C+WA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
