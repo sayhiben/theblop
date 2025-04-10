@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:b768591e-d461-44cf-8124-ea54d3d56f46
+SEQUENCE:0
+DTSTAMP:20250410T120347Z
+DTSTART:20250419T140000
+DTEND:20250419T160000
+SUMMARY:Join the People's Movement
+LOCATION:111 E White St\, Rock Hill\, SC
+DESCRIPTION:We invite you to join a peaceful\, non-partisan rally in Rock 
+ Hill.\n\nDave Lyle Blvd between Main & White
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=111+E+White+
+ St%2C+Rock+Hill%2C+SC&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

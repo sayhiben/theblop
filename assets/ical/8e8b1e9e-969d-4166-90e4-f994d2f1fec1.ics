@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:4ff1f4b3-d8a2-42e4-8468-30a9a225ee9a
+SEQUENCE:0
+DTSTAMP:20250410T120347Z
+DTSTART:20250419T120000
+DTEND:20250419T140000
+SUMMARY:Defend the Constitution
+LOCATION:113 S Hampton St\, Kershaw\, SC
+DESCRIPTION:We are hosting a peaceful\, non-partisan rally to defend the c
+ onstitution.\n\nTown Hall
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=113+S+Hampto
+ n+St%2C+Kershaw%2C+SC&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

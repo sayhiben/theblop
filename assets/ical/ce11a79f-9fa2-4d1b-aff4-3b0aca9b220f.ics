@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:07d8859b-8d33-45e4-99fc-d6b1f5ca1b19
+SEQUENCE:0
+DTSTAMP:20250410T120347Z
+DTSTART:20250501T110000
+DTEND:20250501T130000
+SUMMARY:International Worker's Day March
+LOCATION:Union Park\, 1501 W. Randolph St.\, Chicago\, IL
+DESCRIPTION:We are organizing a march for International Worker's Day to st
+ and for workers' rights in Chicago\, including various labor-related actio
+ ns on surrounding days.\n\nGrant Park\, 337 E. Randolph St.
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Union+Park%2
+ C+1501+W.+Randolph+St.%2C+Chicago%2C+IL&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:f3c2cf8f-246d-46a5-9930-e9066c0878b8
+SEQUENCE:0
+DTSTAMP:20250410T120347Z
+DTSTART:20250419T120000
+DTEND:20250419T140000
+SUMMARY:Together in Community
+LOCATION:320 S Hudson St\, Greenville\, SC
+DESCRIPTION:Join us for a peaceful\, non-partisan rally promoting unity an
+ d community engagement. This event is part of the 50/50 movement\, focusin
+ g on conducting protests across 50 states on the same day.\n\nMichelin Gre
+ en at Unity Park
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=320+S+Hudson
+ +St%2C+Greenville%2C+SC&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

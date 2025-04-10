@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:d5aab52b-e07d-4d0b-b88a-d2eb2393a831
+SEQUENCE:0
+DTSTAMP:20250410T120347Z
+DTSTART:20250419T120000
+DTEND:20250419T140000
+SUMMARY:The People's Protest
+LOCATION:Daley Plaza\, Chicago\, IL
+DESCRIPTION:The event titled 'The People's Protest' is themed around 'Joy 
+ as Resistance\,' and will take place at Daley Plaza. It's organized to bri
+ ng people together and express protest through joy.\n\nDaley Plaza
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Daley+Plaza%
+ 2C+Chicago%2C+IL&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
