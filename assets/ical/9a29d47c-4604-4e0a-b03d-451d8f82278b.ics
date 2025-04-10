@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:79e6517d-8f07-43a8-815e-48c92dd083ff
+SEQUENCE:0
+DTSTAMP:20250410T150300Z
+DTSTART:20250419T120000
+DTEND:20250419T140000
+SUMMARY:NJ 50501's RISE UP Rally & Food Drive
+LOCATION:145 W State St\, Trenton\, NJ
+DESCRIPTION:Join us for NJ50501’s Day of Action at the plaza between the
+  State House Annex and the New Jersey State Library. We'll protest executi
+ ve abuses\, voter suppression\, and potential misuse of laws affecting pea
+ ceful protest. Support our community by bringing non-perishable food items
+ .\n\nThe plaza between the State House Annex and the New Jersey State Libr
+ ary
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=145+W+State+
+ St%2C+Trenton%2C+NJ&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
