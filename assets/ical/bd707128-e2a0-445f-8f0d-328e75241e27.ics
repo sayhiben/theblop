@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:a7632a29-87f3-47cb-9547-4a5436a86b8f
+SEQUENCE:0
+DTSTAMP:20250410T000601Z
+DTSTART:20250419T103000
+DTEND:20250419T123000
+SUMMARY:Say NO To Tyranny
+LOCATION:Collier County Courthouse\, Naples\, FL
+DESCRIPTION:Join us to say no to tyranny with a gathering at the Collier C
+ ounty Courthouse. Register on Indivisible.org to participate.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Collier+Coun
+ ty+Courthouse%2C+Naples%2C+FL&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

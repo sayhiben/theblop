@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:1b8e4776-7476-4bce-9017-0360027b0695
+SEQUENCE:0
+DTSTAMP:20250410T000601Z
+DTSTART:20250419T130000
+DTEND:20250419T150000
+SUMMARY:Good Trouble March
+LOCATION:Kennedy Rec Center\, Trenton\, NJ
+DESCRIPTION:Join us for the Good Trouble March\, a sidewalk march from Ken
+ nedy Rec Center in Trenton to a cultural center\, inspired by John Lewis's
+  legacy.\n\nKennedy Rec Center
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Kennedy+Rec+
+ Center%2C+Trenton%2C+NJ&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:bf3d51ee-f683-4920-ad0e-634ea74cb28c
+SEQUENCE:0
+DTSTAMP:20250410T000601Z
+DTSTART:20250412T120000
+DTEND:20250412T140000
+SUMMARY:Tesla Takedown
+LOCATION:16955 Chesterfield Airport Rd\, Chesterfield\, MO
+DESCRIPTION:Take back our democracy from the billionaires\n\nTesla
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=16955+Cheste
+ rfield+Airport+Rd%2C+Chesterfield%2C+MO&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
