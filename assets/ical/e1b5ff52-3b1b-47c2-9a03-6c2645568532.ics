@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:480032f6-9719-4273-aab9-a77e58d717a0
+SEQUENCE:0
+DTSTAMP:20250410T060308Z
+DTSTART:20250412T100000
+DTEND:20250412T120000
+SUMMARY:Environmental Justice Town Hall
+LOCATION:Mt. Pisgah Missionary Baptist Church\, 3636 Weaver Rd\, Memphis\,
+  TN
+DESCRIPTION:Join us to organize\, mobilize\, and activate to protect our c
+ ommunities from xAI and corporate polluters. Provide your comments on xAI 
+ and TVA's gas turbines.\n\nMt. Pisgah Missionary Baptist Church
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Mt.+Pisgah+M
+ issionary+Baptist+Church%2C+3636+Weaver+Rd%2C+Memphis%2C+TN&zoom=15&basema
+ p=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
