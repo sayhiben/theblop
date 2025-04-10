@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:fcec3abe-c9a6-4155-9a1a-da8b7ea7e30b
+SEQUENCE:0
+DTSTAMP:20250410T031538Z
+DTSTART:20250419T113000
+DTEND:20250419T133000
+SUMMARY:Seriously - HANDS OFF!! Rally
+LOCATION:Randall Rd - Silver Glen Roads\, South Elgin\, IL
+DESCRIPTION:A public rally organized by Becky McCabe and We Can Lead Chang
+ e - Fox Valley.\n\nRandall Rd - Silver Glen Roads\, South Elgin\, IL
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Randall+Rd+-
+ +Silver+Glen+Roads%2C+South+Elgin%2C+IL&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
