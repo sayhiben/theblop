@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:05b79999-2beb-46f3-a099-e60c4c54b3f6
+SEQUENCE:0
+DTSTAMP:20250410T210253Z
+DTSTART:20250422T150000
+DTEND:20250422T170000
+SUMMARY:March for Science & People’s Science Fair
+LOCATION:\, Urbana\, IL
+DESCRIPTION:Join us for a rally at Alma Mater followed by a People's Scien
+ ce Fair at Lincoln Square Mall. Present your science and learn from others
+ .\n\nAlma Mater
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+Urbana%2
+ C+IL&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

@@ -1542,6 +1542,32 @@
     "raw_summary": "The image is a “Save The Date” announcement for an LGBTQ+ Town Hall event planned for April 22, 2025, from 6-9 PM. It is titled as such on a red background with the specified date, time, and a note about more details to come, specifically in Fresno."
   },
   {
+    "id": "034c5bf8-ae7a-4045-beca-4f7fe7171b8d",
+    "title": "March for Science & People’s Science Fair",
+    "date": "Tuesday, April 22, 2025",
+    "time": "3:00 PM",
+    "description": "Join us for a rally at Alma Mater followed by a People's Science Fair at Lincoln Square Mall. Present your science and learn from others.",
+    "city": "Urbana",
+    "state": "IL",
+    "address": "",
+    "meeting_location": "Alma Mater",
+    "links": [
+      "www.risupforscience.com"
+    ],
+    "sponsors": [
+      "Rise Up for Science",
+      " University YMCA",
+      " University of Illinois Urbana-Champaign"
+    ],
+    "image_url": "https://theblop.org/assets/images/034c5bf8-ae7a-4045-beca-4f7fe7171b8d.jpg",
+    "thumbnail_url": "https://theblop.org/assets/images/034c5bf8-ae7a-4045-beca-4f7fe7171b8d-thumb.jpg",
+    "canonical_id": "",
+    "permalink": "https://theblop.org/events/034c5bf8-ae7a-4045-beca-4f7fe7171b8d.html",
+    "ical": "https://theblop.org/assets/ical/034c5bf8-ae7a-4045-beca-4f7fe7171b8d.ics",
+    "raw_text": "MARCH FOR SCIENCE & PEOPLE’S SCIENCE FAIR\nAPRIL 22nd, 2025\nRALLY @ ALMA MATER 3pm\nPEOPLE’S SCIENCE FAIR @ LINCOLN SQUARE MALL 4-6pm\nSign up to present your science here (QR code)\nMarch Route (QR code)\nSponsored by Rise Up for Science\nwww.risupforscience.com Contact: uiuc4science@gmail.com\nCo-sponsored by the UNIVERSITY YMCA UNIVERSITY OF ILLINOIS URBANA-CHAMPAIGN",
+    "raw_summary": "The image is a flyer for “March for Science & People's Science Fair” scheduled for April 22, 2025. It mentions a rally at Alma Mater at 3 PM and a science fair at Lincoln Square Mall from 4-6 PM. There are QR codes for signing up to present science and for the march route. The event is sponsored by Rise Up for Science and co-sponsored by the University YMCA, University of Illinois Urbana-Champaign."
+  },
+  {
     "id": "b3b31011-763d-4e0d-bac3-55b0298c10f4",
     "title": "Lobby Day & Rally",
     "date": "Wednesday, April 23, 2025",
@@ -2273,6 +2299,29 @@
     "ical": "https://theblop.org/assets/ical/ce11a79f-9fa2-4d1b-aff4-3b0aca9b220f.ics",
     "raw_text": "MAY 1ST\nINTERNATIONAL WORKER'S DAY\nDO NOT CONSUME\nMILLER MCDONALDS TARGET WALMART GOYA\n11 am\nUnion Park\nCHICAGO\n1501 W. Randolph St.\n2025\nMARCH\nWE ARE NOT LEAVING!\n\nMAY 2\nLABOR STOP\nMASSIVE ABSENCE\nMAY 3,4\nDO NOT CONSUME\nNO MARGARITAS\nNO GUACAMOLE\nMAY 5\nLABOR STOP\nMASSIVE ABSENCE\n\nGrant Park\n337 E. Randolph St\n\nCONSEJO DE RESISTENCIA EN DEFENSA DEL INMIGRANTE",
     "raw_summary": "The image promotes a march on May 1st, 2025, for International Worker's Day in Chicago. It details the event location, time, and some secondary activities on surrounding days."
+  },
+  {
+    "id": "cbacdae7-41f1-4412-8c0b-c955106e9d63",
+    "title": "International Worker's Day",
+    "date": "Thursday, May 1, 2025",
+    "time": "11:00 AM",
+    "description": "Join us in Chicago for a march on May 1st to commemorate International Worker’s Day. Starting at Union Park and ending at Grant Park, with additional actions from May 2 to 5 including labor strikes and consumer boycotts.",
+    "city": "Chicago",
+    "state": "IL",
+    "address": "1501 W. Randolph St. to 337 E. Randolph St.",
+    "meeting_location": "Union Park",
+    "links": [],
+    "sponsors": [
+      "Consejo de Resistencia",
+      " En Defensa del Inmigrante"
+    ],
+    "image_url": "https://theblop.org/assets/images/cbacdae7-41f1-4412-8c0b-c955106e9d63.jpg",
+    "thumbnail_url": "https://theblop.org/assets/images/cbacdae7-41f1-4412-8c0b-c955106e9d63-thumb.jpg",
+    "canonical_id": "",
+    "permalink": "https://theblop.org/events/cbacdae7-41f1-4412-8c0b-c955106e9d63.html",
+    "ical": "https://theblop.org/assets/ical/cbacdae7-41f1-4412-8c0b-c955106e9d63.ics",
+    "raw_text": "MAY 1ST  INTERNATIONAL WORKER'S DAY  DO NOT CONSUME  MILLER  MCDONALD'S  MCDONALDS  WALGART  WALMART  GOYA  11 am  Union Park  1501 W. Randolph St.  CHICAGO  2025  MARCH  WE ARE NOT LEAVING!  MAY 2  LABOR STOP  MASSIVE ABSENCE  MAY 3, 4  DO NOT CONSUME  NO MARGARITAS  NO GUACAMOLE  MAY 5  LABOR STOP  MASSIVE ABSENCE  Grant Park  337 E. Randolph St.  [QR Code]",
+    "raw_summary": "The flyer promotes the International Worker’s Day march on May 1st, 2025, in Chicago. Events include a march starting at Union Park and ending at Grant Park. There are also additional events from May 2 to May 5 involving labor strikes and consumer boycotts."
   },
   {
     "id": "adfc5b0b-9ca9-4889-a0b4-b607c177cb6b",

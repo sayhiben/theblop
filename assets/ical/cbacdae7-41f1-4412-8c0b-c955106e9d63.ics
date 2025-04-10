@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:ecd5ecea-5a4c-4add-b74f-d824b4c4ba98
+SEQUENCE:0
+DTSTAMP:20250410T210253Z
+DTSTART:20250501T110000
+DTEND:20250501T130000
+SUMMARY:International Worker's Day
+LOCATION:1501 W. Randolph St. to 337 E. Randolph St.\, Chicago\, IL
+DESCRIPTION:Join us in Chicago for a march on May 1st to commemorate Inter
+ national Worker’s Day. Starting at Union Park and ending at Grant Park\,
+  with additional actions from May 2 to 5 including labor strikes and consu
+ mer boycotts.\n\nUnion Park
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=1501+W.+Rand
+ olph+St.+to+337+E.+Randolph+St.%2C+Chicago%2C+IL&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
