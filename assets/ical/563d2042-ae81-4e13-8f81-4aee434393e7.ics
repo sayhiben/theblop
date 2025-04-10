@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:226819be-9232-406f-916c-37c6530aba76
+SEQUENCE:0
+DTSTAMP:20250410T180320Z
+DTSTART:20250419T130000
+DTEND:20250419T150000
+SUMMARY:Down with Krome: Defend Due Process
+LOCATION:1400 Glades Rd\, Boca Raton\, FL
+DESCRIPTION:We are organizing a protest to demand that the U.S. government
+  respect the rights of detainees at the Krome detention center. Our goals 
+ are to ensure the capacity limits are respected\, detainees have access to
+  legal counsel\, and the press and local officials have access to the faci
+ lities.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=1400+Glades+
+ Rd%2C+Boca+Raton%2C+FL&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

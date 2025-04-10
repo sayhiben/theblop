@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:e95074cb-0886-4241-af37-2c79f120963b
+SEQUENCE:0
+DTSTAMP:20250410T180320Z
+DTSTART:20250425T000000
+DTEND:20250425T020000
+SUMMARY:Petition Against Federal Concealed Carry Mandate
+DESCRIPTION:We invite you to join us in collaboration with Moms Demand Act
+ ion to tell Tom Kean\, Jr. to vote NO on a Federal Concealed Carry Mandate
+ . Join us to present the petition on the specified date.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=&zoom=15&bas
+ emap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

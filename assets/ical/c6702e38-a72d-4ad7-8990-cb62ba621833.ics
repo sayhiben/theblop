@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:6a00aa82-57f8-4d10-a2b3-6372e21363e4
+SEQUENCE:0
+DTSTAMP:20250410T180320Z
+DTSTART:20250419T120000
+DTEND:20250419T140000
+SUMMARY:Nation Wide Day of Action
+LOCATION:82 Smith St\, Providence\, RI
+DESCRIPTION:Join us for a national day of action at the Rhode Island State
+  House to advocate for change. Connect with our community through social m
+ edia and our website for more details.\n\nRhode Island State House
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=82+Smith+St%
+ 2C+Providence%2C+RI&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
