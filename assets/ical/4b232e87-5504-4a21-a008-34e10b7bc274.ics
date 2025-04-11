@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:afaae932-4136-4da2-9ed0-eb26528aaaa9
+SEQUENCE:0
+DTSTAMP:20250411T150313Z
+DTSTART:20250416T173000
+DTEND:20250416T193000
+SUMMARY:Protest: Tax the Rich
+LOCATION:Federal Wallace\, 125 S State\, Salt Lake City\, UT
+DESCRIPTION:Join us for a protest demanding to 'Tax the Rich' and 'Make Bi
+ llionaires Extinct'. Organized by Salt Lake Indivisible.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Federal+Wall
+ ace%2C+125+S+State%2C+Salt+Lake+City%2C+UT&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
