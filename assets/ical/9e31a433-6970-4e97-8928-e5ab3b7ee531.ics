@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:20d839d1-5256-44e1-983c-79b76e7d62f2
+SEQUENCE:0
+DTSTAMP:20250411T180315Z
+DTSTART:20250419T120000
+DTEND:20250419T140000
+SUMMARY:We the People - Peaceful Protest
+LOCATION:Veterans Pkwy\, Marshfield\, WI
+DESCRIPTION:Join us to protest against policies harming our community\, st
+ arting from Wenzel Family Plaza and walking to Veterans Pkwy. Together\, w
+ e strive to strengthen our Central Wisconsin communities.\n\nWenzel Family
+  Plaza
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Veterans+Pkw
+ y%2C+Marshfield%2C+WI&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

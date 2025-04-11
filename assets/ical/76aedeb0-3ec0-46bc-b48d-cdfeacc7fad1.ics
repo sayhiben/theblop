@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:52b20695-5e61-4c7d-9478-e62f92004b7b
+SEQUENCE:0
+DTSTAMP:20250411T180315Z
+DTSTART:20250419T120000
+DTEND:20250419T140000
+SUMMARY:No Kings National Protest
+LOCATION:205 Government St\, Mobile\, AL
+DESCRIPTION:Join us for a national protest in celebration of the 250th ann
+ iversary of the American Revolution\, organized by Latinos United Mobile a
+ nd Indivisible Mobile.\n\nMobile Government Plaza
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=205+Governme
+ nt+St%2C+Mobile%2C+AL&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

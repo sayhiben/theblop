@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:9b14eba0-c30c-4966-bee6-f65e67e3dca9
+SEQUENCE:0
+DTSTAMP:20250411T180315Z
+DTSTART:20250413T110000
+DTEND:20250413T130000
+SUMMARY:March for Veterans’ Healthcare
+LOCATION:State Capitol Grounds
+DESCRIPTION:This is a peaceful march around Capitol Square aimed at suppor
+ ting veterans and opposing cuts to VA services.\n\nKing St.
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=State+Capito
+ l+Grounds&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

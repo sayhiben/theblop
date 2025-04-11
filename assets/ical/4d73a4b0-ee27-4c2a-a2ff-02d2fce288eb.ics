@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:25974d15-2482-4169-b4f2-dd312d72f9c4
+SEQUENCE:0
+DTSTAMP:20250411T180315Z
+DTSTART:20250419T100000
+DTEND:20250419T120000
+SUMMARY:Day of Civic Action
+LOCATION:\, Sheboygan\, WI
+DESCRIPTION:We are hosting a Day of Civic Action with a theme of mutual ai
+ d and impactful action. Join us for Earth Day clean-up and a peaceful prot
+ est. Please bring a jar of peanut butter to donate to the Sheboygan County
+  Food Bank.\n\nParadigm’s Lil Yellow Trailer\; Fountain Park\; 14th & Er
+ ie
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+Sheboyga
+ n%2C+WI&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
