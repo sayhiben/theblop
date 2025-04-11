@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:b12209cd-b3d8-4b61-b1d1-93685206a81a
+SEQUENCE:0
+DTSTAMP:20250411T031549Z
+DTSTART:20250417T130000
+DTEND:20250417T150000
+SUMMARY:Defend Forest Park Rally
+LOCATION:City Hall - 1221 SW 4th Ave\, Portland\, OR
+DESCRIPTION:Join us to pack council chambers and demand city council prote
+ ct our urban forest from PGE clear cuts. Wear green.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=City+Hall+-+
+ 1221+SW+4th+Ave%2C+Portland%2C+OR&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
