@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:b3d8f819-c1df-47c5-b065-a2d6fbfbed7c
+SEQUENCE:0
+DTSTAMP:20250411T000606Z
+DTSTART:20250412T100000
+DTEND:20250412T120000
+SUMMARY:Remove Reverse Reclaim
+LOCATION:Folly Rd between Camp Rd and Eugene Gibbs St\, James Island\, SC
+DESCRIPTION:Join us for sign-waving and make your voice heard as part of a
+  nationwide effort to remove corrupt politicians\, reverse damage\, and re
+ claim democracy.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Folly+Rd+bet
+ ween+Camp+Rd+and+Eugene+Gibbs+St%2C+James+Island%2C+SC&zoom=15&basemap=roa
+ dmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

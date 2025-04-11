@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:86ea06e1-7370-4acc-ab2b-1a29dbb23608
+SEQUENCE:0
+DTSTAMP:20250411T000606Z
+DTSTART:20250419T000000
+DTEND:20250419T020000
+SUMMARY:Peaceful Non-Partisan Rallies
+LOCATION:\, Columbia\, Greenville\, Kershaw\, Rock Hill\, SC
+DESCRIPTION:Join 50501 SC and our coalition partners for peaceful\, non-pa
+ rtisan rallies throughout the state on Saturday\, April 19.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+Columbia
+ %2C+Greenville%2C+Kershaw%2C+Rock+Hill%2C+SC&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

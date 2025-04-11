@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:af93f4f0-ebdb-4528-914a-947e855e59cb
+SEQUENCE:0
+DTSTAMP:20250411T000606Z
+DTSTART:20250412T110000
+DTEND:20250412T130000
+SUMMARY:Rally - SAVE our Social Security & Veterans Benefits
+LOCATION:Biesterfield Road & Wellington Avenue\, Elk Grove Village\, IL
+DESCRIPTION:Join us for a rally organized by Indivisible Elk Grove to save
+  Social Security and Veterans Benefits. It's an opportunity to stand toget
+ her for important causes.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Biesterfield
+ +Road+%26+Wellington+Avenue%2C+Elk+Grove+Village%2C+IL&zoom=15&basemap=roa
+ dmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

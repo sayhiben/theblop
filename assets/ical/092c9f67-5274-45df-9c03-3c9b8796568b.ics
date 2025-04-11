@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:b20adf40-6751-4b1c-9287-5b9bfb9aee26
+SEQUENCE:0
+DTSTAMP:20250411T000606Z
+DTSTART:20250423T110000
+DTEND:20250423T130000
+SUMMARY:Hands Around the State House II
+LOCATION:1100 Gervais St.\, Columbia\, SC
+DESCRIPTION:Once again\, we will Rally at the State House in Columbia to l
+ ink hands and turn tragedy into action. The event advocates for passing Ho
+ use Bill 3039\, known as the “Senator Clementa C. Pinckney Hate Crimes A
+ ct.”\n\nSC State House\, North Grounds
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=1100+Gervais
+ +St.%2C+Columbia%2C+SC&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

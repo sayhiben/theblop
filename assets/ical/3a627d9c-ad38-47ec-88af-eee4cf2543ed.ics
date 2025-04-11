@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:485d2b3e-57ef-4930-ab6f-6ade7f53c3cc
+SEQUENCE:0
+DTSTAMP:20250411T000606Z
+DTSTART:20250415T170000
+DTEND:20250415T190000
+SUMMARY:Speak Up for Karim
+LOCATION:71 Main Street\, Flemington\, NJ
+DESCRIPTION:The NAACP of Hunterdon County is organizing a public meeting t
+ o support Karim Daoud\, urging attendees to speak up against his detention
+  by ICE.\n\nCounty Board of Commissioners
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=71+Main+Stre
+ et%2C+Flemington%2C+NJ&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

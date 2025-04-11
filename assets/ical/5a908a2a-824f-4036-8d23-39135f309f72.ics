@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:b8d2f205-e13d-4c29-a904-cad81d9651fc
+SEQUENCE:0
+DTSTAMP:20250411T000606Z
+DTSTART:20250412T140000
+DTEND:20250412T160000
+SUMMARY:Protest for Justice in Palestine
+LOCATION:Ida B Wells Dr. & Michigan Ave.\, Chicago\, IL
+DESCRIPTION:We are organizing a protest to demand justice in Palestine\, f
+ ocusing on stopping abductions\, deportations\, and calling for an arms em
+ bargo on Israel. Join us to end repression and genocide.\n\nDowntown Chica
+ go
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Ida+B+Wells+
+ Dr.+%26+Michigan+Ave.%2C+Chicago%2C+IL&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
