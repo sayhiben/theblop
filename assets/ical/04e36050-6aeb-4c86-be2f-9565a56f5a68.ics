@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:6304ef2a-268c-4e0d-9218-1f5f521dd5bb
+SEQUENCE:0
+DTSTAMP:20250411T210245Z
+DTSTART:20250419T120000
+DTEND:20250419T140000
+SUMMARY:Resistance Visibility Event
+LOCATION:350 2nd Ave N\, St. Petersburg\, FL
+DESCRIPTION:Join us for a Resistance Visibility Event organized by Pinella
+ s County NOW. Engage with the community at Williams Park. Further details 
+ and volunteer sign-up information are available.\n\nWilliams Park
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=350+2nd+Ave+
+ N%2C+St.+Petersburg%2C+FL&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:491d54d9-4c89-41ea-bfb9-1800197cc4a2
+SEQUENCE:0
+DTSTAMP:20250411T210245Z
+DTSTART:20250425T113000
+DTEND:20250425T133000
+SUMMARY:Rally Against Police Torture and Wrongful Convictions
+LOCATION:555 W Monroe St\, Chicago\, IL
+DESCRIPTION:Join us in demanding clemency for survivors of police torture 
+ and the exoneration of wrongful convictions by the Prison Review Board. Ra
+ lly at Gov. JB Pritzker's office.\n\nGov. JB Pritzker’s office
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=555+W+Monroe
+ +St%2C+Chicago%2C+IL&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
