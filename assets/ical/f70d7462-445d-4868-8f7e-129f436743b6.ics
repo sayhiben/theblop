@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:175a60d3-db7f-447e-8eba-aac7d423eeaf
+SEQUENCE:0
+DTSTAMP:20250412T060315Z
+DTSTART:20250412T110000
+DTEND:20250412T130000
+SUMMARY:Rally Against the Defunding of Public Education
+LOCATION:State Capital Building 401 S Capital Ave\, Springfield\, IL
+DESCRIPTION:We are organizing a rally to stand against the defunding of pu
+ blic education\, affirming that our children are our future.\n\nLincoln St
+ atue
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=State+Capita
+ l+Building+401+S+Capital+Ave%2C+Springfield%2C+IL&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

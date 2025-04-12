@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:ba304977-1811-47b0-bddf-dfc4fe1c7082
+SEQUENCE:0
+DTSTAMP:20250412T060315Z
+DTSTART:20250415T120000
+DTEND:20250415T140000
+SUMMARY:Rep. Chris Smith Rally DO YOUR JOB OR RESIGN!!
+LOCATION:33 Washington St\, Toms River\, NJ
+DESCRIPTION:Tell Rep. Chris Smith that it's past time for him to ACT!! DO 
+ YOUR JOB OR RESIGN!! Please bring signs\, drums\, chants!!\n\nRep. Chris S
+ mith's Office
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=33+Washingto
+ n+St%2C+Toms+River%2C+NJ&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

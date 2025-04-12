@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:c96b7441-1b53-4788-8823-b77c2c8f766c
+SEQUENCE:0
+DTSTAMP:20250412T060315Z
+DTSTART:20250419T113000
+DTEND:20250419T133000
+SUMMARY:SERIOUSLY\, HANDS OFF! RALLY
+LOCATION:Randall & Silver Glen Rd\, South Elgin\, IL
+DESCRIPTION:Join us for a rally on the sidewalks at the Randall & Silver G
+ len Rd intersection. Bring a friend\, signs and flags for a peaceful prote
+ st!\n\nRandall & Silver Glen Rd intersection
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Randall+%26+
+ Silver+Glen+Rd%2C+South+Elgin%2C+IL&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

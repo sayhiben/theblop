@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:1825a49f-bd4c-4742-b4ef-02f12aeccb3f
+SEQUENCE:0
+DTSTAMP:20250412T060315Z
+DTSTART:20250429T120000
+DTEND:20250429T140000
+SUMMARY:Rep. Chris Smith Rally SILENCE IS COMPLIANCE!
+LOCATION:33 Washington St\, Toms River\, NJ
+DESCRIPTION:Let's let Rep. Chris Smith know what we think of his silence! 
+ WE CAN'T HEAR YOU: Signalgate!! VA Cuts!! Medicaid!! Social Security!! Med
+ icare!! New signs are helpful!!\n\nRep Chris Smith's Office
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=33+Washingto
+ n+St%2C+Toms+River%2C+NJ&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

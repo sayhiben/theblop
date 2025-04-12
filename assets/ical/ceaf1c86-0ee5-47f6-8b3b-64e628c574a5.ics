@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:a4408e88-6b37-4a26-aae6-0e03c719db0a
+SEQUENCE:0
+DTSTAMP:20250412T060315Z
+DTSTART:20250412T123000
+DTEND:20250412T143000
+SUMMARY:Cherry Hill Tesla Protests
+LOCATION:1605 Rte 70 W\, Cherry Hill Township\, NJ
+DESCRIPTION:Our first Tesla protest drew hundreds of demonstrators. Tesla'
+ s stock is tanking\, their sales are down\, and Elon is getting nervous. L
+ et's keep up the momentum! Please join us for a peaceful protest outside t
+ he Tesla showroom.\n\nTesla Showroom
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=1605+Rte+70+
+ W%2C+Cherry+Hill+Township%2C+NJ&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:a707a91c-fa57-4607-905b-189d06bfff52
+SEQUENCE:0
+DTSTAMP:20250412T060315Z
+DTSTART:20250419T120000
+DTEND:20250419T140000
+SUMMARY:NO KINGS PROTEST!
+LOCATION:1403 Sycamore Rd\, DeKalb\, IL
+DESCRIPTION:Join us for a protest marking the 250th Anniversary of the Ame
+ rican Revolution. We stand against monarchy and celebrate democracy. Hoste
+ d by the DeKalb County Democratic Party IL.\n\nHopkins Park
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=1403+Sycamor
+ e+Rd%2C+DeKalb%2C+IL&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

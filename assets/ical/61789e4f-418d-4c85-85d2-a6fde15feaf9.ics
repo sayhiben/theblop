@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:2560369b-9efa-4b32-aa12-ded740cedbb8
+SEQUENCE:0
+DTSTAMP:20250412T060315Z
+DTSTART:20250412T120000
+DTEND:20250412T140000
+SUMMARY:Tesla Takedown Returns!
+LOCATION:7 Fadem Rd\, Springfield\, NJ
+DESCRIPTION:Back once again. Our first Tesla Takedown protests have drawn 
+ many hundreds of people so we are coming back again! Let's show the unelec
+ ted billionaire Elon Musk and his co-president that we won't let them run 
+ roughshod over our Constitution or our federal government. This location a
+ lso happens to be in Tom Kean Jr's congressional district (NJ-7) so let's 
+ make sure we keep demanding he stops hiding and hosts a public town hall. 
+ DETAILS: Meet at the Starbucks on Maplewood Ave at 11:30am if you'd like t
+ o carpool. Grab a few friends or neighbors and bring your creative signs\,
+  your rage\, and your voices! We'll gather on Fadem Road behind Staples wa
+ lk to together to the front of the dealership.\n\nRt. 22 (next to the Spri
+ ngfield Tesla dealership)
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=7+Fadem+Rd%2
+ C+Springfield%2C+NJ&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

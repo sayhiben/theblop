@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:20274f16-1cfb-4712-8cb9-63b1cc964043
+SEQUENCE:0
+DTSTAMP:20250412T060315Z
+DTSTART:20250419T110000
+DTEND:20250419T130000
+SUMMARY:Hands Off!
+LOCATION:Rt 47 & Center St\, Yorkville\, IL
+DESCRIPTION:Join us at Yorkville Town Square to stand up for our democracy
+ \, rights\, education\, and more. We aim to protect our communities and en
+ sure a better future for everyone.\n\nYorkville Town Square
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Rt+47+%26+Ce
+ nter+St%2C+Yorkville%2C+IL&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

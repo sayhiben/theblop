@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:71abbdd2-27b0-48bf-84e3-9c876573778c
+SEQUENCE:0
+DTSTAMP:20250412T060315Z
+DTSTART:20250419T110000
+DTEND:20250419T130000
+SUMMARY:Hands Off Our River Towns
+LOCATION:Bridge Street & South Union Street\, Lambertville\, NJ
+DESCRIPTION:We are organizing to end the takeover of Medicare\, Medicaid\,
+  and Social Security\, protect schools\, libraries\, and all Americans\, a
+ nd expose corruption and uphold the Constitution. Join us to voice support
+  and meet like-minded individuals.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Bridge+Stree
+ t+%26+South+Union+Street%2C+Lambertville%2C+NJ&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

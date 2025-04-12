@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:5f822f9f-4339-43bd-bab7-4222ef130532
+SEQUENCE:0
+DTSTAMP:20250412T060315Z
+DTSTART:20250501T180000
+DTEND:20250501T200000
+SUMMARY:MayDay Protest hosted by ICE Out of Princeton
+LOCATION:\, Princeton\, NJ
+DESCRIPTION:Trenton Makes Indivisible is supporting ICE Out of Princeton a
+ nd Resistencia en Accion at their yearly May Day March on May 1st at the F
+ ountain of Freedom in Princeton\, NJ.\n\nThe Fountain of Freedom
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+Princeto
+ n%2C+NJ&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
