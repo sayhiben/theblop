@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:ec1c8106-414d-47df-ae1a-e395a3b702e7
+SEQUENCE:0
+DTSTAMP:20250412T031351Z
+DTSTART:20250419T120000
+DTEND:20250419T140000
+SUMMARY:No Kings! Defend Democracy
+LOCATION:100 Dave Nevius Way\, Lawrence Township\, NJ
+DESCRIPTION:Defend our democracy by peacefully protesting the current admi
+ nistration. This event commemorates the 250th anniversary of the American 
+ Revolutionary War. It is part of a national movement aligned with the 5050
+ 1 organization\, encouraging participants to hold signs along Eggerts Cros
+ sing Rd and peacefully demonstrate.\n\nCentral Park Lawrence NJ
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=100+Dave+Nev
+ ius+Way%2C+Lawrence+Township%2C+NJ&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

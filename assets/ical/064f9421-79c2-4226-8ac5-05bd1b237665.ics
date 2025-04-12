@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:13814e7f-1ecb-4811-a466-d1dd0c3937bb
+SEQUENCE:0
+DTSTAMP:20250412T031351Z
+DTSTART:20250419T120000
+DTEND:20250419T140000
+SUMMARY:Hands Off My Future
+LOCATION:N Main St\, Concord\, NH
+DESCRIPTION:Join us for a public demonstration to express our concerns abo
+ ut the future. Let's make our voices heard in Concord\, NH.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=N+Main+St%2C
+ +Concord%2C+NH&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

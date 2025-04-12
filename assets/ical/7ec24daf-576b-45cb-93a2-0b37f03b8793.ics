@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:eca9edfd-50ef-4e42-bcd8-81d464da4bde
+SEQUENCE:0
+DTSTAMP:20250412T031351Z
+DTSTART:20250424T170000
+DTEND:20250424T190000
+SUMMARY:Protest to Preserve our Democracy!
+LOCATION:1 N New York Rd\, Galloway\, NJ
+DESCRIPTION:Since our Congressman\, Jeff Van Drew\, is too chicken to meet
+  with his constituents\, let's meet him at his fundraiser. Van Drew keeps 
+ voting against the interests of the people of NJ Congressional District 2.
+  Let's remind him that we won't stand for cuts to Medicaid\, Medicare\, an
+ d Social Security. We won't stand idly by while he refuses to step in whil
+ e our democracy is dismantled. Bring your signs and let's remind our Congr
+ essman that we aren't going anywhere.\n\nAcross from The Smithville Inn
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=1+N+New+York
+ +Rd%2C+Galloway%2C+NJ&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

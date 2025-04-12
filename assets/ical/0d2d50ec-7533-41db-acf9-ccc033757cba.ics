@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:19f211ab-ebe3-44a3-9ab8-a068005accb2
+SEQUENCE:0
+DTSTAMP:20250412T031351Z
+DTSTART:20250419T110000
+DTEND:20250419T130000
+SUMMARY:Hands Off Gathering
+LOCATION:4th St and Yakima Ave\, Yakima\, WA
+DESCRIPTION:We're gathering to keep the Hands Off momentum going forward. 
+ Join us at Rep. Dan Newhouse's office for this cause.\n\nRep. Dan Newhouse
+  office
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=4th+St+and+Y
+ akima+Ave%2C+Yakima%2C+WA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
