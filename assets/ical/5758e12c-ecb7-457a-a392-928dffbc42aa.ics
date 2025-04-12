@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:1d835ac6-30bf-4e9f-a79a-8cdc654d0129
+SEQUENCE:0
+DTSTAMP:20250412T150236Z
+DTSTART:20250419T110000
+DTEND:20250419T130000
+SUMMARY:No Kings!
+LOCATION:100 E. Michigan Blvd.\, Michigan City\, IN
+DESCRIPTION:Join us at the 50 State Protest event titled 'No Kings!' organ
+ ized by 'We The People'. The march starts at 11 AM at the Michigan City Ha
+ ll.\n\nMichigan City Hall
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=100+E.+Michi
+ gan+Blvd.%2C+Michigan+City%2C+IN&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
