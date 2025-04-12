@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:794c0325-7e7b-42ef-a2a6-691285ba8fb5
+SEQUENCE:0
+DTSTAMP:20250412T180310Z
+DTSTART:20250419T140000
+DTEND:20250419T160000
+SUMMARY:The Next 50 State Nationwide Protest
+LOCATION:Utah State Capitol\, Salt Lake City\, UT
+DESCRIPTION:We are organizing a nationwide protest taking place in all 50 
+ states\, with the next scheduled event at the Utah State Capitol. More det
+ ails will be provided soon.\n\nUtah State Capitol
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Utah+State+C
+ apitol%2C+Salt+Lake+City%2C+UT&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

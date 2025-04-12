@@ -492,6 +492,30 @@
     "raw_summary": "The image is an event flyer for a rally titled 'Stand Up for Trans Youth Against Hate,' scheduled on Monday, April 14th at 7 PM at Valley View School District, 365U Board Meeting, 725 Normantown Rd, Romeoville, IL 60446. The event seems to be organized or sponsored by 'Trans Up Front IL.'"
   },
   {
+    "id": "6780fdaf-871e-4a4b-be55-8afb2841a2fe",
+    "title": "SAVE US FROM THE SAVE ACT!",
+    "date": "Monday, April 14, 2025",
+    "time": "2:00 PM",
+    "description": "A mobilization event against the SAVE Act, taking place inside the Utah State Capitol Rotunda.",
+    "city": "Salt Lake City",
+    "state": "UT",
+    "address": "Utah State Capitol Rotunda",
+    "meeting_location": "Inside the Utah State Capitol Rotunda",
+    "links": [
+      "[]"
+    ],
+    "sponsors": [
+      "[]"
+    ],
+    "image_url": "https://theblop.org/assets/images/6780fdaf-871e-4a4b-be55-8afb2841a2fe.jpg",
+    "thumbnail_url": "https://theblop.org/assets/images/6780fdaf-871e-4a4b-be55-8afb2841a2fe-thumb.jpg",
+    "canonical_id": "",
+    "permalink": "https://theblop.org/events/6780fdaf-871e-4a4b-be55-8afb2841a2fe.html",
+    "ical": "https://theblop.org/assets/ical/6780fdaf-871e-4a4b-be55-8afb2841a2fe.ics",
+    "raw_text": "EMERGENCY MOBILIZATION\nSAVE US FROM THE SAVE ACT!\nMONDAY 4/14 2-4PM\nINSIDE THE UTAH STATE CAPITOL ROTUNDA",
+    "raw_summary": "The image is a flyer for an emergency mobilization event titled \"SAVE US FROM THE SAVE ACT!\" scheduled for Monday, 4/14, from 2-4 PM at the Utah State Capitol Rotunda."
+  },
+  {
     "id": "c18f123c-51f1-43c1-a3a9-573838589271",
     "title": "Technical State of The Nation",
     "date": "Tuesday, April 15, 2025",
@@ -1852,6 +1876,52 @@
     "ical": "https://theblop.org/assets/ical/5758e12c-ecb7-457a-a392-928dffbc42aa.ics",
     "raw_text": "WE THE PEOPLE\n50 STATE PROTEST\nNO KINGS!\nMARCH STARTS AT 11 AM\nAT MICHIGAN CITY HALL\n100 E. MICHIGAN BLVD.\nSATURDAY\nAPRIL 19TH",
     "raw_summary": "The image promotes a protest event titled \"No Kings!\" organized by \"We The People\" in Michigan City. The event is scheduled for April 19, starting at 11 AM at Michigan City Hall, 100 E. Michigan Blvd."
+  },
+  {
+    "id": "7e2fb1f6-150b-4321-9acc-b5d35fa041a1",
+    "title": "The Next 50 State Nationwide Protest",
+    "date": "Saturday, April 19, 2025",
+    "time": "2:00 PM",
+    "description": "We are organizing a nationwide protest taking place in all 50 states, with the next scheduled event at the Utah State Capitol. More details will be provided soon.",
+    "city": "Salt Lake City",
+    "state": "UT",
+    "address": "Utah State Capitol",
+    "meeting_location": "Utah State Capitol",
+    "links": [],
+    "sponsors": [
+      "@UTAH50501"
+    ],
+    "image_url": "https://theblop.org/assets/images/7e2fb1f6-150b-4321-9acc-b5d35fa041a1.jpg",
+    "thumbnail_url": "https://theblop.org/assets/images/7e2fb1f6-150b-4321-9acc-b5d35fa041a1-thumb.jpg",
+    "canonical_id": "",
+    "permalink": "https://theblop.org/events/7e2fb1f6-150b-4321-9acc-b5d35fa041a1.html",
+    "ical": "https://theblop.org/assets/ical/7e2fb1f6-150b-4321-9acc-b5d35fa041a1.ics",
+    "raw_text": "THE NEXT 50 STATE NATIONWIDE PROTEST\nUTAH STATE CAPITOL 2 PM - 4 PM\nMORE DETAILS TO COME\n#50501 #UTAH50501 @UTAH50501\nSATURDAY APRIL 19TH",
+    "raw_summary": "The image is a flyer for a nationwide protest event scheduled for April 19th at the Utah State Capitol. It provides timing details, with more specific information to be announced later."
+  },
+  {
+    "id": "948cf781-9ebf-43a4-9e07-e36c43a6106d",
+    "title": "Next Day of Action",
+    "date": "Saturday, April 19, 2025",
+    "time": "See Flyer",
+    "description": "Join the 50501 Movement on April 19th for a day of action. More details available on the website.",
+    "city": "",
+    "state": "",
+    "address": "",
+    "meeting_location": "",
+    "links": [
+      "www.Fiftyfifty.one"
+    ],
+    "sponsors": [
+      "50501 Movement"
+    ],
+    "image_url": "https://theblop.org/assets/images/948cf781-9ebf-43a4-9e07-e36c43a6106d.jpg",
+    "thumbnail_url": "https://theblop.org/assets/images/948cf781-9ebf-43a4-9e07-e36c43a6106d-thumb.jpg",
+    "canonical_id": "",
+    "permalink": "https://theblop.org/events/948cf781-9ebf-43a4-9e07-e36c43a6106d.html",
+    "ical": "https://theblop.org/assets/ical/948cf781-9ebf-43a4-9e07-e36c43a6106d.ics",
+    "raw_text": "JOIN THE 50501 MOVEMENT\nNEXT DAY OF ACTION\nAPRIL 19TH\n(A WEEKEND!)\n\nVisit www.Fiftyfifty.one\nFOR LOCATION DETAILS",
+    "raw_summary": "The image advertises an event called the 'Next Day of Action' on April 19th organized by the 50501 Movement with details available at a specific website."
   },
   {
     "id": "4659b329-bd99-4f26-894f-269c7f343b53",

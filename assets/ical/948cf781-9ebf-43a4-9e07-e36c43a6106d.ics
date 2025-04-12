@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:694a90b8-617a-49b2-88ec-41e970da22e0
+SEQUENCE:0
+DTSTAMP:20250412T180310Z
+DTSTART:20250419T000000
+DTEND:20250419T020000
+SUMMARY:Next Day of Action
+DESCRIPTION:Join the 50501 Movement on April 19th for a day of action. Mor
+ e details available on the website.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=&zoom=15&bas
+ emap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

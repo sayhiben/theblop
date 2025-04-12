@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:8f86f2af-d92b-4e17-a95f-bb44d2b21977
+SEQUENCE:0
+DTSTAMP:20250412T180310Z
+DTSTART:20250414T140000
+DTEND:20250414T160000
+SUMMARY:SAVE US FROM THE SAVE ACT!
+LOCATION:Utah State Capitol Rotunda\, Salt Lake City\, UT
+DESCRIPTION:A mobilization event against the SAVE Act\, taking place insid
+ e the Utah State Capitol Rotunda.\n\nInside the Utah State Capitol Rotunda
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Utah+State+C
+ apitol+Rotunda%2C+Salt+Lake+City%2C+UT&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
