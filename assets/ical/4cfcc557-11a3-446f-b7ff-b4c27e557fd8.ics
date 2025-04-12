@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:11714e62-b976-4c0c-ad60-1552d68afc68
+SEQUENCE:0
+DTSTAMP:20250412T000554Z
+DTSTART:20250419T120000
+DTEND:20250419T140000
+SUMMARY:The People's Protest
+LOCATION:Daley Plaza\, Chicago\, IL
+DESCRIPTION:Join us for an uplifting event at Daley Plaza focusing on "Joy
+  as Resistance" as a form of protest. Organized by 50/50 Chicago\, this ga
+ thering aims to bring the community together from 12 PM to 2 PM on April 1
+ 9.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Daley+Plaza%
+ 2C+Chicago%2C+IL&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

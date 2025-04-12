@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:f41ec485-4cc9-4677-9dda-91153ca6a7c2
+SEQUENCE:0
+DTSTAMP:20250412T000554Z
+DTSTART:20250414T190000
+DTEND:20250414T210000
+SUMMARY:Stand Up for Trans Youth Against Hate
+LOCATION:725 Normantown Rd\, Romeoville\, IL
+DESCRIPTION:A rally calling for support and standing against hate directed
+  at transgender youth\, organized by Trans Up Front IL.\n\nValley View Sch
+ ool District\, 365U Board Meeting
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=725+Normanto
+ wn+Rd%2C+Romeoville%2C+IL&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
