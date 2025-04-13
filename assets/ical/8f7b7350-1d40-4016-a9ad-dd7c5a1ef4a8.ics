@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:5661049e-2fe2-48d7-99f0-51d254aedf3b
+SEQUENCE:0
+DTSTAMP:20250413T120321Z
+DTSTART:20250419T120000
+DTEND:20250419T140000
+SUMMARY:Funeral for Democracy
+LOCATION:Pioneer Courthouse Square\, Portland\, OR
+DESCRIPTION:Join us in a vigil at Pioneer Courthouse Square to stand in so
+ lidarity and honor those affected by colonial forces. Wear black and lift 
+ your voice in song.\n\nPioneer Courthouse Square
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Pioneer+Cour
+ thouse+Square%2C+Portland%2C+OR&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
