@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:1acadd56-c3e3-4394-8ce9-d7ccce846b92
+SEQUENCE:0
+DTSTAMP:20250413T035124Z
+DTSTART:20250419T120000
+DTEND:20250419T140000
+SUMMARY:Tesla Takedown
+LOCATION:5929 South Street\, Lakewood\, CA
+DESCRIPTION:Join us for a peaceful protest against Tesla. The event is org
+ anized to demonstrate concerns related to the company.\n\nTesla Charging S
+ tation
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=5929+South+S
+ treet%2C+Lakewood%2C+CA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

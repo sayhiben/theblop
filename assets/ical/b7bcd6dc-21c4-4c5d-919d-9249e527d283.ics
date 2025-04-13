@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:8fc88e26-3892-4f37-9201-564ffc150e8c
+SEQUENCE:0
+DTSTAMP:20250413T035124Z
+DTSTART:20250419T110000
+DTEND:20250419T130000
+SUMMARY:Join the March!
+LOCATION:\, \, CA
+DESCRIPTION:Join us for a march from Julliard Park to Old Courthouse Squar
+ e to advocate for a revolution that includes everyone. Bring your noise ma
+ kers as we make our voices heard.\n\nJulliard Park to Old Courthouse Squar
+ e
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+%2C+CA&z
+ oom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

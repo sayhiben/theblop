@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:54710710-e8ec-40d7-afcb-22cb555fed83
+SEQUENCE:0
+DTSTAMP:20250413T035124Z
+DTSTART:20250419T120000
+DTEND:20250419T140000
+SUMMARY:Total Tesla Takedown
+LOCATION:1901 Del Monte Blvd.\, Seaside\, CA
+DESCRIPTION:We are organizing a huge rally in Seaside to voice our concern
+ s and take action. Join us to make an impact.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=1901+Del+Mon
+ te+Blvd.%2C+Seaside%2C+CA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

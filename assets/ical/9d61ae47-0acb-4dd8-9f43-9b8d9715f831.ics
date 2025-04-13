@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:cbd6f421-9328-474d-b447-f186b931fd0e
+SEQUENCE:0
+DTSTAMP:20250413T035124Z
+DTSTART:20250419T140000
+DTEND:20250419T160000
+SUMMARY:NO KINGS! PROTEST
+LOCATION:10500 Civic Center Dr\, Rancho Cucamonga
+DESCRIPTION:Join us for the 'No Kings! Protest' at Rancho Cucamonga City H
+ all to express our stance. Organized by Indivisible Inland Empire.\n\nRanc
+ ho Cucamonga City Hall
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=10500+Civic+
+ Center+Dr%2C+Rancho+Cucamonga&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
