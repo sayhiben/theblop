@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:5e2732e3-aed3-4211-a573-f1361d3a5054
+SEQUENCE:0
+DTSTAMP:20250413T210258Z
+DTSTART:20250419T100000
+DTEND:20250419T120000
+SUMMARY:Peaceful Protest
+LOCATION:1000 block of Duane St.\, Astoria\, OR
+DESCRIPTION:We are organizing a peaceful protest with the theme "No Kings 
+ in America\," involving a march\, rally\, and information sharing. Join us
+  at the 1000 block of Duane St. to march to 17th and Marine.\n\n17th and M
+ arine
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=1000+block+o
+ f+Duane+St.%2C+Astoria%2C+OR&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

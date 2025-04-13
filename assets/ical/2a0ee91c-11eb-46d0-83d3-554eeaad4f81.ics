@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:0093c121-7c72-4761-bf80-1d5b999c7d67
+SEQUENCE:0
+DTSTAMP:20250413T210258Z
+DTSTART:20250419T120000
+DTEND:20250419T140000
+SUMMARY:National Day Of Action
+LOCATION:Monument Square\, Portland\, ME
+DESCRIPTION:Join us at the National Day Of Action to rally around our comm
+ unity. We are committed to each other and the values we share.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Monument+Squ
+ are%2C+Portland%2C+ME&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
