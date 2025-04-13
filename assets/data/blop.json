@@ -132,6 +132,26 @@
     "raw_summary": "The image is a flyer for an emergency mobilization event titled \"SAVE US FROM THE SAVE ACT!\" scheduled for Monday, 4/14, from 2-4 PM at the Utah State Capitol Rotunda."
   },
   {
+    "id": "61b2456c-315a-406e-b622-4fa0d65ef21b",
+    "title": "RALLY",
+    "date": "Monday, April 14, 2025",
+    "time": "11:00 AM",
+    "description": "We oppose HB1318, which provides chemical companies with excessive immunity. Join us in Bismarck to rally against this bill and protect our community.",
+    "city": "Bismarck",
+    "state": "ND",
+    "address": "Capitol Building",
+    "meeting_location": "Capitol Building",
+    "links": [],
+    "sponsors": [],
+    "image_url": "https://theblop.org/assets/images/61b2456c-315a-406e-b622-4fa0d65ef21b.png",
+    "thumbnail_url": "https://theblop.org/assets/images/61b2456c-315a-406e-b622-4fa0d65ef21b-thumb.jpg",
+    "canonical_id": "",
+    "permalink": "https://theblop.org/events/61b2456c-315a-406e-b622-4fa0d65ef21b.html",
+    "ical": "https://theblop.org/assets/ical/61b2456c-315a-406e-b622-4fa0d65ef21b.ics",
+    "raw_text": "VOTE NO HB1318  \nWE'RE REAL, WE'RE HERE, WE CARE  \n\nRALLY  \nMONDAY APRIL 14TH 2025  \nBISMARCK ND  \nCAPITOL BUILDING 11AM  \nMARCH TO THE HALLS 12PM  \n\nDON'T GIVE CHEMICAL COMPANIES ANY MORE IMMUNITY!  \nTHIS BILL PROTECTS CHEMICAL COMPANIES OVER 1600 CHEMICALS AND ALL FUTURE CHEMICALS MADE WILL HAVE EXTRA IMMUNITY FROM LAWSUITS  \n\nPosted in r/northdakota  ",
+    "raw_summary": "The flyer announces a rally opposing a legislative bill (HB1318) that would give chemical companies immunity from lawsuits. The rally is scheduled for April 14th, 2025, in Bismarck, ND, at the Capitol Building, with activities beginning at 11 AM."
+  },
+  {
     "id": "c18f123c-51f1-43c1-a3a9-573838589271",
     "title": "Technical State of The Nation",
     "date": "Tuesday, April 15, 2025",
@@ -1811,6 +1831,28 @@
     "raw_summary": "This appears to be an event flyer for a \"Funeral for Democracy\" vigil, scheduled to take place in Portland at Pioneer Courthouse Square. It mentions a call to wear black and provides a Spotify playlist titled \"Solidarity in Song: A Vigil in Portland\"."
   },
   {
+    "id": "04b5f1b6-ef9e-448e-8f49-a4d04f323baa",
+    "title": "Land March",
+    "date": "Saturday, April 19, 2025",
+    "time": "11:30 AM",
+    "description": "Join us for a Land March focusing on social justice. The event includes a 1-mile march starting at 12 PM at Pioneer Square.",
+    "city": "Portland",
+    "state": "OR",
+    "address": "701 SW 6th Ave",
+    "meeting_location": "Pioneer Square",
+    "links": [],
+    "sponsors": [
+      "Portland 501"
+    ],
+    "image_url": "https://theblop.org/assets/images/04b5f1b6-ef9e-448e-8f49-a4d04f323baa.jpg",
+    "thumbnail_url": "https://theblop.org/assets/images/04b5f1b6-ef9e-448e-8f49-a4d04f323baa-thumb.jpg",
+    "canonical_id": "",
+    "permalink": "https://theblop.org/events/04b5f1b6-ef9e-448e-8f49-a4d04f323baa.html",
+    "ical": "https://theblop.org/assets/ical/04b5f1b6-ef9e-448e-8f49-a4d04f323baa.ics",
+    "raw_text": "LAND MARCH\n\nApril 19 @ 11:30am - 1:30pm\nPioneer Square\n701 sw 6th Ave\nPortland, OR 97204\n1 mile march @12pm\n\nPORTLAND\n501\nOREGON",
+    "raw_summary": "A \"Land March\" event is scheduled for April 19 at Pioneer Square in Portland, Oregon, with a 1-mile march at 12 PM. The event seems to focus on social justice themes."
+  },
+  {
     "id": "4659b329-bd99-4f26-894f-269c7f343b53",
     "title": "CANCELLED?: Answers to Our Questions",
     "date": "Monday, April 21, 2025",
@@ -1945,6 +1987,26 @@
     "ical": "https://theblop.org/assets/ical/034c5bf8-ae7a-4045-beca-4f7fe7171b8d.ics",
     "raw_text": "MARCH FOR SCIENCE & PEOPLE’S SCIENCE FAIR\nAPRIL 22nd, 2025\nRALLY @ ALMA MATER 3pm\nPEOPLE’S SCIENCE FAIR @ LINCOLN SQUARE MALL 4-6pm\nSign up to present your science here (QR code)\nMarch Route (QR code)\nSponsored by Rise Up for Science\nwww.risupforscience.com Contact: uiuc4science@gmail.com\nCo-sponsored by the UNIVERSITY YMCA UNIVERSITY OF ILLINOIS URBANA-CHAMPAIGN",
     "raw_summary": "The image is a flyer for “March for Science & People's Science Fair” scheduled for April 22, 2025. It mentions a rally at Alma Mater at 3 PM and a science fair at Lincoln Square Mall from 4-6 PM. There are QR codes for signing up to present science and for the march route. The event is sponsored by Rise Up for Science and co-sponsored by the University YMCA, University of Illinois Urbana-Champaign."
+  },
+  {
+    "id": "fbf96664-cf44-4b55-b978-e0278211fba0",
+    "title": "Corner Protest",
+    "date": "Tuesday, April 22, 2025",
+    "time": "4:15 PM",
+    "description": "Join the Corner Protest for positive engagement every Tuesday and Thursday. Emphasizing public land protection and community involvement.",
+    "city": "Fort Collins",
+    "state": "CO",
+    "address": "2601 S College Ave, Fort Collins, CO",
+    "meeting_location": "Corner of Drake and College",
+    "links": [],
+    "sponsors": [],
+    "image_url": "https://theblop.org/assets/images/fbf96664-cf44-4b55-b978-e0278211fba0.png",
+    "thumbnail_url": "https://theblop.org/assets/images/fbf96664-cf44-4b55-b978-e0278211fba0-thumb.jpg",
+    "canonical_id": "",
+    "permalink": "https://theblop.org/events/fbf96664-cf44-4b55-b978-e0278211fba0.html",
+    "ical": "https://theblop.org/assets/ical/fbf96664-cf44-4b55-b978-e0278211fba0.ics",
+    "raw_text": "Join the Corner Protest every Tuesday and Thursday 4:15-6PM\nCorner of Drake and College in Fort Collins\nPositive engagement\n\nPROTECT OUR PUBLIC LANDS\nRight or Left ... we all know this is WRONG!\nWE THE PEOPLE\nOMG GOP WTF\n\nTuesday, April 22, 2025\n4:15 - 6:00 pm\n2601 S College Ave, Fort Collins, CO",
+    "raw_summary": "The image promotes a recurring protest event called the \"Corner Protest,\" taking place every Tuesday and Thursday from 4:15 PM to 6:00 PM at the corner of Drake and College in Fort Collins, Colorado. It emphasizes positive engagement and features a specific date of April 22, 2025, with additional slogans or phrases related to public land protection."
   },
   {
     "id": "b3b31011-763d-4e0d-bac3-55b0298c10f4",
@@ -2113,6 +2175,26 @@
     "ical": "https://theblop.org/assets/ical/d723c95c-f391-4480-9c5e-054662ddb1e4.ics",
     "raw_text": "Protest to Preserve our Democracy!\nRally • Hosted by Indivisible Atlantic City: Empathy United\nPROTEST!\nThursday, April 24th @ 5:00 PM on Route 9 Across from The Smithville Inn, The Site of Jeff Van Drew’s Fundraiser\nTime\nThursday, April 24\n5 – 7pm EDT\nLocation\nThe Smithville Inn\n1 N New York Rd\nGalloway, NJ 08205\nMap\nAbout this event\nSince our Congressman, Jeff Van Drew, is too chicken to meet with his constituents, let's meet him at his fundraiser. Van Drew keeps voting against the interests of the people of NJ Congressional District 2. Let's remind him that we won't stand for cuts to Medicaid, Medicare, and Social Security. We won't stand idly by while he refuses to step in while our democracy is dismantled. Bring your signs and let's remind our Congressman that we aren't going anywhere.",
     "raw_summary": "The image is promoting a protest event titled \"Protest to Preserve our Democracy!\" organized by Indivisible Atlantic City: Empathy United. It's scheduled for Thursday, April 24th, at 5:00 PM, on Route 9 across from The Smithville Inn, Galloway, NJ."
+  },
+  {
+    "id": "3d747609-876b-4cb2-8637-b434846c1d5a",
+    "title": "Corner Protest",
+    "date": "Thursday, April 24, 2025",
+    "time": "4:15 PM",
+    "description": "Join us for a recurring protest every Tuesday and Thursday at the corner of Drake and College in Fort Collins. This event focuses on protecting public lands and encouraging positive engagement. Whether right or left, we come together to express our concerns.",
+    "city": "Fort Collins",
+    "state": "CO",
+    "address": "2601 S College Ave",
+    "meeting_location": "Corner of Drake and College",
+    "links": [],
+    "sponsors": [],
+    "image_url": "https://theblop.org/assets/images/3d747609-876b-4cb2-8637-b434846c1d5a.png",
+    "thumbnail_url": "https://theblop.org/assets/images/3d747609-876b-4cb2-8637-b434846c1d5a-thumb.jpg",
+    "canonical_id": "",
+    "permalink": "https://theblop.org/events/3d747609-876b-4cb2-8637-b434846c1d5a.html",
+    "ical": "https://theblop.org/assets/ical/3d747609-876b-4cb2-8637-b434846c1d5a.ics",
+    "raw_text": "Join the Corner Protest every Tuesday and Thursday 4:15-6PM  Corner of Drake and College in Fort Collins  Positive engagement  PROTECT OUR PUBLIC LANDS  Right or Left … we all know this is WRONG!  WE THE PEOPLE  OMG GOP WTF  Thursday, April 24, 2025  4:15 - 6:00 pm  2601 S College Ave, Fort Collins, CO",
+    "raw_summary": "The flyer announces a recurring protest event taking place every Tuesday and Thursday at the corner of Drake and College in Fort Collins. The specific date mentioned is Thursday, April 24, 2025, with the time of the event from 4:15 to 6:00 PM. The address provided is 2601 S College Ave, Fort Collins, CO. The focus is on positive engagement with messages about protecting public lands and a general call to action for community involvement."
   },
   {
     "id": "ba310372-103e-4273-8aeb-7ad88369a07e",

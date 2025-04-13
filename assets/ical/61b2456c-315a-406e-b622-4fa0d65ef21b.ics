@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:f89c8ed0-bafa-4bed-aeaf-e5f340ae8e8b
+SEQUENCE:0
+DTSTAMP:20250413T180304Z
+DTSTART:20250414T110000
+DTEND:20250414T130000
+SUMMARY:RALLY
+LOCATION:Capitol Building\, Bismarck\, ND
+DESCRIPTION:We oppose HB1318\, which provides chemical companies with exce
+ ssive immunity. Join us in Bismarck to rally against this bill and protect
+  our community.\n\nCapitol Building
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Capitol+Buil
+ ding%2C+Bismarck%2C+ND&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

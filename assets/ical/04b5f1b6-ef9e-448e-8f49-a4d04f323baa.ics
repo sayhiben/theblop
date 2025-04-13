@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:91c1f1d3-f914-4953-b68e-20a104e0ed77
+SEQUENCE:0
+DTSTAMP:20250413T180304Z
+DTSTART:20250419T113000
+DTEND:20250419T133000
+SUMMARY:Land March
+LOCATION:701 SW 6th Ave\, Portland\, OR
+DESCRIPTION:Join us for a Land March focusing on social justice. The event
+  includes a 1-mile march starting at 12 PM at Pioneer Square.\n\nPioneer S
+ quare
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=701+SW+6th+A
+ ve%2C+Portland%2C+OR&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
