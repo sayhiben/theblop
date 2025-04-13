@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:a9521e93-4da7-4b55-9c52-204b58f391b7
+SEQUENCE:0
+DTSTAMP:20250413T003038Z
+DTSTART:20250419T150000
+DTEND:20250419T170000
+SUMMARY:RISE FOR CLIMATE JUSTICE!
+LOCATION:Elizabeth Caruthers Park\, Portland\, OR
+DESCRIPTION:An Earth Day Rally focusing on climate justice and protection 
+ of land and land defenders. The event emphasizes solidarity from the US to
+  the Philippines.\n\nElizabeth Caruthers Park
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Elizabeth+Ca
+ ruthers+Park%2C+Portland%2C+OR&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

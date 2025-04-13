@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:53a80e21-4925-4aec-9d24-ad45690a8684
+SEQUENCE:0
+DTSTAMP:20250413T003038Z
+DTSTART:20250501T110000
+DTEND:20250501T130000
+SUMMARY:INTERNATIONAL WORKER’S DAY
+LOCATION:\, Chicago\, IL
+DESCRIPTION:We are organizing a march on May 1st\, 2025\, to mark Internat
+ ional Worker's Day. The event starts at Union Park and ends at Grant Park 
+ in Chicago. We are encouraging people not to consume from certain brands a
+ nd supporting labor stops.\n\nUnion Park\, 1501 W. Randolph St.
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+Chicago%
+ 2C+IL&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

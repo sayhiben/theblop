@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:28ab01a7-dc09-4fc5-8cd3-0eb38dd8e37c
+SEQUENCE:0
+DTSTAMP:20250413T003038Z
+DTSTART:20250419T110000
+DTEND:20250419T130000
+SUMMARY:Tesla + ICE Double Protest
+LOCATION:4330 S. Macadam Ave\, Portland\, OR
+DESCRIPTION:Join us for a protest against Tesla at 4330 S. Macadam Ave eve
+ ry Saturday. Use hashtag #Teslatakedown to join the conversation. They're 
+ on the same block!\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=4330+S.+Maca
+ dam+Ave%2C+Portland%2C+OR&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

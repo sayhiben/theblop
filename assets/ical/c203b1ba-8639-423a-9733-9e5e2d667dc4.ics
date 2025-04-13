@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:919bcb57-2ede-4bd1-be62-260b045c16fc
+SEQUENCE:0
+DTSTAMP:20250413T003038Z
+DTSTART:20250421T163000
+DTEND:20250421T183000
+SUMMARY:Olympia Visibility Brigade Event
+LOCATION:Footbridge over I-5 (near Home Depot)\, Tumwater\, WA
+DESCRIPTION:Join us weekly to make good trouble with the Olympia Visibilit
+ y Brigade. We gather on overpasses in the Olympia-Tumwater-Lacey area for 
+ protests\, especially on Mondays during evening rush hour. Bring your sign
+ s\, flags\, fun costumes\, and good mood.\n\nFootbridge over I-5 in Tumwat
+ er
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Footbridge+o
+ ver+I-5+%28near+Home+Depot%29%2C+Tumwater%2C+WA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
