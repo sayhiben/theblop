@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:562e64ff-542b-4628-a2f4-eb015c6656c0
+SEQUENCE:0
+DTSTAMP:20250413T060306Z
+DTSTART:20250419T110000
+DTEND:20250419T130000
+SUMMARY:PASCO RESISTS PROTEST
+LOCATION:FL 54 and Little Rd\, New Port Richey\, FL
+DESCRIPTION:Join us for a protest against the slashing of government agenc
+ ies and critical services. Bring a sign\, chair\, water\, and make your vo
+ ice heard.\n\nFL 54 and Little Rd\, NPR
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=FL+54+and+Li
+ ttle+Rd%2C+New+Port+Richey%2C+FL&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

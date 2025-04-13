@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:0c61364c-9db0-47fc-a268-ae2f893b3a28
+SEQUENCE:0
+DTSTAMP:20250413T060306Z
+DTSTART:20250419T120000
+DTEND:20250419T140000
+SUMMARY:Hands Off Rally
+LOCATION:1301 E 6th Ave\, Helena\, MT
+DESCRIPTION:Join us at the Montana State Capitol to stand against interfer
+ ence in education\, libraries\, our bodies\, and more. Families can partic
+ ipate in activities\, a food drive\, and share their stories\, fighting fo
+ r our shared future.\n\nMontana State Capitol
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=1301+E+6th+A
+ ve%2C+Helena%2C+MT&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
