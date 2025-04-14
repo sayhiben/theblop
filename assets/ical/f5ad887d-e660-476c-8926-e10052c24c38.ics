@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:0a6f1b88-c8af-43c7-a22c-355357db9c86
+SEQUENCE:0
+DTSTAMP:20250414T180332Z
+DTSTART:20250419T120000
+DTEND:20250419T140000
+SUMMARY:No Kings Freedom March
+LOCATION:301 W. Market St.\, Greensboro\, NC
+DESCRIPTION:Join us for the No Kings Freedom March on April 19\, 2025\, at
+  301 W. Market St.\, Greensboro. Bring your American flags and children's 
+ books to donate. The march aims to bring the community together.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=301+W.+Marke
+ t+St.%2C+Greensboro%2C+NC&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

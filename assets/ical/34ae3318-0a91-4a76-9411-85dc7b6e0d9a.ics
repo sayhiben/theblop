@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:158dae98-78d8-4409-98c6-0c236c2be6c2
+SEQUENCE:0
+DTSTAMP:20250414T180333Z
+DTSTART:20250427T130000
+DTEND:20250427T150000
+SUMMARY:Save Democracy Rally
+LOCATION:Medina Square
+DESCRIPTION:Join us for a peaceful protest to raise your voice for America
+ . Bring signs\, maracas\, tambourines\, and any instrument you know\, or p
+ erhaps your dancing shoes.\n\nMedina Square
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Medina+Squar
+ e&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

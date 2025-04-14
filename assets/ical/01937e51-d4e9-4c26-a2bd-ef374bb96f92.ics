@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:09a60a04-90f0-4317-8548-c1231b6fc25b
+SEQUENCE:0
+DTSTAMP:20250414T180333Z
+DTSTART:20250504T140000
+DTEND:20250504T160000
+SUMMARY:We Will Not Be Erased
+LOCATION:Courthouse Square\, Dayton\, OH
+DESCRIPTION:Join us for a rally supporting trans rights\, emphasizing the 
+ statement "We Will Not Be Erased". Stand with us at Courthouse Square to a
+ dvocate for human rights.\n\nCourthouse Square\, Dayton
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Courthouse+S
+ quare%2C+Dayton%2C+OH&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

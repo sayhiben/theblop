@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:1ec86fcc-e4aa-4595-9f50-3e543f7a86bb
+SEQUENCE:0
+DTSTAMP:20250414T180332Z
+DTSTART:20250416T120000
+DTEND:20250416T140000
+SUMMARY:Paula Swift for CA-40
+LOCATION:Corner of La Paz/Marguerite\, Mission Viejo\, CA
+DESCRIPTION:Democrat Paula Swift is running to unseat Rep. Young Kim in CA
+ -40 in 2026. Come\, ask questions\, and tell her what’s on your mind!\n\
+ n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Corner+of+La
+ +Paz%2FMarguerite%2C+Mission+Viejo%2C+CA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
