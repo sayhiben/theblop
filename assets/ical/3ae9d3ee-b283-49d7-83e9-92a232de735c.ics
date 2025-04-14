@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:eb36f5f5-7cdc-4028-89c2-7f0c483742c0
+SEQUENCE:0
+DTSTAMP:20250414T060339Z
+DTSTART:20250426T120000
+DTEND:20250426T140000
+SUMMARY:Rally for Democracy
+LOCATION:400 Bridge St\, Clarkston\, WA
+DESCRIPTION:Join us for a rally supporting democracy and opposing fascism.
+  Bring flags\, banners\, and signs to show your support.\n\nIntersection o
+ f 5th St. and Bridge St.
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=400+Bridge+S
+ t%2C+Clarkston%2C+WA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

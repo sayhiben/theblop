@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:dd550ef4-1763-4d7b-b4b7-aa5594e32c5e
+SEQUENCE:0
+DTSTAMP:20250414T060339Z
+DTSTART:20250419T130000
+DTEND:20250419T150000
+SUMMARY:We The People: National Day of Action
+LOCATION:(Corner of US-41 and Tampa Ave)\, Venice\, FL
+DESCRIPTION:Join us for a day of action at Michael Biehl Park to stand tog
+ ether and make a difference. Organized by The Venice Resistance.\n\nMichae
+ l Biehl Park
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%28Corner+of
+ +US-41+and+Tampa+Ave%29%2C+Venice%2C+FL&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

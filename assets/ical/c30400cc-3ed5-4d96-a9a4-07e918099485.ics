@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:b915e770-860b-4b43-9dd9-67ccb1164cc3
+SEQUENCE:0
+DTSTAMP:20250414T060339Z
+DTSTART:20250419T100000
+DTEND:20250419T120000
+SUMMARY:We The People National Day of Action
+LOCATION:199 Bayfront Drive\, Sarasota\, FL
+DESCRIPTION:Join us for a national day of action\, rallying at JD Hamel Pa
+ rk. Participate in a park gathering\, listen to speakers\, and march acros
+ s the Ringling Bridge.\n\nJD Hamel Park\, WWI War Memorial / Doughboy Stat
+ ue
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=199+Bayfront
+ +Drive%2C+Sarasota%2C+FL&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

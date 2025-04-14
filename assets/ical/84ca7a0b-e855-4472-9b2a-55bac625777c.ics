@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:8d17b03a-73a0-41c3-9969-744c48ede66f
+SEQUENCE:0
+DTSTAMP:20250414T060339Z
+DTSTART:20250419T150000
+DTEND:20250419T170000
+SUMMARY:South Carolina Rallies
+LOCATION:Multiple addresses including SC State House\, Brittlebank Park\, 
+ and others listed with specific locations.\, Multiple cities including Col
+ umbia\, Charleston\, Florence\, Greenville\, Kershaw\, Newberry\, Rock Hil
+ l\, SC
+DESCRIPTION:Join 50501 SC and coalition partners for peaceful\, non-partis
+ an rallies across the state in various locations.\n\nMultiple locations\, 
+ see specific addresses provided.
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Multiple+add
+ resses+including+SC+State+House%2C+Brittlebank+Park%2C+and+others+listed+w
+ ith+specific+locations.%2C+Multiple+cities+including+Columbia%2C+Charlesto
+ n%2C+Florence%2C+Greenville%2C+Kershaw%2C+Newberry%2C+Rock+Hill%2C+SC&zoom
+ =15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:542b8db9-91c4-4d53-8bec-50f0f695bdfb
+SEQUENCE:0
+DTSTAMP:20250414T060339Z
+DTSTART:20250419T120000
+DTEND:20250419T140000
+SUMMARY:We The People
+LOCATION:Piedmont Ave NE between 14th St. NE & 10th St. NE
+DESCRIPTION:Join us for a rally on April 19th to fill the sidewalks along 
+ Piedmont Avenue NE and follow up with a community info session to discuss 
+ next steps\, share thoughts\, and find organizations and protest buddies.\
+ n\nOak Hill in Piedmont Park
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Piedmont+Ave
+ +NE+between+14th+St.+NE+%26+10th+St.+NE&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

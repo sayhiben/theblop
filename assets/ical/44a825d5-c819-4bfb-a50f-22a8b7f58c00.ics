@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:ffa1208b-eee3-4dd8-9eab-b225f445ac63
+SEQUENCE:0
+DTSTAMP:20250414T060339Z
+DTSTART:20250414T120000
+DTEND:20250414T140000
+SUMMARY:When Trump & Bukele Meet - Get Your Feet in the Street
+LOCATION:1400 16 Street NW\, 14 West 37 St\, Washington\, New York City\, 
+ DC\, NY
+DESCRIPTION:Join our protest to demand the freedom of those detained in El
+  Salvador's CECOT prison and to oppose the demonization and deportation of
+  immigrants and refugees. We stand against these injustices.\n\nEl Salvado
+ r Embassy\, El Salvador Consulate
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=1400+16+Stre
+ et+NW%2C+14+West+37+St%2C+Washington%2C+New+York+City%2C+DC%2C+NY&zoom=15&
+ basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
