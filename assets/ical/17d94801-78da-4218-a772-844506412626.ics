@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:816efbcb-612c-4767-a60b-063c9c06a0b5
+SEQUENCE:0
+DTSTAMP:20250414T031802Z
+DTSTART:20250501T130000
+DTEND:20250501T150000
+SUMMARY:Stop the Billionaire Agenda
+LOCATION:200 N Grove St. Hendersonville\, NC\; 151 Patton Ave. Asheville\,
+  NC\, Hendersonville\, Asheville\, NC
+DESCRIPTION:We are organizing mass protests on May 1st\, International Wor
+ kers Day\, to oppose the billionaire agenda. Join us at Henderson County C
+ ourthouse in Hendersonville and at the Asheville Federal building in Ashev
+ ille.\n\nHenderson Co Courthouse\; Asheville Federal building
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=200+N+Grove+
+ St.+Hendersonville%2C+NC%3B+151+Patton+Ave.+Asheville%2C+NC%2C+Hendersonvi
+ lle%2C+Asheville%2C+NC&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
