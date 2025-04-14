@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:e9d0374e-8d5e-40b1-824e-4c15ed2e17bd
+SEQUENCE:0
+DTSTAMP:20250414T210247Z
+DTSTART:20250416T160000
+DTEND:20250416T180000
+SUMMARY:Tesla Takedown Paramus- April 16
+LOCATION:530 Rte 17\, Paramus\, NJ
+DESCRIPTION:We are organizing a peaceful protest against Tesla and Elon Mu
+ sk\, using nonviolent means to stop perceived threats to democracy. Join u
+ s at the Tesla Paramus location to make a stand.\n\nTesla Paramus - Route 
+ 17 Location
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=530+Rte+17%2
+ C+Paramus%2C+NJ&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
