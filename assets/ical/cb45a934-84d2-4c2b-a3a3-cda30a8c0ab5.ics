@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:d6f004a3-07ab-437d-b438-6129ab1f597d
+SEQUENCE:0
+DTSTAMP:20250414T120335Z
+DTSTART:20250419T130000
+DTEND:20250419T150000
+SUMMARY:Hands Off! Picnic
+LOCATION:1100 Congress Ave\, Austin\, TX
+DESCRIPTION:Join us for a family-friendly protest against the Trump Admini
+ stration with live music and guest speakers. Empower the community and bri
+ ng your own blanket\, food\, and drink.\n\nTexas Capital Front Lawn
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=1100+Congres
+ s+Ave%2C+Austin%2C+TX&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

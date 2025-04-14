@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:2735d4f6-625d-4b4d-b5bf-63e50143ff4f
+SEQUENCE:0
+DTSTAMP:20250414T120335Z
+DTSTART:20250419T100000
+DTEND:20250419T120000
+SUMMARY:Tesla Takedown
+LOCATION:500 E St Elmo Rd\, Austin\, TX
+DESCRIPTION:A lawful\, nonviolent civil resistance event against perceived
+  enablers of Trump. Participants will gather at Tesla Gallery @ The Yard t
+ o make a symbolic protest against Tesla. The event aims to voice grievance
+ s in a nonviolent manner.\n\nTesla Gallery @ The Yard
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=500+E+St+Elm
+ o+Rd%2C+Austin%2C+TX&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
