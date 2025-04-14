@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:861563e5-bdb2-4ebc-aef9-54861ad0817d
+SEQUENCE:0
+DTSTAMP:20250414T150251Z
+DTSTART:20250419T130000
+DTEND:20250419T150000
+SUMMARY:Fight for a People's Earth Day
+LOCATION:Wabasha St N & W 7th Place\, St. Paul\, MN
+DESCRIPTION:Join us in a march to celebrate Earth Day and advocate for cli
+ mate justice. The event starts at Wabasha St N & W 7th Place and concludes
+  at the Minnesota State Capitol.\n\nMinnesota State Capitol
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Wabasha+St+N
+ +%26+W+7th+Place%2C+St.+Paul%2C+MN&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
