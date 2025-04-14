@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:afc8d3bc-80b9-4878-b780-13df94a6ea94
+SEQUENCE:0
+DTSTAMP:20250414T090255Z
+DTSTART:20250414T104500
+DTEND:20250414T124500
+SUMMARY:Bring Kilmar Home! A Prayer Vigil for Kilmar Abrego García
+LOCATION:Lafayette Park at Pennsylvania Avenue\, Washington\, DC
+DESCRIPTION:Join us for a prayer vigil to support Kilmar Abrego García.\n
+ \nLafayette Park at Pennsylvania Avenue
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Lafayette+Pa
+ rk+at+Pennsylvania+Avenue%2C+Washington%2C+DC&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
