@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:944cfd4c-306f-4821-b08f-f8ae84be77c0
+SEQUENCE:0
+DTSTAMP:20250414T000640Z
+DTSTART:20250419T120000
+DTEND:20250419T140000
+SUMMARY:PROTEST IN ACTION
+LOCATION:Douglas & Broadway\, Wichita\, KS
+DESCRIPTION:Join us for a National Day of Action featuring a protest and d
+ onation drive organized by DEFEND DEMOCRACY ICT. More details are coming s
+ oon.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Douglas+%26+
+ Broadway%2C+Wichita%2C+KS&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

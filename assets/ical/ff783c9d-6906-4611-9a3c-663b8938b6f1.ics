@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:78374ac4-411e-4657-b242-d7a085dc4546
+SEQUENCE:0
+DTSTAMP:20250414T000640Z
+DTSTART:20250419T120000
+DTEND:20250419T140000
+SUMMARY:NO KINGS! PROTEST
+LOCATION:Hopkins Park\, DeKalb\, DeKalb\, IL
+DESCRIPTION:Join us in protesting as we mark the 250th Anniversary of the 
+ American Revolution.\n\nHopkins Park
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Hopkins+Park
+ %2C+DeKalb%2C+DeKalb%2C+IL&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

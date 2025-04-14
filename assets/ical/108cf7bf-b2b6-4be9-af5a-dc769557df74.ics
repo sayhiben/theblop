@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:41747da0-cd4a-43fa-ae35-89da9cefb015
+SEQUENCE:0
+DTSTAMP:20250414T000640Z
+DTSTART:20250419T120000
+DTEND:20250419T140000
+SUMMARY:Hands Off! Rally
+LOCATION:2 W Northwest Hwy\, Mount Prospect\, IL
+DESCRIPTION:We are organizing a rally in Mount Prospect on April 19\, 2025
+ . Join us at 2 W Northwest Hwy from 12 PM to 1 PM. Bring signs and America
+ n flags to show your support.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=2+W+Northwes
+ t+Hwy%2C+Mount+Prospect%2C+IL&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

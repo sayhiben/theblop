@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:896bb065-bafd-4e71-8948-c7e74bfa0e9e
+SEQUENCE:0
+DTSTAMP:20250414T000640Z
+DTSTART:20250419T120000
+DTEND:20250419T140000
+SUMMARY:America Has No Kings
+LOCATION:BCPA: 600 E. North St.\, Bloomington\, IL
+DESCRIPTION:This protest is a community-led effort to continue the momentu
+ m from the April 5th protest. Participants are encouraged to bring friends
+  and family to grow the movement. Organized as a peaceful endeavor by a Bl
+ o-No led movement.\n\nin front of building (non-obstructive)
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=BCPA%3A+600+
+ E.+North+St.%2C+Bloomington%2C+IL&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
