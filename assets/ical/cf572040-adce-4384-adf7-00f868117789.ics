@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:cba34010-c90a-4a06-85c1-981aa8baf629
+SEQUENCE:0
+DTSTAMP:20250415T031808Z
+DTSTART:20250419T120000
+DTEND:20250419T140000
+SUMMARY:Rally for the U.S.A. We Love!
+LOCATION:Burlington Blvd & Cascade Mall Dr\, Burlington\, WA
+DESCRIPTION:We encourage you to participate in a rally promoting solidarit
+ y\, kindness\, and equality. Bring signs that show your vision of a welcom
+ ing nation embracing diversity and government working for the people.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Burlington+B
+ lvd+%26+Cascade+Mall+Dr%2C+Burlington%2C+WA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:fd087bc9-d624-4644-bd2a-fb060e86260f
+SEQUENCE:0
+DTSTAMP:20250415T031808Z
+DTSTART:20250419T120000
+DTEND:20250419T140000
+SUMMARY:Protest + Aid Drive
+LOCATION:WA State Capitol
+DESCRIPTION:Join us for a Protest and Aid Drive focusing on inalienable ri
+ ghts at the Washington State Capitol. We stand for fundamental human right
+ s accessible to all people. Participate by biking\, walking\, taking a bus
+ \, or carpooling.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=WA+State+Cap
+ itol&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

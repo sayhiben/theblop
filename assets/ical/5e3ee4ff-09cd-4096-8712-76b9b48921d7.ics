@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:50e2860c-9d2a-45f0-82eb-60408b15040e
+SEQUENCE:0
+DTSTAMP:20250415T031808Z
+DTSTART:20250419T120000
+DTEND:20250419T140000
+SUMMARY:Protest Mutual Aid
+LOCATION:5310 N Pearl\, Tacoma\, WA
+DESCRIPTION:We are organizing a protest focused on mutual aid and communit
+ y resistance. Join us to learn how to donate\, volunteer\, and support loc
+ al hunger relief programs.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=5310+N+Pearl
+ %2C+Tacoma%2C+WA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
