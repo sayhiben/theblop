@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:8d464951-5190-48b2-b4ae-fad341375fcb
+SEQUENCE:0
+DTSTAMP:20250415T090301Z
+DTSTART:20250416T113000
+DTEND:20250416T133000
+SUMMARY:No Gulags\, No Gestapo
+LOCATION:3250 Wilshire Blvd #550\, Los Angeles\, CA
+DESCRIPTION:We are organizing a protest to highlight the detainment and fo
+ rced displacement of various community members. Join us to stand against t
+ hese injustices at the El Salvador Consulate.\n\nEl Salvador Consulate Gen
+ eral of Los Angeles
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=3250+Wilshir
+ e+Blvd+%23550%2C+Los+Angeles%2C+CA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
