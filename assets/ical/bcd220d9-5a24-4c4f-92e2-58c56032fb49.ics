@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:91591672-e041-4fbb-976a-b7f1d058495f
+SEQUENCE:0
+DTSTAMP:20250415T210428Z
+DTSTART:20250419T100000
+DTEND:20250419T120000
+SUMMARY:Stand Up Oxford
+LOCATION:Uptown Park\, Oxford\, MS
+DESCRIPTION:We’re gathering again with our friends and our signs at a pe
+ aceful rally to show our commitment to defending the Constitution\, to pus
+ h back against government overreach\, and to demand liberty and justice fo
+ r all!\n\nUptown Park
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Uptown+Park%
+ 2C+Oxford%2C+MS&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

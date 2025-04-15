@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:c17ab809-c28d-45db-a775-d8248964eb7e
+SEQUENCE:0
+DTSTAMP:20250415T210428Z
+DTSTART:20250419T120000
+DTEND:20250419T140000
+SUMMARY:The Protest Heard Round the World
+LOCATION:North Shoop Avenue & Airport Highway\, Wauseon\, OH
+DESCRIPTION:Join us for the National Day of Action in Wauseon\, Ohio\, to 
+ participate in the 'Rally Heard 'Round the World.' Organized by the Fulton
+  County Democratic Party\, this event aims to gather participants in a uni
+ fied protest.\n\nOld Rite-Aid building
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=North+Shoop+
+ Avenue+%26+Airport+Highway%2C+Wauseon%2C+OH&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

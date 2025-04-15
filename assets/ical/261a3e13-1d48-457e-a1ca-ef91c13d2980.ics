@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:a9e72885-24b3-4bab-bb10-bdbc50985a82
+SEQUENCE:0
+DTSTAMP:20250415T210428Z
+DTSTART:20250419T120000
+DTEND:20250419T140000
+SUMMARY:Next Nationwide Protest
+LOCATION:901 Bagby St.\, Houston\, TX
+DESCRIPTION:Join us for a nationwide protest hosted by the 50501 Houston C
+ oalition at Houston City Hall to stand together for change.\n\nHouston Cit
+ y Hall
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=901+Bagby+St
+ .%2C+Houston%2C+TX&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

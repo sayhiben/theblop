@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:0b30bbf8-6a9b-4d15-9662-f1640700e4d3
+SEQUENCE:0
+DTSTAMP:20250415T210428Z
+DTSTART:20250419T110000
+DTEND:20250419T130000
+SUMMARY:STAND WHILE WE CAN
+LOCATION:Morgan Park at Lander Circle (Chagrin Blvd. and Lander)\, Chagrin
+ \, OH
+DESCRIPTION:Join Chagrin Gateway Democrats for a rally and protest to oppo
+ se the Trump/Musk Administration. Bring a sign and your friends.\n\nMorgan
+  Park at Lander Circle
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Morgan+Park+
+ at+Lander+Circle+%28Chagrin+Blvd.+and+Lander%29%2C+Chagrin%2C+OH&zoom=15&b
+ asemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

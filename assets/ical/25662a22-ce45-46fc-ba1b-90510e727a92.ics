@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:39e7bdcb-2fcf-4db6-8a79-44ab82ee34a1
+SEQUENCE:0
+DTSTAMP:20250415T210428Z
+DTSTART:20250419T120000
+DTEND:20250419T140000
+SUMMARY:Protest
+LOCATION:Corner of Gay and 9th Streets\, Portsmouth\, Nationwide
+DESCRIPTION:Join us for a protest in Portsmouth at the corner of Gay and 9
+ th Streets. This event will be led by Landen Puckett and Chelsea Watkins.\
+ n\nCorner of Gay and 9th Streets
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Corner+of+Ga
+ y+and+9th+Streets%2C+Portsmouth%2C+Nationwide&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

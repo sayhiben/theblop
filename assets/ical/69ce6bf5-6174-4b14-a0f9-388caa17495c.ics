@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:18bd593d-eedf-41cf-b3b3-8bc05f99c446
+SEQUENCE:0
+DTSTAMP:20250415T210428Z
+DTSTART:20250419T120000
+DTEND:20250419T140000
+SUMMARY:Stop the Cuts Protest
+LOCATION:2 N. Paint St.\, Chillicothe\, OH
+DESCRIPTION:Join us for the nationwide action protest to stop the cuts. Or
+ ganized by Edge of Appalachia Ohio Indivisible for Congressional District 
+ 02.\n\nSidewalk out front
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=2+N.+Paint+S
+ t.%2C+Chillicothe%2C+OH&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

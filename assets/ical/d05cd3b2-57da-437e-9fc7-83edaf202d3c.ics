@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:04a02b66-c296-408e-8a05-464918ec152f
+SEQUENCE:0
+DTSTAMP:20250415T210428Z
+DTSTART:20250419T130000
+DTEND:20250419T150000
+SUMMARY:50 Protests\, 50 States\, 1 Movement
+LOCATION:Douglass Park\, on Minnesota Street\, Middletown\, OH
+DESCRIPTION:Join us for a national day of action to uphold the constitutio
+ n\, end executive overreach\, and ensure liberty and justice for all. All 
+ are welcome\, and the event will take place rain or shine.\n\nDouglass Par
+ k\, Middletown\, OH
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Douglass+Par
+ k%2C+on+Minnesota+Street%2C+Middletown%2C+OH&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

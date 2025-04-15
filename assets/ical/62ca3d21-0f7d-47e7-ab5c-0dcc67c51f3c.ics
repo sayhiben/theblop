@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:059ba4b4-29f4-49da-acb7-c24b7f59a935
+SEQUENCE:0
+DTSTAMP:20250415T210428Z
+DTSTART:20250419T130000
+DTEND:20250419T150000
+SUMMARY:Rally Heard Round the World - Xenia/Springfield
+LOCATION:Xenia Courthouse\, Xenia\, Springfield\, OH
+DESCRIPTION:Next 50501 National call to action themed “Rally Heard 'Roun
+ d the World" begins with a rally in Xenia followed by a main event in Spri
+ ngfield featuring speakers and community engagement with friends from Clar
+ k and Montgomery Counties.\n\nSpringfield
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Xenia+Courth
+ ouse%2C+Xenia%2C+Springfield%2C+OH&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

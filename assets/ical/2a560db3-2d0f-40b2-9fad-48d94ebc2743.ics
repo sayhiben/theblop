@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:4d2ef0db-de40-43c2-b287-95bc1445ff45
+SEQUENCE:0
+DTSTAMP:20250415T210428Z
+DTSTART:20250419T120000
+DTEND:20250419T140000
+SUMMARY:Good Trouble Trumbull
+LOCATION:161 High Street Northwest\, Warren\, OH
+DESCRIPTION:A peaceful\, nonviolent gathering to protest the destruction o
+ f rights and values by the Republican Administration's policies.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=161+High+Str
+ eet+Northwest%2C+Warren%2C+OH&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

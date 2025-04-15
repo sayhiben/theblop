@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:cd9d035b-d758-4806-8d96-6bb650747056
+SEQUENCE:0
+DTSTAMP:20250415T210428Z
+DTSTART:20250419T120000
+DTEND:20250419T140000
+SUMMARY:National Day of Action: Hands Off
+LOCATION:734 South Main St\, Celina\, OH
+DESCRIPTION:Join us on April 19\, 2025\, to uphold the constitution\, end 
+ executive overreach\, and advocate for liberty and justice for all. The ev
+ ent is open to Republicans\, Independents\, and Democrats.\n\nCelina Rotar
+ y Lighthouse
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=734+South+Ma
+ in+St%2C+Celina%2C+OH&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

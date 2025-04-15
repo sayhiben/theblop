@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:af1b98b8-4e2c-4462-9ecc-0d89b0bab300
+SEQUENCE:0
+DTSTAMP:20250415T210428Z
+DTSTART:20250419T120000
+DTEND:20250419T140000
+SUMMARY:Ashland Takes Action: Rally For Democracy
+LOCATION:279 W Main St.\, Ashland\, OH
+DESCRIPTION:Join us as we rally for democracy\, promoting social and civil
+  rights.\n\nCorner Park\, Ashland\, Ohio
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=279+W+Main+S
+ t.%2C+Ashland%2C+OH&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

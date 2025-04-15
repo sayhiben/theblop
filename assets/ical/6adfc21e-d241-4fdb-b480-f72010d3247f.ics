@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:7b313f6b-5c83-49f7-ba07-669a2d8af86f
+SEQUENCE:0
+DTSTAMP:20250415T210428Z
+DTSTART:20250419T100000
+DTEND:20250419T120000
+SUMMARY:Democracy Speaks! Protest-Mansfield
+LOCATION:Mansfield Square\, 29 Park Ave East\, Mansfield\, Mansfield\, OH
+DESCRIPTION:Join us for a public protest organized by Democracy Speaks and
+  Richland County\, championing democratic principles on April 19\, 2025.\n
+ \nMansfield Square
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Mansfield+Sq
+ uare%2C+29+Park+Ave+East%2C+Mansfield%2C+Mansfield%2C+OH&zoom=15&basemap=r
+ oadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

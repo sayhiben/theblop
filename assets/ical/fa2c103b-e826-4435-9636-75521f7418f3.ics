@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:6c5b509a-1b12-4bc1-8413-cb3d08227c1e
+SEQUENCE:0
+DTSTAMP:20250415T210428Z
+DTSTART:20250419T120000
+DTEND:20250419T140000
+SUMMARY:50 PROTESTS 50 STATES 1 MOVEMENT
+LOCATION:1 Capitol Sq.\, Columbus\, OH
+DESCRIPTION:Join us for a national day of action at the Ohio Statehouse in
+  Columbus\, where we will uphold the Constitution\, end executive overreac
+ h\, and seek liberty and justice for all.\n\nIn front of McKinley Memorial
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=1+Capitol+Sq
+ .%2C+Columbus%2C+OH&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

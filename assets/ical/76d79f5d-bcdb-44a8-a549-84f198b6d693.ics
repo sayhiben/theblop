@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:86866d06-5097-4cec-b3ff-e4f6f0417240
+SEQUENCE:0
+DTSTAMP:20250415T210428Z
+DTSTART:20250419T113000
+DTEND:20250419T133000
+SUMMARY:Rally with a Purpose
+LOCATION:1101 Market Ave N\, Canton\, OH
+DESCRIPTION:We are organizing a protest at the Canton Civic Center with gu
+ idelines for attendees to remain respectful and comply with rules on April
+  19.\n\nCanton Civic Center
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=1101+Market+
+ Ave+N%2C+Canton%2C+OH&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:002d7117-769e-4adc-a18a-c780385e7ba4
+SEQUENCE:0
+DTSTAMP:20250415T210428Z
+DTSTART:20250419T130000
+DTEND:20250419T150000
+SUMMARY:National Day of Protest
+LOCATION:101 S Main Street\, Bellefontaine\, OH
+DESCRIPTION:We are organizing a protest to advocate for the importance of 
+ parks\, art\, education\, conservation\, health\, and clean air. Join us i
+ n making a stand for these critical issues.\n\nLogan County Courthouse
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=101+S+Main+S
+ treet%2C+Bellefontaine%2C+OH&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

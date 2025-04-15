@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:fb4e44da-6a9d-4c1b-85c9-e20305e5c162
+SEQUENCE:0
+DTSTAMP:20250415T210428Z
+DTSTART:20250419T120000
+DTEND:20250419T140000
+SUMMARY:Public Gathering at Wooster Public Square
+LOCATION:Wooster Public Square\, Wooster\, OH
+DESCRIPTION:Join us for a public gathering at Wooster Public Square on Apr
+ il 19th. Bring a sign\, bring a friend\, and stay on sidewalks as we conti
+ nue our efforts. Let's maintain good etiquette by not crowding too close t
+ o curbs\, not blocking driveways or business entrances\, and spreading out
+  along Market St. Previous events were a success\, and we aim for an even 
+ greater turnout.\n\nWooster Public Square
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Wooster+Publ
+ ic+Square%2C+Wooster%2C+OH&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

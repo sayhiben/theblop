@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:ce07279c-e053-4ef2-a2b3-fb2a02aceaed
+SEQUENCE:0
+DTSTAMP:20250415T210428Z
+DTSTART:20250419T120000
+DTEND:20250419T140000
+SUMMARY:National Day of Action Rally
+LOCATION:5180 Mayfield Rd.\, Lyndhurst\, OH
+DESCRIPTION:Join us for a peaceful protest against Tesla as part of the Na
+ tional Day of Action. We are committed to non-violence and exercising our 
+ First Amendment rights.\n\nTesla Motors
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=5180+Mayfiel
+ d+Rd.%2C+Lyndhurst%2C+OH&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

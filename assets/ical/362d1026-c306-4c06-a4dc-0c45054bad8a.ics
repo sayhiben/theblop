@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:a07f0121-e800-41d4-84fe-d24fe23f34a7
+SEQUENCE:0
+DTSTAMP:20250415T210428Z
+DTSTART:20250419T130000
+DTEND:20250419T150000
+SUMMARY:Next 50 State Nationwide Protest
+LOCATION:Guernsey County Courthouse\, Guernsey County\, OH
+DESCRIPTION:Join us for a peaceful protest against Trump and Musk\, sponso
+ red by the Guernsey County Democrat Club. We stand against the dismantling
+  of our democracy.\n\nGuernsey County Courthouse
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Guernsey+Cou
+ nty+Courthouse%2C+Guernsey+County%2C+OH&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

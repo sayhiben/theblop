@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:1a5884b8-dd7d-49a6-83a7-a44a88d9484f
+SEQUENCE:0
+DTSTAMP:20250415T210428Z
+DTSTART:20250419T110000
+DTEND:20250419T130000
+SUMMARY:Next 50 State Nationwide Protest
+LOCATION:4330 Kent Rd\, Stow\, OH
+DESCRIPTION:Join us for the "Next 50 State Nationwide Protest" on April 19
+ th. Locally\, participate in "The Empty Shelf Food Drive" by bringing non-
+ perishable items to 4330 Kent Rd\, Stow from 11 AM to 1 PM.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=4330+Kent+Rd
+ %2C+Stow%2C+OH&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

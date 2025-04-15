@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:b0868475-f7de-4adb-a408-b43f5d8537d6
+SEQUENCE:0
+DTSTAMP:20250415T210428Z
+DTSTART:20250419T160000
+DTEND:20250419T180000
+SUMMARY:Rally Heard ‘Round the World
+LOCATION:Springfield City Hall Plaza\, Springfield\, OH
+DESCRIPTION:We invite you to join us at Springfield City Hall Plaza for th
+ e Rally Heard ‘Round the World. Bring your signs and listen to guest spe
+ akers as we make our voices heard. The event is organized by multiple grou
+ ps\, including Greene County Democratic Party and Indivisible Springfield.
+ \n\nSpringfield City Hall Plaza
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Springfield+
+ City+Hall+Plaza%2C+Springfield%2C+OH&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:e2e835a7-e3a4-46ae-9928-f404b79003dc
+SEQUENCE:0
+DTSTAMP:20250415T210428Z
+DTSTART:20250419T130000
+DTEND:20250419T150000
+SUMMARY:Hands Off! Protest
+LOCATION:South Jefferson Street & Main Street\, Van Wert\, OH
+DESCRIPTION:We are organizing a peaceful protest in Van Wert\, OH to incre
+ ase participation and join the 50501 Movement. Please bring friends and re
+ latives\, and meet us at Fountain Park with your signs.\n\nFountain Park
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=South+Jeffer
+ son+Street+%26+Main+Street%2C+Van+Wert%2C+OH&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

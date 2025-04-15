@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:6fbfc94c-d1c7-4eda-a0e4-4943308aefaf
+SEQUENCE:0
+DTSTAMP:20250415T210428Z
+DTSTART:20250419T140000
+DTEND:20250419T160000
+SUMMARY:HANDS OFF! Lancaster
+LOCATION:210 E Main St\, Lancaster\, OH
+DESCRIPTION:Join us for a rally organized by Ohio Progressive Action Leade
+ rs aimed at advocating community issues.\n\nFairfield County Courthouse
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=210+E+Main+S
+ t%2C+Lancaster%2C+OH&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

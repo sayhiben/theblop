@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:74c79144-1552-4b6c-9186-44394e322112
+SEQUENCE:0
+DTSTAMP:20250415T210428Z
+DTSTART:20250419T120000
+DTEND:20250419T140000
+SUMMARY:Community Gathering at Eleanor B. Garfield Park
+LOCATION:7967 Mentor Ave\, Mentor\, OH
+DESCRIPTION:We invite people from Mentor and nearby areas to meet and fost
+ er a sense of community.\n\nEleanor B. Garfield Park
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=7967+Mentor+
+ Ave%2C+Mentor%2C+OH&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

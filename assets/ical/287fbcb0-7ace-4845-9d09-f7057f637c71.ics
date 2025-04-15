@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:da0c29e1-acb8-4038-8113-5a061c7b5901
+SEQUENCE:0
+DTSTAMP:20250415T210428Z
+DTSTART:20250419T120000
+DTEND:20250419T140000
+SUMMARY:50 Protests 50 States 1 Movement
+LOCATION:101 East Main Street\, Eaton\, OH
+DESCRIPTION:Join us for a nationwide National Day of Action\, where protes
+ ts will be held across 50 states to uphold the constitution\, end executiv
+ e overreach\, and ensure liberty and justice for all. All are welcome to p
+ articipate\, rain or shine\, to make their voices heard.\n\nSidewalks arou
+ nd Preble County Courthouse
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=101+East+Mai
+ n+Street%2C+Eaton%2C+OH&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:3a8693e6-8d7d-4f6a-a87f-80170904714e
+SEQUENCE:0
+DTSTAMP:20250415T210428Z
+DTSTART:20250419T120000
+DTEND:20250419T140000
+SUMMARY:No Kings
+LOCATION:Sidewalks around Muskingum County Courthouse\, Zanesville\, OH
+DESCRIPTION:Join us for a peaceful demonstration to uphold the constitutio
+ n\, end executive overreach\, and advocate for liberty and justice for all
+ .\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Sidewalks+ar
+ ound+Muskingum+County+Courthouse%2C+Zanesville%2C+OH&zoom=15&basemap=roadm
+ ap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

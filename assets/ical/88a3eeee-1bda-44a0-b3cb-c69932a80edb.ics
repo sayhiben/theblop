@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:8e6da9e8-ce90-4572-89f7-0de3fe511b7d
+SEQUENCE:0
+DTSTAMP:20250415T210428Z
+DTSTART:20250419T100000
+DTEND:20250419T120000
+SUMMARY:Stop the Cuts
+LOCATION:35 West Main Street\, Norwalk\, OH
+DESCRIPTION:Join us at Suhr Family Park Shelter to stand against budget cu
+ ts. Organized by Indivisible\, this event is part of the 'April Recess' in
+ itiative from April 12th to 27th.\n\nSuhr Family Park Shelter (Gazebo)
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=35+West+Main
+ +Street%2C+Norwalk%2C+OH&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:c6e6e399-a11f-4eb0-8b6a-7bce56f6c3f1
+SEQUENCE:0
+DTSTAMP:20250415T210428Z
+DTSTART:20250419T140000
+DTEND:20250419T160000
+SUMMARY:Day of Action Protest
+LOCATION:101 W Wooster St\, Bowling Green\, OH
+DESCRIPTION:Join us for a National Day of Action Protest to advocate for i
+ mportant issues. Hosted by Wood County Democratic Party.\n\nCorner of Main
+  & Wooster
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=101+W+Wooste
+ r+St%2C+Bowling+Green%2C+OH&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

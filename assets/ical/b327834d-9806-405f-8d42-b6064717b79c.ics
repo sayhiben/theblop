@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:dd788bca-6b78-4b9e-88bb-b9097b3bd2d1
+SEQUENCE:0
+DTSTAMP:20250415T210428Z
+DTSTART:20250419T130000
+DTEND:20250419T150000
+SUMMARY:50 Protests\, 50 States\, 1 Movement
+LOCATION:In front of the Miami County Courthouse\, 215 West Main Street\, 
+ Troy\, OH
+DESCRIPTION:We are organizing a national day of action to rally for uphold
+ ing the Constitution\, ending executive overreach\, and promoting liberty 
+ and justice for all. Join us to make your voices heard.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=In+front+of+
+ the+Miami+County+Courthouse%2C+215+West+Main+Street%2C+Troy%2C+OH&zoom=15&
+ basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

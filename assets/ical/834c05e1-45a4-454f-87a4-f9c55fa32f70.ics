@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:1ee5e400-ee71-472e-af30-67a1c3738771
+SEQUENCE:0
+DTSTAMP:20250415T210428Z
+DTSTART:20250419T120000
+DTEND:20250419T140000
+SUMMARY:Tesla Takedown
+LOCATION:Lyndhurst Tesla\, Lyndhurst\, NJ
+DESCRIPTION:Join us for the Tesla Takedown event to participate in activit
+ ies organized by Voices Ignited and Indivisible.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Lyndhurst+Te
+ sla%2C+Lyndhurst%2C+NJ&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:5cc4d4d6-1dc3-4886-a900-829918f7a8bc
+SEQUENCE:0
+DTSTAMP:20250415T210428Z
+DTSTART:20250419T100000
+DTEND:20250419T120000
+SUMMARY:National Day of Action
+LOCATION:Municipal Building\, 7232 E. Main Street\, Reynoldsburg\, OH
+DESCRIPTION:Join us for a nationwide protest aimed at upholding the consti
+ tution\, ending executive overreach\, and promoting liberty and justice fo
+ r all. All are welcome\, rain or shine\, to make their voices heard.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Municipal+Bu
+ ilding%2C+7232+E.+Main+Street%2C+Reynoldsburg%2C+OH&zoom=15&basemap=roadma
+ p
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

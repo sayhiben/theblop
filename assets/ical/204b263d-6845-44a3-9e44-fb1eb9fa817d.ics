@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:c905a7ed-9132-44de-b0f1-be578e119c0c
+SEQUENCE:0
+DTSTAMP:20250415T210428Z
+DTSTART:20250419T100000
+DTEND:20250419T120000
+SUMMARY:Next 50 State Nationwide Protest
+LOCATION:Faurot Park\, 550 S. Collett St.\, Lima\, Lima\, OH
+DESCRIPTION:We are organizing a nationwide protest to protect the environm
+ ent. The event will commence with a gathering at Faurot Park\, followed by
+  a march to the shelter house for a rally. Participants are encouraged to 
+ bring environmental protest signs. Stay afterwards for the Earth Day event
+ .\n\nStone lot off N. Shore Dr.\, Faurot Park
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Faurot+Park%
+ 2C+550+S.+Collett+St.%2C+Lima%2C+Lima%2C+OH&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

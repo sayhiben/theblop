@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:859e2d92-929c-4cfd-81a3-61b8647ae934
+SEQUENCE:0
+DTSTAMP:20250415T210428Z
+DTSTART:20250419T120000
+DTEND:20250419T140000
+SUMMARY:Resist Like It's 1938 Germany
+LOCATION:West Capitol Park\, Albany\, NY
+DESCRIPTION:Join us for a coordinated protest movement across 50 states\, 
+ symbolizing united resistance. This specific event will be held in Albany\
+ , New York.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=West+Capitol
+ +Park%2C+Albany%2C+NY&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

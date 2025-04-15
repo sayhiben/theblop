@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:a26a7bbf-817f-45db-b7e1-704a5cc7ebc9
+SEQUENCE:0
+DTSTAMP:20250415T210428Z
+DTSTART:20250419T110000
+DTEND:20250419T130000
+SUMMARY:Rally Heard ‘Round the World
+LOCATION:Coshocton County Courthouse\, Coshocton\, OH
+DESCRIPTION:Join us on April 19\, 2025\, for a rally organized by Coshocto
+ n Citizens for Change\, marking a National Day of Protest with focuses on 
+ fighting fascism and saving schools.\n\nCoshocton County Courthouse
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Coshocton+Co
+ unty+Courthouse%2C+Coshocton%2C+OH&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

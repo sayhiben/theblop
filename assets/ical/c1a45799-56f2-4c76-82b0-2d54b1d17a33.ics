@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:8a89c313-dd93-42bc-955a-d13a87b9090f
+SEQUENCE:0
+DTSTAMP:20250415T210428Z
+DTSTART:20250419T130000
+DTEND:20250419T150000
+SUMMARY:No King Peaceful Protest
+LOCATION:Guernsey County Courthouse\, Cambridge\, OH
+DESCRIPTION:Join us for a peaceful protest at the Guernsey County Courthou
+ se\, where everyone is welcome to stand for freedom and justice.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Guernsey+Cou
+ nty+Courthouse%2C+Cambridge%2C+OH&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

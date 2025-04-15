@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:afcdd79f-d274-416e-9e38-1b913456c75f
+SEQUENCE:0
+DTSTAMP:20250415T210428Z
+DTSTART:20250419T130000
+DTEND:20250419T150000
+SUMMARY:Dayton's Rally Heard Around the World
+LOCATION:23 N Main St.\, Dayton\, OH
+DESCRIPTION:Join us for a rally in Dayton\, Ohio\, aiming to make an impac
+ t globally. The event will feature speeches and other rally activities in 
+ a communal gathering for social change.\n\nCourthouse Square
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=23+N+Main+St
+ .%2C+Dayton%2C+OH&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

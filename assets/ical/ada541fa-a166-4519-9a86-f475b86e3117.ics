@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:09f5cb76-63bc-4fac-81c4-c07b3cbe1045
+SEQUENCE:0
+DTSTAMP:20250415T210428Z
+DTSTART:20250419T120000
+DTEND:20250419T140000
+SUMMARY:Rally Heard ‘Round the World
+LOCATION:Court & Main\, Circleville\, OH
+DESCRIPTION:This is a rally advocating for Medicare and Medicaid.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Court+%26+Ma
+ in%2C+Circleville%2C+OH&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

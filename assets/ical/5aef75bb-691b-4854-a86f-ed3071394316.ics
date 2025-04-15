@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:63a53116-acf9-4529-a7f4-8530e72b3dcd
+SEQUENCE:0
+DTSTAMP:20250415T210428Z
+DTSTART:20250419T130000
+DTEND:20250419T150000
+SUMMARY:Newark 4/19 Protest
+LOCATION:1 Courthouse Square\, Newark\, OH
+DESCRIPTION:A community protest event being organized at the Newark Courth
+ ouse.\n\nNewark Courthouse Square
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=1+Courthouse
+ +Square%2C+Newark%2C+OH&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

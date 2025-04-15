@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:111487d0-f1a2-4f8d-a64a-fd878bacfb9f
+SEQUENCE:0
+DTSTAMP:20250415T210428Z
+DTSTART:20250419T120000
+DTEND:20250419T140000
+SUMMARY:National Day of Action: Resistance Rally
+LOCATION:21 S State Street\, Westerville\, OH
+DESCRIPTION:Join us in Westerville for a Resistance Rally as we peacefully
+  raise our voices and signs in solidarity.\n\nWesterville City Hall
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=21+S+State+S
+ treet%2C+Westerville%2C+OH&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:9156a3ec-d253-4bce-9415-7992a271d1d9
+SEQUENCE:0
+DTSTAMP:20250415T210428Z
+DTSTART:20250419T120000
+DTEND:20250419T140000
+SUMMARY:Day of Resistance
+LOCATION:High St. near the Akron-Summit Library Main Branch\, Akron\, OH
+DESCRIPTION:We invite you to join our Day of Resistance in the Greater Akr
+ on Area to protect and advocate for citizens' rights\, human rights\, and 
+ address global issues. Join us at one of the three locations to stand toge
+ ther for our community.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=High+St.+nea
+ r+the+Akron-Summit+Library+Main+Branch%2C+Akron%2C+OH&zoom=15&basemap=road
+ map
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

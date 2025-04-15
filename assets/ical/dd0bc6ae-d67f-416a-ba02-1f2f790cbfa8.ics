@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:e00fed4a-912f-4f40-a655-2b46d4b36f75
+SEQUENCE:0
+DTSTAMP:20250415T210428Z
+DTSTART:20250419T130000
+DTEND:20250419T150000
+SUMMARY:Dayton "Rally Heard Around the World"
+LOCATION:23 North Main Street\, Dayton\, OH
+DESCRIPTION:Join us for the "Rally Heard Around the World" in Dayton\, Ohi
+ o. This event aims to bring the community together and raise awareness on 
+ important issues.\n\n23 N Main St
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=23+North+Mai
+ n+Street%2C+Dayton%2C+OH&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

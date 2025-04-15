@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:bb306441-2a7b-49a2-8604-7ddaac7fd345
+SEQUENCE:0
+DTSTAMP:20250415T210428Z
+DTSTART:20250419T160000
+DTEND:20250419T180000
+SUMMARY:Make the Billionaires Pay!
+LOCATION:\, Cleveland\, OH
+DESCRIPTION:Join us in a rally to advocate for economic justice and highli
+ ght causes such as immigrant rights\, workers' rights\, and more.\n\nPubli
+ c Square
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+Clevelan
+ d%2C+OH&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
