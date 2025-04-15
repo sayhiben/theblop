@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:29f16ea5-dd3a-4827-8b28-8dea46e83ed3
+SEQUENCE:0
+DTSTAMP:20250415T060320Z
+DTSTART:20250425T150000
+DTEND:20250425T170000
+SUMMARY:Protest Marcy Kaptur
+LOCATION:1 Maritime Plaza #600\, Toledo\, OH
+DESCRIPTION:We are protesting against Marcy Kaptur's actions and views as 
+ a Congressional Representative.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=1+Maritime+P
+ laza+%23600%2C+Toledo%2C+OH&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

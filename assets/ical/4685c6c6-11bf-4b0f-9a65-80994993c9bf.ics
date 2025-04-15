@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:c45ccc79-d086-439b-b452-b2fd770e9aa4
+SEQUENCE:0
+DTSTAMP:20250415T060320Z
+DTSTART:20250415T100000
+DTEND:20250415T120000
+SUMMARY:Protest for Kilmar Abrego García’s Case
+LOCATION:6500 Cherrywood Lane\, Greenbelt\, MD
+DESCRIPTION:Join us to protest against actions taken in Kilmar Abrego Garc
+ ía's case opposing the defiance of the Supreme Court. Stand with us in de
+ manding action to protect democracy and human rights.\n\nWhite House and F
+ ederal Courthouse\, Greenbelt
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=6500+Cherryw
+ ood+Lane%2C+Greenbelt%2C+MD&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

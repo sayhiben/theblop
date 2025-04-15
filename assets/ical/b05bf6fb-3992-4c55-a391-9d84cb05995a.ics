@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:a26484ba-7e65-4cd5-a48a-ddd0f6526c13
+SEQUENCE:0
+DTSTAMP:20250415T060320Z
+DTSTART:20250415T100000
+DTEND:20250415T120000
+SUMMARY:DC/MD Protests
+LOCATION:H and 16th St. NW\, 6500 Cherrywood Lane\, Washington\, DC
+DESCRIPTION:We are hosting protests in DC and MD against fascism. Join us 
+ to stand up for liberty and resist the Trump regime.\n\nWhite House\, Fede
+ ral Court Hearing
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=H+and+16th+S
+ t.+NW%2C+6500+Cherrywood+Lane%2C+Washington%2C+DC&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

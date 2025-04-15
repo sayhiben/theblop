@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:931f312b-1edb-4028-859b-8a183f6cdb87
+SEQUENCE:0
+DTSTAMP:20250415T060320Z
+DTSTART:20250419T120000
+DTEND:20250419T140000
+SUMMARY:No Kings Day
+LOCATION:125 Central Ave W\, Great Falls\, MT
+DESCRIPTION:Join the 50501 Movement for No Kings Day\, an event promoting 
+ justice and equality on April 19\, 2025.\n\nUS District Court
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=125+Central+
+ Ave+W%2C+Great+Falls%2C+MT&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

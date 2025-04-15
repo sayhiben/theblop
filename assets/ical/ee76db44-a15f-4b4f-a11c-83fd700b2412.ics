@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:8ee3b80b-6068-4f1a-a05a-755655340e0b
+SEQUENCE:0
+DTSTAMP:20250415T060320Z
+DTSTART:20250419T120000
+DTEND:20250419T140000
+SUMMARY:Protest
+LOCATION:401 S. 2nd St.\, Springfield\, IL
+DESCRIPTION:Join the 50501 Movement for a protest at the Lincoln Statue in
+  front of the Illinois State Capitol.\n\nLincoln Statue in front of the Il
+ linois State Capitol
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=401+S.+2nd+S
+ t.%2C+Springfield%2C+IL&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

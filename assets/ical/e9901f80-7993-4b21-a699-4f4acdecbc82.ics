@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:2507540d-92ee-4cfd-b904-6ee7bb286713
+SEQUENCE:0
+DTSTAMP:20250415T060320Z
+DTSTART:20250415T100000
+DTEND:20250415T120000
+SUMMARY:Trump Defies Supreme Court Protest
+LOCATION:6500 Cherrywood Lane\, Greenbelt\, MD
+DESCRIPTION:Join us in protesting against the defiance of the Supreme Cour
+ t and rising fascism. This protest will occur in two phases\, starting Tue
+ sday morning at the White House and following with a hearing for Kilmar at
+  the Federal Courthouse in Greenbelt\, MD.\n\nWhite House\, then Federal C
+ ourthouse
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=6500+Cherryw
+ ood+Lane%2C+Greenbelt%2C+MD&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
