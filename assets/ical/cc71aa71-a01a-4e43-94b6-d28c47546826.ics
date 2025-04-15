@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:85853010-58c0-464f-807a-c2905782417b
+SEQUENCE:0
+DTSTAMP:20250415T000616Z
+DTSTART:20250419T120000
+DTEND:20250419T140000
+SUMMARY:The People's Town Hall for Liberty
+LOCATION:Pack Square Amphitheatre\, Asheville\, NC
+DESCRIPTION:We invite you to join us for a Nationwide Day of Action\, feat
+ uring “The People's Town Hall for Liberty” event where important issue
+ s related to liberty will be discussed.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Pack+Square+
+ Amphitheatre%2C+Asheville%2C+NC&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
