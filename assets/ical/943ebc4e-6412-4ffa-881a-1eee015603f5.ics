@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:5f87b370-2011-4149-af97-2e53ccf4d8ce
+SEQUENCE:0
+DTSTAMP:20250416T180317Z
+DTSTART:20250419T103000
+DTEND:20250419T123000
+SUMMARY:Hands Off!
+LOCATION:Lafayette Square\, 16th and H Street NW\, Washington\, DC
+DESCRIPTION:We are organizing an event addressing issues such as healthcar
+ e\, immigrant rights\, labor rights\, and more. Join us to make your voice
+  heard.\n\nLafayette Square
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Lafayette+Sq
+ uare%2C+16th+and+H+Street+NW%2C+Washington%2C+DC&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

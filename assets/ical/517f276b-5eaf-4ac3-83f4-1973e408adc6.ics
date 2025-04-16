@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:a7daf5c3-bddc-4d3b-bc19-26dbf9a2804f
+SEQUENCE:0
+DTSTAMP:20250416T180317Z
+DTSTART:20250419T113000
+DTEND:20250419T133000
+SUMMARY:Demonstrate & Donate
+LOCATION:Lenawee Courthouse\, Adrian\, MI
+DESCRIPTION:Join us in protesting the immoral and unconstitutional actions
+  of the Trump administration while supporting our community. Let us show t
+ hem that kindness does not equal weakness\, and there is power in numbers!
+  Nonperishables will be collected and donated to local food pantries. This
+  is a peaceful protest. Do not engage with counter-protesters.\n\nLenawee 
+ Courthouse
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Lenawee+Cour
+ thouse%2C+Adrian%2C+MI&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

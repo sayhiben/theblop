@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:b20ee70d-2739-4fd6-872f-6e565640c3d5
+SEQUENCE:0
+DTSTAMP:20250416T180317Z
+DTSTART:20250419T113000
+DTEND:20250419T133000
+SUMMARY:Protect Democracy
+LOCATION:Lenawee Courthouse\, Adrian\, MI
+DESCRIPTION:We are hosting a Protect Democracy protest as part of countryw
+ ide protests by 50501\, marking the 250th Anniversary of the American Revo
+ lution. Attendees are encouraged to bring nonperishable items for the loca
+ l food pantry.\n\nLenawee Courthouse
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Lenawee+Cour
+ thouse%2C+Adrian%2C+MI&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
