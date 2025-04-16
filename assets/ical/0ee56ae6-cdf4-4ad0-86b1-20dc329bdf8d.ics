@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:4de0ef8c-a7bb-441e-9585-a850df4c21a2
+SEQUENCE:0
+DTSTAMP:20250416T060328Z
+DTSTART:20250419T130000
+DTEND:20250419T150000
+SUMMARY:Rally for Democracy
+LOCATION:Hillcrest at Lynn Rd\, Thousand Oaks\, CA
+DESCRIPTION:Join us at the Rally for Democracy to support democratic value
+ s and engage with the community.\n\nHillcrest at Lynn Rd\, Thousand Oaks
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Hillcrest+at
+ +Lynn+Rd%2C+Thousand+Oaks%2C+CA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

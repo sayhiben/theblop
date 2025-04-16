@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:0d7126ec-9c6f-4dde-aaa9-663ae7d3237d
+SEQUENCE:0
+DTSTAMP:20250416T060328Z
+DTSTART:20250419T110000
+DTEND:20250419T130000
+SUMMARY:Sign Protest
+LOCATION:Cobb Parkway/US 41 across from Cumberland Mall/Galleria\, Atlanta
+ \, GA
+DESCRIPTION:We are organizing a sign protest to express our stance. Partic
+ ipants are advised to keep signs courteous and are informed about parking 
+ options. Please do not block traffic flows or walkways.\n\nCobb Parkway/US
+  41 across from Cumberland Mall/Galleria
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Cobb+Parkway
+ %2FUS+41+across+from+Cumberland+Mall%2FGalleria%2C+Atlanta%2C+GA&zoom=15&b
+ asemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:6d5f3425-bd26-47c5-a797-bdef56cc28f4
+SEQUENCE:0
+DTSTAMP:20250416T060328Z
+DTSTART:20250419T093000
+DTEND:20250419T113000
+SUMMARY:Like Tulips? Love Immigrants
+LOCATION:McLean Road\, Beaver Marsh Road & Downtown Mount Vernon\, Mount V
+ ernon\, WA
+DESCRIPTION:We are organizing a rally to show solidarity with immigrants\,
+  acknowledging their contributions to the tulip festival.\n\nAt the Tulip 
+ Festival
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=McLean+Road%
+ 2C+Beaver+Marsh+Road+%26+Downtown+Mount+Vernon%2C+Mount+Vernon%2C+WA&zoom=
+ 15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

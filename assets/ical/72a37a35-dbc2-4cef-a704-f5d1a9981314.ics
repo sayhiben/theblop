@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:764c00f8-3757-464b-a644-f9e7dcef7e4e
+SEQUENCE:0
+DTSTAMP:20250416T060328Z
+DTSTART:20250419T140000
+DTEND:20250419T160000
+SUMMARY:Protest at Robert F. Stephens Courthouse
+LOCATION:Robert F. Stephens Courthouse\, Lexington\, KY
+DESCRIPTION:Join us for a demonstration at the Robert F. Stephens Courthou
+ se to support the message 'No Kings Then\, No Kings Now!' and engage in a 
+ public rally.\n\nRobert F. Stephens Courthouse
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Robert+F.+St
+ ephens+Courthouse%2C+Lexington%2C+KY&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
