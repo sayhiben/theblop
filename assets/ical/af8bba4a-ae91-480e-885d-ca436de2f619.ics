@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:6073f614-9576-4248-8a0c-7a74e5debe1f
+SEQUENCE:0
+DTSTAMP:20250416T031721Z
+DTSTART:20250418T120000
+DTEND:20250418T140000
+SUMMARY:Protest Against Avelo Airlines
+LOCATION:Burbank Airport\, Burbank\, CA
+DESCRIPTION:Join us in protesting against Avelo Airlines' involvement in I
+ CE deportations at Burbank Airport.\n\nOutside Burbank Airport
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Burbank+Airp
+ ort%2C+Burbank%2C+CA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
