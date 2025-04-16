@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:3a296365-2b12-4412-b921-806e3a064c21
+SEQUENCE:0
+DTSTAMP:20250416T150315Z
+DTSTART:20250419T120000
+DTEND:20250419T140000
+SUMMARY:The People's Town Hall for Liberty
+LOCATION:Pack Square Amphitheatre\, Nationwide\, Nationwide
+DESCRIPTION:Join us for a nationwide day of action dedicated to liberty. O
+ ur gathering will bring people together to discuss and advocate for import
+ ant civic issues.\n\nPack Square Amphitheatre
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Pack+Square+
+ Amphitheatre%2C+Nationwide%2C+Nationwide&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

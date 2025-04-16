@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:da514aa3-2fd0-490d-b3c0-42dc18d25fd4
+SEQUENCE:0
+DTSTAMP:20250416T150315Z
+DTSTART:20250419T120000
+DTEND:20250419T140000
+SUMMARY:OUR CITY\, OUR FIGHT: Protect Migrants\, Protect the Planet
+LOCATION:Bryant Park\, New York\, NY
+DESCRIPTION:Join us for the Earth Day March to advocate for migrant protec
+ tion and environmental action in New York City.\n\nBryant Park
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Bryant+Park%
+ 2C+New+York%2C+NY&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
