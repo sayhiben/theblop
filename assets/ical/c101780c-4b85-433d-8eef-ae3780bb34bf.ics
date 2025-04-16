@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:0c4dd139-bc93-4477-b13b-0cba1a19738d
+SEQUENCE:0
+DTSTAMP:20250416T210306Z
+DTSTART:20250419T120000
+DTEND:20250419T140000
+SUMMARY:NO CUTS\, NO COUP
+LOCATION:NW corner of Sunnyside Rd & I205
+DESCRIPTION:Join us to demand the return of Kilmar Abrego Garcia. Material
+ s for making signs will be available at the event. Organized by the DPO Ev
+ ents Committee.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=NW+corner+of
+ +Sunnyside+Rd+%26+I205&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

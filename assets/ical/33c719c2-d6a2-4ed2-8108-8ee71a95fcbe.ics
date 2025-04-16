@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:3fb1e8e7-1212-48b5-9139-2fe5806dd6e3
+SEQUENCE:0
+DTSTAMP:20250416T210306Z
+DTSTART:20250418T120000
+DTEND:20250418T140000
+SUMMARY:Hands Off My Consumer Rights!
+LOCATION:3501 16th St\, Greeley\, CO
+DESCRIPTION:Join us at Bittersweet Park to stand against Musk and congress
+ ional attacks on the CFPB. Let’s protect consumer rights together.\n\nBi
+ ttersweet Park
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=3501+16th+St
+ %2C+Greeley%2C+CO&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

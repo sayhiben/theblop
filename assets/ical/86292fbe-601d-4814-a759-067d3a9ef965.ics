@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:8a7eb0f2-aa61-47f4-891d-a651127b5548
+SEQUENCE:0
+DTSTAMP:20250416T210306Z
+DTSTART:20250419T093000
+DTEND:20250419T113000
+SUMMARY:HANDS OFF!
+LOCATION:Troy Farmers Market\, 3rd Street\, Troy\, NY
+DESCRIPTION:Let's keep marching to make a statement at the Troy Farmers Ma
+ rket on April 19. Join us as we stand together.\n\nTroy Farmers Market
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Troy+Farmers
+ +Market%2C+3rd+Street%2C+Troy%2C+NY&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

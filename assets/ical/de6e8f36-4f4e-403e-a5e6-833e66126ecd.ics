@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:75faa64d-c790-4129-b1de-66956a9ec4f1
+SEQUENCE:0
+DTSTAMP:20250416T210306Z
+DTSTART:20250419T120000
+DTEND:20250419T140000
+SUMMARY:National Day of Action
+LOCATION:3245 Vista Del Arroyo Dr\, UNIDAD PARK\, Unknown\, Unknown
+DESCRIPTION:Join us in the fight to uphold the Constitution and end execut
+ ive overreach.\n\nUnidad Park
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=3245+Vista+D
+ el+Arroyo+Dr%2C+UNIDAD+PARK%2C+Unknown%2C+Unknown&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
