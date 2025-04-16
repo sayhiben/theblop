@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:15120a82-b677-4c23-9b38-8e0558d061a1
+SEQUENCE:0
+DTSTAMP:20250416T000616Z
+DTSTART:20250419T120000
+DTEND:20250419T140000
+SUMMARY:Rally for Democracy
+LOCATION:Meet at Albertsons\, 400 Bridge St\, Clarkston\, WA
+DESCRIPTION:We are organizing a rally to support democracy and oppose fasc
+ ism. Join us to show your support with flags\, banners\, and signs.\n\nInt
+ ersection of 5th St. and Bridge St.
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Meet+at+Albe
+ rtsons%2C+400+Bridge+St%2C+Clarkston%2C+WA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

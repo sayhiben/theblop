@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:3839519a-c839-4f66-a64b-7716f89f50b6
+SEQUENCE:0
+DTSTAMP:20250416T000616Z
+DTSTART:20250419T120000
+DTEND:20250419T140000
+SUMMARY:National Day Of Action
+LOCATION:Monument Square\, Portland ME
+DESCRIPTION:Rally Around Our Community! Commit to each other and the value
+ s we share\n\nMonument Square
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Monument+Squ
+ are%2C+Portland+ME&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

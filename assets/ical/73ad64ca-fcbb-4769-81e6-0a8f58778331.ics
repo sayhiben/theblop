@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:4e605ae6-0c1f-48f4-9062-75e5b7d3cb35
+SEQUENCE:0
+DTSTAMP:20250416T000616Z
+DTSTART:20250419T120000
+DTEND:20250419T140000
+SUMMARY:Stand Together\, Fight Back!
+LOCATION:1400 Sullivan Road\, Park City\, UT
+DESCRIPTION:Join us in Park City on April 19th for a day of community acti
+ on and solidarity.\n\nCity Park Bandstand
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=1400+Sulliva
+ n+Road%2C+Park+City%2C+UT&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

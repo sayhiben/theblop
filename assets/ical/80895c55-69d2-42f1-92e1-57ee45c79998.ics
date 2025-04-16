@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:b3044bdb-03b2-4a17-a18b-aa45b8031f30
+SEQUENCE:0
+DTSTAMP:20250416T000616Z
+DTSTART:20250419T100000
+DTEND:20250419T120000
+SUMMARY:Good Trouble: National Day of Action
+LOCATION:Civic Center\, El Camino Real and Encinitas Blvd\, Carlsbad Blvd.
+  & Pine\, next to Harbor Fish\, Oceanside\, Encinitas\, Carlsbad\, CA
+DESCRIPTION:We are organizing a National Day of Action to stand against a 
+ perceived hostile government takeover\, emphasizing the defense of democra
+ cy\, human rights\, and the people's will. Join us to make 'Good Trouble' 
+ with your energy\, signs\, and unwavering voice.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Civic+Center
+ %2C+El+Camino+Real+and+Encinitas+Blvd%2C+Carlsbad+Blvd.+%26+Pine%2C+next+t
+ o+Harbor+Fish%2C+Oceanside%2C+Encinitas%2C+Carlsbad%2C+CA&zoom=15&basemap=
+ roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

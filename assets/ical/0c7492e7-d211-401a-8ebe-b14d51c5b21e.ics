@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:3f67caf2-08dc-42c5-b656-0632f3e34b77
+SEQUENCE:0
+DTSTAMP:20250416T000616Z
+DTSTART:20250419T133000
+DTEND:20250419T153000
+SUMMARY:Picket the Plaza
+LOCATION:Calder Plaza\, Grand Rapids\, MI
+DESCRIPTION:We’re hosting a protest for the rights of others and against
+  the rise of a fascist dictatorship. Participants will gather with signs\,
+  voices\, and walking shoes to picket the plaza or march around the block 
+ peacefully.\n\nCalder Plaza
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Calder+Plaza
+ %2C+Grand+Rapids%2C+MI&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
