@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:f15c6c90-1bc6-4798-8092-95678c33bee0
+SEQUENCE:0
+DTSTAMP:20250417T000616Z
+DTSTART:20250419T130000
+DTEND:20250419T150000
+SUMMARY:Protect Our Rights Rally in Provo
+LOCATION:445 W. Center Street\, Provo\, UT
+DESCRIPTION:Join us for a national day of protesting against executive ove
+ rreach\, trampling due process\, stripping of voting access\, and other is
+ sues.\n\nProvo City Hall Steps
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=445+W.+Cente
+ r+Street%2C+Provo%2C+UT&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

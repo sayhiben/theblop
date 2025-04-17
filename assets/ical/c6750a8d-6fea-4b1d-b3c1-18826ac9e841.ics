@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:4eabf1f0-7256-4993-972f-27d50a8d546d
+SEQUENCE:0
+DTSTAMP:20250417T000616Z
+DTSTART:20250419T120000
+DTEND:20250419T140000
+SUMMARY:Never Again Is Now
+LOCATION:2500 West End\, Nashville\, TN
+DESCRIPTION:We are organizing a protest action to express our collective g
+ oals and messages under the theme 'Never Again Is Now.' Join us for a side
+ walk protest in Nashville and be a part of 'The Next Chapter' in our movem
+ ent.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=2500+West+En
+ d%2C+Nashville%2C+TN&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

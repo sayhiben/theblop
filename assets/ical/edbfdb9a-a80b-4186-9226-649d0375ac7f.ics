@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:b1b62492-bc38-46f4-8d9e-e33524360179
+SEQUENCE:0
+DTSTAMP:20250417T000616Z
+DTSTART:20250419T130000
+DTEND:20250419T150000
+SUMMARY:No Kings Day!
+LOCATION:Lincoln Park\, 800 10th Ave.\, Greeley\, CO
+DESCRIPTION:Join us as we commemorate the 250th anniversary of the America
+ n Revolution and oppose a return to monarchy.\n\nLincoln Park
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Lincoln+Park
+ %2C+800+10th+Ave.%2C+Greeley%2C+CO&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
