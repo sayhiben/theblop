@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:6ff6776a-3523-4c82-b9cc-7cfd96fd6a8e
+SEQUENCE:0
+DTSTAMP:20250417T031705Z
+DTSTART:20250419T120000
+DTEND:20250419T140000
+SUMMARY:Day of Action Rally and Food Drive
+LOCATION:Allen County Courthouse Lawn\, Fort Wayne\, IN
+DESCRIPTION:Join us for a rally and food drive organized by WUFPAC and par
+ tners. This event aims to mobilize the community for action and collect fo
+ od donations.\n\nAllen County Courthouse Lawn
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Allen+County
+ +Courthouse+Lawn%2C+Fort+Wayne%2C+IN&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
