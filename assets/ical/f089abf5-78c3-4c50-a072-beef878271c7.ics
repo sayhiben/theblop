@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:5bfe3e01-6e9f-4906-9f32-a9b1340784a3
+SEQUENCE:0
+DTSTAMP:20250417T060322Z
+DTSTART:20250419T120000
+DTEND:20250419T140000
+SUMMARY:Rotary Lighthouse
+LOCATION:\, Nationwide\, OH
+DESCRIPTION:We invite you to join the 'Rotary Lighthouse' event happening 
+ across various cities.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+Nationwi
+ de%2C+OH&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

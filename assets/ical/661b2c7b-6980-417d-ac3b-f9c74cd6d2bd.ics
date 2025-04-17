@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:af4cca4b-e0e6-40cb-8810-8e9f48add69c
+SEQUENCE:0
+DTSTAMP:20250417T060322Z
+DTSTART:20250419T120000
+DTEND:20250419T140000
+SUMMARY:Hands Off
+LOCATION:\, Celina\, TX
+DESCRIPTION:"Hands Off" event\; details not specified.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+Celina%2
+ C+TX&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

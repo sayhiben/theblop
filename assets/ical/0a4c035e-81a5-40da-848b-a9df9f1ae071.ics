@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:37c9431e-e37e-4715-bde7-79a859819e32
+SEQUENCE:0
+DTSTAMP:20250417T060322Z
+DTSTART:20250419T120000
+DTEND:20250419T140000
+SUMMARY:National Day of Action: Hands Off
+LOCATION:734 South Main St\, Celina\, OH
+DESCRIPTION:Join us to uphold the Constitution\, end executive overreach\,
+  and ensure liberty and justice for all.\n\nCelina Rotary Lighthouse
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=734+South+Ma
+ in+St%2C+Celina%2C+OH&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:275fc734-f98b-4a6a-9f9a-256fcb367a20
+SEQUENCE:0
+DTSTAMP:20250417T060322Z
+DTSTART:20250419T090000
+DTEND:20250419T110000
+SUMMARY:Forward Together: A March For Justice and Unity
+LOCATION:300 North Salisbury Street\, Raleigh\, NC
+DESCRIPTION:This event\, organized by 50501 NC\, is a public march advocat
+ ing for justice and unity. It aims to bring together community members to 
+ support movements and political activism.\n\nHalifax Mall – Government C
+ omplex
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=300+North+Sa
+ lisbury+Street%2C+Raleigh%2C+NC&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

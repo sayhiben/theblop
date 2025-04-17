@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:0d496ab7-ba2b-45ed-80a7-52d744823a32
+SEQUENCE:0
+DTSTAMP:20250417T060322Z
+DTSTART:20250419T110000
+DTEND:20250419T130000
+SUMMARY:WE THE PEOPLE Stand Up
+LOCATION:Niagara Square\, Buffalo\, NY
+DESCRIPTION:Join us for a peaceful protest to protect American democracy\,
+  addressing issues such as democracy\, LGBTQIA rights\, Medicaid\, Medicar
+ e\, education\, labor\, and more. We aim to raise awareness and call to ac
+ tion against the coup.\n\nNiagara Square
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Niagara+Squa
+ re%2C+Buffalo%2C+NY&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

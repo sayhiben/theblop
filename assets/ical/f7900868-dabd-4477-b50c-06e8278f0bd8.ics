@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:3fc2f694-e826-42ac-8f89-5fb3f56c1076
+SEQUENCE:0
+DTSTAMP:20250417T060322Z
+DTSTART:20250419T100000
+DTEND:20250419T120000
+SUMMARY:Ride for Our Republic
+LOCATION:N Washington St\, Boston\, MA
+DESCRIPTION:A bicycle event celebrating the American Revolution while rais
+ ing awareness about political issues\, with a peaceful rally.\n\nPaul Reve
+ re Park
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=N+Washington
+ +St%2C+Boston%2C+MA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
