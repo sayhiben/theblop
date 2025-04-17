@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:030f3ea6-e3f8-4422-b7bc-f099acbf3cec
+SEQUENCE:0
+DTSTAMP:20250417T210302Z
+DTSTART:20250426T130000
+DTEND:20250426T150000
+SUMMARY:Hands Off: A Peaceful Demonstration to Protect What's Ours
+LOCATION:Woods County Courthouse – West Side Stage\, Alva\, OK
+DESCRIPTION:We are hosting a peaceful demonstration to ensure the protecti
+ on of what's ours—social security\, Medicare\, Medicaid\, civil rights\,
+  free speech\, jobs and workers' protections\, personal data\, and privacy
+ . Join us as we address these people issues.\n\nWoods County Courthouse 
+ – West Side Stage
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Woods+County
+ +Courthouse+%E2%80%93+West+Side+Stage%2C+Alva%2C+OK&zoom=15&basemap=roadma
+ p
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

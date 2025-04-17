@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:fe0c4ccd-17ed-431a-9773-d97ffb1cd986
+SEQUENCE:0
+DTSTAMP:20250417T210302Z
+DTSTART:20250419T123000
+DTEND:20250419T143000
+SUMMARY:Save Our FARMS! Rally and Food Drive
+LOCATION:Green Space in Lewisburg (corner of Washington St. and 219)\, Lew
+ isburg\, WV
+DESCRIPTION:Join us for a rally and food drive to support local farms in t
+ he Greater Greenbrier Valley area. This event aims to raise awareness and 
+ gather resources for our farming community.\n\nGreen Space in Lewisburg
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Green+Space+
+ in+Lewisburg+%28corner+of+Washington+St.+and+219%29%2C+Lewisburg%2C+WV&zoo
+ m=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
