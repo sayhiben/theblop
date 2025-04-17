@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:1190ed8d-9b2b-4fd8-bd32-78cbcd9ebe72
+SEQUENCE:0
+DTSTAMP:20250417T180315Z
+DTSTART:20250419T120000
+DTEND:20250419T140000
+SUMMARY:Sidewalk Protest
+LOCATION:2500 West End\, Nashville\, TN
+DESCRIPTION:Join us for a sidewalk protest at 2500 West End in Nashville\,
+  TN. Let's stand together and make our voices heard. We have not forgotten
+ .\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=2500+West+En
+ d%2C+Nashville%2C+TN&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

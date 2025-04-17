@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:c1b1d6e5-45a6-432c-8a8a-48fe71eb3511
+SEQUENCE:0
+DTSTAMP:20250417T180315Z
+DTSTART:20250419T160000
+DTEND:20250419T180000
+SUMMARY:Community Day of Action
+LOCATION:Ashland Plaza\, Ashland\, OR
+DESCRIPTION:Join us for a day of community action with live music\, chanti
+ ng\, a moment of silence\, and storytelling. All democracy-loving people a
+ re welcome to participate and bring their favorite signs.\n\nAshland Plaza
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Ashland+Plaz
+ a%2C+Ashland%2C+OR&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
