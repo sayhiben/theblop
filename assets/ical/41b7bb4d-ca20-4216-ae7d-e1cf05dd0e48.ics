@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:5cf4f9f0-998d-40d0-91ba-f77755d003b8
+SEQUENCE:0
+DTSTAMP:20250417T150536Z
+DTSTART:20250503T130000
+DTEND:20250503T150000
+SUMMARY:One Community Fiesta!
+LOCATION:1234 Park Lane\, Cityville\, CA
+DESCRIPTION:Join us to celebrate spring at One Community Fiesta with live 
+ music\, food trucks\, and family-friendly activities.\n\nRiverside Park
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=1234+Park+La
+ ne%2C+Cityville%2C+CA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:3d95c39b-a8e0-47eb-a248-4a05d4c915ae
+SEQUENCE:0
+DTSTAMP:20250417T150536Z
+DTSTART:20250419T130000
+DTEND:20250419T150000
+SUMMARY:Save Our Democracy Call to Action Rally
+LOCATION:111 S. Main Street\, Waupaca\, WI
+DESCRIPTION:Join our peaceful\, non-partisan rally in support of American 
+ Democracy. Please bring a non-perishable food item to support the Little F
+ ree Food Pantry at the Library.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=111+S.+Main+
+ Street%2C+Waupaca%2C+WI&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

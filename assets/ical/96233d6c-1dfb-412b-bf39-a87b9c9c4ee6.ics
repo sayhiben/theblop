@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:16487692-475e-490c-9da0-ad11f78868c8
+SEQUENCE:0
+DTSTAMP:20250417T150536Z
+DTSTART:20250417T180000
+DTEND:20250417T200000
+SUMMARY:Freedom for All: Seder in the Streets
+LOCATION:City Hall Plaza\, Boston\, MA
+DESCRIPTION:Join us for a Passover rally focused on safety and liberation\
+ , where we stand in solidarity for freedom for all. Organized by a coaliti
+ on of community groups\, this event seeks to bring people together to supp
+ ort human rights causes.\n\nCity Hall Plaza\, Boston
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=City+Hall+Pl
+ aza%2C+Boston%2C+MA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

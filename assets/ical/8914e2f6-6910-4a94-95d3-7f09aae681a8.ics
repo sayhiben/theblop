@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:4efb6a4a-5484-43e5-b653-3baaed450103
+SEQUENCE:0
+DTSTAMP:20250417T150536Z
+DTSTART:20250420T140000
+DTEND:20250420T160000
+SUMMARY:The People Fight Back Protest
+LOCATION:Maverick Station\, East Boston
+DESCRIPTION:Loudly and without fear\, we all fight for the rights of our i
+ mmigrant community\, our students\, all workers\, and freedom of speech by
+  organizing a protest.\n\nMaverick Station
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Maverick+Sta
+ tion%2C+East+Boston&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
