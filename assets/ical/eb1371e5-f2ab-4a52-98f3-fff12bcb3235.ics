@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:064e18b4-10cc-4332-954b-2f73c5d2f96d
+SEQUENCE:0
+DTSTAMP:20250418T031529Z
+DTSTART:20250501T100000
+DTEND:20250501T120000
+SUMMARY:May Day March
+LOCATION:24th St. & Mission\, San Francisco\, CA
+DESCRIPTION:We are organizing a march to advance citizens' rights and defe
+ nd sanctuary spaces. Join us in demanding fair wages\, housing\, and uncom
+ promised support for workers' rights.\n\nSF City Hall Steps
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=24th+St.+%26
+ +Mission%2C+San+Francisco%2C+CA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
