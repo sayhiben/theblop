@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:8d4c8b02-d620-4821-9493-fb6e2494aa18
+SEQUENCE:0
+DTSTAMP:20250418T060327Z
+DTSTART:20250419T110000
+DTEND:20250419T130000
+SUMMARY:No Kings\, No Autocracy\; Stand Up for Democracy!
+LOCATION:Main St. & Moody St.\, Waltham\, MA
+DESCRIPTION:We must defend constitutional rights and grow a people's movem
+ ent to support democratic values amidst a constitutional crisis.\n\nWaltha
+ m Common
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Main+St.+%26
+ +Moody+St.%2C+Waltham%2C+MA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

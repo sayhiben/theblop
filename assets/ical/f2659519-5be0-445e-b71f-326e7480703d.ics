@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:87156727-917f-487c-922c-78081a3a96fa
+SEQUENCE:0
+DTSTAMP:20250418T060327Z
+DTSTART:20250419T110000
+DTEND:20250419T130000
+SUMMARY:Morongo Basin Resists
+LOCATION:All four corners of 62 & Park\, Joshua Tree\, CA
+DESCRIPTION:Join the Morongo Basin community in a day of resistance as par
+ t of the Hands Off National Day of Action. We gather to show solidarity an
+ d advocate for our rights.\n\nDowntown JT
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=All+four+cor
+ ners+of+62+%26+Park%2C+Joshua+Tree%2C+CA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

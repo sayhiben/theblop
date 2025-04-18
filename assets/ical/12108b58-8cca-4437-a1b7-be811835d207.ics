@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:11bdefac-0a2b-4680-a13e-08409221de3e
+SEQUENCE:0
+DTSTAMP:20250418T060327Z
+DTSTART:20250419T130000
+DTEND:20250419T150000
+SUMMARY:No Illegal ICE deportations!
+LOCATION:300 N Los Angeles St\, Los Angeles\, CA
+DESCRIPTION:We are holding a rally against illegal ICE deportations. Join 
+ us to voice your concern and stand up for immigrant rights.\n\n300 N Los A
+ ngeles St
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=300+N+Los+An
+ geles+St%2C+Los+Angeles%2C+CA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

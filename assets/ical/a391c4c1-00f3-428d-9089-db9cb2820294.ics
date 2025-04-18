@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:e61664ed-bebc-4f7e-95b5-4bfe373595cd
+SEQUENCE:0
+DTSTAMP:20250418T060327Z
+DTSTART:20250419T140000
+DTEND:20250419T160000
+SUMMARY:Peaceful Protest NO KINGS
+LOCATION:1760 Palm Beach Lakes Blvd.\, West Palm Beach\, FL
+DESCRIPTION:Join us for a peaceful protest titled 'NO KINGS' to stand agai
+ nst authoritarianism. Organized by Palm Beach Indivisibles and the Democra
+ tic Women's Club of PBC\, we aim to gather community support in protest.\n
+ \nTARGET
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=1760+Palm+Be
+ ach+Lakes+Blvd.%2C+West+Palm+Beach%2C+FL&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
