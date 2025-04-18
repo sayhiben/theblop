@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:002ced8d-f4a0-44a7-b8f1-07ff5388fa1f
+SEQUENCE:0
+DTSTAMP:20250418T120320Z
+DTSTART:20250419T080000
+DTEND:20250419T100000
+SUMMARY:Next 50 State Nationwide Protest
+LOCATION:corner of Main St and School St\, Freeport\, ME
+DESCRIPTION:Join the 50501 Movement for a protest happening in every state
+ . The event aims to gather people nationwide for a shared cause.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=corner+of+Ma
+ in+St+and+School+St%2C+Freeport%2C+ME&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
