@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:f0571242-c99c-4717-93a6-66afc085a7ec
+SEQUENCE:0
+DTSTAMP:20250418T210304Z
+DTSTART:20250510T190000
+DTEND:20250510T210000
+SUMMARY:March for Democratic Action
+LOCATION:West Hollywood Park\, West Hollywood\, CA
+DESCRIPTION:We invite you to join us for a march aimed at promoting democr
+ atic action and unity. Organized by the Democracy Action Network\, this ev
+ ent will take place at West Hollywood Park.\n\nWest Hollywood Park
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=West+Hollywo
+ od+Park%2C+West+Hollywood%2C+CA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

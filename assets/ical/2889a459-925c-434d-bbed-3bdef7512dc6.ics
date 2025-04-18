@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:1b9c183b-468b-48e7-84f3-4dd98b870c1f
+SEQUENCE:0
+DTSTAMP:20250418T210304Z
+DTSTART:20250427T110000
+DTEND:20250427T130000
+SUMMARY:Voices of Resistance
+LOCATION:West Hollywood Park\, West Hollywood\, CA
+DESCRIPTION:A grassroots assembly and picnic event organized to support co
+ mmunity engagement and activism.\n\nWest Hollywood Park
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=West+Hollywo
+ od+Park%2C+West+Hollywood%2C+CA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

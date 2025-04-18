@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:b6042c06-783b-493a-99fd-b0953796ec55
+SEQUENCE:0
+DTSTAMP:20250418T210304Z
+DTSTART:20250419T130000
+DTEND:20250419T150000
+SUMMARY:50501 In Your Community
+LOCATION:301 College Ave.\, Athens\, GA
+DESCRIPTION:We are hosting a statewide day of action called "50501 In Your
+  Community." This event aims to empower people to stand against corruption
+ \, authoritarianism\, and threats to democracy. Expect protests\, communit
+ y gatherings\, and opportunities to connect and learn.\n\nAthens City Hall
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=301+College+
+ Ave.%2C+Athens%2C+GA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

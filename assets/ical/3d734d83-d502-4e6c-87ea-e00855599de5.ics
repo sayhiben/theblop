@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:221b7487-9250-4545-8cee-404d7b90b6ce
+SEQUENCE:0
+DTSTAMP:20250418T210304Z
+DTSTART:20250419T120000
+DTEND:20250419T140000
+SUMMARY:No Kings
+LOCATION:100 West King Street\, Martinsburg\, WV
+DESCRIPTION:We are holding a "No Kings" protest at “The Square.” Join 
+ us for this event hosted by Hope in Alliance with partners Indivisible Ber
+ keley County\, NAACP\, and EPPOP.\n\nThe Square
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=100+West+Kin
+ g+Street%2C+Martinsburg%2C+WV&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
