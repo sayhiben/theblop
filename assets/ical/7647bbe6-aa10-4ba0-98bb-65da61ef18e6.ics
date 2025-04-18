@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:f1bac4a2-265c-4b25-b201-951a22b769cb
+SEQUENCE:0
+DTSTAMP:20250418T180317Z
+DTSTART:20250419T113000
+DTEND:20250419T133000
+SUMMARY:Laguna Beach 50501 #4
+LOCATION:Boardwalk\, 92652\, Laguna Beach\, Laguna Beach\, CA
+DESCRIPTION:Welcome to Laguna Beach 50501. Enjoy a safe event approved by 
+ Law Enforcement where we gather with visibility and provide water and a co
+ ol place to relax.\n\nMain Beach
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Boardwalk%2C
+ +92652%2C+Laguna+Beach%2C+Laguna+Beach%2C+CA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

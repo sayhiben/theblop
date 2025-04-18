@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:ee35d0f1-d87f-49df-8e3e-1de78ac45a72
+SEQUENCE:0
+DTSTAMP:20250418T180317Z
+DTSTART:20250419T100000
+DTEND:20250419T120000
+SUMMARY:We Are Stronger Together!
+LOCATION:6th St & Duff Ave\, Ames\, IA
+DESCRIPTION:Stand together for democracy with the Ames community\, emphasi
+ zing solidarity and addressing concerns over recent government actions.\n\
+ nBandshell Park
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=6th+St+%26+D
+ uff+Ave%2C+Ames%2C+IA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

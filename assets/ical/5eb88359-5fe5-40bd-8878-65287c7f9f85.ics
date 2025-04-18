@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:12847e16-041a-4e5c-88bf-e4f3009bf3b0
+SEQUENCE:0
+DTSTAMP:20250418T180317Z
+DTSTART:20250422T150000
+DTEND:20250422T170000
+SUMMARY:Earth Day Clean Up
+LOCATION:Intersection of S. 5th Street & S. Walnut Ave\, Ames\, IA
+DESCRIPTION:Join us at the Earth Day clean-up organized by the Ames Anti-F
+ ascist Book Club. We aim to clean the community\, and we'll provide necess
+ ary supplies.\n\nIntersection of S. 5th Street & S. Walnut Ave
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Intersection
+ +of+S.+5th+Street+%26+S.+Walnut+Ave%2C+Ames%2C+IA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

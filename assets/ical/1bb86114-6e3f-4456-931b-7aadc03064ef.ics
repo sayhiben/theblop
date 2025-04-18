@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:154cc767-346d-49c9-ae38-eacb9878de49
+SEQUENCE:0
+DTSTAMP:20250418T180317Z
+DTSTART:20250419T120000
+DTEND:20250419T140000
+SUMMARY:250 Years of No Kings
+LOCATION:5th & Market\, Philadelphia\, PA
+DESCRIPTION:Celebrating 250 years since 1775\, marking the concept of "No 
+ Kings." Join us for an event at 5th & Market.\n\n5th & Market\, Philadelph
+ ia
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=5th+%26+Mark
+ et%2C+Philadelphia%2C+PA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:6206c904-ca62-4147-ab60-2878aac11b9e
+SEQUENCE:0
+DTSTAMP:20250418T180317Z
+DTSTART:20250419T150000
+DTEND:20250419T170000
+SUMMARY:4/19: Save Our Constitutional Rights
+LOCATION:NE Corner of Yorba Linda Blvd and Imperial Hwy\, Yorba Linda\, CA
+DESCRIPTION:Join us for a community-building\, welcoming\, non-violent eve
+ nt to stand up for our Constitutional rights in the face of fascism--inclu
+ ding our right to protest.\n\nNE Corner of Yorba Linda Blvd and Imperial H
+ wy
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=NE+Corner+of
+ +Yorba+Linda+Blvd+and+Imperial+Hwy%2C+Yorba+Linda%2C+CA&zoom=15&basemap=ro
+ admap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
