@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:b2e6433d-cb83-4895-93c9-c91775a106f8
+SEQUENCE:0
+DTSTAMP:20250418T000604Z
+DTSTART:20250419T120000
+DTEND:20250419T140000
+SUMMARY:NEXT 50 STATE NATIONWIDE PROTEST
+LOCATION:Corner of Mulberry and College Ave\, Fort Collins\, CO
+DESCRIPTION:Join the 50501 Movement for a nationwide protest happening acr
+ oss 50 states.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Corner+of+Mu
+ lberry+and+College+Ave%2C+Fort+Collins%2C+CO&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

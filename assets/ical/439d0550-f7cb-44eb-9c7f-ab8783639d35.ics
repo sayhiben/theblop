@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:42ceb862-8630-4ade-8fa9-64552a7c060a
+SEQUENCE:0
+DTSTAMP:20250418T000604Z
+DTSTART:20250419T110000
+DTEND:20250419T130000
+SUMMARY:HANDS OFF!
+LOCATION:Shaw & Clovis Ave\, Fresno\, CA
+DESCRIPTION:A protest event against 'Kings' in Fresno\, promoting actions 
+ to 'Remove\, Reverse\, Reclaim.'\n\nShaw & Clovis Ave
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Shaw+%26+Clo
+ vis+Ave%2C+Fresno%2C+CA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
