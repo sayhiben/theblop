@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:8c5e6669-18b8-48be-baee-fe7aa2b1e098
+SEQUENCE:0
+DTSTAMP:20250418T150303Z
+DTSTART:20250423T000000
+DTEND:20250423T020000
+SUMMARY:Capitol Day 2025
+LOCATION:Michigan State Capitol\, Lansing\, MI
+DESCRIPTION:Join Michigan United for Capitol Day 2025 to meet with lawmake
+ rs\, participate in a youth panel\, join the rally\, and help build the re
+ sistance.\n\nMichigan State Capitol
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Michigan+Sta
+ te+Capitol%2C+Lansing%2C+MI&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

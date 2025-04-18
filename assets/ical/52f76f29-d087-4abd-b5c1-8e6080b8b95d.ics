@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:77ffd06b-e35b-4882-a520-8488275031da
+SEQUENCE:0
+DTSTAMP:20250418T150303Z
+DTSTART:20250419T120000
+DTEND:20250419T140000
+SUMMARY:No Kings No Tyranny
+LOCATION:Seymour Ave and Ottawa St
+DESCRIPTION:Join us for a protest rally as we honor the 250th anniversary 
+ of the American Revolution. We will assemble at the Capitol Building\, mar
+ ch on nearby streets\, and regroup periodically to increase visibility.\n\
+ nRear end of Capitol Building
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Seymour+Ave+
+ and+Ottawa+St&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

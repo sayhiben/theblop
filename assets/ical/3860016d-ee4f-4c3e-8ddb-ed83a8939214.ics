@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:6afe3b34-24d3-445a-8460-ac2f4cfbbbf9
+SEQUENCE:0
+DTSTAMP:20250418T150303Z
+DTSTART:20250419T120000
+DTEND:20250419T140000
+SUMMARY:HANDS OFF!
+LOCATION:\, Detroit\, MI
+DESCRIPTION:A protest titled "HANDS OFF!" occurring at Hart Plaza. The eve
+ nt emphasizes communal resistance themed around political activism.\n\nHar
+ t Plaza
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+Detroit%
+ 2C+MI&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

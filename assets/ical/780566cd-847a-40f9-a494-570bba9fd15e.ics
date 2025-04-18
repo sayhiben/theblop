@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:399713cd-c0b7-4726-bc8a-28f781dd069f
+SEQUENCE:0
+DTSTAMP:20250418T150303Z
+DTSTART:20250419T120000
+DTEND:20250419T140000
+SUMMARY:Hands Off Protest
+LOCATION:\, Livonia\, MI
+DESCRIPTION:We are gathering at Livonia City Hall to march and protect var
+ ious rights and public services such as our Constitution\, voting rights\,
+  and public schools.\n\nLivonia City Hall
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+Livonia%
+ 2C+MI&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

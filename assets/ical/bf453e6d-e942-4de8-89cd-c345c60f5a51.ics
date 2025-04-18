@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:9dd786b3-6b2a-4643-9045-aeac5bb57b71
+SEQUENCE:0
+DTSTAMP:20250418T150303Z
+DTSTART:20250419T130000
+DTEND:20250419T150000
+SUMMARY:Rally For Democracy
+LOCATION:100 East State Street\, Olean\, NY
+DESCRIPTION:Hosted by Hands Off Olean\, this is a public event focused on 
+ movements and politics in Olean\, NY.\n\n100 East State Street\, City of O
+ lean
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=100+East+Sta
+ te+Street%2C+Olean%2C+NY&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
