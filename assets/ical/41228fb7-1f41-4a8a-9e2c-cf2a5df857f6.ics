@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:b29b8fce-1dd9-4e88-9033-7b5f653b698a
+SEQUENCE:0
+DTSTAMP:20250419T120326Z
+DTSTART:20250419T120000
+DTEND:20250419T140000
+SUMMARY:Patriot's Day
+LOCATION:\, Hartford\, CT
+DESCRIPTION:We\, CT 50501\, are celebrating the 250th anniversary of the b
+ eginning of the American Revolution at the State Capitol in Hartford\, CT.
+  Join us to protest the current administration's actions against the revol
+ utionaries' ideals.\n\nState Capitol
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+Hartford
+ %2C+CT&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
