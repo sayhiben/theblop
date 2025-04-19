@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:0018f338-d447-4669-a79c-55489f8a7a8d
+SEQUENCE:0
+DTSTAMP:20250419T060306Z
+DTSTART:20250419T140000
+DTEND:20250419T160000
+SUMMARY:Stand for Democracy
+LOCATION:Dallas City Hall\, Dallas\, TX
+DESCRIPTION:A public gathering to support democracy\, taking place in fron
+ t of a government building to emphasize civic engagement and public partic
+ ipation.\n\nDallas City Hall
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Dallas+City+
+ Hall%2C+Dallas%2C+TX&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:8be49490-b637-46d1-ac29-a41eec1aaac9
+SEQUENCE:0
+DTSTAMP:20250419T060306Z
+DTSTART:20250419T160000
+DTEND:20250419T180000
+SUMMARY:No Kings!
+LOCATION:Queen Ka'ahumanu Highway\, south of Henry St.\, behind the Mormon
+  Temple\, Kailua-Kona\, HI
+DESCRIPTION:Join us for a protest in Kailua-Kona to oppose autocratic rule
+  and protect Hawai'i from a fascist oligarchy.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Queen+Ka%27a
+ humanu+Highway%2C+south+of+Henry+St.%2C+behind+the+Mormon+Temple%2C+Kailua
+ -Kona%2C+HI&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
