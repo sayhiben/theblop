@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:274ab951-9b7d-478a-9117-4d61683db496
+SEQUENCE:0
+DTSTAMP:20250419T000550Z
+DTSTART:20250419T100000
+DTEND:20250419T120000
+SUMMARY:Not On Our Watch
+LOCATION:\, San Diego\, CA
+DESCRIPTION:Join us for 'Not On Our Watch' on April 19\, 2025\, starting w
+ ith a gathering at Waterfront Park at 10AM featuring speakers\, an open mi
+ c\, and music. At 12PM\, we'll march to the Gaslamp District\, followed by
+  flyering and canvassing activities.\n\nWaterfront Park
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+San+Dieg
+ o%2C+CA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

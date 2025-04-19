@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:a1148746-8a86-4aef-ab7d-5f06fc1b7347
+SEQUENCE:0
+DTSTAMP:20250419T000550Z
+DTSTART:20250419T100000
+DTEND:20250419T120000
+SUMMARY:Coalition Opposing the Normalisation of Trump’s Reactionary Agen
+ da
+LOCATION:Along Town Center Pkwy @ St Johns Town Center\, Jacksonville\, FL
+DESCRIPTION:Join us in a protest along the Town Center Pkwy to oppose the 
+ current administration’s agenda. The goal is to visually show opposition
+  through signs and participation.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Along+Town+C
+ enter+Pkwy+%40+St+Johns+Town+Center%2C+Jacksonville%2C+FL&zoom=15&basemap=
+ roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

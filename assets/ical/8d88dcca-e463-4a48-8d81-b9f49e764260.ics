@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:9a02742a-7f94-4a04-b405-d4ca81efcdde
+SEQUENCE:0
+DTSTAMP:20250419T000550Z
+DTSTART:20250419T100000
+DTEND:20250419T120000
+SUMMARY:Hands Off! Ventura Fights Back
+LOCATION:\, Ventura\, CA
+DESCRIPTION:Join us for a peaceful rally to save our democracy at the Vent
+ ura County Government Center.\n\nVentura County Government Center
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+Ventura%
+ 2C+CA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
