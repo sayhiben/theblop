@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:a89f4240-f4a9-4a27-82e4-5b6428721dbe
+SEQUENCE:0
+DTSTAMP:20250419T090257Z
+DTSTART:20250419T120000
+DTEND:20250419T140000
+SUMMARY:Government Cuts Kill Rally
+LOCATION:1 SE Broadway St.\, Ocala\, FL
+DESCRIPTION:We are hosting the Government Cuts Kill Rally to raise awarene
+ ss about the impact of government cuts. Join us to bring your cause of dea
+ th and make a stand.\n\nOcala Historic Downtown Square
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=1+SE+Broadwa
+ y+St.%2C+Ocala%2C+FL&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
