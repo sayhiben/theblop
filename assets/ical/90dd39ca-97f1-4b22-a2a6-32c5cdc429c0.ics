@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:feb4239e-0de2-4426-a094-a6e6cb8e6d63
+SEQUENCE:0
+DTSTAMP:20250419T031246Z
+DTSTART:20250419T000000
+DTEND:20250419T020000
+SUMMARY:Public Gatherings on April 19th
+LOCATION:\, Boise\, Coeur d'Alene\, Driggs\, Idaho Falls\, Lewiston\, Poca
+ tello\, Twin Falls\, ID
+DESCRIPTION:We invite you to join us for public gatherings across multiple
+  cities on April 19th at the stated times and locations for community enga
+ gement.\n\nVarious locations per the city
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+Boise%2C
+ +Coeur+d%27Alene%2C+Driggs%2C+Idaho+Falls%2C+Lewiston%2C+Pocatello%2C+Twin
+ +Falls%2C+ID&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

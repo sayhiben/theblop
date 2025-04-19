@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:0f4a5316-a5ff-4230-9e4a-a622b8b65057
+SEQUENCE:0
+DTSTAMP:20250419T031246Z
+DTSTART:20250419T100000
+DTEND:20250419T120000
+SUMMARY:One Voice: Three Protests
+LOCATION:\, San Luis Obispo\, CA
+DESCRIPTION:Join us in a series of protests across San Luis Obispo County 
+ to defend democracy and reject oligarchy. We will be raising our voices in
+  unity with multiple locations and times for community participation.\n\nV
+ arious locations: Paso Robles (11th ST & Spring ST)\, Los Osos (LOVR & Sou
+ th Bay)\, Grover Beach (Oak Park & Grand)
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+San+Luis
+ +Obispo%2C+CA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

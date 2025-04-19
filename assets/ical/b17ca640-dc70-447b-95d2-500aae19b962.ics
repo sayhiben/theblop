@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:e92ddb05-b261-41bc-87da-5f38d7050c65
+SEQUENCE:0
+DTSTAMP:20250419T031246Z
+DTSTART:20250426T110000
+DTEND:20250426T130000
+SUMMARY:March on Tesla & ICE
+LOCATION:\, Portland\, OR
+DESCRIPTION:Join us for a non-violent protest against Tesla and ICE. There
+  are two march routes with different accessibility options\, converging at
+  a single destination.\n\nWillamette Park\, 6500 S Macadam Ave and Elizabe
+ th Caruthers Park\, 3508 S Moody Ave
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+Portland
+ %2C+OR&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
