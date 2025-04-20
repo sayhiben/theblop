@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:f5ec413f-b75a-4cd4-b822-f93b9bbe6126
+SEQUENCE:0
+DTSTAMP:20250420T060334Z
+DTSTART:20250422T100000
+DTEND:20250422T120000
+SUMMARY:Defend the Archive Rally
+LOCATION:300 Funston Ave.\, San Francisco\, CA
+DESCRIPTION:We are hosting a rally to support the Internet Archive against
+  a $700 million lawsuit affecting the Great 78 Project. The event will adv
+ ocate for the protection of the Internet Archive and the Wayback Machine.\
+ n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=300+Funston+
+ Ave.%2C+San+Francisco%2C+CA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
