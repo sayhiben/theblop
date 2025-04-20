@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:3b8851ad-d6e3-4b3e-84e7-704d63a4da13
+SEQUENCE:0
+DTSTAMP:20250420T210249Z
+DTSTART:20250424T130000
+DTEND:20250424T150000
+SUMMARY:DO YOUR JOB! DEMonstration
+LOCATION:2725 Judge Fran Jamieson Way\, Brevard\, FL
+DESCRIPTION:Join us for a demonstration to hold leaders accountable on key
+  issues such as fighting autocracy\, protecting women's and voting rights\
+ , and more. Organized by Brevard Democrats\, this event aims to make our v
+ oices heard.\n\naround the reflecting pool
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=2725+Judge+F
+ ran+Jamieson+Way%2C+Brevard%2C+FL&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

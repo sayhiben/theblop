@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:d6aadf4f-11f1-49b4-8ee7-5c1cfef9fbf7
+SEQUENCE:0
+DTSTAMP:20250420T210249Z
+DTSTART:20250424T163000
+DTEND:20250424T183000
+SUMMARY:Kick ICE Out of Our Community
+LOCATION:4310 S Macadam Ave\, Portland\, OR
+DESCRIPTION:We are organizing a noise demonstration at the ICE Field Offic
+ e to protest against ICE and support the freedom of detained individuals. 
+ Join us to stand against deportations.\n\nICE Field Office
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=4310+S+Macad
+ am+Ave%2C+Portland%2C+OR&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
