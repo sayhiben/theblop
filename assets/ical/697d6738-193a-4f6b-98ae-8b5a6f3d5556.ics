@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:b7978a95-2418-41fe-a4bb-6cad197242b1
+SEQUENCE:0
+DTSTAMP:20250421T180342Z
+DTSTART:20250501T000000
+DTEND:20250501T020000
+SUMMARY:International Workers Day
+LOCATION:\, Detroit\, MI
+DESCRIPTION:Join us on May Day as 50501MI collaborates with Moratorium Now
+ ! Coalition for a gathering in Detroit to celebrate workers’ rights and 
+ solidarity.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+Detroit%
+ 2C+MI&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

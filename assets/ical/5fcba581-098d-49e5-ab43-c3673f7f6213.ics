@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:c631b21d-6626-42a3-adbd-79cc7c79fb64
+SEQUENCE:0
+DTSTAMP:20250421T180342Z
+DTSTART:20250501T163000
+DTEND:20250501T183000
+SUMMARY:A Day Without Immigrants
+LOCATION:75 Rev. Dr. Martin Luther King Jr. Blvd\, St. Paul\, MN
+DESCRIPTION:Join us as we rally and march for immigrant rights and workers
+ ' rights at the Minnesota State Capitol.\n\nMinnesota State Capitol
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=75+Rev.+Dr.+
+ Martin+Luther+King+Jr.+Blvd%2C+St.+Paul%2C+MN&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:0cd5a1b7-b23d-4809-b860-bedc721940cf
+SEQUENCE:0
+DTSTAMP:20250421T180342Z
+DTSTART:20250503T173000
+DTEND:20250503T193000
+SUMMARY:May Day Social and Program
+LOCATION:Lucy Parsons Center\, 4100 28th Ave S\, Minneapolis\, MN
+DESCRIPTION:Join FRSO to enjoy food and a social for International Workers
+  Day and celebrate a year of struggle with speakers addressing resistance 
+ to attacks on workers and immigrants.\n\nLucy Parsons Center
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Lucy+Parsons
+ +Center%2C+4100+28th+Ave+S%2C+Minneapolis%2C+MN&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
