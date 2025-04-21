@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:1949c2d5-aefa-493f-b3f6-58479371ebc7
+SEQUENCE:0
+DTSTAMP:20250421T120311Z
+DTSTART:20250501T130000
+DTEND:20250501T150000
+SUMMARY:Day of Rest-istance
+LOCATION:PSU Farmers Market\, Portland\, OR
+DESCRIPTION:We are gathering to unite workers against exploitation\, defen
+ d our rights\, and take back power amidst threats from ICE and governmenta
+ l defunding.\n\nPSU Farmers Market
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=PSU+Farmers+
+ Market%2C+Portland%2C+OR&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
