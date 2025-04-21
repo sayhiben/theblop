@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:54b881e6-393a-46e2-b74f-a453ee1d0baa
+SEQUENCE:0
+DTSTAMP:20250421T060302Z
+DTSTART:20250501T120000
+DTEND:20250501T140000
+SUMMARY:Day of Action - May Day
+LOCATION:Topeka Capitol\, Topeka\, KS
+DESCRIPTION:Join us for the next "Day of Action" on May Day at the Topeka 
+ Capitol. More information will be available soon.\n\nTopeka Capitol
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Topeka+Capit
+ ol%2C+Topeka%2C+KS&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
