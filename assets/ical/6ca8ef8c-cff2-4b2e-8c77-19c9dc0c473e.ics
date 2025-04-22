@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:06755b6d-50f5-431d-ac78-f1a6b20cbc55
+SEQUENCE:0
+DTSTAMP:20250422T060312Z
+DTSTART:20250426T140000
+DTEND:20250426T160000
+SUMMARY:Olympia Visibility Brigade
+LOCATION:Isthmus Park\, Olympia\, WA
+DESCRIPTION:We organize and deploy protests on overpasses in the Olympia-T
+ umwater-Lacey area. Join us for our next event\, bring your protest signs\
+ , flags\, and costumes\, and be prepared for a lively protest.\n\nAdjacent
+  to the Procession - parking limited
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Isthmus+Park
+ %2C+Olympia%2C+WA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
