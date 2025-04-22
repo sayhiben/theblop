@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:ad49042d-0a55-44e3-806e-7ce6f14418bf
+SEQUENCE:0
+DTSTAMP:20250422T090313Z
+DTSTART:20250424T170000
+DTEND:20250424T190000
+SUMMARY:Free Andry!
+LOCATION:46 Park Ave\, Permanent Mission of El Salvador\, New York\, NY
+DESCRIPTION:Join us for a rally in support of Andry\, a U.S. LGBT asylum s
+ eeker\, who has been sent to a prison in El Salvador.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=46+Park+Ave%
+ 2C+Permanent+Mission+of+El+Salvador%2C+New+York%2C+NY&zoom=15&basemap=road
+ map
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:9c2f0e99-380a-449e-9601-04258996865e
+SEQUENCE:0
+DTSTAMP:20250422T090313Z
+DTSTART:20250426T120000
+DTEND:20250426T140000
+SUMMARY:#TESLATAKEDOWN PROTEST
+LOCATION:3851 Bird Rd\, Miami\, FL\, 33146
+DESCRIPTION:Join us for a protest against Elon Musk's practices\, focusing
+  on issues like austerity and cryptocurrency at the Tesla Showroom in Cora
+ l Gables.\n\nTesla Showroom-Coral Gables
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=3851+Bird+Rd
+ %2C+Miami%2C+FL%2C+33146&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
