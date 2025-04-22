@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:a3b290bc-eb6c-473a-9e32-0f2b87bf46d8
+SEQUENCE:0
+DTSTAMP:20250422T210247Z
+DTSTART:20250423T180000
+DTEND:20250423T200000
+SUMMARY:BEN GVIR NOT WELCOMED
+LOCATION:442 Orange Street\, New Haven\, CT
+DESCRIPTION:Join us in a demonstration opposing Ben Gvir at John C. Anders
+ on House\, as our communities stand against those who commit violence agai
+ nst our people.\n\nJohn C. Anderson House
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=442+Orange+S
+ treet%2C+New+Haven%2C+CT&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
