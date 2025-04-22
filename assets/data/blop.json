@@ -779,6 +779,30 @@
     "raw_summary": "The image is an event flyer for a protest march against Tesla and ICE. It describes two separate marches converging at one destination on April 26th at 11 AM, with additional details about the routes and accessibility."
   },
   {
+    "id": "0d2ff396-1a3f-4237-930c-6493a860cfc6",
+    "title": "Let Them Eat Cake\" Protest",
+    "date": "Saturday, April 26, 2025",
+    "time": "1:30 PM",
+    "description": "We are organizing a protest against Federal budget cuts. Bring your signs and your sweet tooth to join us.",
+    "city": "Fargo",
+    "state": "ND",
+    "address": "NE corner of Roberts St N & 2nd Ave N",
+    "meeting_location": "Downtown Fargo",
+    "links": [
+      "[]"
+    ],
+    "sponsors": [
+      "[]"
+    ],
+    "image_url": "https://theblop.org/assets/images/0d2ff396-1a3f-4237-930c-6493a860cfc6.jpg",
+    "thumbnail_url": "https://theblop.org/assets/images/0d2ff396-1a3f-4237-930c-6493a860cfc6-thumb.jpg",
+    "canonical_id": "",
+    "permalink": "https://theblop.org/events/0d2ff396-1a3f-4237-930c-6493a860cfc6.html",
+    "ical": "https://theblop.org/assets/ical/0d2ff396-1a3f-4237-930c-6493a860cfc6.ics",
+    "raw_text": "\"LET THEM EAT CAKE\" PROTEST\n\nBring your signs (and your sweet tooth) to protest Federal budget cuts!\n\nSat. April 26, 1:30pm-2:30pm\nNE corner of Roberts St N & 2nd Ave N\nDowntown Fargo",
+    "raw_summary": "A protest event called \"Let Them Eat Cake\" is happening in Downtown Fargo to express disagreement with federal budget cuts. The protest encourages participants to bring signs and snacks."
+  },
+  {
     "id": "34ae3318-0a91-4a76-9411-85dc7b6e0d9a",
     "title": "Save Democracy Rally",
     "date": "Sunday, April 27, 2025",
@@ -1646,6 +1670,52 @@
     "ical": "https://theblop.org/assets/ical/5fcba581-098d-49e5-ab43-c3673f7f6213.ics",
     "raw_text": "MAY 1ST A DAY WITHOUT IMMIGRANTS IMMIGRANT RIGHTS ARE WORKERS RIGHTS RALLY AT 4:30 PM MARCH AT 5:30 PM MINNESOTA STATE CAPITOL 75 REV. DR. MARTIN LUTHER KING JR. BLVD",
     "raw_summary": "The image details a public event centered around immigrant rights and workers' rights, featuring a rally and march on May 1st at the Minnesota State Capitol."
+  },
+  {
+    "id": "2fea821a-9ca8-424a-8106-ccdd6cb9f64b",
+    "title": "National Day of Action",
+    "date": "Thursday, May 1, 2025",
+    "time": "5:00 PM",
+    "description": "We are hosting a National Day of Action to protest and speak out against the billionaire agenda. Join us for a protest on the bridge and speeches at Woodlawn Park.",
+    "city": "",
+    "state": "",
+    "address": "Veterans Memorial Bridge",
+    "meeting_location": "Veterans Memorial Bridge",
+    "links": [
+      "Indivisible.org"
+    ],
+    "sponsors": [
+      "Indivisible.org"
+    ],
+    "image_url": "https://theblop.org/assets/images/2fea821a-9ca8-424a-8106-ccdd6cb9f64b.jpg",
+    "thumbnail_url": "https://theblop.org/assets/images/2fea821a-9ca8-424a-8106-ccdd6cb9f64b-thumb.jpg",
+    "canonical_id": "",
+    "permalink": "https://theblop.org/events/2fea821a-9ca8-424a-8106-ccdd6cb9f64b.html",
+    "ical": "https://theblop.org/assets/ical/2fea821a-9ca8-424a-8106-ccdd6cb9f64b.ics",
+    "raw_text": "Thursday, May 1st\n5-7 PM\nVeterans Memorial Bridge\n\nProtest\n5-6 PM\nOn the bridge\n\nSpeakers\n6-7 PM\nWoodlawn Park\n\nIndivisible.org\n\nNATIONAL DAY OF ACTION\nSTOP THE BILLIONAIRE AGENDA\n\nWE ARE THE MANY. THEY ARE THE FEW.",
+    "raw_summary": "The image is a flyer announcing an event called the 'National Day of Action' organized by Indivisible.org. The event is planned for Thursday, May 1st, from 5-7 PM at Veterans Memorial Bridge. It includes a protest and speakers, with locations specified for each part of the event."
+  },
+  {
+    "id": "be11abac-c90e-489d-a9e8-6fb7b426868b",
+    "title": "May Day! May Day!",
+    "date": "Thursday, May 1, 2025",
+    "time": "4:00 PM",
+    "description": "Join the Iowa Coalition on May Day to stand up for immigrants, unions, and labor rights at the Iowa State Capitol Building.",
+    "city": "Des Moines",
+    "state": "IA",
+    "address": "Iowa State Capitol Building",
+    "meeting_location": "Iowa State Capitol Building",
+    "links": [],
+    "sponsors": [
+      "Iowa Coalition"
+    ],
+    "image_url": "https://theblop.org/assets/images/be11abac-c90e-489d-a9e8-6fb7b426868b.jpg",
+    "thumbnail_url": "https://theblop.org/assets/images/be11abac-c90e-489d-a9e8-6fb7b426868b-thumb.jpg",
+    "canonical_id": "",
+    "permalink": "https://theblop.org/events/be11abac-c90e-489d-a9e8-6fb7b426868b.html",
+    "ical": "https://theblop.org/assets/ical/be11abac-c90e-489d-a9e8-6fb7b426868b.ics",
+    "raw_text": "MAY DAY! MAY DAY! STAND UP FOR IMMIGRANTS STAND UP FOR UNIONS STAND UP FOR LABOR THURSDAY MAY 1ST 4–5:30 PM IOWA STATE CAPITOL BUILDING IOWA COALITION",
+    "raw_summary": "The flyer announces \"May Day\" with a call to stand up for immigrants, unions, and labor. The event takes place on May 1st from 4 to 5:30 PM at the Iowa State Capitol Building, organized by the Iowa Coalition."
   },
   {
     "id": "adfc5b0b-9ca9-4889-a0b4-b607c177cb6b",

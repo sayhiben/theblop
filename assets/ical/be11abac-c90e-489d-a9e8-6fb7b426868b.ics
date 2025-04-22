@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:31abcc90-1968-4a54-bd1b-85b969f147c8
+SEQUENCE:0
+DTSTAMP:20250422T031702Z
+DTSTART:20250501T160000
+DTEND:20250501T180000
+SUMMARY:May Day! May Day!
+LOCATION:Iowa State Capitol Building\, Des Moines\, IA
+DESCRIPTION:Join the Iowa Coalition on May Day to stand up for immigrants\
+ , unions\, and labor rights at the Iowa State Capitol Building.\n\nIowa St
+ ate Capitol Building
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Iowa+State+C
+ apitol+Building%2C+Des+Moines%2C+IA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

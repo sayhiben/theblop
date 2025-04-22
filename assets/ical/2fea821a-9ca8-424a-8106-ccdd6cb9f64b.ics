@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:05459f78-a8d8-472c-92f8-f77754082a25
+SEQUENCE:0
+DTSTAMP:20250422T031702Z
+DTSTART:20250501T170000
+DTEND:20250501T190000
+SUMMARY:National Day of Action
+LOCATION:Veterans Memorial Bridge
+DESCRIPTION:We are hosting a National Day of Action to protest and speak o
+ ut against the billionaire agenda. Join us for a protest on the bridge and
+  speeches at Woodlawn Park.\n\nVeterans Memorial Bridge
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Veterans+Mem
+ orial+Bridge&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

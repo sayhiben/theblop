@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:ce440c08-a782-4de4-b7b7-fa4b472efd43
+SEQUENCE:0
+DTSTAMP:20250422T031702Z
+DTSTART:20250426T133000
+DTEND:20250426T153000
+SUMMARY:Let Them Eat Cake" Protest
+LOCATION:NE corner of Roberts St N & 2nd Ave N\, Fargo\, ND
+DESCRIPTION:We are organizing a protest against Federal budget cuts. Bring
+  your signs and your sweet tooth to join us.\n\nDowntown Fargo
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=NE+corner+of
+ +Roberts+St+N+%26+2nd+Ave+N%2C+Fargo%2C+ND&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
