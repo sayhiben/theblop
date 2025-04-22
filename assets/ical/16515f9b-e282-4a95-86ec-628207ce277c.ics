@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:5acfef35-16d8-48d5-9ea6-be81e0e4ea4c
+SEQUENCE:0
+DTSTAMP:20250422T000604Z
+DTSTART:20250422T120000
+DTEND:20250422T140000
+SUMMARY:FOX: STOP CHEERING I.C.E. KIDNAPPERS
+LOCATION:1211 6th Avenue (48th St.)\, New York City\, NY
+DESCRIPTION:Join us in a protest against I.C.E.'s actions and support the 
+ cause to bring back individuals and stand against policies separating fami
+ lies and communities. Organized by Truth Tuesdays at Fox Lies HQ and Rise 
+ and Resist.\n\nFox Lies HQ
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=1211+6th+Ave
+ nue+%2848th+St.%29%2C+New+York+City%2C+NY&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
