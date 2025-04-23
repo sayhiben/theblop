@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:47d05971-801d-4025-8c62-6da04f923644
+SEQUENCE:0
+DTSTAMP:20250423T060320Z
+DTSTART:20250428T163000
+DTEND:20250428T183000
+SUMMARY:Olympia Visibility Brigade
+LOCATION:Boulevard Rd SE over I-5\, East Olympia\, WA
+DESCRIPTION:We deploy each weekend on overpasses in the Olympia-Tumwater-L
+ acey area. Join us on Mondays during evening rush hour to support Capitol 
+ protests. Bring protest signs\, flags\, and costumes.\n\nEast Olympia
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Boulevard+Rd
+ +SE+over+I-5%2C+East+Olympia%2C+WA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
