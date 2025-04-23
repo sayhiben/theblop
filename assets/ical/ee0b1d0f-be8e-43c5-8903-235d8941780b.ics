@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:3668ef1a-d84b-4187-869d-86b0f9429c06
+SEQUENCE:0
+DTSTAMP:20250423T210255Z
+DTSTART:20250501T160000
+DTEND:20250501T180000
+SUMMARY:MAY DAY
+LOCATION:\, St. Pete\, FL
+DESCRIPTION:Join us at Williams Park for a peaceful visibility event to st
+ and up for the rule of law and for our democracy!\n\nWilliams Park
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+St.+Pete
+ %2C+FL&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
