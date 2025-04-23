@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:12b92f4c-f3c3-4966-a9c3-81873d8808b9
+SEQUENCE:0
+DTSTAMP:20250423T000601Z
+DTSTART:20250426T160000
+DTEND:20250426T180000
+SUMMARY:Worker Safety Under Attack: Stories from the Fightback
+LOCATION:1902 E. Irene Vista\, Tucson\, AZ
+DESCRIPTION:We are hosting a workshop presented by the Health and Safety C
+ ommittee of the Arizona Jobs with Justice Coalition\, focusing on worker s
+ afety during the COVID pandemic and organizing efforts for workers’ righ
+ ts. Testimonies from workers and advocates will highlight workplace safety
+  issues.\n\nSalt of the Earth Labor College
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=1902+E.+Iren
+ e+Vista%2C+Tucson%2C+AZ&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

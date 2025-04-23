@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:4bb6415d-a840-450f-950b-07c2f7ab97b5
+SEQUENCE:0
+DTSTAMP:20250423T000601Z
+DTSTART:20250501T173000
+DTEND:20250501T193000
+SUMMARY:INTL. WORKERS' DAY RALLY
+LOCATION:IL State Capitol\, Springfield\, IL
+DESCRIPTION:A rally to promote solidarity and advocate for various social 
+ issues including defending union jobs\, free speech\, and LGBTQ rights whi
+ le opposing deportations and the rule of billionaires.\n\nIL State Capitol
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=IL+State+Cap
+ itol%2C+Springfield%2C+IL&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

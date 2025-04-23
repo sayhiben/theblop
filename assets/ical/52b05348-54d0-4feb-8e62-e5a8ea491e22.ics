@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:f2e81ec4-5a0e-422d-a37c-4edf69dff7d0
+SEQUENCE:0
+DTSTAMP:20250423T000601Z
+DTSTART:20250503T120000
+DTEND:20250503T140000
+SUMMARY:Impeach Convict Remove
+LOCATION:401 S 2nd St\, Springfield\, IL
+DESCRIPTION:Join our national movement to impeach\, convict\, and remove c
+ orrupt politicians and billionaires from office. Participate in one of 50 
+ protests happening across the states.\n\n(Lincoln Statue)\, Illinois State
+  Capitol
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=401+S+2nd+St
+ %2C+Springfield%2C+IL&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
