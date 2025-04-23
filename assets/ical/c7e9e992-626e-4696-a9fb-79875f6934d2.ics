@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:eeec8ed3-2df0-4ad3-a7e8-5aa796fda6a5
+SEQUENCE:0
+DTSTAMP:20250423T180339Z
+DTSTART:20250501T163000
+DTEND:20250501T183000
+SUMMARY:St Pete Rush Hour #Resistance
+LOCATION:\, St. Petersburg\, FL
+DESCRIPTION:Join us for a national day of action in St. Petersburg\, where
+  we will gather to demonstrate and resist. This event organized by the Lea
+ gue of Women Voters aims to bring the community together at two overpasses
+  on I-275.\n\nTwo overpasses on I-275
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+St.+Pete
+ rsburg%2C+FL&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

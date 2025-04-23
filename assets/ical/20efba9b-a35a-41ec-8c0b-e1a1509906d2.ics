@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:95112f69-4bd1-49a2-8413-0d132241da3c
+SEQUENCE:0
+DTSTAMP:20250423T180339Z
+DTSTART:20250501T183000
+DTEND:20250501T203000
+SUMMARY:May Day
+LOCATION:Collier County Courthouse\, Naples\, FL
+DESCRIPTION:This event is a call to action to defend rights\, with a gathe
+ ring scheduled to express solidarity and resistance.\n\nCollier County Cou
+ rthouse
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Collier+Coun
+ ty+Courthouse%2C+Naples%2C+FL&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

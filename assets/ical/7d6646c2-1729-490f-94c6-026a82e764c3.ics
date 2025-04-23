@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:2b658133-ce27-4609-bd06-972342995adb
+SEQUENCE:0
+DTSTAMP:20250423T180339Z
+DTSTART:20250501T183000
+DTEND:20250501T203000
+SUMMARY:International Worker's Day 2025
+LOCATION:501 W Adams St\, Jacksonville\, FL
+DESCRIPTION:Join us in Jacksonville to stand up for workers' and immigrant
+ s' rights on International Worker's Day. The event gathers community suppo
+ rt for these causes.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=501+W+Adams+
+ St%2C+Jacksonville%2C+FL&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

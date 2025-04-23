@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:3476da1c-4915-442c-a790-e4472bcdc5bf
+SEQUENCE:0
+DTSTAMP:20250423T180339Z
+DTSTART:20250503T120000
+DTEND:20250503T140000
+SUMMARY:Impeach Convict Remove Protest
+LOCATION:Outside BCPA\, 600 N. East Street\, Bloomington\, IL
+DESCRIPTION:We gather to impeach for unconstitutional overreach\, convict 
+ for unlawful use of power\, and remove corrupt politicians and billionaire
+ s from office in a peaceful\, non-violent demonstration to save our democr
+ acy.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Outside+BCPA
+ %2C+600+N.+East+Street%2C+Bloomington%2C+IL&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

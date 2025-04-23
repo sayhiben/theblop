@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:2d8a5dc7-c754-44f7-9b0e-82f9e84ac8b7
+SEQUENCE:0
+DTSTAMP:20250423T180339Z
+DTSTART:20250501T160000
+DTEND:20250501T180000
+SUMMARY:National Day of Action
+LOCATION:US 19 & Curlew\, Dunedin/Palm Harbor\, FL
+DESCRIPTION:Join us for a National Day of Action organized by Indivisible 
+ North Pinellas and the 50501 Movement to protect our constitution. The eve
+ nt emphasizes community action and advocacy against tariffs.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=US+19+%26+Cu
+ rlew%2C+Dunedin%2FPalm+Harbor%2C+FL&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

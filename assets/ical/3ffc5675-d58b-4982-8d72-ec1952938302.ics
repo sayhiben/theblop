@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:1fa1646e-d7d4-4ce1-ad22-5aedaa7fa65b
+SEQUENCE:0
+DTSTAMP:20250423T180339Z
+DTSTART:20250501T180000
+DTEND:20250501T200000
+SUMMARY:May Day Protest
+LOCATION:\, Gainesville\, FL
+DESCRIPTION:We are organizing a protest for International Workers' Day to 
+ advocate for workers' rights and celebrate labor solidarity.\n\nDepot Ave 
+ & Main St
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+Gainesvi
+ lle%2C+FL&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

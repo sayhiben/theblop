@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:8efc3e38-9e7d-4407-94d4-c7965f337c2b
+SEQUENCE:0
+DTSTAMP:20250423T180339Z
+DTSTART:20250503T120000
+DTEND:20250503T140000
+SUMMARY:National Day of Action Rally
+LOCATION:Cache County Historic Courthouse\, Main Street\, Logan\, UT
+DESCRIPTION:We invite you to join us for a National Day of Action Rally fe
+ aturing music and speeches\, promoting the spirit "Dissent is Patriotic."\
+ n\nCache County Historic Courthouse
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Cache+County
+ +Historic+Courthouse%2C+Main+Street%2C+Logan%2C+UT&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
