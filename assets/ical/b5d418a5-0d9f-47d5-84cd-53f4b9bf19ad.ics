@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:733b0690-f23e-4b61-8e12-7db335d9ea41
+SEQUENCE:0
+DTSTAMP:20250424T031809Z
+DTSTART:20250501T170000
+DTEND:20250501T190000
+SUMMARY:May Day Protest
+LOCATION:Hwys 101 & 20\, Newport\, OR
+DESCRIPTION:Join us in a protest to support NOAA and other federal workers
+ .\n\nHwys 101 & 20
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Hwys+101+%26
+ +20%2C+Newport%2C+OR&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

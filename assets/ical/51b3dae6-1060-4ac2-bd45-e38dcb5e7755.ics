@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:3eed5f6d-5c83-4d95-9c02-737920310619
+SEQUENCE:0
+DTSTAMP:20250424T031809Z
+DTSTART:20250501T120000
+DTEND:20250501T140000
+SUMMARY:MAYDAY! MAYDAY!
+LOCATION:Intersection of 5th St. and Bridge St.\, Clarkston\, WA
+DESCRIPTION:Join us to support democracy and oppose fascism. This event is
+  open to all who wish to stand up for workers' rights and solidarity.\n\nA
+ lbertson's
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Intersection
+ +of+5th+St.+and+Bridge+St.%2C+Clarkston%2C+WA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

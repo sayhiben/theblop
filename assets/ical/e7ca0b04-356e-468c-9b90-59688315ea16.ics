@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:2619d41c-6697-48e4-b650-66913221ae14
+SEQUENCE:0
+DTSTAMP:20250424T031809Z
+DTSTART:20250501T173000
+DTEND:20250501T193000
+SUMMARY:May Day Rally
+DESCRIPTION:Celebrate International Worker’s Day and the power of our la
+ bor in the community! Connect with members of local unions and organizatio
+ ns. Wear your union gear to the rally.\n\nPark Blocks
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=&zoom=15&bas
+ emap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
