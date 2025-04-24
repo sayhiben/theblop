@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:a2d29b84-b2fe-4fef-aef7-eca7b464f553
+SEQUENCE:0
+DTSTAMP:20250424T150310Z
+DTSTART:20250501T160000
+DTEND:20250501T180000
+SUMMARY:A 4-Day Boycott & Strike for Immigrant Justice
+DESCRIPTION:Join us for a series of non-violent actions including a march\
+ , community event\, and salsa shutdown to support immigrant justice.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=&zoom=15&bas
+ emap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
