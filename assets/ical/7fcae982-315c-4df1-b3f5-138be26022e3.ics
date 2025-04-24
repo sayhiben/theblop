@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:05473aa4-a6db-4480-babe-a5a8758e4b38
+SEQUENCE:0
+DTSTAMP:20250424T060318Z
+DTSTART:20250501T153000
+DTEND:20250501T173000
+SUMMARY:May Day Rally & March
+LOCATION:31211 Yakima Valley Hwy\, Sunnyside\, WA
+DESCRIPTION:Join our rally and march for our people\, our land\, and our f
+ uture. The event features a march starting at 3:30 PM and concludes with a
+  celebration and resource fair at Sunnyview Park.\n\nPublic Parking in fro
+ nt of Bleyhls
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=31211+Yakima
+ +Valley+Hwy%2C+Sunnyside%2C+WA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

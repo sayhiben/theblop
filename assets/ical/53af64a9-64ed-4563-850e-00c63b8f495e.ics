@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:35a4883a-f7d8-4248-853b-b8bf1d79c307
+SEQUENCE:0
+DTSTAMP:20250424T060318Z
+DTSTART:20250501T153000
+DTEND:20250501T173000
+SUMMARY:Únete a Nuestra Reunión y Marcha
+LOCATION:31211 Yakima Valley Hwy\, Sunnyside\, WA
+DESCRIPTION:Join us in our meeting and march for our community\, our land\
+ , and our future. The event will start with a march\, followed by a celebr
+ ation and resource fair.\n\nPublic parking lot near Bleyhls
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=31211+Yakima
+ +Valley+Hwy%2C+Sunnyside%2C+WA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

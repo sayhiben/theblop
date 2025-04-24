@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:924d1f70-a691-4493-abe9-de5253496ac6
+SEQUENCE:0
+DTSTAMP:20250424T060318Z
+DTSTART:20250501T120000
+DTEND:20250501T140000
+SUMMARY:May Day Strong: We Are the Many
+LOCATION:125 E Eighth Ave\, Eugene\, OR
+DESCRIPTION:Join us on May 1\, 2025\, in Eugene\, Oregon\, as we come toge
+ ther to oppose the billionaire takeover and stand united for wealth equali
+ ty. The event will feature talks and a public gathering to express our sol
+ idarity.\n\nLane County Circuit Court
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=125+E+Eighth
+ +Ave%2C+Eugene%2C+OR&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
