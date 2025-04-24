@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:d453fcc6-8d44-43a6-a569-f6da24fd92b6
+SEQUENCE:0
+DTSTAMP:20250424T120316Z
+DTSTART:20250426T120000
+DTEND:20250426T140000
+SUMMARY:Free State Days
+LOCATION:Douglas & Broadway\, Wichita\, KS
+DESCRIPTION:This is a Kansas-wide demonstration aimed at promoting local c
+ ivic engagement\, organized by Defend Democracy - Wichita.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Douglas+%26+
+ Broadway%2C+Wichita%2C+KS&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
