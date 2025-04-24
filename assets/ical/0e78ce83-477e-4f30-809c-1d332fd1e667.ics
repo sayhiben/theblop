@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:1449fecd-dcfe-48a3-8fc4-b77135aff5bc
+SEQUENCE:0
+DTSTAMP:20250424T180316Z
+DTSTART:20250501T170000
+DTEND:20250501T190000
+SUMMARY:MAY DAY: Nationwide Day of Action
+LOCATION:Intersection of Monterey Rd and US 1\, Stuart\, FL
+DESCRIPTION:Join us for this peaceful protest organized by SLC Dems in Stu
+ art. We demand justice\, equity\, and dignity for all workers and families
+ .\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Intersection
+ +of+Monterey+Rd+and+US+1%2C+Stuart%2C+FL&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

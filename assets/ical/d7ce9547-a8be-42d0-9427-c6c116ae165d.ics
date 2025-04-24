@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:8bc45697-8a3a-475f-81c6-092cda7390ba
+SEQUENCE:0
+DTSTAMP:20250424T180316Z
+DTSTART:20250428T120000
+DTEND:20250428T140000
+SUMMARY:Tesla Picket
+LOCATION:2919 29th St SE\, Grand Rapids\, MI
+DESCRIPTION:Join us for a Tesla picket event as we protest at the Tesla lo
+ cation in Grand Rapids.\n\nTesla Building
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=2919+29th+St
+ +SE%2C+Grand+Rapids%2C+MI&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

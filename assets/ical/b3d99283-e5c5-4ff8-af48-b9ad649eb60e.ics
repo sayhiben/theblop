@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:4b15ddec-120f-4186-96cb-39bcc62cb9fd
+SEQUENCE:0
+DTSTAMP:20250424T180316Z
+DTSTART:20250501T160000
+DTEND:20250501T180000
+SUMMARY:May Day National Day of Action
+LOCATION:\, Fort Collins\, CO
+DESCRIPTION:Join us to line the streets for democracy and protest at key i
+ ntersections in Fort Collins\, CO. It's a peaceful event welcoming everyon
+ e to express support for democracy.\n\nCollege Avenue at Mulberry\, Prospe
+ ct\, Drake\, and Horsetooth
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+Fort+Col
+ lins%2C+CO&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

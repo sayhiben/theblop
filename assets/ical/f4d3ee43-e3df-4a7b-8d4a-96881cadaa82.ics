@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:4ffb30fe-35ae-4df7-ad9d-c12dd46c0b38
+SEQUENCE:0
+DTSTAMP:20250424T180316Z
+DTSTART:20250501T163000
+DTEND:20250501T183000
+SUMMARY:May Day National Day of Action
+LOCATION:Red Bug Road and West State Road 426\, Near the Pedestrian Bridge
+ \, Oviedo\, FL
+DESCRIPTION:Join us for a peaceful protest in celebration of International
+  Labor Day in Oviedo\, Seminole County. Stop by anytime during the schedul
+ ed hours to show your support.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Red+Bug+Road
+ +and+West+State+Road+426%2C+Near+the+Pedestrian+Bridge%2C+Oviedo%2C+FL&zoo
+ m=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

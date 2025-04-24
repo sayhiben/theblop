@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:d1f29e6c-1a50-4d97-a8f1-33c9cab002bb
+SEQUENCE:0
+DTSTAMP:20250424T180316Z
+DTSTART:20250501T103000
+DTEND:20250501T123000
+SUMMARY:May Day National Day of Action
+LOCATION:820 Old Camp Rd\, The Villages\, FL 32162
+DESCRIPTION:Join us for a roadside\, sign-holding rally as part of the Nat
+ ional Day of Action. Hosted by Rochelle Bosley Larson and Casey Marr\, thi
+ s event aims to bring people together in support of our cause.\n\nLake Sum
+ ter Landing rotary next to Morse Blvd
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=820+Old+Camp
+ +Rd%2C+The+Villages%2C+FL+32162&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

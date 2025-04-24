@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:f8a6547e-37c5-42f1-9942-b643250dde35
+SEQUENCE:0
+DTSTAMP:20250424T180316Z
+DTSTART:20250504T123000
+DTEND:20250504T143000
+SUMMARY:May Day Picnic
+LOCATION:1420 E Stuart St\, Fort Collins\, CO
+DESCRIPTION:Let's come together in solidarity\, build community\, and disc
+ uss how we will organize to support working families and fully fund public
+  education with food\, games\, and local speakers.\n\nEdora Park
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=1420+E+Stuar
+ t+St%2C+Fort+Collins%2C+CO&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

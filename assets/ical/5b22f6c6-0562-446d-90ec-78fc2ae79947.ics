@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:efecb83b-3cf3-4162-8533-844e00a39723
+SEQUENCE:0
+DTSTAMP:20250424T180316Z
+DTSTART:20250426T100000
+DTEND:20250426T120000
+SUMMARY:The People's Town Hall: Where is Gabe?
+LOCATION:802 9th St\, Greeley\, CO
+DESCRIPTION:We are holding a community town hall to demand accountability 
+ from Representative Gabe Evans. He has been absent and we invite him to ex
+ plain his positions to his district.\n\nMoxi Theater
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=802+9th+St%2
+ C+Greeley%2C+CO&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
