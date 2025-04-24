@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:3e6becff-ad8b-4c44-9e09-5740cb61d6e3
+SEQUENCE:0
+DTSTAMP:20250424T210253Z
+DTSTART:20250427T133000
+DTEND:20250427T153000
+SUMMARY:People Power + Action Training
+LOCATION:Columbus Circle
+DESCRIPTION:Explore People Power and prepare to take action together in th
+ is interactive\, experiential workshop.\n\nColumbus Circle
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Columbus+Cir
+ cle&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

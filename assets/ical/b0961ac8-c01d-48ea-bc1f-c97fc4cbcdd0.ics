@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:31618283-9ec9-42e0-816c-991816b352ee
+SEQUENCE:0
+DTSTAMP:20250424T210253Z
+DTSTART:20250501T170000
+DTEND:20250501T190000
+SUMMARY:May Day Strong
+LOCATION:Freedom Park\, Lakeland\, FL
+DESCRIPTION:Join us for a peaceful\, family-friendly sign-waving event in 
+ celebration of May Day and Floridian workers. Activities include sign-maki
+ ng\, May Day address\, and a procession.\n\nFreedom Park
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Freedom+Park
+ %2C+Lakeland%2C+FL&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
