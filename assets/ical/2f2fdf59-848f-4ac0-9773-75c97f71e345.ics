@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:cf4c67f0-8401-4590-a416-cd9bab8abe31
+SEQUENCE:0
+DTSTAMP:20250424T000609Z
+DTSTART:20250501T110000
+DTEND:20250501T130000
+SUMMARY:May Day
+LOCATION:205 N Dixie Hwy\, West Palm Beach\, FL
+DESCRIPTION:Join us for a National Day of Action at the Clerk of the Circu
+ it Court & Comptroller in Palm Beach County.\n\nClerk of the Circuit Court
+  & Comptroller\, Palm Beach County
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=205+N+Dixie+
+ Hwy%2C+West+Palm+Beach%2C+FL&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

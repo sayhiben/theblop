@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:d2ea587a-fa5d-4875-940a-027ad590291b
+SEQUENCE:0
+DTSTAMP:20250424T000609Z
+DTSTART:20250426T120000
+DTEND:20250426T140000
+SUMMARY:Democracy Saturdays
+LOCATION:Fountain Square\, Evanston\, Evanston\, IL
+DESCRIPTION:Join us every Saturday at Fountain Square\, Evanston\, from 12
+ -2 PM for Democracy Saturdays. We stand for community engagement and democ
+ racy with messages like 'No Kings\, No Nazis'.\n\nFountain Square
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Fountain+Squ
+ are%2C+Evanston%2C+Evanston%2C+IL&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

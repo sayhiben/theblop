@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:3bc50b75-9da9-4a1d-a6ee-561024534916
+SEQUENCE:0
+DTSTAMP:20250424T000609Z
+DTSTART:20250501T120000
+DTEND:20250501T140000
+SUMMARY:May Day - National Day of Action
+LOCATION:Topeka Capitol\, Topeka\, KS
+DESCRIPTION:Join us for the National Day of Action on May Day at the Topek
+ a Capitol. We will have speakers\, a march\, interactive tables\, networki
+ ng\, and encourage participants to take part in a “sick out” if possib
+ le.\n\nTopeka Capitol
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Topeka+Capit
+ ol%2C+Topeka%2C+KS&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

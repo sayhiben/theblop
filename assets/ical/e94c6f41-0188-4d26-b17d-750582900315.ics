@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:8f073cc7-efff-443b-aadf-ad5c20dbe5b0
+SEQUENCE:0
+DTSTAMP:20250424T000609Z
+DTSTART:20250501T170000
+DTEND:20250501T190000
+SUMMARY:May Day Rally
+LOCATION:\, Las Vegas\, NV
+DESCRIPTION:We are organizing a rally to unite the community in advocating
+  for housing\, healthcare\, fair wages\, union protection\, and safety—r
+ egardless of race\, zip code\, or immigration status. Join us to bring hom
+ e Kilmar and stop the billionaire takeover of our country.\n\nLas Vegas St
+ rip (Las Vegas Blvd & Flamingo Road)
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+Las+Vega
+ s%2C+NV&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

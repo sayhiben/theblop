@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:456120d1-cf17-4318-96be-74474eeb9d54
+SEQUENCE:0
+DTSTAMP:20250424T000609Z
+DTSTART:20250501T170000
+DTEND:20250501T190000
+SUMMARY:May Day Rally
+LOCATION:Las Vegas Strip (Las Vegas Blvd & Flamingo Road)\, Las Vegas\, NV
+DESCRIPTION:Join us as we raise our voices to Bring Home Kilmar and to Sto
+ p the Billionaire Takeover of OUR Country! May Day 2025 we are standing un
+ ited. We're organizing for a world where every family has housing\, health
+ care\, fair wages\, union protection\, and safety—regardless of race\, z
+ ip code\, or immigration status.\n\nLas Vegas Strip
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Las+Vegas+St
+ rip+%28Las+Vegas+Blvd+%26+Flamingo+Road%29%2C+Las+Vegas%2C+NV&zoom=15&base
+ map=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

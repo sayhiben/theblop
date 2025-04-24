@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:dabb322b-2512-4387-9fdd-53f222c497b2
+SEQUENCE:0
+DTSTAMP:20250424T000609Z
+DTSTART:20250503T130000
+DTEND:20250503T150000
+SUMMARY:Pro Union - Pro Labor Rally
+LOCATION:George Washington Park Sidewalk\, S. Pearl St.\, Centralia\, WA
+DESCRIPTION:Join us for a pro-union and pro-labor rally to show support fo
+ r labor rights and unionization efforts.\n\nGeorge Washington Park Sidewal
+ k
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=George+Washi
+ ngton+Park+Sidewalk%2C+S.+Pearl+St.%2C+Centralia%2C+WA&zoom=15&basemap=roa
+ dmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

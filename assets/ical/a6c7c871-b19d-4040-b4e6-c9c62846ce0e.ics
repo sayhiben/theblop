@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:e0666c12-e43b-4f22-9819-4519d9e55c15
+SEQUENCE:0
+DTSTAMP:20250424T000609Z
+DTSTART:20250501T170000
+DTEND:20250501T190000
+SUMMARY:May Day Rally
+LOCATION:Las Vegas Strip (Las Vegas Blvd & Flamingo Road)\, Las Vegas\, NV
+DESCRIPTION:Join us as we raise our voices to bring about changes in housi
+ ng\, healthcare\, and wages. We unite to oppose the takeover by billionair
+ es and support union protection and safety.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Las+Vegas+St
+ rip+%28Las+Vegas+Blvd+%26+Flamingo+Road%29%2C+Las+Vegas%2C+NV&zoom=15&base
+ map=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
