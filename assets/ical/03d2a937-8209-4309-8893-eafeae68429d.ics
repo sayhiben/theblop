@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:44b73a7b-9be5-4d4d-ad4e-8b66052afb28
+SEQUENCE:0
+DTSTAMP:20250425T031755Z
+DTSTART:20250501T160000
+DTEND:20250501T180000
+SUMMARY:May 1st Coalition Fresno\, CA
+LOCATION:Corner of N. Blackstone Ave & W. Alluvial Ave\, Fresno\, CA
+DESCRIPTION:Join us to stop deportations and family separations. Defend ri
+ ghts\, rise and organize at the corner of N. Blackstone Ave & W. Alluvial 
+ Ave.\n\nCorner of N. Blackstone Ave & W. Alluvial Ave
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Corner+of+N.
+ +Blackstone+Ave+%26+W.+Alluvial+Ave%2C+Fresno%2C+CA&zoom=15&basemap=roadma
+ p
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
