@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:08b7c474-5dc9-4237-82eb-d804466b239f
+SEQUENCE:0
+DTSTAMP:20250425T120324Z
+DTSTART:20250426T133000
+DTEND:20250426T153000
+SUMMARY:OUR POWER\, OUR PLANET!
+LOCATION:Utah State Capitol Steps\, Salt Lake City\, UT
+DESCRIPTION:Come together to celebrate Earth Day\, learn about the current
+  state of our local environment\, and empower the community to advocate fo
+ r change! The event features public speakers\, musical performances\, and 
+ tabling by local nonprofit\, grassroots\, and club organizations.\n\nUtah 
+ State Capitol Steps
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Utah+State+C
+ apitol+Steps%2C+Salt+Lake+City%2C+UT&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

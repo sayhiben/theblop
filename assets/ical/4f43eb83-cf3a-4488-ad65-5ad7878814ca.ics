@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:800147fa-1775-45c6-ae22-98352ad0b954
+SEQUENCE:0
+DTSTAMP:20250425T120325Z
+DTSTART:20250518T120000
+DTEND:20250518T140000
+SUMMARY:Save Our Trees!
+LOCATION:Utah Capitol Building-South Steps\, Salt Lake City\, UT
+DESCRIPTION:Join us in protesting the actions being taken by President Tru
+ mp\, Elon Musk\, and DOGE to dismantle systems meant to protect our planet
+  from climate change and other environmental threats.\n\nSouth Steps\, Uta
+ h Capitol Building
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Utah+Capitol
+ +Building-South+Steps%2C+Salt+Lake+City%2C+UT&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
