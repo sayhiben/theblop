@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:0a31b05e-1958-451e-b5da-8f57a64bcc79
+SEQUENCE:0
+DTSTAMP:20250425T000626Z
+DTSTART:20250430T071500
+DTEND:20250430T091500
+SUMMARY:Courage Not Compliance
+LOCATION:Samuel Gompers Memorial Park
+DESCRIPTION:This is a mobilization event aimed at resisting fascism\, enco
+ uraging participants to take action together.\n\nSamuel Gompers Memorial P
+ ark
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Samuel+Gompe
+ rs+Memorial+Park&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

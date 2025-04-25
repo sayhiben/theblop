@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:cdc60ee8-315f-4c72-aa35-d43f30ddc5c8
+SEQUENCE:0
+DTSTAMP:20250425T000626Z
+DTSTART:20250503T113000
+DTEND:20250503T133000
+SUMMARY:Hands Off Rally
+LOCATION:Route 64 & Fieldgate Dr\, St. Charles\, IL
+DESCRIPTION:Join us on May 3rd to stand against the policy changes impacti
+ ng our community. We aim to make our voices heard and demand action. Regis
+ ter at the given link to participate.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Route+64+%26
+ +Fieldgate+Dr%2C+St.+Charles%2C+IL&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

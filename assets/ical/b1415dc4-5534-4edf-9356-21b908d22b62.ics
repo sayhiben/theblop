@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:71990889-9907-49d9-980f-c6614032da8a
+SEQUENCE:0
+DTSTAMP:20250425T000626Z
+DTSTART:20250426T100000
+DTEND:20250426T120000
+SUMMARY:Tesla Takedown
+LOCATION:Tesla Gallery @ The Yard\, 500 E St Elmo Rd\, Austin\, TX
+DESCRIPTION:A lawful\, nonviolent civil resistance of Trump and his enable
+ rs. Let's make Elon cry some more.\n\nTesla Gallery @ The Yard
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Tesla+Galler
+ y+%40+The+Yard%2C+500+E+St+Elmo+Rd%2C+Austin%2C+TX&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
