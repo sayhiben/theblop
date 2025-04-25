@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:7b64ae26-e5f8-414a-9e6c-614cda4c9cae
+SEQUENCE:0
+DTSTAMP:20250425T180305Z
+DTSTART:20250501T170000
+DTEND:20250501T190000
+SUMMARY:May Day
+LOCATION:Foley Square\, New York City\, NY
+DESCRIPTION:Join us for the May Day gathering in New York City. We aim to 
+ stand united\, emphasizing the power of collective action with the message
+  'We are the many. They are the few.'\n\nFoley Square
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Foley+Square
+ %2C+New+York+City%2C+NY&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
