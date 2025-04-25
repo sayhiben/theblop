@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:b5a44c47-2c43-4b8d-8bf0-a878c7b9b156
+SEQUENCE:0
+DTSTAMP:20250425T060312Z
+DTSTART:20250425T130000
+DTEND:20250425T150000
+SUMMARY:Protest at Coryn's Office
+LOCATION:1500 Broadway St\, Lubbock\, TX
+DESCRIPTION:Join us to demand accountability from local representatives. D
+ o not allow our elected officials to coddle Trump!\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=1500+Broadwa
+ y+St%2C+Lubbock%2C+TX&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
