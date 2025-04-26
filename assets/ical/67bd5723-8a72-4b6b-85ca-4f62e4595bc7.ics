@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:8adeb82d-0b1a-449e-ad57-ae74e6655e6d
+SEQUENCE:0
+DTSTAMP:20250426T210252Z
+DTSTART:20250501T110000
+DTEND:20250501T130000
+SUMMARY:National Day of Action
+LOCATION:Valencia Blvd & McBean Pkwy\, Valencia\, CA
+DESCRIPTION:We invite you to join a labor strike and peaceful protest to d
+ isrupt the system and stand up for our rights. Let's gather at "Good Troub
+ le Corner" to stop the billionaire agenda.\n\n"Good Trouble Corner"
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Valencia+Blv
+ d+%26+McBean+Pkwy%2C+Valencia%2C+CA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
