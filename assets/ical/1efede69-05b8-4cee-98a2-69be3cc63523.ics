@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:c7d11948-d3e1-4a51-b710-3d37c54b3160
+SEQUENCE:0
+DTSTAMP:20250426T060332Z
+DTSTART:20250501T090000
+DTEND:20250501T110000
+SUMMARY:International Workers Day
+LOCATION:Olympic & N. Figueroa\, Los Angeles\, CA
+DESCRIPTION:A mass mobilization event for International Workers Day\, brin
+ ging together workers to unite and advocate for their rights in downtown L
+ os Angeles.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Olympic+%26+
+ N.+Figueroa%2C+Los+Angeles%2C+CA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

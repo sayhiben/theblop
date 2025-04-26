@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:00cc9f22-c819-4fda-ad24-17c363295965
+SEQUENCE:0
+DTSTAMP:20250426T060332Z
+DTSTART:20250501T170000
+DTEND:20250501T190000
+SUMMARY:May Day: National Day of Action
+LOCATION:10500 Civic Center Dr\, Claremont\, CA
+DESCRIPTION:Join us for a National Day of Action with gatherings at two lo
+ cations. Participate in this significant event organized by Indivisible In
+ land Empire.\n\nRancho Cucamonga City Hall and Foothill Boulevard & North 
+ Indian Hill Boulevard
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=10500+Civic+
+ Center+Dr%2C+Claremont%2C+CA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

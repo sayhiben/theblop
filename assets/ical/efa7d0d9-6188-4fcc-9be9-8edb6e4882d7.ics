@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:b19ad182-8ad6-487d-958e-41f595266765
+SEQUENCE:0
+DTSTAMP:20250426T060332Z
+DTSTART:20250503T120000
+DTEND:20250503T140000
+SUMMARY:No Kings\, No Oligarchs
+LOCATION:Eureka Courthouse\, Eureka\, CA
+DESCRIPTION:Join us for a rally against oligarchy and support the communit
+ y with a food drive benefiting Food Not Bombs.\n\nEureka Courthouse
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Eureka+Court
+ house%2C+Eureka%2C+CA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

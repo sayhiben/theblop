@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:a4fc574d-e165-448e-a0c4-3f8927755f05
+SEQUENCE:0
+DTSTAMP:20250426T060332Z
+DTSTART:20250501T160000
+DTEND:20250501T180000
+SUMMARY:Fresno's 19th Annual May Day March
+LOCATION:Blackstone & Alluvial\, Fresno\, CA
+DESCRIPTION:Join us for the 19th Annual May Day March focused on immigrati
+ on reform and worker's rights\, organized by Fresno's May Day Coalition.\n
+ \nBlackstone & Alluvial
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Blackstone+%
+ 26+Alluvial%2C+Fresno%2C+CA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

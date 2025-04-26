@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:57f1b9d5-dff5-4ea4-97b9-73428fc72b5f
+SEQUENCE:0
+DTSTAMP:20250426T060332Z
+DTSTART:20250501T140000
+DTEND:20250501T160000
+SUMMARY:National Day of Action
+LOCATION:42170 Big Bear Blvd\, Big Bear Lake\, CA
+DESCRIPTION:Join us to resist the billionaire takeover on May Day. We stan
+ d together as the many against the few.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=42170+Big+Be
+ ar+Blvd%2C+Big+Bear+Lake%2C+CA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

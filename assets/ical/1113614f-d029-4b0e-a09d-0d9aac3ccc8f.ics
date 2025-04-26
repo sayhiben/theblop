@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:6f12a343-9a94-4ae9-bde2-cbb81bb7dd57
+SEQUENCE:0
+DTSTAMP:20250426T060332Z
+DTSTART:20250501T000000
+DTEND:20250501T020000
+SUMMARY:May Day
+DESCRIPTION:Join the San Joaquin Valley Resistance and the May Day Coaliti
+ on in observing and participating in the May Day event.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=&zoom=15&bas
+ emap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

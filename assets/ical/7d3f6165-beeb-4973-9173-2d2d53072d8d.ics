@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:527354e9-5340-4448-8fe5-3966e1aaf537
+SEQUENCE:0
+DTSTAMP:20250426T060332Z
+DTSTART:20250501T163000
+DTEND:20250501T183000
+SUMMARY:We Are Not Okay!
+LOCATION:Sidewalk in front of KC Government Ctr\, Hanford\, CA
+DESCRIPTION:Join us for the Hanford Protest on May Day as we stand against
+  the billionaire profiteers creating economic inequality. We are advocatin
+ g for families\, public schools\, healthcare\, and prosperity over corpora
+ te interest.\n\nKC Government Center
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Sidewalk+in+
+ front+of+KC+Government+Ctr%2C+Hanford%2C+CA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

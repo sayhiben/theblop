@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:3e1131cc-57c8-40f5-b2f2-10ffed686579
+SEQUENCE:0
+DTSTAMP:20250426T060332Z
+DTSTART:20250501T090000
+DTEND:20250501T110000
+SUMMARY:One Struggle\, One Fight—Workers Unite! May Day 2025
+LOCATION:Olympic Blvd & N. Figueroa\, Los Angeles\, CA
+DESCRIPTION:Join us for a rally and march on May Day 2025 to support labor
+  power\, immigrant rights\, and working-class unity. We aim to stand up fo
+ r these causes with strength and solidarity.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Olympic+Blvd
+ +%26+N.+Figueroa%2C+Los+Angeles%2C+CA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

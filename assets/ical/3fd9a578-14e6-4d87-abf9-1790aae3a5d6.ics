@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:a7076939-7ecd-4f51-816c-0a5fccbff6de
+SEQUENCE:0
+DTSTAMP:20250426T060332Z
+DTSTART:20250501T130000
+DTEND:20250501T150000
+SUMMARY:Rally for the Rule of Law
+LOCATION:Foley Square\, Manhattan\, NY
+DESCRIPTION:We\, as lawyers and allies\, must speak out to protect our leg
+ al system\, public’s legal rights\, constitutional democracy\, and judic
+ ial independence. Join us on Law Day to support the rule of law and make y
+ our voice heard.\n\nFoley Square\, Manhattan
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Foley+Square
+ %2C+Manhattan%2C+NY&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

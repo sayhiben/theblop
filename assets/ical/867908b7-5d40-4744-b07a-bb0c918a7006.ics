@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:5c1a1483-95fc-43e7-a23b-41b88a88826a
+SEQUENCE:0
+DTSTAMP:20250426T060332Z
+DTSTART:20250503T000000
+DTEND:20250503T020000
+SUMMARY:Diversity Against Fascism Rally
+LOCATION:\, Long Beach\, CA
+DESCRIPTION:Raising the voices of marginalized communities and learning ho
+ w to better support them. Reach out on our socials to get involved in orga
+ nizing.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+Long+Bea
+ ch%2C+CA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

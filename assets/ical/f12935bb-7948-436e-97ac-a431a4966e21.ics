@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:8e3b3388-1fa3-42c1-8ffd-7c22583bd5d5
+SEQUENCE:0
+DTSTAMP:20250426T060332Z
+DTSTART:20250501T160000
+DTEND:20250501T180000
+SUMMARY:May Day
+LOCATION:Corner of Pine Ave & Carlsbad Blvd\, next to Harbor Fish
+DESCRIPTION:We are reclaiming our power and will not be intimidated. Join 
+ us as we demand a new era and stand ready to fight against the billionaire
+  takeover.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Corner+of+Pi
+ ne+Ave+%26+Carlsbad+Blvd%2C+next+to+Harbor+Fish&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

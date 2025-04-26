@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:a6072f3b-bcd9-45e4-ab57-09b27c22fdd9
+SEQUENCE:0
+DTSTAMP:20250426T060332Z
+DTSTART:20250501T160000
+DTEND:20250501T180000
+SUMMARY:May 1st Coalition March in Fresno\, CA
+LOCATION:Corner of N. Blackstone Ave & W. Alluvial Ave\, Fresno\, CA
+DESCRIPTION:Join us for a march to stop deportations and family separation
+ s. Stand up\, speak out\, and organize!\n\nCorner of N. Blackstone Ave & W
+ . Alluvial Ave\, Fresno\, CA
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Corner+of+N.
+ +Blackstone+Ave+%26+W.+Alluvial+Ave%2C+Fresno%2C+CA&zoom=15&basemap=roadma
+ p
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
