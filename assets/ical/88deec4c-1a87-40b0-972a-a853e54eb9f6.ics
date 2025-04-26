@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:8d2d9ac7-aa11-415b-9336-91b464090ed0
+SEQUENCE:0
+DTSTAMP:20250426T031447Z
+DTSTART:20250501T120000
+DTEND:20250501T140000
+SUMMARY:Mayday Schedule of Events
+LOCATION:National Mall\, Washington\, D.C.
+DESCRIPTION:Join us for a series of events including speeches\, demonstrat
+ ions\, workshops\, and live art focused on themes such as The Resistance\,
+  Economy\, and more at the National Mall\, D.C.\n\nNational Mall
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=National+Mal
+ l%2C+Washington%2C+D.C.&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
