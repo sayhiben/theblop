@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:69137a66-3803-4156-be2f-4f993a9dfa49
+SEQUENCE:0
+DTSTAMP:20250426T150254Z
+DTSTART:20250502T163000
+DTEND:20250502T183000
+SUMMARY:March for Workers' Rights
+LOCATION:Lory Student Center Plaza\, CSU\, Fort Collins\, CO
+DESCRIPTION:Join us at the CSU Chapter of Young Democratic Socialists of A
+ merica and other labor groups as we march in support of laborers and labor
+  rights. We will march from Lory Student Center to the downtown post offic
+ e\, with speeches and actions for securing labor rights in Colorado.\n\nLo
+ ry Student Center Plaza
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Lory+Student
+ +Center+Plaza%2C+CSU%2C+Fort+Collins%2C+CO&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
