@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:ba1d54a1-397a-49cb-8d63-561e8711061f
+SEQUENCE:0
+DTSTAMP:20250426T180312Z
+DTSTART:20250427T140000
+DTEND:20250427T160000
+SUMMARY:Faith in Democracy Interfaith Rally and March
+LOCATION:Utah State Capitol Steps\, Salt Lake City\, UT
+DESCRIPTION:Welcoming faith communities standing together against tyranny.
+  Join us for rally and speeches at Utah State Capitol Steps\, followed by 
+ a march to Washington Square. All denominations are welcome.\n\nUtah State
+  Capitol Steps
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Utah+State+C
+ apitol+Steps%2C+Salt+Lake+City%2C+UT&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

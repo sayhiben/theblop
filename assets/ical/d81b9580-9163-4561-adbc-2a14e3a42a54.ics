@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:41d2179f-a777-4c2c-a675-a1f57f3567d4
+SEQUENCE:0
+DTSTAMP:20250426T180312Z
+DTSTART:20250525T140000
+DTEND:20250525T160000
+SUMMARY:Free Palestine Rally & Fundraiser Rave
+LOCATION:Utah State Capitol\, and The Pleaidian Altar\, Salt Lake City\, U
+ T
+DESCRIPTION:We are organizing a Free Palestine rally and fundraiser rave i
+ ncluding a rally at the Utah State Capitol and a rave at The Pleaidian Alt
+ ar.\n\nUtah State Capitol
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Utah+State+C
+ apitol%2C+and+The+Pleaidian+Altar%2C+Salt+Lake+City%2C+UT&zoom=15&basemap=
+ roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

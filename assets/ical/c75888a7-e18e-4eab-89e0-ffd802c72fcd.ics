@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:9b93935e-e325-472e-8705-fb915ce6272b
+SEQUENCE:0
+DTSTAMP:20250426T180312Z
+DTSTART:20250501T170000
+DTEND:20250501T190000
+SUMMARY:May Day in Buckhannon
+LOCATION:Upshur Co Courthouse\, Buckhannon\, WV
+DESCRIPTION:Celebrate International Worker’s Day and speak up for civil 
+ servants\, stop tariffs\, save social programs\, stand up for due process\
+ , protect immigrants\, and defend democracy. Activities include bringing p
+ osters\, hearing stories\, and a honk-and-wave.\n\nUpshur Co Courthouse
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Upshur+Co+Co
+ urthouse%2C+Buckhannon%2C+WV&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:15f3bc3d-c458-42bb-8eb0-cb8b3e15765c
+SEQUENCE:0
+DTSTAMP:20250426T180312Z
+DTSTART:20250525T140000
+DTEND:20250525T160000
+SUMMARY:Rally Info
+LOCATION:350 N State St\, Salt Lake City\, UT
+DESCRIPTION:Join us for a peaceful protest at the Utah State Capitol Build
+ ing. Please be respectful and clean up after yourself.\n\nUtah State Capit
+ ol Building South Steps
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=350+N+State+
+ St%2C+Salt+Lake+City%2C+UT&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

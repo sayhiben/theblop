@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:4a1f7783-8ee6-4ce3-b0fd-1a0b1ae26d8d
+SEQUENCE:0
+DTSTAMP:20250426T180312Z
+DTSTART:20250426T130000
+DTEND:20250426T150000
+SUMMARY:Emergency Protest
+LOCATION:72nd and Dodge\, Omaha\; Lincoln Capitol\, Lincoln\, Omaha\, Linc
+ oln\, NE
+DESCRIPTION:We are organizing an emergency protest today to bring attentio
+ n to various critical issues\, including the arrest of Judge Hannah Dugan\
+ , the deportation of U.S. citizen children by ICE\, and the DOJ memo allow
+ ing warrantless home entries. We aim to raise awareness and stand in solid
+ arity with other protests happening across the US.\n\n72nd and Dodge\, Oma
+ ha\; Lincoln Capitol\, Lincoln
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=72nd+and+Dod
+ ge%2C+Omaha%3B+Lincoln+Capitol%2C+Lincoln%2C+Omaha%2C+Lincoln%2C+NE&zoom=1
+ 5&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

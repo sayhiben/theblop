@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:cef8b834-2933-42d7-8a49-dbed011fd14e
+SEQUENCE:0
+DTSTAMP:20250426T180312Z
+DTSTART:20250427T120000
+DTEND:20250427T140000
+SUMMARY:Friendship Market
+LOCATION:2709 S. State St. SSL\, Salt Lake City\, UT
+DESCRIPTION:We're celebrating 10 years in business with all the creative f
+ riends we've made along the way! Featuring an Indie Artist & Vintage Lineu
+ p with various artists and vendors.\n\nCopperhive Vintage
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=2709+S.+Stat
+ e+St.+SSL%2C+Salt+Lake+City%2C+UT&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
