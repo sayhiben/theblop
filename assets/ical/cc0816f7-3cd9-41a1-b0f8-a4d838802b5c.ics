@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:bb4f8211-77fa-4fef-ad93-95f627b970d5
+SEQUENCE:0
+DTSTAMP:20250426T090406Z
+DTSTART:20250501T110000
+DTEND:20250501T130000
+SUMMARY:MAY DAY Solidarity Rally and March
+LOCATION:1515 Q St\, Sacramento\, CA
+DESCRIPTION:Join us as we march in the streets of Sacramento to celebrate 
+ International Workers' Day. Stand with striking UPTE workers from UC Davis
+  and other union workers to reject the billionaire agenda and demand chang
+ e.\n\nJohn C Fremont Park
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=1515+Q+St%2C
+ +Sacramento%2C+CA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

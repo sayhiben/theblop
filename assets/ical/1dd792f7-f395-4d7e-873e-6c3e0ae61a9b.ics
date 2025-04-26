@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:d938e1ac-b50a-43ad-bc90-a42d112db74a
+SEQUENCE:0
+DTSTAMP:20250426T090406Z
+DTSTART:20250503T153000
+DTEND:20250503T173000
+SUMMARY:Save Our Land\, Save Our Parks
+LOCATION:Utah State Capitol\, Southside Steps\, Salt Lake City\, UT
+DESCRIPTION:Join us for speeches\, tabling\, performances\, and more to ra
+ ise awareness and support for saving our parks at the Utah State Capitol.\
+ n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Utah+State+C
+ apitol%2C+Southside+Steps%2C+Salt+Lake+City%2C+UT&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

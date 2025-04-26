@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:de4fefe8-b160-4118-8a1c-1acf1b467c9e
+SEQUENCE:0
+DTSTAMP:20250426T090406Z
+DTSTART:20250503T120000
+DTEND:20250503T140000
+SUMMARY:Stop the Billionaire Takeover Peaceful Protest
+LOCATION:Torrance City Hall\, Torrance\, CA
+DESCRIPTION:Join us for a peaceful protest on May Day to stand united agai
+ nst the billionaire takeover. We aim for strong national action and collab
+ oration.\n\nTorrance City Hall
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Torrance+Cit
+ y+Hall%2C+Torrance%2C+CA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

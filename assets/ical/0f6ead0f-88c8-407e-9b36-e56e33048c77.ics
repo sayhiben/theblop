@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:354ec0da-b975-41f8-a9e1-cd16f722c9d1
+SEQUENCE:0
+DTSTAMP:20250426T090406Z
+DTSTART:20250503T110000
+DTEND:20250503T130000
+SUMMARY:Unite for Climate
+LOCATION:1600 Pacific Hwy\, San Diego\, CA
+DESCRIPTION:Join the family-friendly event to fight for the future and jus
+ tice with a rally\, march\, activities\, live music\, and speakers.\n\nWat
+ erfront Park
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=1600+Pacific
+ +Hwy%2C+San+Diego%2C+CA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

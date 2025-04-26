@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:3946c3a1-88eb-4cef-a217-f8fb1df5d09c
+SEQUENCE:0
+DTSTAMP:20250426T090406Z
+DTSTART:20250501T070000
+DTEND:20250501T090000
+SUMMARY:May Day Strong
+LOCATION:City Hall\, Tracy\, CA
+DESCRIPTION:Join Indivisible Tracy on May 1st for a day of action\, includ
+ ing a Visibility Brigade\, Honk & Wave\, and Rally at City Hall. We stand 
+ in solidarity with workers\, veterans\, students\, seniors\, and immigrant
+ s.\n\nCity Hall
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=City+Hall%2C
+ +Tracy%2C+CA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

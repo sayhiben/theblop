@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:2ddb021d-b8ed-47e4-8c25-858e9e82069a
+SEQUENCE:0
+DTSTAMP:20250426T090406Z
+DTSTART:20250501T160000
+DTEND:20250501T180000
+SUMMARY:Join the 50501 Movement
+LOCATION:401 N Harwood St\, Dallas\, TX
+DESCRIPTION:Join us for the 50501 Movement event\, gathering individuals t
+ o support our cause at Pacific Plaza in Dallas.\n\nPacific Plaza
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=401+N+Harwoo
+ d+St%2C+Dallas%2C+TX&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

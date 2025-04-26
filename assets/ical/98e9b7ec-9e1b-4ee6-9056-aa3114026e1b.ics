@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:e0c92619-72f3-461c-b450-709cc20b7228
+SEQUENCE:0
+DTSTAMP:20250426T090406Z
+DTSTART:20250503T120000
+DTEND:20250503T140000
+SUMMARY:Diversity Against Fascism
+LOCATION:Corner of Clark & Carson\, Long Beach\, CA
+DESCRIPTION:Celebrating the cultural diversity of Southern California. Ins
+ piring community care and a stronger democracy for all! Learning and const
+ ructing stronger coalitions together.\n\nHeartwell Park
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Corner+of+Cl
+ ark+%26+Carson%2C+Long+Beach%2C+CA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

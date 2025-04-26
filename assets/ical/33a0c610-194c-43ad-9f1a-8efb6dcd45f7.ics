@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:5a2d7bf5-2d6c-458c-a0eb-2e90a710f18c
+SEQUENCE:0
+DTSTAMP:20250426T090406Z
+DTSTART:20250502T180000
+DTEND:20250502T200000
+SUMMARY:Community Events: Know Your Rights Training
+LOCATION:\, San Luis Obispo\, CA
+DESCRIPTION:Join us for 'Know Your Rights' training sessions by Attorney a
+ nd activist Lubna Hammad. These events are tailored for community members\
+ , activists\, students\, and more. The May 3rd event includes a potluck di
+ nner focusing on people of color and the Muslim community.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+San+Luis
+ +Obispo%2C+CA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

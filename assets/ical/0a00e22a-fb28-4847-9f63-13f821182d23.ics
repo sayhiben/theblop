@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:b5c1b3fd-eff0-4f0c-86d5-569714e138d6
+SEQUENCE:0
+DTSTAMP:20250426T090406Z
+DTSTART:20250501T120000
+DTEND:20250501T140000
+SUMMARY:May Day: Next National Day of Protest
+LOCATION:451 S State Street\, Salt Lake City\, UT
+DESCRIPTION:Join us for the May Day protest to support labor rights\, econ
+ omic equality\, and solidarity. Gather with us at Washington Square Park.\
+ n\nWashington Square Park
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=451+S+State+
+ Street%2C+Salt+Lake+City%2C+UT&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

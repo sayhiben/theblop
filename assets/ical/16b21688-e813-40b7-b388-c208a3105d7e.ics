@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:1fae6b03-86e8-48ec-b381-6b3da99e65bc
+SEQUENCE:0
+DTSTAMP:20250426T090406Z
+DTSTART:20250501T120000
+DTEND:20250501T140000
+SUMMARY:International Workers Day of Action
+LOCATION:334 Monterey Street\, 142 West Alisal Street (Rally locations)\, 
+ Watsonville Plaza\, Salinas\, CA
+DESCRIPTION:Join us for a series of events on May 1 to mobilize support fo
+ r Medicaid\, our healthcare\, and collective bargaining rights. Events inc
+ lude a March and Rally in Salinas\, Santa Cruz\, and Watsonville. We are a
+ ll one in this cause!\n\nSEIU 521 Parking Lot\, Old County Jail\, Ocean St
+ reet\, The Resource Center for Non Violence\, Watsonville Plaza
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=334+Monterey
+ +Street%2C+142+West+Alisal+Street+%28Rally+locations%29%2C+Watsonville+Pla
+ za%2C+Salinas%2C+CA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

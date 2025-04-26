@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:abcff9ad-785a-4a0b-b5ac-1a9c3deac293
+SEQUENCE:0
+DTSTAMP:20250426T090406Z
+DTSTART:20250501T000000
+DTEND:20250501T020000
+SUMMARY:May 1 Strike
+LOCATION:Various locations across University of California campuses
+DESCRIPTION:We are organizing a strike on May 1 against UC's illegal attac
+ k on workers across several University of California campuses.\n\nMultiple
+  locations including Berkeley\, Sacramento\, Orange\, Los Angeles\, Merced
+ \, Riverside\, Santa Barbara\, Santa Cruz\, San Diego\, San Francisco
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Various+loca
+ tions+across+University+of+California+campuses&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

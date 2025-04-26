@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:dd1906bd-e074-4861-ad3e-9e4b6591ddb1
+SEQUENCE:0
+DTSTAMP:20250426T090406Z
+DTSTART:20250501T170000
+DTEND:20250501T190000
+SUMMARY:May Day
+LOCATION:621 Ocean St.\, Santa Cruz\, CA
+DESCRIPTION:Join us for the Santa Cruz Solidarity on the streets as part o
+ f the National Day of Action. We aim to stop the billionaire agenda by dem
+ onstrating in support of the many.\n\nAlong Sidewalks in Front of The Reso
+ urce Center for Nonviolence
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=621+Ocean+St
+ .%2C+Santa+Cruz%2C+CA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

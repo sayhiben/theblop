@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:525c826c-56e3-42a9-b7cb-d1942605997e
+SEQUENCE:0
+DTSTAMP:20250426T090406Z
+DTSTART:20250501T110000
+DTEND:20250501T130000
+SUMMARY:MAY DAY STRONG
+LOCATION:28250 Ynez Road\, Temecula\, CA
+DESCRIPTION:Join the community at Temecula Duck Pond for the MAY DAY STRON
+ G event.\n\nTemecula Duck Pond
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=28250+Ynez+R
+ oad%2C+Temecula%2C+CA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

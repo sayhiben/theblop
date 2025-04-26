@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:877ac0e0-fdfd-431c-8519-bf1a99eea1b7
+SEQUENCE:0
+DTSTAMP:20250426T090406Z
+DTSTART:20250501T150000
+DTEND:20250501T170000
+SUMMARY:International Workers' Day
+LOCATION:2796 Ventura Ave\, Santa Rosa\, Santa Rosa\, CA
+DESCRIPTION:We are gathering in support of immigrant rights\, highlighting
+  freedom\, labor rights\, justice\, and solidarity through a series of mar
+ ches and rallies starting at the Sheriff's Office.\n\nSheriff's Office
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=2796+Ventura
+ +Ave%2C+Santa+Rosa%2C+Santa+Rosa%2C+CA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

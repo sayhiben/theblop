@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:16f55edb-1889-49a3-a5d1-f269b950e6d0
+SEQUENCE:0
+DTSTAMP:20250426T090406Z
+DTSTART:20250503T120000
+DTEND:20250503T140000
+SUMMARY:Diversity Against Fascism
+LOCATION:Heartwell Park\, Long Beach\, Long Beach\, CA
+DESCRIPTION:Join us to celebrate our cultural carousel\, build community\,
+  and fight fascism. We invite everyone to contribute their presence\, bann
+ ers\, and energy to this collective effort.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Heartwell+Pa
+ rk%2C+Long+Beach%2C+Long+Beach%2C+CA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

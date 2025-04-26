@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:e702fb65-5cb7-4f48-bbf2-1dc0e78e0b44
+SEQUENCE:0
+DTSTAMP:20250426T090406Z
+DTSTART:20250503T100000
+DTEND:20250503T120000
+SUMMARY:May Day National Action
+LOCATION:134 N. Museum\, Palm Springs\, CA 92262
+DESCRIPTION:Join us in Downtown Palm Springs to resist billionaire influen
+ ce. Stand up for the people as part of a nationwide action on May Day.\n\n
+ Downtown Palm Springs Park
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=134+N.+Museu
+ m%2C+Palm+Springs%2C+CA+92262&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

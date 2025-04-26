@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:88a018ca-4fe2-4f05-8264-6a10aedf1861
+SEQUENCE:0
+DTSTAMP:20250426T090406Z
+DTSTART:20250503T110000
+DTEND:20250503T130000
+SUMMARY:Dia de Mayo Fuertes Unidos
+LOCATION:1249 Canyon Del Rey Boulevard\, Seaside\, CA
+DESCRIPTION:Join us for a large demonstration event to unite and celebrate
+  "Dia de Mayo" with discussions and activities promoting solidarity.\n\nLa
+ guna Grande Park\, Lakeside BBQ Field
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=1249+Canyon+
+ Del+Rey+Boulevard%2C+Seaside%2C+CA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

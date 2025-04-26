@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:cfca9d2d-6499-436d-b538-3f297e44e437
+SEQUENCE:0
+DTSTAMP:20250426T090406Z
+DTSTART:20250501T110000
+DTEND:20250501T130000
+SUMMARY:MAYDAY PROTEST
+LOCATION:Corner of Tucker and W Tehachapi Blvd\, Tehachapi\, CA
+DESCRIPTION:Join us for a peaceful rally on National Day of Action\, organ
+ ized by the #50501 movement at the corner of Tucker and W Tehachapi Blvd.\
+ n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Corner+of+Tu
+ cker+and+W+Tehachapi+Blvd%2C+Tehachapi%2C+CA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

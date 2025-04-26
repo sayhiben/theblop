@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:40a8fcf2-1620-4860-9d6b-56092ae8bba5
+SEQUENCE:0
+DTSTAMP:20250426T090406Z
+DTSTART:20250503T120000
+DTEND:20250503T140000
+SUMMARY:Utah Die-In
+LOCATION:Utah State Capitol\, South Steps\, Salt Lake City\, UT
+DESCRIPTION:A peaceful protest against government policies that are impact
+ ing the health and safety of those living in America.\n\nSouth Steps
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Utah+State+C
+ apitol%2C+South+Steps%2C+Salt+Lake+City%2C+UT&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

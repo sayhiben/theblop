@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:3d8b9b8f-8b4e-4edc-869a-d7e7edae3d05
+SEQUENCE:0
+DTSTAMP:20250426T090406Z
+DTSTART:20250503T100000
+DTEND:20250503T120000
+SUMMARY:Laguna Hills Rally
+LOCATION:Alicia Parkway & Paseo De Valencia\, Laguna Hills\, CA
+DESCRIPTION:Join us for the 'We The People Have Had Enough!' rally at Alic
+ ia Parkway & Paseo De Valencia\, hosted by Canyon Democrats. The event wil
+ l feature a public demonstration to express community sentiments.\n\nAlici
+ a Parkway & Paseo De Valencia
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Alicia+Parkw
+ ay+%26+Paseo+De+Valencia%2C+Laguna+Hills%2C+CA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

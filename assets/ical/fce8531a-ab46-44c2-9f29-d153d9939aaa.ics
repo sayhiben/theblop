@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:dad4ee88-05b0-42da-a96f-9d21cd4013b4
+SEQUENCE:0
+DTSTAMP:20250426T090406Z
+DTSTART:20250503T100000
+DTEND:20250503T120000
+SUMMARY:Inland Empire May Day
+LOCATION:3504 Mission Inn Avenue\, Riverside\, CA
+DESCRIPTION:We are gathering to defend dignity and advance collective powe
+ r\, denouncing labor exploitation\, systemic barriers\, and anti-immigrant
+  sentiments.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=3504+Mission
+ +Inn+Avenue%2C+Riverside%2C+CA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

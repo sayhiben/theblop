@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:b63f919d-8e98-4ce7-83f9-1fcff6403272
+SEQUENCE:0
+DTSTAMP:20250426T090406Z
+DTSTART:20250503T110000
+DTEND:20250503T130000
+SUMMARY:May Day Strong Together
+LOCATION:1249 Canyon Del Rey Boulevard\, Seaside\, CA
+DESCRIPTION:We are organizing a big rally to stand strong together against
+  fascist takeover and abductions. Join us to wake up\, stand up\, and rise
+  up!\n\nLaguna Grande Park\, Lakeside BBQ Field
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=1249+Canyon+
+ Del+Rey+Boulevard%2C+Seaside%2C+CA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

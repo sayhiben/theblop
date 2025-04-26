@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:a2fc7c38-6499-4bc8-aa0d-5f9a0bcfe2e1
+SEQUENCE:0
+DTSTAMP:20250426T090406Z
+DTSTART:20250501T000000
+DTEND:20250501T020000
+SUMMARY:Strike Against UC's Illegal Attack on Workers
+DESCRIPTION:We are organizing a strike on International Workers Day to pro
+ test against UC's illegal actions against workers.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=&zoom=15&bas
+ emap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

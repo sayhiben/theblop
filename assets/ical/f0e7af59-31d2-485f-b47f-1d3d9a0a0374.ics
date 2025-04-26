@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:47214af7-637f-4bde-bb0d-25dc18a94dae
+SEQUENCE:0
+DTSTAMP:20250426T090406Z
+DTSTART:20250501T160000
+DTEND:20250501T180000
+SUMMARY:May Day in the Bay
+LOCATION:SF Civic Center Plaza\, San Francisco\, CA
+DESCRIPTION:Emphasizing immigrant and workers' rights\, the event calls fo
+ r unity in struggle.\n\nSF Civic Center Plaza
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=SF+Civic+Cen
+ ter+Plaza%2C+San+Francisco%2C+CA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

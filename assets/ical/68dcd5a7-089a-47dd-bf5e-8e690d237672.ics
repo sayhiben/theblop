@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:ee38436c-f829-40aa-8e10-4d8deb66af0b
+SEQUENCE:0
+DTSTAMP:20250426T090406Z
+DTSTART:20250501T180000
+DTEND:20250501T200000
+SUMMARY:May Day Celebration
+LOCATION:Canyon Rim Park\, Millcreek\, UT
+DESCRIPTION:Join us for a day of activist networking and political trainin
+ g with protest songs\, live music\, and food trucks. Get involved in local
+  political action and learn more about political processes.\n\nCanyon Rim 
+ Park
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Canyon+Rim+P
+ ark%2C+Millcreek%2C+UT&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

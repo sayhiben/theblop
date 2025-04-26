@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:f85040a3-3e4e-476b-aa69-9211d5445515
+SEQUENCE:0
+DTSTAMP:20250426T090406Z
+DTSTART:20250503T120000
+DTEND:20250503T140000
+SUMMARY:Anti-Trump Protest
+LOCATION:125 North Moorpark Road\, Thousand Oaks\, CA
+DESCRIPTION:Join our anti-trump and hands-off protest at the intersection 
+ of W Hillcrest Drive and N Moorpark Road (infront of Janss marketplace sig
+ n). Let’s bring awareness to what the criminal in office is doing to our
+  government. We will not accept fascism in our country and we need to save
+  our democracy. Bring legible large signs anything you are passionate abou
+ t\, here are some ideas: Pro-Palestine\, Free Gaza\, Dump Trump\, Anti-Fas
+ cism\, No Kings\, No Dictatorships\, No one is illegal on stolen land\, Im
+ migrants make America great\, hands off Medicare\, women’s rights\, abol
+ ish I.C.E\, LGBTQ+\, fight the climate crisis.\n\nIntersection of W Hillcr
+ est Drive and N Moorpark Road (infront of Janss marketplace sign)
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=125+North+Mo
+ orpark+Road%2C+Thousand+Oaks%2C+CA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

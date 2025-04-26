@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:47f86915-6907-4c6f-8eee-9e1ae75ef6c8
+SEQUENCE:0
+DTSTAMP:20250426T090406Z
+DTSTART:20250501T150000
+DTEND:20250501T170000
+SUMMARY:Santa Rosa Protests
+LOCATION:Various locations\, including Sheriff's Office\, VA Clinic\, Old 
+ Court House Square\, Santa Rosa\, CA
+DESCRIPTION:Join the Community United to Resist Fascism for five days of a
+ ction and protest from May 1st to May 5th\, involving marches\, rallies\, 
+ and various activities across Santa Rosa. We will advocate for immigrant r
+ ights\, veterans\, and other important causes.\n\nSheriff's Office\, VA Cl
+ inic\, Arlene Francis Center\, Juilliard Park\, Old Court House Square
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Various+loca
+ tions%2C+including+Sheriff%27s+Office%2C+VA+Clinic%2C+Old+Court+House+Squa
+ re%2C+Santa+Rosa%2C+CA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
