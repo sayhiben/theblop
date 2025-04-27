@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:d47376c1-30fa-4e0f-94ec-1d809dd64a1e
+SEQUENCE:0
+DTSTAMP:20250427T000652Z
+DTSTART:20251215T100000
+DTEND:20251215T120000
+SUMMARY:Christmas Wonderland Market
+LOCATION:123 River Rd\, Springfield\, 
+DESCRIPTION:Join us for a festive day of holiday shopping\, food\, and fun
+ .\n\nRiverside Park
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=123+River+Rd
+ %2C+Springfield%2C+&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

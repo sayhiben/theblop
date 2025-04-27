@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:9304002c-772c-42ef-980b-b74ba5004a31
+SEQUENCE:0
+DTSTAMP:20250427T000652Z
+DTSTART:20250501T180000
+DTEND:20250501T200000
+SUMMARY:May Day Strong Rally with SURJ
+LOCATION:Naperville Riverwalk - Jefferson and Webster
+DESCRIPTION:Join us to stand against the billionaire agenda. Organized by 
+ Showing Up for Racial Justice\, we will gather at Naperville Riverwalk\, r
+ ally at the Free Speech Pavilion\, and march downtown to show our collecti
+ ve strength.\n\nDandelion Fountain
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Naperville+R
+ iverwalk+-+Jefferson+and+Webster&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

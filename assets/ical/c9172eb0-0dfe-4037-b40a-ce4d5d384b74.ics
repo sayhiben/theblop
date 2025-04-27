@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:02c83915-7b04-44e0-8964-ddf2b1035002
+SEQUENCE:0
+DTSTAMP:20250427T000652Z
+DTSTART:20250501T000000
+DTEND:20250501T020000
+SUMMARY:May Day Strong Rally
+DESCRIPTION:This rally organized by SURJ is part of the national day of ac
+ tion to oppose the agenda of billionaires. Join us to stand in solidarity 
+ and show that we are the many.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=&zoom=15&bas
+ emap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
