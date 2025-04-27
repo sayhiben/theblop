@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:30549acb-8597-4102-92ce-4c21df9a50cc
+SEQUENCE:0
+DTSTAMP:20250427T031820Z
+DTSTART:20250430T150000
+DTEND:20250430T170000
+SUMMARY:Bring Your Family to Work Day
+LOCATION:Building 41 Lawn\, SW corner of Bethesda Campus\, Bethesda\, MD
+DESCRIPTION:We’re keeping the spirit of 'Take Your Kids to Work Day' ali
+ ve due to NIH’s cancellation. Bring your loved ones to celebrate the imp
+ ortance of science\, community\, and the next generation of researchers wi
+ th fun activities such as science experiments and networking.\n\nBuilding 
+ 41 Lawn
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Building+41+
+ Lawn%2C+SW+corner+of+Bethesda+Campus%2C+Bethesda%2C+MD&zoom=15&basemap=roa
+ dmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
