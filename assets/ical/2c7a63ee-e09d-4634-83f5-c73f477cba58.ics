@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:0829b6f9-22b5-4cfa-8ca4-f70944508eb9
+SEQUENCE:0
+DTSTAMP:20250427T060258Z
+DTSTART:20250501T150000
+DTEND:20250501T170000
+SUMMARY:May Day: A Day of Action
+LOCATION:Colorado State Capitol\, Denver\, CO
+DESCRIPTION:Join our broad coalition for International Worker’s Day at t
+ he Colorado State Capitol. Participate in various rallies and marches orga
+ nized by Colorado Immigrants Rights Coalition and Aurora Unidos CSO with s
+ pecial guests and diverse speakers.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Colorado+Sta
+ te+Capitol%2C+Denver%2C+CO&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
