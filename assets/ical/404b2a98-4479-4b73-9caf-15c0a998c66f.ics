@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:e125a2c6-e1bc-4a16-9df3-1c6030ab8f7e
+SEQUENCE:0
+DTSTAMP:20250427T180304Z
+DTSTART:20250519T180000
+DTEND:20250519T200000
+SUMMARY:Monroe County Town Hall
+LOCATION:1150 W. Guy McCown Dr.\, Ellettsville\, IN
+DESCRIPTION:Join Lt. Governor Micah Beckwith for a community town hall to 
+ engage in meaningful dialogue about the future of Indiana and share your t
+ houghts on key issues. Don't miss the opportunity to have your voice heard
+ .\n\nEllettsville Town Hall
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=1150+W.+Guy+
+ McCown+Dr.%2C+Ellettsville%2C+IN&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

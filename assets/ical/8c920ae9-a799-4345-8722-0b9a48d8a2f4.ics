@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:1cdc5173-aeaa-4e63-b5f0-a624937076b5
+SEQUENCE:0
+DTSTAMP:20250427T180304Z
+DTSTART:20250501T160000
+DTEND:20250501T180000
+SUMMARY:May Day National Day of Action
+LOCATION:Corner of Novi Rd & Grand River\, Novi\, MI
+DESCRIPTION:Join us for a day of action organized by Novi Dems. Be part of
+  a movement to make an impact in our community.\n\nCorner of Novi Rd & Gra
+ nd River
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Corner+of+No
+ vi+Rd+%26+Grand+River%2C+Novi%2C+MI&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

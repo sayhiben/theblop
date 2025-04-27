@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:84486fed-7d95-44cb-b420-e087fec96d27
+SEQUENCE:0
+DTSTAMP:20250427T180304Z
+DTSTART:20250501T120000
+DTEND:20250501T140000
+SUMMARY:May Day Strong: We are the Many
+LOCATION:3663 SW 8th St 1st Floor\, Miami\, FL
+DESCRIPTION:Join us for the 'May Day Strong: We are the Many' event on May
+  1\, organized by volunteers\, as part of a national day of action. The ev
+ ent highlights solidarity and community strength.\n\nSocial Security Admin
+ istration
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=3663+SW+8th+
+ St+1st+Floor%2C+Miami%2C+FL&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
