@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:10afb0b2-8d88-48fb-9688-040a9653db3d
+SEQUENCE:0
+DTSTAMP:20250427T210254Z
+DTSTART:20250428T163000
+DTEND:20250428T183000
+SUMMARY:Olympia Visibility Brigade Protest
+LOCATION:Boulevard Rd SE over I-5\, East Olympia\, WA
+DESCRIPTION:Join us weekly for protests in the Olympia-Tumwater-Lacey area
+ . Bring your high-viz signs and costumes for the next big protest event.\n
+ \n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Boulevard+Rd
+ +SE+over+I-5%2C+East+Olympia%2C+WA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

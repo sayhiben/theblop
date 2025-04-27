@@ -245,6 +245,30 @@
     "raw_summary": "This image is a flyer promoting a Tesla picket event in Grand Rapids. The event is set to take place on Monday, April 28, at 12:00 noon at 2919 29th St SE, Grand Rapids, MI 49512. The flyer includes a graphic of protestors outside a Tesla building, mentioning 'Tesla Take Down' and 'Boycott Tesla,' and contains a QR code and a URL link."
   },
   {
+    "id": "fced7b45-360e-4830-97e7-4fd77861a2a8",
+    "title": "Olympia Visibility Brigade Protest",
+    "date": "Monday, April 28, 2025",
+    "time": "4:30 PM",
+    "description": "Join us weekly for protests in the Olympia-Tumwater-Lacey area. Bring your high-viz signs and costumes for the next big protest event.",
+    "city": "East Olympia",
+    "state": "WA",
+    "address": "Boulevard Rd SE over I-5",
+    "meeting_location": "",
+    "links": [
+      "thebloop.org and backbonecampaign.org"
+    ],
+    "sponsors": [
+      "Olympia Visibility Brigade"
+    ],
+    "image_url": "https://theblop.org/assets/images/fced7b45-360e-4830-97e7-4fd77861a2a8.png",
+    "thumbnail_url": "https://theblop.org/assets/images/fced7b45-360e-4830-97e7-4fd77861a2a8-thumb.jpg",
+    "canonical_id": "",
+    "permalink": "https://theblop.org/events/fced7b45-360e-4830-97e7-4fd77861a2a8.html",
+    "ical": "https://theblop.org/assets/ical/fced7b45-360e-4830-97e7-4fd77861a2a8.ics",
+    "raw_text": "Impatient for the next big protest? Us too! Join us weekly to make good trouble! OLYMPIA VISIBILITY BRIGADE We deploy each weekend on overpasses in the Olympia-Tumwater-Lacey area We also deploy on Mondays during evening rush hour We support Capitol protests when possible Bring your high-viz protest signs, flags, fun costumes, a good mood, and be tolerant of terrible dancing Introverts welcome! Next Event: Monday, April 28th @ 4:30 - 6:30 pm Boulevard Rd SE over I-5, East Olympia Look for upcoming Olympia Visibility Brigade events here: thebloop.org and backbonecampaign.org DEMOCRACY IS UNDER ATTACK STAND UP FIGHT BACK!",
+    "raw_summary": "The flyer promotes a protest event organized by the Olympia Visibility Brigade. They organize weekly deployments on overpasses and at Capitol protests. An upcoming event is scheduled for Monday, April 28th at Boulevard Rd SE over I-5, East Olympia from 4:30 to 6:30 pm."
+  },
+  {
     "id": "3e6e44a9-f2ed-4f5e-9d66-e406aa2ede72",
     "title": "Rep. Chris Smith Rally SILENCE IS COMPLIANCE!",
     "date": "Tuesday, April 29, 2025",
@@ -2608,6 +2632,56 @@
     "raw_summary": "The image promotes an event called 'May Day National Day of Action' organized by Novi Dems. The event is scheduled for Thursday, May 1, from 4-7 PM at the corner of Novi Rd & Grand River."
   },
   {
+    "id": "10a1c449-0db3-40f5-9f33-aca6264c525b",
+    "title": "May Day Rally & March",
+    "date": "Thursday, May 1, 2025",
+    "time": "5:00 PM",
+    "description": "Join us for a rally and march on May Day, a national day of action to bring communities together for social and labor rights.",
+    "city": "New Haven",
+    "state": "CT",
+    "address": "New Haven Green",
+    "meeting_location": "New Haven Green",
+    "links": [],
+    "sponsors": [
+      "Unite Here",
+      " Working Families Power",
+      " AFT Connecticut",
+      " Colectivo Semilla",
+      " SEIU 32BJ"
+    ],
+    "image_url": "https://theblop.org/assets/images/10a1c449-0db3-40f5-9f33-aca6264c525b.png",
+    "thumbnail_url": "https://theblop.org/assets/images/10a1c449-0db3-40f5-9f33-aca6264c525b-thumb.jpg",
+    "canonical_id": "",
+    "permalink": "https://theblop.org/events/10a1c449-0db3-40f5-9f33-aca6264c525b.html",
+    "ical": "https://theblop.org/assets/ical/10a1c449-0db3-40f5-9f33-aca6264c525b.ics",
+    "raw_text": "MAY DAY\nRALLY & MARCH\nMAY 1 • 5PM\nNATIONAL DAY OF ACTION!\nNEW HAVEN GREEN\n[List of various sponsor logos]",
+    "raw_summary": "The image is a flyer for a May Day rally and march event, taking place on May 1 at 5 PM at New Haven Green, labeled as a National Day of Action."
+  },
+  {
+    "id": "17f6164a-c6bb-4225-bcfe-b546ca6f26fd",
+    "title": "May Day Protest",
+    "date": "Thursday, May 1, 2025",
+    "time": "12:00 PM",
+    "description": "Join us on May 1st for a May Day Protest at the State Capitol in celebration of International Workers' Day.",
+    "city": "",
+    "state": "CT",
+    "address": "State Capitol",
+    "meeting_location": "State Capitol",
+    "links": [
+      "https://linktr.ee/CT50501"
+    ],
+    "sponsors": [
+      "50 50 1"
+    ],
+    "image_url": "https://theblop.org/assets/images/17f6164a-c6bb-4225-bcfe-b546ca6f26fd.png",
+    "thumbnail_url": "https://theblop.org/assets/images/17f6164a-c6bb-4225-bcfe-b546ca6f26fd-thumb.jpg",
+    "canonical_id": "",
+    "permalink": "https://theblop.org/events/17f6164a-c6bb-4225-bcfe-b546ca6f26fd.html",
+    "ical": "https://theblop.org/assets/ical/17f6164a-c6bb-4225-bcfe-b546ca6f26fd.ics",
+    "raw_text": "THURSDAY, MAY 1ST\nMAY DAY PROTEST\nINTERNATIONAL WORKERS' DAY\nSTATE CAPITOL AT NOON\n50 50 1\nLINKTR.EE/CT50501",
+    "raw_summary": "The image announces a \"May Day Protest\" happening on May 1st. It takes place at a State Capitol at noon in observance of International Workers' Day."
+  },
+  {
     "id": "33a0c610-194c-43ad-9f1a-8efb6dcd45f7",
     "title": "Community Events: Know Your Rights Training",
     "date": "Friday, May 2, 2025",
@@ -3290,6 +3364,30 @@
     "raw_summary": "The image announces a peaceful protest event called 'Utah Die-In,' scheduled for Saturday, May 3rd from 12:00 to 3:00 PM at the Utah State Capitol South Steps."
   },
   {
+    "id": "bbe7f45c-41a0-4224-860f-915d8493e836",
+    "title": "West Side Rally for Black and Brown Unity",
+    "date": "Saturday, May 3, 2025",
+    "time": "12:00 PM",
+    "description": "Join the Coalition Against The Trump Agenda for a rally promoting unity among Black and Brown communities.",
+    "city": "Chicago",
+    "state": "IL",
+    "address": "1501 W Randolph",
+    "meeting_location": "Union Park",
+    "links": [
+      "coalitionagainsttrump.org"
+    ],
+    "sponsors": [
+      "Coalition Against The Trump Agenda"
+    ],
+    "image_url": "https://theblop.org/assets/images/bbe7f45c-41a0-4224-860f-915d8493e836.jpg",
+    "thumbnail_url": "https://theblop.org/assets/images/bbe7f45c-41a0-4224-860f-915d8493e836-thumb.jpg",
+    "canonical_id": "",
+    "permalink": "https://theblop.org/events/bbe7f45c-41a0-4224-860f-915d8493e836.html",
+    "ical": "https://theblop.org/assets/ical/bbe7f45c-41a0-4224-860f-915d8493e836.ics",
+    "raw_text": "COALITION AGAINST THE TRUMP AGENDA\n\nSATURDAY MAY 3RD @ NOON\nUNION PARK, 1501 W RANDOLPH\n\nWEST SIDE RALLY FOR BLACK AND BROWN UNITY!\n\nCOALITIONAGAINSTTRUMP.ORG",
+    "raw_summary": "The image is a flyer for a rally organized by the \"Coalition Against The Trump Agenda.\" It provides details about an event called \"West Side Rally for Black and Brown Unity\" happening at Union Park, with date and time specified."
+  },
+  {
     "id": "8300a403-849b-4edf-94e2-13fd543654f4",
     "title": "Peaceful Protest",
     "date": "Sunday, May 4, 2025",
@@ -3386,6 +3484,28 @@
     "ical": "https://theblop.org/assets/ical/853a807f-7e84-4a7b-8ffb-89cb4b96ba7e.ics",
     "raw_text": "MAY DAY PICNIC! PUBLIC FUNDS FOR PUBLIC GOODS Let's come together in solidarity, build community, and discuss how we will organize to support working families and fully fund public education. SUNDAY, MAY 4TH 12:30PM Edora Park 1420 E. Stuart Fort Collins • Food and Drinks • Games and Activities • Local Speakers, Artists, and Musicians Time: Sunday, May 4 - 12:30 — 3:30pm MDT Location: Edora Park 1420 E Stuart St Fort Collins, CO 80525",
     "raw_summary": "The flyer promotes a 'May Day Picnic' event happening at Edora Park in Fort Collins, CO. It focuses on organizing community support for working families and public education, featuring food, activities, and speakers. Scheduled for Sunday, May 4th at 12:30 PM."
+  },
+  {
+    "id": "f98faa5d-526d-4d4f-8f11-54538d5bd773",
+    "title": "May the 4th Be With the Resistance",
+    "date": "Sunday, May 4, 2025",
+    "time": "12:00 PM",
+    "description": "Join us for a peaceful protest against the empire at Federal Plaza, Chicago. All are welcome and costumes are encouraged as we gather to stand against fascism.",
+    "city": "Chicago",
+    "state": "IL",
+    "address": "Federal Plaza",
+    "meeting_location": "Federal Plaza, Chicago",
+    "links": [
+      "ARAforPeace.com"
+    ],
+    "sponsors": [],
+    "image_url": "https://theblop.org/assets/images/f98faa5d-526d-4d4f-8f11-54538d5bd773.jpg",
+    "thumbnail_url": "https://theblop.org/assets/images/f98faa5d-526d-4d4f-8f11-54538d5bd773-thumb.jpg",
+    "canonical_id": "",
+    "permalink": "https://theblop.org/events/f98faa5d-526d-4d4f-8f11-54538d5bd773.html",
+    "ical": "https://theblop.org/assets/ical/f98faa5d-526d-4d4f-8f11-54538d5bd773.ics",
+    "raw_text": "Down with the Fascist Empire! No Emperors! No Kings!  MAY THE 4TH BE WITH THE RESISTANCE  Peaceful Protest Against the Empire Sunday, 12-2pm  Federal Plaza, Chicago  ALL ARE WELCOME COSTUMES ENCOURAGED  STAY SAFE: *No sword fighting *Please leave your blasters at home  RSVP: ARAforPeace.com",
+    "raw_summary": "The image describes a public protest event on \"May the 4th\" at Federal Plaza, Chicago. It's a peaceful protest with a \"Star Wars\" theme where costumes are encouraged."
   },
   {
     "id": "6ee80322-76fa-4a67-a652-df509992c15e",

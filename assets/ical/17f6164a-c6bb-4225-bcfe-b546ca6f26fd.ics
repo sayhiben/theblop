@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:b4147987-1802-4cfe-a0f1-283f29c2084e
+SEQUENCE:0
+DTSTAMP:20250427T210254Z
+DTSTART:20250501T120000
+DTEND:20250501T140000
+SUMMARY:May Day Protest
+LOCATION:State Capitol\, \, CT
+DESCRIPTION:Join us on May 1st for a May Day Protest at the State Capitol 
+ in celebration of International Workers' Day.\n\nState Capitol
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=State+Capito
+ l%2C+%2C+CT&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:c3330e9a-48a0-43f1-897f-bb980b2b24ac
+SEQUENCE:0
+DTSTAMP:20250427T210254Z
+DTSTART:20250501T170000
+DTEND:20250501T190000
+SUMMARY:May Day Rally & March
+LOCATION:New Haven Green\, New Haven\, CT
+DESCRIPTION:Join us for a rally and march on May Day\, a national day of a
+ ction to bring communities together for social and labor rights.\n\nNew Ha
+ ven Green
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=New+Haven+Gr
+ een%2C+New+Haven%2C+CT&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:f2f5a3bd-9223-4470-b99e-7ee6764212e4
+SEQUENCE:0
+DTSTAMP:20250427T210254Z
+DTSTART:20250504T120000
+DTEND:20250504T140000
+SUMMARY:May the 4th Be With the Resistance
+LOCATION:Federal Plaza\, Chicago\, IL
+DESCRIPTION:Join us for a peaceful protest against the empire at Federal P
+ laza\, Chicago. All are welcome and costumes are encouraged as we gather t
+ o stand against fascism.\n\nFederal Plaza\, Chicago
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Federal+Plaz
+ a%2C+Chicago%2C+IL&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

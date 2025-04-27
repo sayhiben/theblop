@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:ef9b1329-bf84-4e98-9285-0cf57b16b226
+SEQUENCE:0
+DTSTAMP:20250427T210254Z
+DTSTART:20250503T120000
+DTEND:20250503T140000
+SUMMARY:West Side Rally for Black and Brown Unity
+LOCATION:1501 W Randolph\, Chicago\, IL
+DESCRIPTION:Join the Coalition Against The Trump Agenda for a rally promot
+ ing unity among Black and Brown communities.\n\nUnion Park
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=1501+W+Rando
+ lph%2C+Chicago%2C+IL&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
