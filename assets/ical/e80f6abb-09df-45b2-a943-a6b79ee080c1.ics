@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:9bc05b02-2107-493d-b17f-7355266f064a
+SEQUENCE:0
+DTSTAMP:20250428T061017Z
+DTSTART:20250503T113000
+DTEND:20250503T133000
+SUMMARY:May Day Weekend Demonstrate & Donate
+LOCATION:Lenawee County Courthouse\, Lenawee\, MI
+DESCRIPTION:Join us in a peaceful demonstration for women's health\, safet
+ y\, and dignity — and against fascism\, hate\, and oppression. We rally 
+ for justice and collect urgently needed supplies for survivors of domestic
+  violence. We are collecting donations for the local women's shelter\, inc
+ luding hygiene products\, food\, and gift cards.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Lenawee+Coun
+ ty+Courthouse%2C+Lenawee%2C+MI&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
