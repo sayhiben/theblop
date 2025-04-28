@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:b8466613-4310-4f62-9fad-a970668d5e65
+SEQUENCE:0
+DTSTAMP:20250428T180319Z
+DTSTART:20250501T163000
+DTEND:20250501T183000
+SUMMARY:May Day Strong Astoria: A Rally to Protect Democracy
+LOCATION:17th and Marine Drive\, Astoria\, OR
+DESCRIPTION:Join us for a nonviolent rally to protect democracy on May Day
+  in Astoria. We gather to make our voices heard and encourage civic engage
+ ment. Please avoid parking in the Maritime Museum or Coast Guard lots and 
+ bring your signs for the event.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=17th+and+Mar
+ ine+Drive%2C+Astoria%2C+OR&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

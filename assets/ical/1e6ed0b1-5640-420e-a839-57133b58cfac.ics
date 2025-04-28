@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:9c4270a5-fc31-473c-8b08-9730ab02fc54
+SEQUENCE:0
+DTSTAMP:20250428T180319Z
+DTSTART:20250429T113000
+DTEND:20250429T133000
+SUMMARY:Oregon Defends Democracy
+LOCATION:Hwy 101 & Seaside Outlet Mall\, Seaside\, OR
+DESCRIPTION:We are organizing a peaceful protest to defend democracy. Plea
+ se bring signs and do not engage with counter protesters.\n\nHwy 101 & Sea
+ side Outlet Mall
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Hwy+101+%26+
+ Seaside+Outlet+Mall%2C+Seaside%2C+OR&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

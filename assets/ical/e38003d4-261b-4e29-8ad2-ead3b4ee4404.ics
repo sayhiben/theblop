@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:d349f50f-2119-42ce-bded-b9a98b69cca5
+SEQUENCE:0
+DTSTAMP:20250428T180319Z
+DTSTART:20250501T110000
+DTEND:20250501T130000
+SUMMARY:March for Our Democracy
+LOCATION:206 W Tabernacle St.\, St. George\, UT
+DESCRIPTION:We are organizing a march for our democracy. Join us in St. Ge
+ orge\, Utah\, to stand for democratic values.\n\n206 W Tabernacle St. St. 
+ George\, UT 84770
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=206+W+Tabern
+ acle+St.%2C+St.+George%2C+UT&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
