@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:d6be3973-07b2-4298-8921-8661e0c06590
+SEQUENCE:0
+DTSTAMP:20250428T000652Z
+DTSTART:20250501T160000
+DTEND:20250501T180000
+SUMMARY:Social Event
+LOCATION:901 Bagby Street\, Houston\, TX
+DESCRIPTION:Join us at Houston City Hall for a community event organized b
+ y kristiNAPS.htx. Discover more at the event link provided.\n\nHouston Cit
+ y Hall
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=901+Bagby+St
+ reet%2C+Houston%2C+TX&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

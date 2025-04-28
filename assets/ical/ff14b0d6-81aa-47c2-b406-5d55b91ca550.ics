@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:ea0c5007-2cf5-4ad6-9b2c-d0bda2c07617
+SEQUENCE:0
+DTSTAMP:20250428T000652Z
+DTSTART:20250505T163000
+DTEND:20250505T183000
+SUMMARY:Olympia Visibility Brigade Protest
+LOCATION:Chehalis Western Trail pedestrian bridge over I-5\, Lacey\, WA
+DESCRIPTION:We deploy each weekend on overpasses in the Olympia-Tumwater-L
+ acey area. We also deploy on Mondays during the evening rush hour and supp
+ ort Capitol protests when possible. Bring your high-viz protest signs\, fl
+ ags\, fun costumes\, a good mood\, and be tolerant of terrible dancing. In
+ troverts welcome!\n\nChehalis Western Trail pedestrian bridge over I-5\, L
+ acey
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Chehalis+Wes
+ tern+Trail+pedestrian+bridge+over+I-5%2C+Lacey%2C+WA&zoom=15&basemap=roadm
+ ap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

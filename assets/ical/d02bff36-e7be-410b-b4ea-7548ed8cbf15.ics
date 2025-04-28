@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:4cdd281f-7a96-48ea-a345-6ee32547b6dc
+SEQUENCE:0
+DTSTAMP:20250428T000652Z
+DTSTART:20250501T170000
+DTEND:20250501T190000
+SUMMARY:MAY DAY NATIONAL PROTEST
+LOCATION:Houston City Hall\, Houston\, TX
+DESCRIPTION:We are joining together for a national protest on May Day. Be 
+ part of the action with a pre-event march.\n\nHouston City Hall
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Houston+City
+ +Hall%2C+Houston%2C+TX&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
