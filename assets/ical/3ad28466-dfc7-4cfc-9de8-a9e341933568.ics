@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:86351561-5e1e-4a0b-ae13-862e09b90eb3
+SEQUENCE:0
+DTSTAMP:20250428T210257Z
+DTSTART:20250501T170000
+DTEND:20250501T190000
+SUMMARY:May Day March
+LOCATION:Riverfront Clocktower\, Spokane\, WA
+DESCRIPTION:Join us for the May Day March to stand with immigrants and end
+  deportations. This rally is part of International Workers Day to support 
+ immigrant rights.\n\nRiverfront Clocktower - Spokane WA
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Riverfront+C
+ locktower%2C+Spokane%2C+WA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

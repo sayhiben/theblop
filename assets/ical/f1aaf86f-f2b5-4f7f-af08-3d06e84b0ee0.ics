@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:bad2dd99-198c-428a-be1b-bec8915b285b
+SEQUENCE:0
+DTSTAMP:20250428T210257Z
+DTSTART:20250430T120000
+DTEND:20250430T140000
+SUMMARY:Meet the Candidates Series
+LOCATION:At the corner of La Paz / Marguerite\, Mission Viejo\, CA
+DESCRIPTION:Democrat Joe Kerr is running to unseat Rep. Young Kim in CA-40
+  in 2026. Come\, ask questions\, and tell him what's on your mind!\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=At+the+corne
+ r+of+La+Paz+%2F+Marguerite%2C+Mission+Viejo%2C+CA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
