@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:bef732de-c802-4b03-b235-20c5075e56be
+SEQUENCE:0
+DTSTAMP:20250429T000655Z
+DTSTART:20250501T153000
+DTEND:20250501T173000
+SUMMARY:May Day!
+LOCATION:7590 Fruitville Rd\, Sarasota\, FL
+DESCRIPTION:Stand together to defend our democracy\, our freedom\, and fut
+ ures! Open mic at Steube's office to flood his office\, disrupt the silenc
+ e\, and demand real representation.\n\nRep Steube's Office
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=7590+Fruitvi
+ lle+Rd%2C+Sarasota%2C+FL&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

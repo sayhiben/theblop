@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:1431ba23-f07e-4472-be00-33a057c112d2
+SEQUENCE:0
+DTSTAMP:20250429T000655Z
+DTSTART:20250501T130000
+DTEND:20250501T150000
+SUMMARY:Mayday Workers' Day
+LOCATION:Downtown Spokane\, Spokane\, WA
+DESCRIPTION:Join the student-led Mayday march to support immigrant and far
+ mworker rights. Celebrate the labor movement’s struggles and achievement
+ s. This is your call to action—let’s make a difference together! Activ
+ ism extends beyond rallies\, so join if you feel safe. More opportunities 
+ will be posted.\n\nDowntown Spokane
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Downtown+Spo
+ kane%2C+Spokane%2C+WA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
