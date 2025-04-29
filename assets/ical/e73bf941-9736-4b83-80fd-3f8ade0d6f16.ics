@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:5288bbb9-2a8d-432e-afb3-be9039694908
+SEQUENCE:0
+DTSTAMP:20250429T120342Z
+DTSTART:20250501T110000
+DTEND:20250501T130000
+SUMMARY:May Day
+LOCATION:350 N. River Street\, Aurora\, IL
+DESCRIPTION:Join us for a peaceful rally on International Workers Day to c
+ elebrate and support the contributions of migrants.\n\nWilder Park
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=350+N.+River
+ +Street%2C+Aurora%2C+IL&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

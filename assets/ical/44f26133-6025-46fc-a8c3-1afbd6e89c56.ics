@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:d5de89cb-6b43-4922-940c-83f56d17a4e2
+SEQUENCE:0
+DTSTAMP:20250429T120342Z
+DTSTART:20250501T173000
+DTEND:20250501T193000
+SUMMARY:May Day National Day of Action
+LOCATION:Federal Building\, Reno\, NV
+DESCRIPTION:The flyer refers to a national day of action held on May Day.\
+ n\nFederal Building\, Reno
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Federal+Buil
+ ding%2C+Reno%2C+NV&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
