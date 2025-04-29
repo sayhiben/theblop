@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:d9984449-4276-41c3-9630-85a847669429
+SEQUENCE:0
+DTSTAMP:20250429T060327Z
+DTSTART:20250503T160000
+DTEND:20250503T180000
+SUMMARY:Save Democracy\, Save America
+LOCATION:Bayfront Park\, Sarasota\, FL
+DESCRIPTION:Join us at Bayfront Park to rally for democracy and support ef
+ forts to preserve our nation.\n\nBayfront Park
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Bayfront+Par
+ k%2C+Sarasota%2C+FL&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

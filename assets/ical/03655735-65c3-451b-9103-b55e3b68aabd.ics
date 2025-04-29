@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:b95e5dde-f39d-4955-b198-13d1bbd7005e
+SEQUENCE:0
+DTSTAMP:20250429T060327Z
+DTSTART:20250501T120000
+DTEND:20250501T140000
+SUMMARY:May Day
+LOCATION:Topeka Capitol\, Topeka\, KS
+DESCRIPTION:Join us at the Topeka Capitol for International Workers Day. W
+ e will have speakers at noon\, followed by a march at 12:30. Participate i
+ n hands-on tables and networking. Consider a sick-out if you can.\n\nTopek
+ a Capitol
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Topeka+Capit
+ ol%2C+Topeka%2C+KS&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

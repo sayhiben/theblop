@@ -2646,6 +2646,30 @@
     "raw_summary": "A gathering event at Lopez Grange on May 1 from 6:00 to 8:00 PM, focusing on support, solidarity, and resilience. It is a potluck event."
   },
   {
+    "id": "03655735-65c3-451b-9103-b55e3b68aabd",
+    "title": "May Day",
+    "date": "Thursday, May 1, 2025",
+    "time": "12:00 PM",
+    "description": "Join us at the Topeka Capitol for International Workers Day. We will have speakers at noon, followed by a march at 12:30. Participate in hands-on tables and networking. Consider a sick-out if you can.",
+    "city": "Topeka",
+    "state": "KS",
+    "address": "Topeka Capitol",
+    "meeting_location": "Topeka Capitol",
+    "links": [
+      "[]"
+    ],
+    "sponsors": [
+      "[]"
+    ],
+    "image_url": "https://theblop.org/assets/images/03655735-65c3-451b-9103-b55e3b68aabd.jpg",
+    "thumbnail_url": "https://theblop.org/assets/images/03655735-65c3-451b-9103-b55e3b68aabd-thumb.jpg",
+    "canonical_id": "",
+    "permalink": "https://theblop.org/events/03655735-65c3-451b-9103-b55e3b68aabd.html",
+    "ical": "https://theblop.org/assets/ical/03655735-65c3-451b-9103-b55e3b68aabd.ics",
+    "raw_text": "NATIONAL DAY OF ACTION\n\nMAY 1\n\nINTL WORKER'S DAY\n\nMAY DAY MAY DAY MAY DAY\n\nKANSAS 50501\n\nTopeka Capitol\n\nThursday MAY 1st\n\nNOON\n\nW/speakers @12\n\nMarch @12:30\n\nHands \"On\" Tables -Networking-\n\n-Sick Out- (if you are in a position to do so)",
+    "raw_summary": "The image advertises an event for \"May Day\", also known as International Workers Day, on May 1, 2025. It includes activities such as speakers and a march at the Topeka Capitol in Kansas, starting at noon. There is mention of \"Hands 'On' Tables\" and networking, along with a suggestion for a \"sick out\" if feasible."
+  },
+  {
     "id": "33a0c610-194c-43ad-9f1a-8efb6dcd45f7",
     "title": "Community Events: Know Your Rights Training",
     "date": "Friday, May 2, 2025",
@@ -3394,6 +3418,26 @@
     "ical": "https://theblop.org/assets/ical/3c6e4b80-f6b1-4b2d-92ff-aa5f7ef04cd4.ics",
     "raw_text": "UTAH DIE-IN\nSAT. MAY 3RD\n12:00 - 3:00 PM\nUTAH STATE CAPITOL\nSOUTH STEPS\nwww.utahdiein.info\n\nA peaceful protest against government policies that are impacting the health and safety of those living in America.",
     "raw_summary": "The image is a flyer for a protest event called \"Utah Die-In,\" which is scheduled for Saturday, May 3rd, from 12:00 to 3:00 PM at the Utah State Capitol South Steps. The event is described as a peaceful protest against government policies affecting health and safety in America. A QR code and a URL (www.utahdiein.info) are present."
+  },
+  {
+    "id": "bef13184-765f-486a-a20d-3ad434839cc3",
+    "title": "Save Democracy, Save America",
+    "date": "Saturday, May 3, 2025",
+    "time": "4:00 PM",
+    "description": "Join us at Bayfront Park to rally for democracy and support efforts to preserve our nation.",
+    "city": "Sarasota",
+    "state": "FL",
+    "address": "Bayfront Park",
+    "meeting_location": "Bayfront Park",
+    "links": [],
+    "sponsors": [],
+    "image_url": "https://theblop.org/assets/images/bef13184-765f-486a-a20d-3ad434839cc3.jpg",
+    "thumbnail_url": "https://theblop.org/assets/images/bef13184-765f-486a-a20d-3ad434839cc3-thumb.jpg",
+    "canonical_id": "",
+    "permalink": "https://theblop.org/events/bef13184-765f-486a-a20d-3ad434839cc3.html",
+    "ical": "https://theblop.org/assets/ical/bef13184-765f-486a-a20d-3ad434839cc3.ics",
+    "raw_text": "MAYDAY 2025\nSAVE DEMOCRACY\nSAVE AMERICA\n05/03/25\nBAYFRONT PARK,\nSARASOTA, FL\n4PM - 7PM",
+    "raw_summary": "This is an announcement for an event happening on May 3, 2025, at Bayfront Park in Sarasota, FL. The event is titled \"Save Democracy, Save America.\""
   },
   {
     "id": "8300a403-849b-4edf-94e2-13fd543654f4",
