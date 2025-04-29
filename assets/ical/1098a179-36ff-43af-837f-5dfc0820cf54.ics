@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:35f6da4c-47ef-48dd-b0f0-8c343187a5a7
+SEQUENCE:0
+DTSTAMP:20250429T150304Z
+DTSTART:20250501T120000
+DTEND:20250501T140000
+SUMMARY:Impeach Trump
+LOCATION:Scoville Park\, WWII memorial\, Oak Park\, IL
+DESCRIPTION:We are organizing a protest against Trump\, encouraging people
+  to join and express dissent against his actions\, taking place at Scovill
+ e Park\, WWII memorial in Oak Park.\n\nScoville Park\, WWII memorial
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Scoville+Par
+ k%2C+WWII+memorial%2C+Oak+Park%2C+IL&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
