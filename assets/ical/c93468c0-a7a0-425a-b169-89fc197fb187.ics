@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:6c78febb-272a-4923-9420-4ffe958024b5
+SEQUENCE:0
+DTSTAMP:20250429T031811Z
+DTSTART:20250501T180000
+DTEND:20250501T200000
+SUMMARY:Let's Gather Together
+LOCATION:Lopez Grange\, Lopez\, WA
+DESCRIPTION:Join us for a gathering to support solidarity and resilience. 
+ Enjoy a Finger Food Potluck at Lopez Grange.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Lopez+Grange
+ %2C+Lopez%2C+WA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
