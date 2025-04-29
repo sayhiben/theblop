@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:995ad7b5-5e9a-4209-be04-4d361f5e3aeb
+SEQUENCE:0
+DTSTAMP:20250429T090317Z
+DTSTART:20250501T100000
+DTEND:20250501T120000
+SUMMARY:May Day Sidewalk Rally
+LOCATION:NE Corner of HWY 111 and Rancho Las Palmas Dr.\, Rancho Mirage\, 
+ CA
+DESCRIPTION:We are hosting a rally on May Day to show support and apprecia
+ tion for workers. Attendees are encouraged to bring water\, hats\, and sig
+ ns thanking workers.\n\nNE Corner of HWY 111 and Rancho Las Palmas Dr.
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=NE+Corner+of
+ +HWY+111+and+Rancho+Las+Palmas+Dr.%2C+Rancho+Mirage%2C+CA&zoom=15&basemap=
+ roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
