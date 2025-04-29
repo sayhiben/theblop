@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:7cbc9dc4-e2d5-4a24-a116-33e7759dcece
+SEQUENCE:0
+DTSTAMP:20250429T210328Z
+DTSTART:20250501T120000
+DTEND:20250501T140000
+SUMMARY:MAYDAY PROTEST | NATIONAL DAY OF ACTION
+LOCATION:Douglas & Broadway\, Wichita\, KS
+DESCRIPTION:We are organizing a public protest to stand up and speak out f
+ or democracy. Join us at Douglas & Broadway to take action and stay united
+ .\n\nDowntown Wichita
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Douglas+%26+
+ Broadway%2C+Wichita%2C+KS&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

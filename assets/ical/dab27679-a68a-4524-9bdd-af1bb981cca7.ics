@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:b5256d0d-c1fe-4adb-861a-ea6f9c0fce85
+SEQUENCE:0
+DTSTAMP:20250429T210328Z
+DTSTART:20250501T120000
+DTEND:20250501T140000
+SUMMARY:Mayday Protest | National Day of Action
+LOCATION:Douglas & Broadway\, Wichita\, KS
+DESCRIPTION:We are organizing a protest to defend democracy\, as part of a
+  national day of action. Join us to stand up and speak out.\n\nDowntown Wi
+ chita
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Douglas+%26+
+ Broadway%2C+Wichita%2C+KS&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
