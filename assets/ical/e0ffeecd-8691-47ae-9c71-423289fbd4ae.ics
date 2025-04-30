@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:6668f225-0f97-4d68-9145-2a88c6faa86f
+SEQUENCE:0
+DTSTAMP:20250430T000732Z
+DTSTART:20250501T170000
+DTEND:20250501T190000
+SUMMARY:Silent Vigil
+LOCATION:510 19th Street\, Bakersfield\, CA
+DESCRIPTION:Join us for a Silent Vigil as part of the May Day National Day
+  of Action. Bring signs and LED candles.\n\nFederal Courthouse
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=510+19th+Str
+ eet%2C+Bakersfield%2C+CA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:7ffd9228-e02a-4e52-8f9c-1f065d92f830
+SEQUENCE:0
+DTSTAMP:20250430T000732Z
+DTSTART:20250501T163000
+DTEND:20250501T183000
+SUMMARY:Los Angeles MayDay Rally
+LOCATION:MacArthur Park\, Los Angeles\, CA
+DESCRIPTION:Join us as we rally on May Day to stop deportations\, abolish 
+ ICE\, and promote community self-defense. This event is a part of Internat
+ ional Workers' Day celebrations and aims to fight for our rights!\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=MacArthur+Pa
+ rk%2C+Los+Angeles%2C+CA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

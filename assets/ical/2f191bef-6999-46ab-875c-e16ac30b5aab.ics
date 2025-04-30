@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:37a055b1-bcea-4a26-b0a4-e4edbb206728
+SEQUENCE:0
+DTSTAMP:20250430T000732Z
+DTSTART:20250502T180000
+DTEND:20250502T200000
+SUMMARY:Greater OC Protests This Week
+LOCATION:Main Street Branch Library\, Alicia x Paseo de Valencia\, 26501 A
+ liso Creek Rd\, Heartwell Park\, Huntington Beach City Hall\, Irvine City 
+ Hall\, Multiple cities (Huntington Beach\, Laguna Hills\, Aliso Viejo\, Lo
+ ng Beach\, Irvine)\, CA
+DESCRIPTION:Orange County will host multiple protests from May 2 to May 4\
+ , 2025. Various events organized by groups including OC Huddle\, Canyon De
+ ms\, and others\, focusing on community issues like library support\, poli
+ tical resistance\, and fascism opposition.\n\nDifferent locations per even
+ t
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Main+Street+
+ Branch+Library%2C+Alicia+x+Paseo+de+Valencia%2C+26501+Aliso+Creek+Rd%2C+He
+ artwell+Park%2C+Huntington+Beach+City+Hall%2C+Irvine+City+Hall%2C+Multiple
+ +cities+%28Huntington+Beach%2C+Laguna+Hills%2C+Aliso+Viejo%2C+Long+Beach%2
+ C+Irvine%29%2C+CA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

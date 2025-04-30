@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:6b38ac90-cbcb-4127-a034-5f348bc8c460
+SEQUENCE:0
+DTSTAMP:20250430T000732Z
+DTSTART:20250501T110000
+DTEND:20250501T130000
+SUMMARY:MAY DAY
+LOCATION:1515 Q St\, Sacramento\, CA
+DESCRIPTION:Join us for a solidarity rally and march in the streets of Sac
+ ramento to celebrate International Workers' Day. We're inviting striking U
+ PTE workers from UC Davis and other union workers to say NO to the billion
+ aire agenda and demand that California lead the fight for all of us.\n\nJo
+ hn C Fremont Park
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=1515+Q+St%2C
+ +Sacramento%2C+CA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

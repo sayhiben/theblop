@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:ebed060f-66d3-4475-866f-7211c3feb2f6
+SEQUENCE:0
+DTSTAMP:20250430T000732Z
+DTSTART:20250501T173000
+DTEND:20250501T193000
+SUMMARY:Cotati Weekly Protest
+LOCATION:La Plaza Park\, Cotati\, CA
+DESCRIPTION:Join us for a weekly protest happening at La Plaza Park in Cot
+ ati. Stand together with the community for our cause.\n\nLa Plaza Park
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=La+Plaza+Par
+ k%2C+Cotati%2C+CA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

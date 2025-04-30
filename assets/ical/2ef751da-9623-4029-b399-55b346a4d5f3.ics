@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:d7a2bfa7-2fb7-4bd8-9556-084f4d0bfef7
+SEQUENCE:0
+DTSTAMP:20250430T000732Z
+DTSTART:20250501T110000
+DTEND:20250501T130000
+SUMMARY:May Day Strong: We are the Many
+LOCATION:South Lower Sacramento Road & Kettleman Lane\, Lodi\, CA
+DESCRIPTION:We are demanding a country that puts our families over their f
+ ortunes—public schools over private profits\, healthcare over hedge fund
+ s\, housing over homelessness.\n\nSouth Lower Sacramento Road & Kettleman 
+ Lane
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=South+Lower+
+ Sacramento+Road+%26+Kettleman+Lane%2C+Lodi%2C+CA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:b2cdee19-7d16-44f7-8e5c-7d573772d4ac
+SEQUENCE:0
+DTSTAMP:20250430T000732Z
+DTSTART:20250501T100000
+DTEND:20250501T120000
+SUMMARY:May Day Unions March + Rally
+LOCATION:200 W Arbor Dr\, San Diego\, CA
+DESCRIPTION:Join us for a union march and rally to take over the streets i
+ n celebration of May Day.\n\nHillcrest UCSD Medical Center
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=200+W+Arbor+
+ Dr%2C+San+Diego%2C+CA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

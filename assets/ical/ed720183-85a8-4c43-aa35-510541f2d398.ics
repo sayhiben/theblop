@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:7bb7f36c-6157-4545-af11-981ccd39a455
+SEQUENCE:0
+DTSTAMP:20250430T000732Z
+DTSTART:20250501T120000
+DTEND:20250501T140000
+SUMMARY:Greater OC Protests This Week
+LOCATION:Imperative details for each specific site are provided in the tex
+ t.\, Multiple locations including Brea\, Mission Viejo\, Orange\, Santa An
+ a\, Newport Beach\, Corona\, CA
+DESCRIPTION:A series of protests and political actions organized in Orange
+  County\, with events focusing on various social and political topics.\n\n
+ Addresses as listed for each event\, such as Orange City Hall\, UCI Medica
+ l Center\, etc.
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Imperative+d
+ etails+for+each+specific+site+are+provided+in+the+text.%2C+Multiple+locati
+ ons+including+Brea%2C+Mission+Viejo%2C+Orange%2C+Santa+Ana%2C+Newport+Beac
+ h%2C+Corona%2C+CA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

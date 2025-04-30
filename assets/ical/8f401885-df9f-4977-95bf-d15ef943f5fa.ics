@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:0d56977c-acd0-4597-bf19-f2be8fb0819d
+SEQUENCE:0
+DTSTAMP:20250430T000732Z
+DTSTART:20250503T000000
+DTEND:20250503T020000
+SUMMARY:Community Events on Saturday\, May 3
+LOCATION:\, \, Nationwide
+DESCRIPTION:Join us for community gatherings across various locations. Dif
+ ferent activities will take place in each city\, uniting the community and
+  fostering connections.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+%2C+Nati
+ onwide&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

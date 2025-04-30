@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:a97d1c37-b0e3-4e51-8c25-a79d253556bf
+SEQUENCE:0
+DTSTAMP:20250430T000732Z
+DTSTART:20250503T100000
+DTEND:20250503T120000
+SUMMARY:Excelsior Community Food Pantry
+LOCATION:San Francisco Campus for Jewish Living
+DESCRIPTION:Join us to assist with grocery distribution to families in nee
+ d\, helping the community at the Excelsior Community Food Pantry.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=San+Francisc
+ o+Campus+for+Jewish+Living&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

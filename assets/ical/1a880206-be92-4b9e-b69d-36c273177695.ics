@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:3041083a-c1fb-4e0e-a42a-a57df65b6bfc
+SEQUENCE:0
+DTSTAMP:20250430T000732Z
+DTSTART:20250501T100000
+DTEND:20250501T120000
+SUMMARY:MAY DAY
+LOCATION:UC Riverside: 900 University Ave\, Downtown Riverside: 3504 Missi
+ on Inn Ave\, Riverside\, CA
+DESCRIPTION:Join UC Workers on the Strike Line on May 1st at UC Riverside 
+ and the Inland Empire's May Day on May 3rd in Downtown Riverside. This ann
+ ual gathering ignites collective action for justice and change.\n\nUC Rive
+ rside\, Downtown Riverside
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=UC+Riverside
+ %3A+900+University+Ave%2C+Downtown+Riverside%3A+3504+Mission+Inn+Ave%2C+Ri
+ verside%2C+CA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

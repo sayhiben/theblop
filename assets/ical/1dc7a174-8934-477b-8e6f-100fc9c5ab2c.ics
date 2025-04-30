@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:9fa6297d-5850-4fa7-805c-48130e7e4592
+SEQUENCE:0
+DTSTAMP:20250430T000732Z
+DTSTART:20250501T170000
+DTEND:20250501T190000
+SUMMARY:MAY DAY 2025: THE PEOPLE FIGHT BACK!
+LOCATION:Plaza Park\, Oxnard\, CA
+DESCRIPTION:A march and rally event urging people to come together to make
+  their voices heard and fight for their rights.\n\nPlaza Park\, Oxnard
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Plaza+Park%2
+ C+Oxnard%2C+CA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

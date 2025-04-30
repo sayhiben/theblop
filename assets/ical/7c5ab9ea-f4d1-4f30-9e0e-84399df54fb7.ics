@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:1044d503-fbe2-40db-ba2f-88a07e0d8b73
+SEQUENCE:0
+DTSTAMP:20250430T000732Z
+DTSTART:20250501T120000
+DTEND:20250501T140000
+SUMMARY:International Workers Day of Action
+LOCATION:Various locations provided for each city's events.\, Salinas\, Sa
+ nta Cruz\, Watsonville\, CA
+DESCRIPTION:We are mobilizing to save Medicaid\, healthcare\, jobs\, and o
+ ur rights. Join our marches and rallies in solidarity.\n\nSEIU 521 Parking
+  Lot (Salinas)\, Ocean Street (Santa Cruz)\, Watsonville Plaza (Watsonvill
+ e)
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Various+loca
+ tions+provided+for+each+city%27s+events.%2C+Salinas%2C+Santa+Cruz%2C+Watso
+ nville%2C+CA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

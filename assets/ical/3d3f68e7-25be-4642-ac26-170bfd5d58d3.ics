@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:ea86320a-7920-4fd1-bf68-d79524d23754
+SEQUENCE:0
+DTSTAMP:20250430T000732Z
+DTSTART:20250501T100000
+DTEND:20250501T120000
+SUMMARY:May Day Riverside
+LOCATION:900 University Ave\, 3504 Mission Inn Ave\, Riverside\, CA
+DESCRIPTION:Join UC Workers on the Strike Line May 1st. Frontline Workers 
+ Deserve Better. Fight for Fairness at UC! This annual gathering ignites co
+ llective action for justice and change.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=900+Universi
+ ty+Ave%2C+3504+Mission+Inn+Ave%2C+Riverside%2C+CA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

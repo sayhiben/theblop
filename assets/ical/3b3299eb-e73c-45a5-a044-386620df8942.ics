@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:06fad40b-5cdd-45d3-a269-b0de7d176dfe
+SEQUENCE:0
+DTSTAMP:20250430T000732Z
+DTSTART:20250501T160000
+DTEND:20250501T180000
+SUMMARY:May Day Strong: We are the Many
+LOCATION:800 Main St\, Napa\, CA
+DESCRIPTION:Join us for a volunteer-organized rally to strengthen communit
+ y bonds and show our unity.\n\nVeteran's Memorial Park
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=800+Main+St%
+ 2C+Napa%2C+CA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

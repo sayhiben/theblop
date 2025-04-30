@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:85136d4a-2bf6-4c30-88d9-3e6d5eb3cc9b
+SEQUENCE:0
+DTSTAMP:20250430T000732Z
+DTSTART:20250501T173000
+DTEND:20250501T193000
+SUMMARY:MAY DAY
+LOCATION:10500 Civic Center Dr\, Rancho Cucamonga\, CA
+DESCRIPTION:Join us for a national day of action at Rancho Cucamonga City 
+ Hall to advocate for change.\n\nRancho Cucamonga City Hall
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=10500+Civic+
+ Center+Dr%2C+Rancho+Cucamonga%2C+CA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

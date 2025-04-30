@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:8f3e7195-f48f-45ba-871b-4e7f1c24cd85
+SEQUENCE:0
+DTSTAMP:20250430T000732Z
+DTSTART:20250501T143000
+DTEND:20250501T163000
+SUMMARY:International Workers' Day
+LOCATION:King & Story\, San Jose City Hall\, San Jose\, CA
+DESCRIPTION:We are hosting a march and rally to fight for immigrant and wo
+ rkers' rights and to resist fascism. Join us at King & Story as we march t
+ o San Jose City Hall.\n\nKing & Story
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=King+%26+Sto
+ ry%2C+San+Jose+City+Hall%2C+San+Jose%2C+CA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:109bd5a2-8405-4e16-97fc-92dc03edb423
+SEQUENCE:0
+DTSTAMP:20250430T000732Z
+DTSTART:20250501T163000
+DTEND:20250501T183000
+SUMMARY:San Diego May Day Rally & March
+LOCATION:\, San Diego\, CA
+DESCRIPTION:Join us for a rally and march on International Workers Day to 
+ defend our communities\, advocating for the abolishment of I.C.E.\, educat
+ ion over deportation\, and labor rights. Organization tabling and speakers
+  at 4:30 PM with the march beginning at 5:20 PM.\n\nChicano Park
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+San+Dieg
+ o%2C+CA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

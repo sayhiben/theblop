@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:7f2c5f74-3fea-45e8-b935-21489f397378
+SEQUENCE:0
+DTSTAMP:20250430T000732Z
+DTSTART:20250501T120000
+DTEND:20250501T140000
+SUMMARY:May Day Strong: We are the Many
+LOCATION:300 E. Chapman Ave.\, Orange\, CA
+DESCRIPTION:Join us for a visibility event\, part of the National Day of A
+ ction\, organized by volunteers.\n\nOrange City Hall
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=300+E.+Chapm
+ an+Ave.%2C+Orange%2C+CA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

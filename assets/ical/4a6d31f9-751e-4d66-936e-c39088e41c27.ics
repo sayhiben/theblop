@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:caf27c1e-b9f8-4a11-af10-b4357a93b26e
+SEQUENCE:0
+DTSTAMP:20250430T000732Z
+DTSTART:20250501T160000
+DTEND:20250501T180000
+SUMMARY:May Day National Day of Action
+LOCATION:Corner of HWY 41 and RD 426
+DESCRIPTION:Join us to stop the billionaire takeover on May Day. This is a
+  call to action to resist against economic inequality.\n\nCorner of HWY 41
+  and RD 426
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Corner+of+HW
+ Y+41+and+RD+426&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

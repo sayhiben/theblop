@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:b07ea7d8-daed-48ce-8eea-8c0f7fb8c629
+SEQUENCE:0
+DTSTAMP:20250430T000732Z
+DTSTART:20250501T160000
+DTEND:20250501T180000
+SUMMARY:May Day Strong - Protest #1\, May Day Strong - Protest #2
+LOCATION:Broad Street Overpass\, Nevada City\; Brunswick Overpass & Sutton
+  Way\, Grass Valley\, Nevada City\, Grass Valley\, CA
+DESCRIPTION:Join us on this national day of protest! Bring your signs\, st
+ ay on the sidewalk\, and keep it peaceful. There were 1000+ of you out on 
+ April 5 - let's make it even bigger on May 3!\n\nBroad Street Overpass\, B
+ runswick Overpass & Sutton Way
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Broad+Street
+ +Overpass%2C+Nevada+City%3B+Brunswick+Overpass+%26+Sutton+Way%2C+Grass+Val
+ ley%2C+Nevada+City%2C+Grass+Valley%2C+CA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

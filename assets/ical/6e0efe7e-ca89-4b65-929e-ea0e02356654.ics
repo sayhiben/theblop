@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:b37aae50-cf28-4a9d-bd23-fd6f68268609
+SEQUENCE:0
+DTSTAMP:20250430T000732Z
+DTSTART:20250501T120000
+DTEND:20250501T140000
+SUMMARY:Mayday Schedule of Events
+LOCATION:National Mall\, Washington\, DC
+DESCRIPTION:A series of peaceful demonstrations and events focusing on var
+ ious social themes. Activities include speeches\, workshops\, and performa
+ nces advocating for social change.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=National+Mal
+ l%2C+Washington%2C+DC&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

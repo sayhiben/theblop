@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:2b19c3b1-f16d-4929-a870-1f1a3f7daccc
+SEQUENCE:0
+DTSTAMP:20250430T000732Z
+DTSTART:20250503T100000
+DTEND:20250503T120000
+SUMMARY:Ocean Beach Trash Pickup
+LOCATION:Ocean Beach\, San Francisco\, San Francisco\, CA
+DESCRIPTION:Help to clean up Ocean Beach and the surrounding neighborhood 
+ with Refuse Refuse. Lunch included at Ocean Beach Café.\n\nOcean Beach
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Ocean+Beach%
+ 2C+San+Francisco%2C+San+Francisco%2C+CA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

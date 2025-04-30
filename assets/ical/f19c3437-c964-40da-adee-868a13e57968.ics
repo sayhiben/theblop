@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:97d3600f-8482-4721-9544-52cfa4d219a1
+SEQUENCE:0
+DTSTAMP:20250430T000732Z
+DTSTART:20250503T110000
+DTEND:20250503T130000
+SUMMARY:Indivisible Roseville - May Day Strong: We are the Many
+DESCRIPTION:Across the country—from fruit fields in California to classr
+ ooms in Chicago\, from kitchens in Queens to loading docks in Atlanta—wo
+ rking people are rising up. We are demanding a country that puts our famil
+ ies over their fortunes—public schools over private profits\, healthcare
+  over hedge funds\, housing over homelessness. Musk\, Trump and their fell
+ ow profiteers are trying to create a race to the bottom—on wages\, on be
+ nefits\, on dignity itself. They want to erase labor rights\, break our un
+ ions\, and silence immigrant voices.\n\nPrivate\, sign up for details
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=&zoom=15&bas
+ emap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

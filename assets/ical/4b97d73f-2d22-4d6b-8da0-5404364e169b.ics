@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:69623d17-fa42-4864-8be1-6732df19dd28
+SEQUENCE:0
+DTSTAMP:20250430T000732Z
+DTSTART:20250502T163000
+DTEND:20250502T183000
+SUMMARY:Day of Action
+LOCATION:5050 Clark Ave\, Lakewood\, CA
+DESCRIPTION:Join us in supporting immigration rights and due process on Ma
+ y 2\, 2025. The event will focus on advocating against government kidnappi
+ ng and promoting justice for individuals like Kilmar and Mahmoud.\n\nLakew
+ ood City Hall
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=5050+Clark+A
+ ve%2C+Lakewood%2C+CA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:b43013e6-0a04-45b5-a2f7-76a0b9a35c42
+SEQUENCE:0
+DTSTAMP:20250430T000732Z
+DTSTART:20250501T120000
+DTEND:20250501T140000
+SUMMARY:Greater OC Protests This Week: Mayday National Day of Action
+LOCATION:Orange City Hall\, 300 E. Chapman Ave.\, Orange\, CA
+DESCRIPTION:Join us for various protests and rallies happening across Grea
+ ter Orange County this week\, culminating in the Mayday National Day of Ac
+ tion on May 1st. Participate in numerous events across different cities to
+  support workers and community rights organized by local groups.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Orange+City+
+ Hall%2C+300+E.+Chapman+Ave.%2C+Orange%2C+CA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

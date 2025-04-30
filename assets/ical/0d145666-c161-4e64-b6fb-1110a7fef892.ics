@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:787cd572-a47b-4f91-9613-58e5d87e1cdf
+SEQUENCE:0
+DTSTAMP:20250430T000732Z
+DTSTART:20250502T120000
+DTEND:20250502T140000
+SUMMARY:Stand up for our rights!
+LOCATION:6th and University\, San Diego\, CA
+DESCRIPTION:A protest to stand for rights at the corner of 6th and Univers
+ ity.\n\nHillcrest
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=6th+and+Univ
+ ersity%2C+San+Diego%2C+CA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

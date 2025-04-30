@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:c8c79f18-85e4-40c8-bd75-18d95d6ae37b
+SEQUENCE:0
+DTSTAMP:20250430T000732Z
+DTSTART:20250501T100000
+DTEND:20250501T120000
+SUMMARY:May Day March
+LOCATION:24th St. & Mission\, San Francisco\, CA
+DESCRIPTION:We are organizing a march demanding a pathway to citizenship\,
+  ending deportation\, protecting sanctuary spaces\, and defending workers'
+  rights and fair wages.\n\n24th St. & Mission
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=24th+St.+%26
+ +Mission%2C+San+Francisco%2C+CA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

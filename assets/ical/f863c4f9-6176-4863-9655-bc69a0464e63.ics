@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:e16bd649-91c3-45f8-9410-7091f71fcf43
+SEQUENCE:0
+DTSTAMP:20250430T000732Z
+DTSTART:20250504T170000
+DTEND:20250504T190000
+SUMMARY:HANDS OFF!
+LOCATION:Olive & Wishon\, Fresno\, CA
+DESCRIPTION:Stand with us & tell the Trump administration: Join Central Va
+ lley Indivisible members for a peaceful protest.\n\nOlive & Wishon
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Olive+%26+Wi
+ shon%2C+Fresno%2C+CA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

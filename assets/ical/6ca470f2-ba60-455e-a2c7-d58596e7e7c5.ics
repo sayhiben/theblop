@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:7281d92d-d6b8-4062-8a64-b08e123c968c
+SEQUENCE:0
+DTSTAMP:20250430T000732Z
+DTSTART:20250501T100000
+DTEND:20250501T120000
+SUMMARY:May Day San Diego! March and Rally
+LOCATION:200 W Arbor Dr\, San Diego\, CA
+DESCRIPTION:Stand in solidarity with workers\, support their right to orga
+ nize\, and protest the Trump Administration's anti-worker agenda on May Da
+ y! Sponsored by the San Diego and Imperial Counties Labor Council\, AFSCME
+  3299\, UPTE-CWA 9919 and more.\n\nUCSD Hillcrest Medical Center
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=200+W+Arbor+
+ Dr%2C+San+Diego%2C+CA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

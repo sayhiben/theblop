@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:7ce5d545-1edd-4b6a-84db-87e222725484
+SEQUENCE:0
+DTSTAMP:20250430T000732Z
+DTSTART:20250503T100000
+DTEND:20250503T120000
+SUMMARY:Hands Off Our Workers
+LOCATION:301 Biscayne Blvd.\, Miami\, FL
+DESCRIPTION:Join us for a protest to support workers' rights at the Torch 
+ of Friendship. We aim to stand together in solidarity for our workforce's 
+ recognition and protection.\n\nTorch of Friendship
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=301+Biscayne
+ +Blvd.%2C+Miami%2C+FL&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

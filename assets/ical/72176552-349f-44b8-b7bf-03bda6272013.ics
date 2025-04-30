@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:946c1dfd-bb98-4cc7-9fda-f324242886dd
+SEQUENCE:0
+DTSTAMP:20250430T000732Z
+DTSTART:20250503T100000
+DTEND:20250503T120000
+SUMMARY:Fort Miley Work Day
+LOCATION:\, San Francisco\, CA
+DESCRIPTION:Join us for a work day at Fort Miley near the VA Hospital\, La
+ nds End to help maintain the historic Battery Chester. Activities include 
+ painting\, landscaping\, and cleanup. Water and snacks will be provided. T
+ his is part of the efforts by the National Parks Service.\n\nVA Hospital\,
+  near Lands End\, Fort Miley
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+San+Fran
+ cisco%2C+CA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

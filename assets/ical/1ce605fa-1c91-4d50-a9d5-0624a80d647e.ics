@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:e455d82c-1c28-4549-a3b8-372e0c5f7868
+SEQUENCE:0
+DTSTAMP:20250430T000732Z
+DTSTART:20250501T170000
+DTEND:20250501T190000
+SUMMARY:Peaceful Protest Against the Regime's War on People
+LOCATION:5 Points\, Modesto\, CA
+DESCRIPTION:We are organizing a peaceful protest against the regime's war 
+ on people. Join us to stand together for change.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=5+Points%2C+
+ Modesto%2C+CA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
