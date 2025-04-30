@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:36a08c8d-7677-4d7d-961a-58381a4407a7
+SEQUENCE:0
+DTSTAMP:20250430T031754Z
+DTSTART:20250501T160000
+DTEND:20250501T180000
+SUMMARY:National Day of Protest with Visalia
+LOCATION:Mooney Blvd & Burrell St next to Tulare County Courthouse\, Visal
+ ia\, CA
+DESCRIPTION:Join us for a peaceful protest in Visalia. We will gather at M
+ ooney Blvd & Burrell St and walk a planned route. All sidewalks are access
+ ible.\n\nMooney Blvd & Burrell St
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Mooney+Blvd+
+ %26+Burrell+St+next+to+Tulare+County+Courthouse%2C+Visalia%2C+CA&zoom=15&b
+ asemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

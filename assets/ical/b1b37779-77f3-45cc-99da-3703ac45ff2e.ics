@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:8eb8ef69-7d6c-445c-917a-e42e0d178365
+SEQUENCE:0
+DTSTAMP:20250430T031754Z
+DTSTART:20250501T160000
+DTEND:20250501T180000
+SUMMARY:MAYDAY PROTEST
+LOCATION:Spanish Park across from Visitor Center\, San Angelo\, TX
+DESCRIPTION:Join us for the Mayday Protest in celebration of International
+  Worker's Day. We aim to stand in solidarity for workers' rights.\n\nSpani
+ sh Park across from Visitor Center
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Spanish+Park
+ +across+from+Visitor+Center%2C+San+Angelo%2C+TX&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
