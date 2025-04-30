@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:47e2c782-440d-4be7-9ff1-eb4c27e22ee2
+SEQUENCE:0
+DTSTAMP:20250430T150537Z
+DTSTART:20250501T110000
+DTEND:20250501T130000
+SUMMARY:May Day Trenton: We are the Many\, They are the Few
+LOCATION:125 W State St\, Trenton\, NJ
+DESCRIPTION:We are organizing a rally to stand united against policies tha
+ t harm working people\, focusing on demanding family-oriented policies ove
+ r corporate profits\, and promoting nonviolent protest. The event covers a
+  wide range of issues including workers' rights\, healthcare\, housing\, a
+ nd union protection.\n\nWorld War II Memorial
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=125+W+State+
+ St%2C+Trenton%2C+NJ&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

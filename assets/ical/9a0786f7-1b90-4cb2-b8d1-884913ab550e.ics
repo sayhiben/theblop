@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:6d382274-8603-4696-a3cf-948d73c36775
+SEQUENCE:0
+DTSTAMP:20250430T150537Z
+DTSTART:20250522T090000
+DTEND:20250522T110000
+SUMMARY:Asian American Advocacy Day
+LOCATION:131-137 W State St\, Trenton\, NJ
+DESCRIPTION:Join Asian American leaders from across New Jersey as we build
+  our advocacy muscles\, attend a Senate or Assembly Session\, and make our
+  voices heard. If you are new to advocacy\, we will offer a virtual traini
+ ng session the week prior so you know what to expect. Light breakfast and 
+ lunch will be provided.\n\nState House Annex
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=131-137+W+St
+ ate+St%2C+Trenton%2C+NJ&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

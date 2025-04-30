@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:beb8cb89-ff12-48b6-8450-9dc588a4a532
+SEQUENCE:0
+DTSTAMP:20250430T150537Z
+DTSTART:20250501T160000
+DTEND:20250501T180000
+SUMMARY:May Day Strong: We are the Many - West Caldwell\, NJ
+LOCATION:30 Clinton Rd\, West Caldwell\, NJ
+DESCRIPTION:We're organizing for workers' rights\, demanding public welfar
+ e over corporate profits. This event will be a peaceful protest against de
+ funding public services and privatizing industries.\n\nCrane Park
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=30+Clinton+R
+ d%2C+West+Caldwell%2C+NJ&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:23299388-1c3e-4170-98b6-505d41d7187d
+SEQUENCE:0
+DTSTAMP:20250430T150537Z
+DTSTART:20250501T150000
+DTEND:20250501T170000
+SUMMARY:Mayday! SOS Bloomfield
+LOCATION:Bloomfield Avenue & Municipal Plaza\, all four corners\, Bloomfie
+ ld\, NJ
+DESCRIPTION:We are organizing a rally to demand a country prioritizing fam
+ ilies over profits\, with a focus on public welfare over private gain. Joi
+ n us in Bloomfield to stand against economic inequalities and corporate gr
+ eed\, emphasizing unity\, housing\, healthcare\, and workers' rights.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Bloomfield+A
+ venue+%26+Municipal+Plaza%2C+all+four+corners%2C+Bloomfield%2C+NJ&zoom=15&
+ basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

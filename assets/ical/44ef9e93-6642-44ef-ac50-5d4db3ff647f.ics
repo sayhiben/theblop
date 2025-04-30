@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:b9a64a1a-768a-4d13-9518-089dd323a3e6
+SEQUENCE:0
+DTSTAMP:20250430T150537Z
+DTSTART:20250501T160000
+DTEND:20250501T180000
+SUMMARY:May Day Strong: We are the Many
+LOCATION:195 US Highway 206\, Chester\, NJ
+DESCRIPTION:We are organizing for labor rights\, public services\, and uni
+ on safety\, demanding a country prioritizing families over fortunes.\n\nCh
+ ester\, NJ
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=195+US+Highw
+ ay+206%2C+Chester%2C+NJ&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

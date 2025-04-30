@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:f2fc382b-bf86-4cd3-ac84-0fd403737cc1
+SEQUENCE:0
+DTSTAMP:20250430T150537Z
+DTSTART:20250501T123000
+DTEND:20250501T143000
+SUMMARY:May Day Port Newark Car Caravan
+LOCATION:51 Park Pl\, Newark\, NJ
+DESCRIPTION:Join us for a car caravan picket at Port Newark on Internation
+ al Workers Day. Show solidarity with truckers and workers\, and join the m
+ ovement for social justice and equality. Learn more about the fight agains
+ t policies affecting humanity negatively and be part of the effort to buil
+ d a better world.\n\nMilitary Park\, Newark\, NJ
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=51+Park+Pl%2
+ C+Newark%2C+NJ&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

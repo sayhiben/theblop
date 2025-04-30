@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:35b59f39-55d7-4a2c-9df9-ad6664b54cb9
+SEQUENCE:0
+DTSTAMP:20250430T150537Z
+DTSTART:20250501T180000
+DTEND:20250501T200000
+SUMMARY:May Day Strong Protest
+LOCATION:Various locations\, SE Corner of Noble County Courthouse\, Angola
+  Steuben County Courthouse\, etc.\, Multiple cities including Albion\, Ang
+ ola\, Attica\, etc.\, Nationwide
+DESCRIPTION:This flyer promotes a series of May Day protests taking place 
+ on May 1st\, 3rd\, and 4th in various locations. The events include protes
+ ts\, food drives\, and themed gatherings organized by different hosts.\n\n
+ Various\, as listed per event location
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Various+loca
+ tions%2C+SE+Corner+of+Noble+County+Courthouse%2C+Angola+Steuben+County+Cou
+ rthouse%2C+etc.%2C+Multiple+cities+including+Albion%2C+Angola%2C+Attica%2C
+ +etc.%2C+Nationwide&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

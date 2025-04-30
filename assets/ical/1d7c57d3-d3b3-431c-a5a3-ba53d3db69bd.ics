@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:618a6e0e-def7-441b-9eaa-5f1f4036653b
+SEQUENCE:0
+DTSTAMP:20250430T150537Z
+DTSTART:20250501T170000
+DTEND:20250501T190000
+SUMMARY:May Day Strong: We are the Many - Bridge Brigade
+LOCATION:301 N New Rd\, Pleasantville\, NJ
+DESCRIPTION:We're organizing a Bridge Brigade over the Atlantic City Expre
+ ssway to relay messages about social and economic justice. We demand housi
+ ng\, healthcare\, fair wages\, and union protection for all\, against the 
+ backdrop of nationwide economic inequality.\n\nBillows Electric Supply
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=301+N+New+Rd
+ %2C+Pleasantville%2C+NJ&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

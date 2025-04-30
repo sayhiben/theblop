@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:ae4c605a-cc1a-40e9-83d4-4bc59ac24b80
+SEQUENCE:0
+DTSTAMP:20250430T150537Z
+DTSTART:20250501T170000
+DTEND:20250501T190000
+SUMMARY:May Day Strong: We Are Your Neighbors
+LOCATION:William Dalton Drive & Delsea Drive\, Glassboro\, NJ
+DESCRIPTION:This is a peaceful visibility event to demonstrate clear oppos
+ ition to the multiple attacks on workers and marginalized communities by t
+ he Trump/Musk administration.\n\nSidewalk\, peaceful presence
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=William+Dalt
+ on+Drive+%26+Delsea+Drive%2C+Glassboro%2C+NJ&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

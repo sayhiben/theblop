@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:1dfc001e-b504-4d28-b6e1-cbe7d39cc1e6
+SEQUENCE:0
+DTSTAMP:20250430T150537Z
+DTSTART:20250503T140000
+DTEND:20250503T160000
+SUMMARY:WE THE PEOPLE
+LOCATION:City Hall\, Michigan City\, IN
+DESCRIPTION:We invite you to join us for the next 50 state protest\, inclu
+ ding a march starting at 2 PM. The event also features a food drive to ben
+ efit local pantries.\n\nMichigan City\, IN\, City Hall
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=City+Hall%2C
+ +Michigan+City%2C+IN&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

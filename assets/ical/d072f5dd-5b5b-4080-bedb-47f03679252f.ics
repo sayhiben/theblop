@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:c776436a-40cf-4da8-bfa7-501d3e0f9827
+SEQUENCE:0
+DTSTAMP:20250430T150537Z
+DTSTART:20250501T150000
+DTEND:20250501T170000
+SUMMARY:May Day Strong Cumberland County & South Jersey
+LOCATION:This event's address is private
+DESCRIPTION:We are demanding a country that puts our families over their f
+ ortunes\, focusing on public schools\, healthcare\, and housing. This is a
+  stand against profiteers creating a race to the bottom. Our stand is for 
+ fair wages\, union protection\, and safety.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=This+event%2
+ 7s+address+is+private&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

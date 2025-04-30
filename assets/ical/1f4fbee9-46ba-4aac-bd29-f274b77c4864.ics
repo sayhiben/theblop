@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:a546b608-ddda-42d5-9529-ab8588ea68fe
+SEQUENCE:0
+DTSTAMP:20250430T150537Z
+DTSTART:20250501T180000
+DTEND:20250501T200000
+SUMMARY:May Day National Day of Action
+LOCATION:475 Demott Ln\, Franklin Township\, NJ
+DESCRIPTION:We're organizing a rally to advocate for fair wages\, union pr
+ otection\, and the rights of working families\, immigrants\, and more. Thi
+ s is a call to stand together against corporate and government exploitatio
+ n.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=475+Demott+L
+ n%2C+Franklin+Township%2C+NJ&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

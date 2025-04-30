@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:c07f3156-1b90-42c5-9e56-5f7e64257c0d
+SEQUENCE:0
+DTSTAMP:20250430T150537Z
+DTSTART:20250504T133000
+DTEND:20250504T153000
+SUMMARY:May Day Strong
+LOCATION:Sylvia Beach Way\, Princeton\, NJ
+DESCRIPTION:We are organizing a rally to demand social justice and equity\
+ , focusing on worker unity and anti-corporate sentiments. We're calling fo
+ r public resources over private interests and will stand united using peac
+ eful protest.\n\nHinds Plaza
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Sylvia+Beach
+ +Way%2C+Princeton%2C+NJ&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

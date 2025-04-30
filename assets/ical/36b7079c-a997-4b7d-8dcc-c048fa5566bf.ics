@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:20979ffa-8d0e-42fd-aea5-ab86020530ae
+SEQUENCE:0
+DTSTAMP:20250430T150537Z
+DTSTART:20250503T120000
+DTEND:20250503T140000
+SUMMARY:Get Out The Vote: Canvass in Hudson County
+LOCATION:Jersey City\, Jersey City\, NJ
+DESCRIPTION:Join AAPI New Jersey to canvass and help get out the Asian Ame
+ rican vote in the upcoming election cycle. Volunteers can earn community s
+ ervice hours or $25 per hour. Training sessions for canvassing\, phone ban
+ king\, and text banking are included.\n\nMentioned during each session
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Jersey+City%
+ 2C+Jersey+City%2C+NJ&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

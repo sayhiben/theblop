@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:d08112b4-b1cb-4400-8870-9757feffabb3
+SEQUENCE:0
+DTSTAMP:20250430T150537Z
+DTSTART:20250503T130000
+DTEND:20250503T150000
+SUMMARY:May Day Newton: We are the Many\, They are the Few
+LOCATION:4 Spring St\, Newton\, NJ
+DESCRIPTION:We are organizing a rally for labor rights and against corpora
+ te influence with a focus on equality and economic justice. Join us in sta
+ nding up for families\, supporting public resources\, and opposing corpora
+ te elites.\n\nNewton Green
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=4+Spring+St%
+ 2C+Newton%2C+NJ&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

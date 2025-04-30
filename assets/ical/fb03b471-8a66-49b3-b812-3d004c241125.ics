@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:fb6f3318-b7dd-4164-ae2b-6dcd5ed34578
+SEQUENCE:0
+DTSTAMP:20250430T150537Z
+DTSTART:20250501T120000
+DTEND:20250501T140000
+SUMMARY:May Day Meditation
+LOCATION:Yanticaw Park- Unity/Peace statue\, Passaic Ave\, Enter the park 
+ at Centre Street\, Nutley\, NJ
+DESCRIPTION:Come sit for a while and meditate on Unity & Peace. We're medi
+ tating on a world where every family has housing\, healthcare\, fair wages
+ \, union protection\, and safety. Let's find action through stillness.\n\n
+ Yanticaw Park- Unity/Peace statue
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Yanticaw+Par
+ k-+Unity%2FPeace+statue%2C+Passaic+Ave%2C+Enter+the+park+at+Centre+Street%
+ 2C+Nutley%2C+NJ&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

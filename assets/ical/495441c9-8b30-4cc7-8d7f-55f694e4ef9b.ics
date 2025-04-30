@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:579094b6-b2b9-4e40-adf3-3a2435a77222
+SEQUENCE:0
+DTSTAMP:20250430T150537Z
+DTSTART:20250501T180000
+DTEND:20250501T200000
+SUMMARY:May Day Strong Denville: We are the Many!
+LOCATION:107 Diamond Spring Rd\, Denville\, NJ
+DESCRIPTION:Join us in Denville on May Day for a national day of action wh
+ ere we come together to stand against corporate influence and support work
+ ers' rights. We are organizing for housing\, healthcare\, fair wages\, uni
+ on protection\, and safety for all.\n\nGazebo area next to Denville Museum
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=107+Diamond+
+ Spring+Rd%2C+Denville%2C+NJ&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

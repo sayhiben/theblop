@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:9e86779d-d509-4739-8837-abbbfc49deff
+SEQUENCE:0
+DTSTAMP:20250430T150537Z
+DTSTART:20250503T120000
+DTEND:20250503T140000
+SUMMARY:Get Out The Vote: Canvass in Englewood
+LOCATION:108 W Palisade Ave\, Englewood\, NJ
+DESCRIPTION:We are organizing a canvassing event in Englewood to encourage
+  the Asian American and Latino vote. Participants will receive community s
+ ervice hours or paid compensation. Training sessions will also be conducte
+ d.\n\nThe Women's Center
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=108+W+Palisa
+ de+Ave%2C+Englewood%2C+NJ&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

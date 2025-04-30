@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:b8c3e353-374f-4d68-8dce-b03da8427c50
+SEQUENCE:0
+DTSTAMP:20250430T150537Z
+DTSTART:20250501T160000
+DTEND:20250501T180000
+SUMMARY:Passaic Educators Lead May Day Strong
+DESCRIPTION:We're organizing to demand fair treatment for workers and oppo
+ se corporate influences like Musk and Trump. Join us on May Day to stand t
+ ogether for workers' rights\, healthcare\, fair wages\, and union protecti
+ on.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=&zoom=15&bas
+ emap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

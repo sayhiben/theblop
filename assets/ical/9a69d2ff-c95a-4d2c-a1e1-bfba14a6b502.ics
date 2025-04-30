@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:b60ced76-8194-4151-84cf-824f87c5c63d
+SEQUENCE:0
+DTSTAMP:20250430T150537Z
+DTSTART:20250501T180000
+DTEND:20250501T200000
+SUMMARY:May Day March
+LOCATION:Fountain of Freedom\, Washington Rd\, Princeton\, NJ
+DESCRIPTION:Join us for the May Day March\, a national day of action to ad
+ dress issues like anti-imperialism and working-class power. We reject whit
+ e supremacy and state violence\, aiming to promote Public Education\, heal
+ thcare\, and housing.\n\nFountain of Freedom
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Fountain+of+
+ Freedom%2C+Washington+Rd%2C+Princeton%2C+NJ&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:1788cf26-f991-423d-a27c-29d455fe2672
+SEQUENCE:0
+DTSTAMP:20250430T150537Z
+DTSTART:20250501T170000
+DTEND:20250501T190000
+SUMMARY:May Day Strong: Stand Together Rahway
+LOCATION:East Milton Avenue & Irving Street\, Rahway\, NJ
+DESCRIPTION:May Day 2025 will be a gathering to advocate for public school
+ s\, healthcare\, housing\, and justice for all\, regardless of socio-econo
+ mic status. It aims to protest against actions deemed harmful towards work
+ ing people.\n\nRahway Train Station Plaza
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=East+Milton+
+ Avenue+%26+Irving+Street%2C+Rahway%2C+NJ&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

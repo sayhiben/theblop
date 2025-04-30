@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:b869c7e1-f424-4640-b0c6-1d1f47906521
+SEQUENCE:0
+DTSTAMP:20250430T150537Z
+DTSTART:20250501T140000
+DTEND:20250501T160000
+SUMMARY:NTU Stands in Solidarity
+DESCRIPTION:We are organizing a solidarity event to stand up for workers' 
+ rights\, immigrants' rights\, and fair contract negotiations. Join us for 
+ a rally at Lincoln Park\, followed by a march to the Federal Building and 
+ a Justice Walk to NJPAC.\n\nLincoln Park
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=&zoom=15&bas
+ emap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
