@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:b286107d-d0df-4964-9642-0114d5d04ac3
+SEQUENCE:0
+DTSTAMP:20250430T210524Z
+DTSTART:20250501T180000
+DTEND:20250501T200000
+SUMMARY:Defend Immigrants and Workers Rights
+LOCATION:Benito Juarez Statue
+DESCRIPTION:We're organizing a rally on International Workers' Day to defe
+ nd the rights of immigrants and workers. Join us to protest against police
+ -ICE collaboration and deportations.\n\nBenito Juarez Statue
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Benito+Juare
+ z+Statue&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

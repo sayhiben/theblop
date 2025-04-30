@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:ed8d8f7f-b362-4ce1-8d39-913c756a014a
+SEQUENCE:0
+DTSTAMP:20250430T210524Z
+DTSTART:20250501T163000
+DTEND:20250501T183000
+SUMMARY:May Day Protest in Hillsboro\, Ohio
+LOCATION:105 N High St\, Hillsboro\, OH
+DESCRIPTION:Join us for a rally organized by Indivisible volunteers to sho
+ w support and solidarity.\n\nCommon Pleas Court
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=105+N+High+S
+ t%2C+Hillsboro%2C+OH&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

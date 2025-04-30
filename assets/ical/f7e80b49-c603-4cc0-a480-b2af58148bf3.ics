@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:36a90040-b552-474b-94d6-98852da9eccb
+SEQUENCE:0
+DTSTAMP:20250430T210524Z
+DTSTART:20250501T180000
+DTEND:20250501T200000
+SUMMARY:May Day 2025
+LOCATION:W25th Market Square\, Cleveland\, OH
+DESCRIPTION:Emphasis on workers' rights and empowerment.\n\nMarket Square
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=W25th+Market
+ +Square%2C+Cleveland%2C+OH&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

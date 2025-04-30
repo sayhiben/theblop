@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:6d0946f2-1cab-4bfd-9365-36804631d6ef
+SEQUENCE:0
+DTSTAMP:20250430T210524Z
+DTSTART:20250501T180000
+DTEND:20250501T200000
+SUMMARY:May Day Strong: We are the Many
+LOCATION:Sidewalk down Roosevelt Blvd From Goldman Park\, Middletown\, OH
+DESCRIPTION:Join our visibility event organized by volunteers to promote c
+ ommunity engagement and solidarity.\n\nPaul at Goldman Park
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Sidewalk+dow
+ n+Roosevelt+Blvd+From+Goldman+Park%2C+Middletown%2C+OH&zoom=15&basemap=roa
+ dmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

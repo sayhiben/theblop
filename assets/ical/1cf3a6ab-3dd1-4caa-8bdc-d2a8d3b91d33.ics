@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:6001352a-5f5d-41dc-9efa-02566ff5c35c
+SEQUENCE:0
+DTSTAMP:20250430T210524Z
+DTSTART:20250501T163000
+DTEND:20250501T183000
+SUMMARY:National Day of Action: Fight for Public Education
+LOCATION:Ohio Statehouse\, Columbus\, OH
+DESCRIPTION:We are organizing a protest and picket to defend public educat
+ ion. Join us to stand up for educators\, workers\, families\, and students
+ .\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Ohio+Stateho
+ use%2C+Columbus%2C+OH&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

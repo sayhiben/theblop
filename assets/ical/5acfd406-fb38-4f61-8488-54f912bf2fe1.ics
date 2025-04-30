@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:6a5bc1a5-12f9-44c8-872d-95b93806f8a8
+SEQUENCE:0
+DTSTAMP:20250430T210524Z
+DTSTART:20250501T160000
+DTEND:20250501T180000
+SUMMARY:50 Protests 50 States 1 Movement - National Day of Action May Day 
+ Rally
+LOCATION:Corner of State and Front\, W State St & N Front St\, Fremont\, O
+ H
+DESCRIPTION:We aim to uphold the constitution\, end executive overreach\, 
+ and fight for liberty and justice for all. Everyone is welcome to make the
+ ir voices heard.\n\nCorner of State and Front\, W State St & N Front St\, 
+ Fremont\, OH 43420
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Corner+of+St
+ ate+and+Front%2C+W+State+St+%26+N+Front+St%2C+Fremont%2C+OH&zoom=15&basema
+ p=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

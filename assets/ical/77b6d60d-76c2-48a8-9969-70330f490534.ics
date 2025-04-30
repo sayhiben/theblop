@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:105a7808-b979-4542-9af9-8302f809cc99
+SEQUENCE:0
+DTSTAMP:20250430T210524Z
+DTSTART:20250501T163000
+DTEND:20250501T183000
+SUMMARY:May Day Strong Protest: Mansfield\, Ohio
+LOCATION:29 Park Ave E\, Mansfield\, OH
+DESCRIPTION:Volunteer-organized rally for May Day Strong in Mansfield\, Oh
+ io on National Day of Action.\n\nCentral Park
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=29+Park+Ave+
+ E%2C+Mansfield%2C+OH&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

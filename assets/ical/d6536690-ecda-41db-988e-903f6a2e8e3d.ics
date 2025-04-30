@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:97276e85-2d1b-477a-8de8-b16ddcd83c6a
+SEQUENCE:0
+DTSTAMP:20250430T210524Z
+DTSTART:20250501T173000
+DTEND:20250501T193000
+SUMMARY:May Day March & Rally
+LOCATION:SE 31st Avenue and Market St\, Portland\, OR
+DESCRIPTION:We are standing up for immigrants and workers' rights. Join us
+  in solidarity against deportations and adverse agendas.\n\nSewallcrest Pa
+ rk
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=SE+31st+Aven
+ ue+and+Market+St%2C+Portland%2C+OR&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

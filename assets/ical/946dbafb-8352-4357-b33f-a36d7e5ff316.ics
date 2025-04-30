@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:b83ca1d6-9a89-402a-8bf1-433db7ed8549
+SEQUENCE:0
+DTSTAMP:20250430T210524Z
+DTSTART:20250501T140000
+DTEND:20250501T160000
+SUMMARY:Join the 50501 Movement
+LOCATION:801 Wheeling Ave\, Cambridge\, OH
+DESCRIPTION:We invite you to join the 50501 Movement happening on May 1st.
+  Be a part of the community gathering hosted by the Guernsey County Commun
+ ity.\n\nGuernsey County Courthouse
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=801+Wheeling
+ +Ave%2C+Cambridge%2C+OH&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

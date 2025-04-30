@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:f029c5be-bb71-4d13-89c0-be1f64a725ee
+SEQUENCE:0
+DTSTAMP:20250430T210524Z
+DTSTART:20250501T180000
+DTEND:20250501T200000
+SUMMARY:May Day
+LOCATION:1435 E Main St\, Kent\, OH
+DESCRIPTION:Join us for a National Day of Action at the May Day event orga
+ nized by the Kent Community to stop the billionaire agenda. We are the man
+ y\, they are the few.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=1435+E+Main+
+ St%2C+Kent%2C+OH&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

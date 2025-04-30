@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:e52adbfc-071f-47fc-a6f4-db71e5357851
+SEQUENCE:0
+DTSTAMP:20250430T210524Z
+DTSTART:20250501T170000
+DTEND:20250501T190000
+SUMMARY:May Day Strong: We are the Many | Mayday Coalition Project Dayton 
+ Rally
+LOCATION:23 N Main St\, Dayton\, OH
+DESCRIPTION:We are organizing a rally for May Day at Courthouse Square to 
+ unite and strengthen our community. Join us on Thursday for a volunteer-or
+ ganized event in support of the Mayday Coalition Project.\n\nCourthouse Sq
+ uare
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=23+N+Main+St
+ %2C+Dayton%2C+OH&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

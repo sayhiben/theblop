@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:fdfdd3ee-a72d-4a98-acd5-fa93470a21dd
+SEQUENCE:0
+DTSTAMP:20250430T210524Z
+DTSTART:20250501T160000
+DTEND:20250501T180000
+SUMMARY:May Day
+LOCATION:6057 Strip Ave NW\, North Canton\, OH 44720
+DESCRIPTION:We are gathering to address the issue of billionaire influence
+  and aim to stop their takeover.\n\n6057 Strip Ave NW
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=6057+Strip+A
+ ve+NW%2C+North+Canton%2C+OH+44720&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

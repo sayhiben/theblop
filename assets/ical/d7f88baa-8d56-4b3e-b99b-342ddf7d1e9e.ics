@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:b192645e-1181-429e-a547-6b1e6ecd8860
+SEQUENCE:0
+DTSTAMP:20250430T210524Z
+DTSTART:20250501T173000
+DTEND:20250501T193000
+SUMMARY:Sioux Falls March for Due Process
+LOCATION:Federal Court House (12th & Phillips)\, Sioux Falls\, SD
+DESCRIPTION:We are organizing a march in Sioux Falls to advocate for due p
+ rocess. Participants will gather at the Federal Court House and proceed to
+  walk north to the Arc of Dreams.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Federal+Cour
+ t+House+%2812th+%26+Phillips%29%2C+Sioux+Falls%2C+SD&zoom=15&basemap=roadm
+ ap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

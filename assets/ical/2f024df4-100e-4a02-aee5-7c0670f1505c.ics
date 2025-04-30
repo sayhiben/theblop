@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:b76e7622-33b3-4725-a4c9-2f171bee6453
+SEQUENCE:0
+DTSTAMP:20250430T210524Z
+DTSTART:20250501T150000
+DTEND:20250501T170000
+SUMMARY:Save Our Democracy!
+LOCATION:Court & Main\, Circleville\, OH
+DESCRIPTION:Join us in Circleville\, OH\, to advocate and rally for democr
+ acy as part of a May Day event. The goal is to bring attention to importan
+ t social issues and promote civic engagement.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Court+%26+Ma
+ in%2C+Circleville%2C+OH&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

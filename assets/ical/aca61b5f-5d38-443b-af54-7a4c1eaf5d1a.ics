@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:9dfa59e6-c9f3-466c-a36e-e859626d840c
+SEQUENCE:0
+DTSTAMP:20250430T210524Z
+DTSTART:20250501T170000
+DTEND:20250501T190000
+SUMMARY:International Workers Day Demonstration
+LOCATION:Wooster Green\, Bowling Green\, OH
+DESCRIPTION:Join us for the International Workers Day Demonstration to cha
+ llenge exploitation and oligarchy. Organized by the Bowling Green DSA.\n\n
+ Wooster Green
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Wooster+Gree
+ n%2C+Bowling+Green%2C+OH&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

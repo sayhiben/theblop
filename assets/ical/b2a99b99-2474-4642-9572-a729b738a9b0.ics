@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:62cf127c-6639-4b31-b45c-1a8bff6f2eb1
+SEQUENCE:0
+DTSTAMP:20250430T210524Z
+DTSTART:20250501T160000
+DTEND:20250501T180000
+SUMMARY:May Day National Day of Action
+LOCATION:\, Kent\, OH
+DESCRIPTION:Join us for the May Day National Day of Action. Participate in
+  a day of solidarity and activism at the Downtown Gazebo.\n\nDowntown Gaze
+ bo
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+Kent%2C+
+ OH&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

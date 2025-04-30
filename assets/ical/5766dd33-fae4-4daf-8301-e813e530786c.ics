@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:e0b0e6cf-ec36-417d-8073-93fee104cd07
+SEQUENCE:0
+DTSTAMP:20250430T210524Z
+DTSTART:20250501T170000
+DTEND:20250501T190000
+SUMMARY:Community Gathering
+LOCATION:101 East Main Street\, Eaton\, OH
+DESCRIPTION:Join us on the sidewalks around the Preble County Courthouse i
+ n Eaton for a community event.\n\nSidewalks around Preble County Courthous
+ e
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=101+East+Mai
+ n+Street%2C+Eaton%2C+OH&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

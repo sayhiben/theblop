@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:64af5eb0-7f7f-4c80-a747-cf42328de9af
+SEQUENCE:0
+DTSTAMP:20250430T210524Z
+DTSTART:20250501T170000
+DTEND:20250501T190000
+SUMMARY:Day of Mobilization
+LOCATION:John Dam Plaza\, Richland\, WA
+DESCRIPTION:Join us for a Day of Mobilization to rally at John Dam Plaza. 
+ The event aims to bring the community together from 5 PM to 7 PM on May 1s
+ t.\n\nJohn Dam Plaza
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=John+Dam+Pla
+ za%2C+Richland%2C+WA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:dcf4523d-c26b-43ef-a2c1-f80cff5999a3
+SEQUENCE:0
+DTSTAMP:20250430T210524Z
+DTSTART:20250501T163000
+DTEND:20250501T183000
+SUMMARY:May Day Strong: We are the Many
+LOCATION:1 N Main St\, High Street\, London\, OH
+DESCRIPTION:A volunteer-organized rally as part of the May Day National Da
+ y of Action.\n\nMadison County Courthouse
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=1+N+Main+St%
+ 2C+High+Street%2C+London%2C+OH&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

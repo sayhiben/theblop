@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:0b9a3fe5-8be1-459f-8e76-a5f0b2214e72
+SEQUENCE:0
+DTSTAMP:20250430T210524Z
+DTSTART:20250501T170000
+DTEND:20250501T190000
+SUMMARY:Join the 50501 Movement
+LOCATION:6370 Mason Montgomery Rd\, Mason\, OH
+DESCRIPTION:Join the movement hosted by Pissed Off Mason Moms at the Mason
+  Middle School parking lot to participate in the 50501 Movement event.\n\n
+ Mason Middle School parking lot (corner of Tylersville & Mason Montgomery)
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=6370+Mason+M
+ ontgomery+Rd%2C+Mason%2C+OH&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
