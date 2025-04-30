@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:14d47db3-690f-44f5-a6c4-d3cf58f16c42
+SEQUENCE:0
+DTSTAMP:20250430T180358Z
+DTSTART:20250501T173000
+DTEND:20250501T193000
+SUMMARY:MAYDAY! FOR THE WORKERS\, NOT THE BILLIONAIRES
+LOCATION:Courthouse Sidewalks\, Muskingum\, OH
+DESCRIPTION:Join us to support labor and others impacted by this administr
+ ation. Federal unions are under attack. Attend the event to show solidarit
+ y.\n\nMuskingum Co. Courthouse Sidewalks
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Courthouse+S
+ idewalks%2C+Muskingum%2C+OH&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:95f0ede5-0612-4fdd-b618-24ce179d1566
+SEQUENCE:0
+DTSTAMP:20250430T180358Z
+DTSTART:20250501T163000
+DTEND:20250501T183000
+SUMMARY:National Day of Action
+LOCATION:21 S State Street\, Westerville\, OH
+DESCRIPTION:Join us as we peacefully raise our voices and signs in solidar
+ ity.\n\nWesterville City Hall
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=21+S+State+S
+ treet%2C+Westerville%2C+OH&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

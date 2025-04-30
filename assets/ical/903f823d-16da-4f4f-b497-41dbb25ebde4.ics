@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:44d22f3f-ac09-49ff-812f-432ac50f465d
+SEQUENCE:0
+DTSTAMP:20250430T180358Z
+DTSTART:20250501T150000
+DTEND:20250501T170000
+SUMMARY:Mayday Protest
+LOCATION:Washington Park\, New York\, NY
+DESCRIPTION:Join us for a protest to raise awareness and advocate for urge
+ nt change. Together\, let's make our voices heard.\n\nWashington Park
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Washington+P
+ ark%2C+New+York%2C+NY&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

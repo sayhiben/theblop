@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:7010c0a1-b203-4d01-b8a5-cb51d3bbf539
+SEQUENCE:0
+DTSTAMP:20250430T180358Z
+DTSTART:20250501T173000
+DTEND:20250501T193000
+SUMMARY:May Day of Action
+LOCATION:One Government Center\, Toledo\, OH
+DESCRIPTION:Join us in Toledo to support the most marginalized communities
+ . The event is open to everyone\, hosted by NW Ohio DSA\, Toledo Against O
+ ppression\, UTSJP\, and The Mockingjay Movement.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=One+Governme
+ nt+Center%2C+Toledo%2C+OH&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

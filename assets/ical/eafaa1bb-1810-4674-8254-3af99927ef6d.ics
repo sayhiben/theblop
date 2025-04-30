@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:804aaf75-f471-4e99-851e-cd869cf07be5
+SEQUENCE:0
+DTSTAMP:20250430T180358Z
+DTSTART:20250501T163000
+DTEND:20250501T183000
+SUMMARY:National Action
+LOCATION:46 S. South St\, Wilmington\, OH
+DESCRIPTION:Join us for an impactful gathering organized by the Clinton Co
+ unty Alliance of Compassion and Truth (ACT) aimed at fostering community e
+ ngagement and promoting truth and compassion.\n\nClinton County Courthouse
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=46+S.+South+
+ St%2C+Wilmington%2C+OH&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

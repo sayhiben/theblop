@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:62ac25fe-789b-48cb-9aa6-9a66e915d4da
+SEQUENCE:0
+DTSTAMP:20250430T180358Z
+DTSTART:20250501T180000
+DTEND:20250501T200000
+SUMMARY:May Day - May Day Save Our Democracy!
+LOCATION:215 West Main St.\, Troy\, OH
+DESCRIPTION:Bring your signs\, your voices\, and join us as we stand toget
+ her in solidarity. Let’s show up\, speak out\, and remind Miami County w
+ e’re not backing down.\n\nSidewalks in front of Miami County Courthouse
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=215+West+Mai
+ n+St.%2C+Troy%2C+OH&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

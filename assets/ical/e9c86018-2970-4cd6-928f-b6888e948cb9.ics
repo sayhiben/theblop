@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:4caf4029-2501-4ab9-afe8-a20483a88c54
+SEQUENCE:0
+DTSTAMP:20250430T180358Z
+DTSTART:20250501T170000
+DTEND:20250501T190000
+SUMMARY:MAY DAY
+LOCATION:Sandusky Mall\, Sandusky\, OH
+DESCRIPTION:Advocating for workers' rights through a rally and unity activ
+ ities. Join to protect the working class.\n\nSandusky Mall
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Sandusky+Mal
+ l%2C+Sandusky%2C+OH&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

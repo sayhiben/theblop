@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:59bd76e6-c917-4bde-ac1a-bd2cdc5fcfed
+SEQUENCE:0
+DTSTAMP:20250430T180358Z
+DTSTART:20250501T130000
+DTEND:20250501T150000
+SUMMARY:50501 Movement
+LOCATION:Fountain Park\nJefferson St. & Main St.\, Van Wert\, OH
+DESCRIPTION:Join the movement hosted by Van Wert Community to engage the l
+ ocal community in activities at Fountain Park.\n\nFountain Park
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Fountain+Par
+ k%0AJefferson+St.+%26+Main+St.%2C+Van+Wert%2C+OH&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

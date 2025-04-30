@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:b1cad0c0-f4a5-4de3-88d5-f80af6f9cf6e
+SEQUENCE:0
+DTSTAMP:20250430T180358Z
+DTSTART:20250501T160000
+DTEND:20250501T180000
+SUMMARY:May Day - National Day of Action
+LOCATION:Along the sidewalks of the uptown parks\, Oxford\, 
+DESCRIPTION:We stand in solidarity with workers\, veterans\, students\, se
+ niors\, and immigrants against government overreach\, abuse\, and corrupti
+ on.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Along+the+si
+ dewalks+of+the+uptown+parks%2C+Oxford%2C+&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

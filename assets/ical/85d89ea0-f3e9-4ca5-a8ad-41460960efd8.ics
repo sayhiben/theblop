@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:b3213f2e-dcab-43d9-8468-385eedab84c6
+SEQUENCE:0
+DTSTAMP:20250430T180358Z
+DTSTART:20250430T160000
+DTEND:20250430T180000
+SUMMARY:Tesla Takedown Paramus- April 30
+LOCATION:530 Rte 17\, Paramus\, NJ
+DESCRIPTION:We are taking nonviolent action at Tesla to stop Musk's illega
+ l coup. Sell your Teslas\, dump your stock\, join the picket lines. We're 
+ tanking Tesla's stock price to stop Musk.\n\nTesla Paramus - Route 17 Loca
+ tion
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=530+Rte+17%2
+ C+Paramus%2C+NJ&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
