@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:2eb72bc9-6734-4769-ba50-54c56b09bcf6
+SEQUENCE:0
+DTSTAMP:20250430T060322Z
+DTSTART:20250510T120000
+DTEND:20250510T140000
+SUMMARY:Stand Up Loveland
+LOCATION:1606 N Lincoln Ave\, Loveland\, CO
+DESCRIPTION:Join us for a peaceful protest to stand up together in support
+  of our constitutional rights\, immigrant community\, transgender communit
+ y\, and federal workforce. Bring a friend\, signs\, and flags to share you
+ r voice and heart with our community.\n\nLine the sidewalks from Sprouts t
+ o Tesla
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=1606+N+Linco
+ ln+Ave%2C+Loveland%2C+CO&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

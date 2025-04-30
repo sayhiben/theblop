@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:8ffce0e3-8df6-4e8d-8885-29d0d6d67e16
+SEQUENCE:0
+DTSTAMP:20250430T060322Z
+DTSTART:20250501T163000
+DTEND:20250501T183000
+SUMMARY:Good Trouble Trumbull\, May Day
+LOCATION:161 High St NW\, Warren\, OH
+DESCRIPTION:Join us for the Good Trouble Trumbull event at Courthouse Squa
+ re to engage in community activities and celebrate May Day.\n\nCourthouse 
+ Square
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=161+High+St+
+ NW%2C+Warren%2C+OH&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
