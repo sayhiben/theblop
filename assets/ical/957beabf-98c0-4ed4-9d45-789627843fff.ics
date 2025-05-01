@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:6d8fed90-e756-407f-a551-55ce83b9e52e
+SEQUENCE:0
+DTSTAMP:20250501T210309Z
+DTSTART:20250504T160000
+DTEND:20250504T180000
+SUMMARY:May Day\, May Day!
+LOCATION:Four Corners\, Broad St\, South St\, & Santa Barbara Ave\, San Lu
+ is Obispo\, CA
+DESCRIPTION:Join us for a peaceful protest and food drive to voice disappr
+ oval of the administration's treatment of the working class. We stand in s
+ olidarity by engaging in mutual aid.\n\nFour Corners intersection in SLO
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Four+Corners
+ %2C+Broad+St%2C+South+St%2C+%26+Santa+Barbara+Ave%2C+San+Luis+Obispo%2C+CA
+ &zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
