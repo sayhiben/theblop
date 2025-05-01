@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:25b7124f-6f5c-45ea-a9f8-9bd56e901aca
+SEQUENCE:0
+DTSTAMP:20250501T000706Z
+DTSTART:20250501T163000
+DTEND:20250501T183000
+SUMMARY:MAY DAY National Day of Action
+LOCATION:Pioneer Courthouse Square\, Portland\, OR
+DESCRIPTION:Join Indivisible and 5050 1 Portland for a rally to advocate f
+ or community well-being through housing\, healthcare\, and fair wages.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Pioneer+Cour
+ thouse+Square%2C+Portland%2C+OR&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

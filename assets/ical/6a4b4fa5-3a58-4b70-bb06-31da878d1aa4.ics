@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:ff25b253-cdb4-4d76-81f5-24eff1e842aa
+SEQUENCE:0
+DTSTAMP:20250501T000706Z
+DTSTART:20250501T163000
+DTEND:20250501T183000
+SUMMARY:May Day Strong: We are the Many
+LOCATION:Main Street & 7th Street\, Windsor\, CO
+DESCRIPTION:Join us for a national day of action to celebrate May Day\, or
+ ganized by volunteers.\n\nMain Street & 7th Street
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Main+Street+
+ %26+7th+Street%2C+Windsor%2C+CO&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:e4760896-babd-41cd-b47f-dc64851dc2ef
+SEQUENCE:0
+DTSTAMP:20250501T000706Z
+DTSTART:20250503T120000
+DTEND:20250503T140000
+SUMMARY:Tesla Takedown Takes on MAGA Billionaires
+LOCATION:Manhattan Tesla Showroom\, New York\, NY
+DESCRIPTION:We are organizing a march to challenge prominent billionaire f
+ igures and corporations. The event will start at the Tesla Showroom and mo
+ ve to other significant locations in protest.\n\nManhattan Tesla Showroom
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Manhattan+Te
+ sla+Showroom%2C+New+York%2C+NY&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
