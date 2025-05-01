@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:8e62066d-1a37-417a-bbe3-a6c8de9a7fa1
+SEQUENCE:0
+DTSTAMP:20250501T180317Z
+DTSTART:20250507T170000
+DTEND:20250507T190000
+SUMMARY:MAGA Billionaire Blockade
+LOCATION:New York Public Library\, New York\, NY
+DESCRIPTION:Join us for the MAGA Billionaire Blockade as we gather at the 
+ New York Public Library and march to the MAGA Billionaire Gala at Cipriani
+ 's on 42nd.\n\nNew York Public Library
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=New+York+Pub
+ lic+Library%2C+New+York%2C+NY&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

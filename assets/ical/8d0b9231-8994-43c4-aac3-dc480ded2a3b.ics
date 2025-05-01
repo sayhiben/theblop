@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:45c40044-4ad1-40cc-96dd-b68f111ac72e
+SEQUENCE:0
+DTSTAMP:20250501T180317Z
+DTSTART:20250503T120000
+DTEND:20250503T140000
+SUMMARY:May Day Strong: We are the Many
+LOCATION:100 E State St\, Olean\, NY
+DESCRIPTION:A rally organized by volunteers for May Day Strong\, focusing 
+ on uniting workers across various sectors for action.\n\nLincoln Park
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=100+E+State+
+ St%2C+Olean%2C+NY&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:b585d021-0c49-4d80-817b-ae98a80287b3
+SEQUENCE:0
+DTSTAMP:20250501T180317Z
+DTSTART:20250501T160000
+DTEND:20250501T180000
+SUMMARY:May Day Strong: We are the Many
+LOCATION:9200 113th St\, Seminole\, FL
+DESCRIPTION:This is a visibility event organized by volunteers to particip
+ ate in the May Day National Day of Action.\n\nCongresswoman Lunas office a
+ t SPC campus
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=9200+113th+S
+ t%2C+Seminole%2C+FL&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
