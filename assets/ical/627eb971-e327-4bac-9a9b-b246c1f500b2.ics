@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:f4089382-8e64-433a-958c-6a7e25642d0d
+SEQUENCE:0
+DTSTAMP:20250501T120323Z
+DTSTART:20250518T120000
+DTEND:20250518T140000
+SUMMARY:Tenant Rally
+LOCATION:Palmer Square Park\, Chicago\, IL
+DESCRIPTION:A promotional flyer suggesting a rally event addressing tenant
+  issues\, emphasizing communal ownership of the city.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Palmer+Squar
+ e+Park%2C+Chicago%2C+IL&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

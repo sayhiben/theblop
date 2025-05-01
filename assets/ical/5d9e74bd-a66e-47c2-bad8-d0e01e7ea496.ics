@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:4253c592-35f0-4c42-947b-503bc5989fe2
+SEQUENCE:0
+DTSTAMP:20250501T120323Z
+DTSTART:20250501T170000
+DTEND:20250501T190000
+SUMMARY:May Day Rally
+LOCATION:Anchorage Park Strip (the section between E Street and I Street)\
+ , Anchorage\, AK
+DESCRIPTION:Join us in solidarity to demand answers from our federal repre
+ sentatives. The event features food trucks\, a beer garden\, and a DJ.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Anchorage+Pa
+ rk+Strip+%28the+section+between+E+Street+and+I+Street%29%2C+Anchorage%2C+A
+ K&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
