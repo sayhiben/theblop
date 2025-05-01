@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:679c1a1b-928b-467f-8849-84687a25c285
+SEQUENCE:0
+DTSTAMP:20250501T060345Z
+DTSTART:20250501T080000
+DTEND:20250501T100000
+SUMMARY:Seattle banner overpass event - Yesler & I-5
+LOCATION:Yesler & I-5 Overpass\, Seattle\, WA
+DESCRIPTION:Join us at the Yesler & I-5 Overpass in Seattle for a banner e
+ vent organized by Knights Who Say Ni and 50501 Movement Washington State.\
+ n\nYesler & I-5 Overpass
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Yesler+%26+I
+ -5+Overpass%2C+Seattle%2C+WA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

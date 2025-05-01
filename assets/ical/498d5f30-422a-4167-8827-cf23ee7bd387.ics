@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:ac60a107-8cda-497e-85b8-e37368385732
+SEQUENCE:0
+DTSTAMP:20250501T060345Z
+DTSTART:20250501T113000
+DTEND:20250501T133000
+SUMMARY:May Day 2025
+LOCATION:\, Seattle\, WA
+DESCRIPTION:We are organizing a May Day event in Seattle to build power to
+ gether with workers and immigrants\, with OneAmerica leading the march.\n\
+ n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+Seattle%
+ 2C+WA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

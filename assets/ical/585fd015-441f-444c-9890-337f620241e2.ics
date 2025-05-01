@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:98452966-8410-485c-8424-7db5dea47e5f
+SEQUENCE:0
+DTSTAMP:20250501T060345Z
+DTSTART:20250501T120000
+DTEND:20250501T140000
+SUMMARY:Vancouver- International Workers Day
+LOCATION:605 Esther St\, Vancouver\, WA
+DESCRIPTION:Join us to celebrate International Workers Day with activities
+  focused on labor rights and consumer awareness. Organized by Knights Who 
+ Say Ni and 50501 Movement Washington State\, the event highlights a boycot
+ t against certain companies and encourages participation in labor stops on
+  specified dates.\n\nEsther Short Park
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=605+Esther+S
+ t%2C+Vancouver%2C+WA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

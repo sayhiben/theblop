@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:6a657102-b2fd-4090-a811-462f7cf5687e
+SEQUENCE:0
+DTSTAMP:20250501T060345Z
+DTSTART:20250501T110000
+DTEND:20250501T130000
+SUMMARY:May Day! No Kings! No Tyrants! No Fascists!
+LOCATION:Private
+DESCRIPTION:This is a community event organized by volunteers for Indivisi
+ ble\, promoting civic action and engagement.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Private&zoom
+ =15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

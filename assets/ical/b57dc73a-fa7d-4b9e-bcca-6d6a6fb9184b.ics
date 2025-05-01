@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:1967b8a1-56bc-4d8d-bdc6-b8ad9991a96a
+SEQUENCE:0
+DTSTAMP:20250501T060345Z
+DTSTART:20250501T080000
+DTEND:20250501T100000
+SUMMARY:Seattle- 50th & I-5 Overpass Bannering Event
+LOCATION:50th & I-5 Overpass\, Seattle\, WA
+DESCRIPTION:Join us at the 50th & I-5 Overpass for a public bannering even
+ t to support Nat'l Parks. Organized by Knights Who Say Ni and 50501 Moveme
+ nt Washington State.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=50th+%26+I-5
+ +Overpass%2C+Seattle%2C+WA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

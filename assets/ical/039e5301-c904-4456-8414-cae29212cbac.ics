@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:4c78c235-1bb9-4d11-aa82-37c61bfc5c07
+SEQUENCE:0
+DTSTAMP:20250501T060345Z
+DTSTART:20250501T160000
+DTEND:20250501T180000
+SUMMARY:Protest\, Portland Area\, Near May Day 2025
+LOCATION:Various locations as listed\, Portland\, OR
+DESCRIPTION:A series of protests and public gatherings in Portland around 
+ May Day focusing on various social and political issues.\n\nI-205 at Marke
+ t St\, Portland Farmers Market at PSU\, etc.
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Various+loca
+ tions+as+listed%2C+Portland%2C+OR&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

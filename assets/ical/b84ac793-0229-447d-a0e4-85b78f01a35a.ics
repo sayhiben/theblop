@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:d0eedfa1-4213-4957-a018-0e5b208f2bcb
+SEQUENCE:0
+DTSTAMP:20250501T060345Z
+DTSTART:20250503T130000
+DTEND:20250503T150000
+SUMMARY:Our Democracy 2.0 Protest & Rally
+LOCATION:315 E War Memorial Dr\, Peoria\, IL
+DESCRIPTION:Join us for a protest and rally to stand for our democracy. We
+  gather on May 3rd to voice our concerns and unite for a cause.\n\nPeoria 
+ Stadium
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=315+E+War+Me
+ morial+Dr%2C+Peoria%2C+IL&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

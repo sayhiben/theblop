@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:226c9ed7-b527-48bb-9fcb-bf2d2507f2f6
+SEQUENCE:0
+DTSTAMP:20250501T060345Z
+DTSTART:20250501T080000
+DTEND:20250501T100000
+SUMMARY:Kirkland NE 70th Street & I-405 Overpass Bannering event
+LOCATION:Kirkland NE 70th Street & I-405 Overpass\, Kirkland\, WA
+DESCRIPTION:The event involves a public bannering activity at the Kirkland
+  NE 70th Street & I-405 Overpass where participants will display banners t
+ o promote democracy.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Kirkland+NE+
+ 70th+Street+%26+I-405+Overpass%2C+Kirkland%2C+WA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:38ce2ede-bc28-4110-81b5-b6c116f7fbbd
+SEQUENCE:0
+DTSTAMP:20250501T060345Z
+DTSTART:20250501T110000
+DTEND:20250501T130000
+SUMMARY:Zillah- sign waving event
+LOCATION:1st Ave and Vintage Valley Parkway\, Zillah\, WA
+DESCRIPTION:Join us for a sign-waving event at the Zillah stoplight on 1st
+  Ave and Vintage Valley Parkway. Bring your sign and make an impact with t
+ he Knights Who Say Ni and 50501 Movement Washington State.\n\nZillah stopl
+ ight\, 1st Ave and Vintage Valley Parkway
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=1st+Ave+and+
+ Vintage+Valley+Parkway%2C+Zillah%2C+WA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

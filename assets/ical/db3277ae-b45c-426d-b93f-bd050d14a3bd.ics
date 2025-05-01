@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:daea1e77-8943-4456-8f31-010c0ae87b17
+SEQUENCE:0
+DTSTAMP:20250501T060345Z
+DTSTART:20250501T100000
+DTEND:20250501T120000
+SUMMARY:Mayday Strong
+LOCATION:Seattle Central College\, Seattle\, WA
+DESCRIPTION:Join us for sign-making\, a sit-in\, and a canned food drive a
+ t Seattle Central College.\n\nCal Anderson Park
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Seattle+Cent
+ ral+College%2C+Seattle%2C+WA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

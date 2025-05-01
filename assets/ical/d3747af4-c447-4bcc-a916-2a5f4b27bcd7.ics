@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:e995b6d5-35ec-4938-8f94-e43481dc5b69
+SEQUENCE:0
+DTSTAMP:20250501T060345Z
+DTSTART:20250501T110000
+DTEND:20250501T130000
+SUMMARY:May Day Protest
+LOCATION:Cougar Plaza\, Pullman\, WA
+DESCRIPTION:Join us in Pullman for the May Day protest to stand up for wha
+ t matters during your lunch break.\n\nCougar Plaza
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Cougar+Plaza
+ %2C+Pullman%2C+WA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

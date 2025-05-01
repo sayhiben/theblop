@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:d3a65378-2726-4254-90a2-565dddff1ec6
+SEQUENCE:0
+DTSTAMP:20250501T060345Z
+DTSTART:20250501T120000
+DTEND:20250501T140000
+SUMMARY:MAY DAY STRONG
+LOCATION:104 W. Magnolia (Federal Building)\, Bellingham\, WA
+DESCRIPTION:The 50501 Movement invites you to join us on May 1\, 2025\, at
+  104 W. Magnolia\, Bellingham\, WA. We stand against the billionaire takeo
+ ver\, support social programs\, and advocate for community investment.\n\n
+ 104 W. Magnolia (Federal Building)\, Bellingham\, WA
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=104+W.+Magno
+ lia+%28Federal+Building%29%2C+Bellingham%2C+WA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
