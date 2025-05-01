@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:8e97d4cb-2b4c-4d88-811c-6fed0013dda8
+SEQUENCE:0
+DTSTAMP:20250501T090400Z
+DTSTART:20250503T130000
+DTEND:20250503T150000
+SUMMARY:Protest
+LOCATION:205th and Hwy99\, Shoreline/Edmonds\, WA
+DESCRIPTION:We are organizing a protest at 205th and Hwy99 in Shoreline/Ed
+ monds.\n\n205th and Hwy99
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=205th+and+Hw
+ y99%2C+Shoreline%2FEdmonds%2C+WA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

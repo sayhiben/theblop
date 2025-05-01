@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:5adf2f3e-c689-4713-96de-6379aa35a68d
+SEQUENCE:0
+DTSTAMP:20250501T090400Z
+DTSTART:20250501T160000
+DTEND:20250501T180000
+SUMMARY:May Day Rally
+LOCATION:1st and Elm streets\, Kalama\, WA
+DESCRIPTION:Join fellow protectors of the constitution\, workers' rights\,
+  and the well-being of our country. Bring signs\, noisemakers.\n\n1st and 
+ Elm streets
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=1st+and+Elm+
+ streets%2C+Kalama%2C+WA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

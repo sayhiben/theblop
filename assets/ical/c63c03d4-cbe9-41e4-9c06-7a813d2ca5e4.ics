@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:d6ec86d0-01d3-4464-a71f-fc2a177fdec7
+SEQUENCE:0
+DTSTAMP:20250501T090400Z
+DTSTART:20250501T120000
+DTEND:20250501T140000
+SUMMARY:May Day
+LOCATION:Sidewalk Side of Midway Avenue\, Grand Coulee\, WA
+DESCRIPTION:May Day Strong is a call to action and a stand against billion
+ aire exploitation and corporate domination. Working people\, parents\, stu
+ dents\, and community members will rise in every corner of the country to 
+ fight for dignity\, justice\, and public investment in our lives.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Sidewalk+Sid
+ e+of+Midway+Avenue%2C+Grand+Coulee%2C+WA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

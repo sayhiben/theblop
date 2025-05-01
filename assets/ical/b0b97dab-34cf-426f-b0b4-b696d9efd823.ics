@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:43330965-3663-45c6-9e89-59d00ba44166
+SEQUENCE:0
+DTSTAMP:20250501T090400Z
+DTSTART:20250501T150000
+DTEND:20250501T170000
+SUMMARY:May Day 2025 March and Picket
+LOCATION:Yauger Park\, Lower parking lot off Capital Mall Drive SW\, Olymp
+ ia\, WA
+DESCRIPTION:We are organizing a march and picket against corporations harm
+ ing families and human rights. Join us in Olympia to protest and make a di
+ fference.\n\nYauger Park
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Yauger+Park%
+ 2C+Lower+parking+lot+off+Capital+Mall+Drive+SW%2C+Olympia%2C+WA&zoom=15&ba
+ semap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

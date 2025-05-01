@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:49175aae-8229-44ad-a8f0-e08d12ec9ce6
+SEQUENCE:0
+DTSTAMP:20250501T090400Z
+DTSTART:20250501T130000
+DTEND:20250501T150000
+SUMMARY:Flash Protest @ The Fountain
+LOCATION:Tivoli Fountain\, Olympia\, WA
+DESCRIPTION:We invite you to participate in a flash protest organized by S
+ hylee Davey in collaboration with 50501 Movement Washington State at the T
+ ivoli Fountain.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Tivoli+Fount
+ ain%2C+Olympia%2C+WA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

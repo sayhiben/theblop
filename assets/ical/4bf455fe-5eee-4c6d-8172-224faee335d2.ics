@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:74ed9fb1-0bbb-434d-8d6f-9f3ff0145ed6
+SEQUENCE:0
+DTSTAMP:20250501T090400Z
+DTSTART:20250501T163000
+DTEND:20250501T183000
+SUMMARY:Stop Fascism March for Democracy
+LOCATION:\, Seattle\, WA
+DESCRIPTION:Join us in Northeast Seattle to stop fascism and march for dem
+ ocracy. We stand to defend freedom of speech\, due process\, and human rig
+ hts for all. This is a peaceful protest.\n\nIntersection of Lake City Way/
+ NE 98th St
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+Seattle%
+ 2C+WA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

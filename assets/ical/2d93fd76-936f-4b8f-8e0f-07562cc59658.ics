@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:d1ccb815-4d12-4531-a1a6-ceca348349a3
+SEQUENCE:0
+DTSTAMP:20250501T090400Z
+DTSTART:20250503T120000
+DTEND:20250503T140000
+SUMMARY:All Labor March
+LOCATION:Tivoli Fountain\, Olympia\, WA
+DESCRIPTION:Join us for the All Labor March organized by the Thurston-Lewi
+ s-Mason Central Labor Council at Tivoli Fountain. Be part of this signific
+ ant action to support labor rights.\n\nTivoli Fountain
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Tivoli+Fount
+ ain%2C+Olympia%2C+WA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:b97908e3-6399-4224-a192-95a00c6a6fdd
+SEQUENCE:0
+DTSTAMP:20250501T090400Z
+DTSTART:20250501T160000
+DTEND:20250501T180000
+SUMMARY:May Day Strong: We are the Many
+LOCATION:26520 Maple Valley Black Diamond Rd SE\, Maple Valley\, WA
+DESCRIPTION:A visibility event hosted by Indivisible SE King Co aiming to 
+ unite the community in Maple Valley. Collaborative involvement from Knight
+ s Who Say Ni and 50501 Movement Washington State.\n\n26520 Maple Valley Bl
+ ack Diamond Rd SE\, Maple Valley\, WA 98038
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=26520+Maple+
+ Valley+Black+Diamond+Rd+SE%2C+Maple+Valley%2C+WA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:5940d779-7130-4a17-833d-c53b7c5a5ec0
+SEQUENCE:0
+DTSTAMP:20250501T090400Z
+DTSTART:20250501T160000
+DTEND:20250501T180000
+SUMMARY:May Day
+LOCATION:Court House\, Mount Vernon\, WA
+DESCRIPTION:Join us for a National Day of Action to stop the billionaire a
+ genda. We are the many\; they are the few.\n\nCourt House
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Court+House%
+ 2C+Mount+Vernon%2C+WA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

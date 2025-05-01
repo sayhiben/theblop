@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:f729fb19-cdc9-4c59-aa4b-d1dd97352fe7
+SEQUENCE:0
+DTSTAMP:20250501T090400Z
+DTSTART:20250503T140000
+DTEND:20250503T160000
+SUMMARY:May Day Rally\, March\, Donate
+LOCATION:Poulsbo Waterfront Park
+DESCRIPTION:Join us for the May Day Rally to march and donate at the Pouls
+ bo Waterfront Park.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Poulsbo+Wate
+ rfront+Park&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

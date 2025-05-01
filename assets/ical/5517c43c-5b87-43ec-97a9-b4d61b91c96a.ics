@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:b06ae19b-a6da-45a3-a3e3-1835fa8b4638
+SEQUENCE:0
+DTSTAMP:20250501T090400Z
+DTSTART:20250501T120000
+DTEND:20250501T140000
+SUMMARY:Packwood- peaceful protest
+LOCATION:13040 US Highway 12\, Packwood\, WA
+DESCRIPTION:We are organizing a peaceful protest led by Knights Who Say Ni
+  and 50501 Movement Washington State\, happening across from Blanton's Mar
+ ket to address public issues.\n\nPackwood- across from Blanton's Market
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=13040+US+Hig
+ hway+12%2C+Packwood%2C+WA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

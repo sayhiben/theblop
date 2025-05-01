@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:94b7affc-6924-426e-92cf-57ce8f51b4c7
+SEQUENCE:0
+DTSTAMP:20250501T090400Z
+DTSTART:20250501T163000
+DTEND:20250501T183000
+SUMMARY:Defend Democracy Rally
+LOCATION:7300 Greenwood Ave N\, Seattle\, WA
+DESCRIPTION:Join us for the Defend Democracy Rally organized by Joe Olson 
+ and 50501 Movement. This event aims to engage the community in supporting 
+ democratic values. It takes place every Thursday.\n\nN 73rd St & Greenwood
+  Ave N
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=7300+Greenwo
+ od+Ave+N%2C+Seattle%2C+WA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

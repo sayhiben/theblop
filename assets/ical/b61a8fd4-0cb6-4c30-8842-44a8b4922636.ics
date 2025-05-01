@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:c3f23036-128a-4991-98aa-83665f240779
+SEQUENCE:0
+DTSTAMP:20250501T090400Z
+DTSTART:20250501T160000
+DTEND:20250501T180000
+SUMMARY:May Day Protest
+LOCATION:236 St SW/56th Ave W\, Mountlake Terrace\, WA
+DESCRIPTION:Join us for a May Day protest to stand up for democracy\, maki
+ ng #GoodTrouble peacefully and passionately. Bring your signs\, bells\, ka
+ zoos\, and voices. Please bring non-perishable food donations for Concern 
+ for Neighbors Food Bank.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=236+St+SW%2F
+ 56th+Ave+W%2C+Mountlake+Terrace%2C+WA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

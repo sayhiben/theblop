@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:d0433088-1a43-42ed-ac36-0d2b61e4cc38
+SEQUENCE:0
+DTSTAMP:20250501T090400Z
+DTSTART:20250501T160000
+DTEND:20250501T180000
+SUMMARY:Next National Day of Action
+LOCATION:Alder & Broadway\, Moses Lake\, WA
+DESCRIPTION:We are organizing a call-out to coordinate efforts by encourag
+ ing people to take a day off work. Join the rally at Alder & Broadway\, Mo
+ ses Lake\, WA\, and check in at the park with a sign station provided.\n\n
+ Check in at the park
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Alder+%26+Br
+ oadway%2C+Moses+Lake%2C+WA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

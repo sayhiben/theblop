@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:73174082-b98b-4622-90ec-4bbf842c8181
+SEQUENCE:0
+DTSTAMP:20250501T090400Z
+DTSTART:20250501T160000
+DTEND:20250501T180000
+SUMMARY:Tacoma May Day
+LOCATION:Tollefson Plaza\, Tacoma\, WA
+DESCRIPTION:Join us to defend federal workers\, stop the deportations\, an
+ d fight the Trump administration’s agenda. Stand up for worker and immig
+ rant rights.\n\nTollefson Plaza
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Tollefson+Pl
+ aza%2C+Tacoma%2C+WA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

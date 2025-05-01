@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:eea8e21d-1135-4136-a2b9-60a739226c59
+SEQUENCE:0
+DTSTAMP:20250501T090400Z
+DTSTART:20250503T120000
+DTEND:20250503T140000
+SUMMARY:Immigrant Justice Prayer Walk
+LOCATION:5710 22nd Ave NW\, Seattle\, WA
+DESCRIPTION:Join us for a peaceful prayer walk celebrating cultural pride 
+ on May 3\, 2025\, in Seattle. Bring your drums\, rattles\, and regalia to 
+ participate in cultural activities\, including a Coast Salish water ceremo
+ ny and Mexican dance. Enjoy food\, community\, and a shuttle service from 
+ Daybreak Star.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=5710+22nd+Av
+ e+NW%2C+Seattle%2C+WA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

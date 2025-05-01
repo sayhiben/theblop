@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:c7ae1d97-d327-4e9a-bd86-fc46bb069c8c
+SEQUENCE:0
+DTSTAMP:20250501T090400Z
+DTSTART:20250501T163000
+DTEND:20250501T183000
+SUMMARY:MAY DAY
+LOCATION:15th & E. Kessler Blvd
+DESCRIPTION:Join us for a May Day event supporting PRO Labor and PRO Union
+  movements while standing against government interference. Participants ar
+ e encouraged to bring signs\, noisemakers\, and enthusiasm.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=15th+%26+E.+
+ Kessler+Blvd&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

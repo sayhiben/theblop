@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:8dd34ff1-99ea-4aa4-b458-3452605be031
+SEQUENCE:0
+DTSTAMP:20250501T090400Z
+DTSTART:20250501T141500
+DTEND:20250501T161500
+SUMMARY:Mayday! Mayday! The Earth's Ablaze!
+LOCATION:Intersection of 128th Ave SE & SE 164th St.\, Renton\, WA
+DESCRIPTION:In celebration of the too-warm season\, a march drawing attent
+ ion to climate change will occur on May 1st\, with songs and a call to act
+ ion to "fight for your planet and home." Participants should meet at 128th
+  Ave SE & SE 164th St. and march to Fairwood\, WA.\n\nIntersection of 128t
+ h Ave SE & SE 164th St.
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Intersection
+ +of+128th+Ave+SE+%26+SE+164th+St.%2C+Renton%2C+WA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

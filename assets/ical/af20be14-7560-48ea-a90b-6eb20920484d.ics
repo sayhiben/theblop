@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:25e4ee9f-fc56-4de0-a3b9-cb9d9f1dc488
+SEQUENCE:0
+DTSTAMP:20250501T090400Z
+DTSTART:20250503T120000
+DTEND:20250503T140000
+SUMMARY:United for Freedom May Day Rally
+LOCATION:1st St and E Yelm Ave
+DESCRIPTION:Join fellow citizens in a peaceful demonstration advocating fo
+ r unity\, liberty\, and justice.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=1st+St+and+E
+ +Yelm+Ave&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
