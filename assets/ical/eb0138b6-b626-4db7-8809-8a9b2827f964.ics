@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:7754b995-6e34-4b04-86a7-5668d29737a9
+SEQUENCE:0
+DTSTAMP:20250502T120352Z
+DTSTART:20250503T120000
+DTEND:20250503T140000
+SUMMARY:Hands Off Workers
+LOCATION:\, Portland\, OR
+DESCRIPTION:Join us in supporting workers during the May Day celebration o
+ rganized by Rose City Indivisible.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+Portland
+ %2C+OR&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

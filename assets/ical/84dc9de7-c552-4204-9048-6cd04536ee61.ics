@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:bd14b0a4-56a4-4d4e-a8ca-8384bc761150
+SEQUENCE:0
+DTSTAMP:20250502T120352Z
+DTSTART:20250503T120000
+DTEND:20250503T140000
+SUMMARY:RALLY FOR WORKERS
+LOCATION:1403 S Harbor Way\, Portland\, OR
+DESCRIPTION:Join us for a rally in support of workers\, organized by Rose 
+ City Indivisible. The event starts with a rally and followed by a march. M
+ asks will be widely available for attendees.\n\nS. Hawthorne Waterfront Pa
+ rk
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=1403+S+Harbo
+ r+Way%2C+Portland%2C+OR&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

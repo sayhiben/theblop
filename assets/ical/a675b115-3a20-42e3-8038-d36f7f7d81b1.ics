@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:0b652659-0aff-4b91-8a4d-24a87e889d83
+SEQUENCE:0
+DTSTAMP:20250502T120352Z
+DTSTART:20250518T120000
+DTEND:20250518T140000
+SUMMARY:Hands Across Chicagoland
+LOCATION:From Aurora to Douglass Park along Ogden\, 26th Street\, and Cali
+ fornia\, Chicagoland\, IL
+DESCRIPTION:We will form a human chain of conscience across Chicagoland in
+  peaceful protest against Trump’s illegal and authoritarian actions. We 
+ will line sidewalks from Aurora to Douglass Park along Ogden\, 26th Street
+ \, and California. This is a peaceful protest. We will not block streets o
+ r businesses along the route. Bring signs\, wear black\, and make some noi
+ se!\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=From+Aurora+
+ to+Douglass+Park+along+Ogden%2C+26th+Street%2C+and+California%2C+Chicagola
+ nd%2C+IL&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
