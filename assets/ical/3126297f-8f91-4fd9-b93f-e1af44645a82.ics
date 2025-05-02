@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:a0221761-c82e-4694-aec9-4a21eaa7fa9d
+SEQUENCE:0
+DTSTAMP:20250502T150302Z
+DTSTART:20250504T153000
+DTEND:20250504T173000
+SUMMARY:March for Freedom
+LOCATION:Meridian Bridge Plaza (2nd and Walnut St.)\, Yankton\, SD
+DESCRIPTION:Join us for the March for Freedom starting at the Meridian Bri
+ dge Plaza and moving to the County Courthouse.\n\nMeridian Bridge Plaza (2
+ nd and Walnut St.)
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Meridian+Bri
+ dge+Plaza+%282nd+and+Walnut+St.%29%2C+Yankton%2C+SD&zoom=15&basemap=roadma
+ p
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
