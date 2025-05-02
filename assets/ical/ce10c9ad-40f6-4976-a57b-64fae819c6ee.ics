@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:e5f48091-1f06-48d5-b1d6-799c161b65c7
+SEQUENCE:0
+DTSTAMP:20250502T180327Z
+DTSTART:20250513T120000
+DTEND:20250513T140000
+SUMMARY:Hands Off Medicaid Rally
+LOCATION:212 3rd Ave S\, Minneapolis\, MN
+DESCRIPTION:We are organizing a rally to protest against Medicaid cuts. Jo
+ in us to stand for healthcare for people and express opposition to tax cut
+ s for billionaires.\n\nPaul D. Wellstone Federal Building
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=212+3rd+Ave+
+ S%2C+Minneapolis%2C+MN&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

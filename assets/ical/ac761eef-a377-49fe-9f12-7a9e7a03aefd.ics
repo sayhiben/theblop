@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:fdd694fd-1d31-4b10-bfcc-b257a578d146
+SEQUENCE:0
+DTSTAMP:20250502T180327Z
+DTSTART:20250504T100000
+DTEND:20250504T120000
+SUMMARY:MAYDAY!
+LOCATION:16729 Cagan Oaks\, Clermont\, FL
+DESCRIPTION:Gathering organized by Rainbow Democrats at the community libr
+ ary.\n\nCagan Crossings Community Library
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=16729+Cagan+
+ Oaks%2C+Clermont%2C+FL&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

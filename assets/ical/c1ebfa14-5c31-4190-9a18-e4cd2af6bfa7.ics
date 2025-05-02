@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:a3cfc869-ed3a-4475-89cd-e5d61990698a
+SEQUENCE:0
+DTSTAMP:20250502T180327Z
+DTSTART:20250503T100000
+DTEND:20250503T120000
+SUMMARY:MAYDAY!
+LOCATION:Intersection of Donnelly and US441\, Mount Dora\, FL
+DESCRIPTION:Join us for the MAYDAY! event organized by the Rainbow Democra
+ ts. We will gather at the intersection of Donnelly and US441.\n\nGPS: 1883
+ 1 US441
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Intersection
+ +of+Donnelly+and+US441%2C+Mount+Dora%2C+FL&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

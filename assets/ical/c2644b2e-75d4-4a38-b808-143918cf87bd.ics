@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:3092f0c6-7e06-474e-8b0c-43d39c784ef7
+SEQUENCE:0
+DTSTAMP:20250502T180327Z
+DTSTART:20250517T140000
+DTEND:20250517T160000
+SUMMARY:Protect Public Ed Picnic
+LOCATION:290 W River Dr\, San Angelo\, TX
+DESCRIPTION:Join us for a picnic organized by West Texas Indivisible to su
+ pport public education. Bring a banned book to swap and enjoy an afternoon
+  with the community.\n\nKids Kingdom
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=290+W+River+
+ Dr%2C+San+Angelo%2C+TX&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

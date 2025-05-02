@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:a7e7d75e-5226-4385-abeb-3d08de6daac3
+SEQUENCE:0
+DTSTAMP:20250502T180327Z
+DTSTART:20250505T190000
+DTEND:20250505T210000
+SUMMARY:Cinco de Gay-o
+LOCATION:53 Christopher St.\, New York\, NY
+DESCRIPTION:Rally for Andry Hernandez Romero to protect LGBTQ+ immigrants.
+ \n\nOutside Stonewall Inn
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=53+Christoph
+ er+St.%2C+New+York%2C+NY&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
