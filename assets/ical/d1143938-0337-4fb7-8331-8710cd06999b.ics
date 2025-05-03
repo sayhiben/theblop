@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:a3266867-38de-4a34-9eed-6a1ee1a4535c
+SEQUENCE:0
+DTSTAMP:20250503T120319Z
+DTSTART:20250614T000000
+DTEND:20250614T020000
+SUMMARY:NO KINGS MASS PROTEST
+DESCRIPTION:Join us for a mass protest to advocate against certain politic
+ al ideologies.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=&zoom=15&bas
+ emap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
