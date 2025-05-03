@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:332b7447-0500-4308-a27f-83dbe7aeda93
+SEQUENCE:0
+DTSTAMP:20250503T060315Z
+DTSTART:20250517T140000
+DTEND:20250517T160000
+SUMMARY:The TRUMP FASCIST REGIME MUST GO! NOW
+LOCATION:Civic Center Plaza\, San Francisco\, CA
+DESCRIPTION:A day of action organized by Refuse Fascism to protest against
+  the Trump regime\, advocating for its removal.\n\nCivic Center Plaza
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Civic+Center
+ +Plaza%2C+San+Francisco%2C+CA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

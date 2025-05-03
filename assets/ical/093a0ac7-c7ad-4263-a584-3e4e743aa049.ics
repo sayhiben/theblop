@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:3dd420b0-a945-4f07-a3c7-3941507ee792
+SEQUENCE:0
+DTSTAMP:20250503T060315Z
+DTSTART:20250510T090000
+DTEND:20250510T110000
+SUMMARY:No Honor for Noem Rally
+LOCATION:Washington Ave\, between 2nd and 9th St.\, Madison\, SD
+DESCRIPTION:As Kristi Noem prepares to give her commencement speech at DSU
+ \, we will gather to show our disdain and disgust for her inhumane treatme
+ nt of people as the Secretary of Homeland Security\, along with showing ou
+ r support for DSU’s graduates\, regardless of their nationality. There w
+ ill be no formal program or speakers\, but rather we will let our signs an
+ d our presence be our statement.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Washington+A
+ ve%2C+between+2nd+and+9th+St.%2C+Madison%2C+SD&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
