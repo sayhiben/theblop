@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:a0791c20-5cab-454b-8a12-335df61fa8c5
+SEQUENCE:0
+DTSTAMP:20250504T180317Z
+DTSTART:20250512T164000
+DTEND:20250512T184000
+SUMMARY:OLYMPIA VISIBILITY BRIGADE
+LOCATION:Pedestrian Bridge over I-5\, near Home Depot\, Tumwater\, WA
+DESCRIPTION:We deploy each weekend on overpasses in the Olympia-Tumwater-L
+ acey area. We also deploy on Mondays during evening rush hour. We support 
+ Capitol protests when possible. Bring your high-viz protest signs\, flags\
+ , fun costumes\, a good mood\, and be tolerant of terrible dancing. Introv
+ erts welcome!\n\nPedestrian Bridge over I-5\, Tumwater near Home Depot
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Pedestrian+B
+ ridge+over+I-5%2C+near+Home+Depot%2C+Tumwater%2C+WA&zoom=15&basemap=roadma
+ p
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

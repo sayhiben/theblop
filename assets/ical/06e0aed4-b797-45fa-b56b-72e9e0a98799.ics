@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:a3f41d7d-95e1-4d47-a076-de92d4b46d95
+SEQUENCE:0
+DTSTAMP:20250504T180317Z
+DTSTART:20250510T163000
+DTEND:20250510T183000
+SUMMARY:May Democracy Prevail
+LOCATION:Walker County Courthouse\, Huntsville\, TX
+DESCRIPTION:Join us for a peaceful protest and food drive to stand against
+  third terms\, voter suppression\, and fascism. Non-perishable food donati
+ ons will go to the SAAFE House in Huntsville.\n\nWalker County Courthouse
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Walker+Count
+ y+Courthouse%2C+Huntsville%2C+TX&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
