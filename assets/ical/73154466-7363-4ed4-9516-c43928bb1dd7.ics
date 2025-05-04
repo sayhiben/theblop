@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:84a9c35d-e3e6-4623-ac47-e4b893129215
+SEQUENCE:0
+DTSTAMP:20250504T210312Z
+DTSTART:20250607T130000
+DTEND:20250607T150000
+SUMMARY:General Strike U.S.
+LOCATION:253 E Wood St\, Decatur\, IL 62526
+DESCRIPTION:We are gathering for a public event focused on democracy. Join
+  us at the Decatur Courthouse to show support.\n\nDecatur Courthouse
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=253+E+Wood+S
+ t%2C+Decatur%2C+IL+62526&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
