@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:ffed25eb-6a35-48a9-9fe5-9e298c3ae596
+SEQUENCE:0
+DTSTAMP:20250504T000657Z
+DTSTART:20250513T170000
+DTEND:20250513T190000
+SUMMARY:Hands Off! Working People’s Rally to Stop the Billionaire Takeov
+ er
+LOCATION:13 Rev Dr Martin Luther King Jr Boulevard\, Saint Paul\, MN
+DESCRIPTION:Join us for a solidarity event dedicated to opposing the billi
+ onaire takeover\, focusing on protecting our unions and jobs.\n\nUpper Mal
+ l Minnesota State Capitol
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=13+Rev+Dr+Ma
+ rtin+Luther+King+Jr+Boulevard%2C+Saint+Paul%2C+MN&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
