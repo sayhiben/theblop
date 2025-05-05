@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:2506969a-86ed-486c-8250-2450bcd92331
+SEQUENCE:0
+DTSTAMP:20250505T000654Z
+DTSTART:20250505T170000
+DTEND:20250505T190000
+SUMMARY:Counterprotest: Trans Kids Are Welcome Here!
+LOCATION:Duffy Square (Times Square)\, 7th Ave between 46th & 47th St\, Ne
+ w York\, NY
+DESCRIPTION:Join us to protest a transphobic\, queerphobic\, and anti-abor
+ tion rally.\n\nDuffy Square (Times Square)
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Duffy+Square
+ +%28Times+Square%29%2C+7th+Ave+between+46th+%26+47th+St%2C+New+York%2C+NY&
+ zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
