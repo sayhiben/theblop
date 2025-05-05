@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:47b71634-3b66-4f86-ad86-d674470ed59d
+SEQUENCE:0
+DTSTAMP:20250505T150321Z
+DTSTART:20250601T104500
+DTEND:20250601T124500
+SUMMARY:March with Garden State Equality
+LOCATION:308 Main St\, Asbury Park\, NJ
+DESCRIPTION:Join the Garden State Equality team as we kick off the 2025 PR
+ IDE season. We'll meet in front of our new headquarters at 308 Main Street
+  across from the Municipal building. March with us and visit our table dur
+ ing the festival from 12-7pm.\n\n308 Main St\, Asbury Park\, NJ 07712
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=308+Main+St%
+ 2C+Asbury+Park%2C+NJ&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

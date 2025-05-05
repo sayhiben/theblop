@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:3d040923-0b63-4fca-9335-b2165df6a23a
+SEQUENCE:0
+DTSTAMP:20250505T150321Z
+DTSTART:20250508T150000
+DTEND:20250508T170000
+SUMMARY:Rally to Support Ukraine and People with Autism
+LOCATION:2200 NJ-10\, 2200 New Jersey 10\, Morris Plains\, NJ
+DESCRIPTION:Join us in supporting two worthy causes: the Ukrainian Nationa
+ l Association and Success on the Spectrum. Express opposition to the confl
+ ict impacting Ukraine and misinformation about autism. Bring a sign suppor
+ ting one or both causes!\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=2200+NJ-10%2
+ C+2200+New+Jersey+10%2C+Morris+Plains%2C+NJ&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

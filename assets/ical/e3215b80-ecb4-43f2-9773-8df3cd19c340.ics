@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:58349c46-9b85-4581-9264-80ad8e5eba80
+SEQUENCE:0
+DTSTAMP:20250505T150321Z
+DTSTART:20250505T173000
+DTEND:20250505T193000
+SUMMARY:Hands Off Our Planet!
+LOCATION:852 Ferry Ave\, Camden\, NJ
+DESCRIPTION:Join us in Camden for a town hall on challenges and potential 
+ solutions related to climate and affordability crises. We'll discuss the N
+ J Climate Superfund Act and hear from municipal leaders and community memb
+ ers impacted by these issues. Learn about actions to support critical poli
+ cy solutions for New Jersey's health\, environment\, and economy.\n\nCamde
+ n County Library System: Riletta L. Cream Ferry Avenue Branch
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=852+Ferry+Av
+ e%2C+Camden%2C+NJ&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

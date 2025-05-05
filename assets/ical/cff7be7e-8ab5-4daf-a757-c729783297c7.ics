@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:35465c68-f564-4c96-a1b3-1ab4e2665d00
+SEQUENCE:0
+DTSTAMP:20250505T150321Z
+DTSTART:20250509T100000
+DTEND:20250509T120000
+SUMMARY:LGBTQ+ Book Club "Tomorrow will be different" by Sarah McBride
+LOCATION:23 Diamond Spring Road\, Denville\, NJ
+DESCRIPTION:Read Sarah McBride's memoir and join a discussion about its th
+ emes.\n\nSweet Vinyl
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=23+Diamond+S
+ pring+Road%2C+Denville%2C+NJ&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

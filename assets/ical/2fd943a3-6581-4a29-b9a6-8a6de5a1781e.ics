@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:94e6f9f7-ac4c-451c-bee5-9446b3c600f8
+SEQUENCE:0
+DTSTAMP:20250505T150321Z
+DTSTART:20250513T181500
+DTEND:20250513T201500
+SUMMARY:Using Joy to Organize and Change Communities - Rescheduled!
+LOCATION:95 Morris Street\, Morristown\, NJ
+DESCRIPTION:Join us to explore the influence of historical women leaders o
+ n current community organizing\, led by Jillian Gaeta. Engage in discussio
+ ns\, learn history\, and enjoy social time.\n\nGlenbrook Brewery\, General
+ 's Quarters
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=95+Morris+St
+ reet%2C+Morristown%2C+NJ&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:0c76c554-55df-4f91-8210-4312ff15f5ca
+SEQUENCE:0
+DTSTAMP:20250505T150321Z
+DTSTART:20250517T130000
+DTEND:20250517T150000
+SUMMARY:Visibility Brigade and Operation Activate Letter and Poster Making
+  Event!
+LOCATION:Chester Public Library\, 250 West Main Street\, Chester\, NJ
+DESCRIPTION:Join us to make additional letters\, numbers\, and symbols for
+  our Visibility Brigade! Participate in Operation Activate\, creating post
+ ers to reach commuters at train stations and other sites.\n\nChester Publi
+ c Library
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Chester+Publ
+ ic+Library%2C+250+West+Main+Street%2C+Chester%2C+NJ&zoom=15&basemap=roadma
+ p
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

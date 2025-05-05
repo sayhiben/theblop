@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:865e0ec3-827e-4ec1-b5d1-cdea8607f336
+SEQUENCE:0
+DTSTAMP:20250505T150321Z
+DTSTART:20250515T190000
+DTEND:20250515T210000
+SUMMARY:Central NJ: Hands Off Our Planet! Town Hall
+LOCATION:19 S 2nd Ave\, Highland Park\, NJ
+DESCRIPTION:We are hosting a town hall in Highland Park to address climate
+  challenges and potential solutions\, including the NJ Climate Superfund A
+ ct. Join us to engage with state and municipal leaders\, hear stories from
+  impacted community members\, and learn how you can take action for critic
+ al policy solutions in New Jersey.\n\nReformed Church of Highland Park
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=19+S+2nd+Ave
+ %2C+Highland+Park%2C+NJ&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
