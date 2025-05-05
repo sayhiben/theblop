@@ -386,6 +386,33 @@
     "raw_summary": "The flyer promotes a group called 'Olympia Visibility Brigade,' encouraging participation in protests. It mentions regular deployments on overpasses in the Olympia-Tumwater-Lacey area and welcomes people to join in with signs, flags, and costumes. An upcoming event is highlighted for Saturday, May 10th, at Boulevard Rd SE over I-5, East Olympia."
   },
   {
+    "id": "dcb32100-c567-4087-aa14-99df4e863382",
+    "title": "Rally and Press Event to Defend Veterans and Federal Workers",
+    "date": "Saturday, May 10, 2025",
+    "time": "11:00 AM",
+    "description": "Join us in the fight to maintain the integrity and functionality of our government systems. Cuts to VA healthcare hurt veterans and the workers who care for them. We won’t stand by — we’re standing up!",
+    "city": "Maywood",
+    "state": "IL",
+    "address": "Roosevelt and 5th",
+    "meeting_location": "Hines VA",
+    "links": [],
+    "sponsors": [
+      "SEIU HCII",
+      " 501",
+      " Chicago Jobs with Justice",
+      " Socialist Alternative",
+      " Chicago Nurses Association",
+      " Chicago Federation of Labor"
+    ],
+    "image_url": "https://theblop.org/assets/images/dcb32100-c567-4087-aa14-99df4e863382.jpg",
+    "thumbnail_url": "https://theblop.org/assets/images/dcb32100-c567-4087-aa14-99df4e863382-thumb.jpg",
+    "canonical_id": "",
+    "permalink": "https://theblop.org/events/dcb32100-c567-4087-aa14-99df4e863382.html",
+    "ical": "https://theblop.org/assets/ical/dcb32100-c567-4087-aa14-99df4e863382.ics",
+    "raw_text": "SOLIDARITY EVENT\nRally and Press Event to Defend Veterans and \nFederal Workers\nCuts to VA healthcare hurt veterans and the workers who care \nfor them. We won’t stand by — we’re standing up!\nJoin us in the fight to \nmaintain the integrity and \nfunctionality of our \ngovernment systems!\n\nWhen: May 10th\nTime: 11a\nWhere: Hines VA (Roosevelt and \n5th, Maywood IL)\n\nSEIU HCII, 501, Chicago Jobs with Justice, Socialist Alternative, Chicago Nurses Association, Chicago Federation of Labor",
+    "raw_summary": "An event flyer promoting a rally and press event to defend veterans and federal workers, emphasizing the impact of cuts to VA healthcare. The event invites participants to join in maintaining government systems' integrity and is scheduled with specific timing and location details."
+  },
+  {
     "id": "60dc489f-1904-48f3-85e7-acb538505c8d",
     "title": "Black Mothers March 2025",
     "date": "Sunday, May 11, 2025",
@@ -1089,6 +1116,32 @@
     "ical": "https://theblop.org/assets/ical/d1143938-0337-4fb7-8331-8710cd06999b.ics",
     "raw_text": "NO KINGS MASS PROTEST JUNE 14, 2025",
     "raw_summary": "The image displays a bold message advocating a mass protest set for June 14, 2025. It prominently features the phrase “NO KINGS” and an image of a man wearing a crown with a cross mark, suggesting a protest theme."
+  },
+  {
+    "id": "fc38c981-6db7-4cd3-b915-0cd07acf3d2f",
+    "title": "NO KINGS",
+    "date": "Saturday, June 14, 2025",
+    "time": "2:00 PM",
+    "description": "This event, hosted by 50501 South Dakota, aims to bring people together under the theme \"No Kings\". More info will be provided soon.",
+    "city": "Sioux Falls",
+    "state": "SD",
+    "address": "",
+    "meeting_location": "",
+    "links": [
+      "linktr.ee/50501sd",
+      " events.pol-rev.com",
+      " fiftyfifty.org"
+    ],
+    "sponsors": [
+      "50501 South Dakota"
+    ],
+    "image_url": "https://theblop.org/assets/images/fc38c981-6db7-4cd3-b915-0cd07acf3d2f.jpg",
+    "thumbnail_url": "https://theblop.org/assets/images/fc38c981-6db7-4cd3-b915-0cd07acf3d2f-thumb.jpg",
+    "canonical_id": "",
+    "permalink": "https://theblop.org/events/fc38c981-6db7-4cd3-b915-0cd07acf3d2f.html",
+    "ical": "https://theblop.org/assets/ical/fc38c981-6db7-4cd3-b915-0cd07acf3d2f.ics",
+    "raw_text": "NO KINGS\nSATURDAY, JUNE 14\nHOSTED BY\n50501 SOUTH DAKOTA\nMORE INFO COMING SOON!\nlinktr.ee/50501sd\nevents.pol-rev.com\nfiftyfifty.org\n\nSat\n14\nJUN\n\n2:00 PM\n\nNO KINGS SIOUX FALLS!\nBy 50501 South Dakota",
+    "raw_summary": "The image promotes an event titled \"NO KINGS\" happening on Saturday, June 14 at 2:00 PM. It is hosted by \"50501 South Dakota\" and promises more information coming soon. Several links are provided for additional details."
   },
   {
     "id": "fde87026-b462-4372-9e62-09505cabdd8f",

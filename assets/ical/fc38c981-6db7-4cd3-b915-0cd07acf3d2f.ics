@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:830a3fba-f6e3-4c05-9b62-d6796bb7aad1
+SEQUENCE:0
+DTSTAMP:20250505T060331Z
+DTSTART:20250614T140000
+DTEND:20250614T160000
+SUMMARY:NO KINGS
+LOCATION:\, Sioux Falls\, SD
+DESCRIPTION:This event\, hosted by 50501 South Dakota\, aims to bring peop
+ le together under the theme "No Kings". More info will be provided soon.\n
+ \n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+Sioux+Fa
+ lls%2C+SD&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:ddf7e313-107b-4243-8f00-80de2630fb86
+SEQUENCE:0
+DTSTAMP:20250505T060331Z
+DTSTART:20250510T110000
+DTEND:20250510T130000
+SUMMARY:Rally and Press Event to Defend Veterans and Federal Workers
+LOCATION:Roosevelt and 5th\, Maywood\, IL
+DESCRIPTION:Join us in the fight to maintain the integrity and functionali
+ ty of our government systems. Cuts to VA healthcare hurt veterans and the 
+ workers who care for them. We won’t stand by — we’re standing up!\n\
+ nHines VA
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Roosevelt+an
+ d+5th%2C+Maywood%2C+IL&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
