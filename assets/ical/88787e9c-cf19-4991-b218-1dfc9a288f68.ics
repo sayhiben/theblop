@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:587d4d36-141a-4931-9598-eb37511081e7
+SEQUENCE:0
+DTSTAMP:20250506T210309Z
+DTSTART:20250507T120000
+DTEND:20250507T140000
+SUMMARY:SouthOC4Democracy Meet the Candidates Series: Christina Gagnier
+LOCATION:At the corner of La Paz / Marguerite\, Mission Viejo\, CA
+DESCRIPTION:Join us to meet Christina Gagnier\, a Democrat running for CA-
+ 40\, who will discuss her campaign plans and engage with the community. Th
+ is is an opportunity to ask questions and share your thoughts.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=At+the+corne
+ r+of+La+Paz+%2F+Marguerite%2C+Mission+Viejo%2C+CA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
