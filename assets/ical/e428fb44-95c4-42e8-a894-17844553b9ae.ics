@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:ed81e3c2-6419-4ef1-a99c-a3997c88b681
+SEQUENCE:0
+DTSTAMP:20250506T150352Z
+DTSTART:20250614T140000
+DTEND:20250614T160000
+SUMMARY:Kick Out the Clowns
+LOCATION:Louisiana Capitol\, Baton Rouge\, LA
+DESCRIPTION:Join us at the Louisiana Capitol in Baton Rouge for a public e
+ vent as we aim to make a statement against the current situation. RSVP to 
+ participate.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Louisiana+Ca
+ pitol%2C+Baton+Rouge%2C+LA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
