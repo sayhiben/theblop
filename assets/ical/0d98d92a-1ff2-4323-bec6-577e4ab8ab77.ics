@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:a28ac5b7-53ec-42da-b45b-17c824e69e25
+SEQUENCE:0
+DTSTAMP:20250507T180347Z
+DTSTART:20250510T100000
+DTEND:20250510T120000
+SUMMARY:Protect Freedom Protest
+LOCATION:Corner of Woodland & New York\, Deland\, FL
+DESCRIPTION:Join us for the Protect Freedom Protest to demonstrate for fre
+ edom and commitment to change. Organized by groups committed to civic enga
+ gement.\n\nCorner of Woodland & New York
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Corner+of+Wo
+ odland+%26+New+York%2C+Deland%2C+FL&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

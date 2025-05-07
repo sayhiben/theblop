@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:c608f970-48dc-4b3f-b439-3a596b6a5ba6
+SEQUENCE:0
+DTSTAMP:20250507T180347Z
+DTSTART:20250510T130000
+DTEND:20250510T150000
+SUMMARY:Orange City Defend Democracy Protest
+LOCATION:Intersection of Saxon & Enterprise\, Orange City\, 
+DESCRIPTION:Join us to defend democracy at the Orange City protest. Engage
+  with community members and stand up for democratic values.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Intersection
+ +of+Saxon+%26+Enterprise%2C+Orange+City%2C+&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

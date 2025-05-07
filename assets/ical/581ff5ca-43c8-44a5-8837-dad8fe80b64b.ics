@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:0ae38af7-6404-4e83-82cd-e2d5c2290274
+SEQUENCE:0
+DTSTAMP:20250507T180347Z
+DTSTART:20250510T183000
+DTEND:20250510T203000
+SUMMARY:Mother's Day Vigil
+LOCATION:Centennial Park\, Ybor City\, FL
+DESCRIPTION:Join us to demand an immediate end to family separation in sup
+ port of Heidy Sanchez Tejeda\, who is spending her first Mother's Day sepa
+ rated from her child. We gather to advocate against unjust deportations.\n
+ \nCentennial Park
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Centennial+P
+ ark%2C+Ybor+City%2C+FL&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

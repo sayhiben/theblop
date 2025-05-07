@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:90690a16-ead4-4f28-99b6-603f398d5359
+SEQUENCE:0
+DTSTAMP:20250507T180347Z
+DTSTART:20250509T160000
+DTEND:20250509T180000
+SUMMARY:Time to Join The Resistance
+LOCATION:Corner of Normandy Blvd and Saxon Blvd\, Deltona\, FL
+DESCRIPTION:Join us as we gather at the corner of Normandy Blvd and Saxon 
+ Blvd in Deltona to fight for justice and freedom for all.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Corner+of+No
+ rmandy+Blvd+and+Saxon+Blvd%2C+Deltona%2C+FL&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
