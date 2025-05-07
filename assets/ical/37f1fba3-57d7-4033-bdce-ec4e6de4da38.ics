@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:0e2c714d-2594-4a58-89a6-43a4a163a99c
+SEQUENCE:0
+DTSTAMP:20250507T060328Z
+DTSTART:20250508T100000
+DTEND:20250508T120000
+SUMMARY:Resistance Rally
+LOCATION:Dearborn and Indiana\, Englewood\, FL
+DESCRIPTION:Join us every Thursday for a Resistance Rally at the intersect
+ ion of Dearborn and Indiana from 10 AM till 11 AM to support our cause.\n\
+ n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Dearborn+and
+ +Indiana%2C+Englewood%2C+FL&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

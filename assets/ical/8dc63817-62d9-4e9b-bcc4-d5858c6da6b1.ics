@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:b110394c-062d-4de7-afc2-641cd3c4418e
+SEQUENCE:0
+DTSTAMP:20250507T060328Z
+DTSTART:20250521T153000
+DTEND:20250521T173000
+SUMMARY:Stop the Deportations
+LOCATION:4310 S Macadam Ave\, Portland\, OR
+DESCRIPTION:We are organizing a protest against the deportations and ICE o
+ perations in our community. Join us to make a stand.\n\nICE Facility
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=4310+S+Macad
+ am+Ave%2C+Portland%2C+OR&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
