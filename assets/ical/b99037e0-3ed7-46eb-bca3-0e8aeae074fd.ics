@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:7098d4e6-e632-4bef-a317-cb6c567d8eb2
+SEQUENCE:0
+DTSTAMP:20250508T000626Z
+DTSTART:20250510T120000
+DTEND:20250510T140000
+SUMMARY:Tesla Takedown Chicago
+LOCATION:901 N Rush St\, Chicago\, IL
+DESCRIPTION:An event taking place at Tesla Gold Coast\, expected to bring 
+ together attendees at the specified location and time.\n\nTesla Gold Coast
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=901+N+Rush+S
+ t%2C+Chicago%2C+IL&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

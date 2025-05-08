@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:d2370a01-817c-4ef8-a561-c0f297413746
+SEQUENCE:0
+DTSTAMP:20250508T000626Z
+DTSTART:20250517T120000
+DTEND:20250517T140000
+SUMMARY:Make (Good) Trouble!
+LOCATION:600 N. East Street\, Bloomington\, IL
+DESCRIPTION:Join us for a peaceful protest and rally to speak out and show
+  what democracy is truly about and why it is worth saving!\n\nOutside the 
+ BCPA
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=600+N.+East+
+ Street%2C+Bloomington%2C+IL&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
