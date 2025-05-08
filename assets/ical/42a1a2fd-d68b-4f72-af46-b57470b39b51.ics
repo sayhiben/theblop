@@ -2,15 +2,15 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:85b63b62-8a92-490f-874e-e62b3a8575f8
+UID:b3c24dbc-2a31-480c-b6d3-86efe3a877c1
 SEQUENCE:0
 DTSTAMP:20250508T210306Z
-DTSTART:20250521T153000
-DTEND:20250521T173000
-SUMMARY:Stop the Deportations
+DTSTART:20250511T163000
+DTEND:20250511T183000
+SUMMARY:Mother's Day Rally & Vigil
 LOCATION:4310 S Macadam Ave\, Portland\, OR
-DESCRIPTION:We are organizing a protest against the deportations and ICE o
- perations in our community. Join us to make a stand.\n\nICE Facility
+DESCRIPTION:Join us for a rally and vigil organized by Portland for Palest
+ ine to mark Mother’s Day with intention and solidarity.\n\nICE Building
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=4310+S+Macad
  am+Ave%2C+Portland%2C+OR&zoom=15&basemap=roadmap
 STATUS:CONFIRMED
