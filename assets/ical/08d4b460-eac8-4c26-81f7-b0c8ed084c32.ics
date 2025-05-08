@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:b2e72ea2-f5a8-4873-86f3-32ce49c95dec
+SEQUENCE:0
+DTSTAMP:20250508T180331Z
+DTSTART:20250509T120000
+DTEND:20250509T140000
+SUMMARY:Hands Off! Medicaid Medicare
+LOCATION:100 Corporate Dr\, Lebanon\, NJ
+DESCRIPTION:We are organizing a protest to protect Medicaid and Medicare. 
+ Join us for "Finding Kean Fridays" and bring your signs.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=100+Corporat
+ e+Dr%2C+Lebanon%2C+NJ&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

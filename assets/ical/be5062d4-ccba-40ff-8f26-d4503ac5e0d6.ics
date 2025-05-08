@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:16ebee96-9c18-4cf4-a441-953e6e2dde2b
+SEQUENCE:0
+DTSTAMP:20250508T180331Z
+DTSTART:20250509T180000
+DTEND:20250509T200000
+SUMMARY:Hands Off Daniel Orellana
+LOCATION:Framingham City Hall\, Framingham\, MA
+DESCRIPTION:We call on the community to rally and tell our leaders to prot
+ ect our community from ICE. Join us at Framingham City Hall to support Dan
+ iel Orellana.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Framingham+C
+ ity+Hall%2C+Framingham%2C+MA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

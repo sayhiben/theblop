@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:432515fc-0f55-4ab0-bb60-b9138c255f7a
+SEQUENCE:0
+DTSTAMP:20250508T180331Z
+DTSTART:20250509T163000
+DTEND:20250509T183000
+SUMMARY:Students All Out for Gaza
+LOCATION:500 W Madison St\, Chicago\, IL
+DESCRIPTION:Join our student coalition as we protest the violence on campu
+ ses\, asserting that Zionism has no place in schools.\n\nIsraeli Consulate
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=500+W+Madiso
+ n+St%2C+Chicago%2C+IL&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

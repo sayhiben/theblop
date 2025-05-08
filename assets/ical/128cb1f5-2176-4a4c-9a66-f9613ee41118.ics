@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:ec5b9669-1e02-4e89-91b4-ea466a49572f
+SEQUENCE:0
+DTSTAMP:20250508T180331Z
+DTSTART:20250525T000000
+DTEND:20250525T020000
+SUMMARY:Veterans Reinstate Oath to Constitution
+LOCATION:Independence Hall\, Philadelphia\, PA
+DESCRIPTION:Join us as veterans come together to reinstate their oath to s
+ upport and defend the U.S. Constitution at Independence Hall in Philadelph
+ ia. This event emphasizes loyalty and commitment to the Constitution.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Independence
+ +Hall%2C+Philadelphia%2C+PA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

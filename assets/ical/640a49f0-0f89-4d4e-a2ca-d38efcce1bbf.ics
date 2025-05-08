@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:c2a0aa93-78d0-4cc2-af97-1fb58f628292
+SEQUENCE:0
+DTSTAMP:20250508T180331Z
+DTSTART:20250517T090000
+DTEND:20250517T110000
+SUMMARY:Bans Off Our Bodies
+LOCATION:401 S. Carson St.\, Carson City\, NV
+DESCRIPTION:Join us for a peaceful gathering to express issues close to yo
+ u. Bring signs\, family\, and friends. Dress comfortably and bring snacks 
+ or non-alcoholic beverages.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=401+S.+Carso
+ n+St.%2C+Carson+City%2C+NV&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
