@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:c7ec4303-9d64-4548-867a-8aa62e5fc686
+SEQUENCE:0
+DTSTAMP:20250509T180323Z
+DTSTART:20250614T120000
+DTEND:20250614T140000
+SUMMARY:Kick Out the Clowns
+LOCATION:1301 E 6th Ave\, Helena\, MT
+DESCRIPTION:A gathering to express opposition to current events or situati
+ ons perceived as chaotic or undesirable.\n\nState Capitol
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=1301+E+6th+A
+ ve%2C+Helena%2C+MT&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
