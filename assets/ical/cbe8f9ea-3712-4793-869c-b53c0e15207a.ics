@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:450ec724-5f9a-4c82-9a82-ff6452f05da5
+SEQUENCE:0
+DTSTAMP:20250509T032015Z
+DTSTART:20250510T120000
+DTEND:20250510T140000
+SUMMARY:Marin Takes Action to Stop "President" Musk
+LOCATION:201 Casa Buena Dr.\, Corte Madera\, CA
+DESCRIPTION:Join us in rallying against "President" Musk every Saturday an
+ d Sunday in Corte Madera. All are welcome to participate in the protests a
+ t the Tesla Showroom.\n\nTesla Showroom
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=201+Casa+Bue
+ na+Dr.%2C+Corte+Madera%2C+CA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
