@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:7d12b4ce-5818-4e22-aad6-aa9e1035ddde
+SEQUENCE:0
+DTSTAMP:20250509T060340Z
+DTSTART:20250527T160000
+DTEND:20250527T180000
+SUMMARY:Die-In: Day of Mourning
+LOCATION:9200 113th St\, Seminole\, FL
+DESCRIPTION:An event organized by Indivisible North Pinellas to mourn for 
+ the loss of due process\, checks and balances\, and bodily autonomy.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=9200+113th+S
+ t%2C+Seminole%2C+FL&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

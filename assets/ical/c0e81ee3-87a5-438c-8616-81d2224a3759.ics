@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:b682165b-b754-4c36-bbd1-b483cb120753
+SEQUENCE:0
+DTSTAMP:20250509T060340Z
+DTSTART:20250531T120000
+DTEND:20250531T140000
+SUMMARY:#TeslaTakedown
+LOCATION:2935 N. Orange Blossom Trail\, Kissimmee\, FL
+DESCRIPTION:Join us at the Tesla Showroom in Kissimmee to participate in t
+ he #TeslaTakedown event.\n\nTesla Showroom Kissimmee
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=2935+N.+Oran
+ ge+Blossom+Trail%2C+Kissimmee%2C+FL&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

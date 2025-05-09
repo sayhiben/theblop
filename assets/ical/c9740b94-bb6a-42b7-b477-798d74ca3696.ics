@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:ab08a524-c595-462d-8abb-6c55caed9dc5
+SEQUENCE:0
+DTSTAMP:20250509T060340Z
+DTSTART:20250510T140000
+DTEND:20250510T160000
+SUMMARY:4th Annual Palestine Flag Raising Ceremony
+LOCATION:50 W Washington St\, Chicago\, IL
+DESCRIPTION:Join us for a powerful event of resilience and remembrance wit
+ h the AMP Chicago Chapter as we raise the Palestine flag at half staff.\n\
+ nRichard J. Daley Center
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=50+W+Washing
+ ton+St%2C+Chicago%2C+IL&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

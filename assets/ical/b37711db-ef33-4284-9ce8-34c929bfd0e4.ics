@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:77c63633-b8fa-42f6-9549-132da6e0378e
+SEQUENCE:0
+DTSTAMP:20250509T060340Z
+DTSTART:20250614T110000
+DTEND:20250614T130000
+SUMMARY:Bullrun Banner Drop
+LOCATION:7700 Bull Run Dr\, Centreville\, VA
+DESCRIPTION:Hanging a large protest banner or a flag from a bridge or monu
+ ment is an effective and reasonably simple tactic to draw attention to a c
+ ause or show solidarity in our defense of American values.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=7700+Bull+Ru
+ n+Dr%2C+Centreville%2C+VA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

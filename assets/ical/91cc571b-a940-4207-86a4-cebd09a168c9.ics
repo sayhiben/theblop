@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:e62192ba-3873-4a1f-b3af-f6c5f9984719
+SEQUENCE:0
+DTSTAMP:20250509T060340Z
+DTSTART:20250510T140000
+DTEND:20250510T160000
+SUMMARY:Tesla Takedown
+LOCATION:2710 S Glebe Rd\, Arlington\, VA
+DESCRIPTION:We are organizing a grassroots direct action campaign targetin
+ g Tesla’s exploitative labor practices\, anti-union stance\, and alignme
+ nt with authoritarian power. We are gathering at Tesla facilities to deman
+ d fair wages\, worker protections\, and accountability for harm caused by 
+ the company’s tech and authoritarian overreach.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=2710+S+Glebe
+ +Rd%2C+Arlington%2C+VA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
