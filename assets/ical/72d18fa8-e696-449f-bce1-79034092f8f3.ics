@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:30e1c620-0872-450e-8f9c-4b3ae11676a6
+SEQUENCE:0
+DTSTAMP:20250510T000612Z
+DTSTART:20250607T100000
+DTEND:20250607T120000
+SUMMARY:Unite for Veterans. Unite for America.
+LOCATION:Corner of Woodland & New York\, Deland\, FL
+DESCRIPTION:Join us to support and rally for our veterans at this gatherin
+ g in Deland\, FL.\n\nCorner of Woodland & New York
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Corner+of+Wo
+ odland+%26+New+York%2C+Deland%2C+FL&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

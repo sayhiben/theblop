@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:a18241e7-692e-4c7c-8581-9d555258bea8
+SEQUENCE:0
+DTSTAMP:20250510T000612Z
+DTSTART:20250524T120000
+DTEND:20250524T140000
+SUMMARY:We Are The Bridge: Rise for Racial Justice Rally
+LOCATION:1300 SE Stark St\, Portland\, OR
+DESCRIPTION:Brown Hope is hosting We Are The Bridge at Revolution Hall\, a
+  peaceful march through downtown Portland culminating at Burnside Bridge\,
+  promoting solidarity and opportunities for the Black community.\n\nRevolu
+ tion Hall
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=1300+SE+Star
+ k+St%2C+Portland%2C+OR&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

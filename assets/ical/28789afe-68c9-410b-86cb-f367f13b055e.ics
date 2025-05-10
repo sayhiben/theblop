@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:5bf6de90-1cf5-47f1-9b86-507d23f0d9f7
+SEQUENCE:0
+DTSTAMP:20250510T000612Z
+DTSTART:20250517T110000
+DTEND:20250517T130000
+SUMMARY:Hands Off! Elgin Fights for OUR DEMOCRACY!
+LOCATION:Corner of Kimball and Grove\, Kimball Street & North Grove Avenue
+ \, Elgin\, IL
+DESCRIPTION:Join us for a rally organized by volunteers for Indivisible to
+  stand up for democracy in Elgin.\n\nCorner of Kimball and Grove
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Corner+of+Ki
+ mball+and+Grove%2C+Kimball+Street+%26+North+Grove+Avenue%2C+Elgin%2C+IL&zo
+ om=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

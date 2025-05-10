@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:4c61aaf7-f358-4cba-a8fe-7a725b5bd596
+SEQUENCE:0
+DTSTAMP:20250510T000612Z
+DTSTART:20250517T130000
+DTEND:20250517T150000
+SUMMARY:Bring Back Kilmar Abrego Garcia
+LOCATION:Federal Plaza\, Chicago\, IL
+DESCRIPTION:Join us in demanding the return of Kilmar Abrego Garcia and to
+  stop attacks on immigrants. We stand against Trump's agenda and advocate 
+ for immigrant rights.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Federal+Plaz
+ a%2C+Chicago%2C+IL&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
