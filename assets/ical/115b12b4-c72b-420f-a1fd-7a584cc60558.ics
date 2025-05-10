@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:468827f3-dc5e-40d4-ab2d-1f6208550d39
+SEQUENCE:0
+DTSTAMP:20250510T180310Z
+DTSTART:20250511T120000
+DTEND:20250511T140000
+SUMMARY:Bridge Protest
+LOCATION:Collins Overpass\, Moorpark\, Moorpark\, CA
+DESCRIPTION:We are organizing a bridge protest on Mother's Day to defend i
+ mmigrants with banner messages. Join us to raise awareness and support.\n\
+ nCollins Overpass
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Collins+Over
+ pass%2C+Moorpark%2C+Moorpark%2C+CA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
