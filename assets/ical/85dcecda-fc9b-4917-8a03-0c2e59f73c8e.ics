@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:65df1386-578b-448c-8e4f-4111c7e04464
+SEQUENCE:0
+DTSTAMP:20250510T031757Z
+DTSTART:20250614T150000
+DTEND:20250614T170000
+SUMMARY:No Kings
+LOCATION:2053-2089 John Young Parkway\, Kissimmee\, FL
+DESCRIPTION:This event is presented by 50501 Kissimmee and warns that emer
+ gency services will be unavailable during the event.\n\nNear Bridge in Gra
+ ssy Area Across Publix Plaza
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=2053-2089+Jo
+ hn+Young+Parkway%2C+Kissimmee%2C+FL&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

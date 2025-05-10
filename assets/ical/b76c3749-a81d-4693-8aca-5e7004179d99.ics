@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:a27a97ce-f9e3-488b-94bd-6bb5d0a6bcb4
+SEQUENCE:0
+DTSTAMP:20250510T031757Z
+DTSTART:20250614T103000
+DTEND:20250614T123000
+SUMMARY:NO KINGS #RESISTANCE ST. PETE
+LOCATION:6901 22nd Ave N\, St. Petersburg\, FL 33710
+DESCRIPTION:Join us for the NO KINGS #RESISTANCE ST. PETE event\, a visibi
+ lity protest coordinated by Pinellas NOW at the Tyrone Intersections. Enga
+ ge in an impactful cause\, connecting with like-minded individuals.\n\nTyr
+ one Intersections near Tyrone Square Mall
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=6901+22nd+Av
+ e+N%2C+St.+Petersburg%2C+FL+33710&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
