@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:a08ef7d0-634a-48c6-aa44-ef14e48d1bea
+SEQUENCE:0
+DTSTAMP:20250511T180258Z
+DTSTART:20250514T120000
+DTEND:20250514T140000
+SUMMARY:Meet the Candidates Series: Christian Ahmed
+LOCATION:At the corner of La Paz / Marguerite\, Mission Viejo\, CA
+DESCRIPTION:Democrat Christian Ahmed is running to unseat Rep. Young Kim i
+ n CA-40 in 2026. Come\, ask questions\, and tell him what’s on your mind
+ !\n\nAt the corner of La Paz / Marguerite
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=At+the+corne
+ r+of+La+Paz+%2F+Marguerite%2C+Mission+Viejo%2C+CA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

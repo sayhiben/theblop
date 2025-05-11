@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:4631d2f7-a366-4cf4-bf10-fbfb16b8250a
+SEQUENCE:0
+DTSTAMP:20250511T180259Z
+DTSTART:20250531T113000
+DTEND:20250531T133000
+SUMMARY:Fight Like a Mother... Hands Off Healthcare!!
+LOCATION:Kimball St & N. Grove Ave\, Elgin\, IL
+DESCRIPTION:Join us for a community event to assert healthcare rights and 
+ oppose detrimental changes. We stand together in support of accessible hea
+ lthcare for all.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Kimball+St+%
+ 26+N.+Grove+Ave%2C+Elgin%2C+IL&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
