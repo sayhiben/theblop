@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:0b988c35-2bc4-4eb3-b005-69033bce9e27
+SEQUENCE:0
+DTSTAMP:20250511T210302Z
+DTSTART:20250512T184500
+DTEND:20250512T204500
+SUMMARY:Pack the City Council
+LOCATION:555 Liberty St SE\, Salem\, OR 97301
+DESCRIPTION:Join the Salem DSA Labor Working Group as we demand that Salem
+  City Council divest from Avelo Airlines due to its contract with ICE for 
+ deportation flights. Rally at Peace Plaza before packing the Council!\n\nS
+ alem City Hall
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=555+Liberty+
+ St+SE%2C+Salem%2C+OR+97301&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
