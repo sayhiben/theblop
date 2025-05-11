@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:becd1029-0b99-4e94-a4de-01a8348f83e6
+SEQUENCE:0
+DTSTAMP:20250511T032145Z
+DTSTART:20250517T120000
+DTEND:20250517T140000
+SUMMARY:National Day of Protest to Declare: The Trump Fascist Regime Must 
+ Go Now!
+LOCATION:City Hall Steps\, Los Angeles\, CA
+DESCRIPTION:We are organizing a protest in Los Angeles to demand the end o
+ f the Trump administration. Join us to declare that "The Trump Fascist Reg
+ ime Must Go Now!".\n\nCity Hall Steps
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=City+Hall+St
+ eps%2C+Los+Angeles%2C+CA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
