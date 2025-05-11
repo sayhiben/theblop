@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:b99b8d4b-3782-4a16-8735-49ddf0910b90
+SEQUENCE:0
+DTSTAMP:20250511T060319Z
+DTSTART:20250512T160000
+DTEND:20250512T180000
+SUMMARY:Join the Movement! On Mondays We Mobilize!
+LOCATION:Tivoli Fountain\, Capitol Grounds\, Olympia\, WA
+DESCRIPTION:Join Evergreen Resistance Olympia on Monday\, May 12 to make &
+  wave signs protesting Project 2025's cruel policies. Bring your own sign 
+ or make one with our sign-making supplies. We encourage attendance on sche
+ duled Mondays for protests\, education\, and community building.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Tivoli+Fount
+ ain%2C+Capitol+Grounds%2C+Olympia%2C+WA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
