@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:f6eb5a81-1a99-4a04-a7ea-beecded56b5f
+SEQUENCE:0
+DTSTAMP:20250512T180335Z
+DTSTART:20250517T133000
+DTEND:20250517T153000
+SUMMARY:Community Gathering
+LOCATION:106 NW 8th Ave\, Kelso\, WA
+DESCRIPTION:Join us for a community gathering focused on discussions about
+  voting. Enjoy food\, friends\, and sign-making activities with guest spea
+ kers.\n\nKelso Senior Center
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=106+NW+8th+A
+ ve%2C+Kelso%2C+WA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

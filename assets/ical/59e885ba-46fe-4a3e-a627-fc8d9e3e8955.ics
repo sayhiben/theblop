@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:79159e75-ef61-434a-b524-55c1c613cfa0
+SEQUENCE:0
+DTSTAMP:20250512T180335Z
+DTSTART:20250512T170000
+DTEND:20250512T190000
+SUMMARY:From Newark To All
+LOCATION:\, Newark\, NJ
+DESCRIPTION:A national solidarity call for immigrants featuring Rep. Bonni
+ e Watson Coleman and Mayor Ras Baraka.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+Newark%2
+ C+NJ&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

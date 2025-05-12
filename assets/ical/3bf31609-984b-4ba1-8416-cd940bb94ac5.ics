@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:37235d14-43b0-4b91-a017-a3d8e8001740
+SEQUENCE:0
+DTSTAMP:20250512T180335Z
+DTSTART:20250517T120000
+DTEND:20250517T140000
+SUMMARY:Tesla Takedown Protest
+LOCATION:1901 Del Monte Blvd\, Seaside\, CA
+DESCRIPTION:Join us for a protest against Tesla held every Saturday at the
+  Seaside Tesla Dealership. This event aims to gather community members to 
+ voice their opinions. Further details about the protest can be found on th
+ e given website.\n\nSeaside Tesla Dealership
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=1901+Del+Mon
+ te+Blvd%2C+Seaside%2C+CA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
