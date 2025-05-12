@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:84ca57bf-72a3-49ac-ab19-23bfca1c0092
+SEQUENCE:0
+DTSTAMP:20250512T120718Z
+DTSTART:20250517T120000
+DTEND:20250517T140000
+SUMMARY:Peaceful Protests
+LOCATION:Douglas & Broadway (NE Corner) and Chester I. Lewis Park\, Wichit
+ a\, KS
+DESCRIPTION:Join us for peaceful protests every Saturday and Monday at noo
+ n in downtown Wichita to support democracy. Meetings at Douglas & Broadway
+  (NE Corner) and Chester I. Lewis Park.\n\nDowntown Wichita
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Douglas+%26+
+ Broadway+%28NE+Corner%29+and+Chester+I.+Lewis+Park%2C+Wichita%2C+KS&zoom=1
+ 5&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
