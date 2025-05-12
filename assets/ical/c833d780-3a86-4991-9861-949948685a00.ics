@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:6d976ea9-7692-45f5-bd52-13fcb78cf940
+SEQUENCE:0
+DTSTAMP:20250512T000700Z
+DTSTART:20250517T120000
+DTEND:20250517T140000
+SUMMARY:Olympia Visibility Brigade
+LOCATION:Capitol Blvd Bridge over I-5\, Olympia\, WA
+DESCRIPTION:Join us for a protest to make good trouble. We deploy on overp
+ asses each weekend and support Capitol protests. Bring signs\, flags\, and
+  a good mood.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Capitol+Blvd
+ +Bridge+over+I-5%2C+Olympia%2C+WA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

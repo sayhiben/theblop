@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:9f9636d4-00fb-4da3-84f1-99e1cd243c68
+SEQUENCE:0
+DTSTAMP:20250512T000700Z
+DTSTART:20250524T120000
+DTEND:20250524T140000
+SUMMARY:Picnic & Rally
+LOCATION:400 High St.\, Jackson\, MS
+DESCRIPTION:A rally and picnic event calling for participants to bring cha
+ irs\, blankets\, snacks\, and to donate hygiene items\, under the theme "N
+ ot Peace Chaos\," as part of a larger initiative involving 50 protests acr
+ oss 50 states in one day.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=400+High+St.
+ %2C+Jackson%2C+MS&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

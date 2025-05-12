@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:315e1d8f-92a2-4937-8652-62c482d22ef4
+SEQUENCE:0
+DTSTAMP:20250512T000700Z
+DTSTART:20250517T100000
+DTEND:20250517T120000
+SUMMARY:I.C.E. Melts Democracy Doesn’t
+LOCATION:1 SE Broadway St.\, Ocala\, FL
+DESCRIPTION:We are organizing a peaceful protest to stand united and empha
+ size the importance of democracy. Join us to express our solidarity.\n\nOc
+ ala Historic Downtown Square
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=1+SE+Broadwa
+ y+St.%2C+Ocala%2C+FL&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

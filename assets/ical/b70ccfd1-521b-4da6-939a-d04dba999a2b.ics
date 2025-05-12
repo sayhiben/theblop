@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:a05ee0ef-3e3c-4758-b667-a406e6820d5e
+SEQUENCE:0
+DTSTAMP:20250512T000700Z
+DTSTART:20250513T173000
+DTEND:20250513T193000
+SUMMARY:Protest the Detestable ICE Abduction in Worcester
+LOCATION:Worcester City Hall\, Worcester\, MA
+DESCRIPTION:Join us for a public protest against ICE abduction. We aim to 
+ stand loud and clear\, peaceful and united\, without violence or silence.\
+ n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Worcester+Ci
+ ty+Hall%2C+Worcester%2C+MA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
