@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:3287112b-4a1e-4b04-a78f-2f535bd58768
+SEQUENCE:0
+DTSTAMP:20250512T150315Z
+DTSTART:20250614T110000
+DTEND:20250614T130000
+SUMMARY:NO KINGS
+LOCATION:510 E Boston St.\, Covington\, LA
+DESCRIPTION:Join us for a sidewalk protest as part of the Nationwide Day o
+ f Defiance.\n\nSide Walk Protest
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=510+E+Boston
+ +St.%2C+Covington%2C+LA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

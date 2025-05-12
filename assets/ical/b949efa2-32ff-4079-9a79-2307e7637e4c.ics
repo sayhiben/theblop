@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:7ac11c81-0ac7-4c45-8a1e-10a14d4e8dc9
+SEQUENCE:0
+DTSTAMP:20250512T150315Z
+DTSTART:20250614T000000
+DTEND:20250614T020000
+SUMMARY:Next Mississippi Gulf Coast Protest
+LOCATION:\, \, MS
+DESCRIPTION:Join us on the Mississippi Gulf Coast to demonstrate radical s
+ olidarity and resistance. Together\, we will stand for change.\n\nMississi
+ ppi Gulf Coast
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+%2C+MS&z
+ oom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

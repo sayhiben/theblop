@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:e8825630-b78c-4ef7-8915-88ac688cb636
+SEQUENCE:0
+DTSTAMP:20250512T150315Z
+DTSTART:20250606T080000
+DTEND:20250606T100000
+SUMMARY:General Strike
+DESCRIPTION:We are organizing a general strike to protest against authorit
+ arian measures like the suspension of habeas corpus\, which removes fundam
+ ental rights. This is a call to action against disappearing freedoms\, emp
+ hasizing that it's already happening here.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=&zoom=15&bas
+ emap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
