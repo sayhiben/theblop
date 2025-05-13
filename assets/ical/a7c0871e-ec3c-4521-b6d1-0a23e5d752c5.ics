@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:dc6ad405-91d5-433f-b1dc-84ab3f0c51be
+SEQUENCE:0
+DTSTAMP:20250513T180342Z
+DTSTART:20250514T110000
+DTEND:20250514T130000
+SUMMARY:Emergency Protest Lawn Chair Picnic
+LOCATION:350 North State St\, Salt Lake City\, UT
+DESCRIPTION:We invite you to join our non-violent and non-partisan emergen
+ cy protest at the Utah State Capitol. Bring a chair\, lunch\, sign\, frien
+ d\, and dog.\n\nUtah State Capitol Roundabout
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=350+North+St
+ ate+St%2C+Salt+Lake+City%2C+UT&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

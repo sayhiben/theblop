@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:0b496ef4-fe54-4bfb-8ce3-f011c66792e9
+SEQUENCE:0
+DTSTAMP:20250513T180342Z
+DTSTART:20250712T110000
+DTEND:20250712T130000
+SUMMARY:Celebration of Science\, Learning\, and Libraries
+LOCATION:Legislative Building - North Steps\, Sylvester Park\, Olympia\, W
+ A
+DESCRIPTION:Join us to advocate against the elimination of critical fundin
+ g to libraries\, cuts to science grants\, and attacks on education. Gather
+  at Sylvester Park and march to the Capitol Building for speeches.\n\nSylv
+ ester Park
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Legislative+
+ Building+-+North+Steps%2C+Sylvester+Park%2C+Olympia%2C+WA&zoom=15&basemap=
+ roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

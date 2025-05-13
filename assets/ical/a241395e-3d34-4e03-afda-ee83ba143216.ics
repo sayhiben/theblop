@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:a73cdc95-8b8b-4a54-a0ff-8334a3e7f382
+SEQUENCE:0
+DTSTAMP:20250513T180342Z
+DTSTART:20250514T110000
+DTEND:20250514T130000
+SUMMARY:Emergency Protest Lawn Chair Picnic
+LOCATION:350 North State St\, Salt Lake City\, UT
+DESCRIPTION:Join us for a non-violent\, non-partisan protest to address is
+ sues like fascism. Bring a chair\, lunch\, sign\, friend\, and dog to part
+ icipate.\n\nUtah State Capitol Roundabout
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=350+North+St
+ ate+St%2C+Salt+Lake+City%2C+UT&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
