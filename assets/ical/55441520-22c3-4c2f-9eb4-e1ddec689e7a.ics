@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:a724c128-11ec-40d3-9052-22b4e5fc3f1d
+SEQUENCE:0
+DTSTAMP:20250513T000650Z
+DTSTART:20250517T000000
+DTEND:20250517T020000
+SUMMARY:Join a Local Protest
+LOCATION:\, Fort Dodge\, IA
+DESCRIPTION:We urge you to join a local protest and engage with your commu
+ nities to stand against fascism. The nation is counting on us to act now.\
+ n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+Fort+Dod
+ ge%2C+IA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

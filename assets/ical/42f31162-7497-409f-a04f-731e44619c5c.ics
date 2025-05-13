@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:10545afe-7133-498d-924f-c8f0986d7ac3
+SEQUENCE:0
+DTSTAMP:20250513T000650Z
+DTSTART:20250614T120000
+DTEND:20250614T140000
+SUMMARY:No Kings Day
+LOCATION:400 High St.\, Jackson\, MS
+DESCRIPTION:An event called "No Kings Day" is set to occur\, possibly cele
+ brating a specific theme or cause as indicated by the title. No detailed d
+ escription is provided on the flyer.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=400+High+St.
+ %2C+Jackson%2C+MS&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
