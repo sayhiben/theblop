@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:dde757e1-bf06-4919-b1c3-b116fdb3ad44
+SEQUENCE:0
+DTSTAMP:20250513T210300Z
+DTSTART:20250515T093000
+DTEND:20250515T113000
+SUMMARY:Stand Up to MAGA
+LOCATION:50 Walnut Street\, Newark\, NJ
+DESCRIPTION:We are organizing a rally to stand against MAGA and support Ra
+ s Baraka in solidarity with New Jersey. Join us on May 15th at the US Dist
+ rict Court to make your voice heard.\n\nUS District Court
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=50+Walnut+St
+ reet%2C+Newark%2C+NJ&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
