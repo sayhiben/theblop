@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:499a6128-fef3-481f-b3a4-b4574196eeb5
+SEQUENCE:0
+DTSTAMP:20250513T060318Z
+DTSTART:20250614T150000
+DTEND:20250614T170000
+SUMMARY:Kansas 50501 Statewide Capitol Protest
+LOCATION:\, Topeka\, KS
+DESCRIPTION:Join us for a peaceful protest featuring speakers\, a march\, 
+ open mic sessions\, and a canned food drive. It follows the Juneteenth par
+ ade/car show at 11 AM.\n\nSouth Steps
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+Topeka%2
+ C+KS&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
