@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:d771d9c1-0ac5-44a2-8d80-ae0822ef5470
+SEQUENCE:0
+DTSTAMP:20250513T150321Z
+DTSTART:20250517T110000
+DTEND:20250517T130000
+SUMMARY:Tesla Takedown
+LOCATION:9428 Reisterstown Rd\, Owings Mills\, MD
+DESCRIPTION:Join us for a protest event at Tesla Owings Mills under the th
+ eme 'Where the Many Defeat the Money.'\n\nTesla Owings Mills
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=9428+Reister
+ stown+Rd%2C+Owings+Mills%2C+MD&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

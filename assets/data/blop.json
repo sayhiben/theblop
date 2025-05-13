@@ -588,6 +588,52 @@
     "raw_summary": "The flyer advertises an event urging people to join a local protest on a Saturday, specified as May 17th, with a focus on activism against fascism. It aims to mobilize community engagement, stating the urgency with phrases like \"we are running out of time.\" There's mention of a ZIP code, 50501, which suggests a location reference. The event seems linked to a movement, 50501 Activists, and provides a website for more information."
   },
   {
+    "id": "052bd254-9b88-4bd2-8e75-126b8e4a24a8",
+    "title": "GOOD TROUBLE",
+    "date": "Saturday, May 17, 2025",
+    "time": "11:00 AM",
+    "description": "Join us for a sign-holding event to stand up for democracy, inspired by Rep. John Lewis's call for 'good trouble.'",
+    "city": "Lafayette",
+    "state": "LA",
+    "address": "Intersection of Ambassador Caffery Pkwy & Kaliste Saloom Road",
+    "meeting_location": "Intersection of Ambassador Caffery Pkwy & Kaliste Saloom Road",
+    "links": [],
+    "sponsors": [
+      "Indivisible Acadiana"
+    ],
+    "image_url": "https://theblop.org/assets/images/052bd254-9b88-4bd2-8e75-126b8e4a24a8.jpg",
+    "thumbnail_url": "https://theblop.org/assets/images/052bd254-9b88-4bd2-8e75-126b8e4a24a8-thumb.jpg",
+    "canonical_id": "",
+    "permalink": "https://theblop.org/events/052bd254-9b88-4bd2-8e75-126b8e4a24a8.html",
+    "ical": "https://theblop.org/assets/ical/052bd254-9b88-4bd2-8e75-126b8e4a24a8.ics",
+    "raw_text": "Saturday May 17, 11am - 1pm\nGOOD TROUBLE\nSigns holding\nin Lafayette, LA\nIntersection of Ambassador Caffery Pkway\n& Kaliste Saloom Road\n\n\"NEVER, EVER BE AFRAID TO MAKE SOME NOISE AND GET IN GOOD TROUBLE, NECESSARY TROUBLE\"\nREP. JOHN LEWIS (1940-2020)\n\nOur Nation is counting on us!\n\nRISE UP!\nVIVE LA 50501\nRESISTANCE",
+    "raw_summary": "The flyer is promoting an event titled 'GOOD TROUBLE' involving sign holding in Lafayette, LA, scheduled for Saturday, May 17, from 11:00 AM to 1:00 PM at the intersection of Ambassador Caffery Parkway and Kaliste Saloom Road. It seems to be a protest or a political gathering, with a quote by John Lewis encouraging good trouble."
+  },
+  {
+    "id": "03402314-c495-47a8-9f5e-be56d9162060",
+    "title": "Tesla Takedown",
+    "date": "Saturday, May 17, 2025",
+    "time": "11:00 AM",
+    "description": "Join us for a protest event at Tesla Owings Mills under the theme 'Where the Many Defeat the Money.'",
+    "city": "Owings Mills",
+    "state": "MD",
+    "address": "9428 Reisterstown Rd",
+    "meeting_location": "Tesla Owings Mills",
+    "links": [
+      "[]"
+    ],
+    "sponsors": [
+      "[]"
+    ],
+    "image_url": "https://theblop.org/assets/images/03402314-c495-47a8-9f5e-be56d9162060.png",
+    "thumbnail_url": "https://theblop.org/assets/images/03402314-c495-47a8-9f5e-be56d9162060-thumb.jpg",
+    "canonical_id": "",
+    "permalink": "https://theblop.org/events/03402314-c495-47a8-9f5e-be56d9162060.html",
+    "ical": "https://theblop.org/assets/ical/03402314-c495-47a8-9f5e-be56d9162060.ics",
+    "raw_text": "TESLA TAKEDOWN\nWHERE THE MANY DEFEAT THE MONEY\nSAT, MAY 17 11AM-12:30\nTESLA OWINGS MILLS\n9428 REISTERSTOWN RD\nOWINGS MILLS, MD",
+    "raw_summary": "The image announces a protest-style event named 'Tesla Takedown' happening at a Tesla location in Owings Mills, Maryland. It emphasizes the theme “Where the Many Defeat the Money” on Saturday, May 17, with timing from 11 AM to 12:30 PM."
+  },
+  {
     "id": "18e27d48-e15c-48f3-8a97-35b21c5184e6",
     "title": "Mayday America",
     "date": "Sunday, May 18, 2025",

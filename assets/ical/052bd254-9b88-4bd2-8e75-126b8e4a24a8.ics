@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:2fa8acf0-c003-49d8-938d-f836f49da0ad
+SEQUENCE:0
+DTSTAMP:20250513T150321Z
+DTSTART:20250517T110000
+DTEND:20250517T130000
+SUMMARY:GOOD TROUBLE
+LOCATION:Intersection of Ambassador Caffery Pkwy & Kaliste Saloom Road\, L
+ afayette\, LA
+DESCRIPTION:Join us for a sign-holding event to stand up for democracy\, i
+ nspired by Rep. John Lewis's call for 'good trouble.'\n\nIntersection of A
+ mbassador Caffery Pkwy & Kaliste Saloom Road
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Intersection
+ +of+Ambassador+Caffery+Pkwy+%26+Kaliste+Saloom+Road%2C+Lafayette%2C+LA&zoo
+ m=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
