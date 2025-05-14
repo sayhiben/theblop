@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:caa0ddb9-55eb-43e6-b413-04a113a857ea
+SEQUENCE:0
+DTSTAMP:20250514T120332Z
+DTSTART:20250614T143000
+DTEND:20250614T163000
+SUMMARY:No Kings Mass Protest
+LOCATION:\, Warren\, OH
+DESCRIPTION:We are organizing a mass protest against authoritarian leaders
+ hip styles. Join us to stand against the idea of kingship in our democrati
+ c society.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+Warren%2
+ C+OH&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

@@ -680,6 +680,30 @@
     "raw_summary": "The flyer is for an event called \"Hands Across Chicagoland,\" happening on Sunday, May 18, from 12:00 PM to 2:00 PM. It is a peaceful protest forming a human chain along specific routes in Chicagoland."
   },
   {
+    "id": "e4c70ad8-1292-4428-875d-041775f08f28",
+    "title": "AL-NAKBA DAY RALLY & COMMUNITY PICNIC",
+    "date": "Sunday, May 18, 2025",
+    "time": "12:00 PM",
+    "description": "A rally to resist the Nakba with a community picnic.",
+    "city": "Portland",
+    "state": "OR",
+    "address": "Laurelhurst Park, SE Cesar E Chavez & Stark",
+    "meeting_location": "Laurelhurst Park",
+    "links": [
+      "[]"
+    ],
+    "sponsors": [
+      "Portland for Palestine"
+    ],
+    "image_url": "https://theblop.org/assets/images/e4c70ad8-1292-4428-875d-041775f08f28.jpg",
+    "thumbnail_url": "https://theblop.org/assets/images/e4c70ad8-1292-4428-875d-041775f08f28-thumb.jpg",
+    "canonical_id": "",
+    "permalink": "https://theblop.org/events/e4c70ad8-1292-4428-875d-041775f08f28.html",
+    "ical": "https://theblop.org/assets/ical/e4c70ad8-1292-4428-875d-041775f08f28.ics",
+    "raw_text": "RESIST THE ONGOING NAKBA\nAL-NAKBA DAY RALLY & COMMUNITY PICNIC\nLAURELHURST PARK\nSE CESAR E CHAVEZ & STARK\n12 PM SUNDAY, MAY 18TH\nPORTLAND FOR PALESTINE",
+    "raw_summary": "The image is a flyer for a rally and community picnic in Portland, focusing on resisting the Nakba event."
+  },
+  {
     "id": "415ba6bf-09dc-4b1c-97a6-41e58d50f549",
     "title": "Quest for Democracy",
     "date": "Monday, May 19, 2025",
@@ -1866,6 +1890,26 @@
     "ical": "https://theblop.org/assets/ical/6c0c32f5-dfc4-4fa4-bf76-d427018cd0b1.ics",
     "raw_text": "GUADALUPE COUNTY AREA PROTEST\nGIVE ME LIBERTY\nJUNE 14TH, 2025\n\nWE THE PEOPLE Central TX\nTHIS FLAG DAY, JOIN US, FOR A PEACEFUL DEMONSTRATION\n201 S AUSTIN ST, SEGUIN, TX 78155\n2:30 TO 5:30 PM",
     "raw_summary": "The image promotes a protest named 'Give Me Liberty' in Guadalupe County on June 14th, 2025. It invites participants for a peaceful demonstration, specifying a time and a location in Seguin, Texas."
+  },
+  {
+    "id": "da27fa55-517e-4717-b9ac-d787585c7cfd",
+    "title": "No Kings Mass Protest",
+    "date": "Saturday, June 14, 2025",
+    "time": "2:30 PM",
+    "description": "We are organizing a mass protest against authoritarian leadership styles. Join us to stand against the idea of kingship in our democratic society.",
+    "city": "Warren",
+    "state": "OH",
+    "address": "",
+    "meeting_location": "",
+    "links": [],
+    "sponsors": [],
+    "image_url": "https://theblop.org/assets/images/da27fa55-517e-4717-b9ac-d787585c7cfd.jpg",
+    "thumbnail_url": "https://theblop.org/assets/images/da27fa55-517e-4717-b9ac-d787585c7cfd-thumb.jpg",
+    "canonical_id": "",
+    "permalink": "https://theblop.org/events/da27fa55-517e-4717-b9ac-d787585c7cfd.html",
+    "ical": "https://theblop.org/assets/ical/da27fa55-517e-4717-b9ac-d787585c7cfd.ics",
+    "raw_text": "Warren, OH\nNO KINGS\nMASS PROTEST\nJUNE 14, 2025\n2:30-4:30pm",
+    "raw_summary": "The image announces a 'No Kings Mass Protest' event in Warren, OH, featuring a crown on a person's head. The protest is scheduled for June 14, 2025, from 2:30 PM to 4:30 PM."
   },
   {
     "id": "fde87026-b462-4372-9e62-09505cabdd8f",

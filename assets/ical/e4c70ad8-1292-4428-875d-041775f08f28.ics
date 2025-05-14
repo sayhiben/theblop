@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:0b8bbc97-889f-4514-a468-9b1120d8ab88
+SEQUENCE:0
+DTSTAMP:20250514T120332Z
+DTSTART:20250518T120000
+DTEND:20250518T140000
+SUMMARY:AL-NAKBA DAY RALLY & COMMUNITY PICNIC
+LOCATION:Laurelhurst Park\, SE Cesar E Chavez & Stark\, Portland\, OR
+DESCRIPTION:A rally to resist the Nakba with a community picnic.\n\nLaurel
+ hurst Park
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Laurelhurst+
+ Park%2C+SE+Cesar+E+Chavez+%26+Stark%2C+Portland%2C+OR&zoom=15&basemap=road
+ map
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
