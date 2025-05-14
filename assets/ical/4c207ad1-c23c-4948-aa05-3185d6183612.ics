@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:39609052-731c-4d17-8ddf-9552ab5331a1
+SEQUENCE:0
+DTSTAMP:20250514T151237Z
+DTSTART:20250517T100000
+DTEND:20250517T120000
+SUMMARY:Armed Forces Day
+LOCATION:Corner of Woodland & New York\, DeLand\, FL
+DESCRIPTION:Join us to support our troops and veterans\, emphasizing appre
+ ciation for their service.\n\nCorner of Woodland & New York
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Corner+of+Wo
+ odland+%26+New+York%2C+DeLand%2C+FL&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

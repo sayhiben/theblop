@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:07d1d032-3755-4a5d-a471-300d26135e5e
+SEQUENCE:0
+DTSTAMP:20250514T151237Z
+DTSTART:20250517T103000
+DTEND:20250517T123000
+SUMMARY:Due Process Is A Right of Every Person!!
+LOCATION:5050 Clark Ave\, Lakewood\, CA
+DESCRIPTION:Join us for this rally for justice where we will help you know
+  your rights and provide legal resources. Immigrants are welcome here!\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=5050+Clark+A
+ ve%2C+Lakewood%2C+CA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

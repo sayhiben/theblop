@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:c393477d-ee8a-4de3-93d2-01b0490acab0
+SEQUENCE:0
+DTSTAMP:20250514T151237Z
+DTSTART:20250517T000000
+DTEND:20250517T020000
+SUMMARY:Join a Local Protest
+DESCRIPTION:We are organizing a protest event to ensure our voices are hea
+ rd. Join your local community and stand against injustice. Our nation is c
+ ounting on us\, with no time to waste.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=&zoom=15&bas
+ emap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
