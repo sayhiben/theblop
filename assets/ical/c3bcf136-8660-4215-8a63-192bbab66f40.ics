@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:1f7d13fe-ecef-43ca-ba8b-3d989b7808bc
+SEQUENCE:0
+DTSTAMP:20250514T000638Z
+DTSTART:20250606T193000
+DTEND:20250606T213000
+SUMMARY:Veteran’s Vigil
+LOCATION:Newton Green\, Newton\, NJ
+DESCRIPTION:We are organizing a stand down event featuring a candlelight v
+ igil\, tables with resources\, and a donation drive on D-Day.\n\nNewton Gr
+ een
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Newton+Green
+ %2C+Newton%2C+NJ&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
