@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:9c5327b4-2a59-4ef1-8f18-1125295e7235
+SEQUENCE:0
+DTSTAMP:20250514T180325Z
+DTSTART:20250614T170000
+DTEND:20250614T190000
+SUMMARY:No Kings Mass Protest
+LOCATION:333 S Las Vegas Blvd\, Las Vegas\, NV
+DESCRIPTION:Join us in a protest against personal celebrations of power\, 
+ embodying the spirit of the Continental Congress's stand against monarchs.
+ \n\nFederal Courthouse
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=333+S+Las+Ve
+ gas+Blvd%2C+Las+Vegas%2C+NV&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
