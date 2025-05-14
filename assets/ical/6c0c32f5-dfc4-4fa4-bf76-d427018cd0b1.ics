@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:1a631f09-5be3-4c85-aea8-27a203de8ec3
+SEQUENCE:0
+DTSTAMP:20250514T060331Z
+DTSTART:20250614T143000
+DTEND:20250614T163000
+SUMMARY:Give Me Liberty
+LOCATION:201 S Austin St\, Seguin\, TX
+DESCRIPTION:This Flag Day\, join us for a peaceful demonstration organized
+  by We the People Central TX.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=201+S+Austin
+ +St%2C+Seguin%2C+TX&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

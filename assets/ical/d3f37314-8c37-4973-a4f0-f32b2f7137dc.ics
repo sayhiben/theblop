@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:1ebe0160-8e03-43c5-8c84-6983d968c8b9
+SEQUENCE:0
+DTSTAMP:20250514T060331Z
+DTSTART:20250517T110000
+DTEND:20250517T130000
+SUMMARY:Good Trouble
+LOCATION:\, Lafayette\, LA
+DESCRIPTION:Join us for a sign-holding event in Lafayette\, LA. This is an
+  opportunity to engage in civic activism and make a noise for necessary ch
+ ange.\n\nIntersection of Ambassador Caffery Pkwy & Kaliste Saloom Road
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+Lafayett
+ e%2C+LA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

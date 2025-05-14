@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:e65c70bb-79e0-41cd-a967-e01e24a300bf
+SEQUENCE:0
+DTSTAMP:20250514T060331Z
+DTSTART:20250606T100000
+DTEND:20250606T120000
+SUMMARY:Supporting Human Rights
+LOCATION:5th Ave & 301 Intersection\, Zephyrhills\, FL
+DESCRIPTION:Join us in Zephyrhills\, FL\, to support human rights. Please 
+ bring chairs and umbrellas for shade.\n\n5th Ave & 301 Intersection
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=5th+Ave+%26+
+ 301+Intersection%2C+Zephyrhills%2C+FL&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
