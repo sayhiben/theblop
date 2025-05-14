@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:58836f2c-6e53-4d17-8e8b-37edef50ea5d
+SEQUENCE:0
+DTSTAMP:20250514T210322Z
+DTSTART:20250531T203000
+DTEND:20250531T223000
+SUMMARY:Candlelight Vigil for the Disappeared
+LOCATION:100 W. Kirkwood Ave.\, Bloomington\, IN
+DESCRIPTION:We will light candles for those who have been disappeared with
+ out the due process protections our constitution provides to all people in
+  the United States.\n\nMonroe County Courthouse
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=100+W.+Kirkw
+ ood+Ave.%2C+Bloomington%2C+IN&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
