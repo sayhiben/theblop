@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:aef7d435-5b51-4299-bbf1-e8afb4090382
+SEQUENCE:0
+DTSTAMP:20250515T000614Z
+DTSTART:20250522T173000
+DTEND:20250522T193000
+SUMMARY:All Out for Mahmoud
+LOCATION:\, New York\, NY
+DESCRIPTION:We are organizing a gathering titled 'All Out for Mahmoud' to 
+ bring together supporters at Foley Square. Join us for this event advocati
+ ng for Mahmoud.\n\nFoley Square
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+New+York
+ %2C+NY&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
