@@ -2,16 +2,16 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:d1f16981-3f60-42f5-a5f6-a398608d2143
+UID:5f4e28cf-2652-4683-9635-5039725d9999
 SEQUENCE:0
 DTSTAMP:20250515T120351Z
-DTSTART:20250606T000000
-DTEND:20250606T020000
-SUMMARY:Defend the Constitution
+DTSTART:20250517T150000
+DTEND:20250517T170000
+SUMMARY:Bed-In
 LOCATION:\, Nationwide\, Nationwide
-DESCRIPTION:We will gather at State Capitols\, Town Halls & City Halls on 
- June 6th with our 50501 Veterans to support and defend the constitution.\n
- \nState Capitols\, Town Halls & City Halls
+DESCRIPTION:Join us for a virtual protest titled "Bed-In" to advocate for 
+ our cause. Hosted by DIYAbled and 10 Minutes a Day\, this event aims to ra
+ ise awareness and support for the community.\n\nOnline
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+Nationwi
  de%2C+Nationwide&zoom=15&basemap=roadmap
 STATUS:CONFIRMED
