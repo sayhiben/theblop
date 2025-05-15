@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:2fae80f5-b516-4d07-981b-4201a93446db
+SEQUENCE:0
+DTSTAMP:20250515T060322Z
+DTSTART:20250614T120000
+DTEND:20250614T140000
+SUMMARY:NO KINGS MASS PROTEST
+LOCATION:Maine State House\, Augusta\, ME
+DESCRIPTION:Join us for a mass protest on a day of defiance\, part of a na
+ tionwide movement. Hosted by Maine Resists\, the rally at the Maine State 
+ House will feature speakers followed by a march to the Memorial Bridge.\n\
+ nMaine State House
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Maine+State+
+ House%2C+Augusta%2C+ME&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

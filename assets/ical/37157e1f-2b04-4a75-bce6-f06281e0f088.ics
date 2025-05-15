@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:787a524d-620c-4d78-8109-8d8991cd3393
+SEQUENCE:0
+DTSTAMP:20250515T060322Z
+DTSTART:20250515T130000
+DTEND:20250515T150000
+SUMMARY:Support for All Federal Workers
+LOCATION:301 S. Howes Street\, Fort Collins\, CO
+DESCRIPTION:We're fighting to prevent postal privatization and show suppor
+ t for all federal employees. Organized by the Colorado Postal Workers Unio
+ n.\n\nOld Town Post Office
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=301+S.+Howes
+ +Street%2C+Fort+Collins%2C+CO&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
