@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:7e94830d-77ed-45be-a331-87c8471ea56f
+SEQUENCE:0
+DTSTAMP:20250515T150328Z
+DTSTART:20250517T120000
+DTEND:20250517T140000
+SUMMARY:NATIONAL DAY OF PROTEST
+LOCATION:The Ellipse\, Washington\, DC
+DESCRIPTION:On this National Day of Protest\, we gather to declare that th
+ e Trump Fascist Regime must go now. Join us in demanding change.\n\nThe El
+ lipse
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=The+Ellipse%
+ 2C+Washington%2C+DC&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

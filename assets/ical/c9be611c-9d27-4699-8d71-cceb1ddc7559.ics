@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:a6f132f7-fb77-40c1-90df-a1fe54c84b14
+SEQUENCE:0
+DTSTAMP:20250515T150328Z
+DTSTART:20250606T000000
+DTEND:20250606T020000
+SUMMARY:National Strike
+LOCATION:\, Nationwide\, Nationwide
+DESCRIPTION:We are announcing a nationwide strike from June 6 to June 10. 
+ The people are already moving\, and we want everyone to join this initiati
+ ve. This is our moment to stand together and create a spark for change.\n\
+ n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+Nationwi
+ de%2C+Nationwide&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

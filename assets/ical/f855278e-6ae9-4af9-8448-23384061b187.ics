@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:8b6c9b16-20ad-4684-926d-092330f2c1e9
+SEQUENCE:0
+DTSTAMP:20250515T150328Z
+DTSTART:20250522T060000
+DTEND:20250522T080000
+SUMMARY:All Out for Mahmoud
+LOCATION:\, New Orleans\, LA
+DESCRIPTION:Join us in supporting Mahmoud Khalil's immigration hearing by 
+ taking a bus from New Orleans to Jena on May 22. The bus departs at 6 AM a
+ nd arrives by 10 AM.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+New+Orle
+ ans%2C+LA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
