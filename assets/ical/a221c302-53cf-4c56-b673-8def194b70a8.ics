@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:51db597f-46d1-4d82-a92c-6c74461ee264
+SEQUENCE:0
+DTSTAMP:20250515T180322Z
+DTSTART:20250521T120000
+DTEND:20250521T140000
+SUMMARY:Cultural Diversity Day Protest
+LOCATION:416 Sid Snyder AVE SW\, Olympia\, WA
+DESCRIPTION:Join us for a protest to raise awareness of attacks on DEI pol
+ icies and immigrants. The event seeks to bring people together on the Worl
+ d Day for Cultural Diversity.\n\nSidewalk along Capitol Blvd
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=416+Sid+Snyd
+ er+AVE+SW%2C+Olympia%2C+WA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

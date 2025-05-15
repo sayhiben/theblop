@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:bbaa27a6-e9ad-47fb-8362-b1604f7881a2
+SEQUENCE:0
+DTSTAMP:20250515T180322Z
+DTSTART:20250614T120000
+DTEND:20250614T140000
+SUMMARY:NO KINGS NATIONAL DAY OF DEFIANCE
+LOCATION:Corner of 5th & Bridge St\, Clarkston\, WA
+DESCRIPTION:We are organizing a public event to remind Trump's administrat
+ ion that there are no kings in America. Participants are encouraged to bri
+ ng signs\, banners\, flags\, and their voices to support democracy and opp
+ ose fascism.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Corner+of+5t
+ h+%26+Bridge+St%2C+Clarkston%2C+WA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

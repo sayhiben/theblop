@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:0be2ebc0-8660-4e8e-bdb1-79b17e7971be
+SEQUENCE:0
+DTSTAMP:20250515T180322Z
+DTSTART:20250614T140000
+DTEND:20250614T160000
+SUMMARY:TAKE BACK OUR FLAG
+LOCATION:717 Del Monte Ave\, Monterey\, CA
+DESCRIPTION:We invite you to a "Take Back Our Flag" rally on Flag Day. Joi
+ n us in celebrating and showcasing your flags.\n\nWindow on the Bay
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=717+Del+Mont
+ e+Ave%2C+Monterey%2C+CA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
