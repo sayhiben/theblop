@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:e13de5af-d0aa-4898-a63a-76ae80fcb14b
+SEQUENCE:0
+DTSTAMP:20250515T210258Z
+DTSTART:20250517T120000
+DTEND:20250517T140000
+SUMMARY:RALLY
+LOCATION:21640 Marine View Dr S\, Des Moines\, WA
+DESCRIPTION:"Seniors for the Constitution" along with "Des Moines Indivisi
+ ble" are organizing a peaceful rally to support the Constitution and the r
+ ule of law.\n\nBig Catch Plaza
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=21640+Marine
+ +View+Dr+S%2C+Des+Moines%2C+WA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
