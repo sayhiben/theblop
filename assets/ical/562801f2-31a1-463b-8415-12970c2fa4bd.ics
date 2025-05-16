@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:dbe7bba6-3763-402b-9551-6f9b25a008ed
+SEQUENCE:0
+DTSTAMP:20250516T000757Z
+DTSTART:20250517T120000
+DTEND:20250517T140000
+SUMMARY:Community Picnic
+LOCATION:2432 Conservatory Dr.\, Indianapolis\, IN
+DESCRIPTION:Join us for a community picnic at Garfield Park Arts Center. E
+ njoy a day of fun activities\, socializing\, and relaxation at the park.\n
+ \nPark at Garfield Park Arts Center
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=2432+Conserv
+ atory+Dr.%2C+Indianapolis%2C+IN&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

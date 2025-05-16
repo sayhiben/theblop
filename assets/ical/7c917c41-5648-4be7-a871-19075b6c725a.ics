@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:30546b00-c63d-4a84-ba5f-5caffe30e34b
+SEQUENCE:0
+DTSTAMP:20250516T000757Z
+DTSTART:20250516T090000
+DTEND:20250516T110000
+SUMMARY:STOP the illegal deportations
+LOCATION:12500 Tukwila International Blvd\, Tukwila\, WA
+DESCRIPTION:Join us in a rally organized by Indivisible to protest illegal
+  deportations. Participants are encouraged to RSVP and gather to voice the
+ ir opposition.\n\nDepartment of Homeland security
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=12500+Tukwil
+ a+International+Blvd%2C+Tukwila%2C+WA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

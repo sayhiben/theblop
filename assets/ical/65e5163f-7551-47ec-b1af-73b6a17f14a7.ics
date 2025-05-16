@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:e76d6f96-ba01-44fa-b544-9224d709271d
+SEQUENCE:0
+DTSTAMP:20250516T000757Z
+DTSTART:20250517T120000
+DTEND:20250517T140000
+SUMMARY:Speak Up
+LOCATION:Sidewalk side of Midway Avenue\, Grand Coulee\, WA
+DESCRIPTION:Join us for a walk promoting democratic values such as communi
+ ty\, respect\, and humanity. We aim to unite in decency and dignity with d
+ iscussions rooted in trust and compassion.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Sidewalk+sid
+ e+of+Midway+Avenue%2C+Grand+Coulee%2C+WA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

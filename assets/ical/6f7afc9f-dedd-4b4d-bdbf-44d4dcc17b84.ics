@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:542f60a9-19d4-4a26-a1e3-f53838e5834b
+SEQUENCE:0
+DTSTAMP:20250516T000757Z
+DTSTART:20250517T130000
+DTEND:20250517T150000
+SUMMARY:Save Our Social Security
+LOCATION:196th Ave and Hwy. 99\, Snohomish County\, WA
+DESCRIPTION:Join South Snohomish County Indivisible in a gathering to supp
+ ort Social Security. Participants are encouraged to bring signs and make n
+ oise to support democracy.\n\nAll four corners
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=196th+Ave+an
+ d+Hwy.+99%2C+Snohomish+County%2C+WA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:f5b9f1e0-dff6-4193-829e-45007262d587
+SEQUENCE:0
+DTSTAMP:20250516T000757Z
+DTSTART:20250517T113000
+DTEND:20250517T133000
+SUMMARY:Street Rally to Defend the Constitution - Kirkland
+LOCATION:6th Street & Central Way\, Kirkland\, WA
+DESCRIPTION:Join Walt and Jerrie in their ongoing protest of harmful admin
+ istration policies every Saturday until FFOTUS is removed. Exercise your f
+ ree speech while you still have it.\n\nCorners of Central Way and 6th Stre
+ et
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=6th+Street+%
+ 26+Central+Way%2C+Kirkland%2C+WA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

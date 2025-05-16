@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:2d2c659f-ca36-4864-9bb3-629b61eac631
+SEQUENCE:0
+DTSTAMP:20250516T000757Z
+DTSTART:20250517T100000
+DTEND:20250517T120000
+SUMMARY:Tesla Takedown - University Village
+LOCATION:2627 NE 46th St\, Seattle\, WA 98105-5041\, United States
+DESCRIPTION:Join Andy Olk and 50501 Movement Washington State for a public
+  protest event aimed at making a statement related to Tesla.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=2627+NE+46th
+ +St%2C+Seattle%2C+WA+98105-5041%2C+United+States&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

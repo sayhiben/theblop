@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:fa1e51c4-4713-4016-bdcd-4d25c41e1f06
+SEQUENCE:0
+DTSTAMP:20250516T000757Z
+DTSTART:20250517T140000
+DTEND:20250517T160000
+SUMMARY:Southend Indivisible Southcenter Rally
+LOCATION:17250 Southcenter Pkwy\, Tukwila\, WA
+DESCRIPTION:Join us for the Southend Indivisible Southcenter Rally\, hoste
+ d by Southend Indivisible.\n\nSouthcenter Pkwy & Minkler Blvd
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=17250+Southc
+ enter+Pkwy%2C+Tukwila%2C+WA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

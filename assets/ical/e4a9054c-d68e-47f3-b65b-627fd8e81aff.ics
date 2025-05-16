@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:7c436aec-8c04-4f7f-a425-ebb0af98b29b
+SEQUENCE:0
+DTSTAMP:20250516T000757Z
+DTSTART:20250518T143000
+DTEND:20250518T163000
+SUMMARY:Decorate MLT with sidewalk chalk art!
+LOCATION:Town Center Mountlake Terrace\, Mountlake Terrace\, WA
+DESCRIPTION:Join us to decorate the sidewalks of Mountlake Terrace with co
+ lorful chalk art. Hosted by Jack C Rizzy and Democracy in Action-MLT/Lynnw
+ ood/Edmonds/Brier.\n\nTown Center Mountlake Terrace
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Town+Center+
+ Mountlake+Terrace%2C+Mountlake+Terrace%2C+WA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

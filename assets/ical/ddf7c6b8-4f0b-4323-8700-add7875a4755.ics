@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:bda2ed78-436e-454a-9312-82f572951f9b
+SEQUENCE:0
+DTSTAMP:20250516T000757Z
+DTSTART:20250516T120000
+DTEND:20250516T140000
+SUMMARY:Weekly Rally
+LOCATION:1250 Poydras\, New Orleans\, LA
+DESCRIPTION:Join us every Friday for a lunch hour rally to protest against
+  ICE and advocate for our rights. We aim to stop collaboration between loc
+ al police and ICE\, remove ICE from campuses\, and defend the right to pro
+ test.\n\nNOLA ICE Field Office
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=1250+Poydras
+ %2C+New+Orleans%2C+LA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

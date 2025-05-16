@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:2b233d47-7c6e-4543-9581-98277133c7a7
+SEQUENCE:0
+DTSTAMP:20250516T000757Z
+DTSTART:20250518T130000
+DTEND:20250518T150000
+SUMMARY:EA Sunday Sign-Waving
+LOCATION:North 205th Street & Aurora Avenue North\, Shoreline\, WA
+DESCRIPTION:Join us in Shoreline for a sign-waving event every Sunday in M
+ ay to raise awareness\, collect donations for Hopelink.org\, and support l
+ ocal causes with donated shelf-stable foods.\n\nIntersection of Aurora Ave
+  N & N. 205th St
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=North+205th+
+ Street+%26+Aurora+Avenue+North%2C+Shoreline%2C+WA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

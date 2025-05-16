@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:4d2028db-fff6-44e9-89db-2c557728e35b
+SEQUENCE:0
+DTSTAMP:20250516T000757Z
+DTSTART:20250517T080000
+DTEND:20250517T100000
+SUMMARY:Breakfast With the Sheriff
+LOCATION:204 Center St E\, Eatonville\, WA
+DESCRIPTION:Attend a breakfast event to meet Sheriff Keith Swank\, discuss
+  community issues\, including the role of ICE\, and engage in open dialogu
+ e.\n\nBruno's Family Restaurant
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=204+Center+S
+ t+E%2C+Eatonville%2C+WA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

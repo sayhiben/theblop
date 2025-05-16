@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:17fce989-6a7e-4bca-9ae7-c0cc1dbc8d4f
+SEQUENCE:0
+DTSTAMP:20250516T000757Z
+DTSTART:20250516T113000
+DTEND:20250516T133000
+SUMMARY:Federal Building Fridays
+LOCATION:Henry M. Jackson Federal Building\, 915 2nd Ave\, Seattle\, WA
+DESCRIPTION:We stand in solidarity with federal workers\, protesting every
+  Friday to fight for the future we believe in. Join us with banners\, chan
+ ts\, and support.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Henry+M.+Jac
+ kson+Federal+Building%2C+915+2nd+Ave%2C+Seattle%2C+WA&zoom=15&basemap=road
+ map
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:6a52c9eb-1e95-48d2-bb24-c9ac56b5c913
+SEQUENCE:0
+DTSTAMP:20250516T000757Z
+DTSTART:20250518T090000
+DTEND:20250518T110000
+SUMMARY:Science For All
+LOCATION:Seattle Waterfront - Ferry Terminal to Sculpture Garden
+DESCRIPTION:Join us at the Seattle Waterfront for a community event to sup
+ port science. Ask questions\, bring your signs\, and engage with fellow sc
+ ience enthusiasts!\n\nSeattle Waterfront
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Seattle+Wate
+ rfront+-+Ferry+Terminal+to+Sculpture+Garden&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

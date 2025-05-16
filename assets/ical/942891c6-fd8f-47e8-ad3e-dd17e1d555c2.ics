@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:0d4044ca-8f57-4534-878b-e9ed3c4173a2
+SEQUENCE:0
+DTSTAMP:20250516T000757Z
+DTSTART:20250517T130000
+DTEND:20250517T150000
+SUMMARY:Bring Back Kilmar Ábrego García!
+LOCATION:ICE Chicago Field Office\, Chicago\, IL
+DESCRIPTION:We are organizing a protest and march to stop attacks on immig
+ rants and challenge the political agenda. Join us to make our voices heard
+ .\n\nICE Chicago Field Office
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=ICE+Chicago+
+ Field+Office%2C+Chicago%2C+IL&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

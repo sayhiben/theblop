@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:184d80f6-3284-43e4-98b2-f838ce3082d1
+SEQUENCE:0
+DTSTAMP:20250516T000757Z
+DTSTART:20250517T120000
+DTEND:20250517T140000
+SUMMARY:Yelm Rising Rally
+LOCATION:1st St & Yelm Ave\, Yelm\, WA
+DESCRIPTION:Join our community in a peaceful rally to support important ca
+ uses such as the Constitution\, Democracy\, Justice for All\, Free Press\,
+  and Our Veterans. Bring your voice\, signs\, and passion for truth and ju
+ stice as we stand together.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=1st+St+%26+Y
+ elm+Ave%2C+Yelm%2C+WA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

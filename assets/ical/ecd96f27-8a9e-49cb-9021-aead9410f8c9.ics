@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:1355202b-ad17-406d-bb90-606d7b66bcf8
+SEQUENCE:0
+DTSTAMP:20250516T000757Z
+DTSTART:20250517T120000
+DTEND:20250517T140000
+SUMMARY:Protest For Democracy
+LOCATION:Rainier Beach\, Rainier Beach\, WA
+DESCRIPTION:A public event organized by Brian Roach and 50501 Movement adv
+ ocating for democracy.\n\nRainier Beach\, WA 98118
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Rainier+Beac
+ h%2C+Rainier+Beach%2C+WA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

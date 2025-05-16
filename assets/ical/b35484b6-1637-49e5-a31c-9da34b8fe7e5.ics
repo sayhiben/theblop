@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:1e1eb606-63e8-4809-bd8c-ff8b1def2ffe
+SEQUENCE:0
+DTSTAMP:20250516T000757Z
+DTSTART:20250517T130000
+DTEND:20250517T150000
+SUMMARY:Power to the People
+LOCATION:2549 S Washington Blvd\, Ogden\, UT
+DESCRIPTION:Join us in a rally to uphold the constitution\, end executive 
+ overreach\, and preserve human rights.\n\nOgden Municipal Building
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=2549+S+Washi
+ ngton+Blvd%2C+Ogden%2C+UT&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

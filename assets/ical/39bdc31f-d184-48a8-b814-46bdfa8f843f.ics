@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:18366142-e0c0-4e00-bb31-f3acc1c97c20
+SEQUENCE:0
+DTSTAMP:20250516T000757Z
+DTSTART:20250517T120000
+DTEND:20250517T140000
+SUMMARY:50501: A Demonstration for American Civil Liberties
+LOCATION:Longview Civic Circle\, RA Long Park Gazebo\, Longview\, WA
+DESCRIPTION:We invite you to join us for a demonstration advocating for Am
+ erican civil liberties. March\, stand\, or sit to make your voice heard an
+ d participate in a food drive for Lower Columbia.\n\nLongview Civic Circle
+ \, RA Long Park Gazebo
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Longview+Civ
+ ic+Circle%2C+RA+Long+Park+Gazebo%2C+Longview%2C+WA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

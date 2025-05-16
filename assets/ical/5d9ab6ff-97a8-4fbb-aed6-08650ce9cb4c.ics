@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:77ca73ed-c843-42de-9109-8e07e2b55f32
+SEQUENCE:0
+DTSTAMP:20250516T000757Z
+DTSTART:20250517T130000
+DTEND:20250517T150000
+SUMMARY:The Trump Fascist Regime Must Go Now!
+LOCATION:Public Square (Broadway & Pine - Capitol Hill)\, Seattle\, WA
+DESCRIPTION:Join us for a national day of protest in Seattle to declare th
+ at the Trump fascist regime must go. We will hold a rally and march to voi
+ ce our opposition.\n\nSeattle Central College
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Public+Squar
+ e+%28Broadway+%26+Pine+-+Capitol+Hill%29%2C+Seattle%2C+WA&zoom=15&basemap=
+ roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:da7627c8-4f70-4c2d-9340-daa50bcfca64
+SEQUENCE:0
+DTSTAMP:20250516T000757Z
+DTSTART:20250517T120000
+DTEND:20250517T140000
+SUMMARY:Health before Wealth!
+LOCATION:21640 Marine View Dr S\, Des Moines\, WA
+DESCRIPTION:Join us for a rally focused on prioritizing health over wealth
+ \, hosted by Seniors for the Constitution. Let’s stand together for demo
+ cracy and community well-being.\n\nBig Catch Plaza
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=21640+Marine
+ +View+Dr+S%2C+Des+Moines%2C+WA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

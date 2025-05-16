@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:a5d0e088-e043-4eed-943b-fb1ac3a7db2b
+SEQUENCE:0
+DTSTAMP:20250516T000757Z
+DTSTART:20250522T163000
+DTEND:20250522T183000
+SUMMARY:Street Rally to Defend Civil Rights - Redmond
+LOCATION:161st Avenue Northeast & Redmond Way
+DESCRIPTION:Join us for a volunteer-organized rally to defend civil rights
+  in Redmond. The event aims to bring the community together to promote awa
+ reness and advocacy for civil rights.\n\nRedmond Downtown Park
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=161st+Avenue
+ +Northeast+%26+Redmond+Way&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
