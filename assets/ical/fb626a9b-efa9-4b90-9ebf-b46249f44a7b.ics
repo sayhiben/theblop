@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:1a408908-4165-48fa-925f-eca86810f34a
+SEQUENCE:0
+DTSTAMP:20250516T060324Z
+DTSTART:20250517T120000
+DTEND:20250517T140000
+SUMMARY:Rally for the People
+LOCATION:Lincoln Square\, Gettysburg\, PA
+DESCRIPTION:Join us for a community rally organized by Adams County Democr
+ ats to address community concerns and advocate for change\, held weekly at
+  Lincoln Square.\n\nLincoln Square\, Gettysburg
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Lincoln+Squa
+ re%2C+Gettysburg%2C+PA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
