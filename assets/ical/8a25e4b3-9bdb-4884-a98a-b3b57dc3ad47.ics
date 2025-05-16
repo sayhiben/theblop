@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:f62f3a8c-366b-41b2-8e4a-943e34169fa9
+SEQUENCE:0
+DTSTAMP:20250516T150309Z
+DTSTART:20250516T000000
+DTEND:20250516T020000
+SUMMARY:State of the People Power Tour
+LOCATION:\, Richmond\, VA
+DESCRIPTION:This is an announcement for the State of the People Power Tour
+  happening in Richmond\, aimed at gathering influential figures. The event
+  seems to focus on community empowerment.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+Richmond
+ %2C+VA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

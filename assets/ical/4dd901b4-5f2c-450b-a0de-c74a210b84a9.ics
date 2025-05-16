@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:954c501d-dd00-4c4b-b70e-1c103fd4180c
+SEQUENCE:0
+DTSTAMP:20250516T150309Z
+DTSTART:20250517T100000
+DTEND:20250517T120000
+SUMMARY:Hands Off Veterans & VA Services
+LOCATION:SR 44 & Mission Drive\, New Smyrna Beach\, FL
+DESCRIPTION:We are organizing a peaceful protest to support veterans and V
+ A services in New Smyrna Beach. Additionally\, a food drive will benefit S
+ t. Gerard's Society of St. Vincent de Paul.\n\nSR 44 & Mission Drive
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=SR+44+%26+Mi
+ ssion+Drive%2C+New+Smyrna+Beach%2C+FL&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

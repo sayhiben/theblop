@@ -120,6 +120,30 @@
     "raw_summary": "The flyer promotes a weekly rally happening every Friday at noon. The event takes place at the NOLA ICE Field Office, 1250 Poydras. The rally aims to protest against ICE and advocate for certain rights."
   },
   {
+    "id": "8a25e4b3-9bdb-4884-a98a-b3b57dc3ad47",
+    "title": "State of the People Power Tour",
+    "date": "Friday, May 16, 2025",
+    "time": "See Flyer",
+    "description": "This is an announcement for the State of the People Power Tour happening in Richmond, aimed at gathering influential figures. The event seems to focus on community empowerment.",
+    "city": "Richmond",
+    "state": "VA",
+    "address": "",
+    "meeting_location": "",
+    "links": [
+      "[]"
+    ],
+    "sponsors": [
+      "[]"
+    ],
+    "image_url": "https://theblop.org/assets/images/8a25e4b3-9bdb-4884-a98a-b3b57dc3ad47.jpg",
+    "thumbnail_url": "https://theblop.org/assets/images/8a25e4b3-9bdb-4884-a98a-b3b57dc3ad47-thumb.jpg",
+    "canonical_id": "",
+    "permalink": "https://theblop.org/events/8a25e4b3-9bdb-4884-a98a-b3b57dc3ad47.html",
+    "ical": "https://theblop.org/assets/ical/8a25e4b3-9bdb-4884-a98a-b3b57dc3ad47.ics",
+    "raw_text": "STATE OF THE PEOPLE POWER TOUR\nRICHMOND, VA\nSAVE THE DATE: MAY 16-17, 2025",
+    "raw_summary": "The image is a flyer for the 'State of the People Power Tour' event scheduled to be held in Richmond, VA, on May 16-17, 2025. It features various speakers or hosts as images."
+  },
+  {
     "id": "5b184e5a-f518-4806-a6b3-37484f62a31e",
     "title": "Musk-Tesla Protest",
     "date": "Saturday, May 17, 2025",
@@ -1095,6 +1119,50 @@
     "ical": "https://theblop.org/assets/ical/fb626a9b-efa9-4b90-9ebf-b46249f44a7b.ics",
     "raw_text": "Join Us Weekly\nNO MORE\nRALLY FOR THE PEOPLE\nLINCOLN SQUARE, GETTYSBURG\nCommunity rally organized by Adams County Democrats.\nsaturday noon",
     "raw_summary": "The image depicts a flyer for a community rally called 'Rally for the People,' organized by Adams County Democrats. The event is held weekly at Lincoln Square, Gettysburg, on Saturdays at noon."
+  },
+  {
+    "id": "947a8f20-8e0e-40fd-9434-be8df5e1b327",
+    "title": "Armed Forces Day",
+    "date": "Saturday, May 17, 2025",
+    "time": "10:00 AM",
+    "description": "Join us to support our troops and veterans at the Armed Forces Day event.",
+    "city": "Deland",
+    "state": "FL",
+    "address": "Corner of Woodland & New York",
+    "meeting_location": "",
+    "links": [],
+    "sponsors": [],
+    "image_url": "https://theblop.org/assets/images/947a8f20-8e0e-40fd-9434-be8df5e1b327.jpg",
+    "thumbnail_url": "https://theblop.org/assets/images/947a8f20-8e0e-40fd-9434-be8df5e1b327-thumb.jpg",
+    "canonical_id": "",
+    "permalink": "https://theblop.org/events/947a8f20-8e0e-40fd-9434-be8df5e1b327.html",
+    "ical": "https://theblop.org/assets/ical/947a8f20-8e0e-40fd-9434-be8df5e1b327.ics",
+    "raw_text": "ARMED FORCES DAY Deland, FL - 10 am - 12 pm Corner of Woodland & New York May 17, 2025 Support our Troops & Veterans NOT SUCKERS NOT LOSERS",
+    "raw_summary": "The image promotes \"Armed Forces Day\" on May 17, 2025, in Deland, FL. The event will take place from 10 am to 12 pm at the corner of Woodland & New York. It features support messages for troops and veterans."
+  },
+  {
+    "id": "4dd901b4-5f2c-450b-a0de-c74a210b84a9",
+    "title": "Hands Off Veterans & VA Services",
+    "date": "Saturday, May 17, 2025",
+    "time": "10:00 AM",
+    "description": "We are organizing a peaceful protest to support veterans and VA services in New Smyrna Beach. Additionally, a food drive will benefit St. Gerard's Society of St. Vincent de Paul.",
+    "city": "New Smyrna Beach",
+    "state": "FL",
+    "address": "SR 44 & Mission Drive",
+    "meeting_location": "SR 44 & Mission Drive",
+    "links": [
+      "[]"
+    ],
+    "sponsors": [
+      "St. Gerard's Society of St. Vincent de Paul"
+    ],
+    "image_url": "https://theblop.org/assets/images/4dd901b4-5f2c-450b-a0de-c74a210b84a9.jpg",
+    "thumbnail_url": "https://theblop.org/assets/images/4dd901b4-5f2c-450b-a0de-c74a210b84a9-thumb.jpg",
+    "canonical_id": "",
+    "permalink": "https://theblop.org/events/4dd901b4-5f2c-450b-a0de-c74a210b84a9.html",
+    "ical": "https://theblop.org/assets/ical/4dd901b4-5f2c-450b-a0de-c74a210b84a9.ics",
+    "raw_text": "HANDS OFF VETERANS & VA Services A Peaceful Protest Saturday, May 17 10 a.m. to Noon SR 44 & Mission Drive NEW SMYRNA BEACH FOOD DRIVE to benefit: St. Gerard's Society of St. Vincent de Paul Please bring at least one non-perishable food item Food Drive too!",
+    "raw_summary": "The image is a flyer for a peaceful protest titled \"Hands Off Veterans & VA Services\" taking place in New Smyrna Beach. The event is scheduled for Saturday, May 17, from 10 a.m. to Noon at SR 44 & Mission Drive. There is also a food drive to benefit St. Gerard's Society of St. Vincent de Paul."
   },
   {
     "id": "18e27d48-e15c-48f3-8a97-35b21c5184e6",
