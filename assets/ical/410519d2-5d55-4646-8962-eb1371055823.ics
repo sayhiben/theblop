@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:5c5fc60c-ae4e-413e-813c-b7074dc68e9c
+SEQUENCE:0
+DTSTAMP:20250517T210303Z
+DTSTART:20250522T170000
+DTEND:20250522T190000
+SUMMARY:Resist Tyranny with Utah Overpass Action
+LOCATION:I-215 and State St\, Salt Lake City\, UT
+DESCRIPTION:Join us for an overpass action event where we display large le
+ tters and banners to convey our message. Meet us at Fashion Place Mall to 
+ organize and bring your own signs. Let's make our voices heard!\n\nFashion
+  Place Mall parking lot of Macaroni Grill
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=I-215+and+St
+ ate+St%2C+Salt+Lake+City%2C+UT&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
