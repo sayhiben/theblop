@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:86ef7c8c-1c88-4ec9-866e-fed77e050d3f
+SEQUENCE:0
+DTSTAMP:20250517T031909Z
+DTSTART:20250614T100000
+DTEND:20250614T120000
+SUMMARY:Nationwide Day of Defiance
+LOCATION:McAndrews Road between Crater Lake Avenue and Biddle Road\, Medfo
+ rd\, OR
+DESCRIPTION:Join us for a day of defiance as we gather on McAndrews Road b
+ etween Crater Lake Avenue and Biddle Road in Medford. The event is organiz
+ ed by ORD2 Indivisible\, SoJo\, and Women's March Southern Oregon to promo
+ te civic engagement and solidarity.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=McAndrews+Ro
+ ad+between+Crater+Lake+Avenue+and+Biddle+Road%2C+Medford%2C+OR&zoom=15&bas
+ emap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
