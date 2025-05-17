@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:9aec5f50-e2eb-49a2-99cb-a2d0b089f5a1
+SEQUENCE:0
+DTSTAMP:20250517T060316Z
+DTSTART:20250517T120000
+DTEND:20250517T140000
+SUMMARY:Stand Up Loveland
+LOCATION:\, Loveland\, CO
+DESCRIPTION:A peaceful protest to stand up together in support of our cons
+ titutional rights\, immigrant community\, transgender community\, and fede
+ ral workforce. Participants are encouraged to bring signs and flags.\n\nSi
+ dewalks from Sprouts to Tesla
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+Loveland
+ %2C+CO&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
