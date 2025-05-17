@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:37e46cc4-27f2-4699-95dd-9007747f3221
+SEQUENCE:0
+DTSTAMP:20250517T180310Z
+DTSTART:20250523T120000
+DTEND:20250523T140000
+SUMMARY:Rally Every Friday
+LOCATION:1250 Poydras\, New Orleans\, LA
+DESCRIPTION:We are protesting against the collaboration between local poli
+ ce and ICE\, demanding ICE off campuses\, and defending the right to prote
+ st.\n\nNOLA ICE Field Office
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=1250+Poydras
+ %2C+New+Orleans%2C+LA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
