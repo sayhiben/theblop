@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:51633f50-e689-4d2e-8c71-36a4f8a3d9a2
+SEQUENCE:0
+DTSTAMP:20250517T000631Z
+DTSTART:20250517T130000
+DTEND:20250517T150000
+SUMMARY:Nashville Fights Back!
+LOCATION:Corner of Nolensville Pike and Harding Pl\, Nashville\, TN
+DESCRIPTION:We are organizing an emergency rally in Nashville to protest a
+ nd end ICE kidnappings. Join us to make a stand on May 17.\n\nCorner of No
+ lensville Pike and Harding Pl
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Corner+of+No
+ lensville+Pike+and+Harding+Pl%2C+Nashville%2C+TN&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
