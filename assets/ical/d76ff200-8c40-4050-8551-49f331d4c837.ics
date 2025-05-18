@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:2ea015ba-11c0-47cc-8495-6790d9c8af8b
+SEQUENCE:0
+DTSTAMP:20250518T210327Z
+DTSTART:20250523T180000
+DTEND:20250523T200000
+SUMMARY:Save Democracy Rally
+LOCATION:Medina Square
+DESCRIPTION:We invite you to a peaceful protest to raise your voice for Am
+ erica. Bring signs\, flags\, instruments\, noise makers\, and your patriot
+ ism. There will be music\, and donations for the food bank are accepted.\n
+ \nMedina Square
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Medina+Squar
+ e&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

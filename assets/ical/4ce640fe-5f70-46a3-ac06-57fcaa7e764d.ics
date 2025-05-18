@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:70666e16-1c90-41a8-8ac9-e1136fc89f2c
+SEQUENCE:0
+DTSTAMP:20250518T210327Z
+DTSTART:20250614T180000
+DTEND:20250614T200000
+SUMMARY:NO KINGS MASS PROTEST
+LOCATION:Pioneer Park\, Salt Lake City\, UT
+DESCRIPTION:Join us at Pioneer Park for a mass protest on June 14. The ral
+ ly begins at 6 PM\, followed by a march at 7 PM. Let's unite and make our 
+ voices heard!\n\nPioneer Park
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Pioneer+Park
+ %2C+Salt+Lake+City%2C+UT&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
