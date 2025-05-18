@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:418b8071-2f4c-4553-a3ef-f1fde4dfc065
+SEQUENCE:0
+DTSTAMP:20250518T000721Z
+DTSTART:20250521T083000
+DTEND:20250521T103000
+SUMMARY:Pull the Permit Rally
+LOCATION:Outside City Hall\, Portland\, OR
+DESCRIPTION:Join us for a rally outside City Hall to demand the City Counc
+ il pull the permit for the Portland ICE Detention Center. We will present 
+ a petition and hold them accountable for supporting ICE.\n\nCity Hall
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Outside+City
+ +Hall%2C+Portland%2C+OR&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

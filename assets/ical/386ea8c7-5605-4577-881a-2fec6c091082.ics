@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:c1a629f1-03c9-4895-8471-f2d6f95257e0
+SEQUENCE:0
+DTSTAMP:20250518T000721Z
+DTSTART:20250614T100000
+DTEND:20250614T120000
+SUMMARY:NO KINGS
+LOCATION:100 W Main St\, Ottawa\, IL
+DESCRIPTION:Join us for the 'NO KINGS' mass protest\, a volunteer-organize
+ d visibility event aiming to bring people together. The protest will take 
+ place at Central Park in Ottawa\, IL\, and revolves around standing for de
+ mocratic values and against monarchical systems.\n\nCentral Park
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=100+W+Main+S
+ t%2C+Ottawa%2C+IL&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

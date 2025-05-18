@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:f1c406b0-9d47-49a6-bbd3-fffbe0df3a6a
+SEQUENCE:0
+DTSTAMP:20250518T000721Z
+DTSTART:20250614T100000
+DTEND:20250614T120000
+SUMMARY:Indivisible Western Lake County - No Kings - Gurnee\, IL
+LOCATION:6577 Grand Ave\, Gurnee\, IL
+DESCRIPTION:We are hosting a rally organized by volunteers to assert our p
+ rinciples and gather as a community under the 'No Kings' theme.\n\nTGIFida
+ ys Parking Lot - SE corner Hunt Club and Grand Ave
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=6577+Grand+A
+ ve%2C+Gurnee%2C+IL&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

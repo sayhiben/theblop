@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:d5bc7325-7926-475b-87c0-943f2f217f15
+SEQUENCE:0
+DTSTAMP:20250518T000721Z
+DTSTART:20250614T110000
+DTEND:20250614T130000
+SUMMARY:NO KINGS in Elgin! Rally and Protest
+LOCATION:Corner of Kimball and Grove\, Elgin\, IL
+DESCRIPTION:We are organizing a protest rally as part of a Nationwide Day 
+ of Defiance against monarchy or authoritative figures.\n\nKimball St & Gro
+ ve Ave
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Corner+of+Ki
+ mball+and+Grove%2C+Elgin%2C+IL&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

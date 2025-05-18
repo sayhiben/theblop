@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:f7cd614a-03cf-4a4a-86c0-412d6bb74975
+SEQUENCE:0
+DTSTAMP:20250518T000721Z
+DTSTART:20250614T120000
+DTEND:20250614T140000
+SUMMARY:NO KINGS Buffalo Grove
+LOCATION:Intersection of Weidner and Lake Cooks Roads\, Buffalo Grove\, IL
+DESCRIPTION:We will meet at the intersection of Weidner and Lake Cooks Roa
+ ds. There is plenty of parking in the neighborhood attached.\n\nIntersecti
+ on of Weidner and Lake Cooks Roads
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Intersection
+ +of+Weidner+and+Lake+Cooks+Roads%2C+Buffalo+Grove%2C+IL&zoom=15&basemap=ro
+ admap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

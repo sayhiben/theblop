@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:177c4a0a-a0e9-4275-9470-4cc90158acd6
+SEQUENCE:0
+DTSTAMP:20250518T000721Z
+DTSTART:20250614T110000
+DTEND:20250614T130000
+SUMMARY:NO KINGS McHenry
+LOCATION:State Route 31 & McCullom Lake Road\, McHenry\, IL
+DESCRIPTION:We are organizing a visibility event as part of a mass protest
+  in McHenry.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=State+Route+
+ 31+%26+McCullom+Lake+Road%2C+McHenry%2C+IL&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

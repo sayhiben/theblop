@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:77a6c5aa-5249-4369-978c-5bd86cd89c53
+SEQUENCE:0
+DTSTAMP:20250518T000721Z
+DTSTART:20250614T100000
+DTEND:20250614T120000
+SUMMARY:NO KINGS Belleville IL
+LOCATION:10 Public Square\, Belleville\, IL
+DESCRIPTION:This is a visibility event called the Nationwide Day of Defian
+ ce\, organized by volunteers in Belleville\, Illinois.\n\nDowntown Bellevi
+ lle around the Square Fountain
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=10+Public+Sq
+ uare%2C+Belleville%2C+IL&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
