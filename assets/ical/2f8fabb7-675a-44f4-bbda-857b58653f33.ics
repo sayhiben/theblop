@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:5d6ee7e0-97e7-4f9a-b5f5-105dea7d7cdc
+SEQUENCE:0
+DTSTAMP:20250518T060331Z
+DTSTART:20250614T100000
+DTEND:20250614T120000
+SUMMARY:Overpass Extravaganza
+DESCRIPTION:We invite you to flood your local highway/interstate overpasse
+ s in an act of defiance and solidarity against this regime and their clown
+  king.\n\nLocal highway/interstate overpasses
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=&zoom=15&bas
+ emap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

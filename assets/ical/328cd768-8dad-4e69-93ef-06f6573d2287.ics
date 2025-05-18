@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:8428cd59-7fce-43d2-be40-7061820d9c94
+SEQUENCE:0
+DTSTAMP:20250518T060331Z
+DTSTART:20250521T120000
+DTEND:20250521T140000
+SUMMARY:Conversations with Chris Kluwe
+LOCATION:At the corner of La Paz/Marguerite\, Mission Viejo\, CA
+DESCRIPTION:Join us as we host Chris Kluwe\, who will address his personal
+  fight against tyranny.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=At+the+corne
+ r+of+La+Paz%2FMarguerite%2C+Mission+Viejo%2C+CA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
