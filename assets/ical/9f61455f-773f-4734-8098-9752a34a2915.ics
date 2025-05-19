@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:724d6b81-50a1-48a5-8184-09aa383d2faa
+SEQUENCE:0
+DTSTAMP:20250519T210318Z
+DTSTART:20250521T180000
+DTEND:20250521T200000
+SUMMARY:Stand Up For Democracy
+LOCATION:Magazine Street & Napoleon Avenue\, Uptown New Orleans\, New Orle
+ ans\, LA
+DESCRIPTION:We are organizing a neighborhood mini-protest to take a stand 
+ for democracy\, emphasizing constitutional rights\, and advocating for iss
+ ues such as Medicaid. The event will take place on the neutral ground at M
+ agazine Street & Napoleon Avenue in Uptown New Orleans.\n\nNeutral ground 
+ at Magazine Street & Napoleon Avenue
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Magazine+Str
+ eet+%26+Napoleon+Avenue%2C+Uptown+New+Orleans%2C+New+Orleans%2C+LA&zoom=15
+ &basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

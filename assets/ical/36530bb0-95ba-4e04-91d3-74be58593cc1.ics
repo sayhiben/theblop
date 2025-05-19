@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:f554016c-b48b-4c65-9abb-e415ee98cb42
+SEQUENCE:0
+DTSTAMP:20250519T210318Z
+DTSTART:20250614T110000
+DTEND:20250614T130000
+SUMMARY:NO KINGS
+LOCATION:\, Denton\, TX
+DESCRIPTION:The actions will take place during a military parade in Washin
+ gton\, D.C.\, redirecting focus to activism across America on June 14.\n\n
+ Denton Square
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+Denton%2
+ C+TX&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:cb2805a1-a350-4dc0-acff-634635567728
+SEQUENCE:0
+DTSTAMP:20250519T210318Z
+DTSTART:20250606T160000
+DTEND:20250606T180000
+SUMMARY:Hands Off the VA
+LOCATION:2322 San Jacinto Blvd\, Denton\, TX
+DESCRIPTION:Veterans and organizations rally to defend benefits and jobs f
+ rom authoritarian regime. Join us to show support for protecting veterans'
+  benefits and preventing VA cuts.\n\nDenton VA Clinic
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=2322+San+Jac
+ into+Blvd%2C+Denton%2C+TX&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
