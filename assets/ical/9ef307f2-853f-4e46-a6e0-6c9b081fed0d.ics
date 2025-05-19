@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:84516051-36db-4ed2-8a5d-e9a906785dcb
+SEQUENCE:0
+DTSTAMP:20250519T180333Z
+DTSTART:20250614T110000
+DTEND:20250614T130000
+SUMMARY:No Kings Mass Protest
+LOCATION:Naperville Municipal Center\, Half Circle
+DESCRIPTION:Join us for a mass protest against monarchy at the Naperville 
+ Municipal Center.\n\nHalf Circle
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Naperville+M
+ unicipal+Center%2C+Half+Circle&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

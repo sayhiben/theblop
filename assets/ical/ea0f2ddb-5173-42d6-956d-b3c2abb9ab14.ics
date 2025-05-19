@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:976ec245-618b-4e5d-884c-11c43695a143
+SEQUENCE:0
+DTSTAMP:20250519T180333Z
+DTSTART:20250614T100000
+DTEND:20250614T120000
+SUMMARY:No Kings in America
+LOCATION:Carson City Capitol Complex\, Carson City\, NV
+DESCRIPTION:Join us to protect checks and balances\, end executive overrea
+ ch\, and declare that America is not for sale.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Carson+City+
+ Capitol+Complex%2C+Carson+City%2C+NV&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

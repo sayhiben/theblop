@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:fc159afb-4ca7-4eed-8616-1a4eea16e91c
+SEQUENCE:0
+DTSTAMP:20250519T180333Z
+DTSTART:20250614T150000
+DTEND:20250614T170000
+SUMMARY:Kansas 50501 Statewide Capitol Protest
+LOCATION:South Steps\, \, KS
+DESCRIPTION:Join us for a protest featuring speakers\, a march\, open mic\
+ , and a canned food drive. The event emphasizes community solidarity with 
+ slogans about shared goals and identity.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=South+Steps%
+ 2C+%2C+KS&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

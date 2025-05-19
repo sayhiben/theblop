@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:d3f0f1b5-bbc4-40d2-8a47-aa0dce408b4c
+SEQUENCE:0
+DTSTAMP:20250519T180333Z
+DTSTART:20250525T140000
+DTEND:20250525T160000
+SUMMARY:National Day of Protest
+LOCATION:Federal Plaza\, Chicago\, IL
+DESCRIPTION:We are organizing a protest against Executive Order 14288 on t
+ he anniversary of George Floyd's murder.\n\nFederal Plaza
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Federal+Plaz
+ a%2C+Chicago%2C+IL&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

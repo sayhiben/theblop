@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:0a8a0a9e-172e-4eff-b029-825ee6030386
+SEQUENCE:0
+DTSTAMP:20250519T180333Z
+DTSTART:20250606T180000
+DTEND:20250606T200000
+SUMMARY:Veterans Protest
+LOCATION:401 S. 2nd St.\, Springfield\, IL
+DESCRIPTION:Join us in a protest to support veterans' rights\, focusing on
+  reversing cuts to the VA\, rehiring employees\, and fully funding the PAC
+ T Act. We aim to ensure healthcare for MST survivors\, overturn the trans 
+ ban\, and protect democracy.\n\nIllinois State Capitol at the Lincoln Stat
+ ue
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=401+S.+2nd+S
+ t.%2C+Springfield%2C+IL&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
