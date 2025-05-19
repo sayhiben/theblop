@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:9fec15bd-7ca1-4ae8-82a4-727af25b3f2b
+SEQUENCE:0
+DTSTAMP:20250519T000702Z
+DTSTART:20250523T180000
+DTEND:20250523T200000
+SUMMARY:Save Democracy Rally
+LOCATION:\, Medina\, OH
+DESCRIPTION:We are organizing a peaceful protest to raise our voices for A
+ merica. Join us at Medina Square and bring a sign\, a flag\, an instrument
+ \, or a noise maker. There will be music\, and we welcome donations for th
+ e food bank.\n\nMedina Square
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+Medina%2
+ C+OH&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

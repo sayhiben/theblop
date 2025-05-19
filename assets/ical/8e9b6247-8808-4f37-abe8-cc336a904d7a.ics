@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:fc03e381-81c9-473f-8a0f-d100a437ca8a
+SEQUENCE:0
+DTSTAMP:20250519T000702Z
+DTSTART:20250524T100000
+DTEND:20250524T120000
+SUMMARY:Disability Rights are Human Rights
+LOCATION:195 N Rosalind Ave\, Orlando\, FL
+DESCRIPTION:Join us for a public gathering to advocate for disability righ
+ ts\, emphasizing diversity and inclusivity. Bring your signs and support t
+ he cause.\n\nIn Front of the Amphitheater\, Lake Eola Park
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=195+N+Rosali
+ nd+Ave%2C+Orlando%2C+FL&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
