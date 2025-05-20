@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:9b820b6c-9309-4917-aaef-e9f3e11f8e08
+SEQUENCE:0
+DTSTAMP:20250520T060359Z
+DTSTART:20250524T110000
+DTEND:20250524T130000
+SUMMARY:FOX TAKE DOWN
+LOCATION:100 E Speer Boulevard\, Denver\, CO 80203
+DESCRIPTION:Join us to tell FOX: Stop hurting America by participating in 
+ a protest event in Denver.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=100+E+Speer+
+ Boulevard%2C+Denver%2C+CO+80203&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

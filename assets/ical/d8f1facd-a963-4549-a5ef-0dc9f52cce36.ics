@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:22636cbd-df14-4036-8a65-2ef8d6334574
+SEQUENCE:0
+DTSTAMP:20250520T060359Z
+DTSTART:20250530T110000
+DTEND:20250530T130000
+SUMMARY:Protest Outside Gabe Evans' Office
+LOCATION:10701 Melody Dr suite 500\, Northglenn\, CO
+DESCRIPTION:Join us for a weekly protest at Representative Gabe Evans' Off
+ ice every Friday. This is an opportunity to express concerns about his vot
+ es and to make your voice heard respectfully and non-violently.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=10701+Melody
+ +Dr+suite+500%2C+Northglenn%2C+CO&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

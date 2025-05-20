@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:b0fd14d8-38f9-4781-9fc3-d0c6c0d7efe1
+SEQUENCE:0
+DTSTAMP:20250520T060359Z
+DTSTART:20250524T110000
+DTEND:20250524T130000
+SUMMARY:Fox Take Down
+LOCATION:100 E Speer Boulevard\, Denver\, CO 80203
+DESCRIPTION:Join us in Denver to protest against Fox and demand they stop 
+ harming America. The event will be held at 100 E Speer Boulevard\, Denver.
+ \n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=100+E+Speer+
+ Boulevard%2C+Denver%2C+CO+80203&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

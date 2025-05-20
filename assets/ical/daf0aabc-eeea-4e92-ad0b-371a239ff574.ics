@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:b5c5b196-9fe6-4bc3-92b4-471fe8bfccfc
+SEQUENCE:0
+DTSTAMP:20250520T060359Z
+DTSTART:20250527T161500
+DTEND:20250527T181500
+SUMMARY:Corner Protest
+LOCATION:2601 S College Ave\, Fort Collins\, CO
+DESCRIPTION:We invite the public to positive engagement at our Corner Prot
+ est. Join us to stand for democracy and express your views every Tuesday a
+ nd Thursday.\n\nSW Corner of Drake and College
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=2601+S+Colle
+ ge+Ave%2C+Fort+Collins%2C+CO&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

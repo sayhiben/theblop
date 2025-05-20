@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:4d42a132-8d88-4266-8e14-421fc1910a1f
+SEQUENCE:0
+DTSTAMP:20250520T060359Z
+DTSTART:20250524T120000
+DTEND:20250524T140000
+SUMMARY:Stand Up Loveland
+LOCATION:Line the sidewalks from Sprouts to Tesla\, Loveland\, CO
+DESCRIPTION:A peaceful protest to stand up together in support of our cons
+ titutional rights\, our immigrant community\, our transgender community\, 
+ and our federal workforce. Bring a friend\, signs\, and flags sharing your
+  voice and heart with our community.\n\nSprouts to Tesla
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Line+the+sid
+ ewalks+from+Sprouts+to+Tesla%2C+Loveland%2C+CO&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

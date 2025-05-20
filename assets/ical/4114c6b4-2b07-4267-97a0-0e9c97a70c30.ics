@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:0384ec13-6bac-428e-80da-71c26b93ac50
+SEQUENCE:0
+DTSTAMP:20250520T060359Z
+DTSTART:20250524T120000
+DTEND:20250524T140000
+SUMMARY:Fox Take Down
+LOCATION:6th Avenue\, Manhattan\, NY 10036 US
+DESCRIPTION:Join us to protest against Fox's impact on America. The event 
+ aims to raise awareness and encourage action against perceived media misin
+ formation.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=6th+Avenue%2
+ C+Manhattan%2C+NY+10036+US&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
