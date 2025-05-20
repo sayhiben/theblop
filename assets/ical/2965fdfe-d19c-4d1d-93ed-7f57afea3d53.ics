@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:9d56d679-db8c-47e8-a34f-2aca840e22fc
+SEQUENCE:0
+DTSTAMP:20250520T032112Z
+DTSTART:20250614T130000
+DTEND:20250614T150000
+SUMMARY:Pride and Patriotism Flag Day Rally
+LOCATION:Public Square\, Watertown\, NY
+DESCRIPTION:We are hosting a rally to reclaim the flag for the people\, em
+ phasizing unity and inclusivity. Attendees are encouraged to bring donatio
+ ns for local youth organizations.\n\nPublic Square
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Public+Squar
+ e%2C+Watertown%2C+NY&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

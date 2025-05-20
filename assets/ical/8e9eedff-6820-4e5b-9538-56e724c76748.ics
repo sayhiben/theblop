@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:54e8d7ca-08fc-4138-b518-9d3b8ad5aee4
+SEQUENCE:0
+DTSTAMP:20250520T032112Z
+DTSTART:20250524T110000
+DTEND:20250524T130000
+SUMMARY:Hands Off The VA\, Hands Off Our Veterans
+LOCATION:Intersection of Routes 191 & 100
+DESCRIPTION:Join us this Memorial Day weekend for a protest event to show 
+ support for our veterans and oppose changes affecting them. The event will
+  take place at Wellesley Island\, providing a platform for individuals to 
+ voice their concerns.\n\nPlease park on the shoulder of Route 191
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Intersection
+ +of+Routes+191+%26+100&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
