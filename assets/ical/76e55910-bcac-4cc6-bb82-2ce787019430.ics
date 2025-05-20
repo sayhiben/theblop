@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:48b9d8af-ad8a-4a20-8b3b-7f47b79ec207
+SEQUENCE:0
+DTSTAMP:20250520T180332Z
+DTSTART:20250531T170000
+DTEND:20250531T190000
+SUMMARY:Defend the Constitution
+LOCATION:\, Lakeland\, FL
+DESCRIPTION:We are hosting a protest against Avelo's deportation flights t
+ o advocate for fair hearings and due process.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+Lakeland
+ %2C+FL&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

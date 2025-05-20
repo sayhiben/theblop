@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:1a268626-f914-4344-a3d2-947ae07c8abd
+SEQUENCE:0
+DTSTAMP:20250520T180332Z
+DTSTART:20250614T090000
+DTEND:20250614T110000
+SUMMARY:NO KINGS RALLY
+LOCATION:1 Courthouse Square\, Inverness\, FL
+DESCRIPTION:Stand united with our Community brothers and sisters as we con
+ tinue to fight for equality\, fairness\, and dignity for all.\n\nOld Citru
+ s County Courthouse
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=1+Courthouse
+ +Square%2C+Inverness%2C+FL&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
