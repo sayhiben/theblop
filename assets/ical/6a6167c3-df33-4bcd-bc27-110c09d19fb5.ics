@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:1ca37c0e-e0f4-4df7-a972-52aba97aca16
+SEQUENCE:0
+DTSTAMP:20250520T000658Z
+DTSTART:20250524T110000
+DTEND:20250524T130000
+SUMMARY:FOX TAKE DOWN
+LOCATION:[100 E Speer Boulevard\, Denver\, CO 80203\, 500 Chestnut St\, St
+ . Louis\, MO 63101\, 6th Avenue\, Manhattan\, NY 10036]\, [Denver\, St. Lo
+ uis\, Manhattan]\, [CO\, MO\, NY]
+DESCRIPTION:This is a protest event called 'Fox Take Down' aiming to chall
+ enge and raise awareness about perceived misinformation spread by Fox. Eve
+ nts are organized to happen in Denver\, St. Louis\, and Manhattan.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%5B100+E+Spe
+ er+Boulevard%2C+Denver%2C+CO+80203%2C+500+Chestnut+St%2C+St.+Louis%2C+MO+6
+ 3101%2C+6th+Avenue%2C+Manhattan%2C+NY+10036%5D%2C+%5BDenver%2C+St.+Louis%2
+ C+Manhattan%5D%2C+%5BCO%2C+MO%2C+NY%5D&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

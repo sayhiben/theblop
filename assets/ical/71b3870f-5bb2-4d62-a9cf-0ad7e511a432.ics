@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:8ec185eb-17a8-441a-8a95-63c3335323d5
+SEQUENCE:0
+DTSTAMP:20250520T000658Z
+DTSTART:20250521T180000
+DTEND:20250521T200000
+SUMMARY:Mini Protest for Due Process
+LOCATION:Neutral Ground at Napoleon Ave. and Magazine St\, New Orleans\, L
+ A
+DESCRIPTION:We are organizing a mini protest in support of due process. Jo
+ in us to raise awareness and advocate for justice.\n\nNeutral Ground at Na
+ poleon Ave. and Magazine St
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Neutral+Grou
+ nd+at+Napoleon+Ave.+and+Magazine+St%2C+New+Orleans%2C+LA&zoom=15&basemap=r
+ oadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

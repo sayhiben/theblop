@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:05ba2a88-d731-4c3b-8bbc-e26f8d65eca1
+SEQUENCE:0
+DTSTAMP:20250520T000658Z
+DTSTART:20250524T110000
+DTEND:20250524T130000
+SUMMARY:Fox Takedown
+LOCATION:100 E Speer Boulevard\, Denver\, CO 80203 US\, 500 Chestnut St\, 
+ St. Louis\, MO 63101 US\, 6th Avenue\, Manhattan\, NY 10036 US\, Denver\, 
+ St. Louis\, Manhattan\, CO\, MO\, NY
+DESCRIPTION:Join us in telling Fox to stop hurting America. This event is 
+ a protest against Fox's influence. You can also start your own event via f
+ oxtakedown.com.\n\n100 E Speer Boulevard\, Denver\, CO 80203 US\, 500 Ches
+ tnut St\, St. Louis\, MO 63101 US\, 6th Avenue\, Manhattan\, NY 10036 US
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=100+E+Speer+
+ Boulevard%2C+Denver%2C+CO+80203+US%2C+500+Chestnut+St%2C+St.+Louis%2C+MO+6
+ 3101+US%2C+6th+Avenue%2C+Manhattan%2C+NY+10036+US%2C+Denver%2C+St.+Louis%2
+ C+Manhattan%2C+CO%2C+MO%2C+NY&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

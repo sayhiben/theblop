@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:45b2d2ca-3591-496b-8f83-66ceeca92627
+SEQUENCE:0
+DTSTAMP:20250520T000658Z
+DTSTART:20250614T120000
+DTEND:20250614T140000
+SUMMARY:No Kings Rally and March
+LOCATION:50 W Washington St\, Chicago\, IL
+DESCRIPTION:Join us at the No Kings Rally and March to take a stand with I
+ ndivisible Chicago. Let's gather at Daley Plaza for an impactful event.\n\
+ nDaley Plaza
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=50+W+Washing
+ ton+St%2C+Chicago%2C+IL&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
