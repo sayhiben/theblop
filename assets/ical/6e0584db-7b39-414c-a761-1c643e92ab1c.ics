@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:0cfad558-679d-4a28-b2d8-937a4bce7a5a
+SEQUENCE:0
+DTSTAMP:20250520T210318Z
+DTSTART:20250602T163000
+DTEND:20250602T183000
+SUMMARY:Olympia Visibility Brigade Event
+LOCATION:Chehalis Western Trail Footbridge over I-5\, Lacey\, WA
+DESCRIPTION:Join the Olympia Visibility Brigade for a protest at Chehalis 
+ Western Trail Footbridge. Bring your protest signs\, flags\, fun costumes\
+ , and a good mood. Introverts are welcome! We deploy for protests in the O
+ lympia-Tumwater-Lacey area and support Capitol protests.\n\nChehalis Weste
+ rn Trail Footbridge
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Chehalis+Wes
+ tern+Trail+Footbridge+over+I-5%2C+Lacey%2C+WA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
