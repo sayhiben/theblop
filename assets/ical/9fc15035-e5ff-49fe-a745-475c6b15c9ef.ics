@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:5b0c2013-1f87-4dba-9f28-0b39461a6208
+SEQUENCE:0
+DTSTAMP:20250521T210330Z
+DTSTART:20250531T100000
+DTEND:20250531T120000
+SUMMARY:The WE CARE! Peaceful Protest
+LOCATION:N. Coast Hwy & Pier View Way\, Oceanside\, CA
+DESCRIPTION:We care about democracy\, due diligence\, the Queer community\
+ , the marginalized\, immigrants\, refugees\, those on fixed income\, veter
+ ans\, and the elderly. We believe all people have value and dignity and in
+ vite everyone to stand together.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=N.+Coast+Hwy
+ +%26+Pier+View+Way%2C+Oceanside%2C+CA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

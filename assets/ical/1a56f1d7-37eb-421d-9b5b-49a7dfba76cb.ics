@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:8d962a33-0623-4944-a521-144d0d88c8da
+SEQUENCE:0
+DTSTAMP:20250521T210330Z
+DTSTART:20250614T100000
+DTEND:20250614T120000
+SUMMARY:NO KINGS NATIONWIDE DAY OF DEFIANCE
+LOCATION:Oceanside Civic Center\, Oceanside\, CA
+DESCRIPTION:Join us on June 14\, 2025\, for a day of collective action and
+  defiance against hierarchical power at the Oceanside Civic Center. Marchi
+ ng is optional but your presence matters. In the main San Diego protest at
+  Waterfront Park\, we will be organizing a train group. Let's show up and 
+ speak out together.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Oceanside+Ci
+ vic+Center%2C+Oceanside%2C+CA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
