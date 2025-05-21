@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:fa30bfdf-a99d-43d0-8acd-cb0af7c78067
+SEQUENCE:0
+DTSTAMP:20250521T150423Z
+DTSTART:20250614T180000
+DTEND:20250614T200000
+SUMMARY:NO KINGS MASS PROTEST
+LOCATION:Pioneer Park\, Salt Lake City\, Salt Lake City\, UT
+DESCRIPTION:Our rights and democracy are under attack. We're organizing a 
+ rally to prove the people hold the power. Join us in defending against cur
+ rent administration actions.\n\nMarch from Pioneer Park to Federal Buildin
+ g\, 125 So State Street
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Pioneer+Park
+ %2C+Salt+Lake+City%2C+Salt+Lake+City%2C+UT&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

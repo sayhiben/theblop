@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:2cfe3282-f35d-464a-98e8-0a826b3c52b6
+SEQUENCE:0
+DTSTAMP:20250521T150423Z
+DTSTART:20250705T120000
+DTEND:20250705T140000
+SUMMARY:Elbows Up
+LOCATION:Pembina Port of Entry\, Pembina\, ND
+DESCRIPTION:Join us for a peaceful international demonstration in support 
+ of our neighbors to the north. Oh Canada! Meet us at the safest border cro
+ ssing in the world! For Canada\, for America\, for democracy.\n\nPembina P
+ ort of Entry
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Pembina+Port
+ +of+Entry%2C+Pembina%2C+ND&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

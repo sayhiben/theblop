@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:903b45eb-b670-42d1-a829-dba1cce48eea
+SEQUENCE:0
+DTSTAMP:20250521T150423Z
+DTSTART:20250531T170000
+DTEND:20250531T190000
+SUMMARY:Protest Avelo Airlines Deportation Flights
+LOCATION:University Pkwy sidewalks\, outside Sarasota-Bradenton Airport (S
+ RQ)\, Sarasota\, FL
+DESCRIPTION:We are organizing a peaceful protest on University Pkwy sidewa
+ lks\, outside Sarasota-Bradenton Airport\, to stop Avelo Airlines from ope
+ rating ICE deportation flights in collaboration with this administration. 
+ Consider taking county buses to and from the SRQ airport.\n\nSarasota-Brad
+ enton Airport (SRQ)
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=University+P
+ kwy+sidewalks%2C+outside+Sarasota-Bradenton+Airport+%28SRQ%29%2C+Sarasota%
+ 2C+FL&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

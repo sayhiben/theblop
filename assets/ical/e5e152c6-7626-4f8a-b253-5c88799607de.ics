@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:ed44cc9c-5594-4cc3-83b7-d760bea34044
+SEQUENCE:0
+DTSTAMP:20250521T150423Z
+DTSTART:20250525T120000
+DTEND:20250525T140000
+SUMMARY:Protest NATO
+LOCATION:Deeds Point Park\, Dayton\, OH
+DESCRIPTION:We're organizing a protest against the NATO Summit on May 25th
+  at Deeds Point Park in Dayton\, Ohio.\n\nDeeds Point Park
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Deeds+Point+
+ Park%2C+Dayton%2C+OH&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

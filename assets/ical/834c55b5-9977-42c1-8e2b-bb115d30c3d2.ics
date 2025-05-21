@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:224973b8-7c86-4139-bf2e-93db655b407f
+SEQUENCE:0
+DTSTAMP:20250521T150423Z
+DTSTART:20250614T140000
+DTEND:20250614T160000
+SUMMARY:SHUT DOWN BILLIONAIRES LANE!
+LOCATION:Meadow Lane (Register for exact address)\, Southampton\, NY
+DESCRIPTION:Join us to advocate for people over profit at Meadow Lane\, So
+ uthampton\, NY\, hosted by several organizations. Register for the exact a
+ ddress.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Meadow+Lane+
+ %28Register+for+exact+address%29%2C+Southampton%2C+NY&zoom=15&basemap=road
+ map
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

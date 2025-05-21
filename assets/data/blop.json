@@ -862,6 +862,31 @@
     "raw_summary": "The image is a flyer for a protest event titled 'National Day of Protest' happening on May 25th at 2 PM at Federal Plaza. The protest is against Executive Order 14288 on the 5th anniversary of George Floyd's murder."
   },
   {
+    "id": "e5e152c6-7626-4f8a-b253-5c88799607de",
+    "title": "Protest NATO",
+    "date": "Sunday, May 25, 2025",
+    "time": "12:00 PM",
+    "description": "We're organizing a protest against the NATO Summit on May 25th at Deeds Point Park in Dayton, Ohio.",
+    "city": "Dayton",
+    "state": "OH",
+    "address": "Deeds Point Park",
+    "meeting_location": "Deeds Point Park",
+    "links": [
+      "pslweb.org"
+    ],
+    "sponsors": [
+      "PSL National",
+      " Party for Socialism and Liberation"
+    ],
+    "image_url": "https://theblop.org/assets/images/e5e152c6-7626-4f8a-b253-5c88799607de.jpg",
+    "thumbnail_url": "https://theblop.org/assets/images/e5e152c6-7626-4f8a-b253-5c88799607de-thumb.jpg",
+    "canonical_id": "",
+    "permalink": "https://theblop.org/events/e5e152c6-7626-4f8a-b253-5c88799607de.html",
+    "ical": "https://theblop.org/assets/ical/e5e152c6-7626-4f8a-b253-5c88799607de.ics",
+    "raw_text": "SUNDAY\nMAY 25TH\nPROTEST\nNATO\nDAYTON, OH\nNOON / 12PM - DEEDS POINT PARK\nPROTESTING THE NATO SUMMIT\n\nOrganizer - PSL National\nPARTY FOR SOCIALISM AND LIBERATION\nPSLWEB.ORG\n\nLOVE IS ECONOMIC JUSTICE",
+    "raw_summary": "The image is a flyer for a protest event against NATO, happening in Dayton, Ohio, on Sunday, May 25th at Deeds Point Park. The protest is organized by PSL National."
+  },
+  {
     "id": "ce01e527-fc52-4212-9f86-b8a51b2a2d70",
     "title": "Die-In: Day of Mourning",
     "date": "Tuesday, May 27, 2025",
@@ -1149,6 +1174,34 @@
     "ical": "https://theblop.org/assets/ical/95a918bb-88f9-4af2-9f88-ccd212a66302.ics",
     "raw_text": "Protest Avelo!\nIllegal and Inhumane\n\nAvelo Airlines has accepted a $150 million contract to operate deportation flights, aiding in the illegal removal of individuals without their right to a fair hearing or due process.\n\nAvelo’s contract with ICE is:\n• Cruel\n• Inhumane\n• A direct violation of our Constitution\n\nSat May 31st 5-7PM\nFountains at Bellagio\n3600 S Las Vegas Blvd\n\nWE ARE INDIVISIBLE\nwww.indivisible.org\nIndivisible Las Vegas",
     "raw_summary": "Protest against Avelo Airlines on May 31st, highlighting its alleged inhumane deportation practices. The event is hosted by Indivisible Las Vegas and others at the Fountains at Bellagio, Las Vegas from 5-7 PM."
+  },
+  {
+    "id": "b8f77846-d47c-4c7c-b79c-c6261d42bb78",
+    "title": "Protest Avelo Airlines Deportation Flights",
+    "date": "Saturday, May 31, 2025",
+    "time": "5:00 PM",
+    "description": "We are organizing a peaceful protest on University Pkwy sidewalks, outside Sarasota-Bradenton Airport, to stop Avelo Airlines from operating ICE deportation flights in collaboration with this administration. Consider taking county buses to and from the SRQ airport.",
+    "city": "Sarasota",
+    "state": "FL",
+    "address": "University Pkwy sidewalks, outside Sarasota-Bradenton Airport (SRQ)",
+    "meeting_location": "Sarasota-Bradenton Airport (SRQ)",
+    "links": [
+      "stopavelo.org"
+    ],
+    "sponsors": [
+      "Valkyrie",
+      " 50501 SW Florida",
+      " Democratic Women's Club of Sarasota County",
+      " Voices of Florida",
+      " Indivisible Manatee"
+    ],
+    "image_url": "https://theblop.org/assets/images/b8f77846-d47c-4c7c-b79c-c6261d42bb78.jpg",
+    "thumbnail_url": "https://theblop.org/assets/images/b8f77846-d47c-4c7c-b79c-c6261d42bb78-thumb.jpg",
+    "canonical_id": "",
+    "permalink": "https://theblop.org/events/b8f77846-d47c-4c7c-b79c-c6261d42bb78.html",
+    "ical": "https://theblop.org/assets/ical/b8f77846-d47c-4c7c-b79c-c6261d42bb78.ics",
+    "raw_text": "PROTEST AVELO AIRLINES DEPORTATION FLIGHTS\nA PEACEFUL PROTEST ON UNIVERSITY PKWY SIDEWALKS, OUTSIDE OF SARASOTA-BRADENTON AIRPORT (SRQ)\nSAT, MAY 31\n5 - 7PM\nJOIN US IN A PROTEST OUTSIDE SRQ TO STOP COMMERCIAL AIRLINE AVELO FROM OPERATING ICE DEPORTATION FLIGHTS IN COLLABORATION WITH THIS CORRUPT ADMINISTRATION.\nCONSIDER TAKING COUNTY BUSES TO & FROM THE SRQ AIRPORT\nSTOPAVELO.ORG\nBOYCOTT EVIL BOYCOTT AVELO\n(Various logos: Valkyrie, 50501 SW Florida, Democratic Women's Club of Sarasota County, Voices of Florida, Indivisible Manatee)",
+    "raw_summary": "The image is a flyer for a protest against Avelo Airlines' deportation flights. The event is scheduled for May 31, from 5 PM to 7 PM, taking place outside Sarasota-Bradenton Airport (SRQ). The flyer includes a call to action against the airline's collaboration in ICE deportation flights and mentions bus transportation options. Various sponsors and an informational website are listed."
   },
   {
     "id": "c0e0b4a2-bbdc-4d9e-908e-a7397562c5ac",
@@ -2649,6 +2702,59 @@
     "raw_summary": "The flyer announces the 'No Kings Mass Protest' happening on June 14, 2025, at 10 AM at Graffiti Bridge in Pensacola. It’s a protest to reclaim pride and stand against marginalization, encouraging participants to bring flags representing their identity. The event is in partnership with various organizations."
   },
   {
+    "id": "834c55b5-9977-42c1-8e2b-bb115d30c3d2",
+    "title": "SHUT DOWN BILLIONAIRES LANE!",
+    "date": "Saturday, June 14, 2025",
+    "time": "2:00 PM",
+    "description": "Join us to advocate for people over profit at Meadow Lane, Southampton, NY, hosted by several organizations. Register for the exact address.",
+    "city": "Southampton",
+    "state": "NY",
+    "address": "Meadow Lane (Register for exact address)",
+    "meeting_location": "",
+    "links": [
+      "https://www.mobilize.us/nokings/event/791363/"
+    ],
+    "sponsors": [
+      "Assemble Long Island",
+      " Long Island Progressive Coalition",
+      " New York Communities for Change",
+      " Party for Socialism and Liberation-LI",
+      " PALI Coalition for Palestine",
+      " Warriors of the Sunrise",
+      " PALI AWDA Long Island",
+      " Release Aging People from Prison"
+    ],
+    "image_url": "https://theblop.org/assets/images/834c55b5-9977-42c1-8e2b-bb115d30c3d2.jpg",
+    "thumbnail_url": "https://theblop.org/assets/images/834c55b5-9977-42c1-8e2b-bb115d30c3d2-thumb.jpg",
+    "canonical_id": "",
+    "permalink": "https://theblop.org/events/834c55b5-9977-42c1-8e2b-bb115d30c3d2.html",
+    "ical": "https://theblop.org/assets/ical/834c55b5-9977-42c1-8e2b-bb115d30c3d2.ics",
+    "raw_text": "SHUT DOWN BILLIONAIRES LANE!\nPEOPLE BEFORE PROFIT\nMEADOW LANE, SOUTHAMPTON, NY (REGISTER FOR EXACT ADDRESS)\n14 JUNE 2025\nSTART TIME: 2PM EST\nHOSTED BY: ASSEMBLE LONG ISLAND, LONG ISLAND PROGRESSIVE COALITION, NEW YORK COMMUNITIES FOR CHANGE, PARTY FOR SOCIALISM AND LIBERATION-LI, PALI COALITION FOR PALESTINE, WARRIORS OF THE SUNRISE, PALI AWDA LONG ISLAND, RELEASE AGING PEOPLE FROM PRISON\nJOIN US: https://www.mobilize.us/nokings/event/791363/",
+    "raw_summary": "The flyer is promoting an event named 'SHUT DOWN BILLIONAIRES LANE!' happening on June 14, 2025, aimed at advocating for people over profit."
+  },
+  {
+    "id": "5663a713-79fc-40d8-b472-de365b1184c8",
+    "title": "NO KINGS MASS PROTEST",
+    "date": "Saturday, June 14, 2025",
+    "time": "6:00 PM",
+    "description": "Our rights and democracy are under attack. We're organizing a rally to prove the people hold the power. Join us in defending against current administration actions.",
+    "city": "Salt Lake City",
+    "state": "UT",
+    "address": "Pioneer Park, Salt Lake City",
+    "meeting_location": "March from Pioneer Park to Federal Building, 125 So State Street",
+    "links": [],
+    "sponsors": [
+      "Utah 501"
+    ],
+    "image_url": "https://theblop.org/assets/images/5663a713-79fc-40d8-b472-de365b1184c8.jpg",
+    "thumbnail_url": "https://theblop.org/assets/images/5663a713-79fc-40d8-b472-de365b1184c8-thumb.jpg",
+    "canonical_id": "",
+    "permalink": "https://theblop.org/events/5663a713-79fc-40d8-b472-de365b1184c8.html",
+    "ical": "https://theblop.org/assets/ical/5663a713-79fc-40d8-b472-de365b1184c8.ics",
+    "raw_text": "THIS IS A COUP\nA CONSTITUTIONAL CRISIS\nTHEY ARE DEPORTING U.S.\nCITIZENS & IGNORING\nSUPREME COURT RULINGS\nARRESTING JUDGES\nATTACKING OUR CIVIL RIGHTS\nSLASHING MEDICAID\nGUTTING CRITICAL HEALTH\n& ESSENTIAL SERVICES\nTAKING FOREIGN BRIBES\nSELLING OUR PUBLIC LANDS\nPREACHING NAZI IDEOLOGY\nPERSECUTING LGBTQIA+\nTAX BREAKS FOR THE ULTRA-RICH\nTHE ECONOMY IS TANKING\nREJECT PROJECT 2025\nALL HE DOES IS LIE\nWE WILL NOT BE SILENCED\n\nNO KINGS\nMASS PROTEST\n\nOUR RIGHTS. OUR DEMOCRACY. OUR FUTURE—ARE UNDER ATTACK. EXTREMISTS MAY HOLD CONGRESS, BUT THE PEOPLE HOLD THE POWER. WE'RE SHOWING UP TO PROVE IT.\n\nJUNE 14 PIONEER PARK RALLY 6 PM MARCH 7 PM\nMARCH FROM PIONEER PARK TO FEDERAL BUILDING 125 SO STATE STREET, SALT LAKE CITY\n\nUTAH 501 #50501 @UTAH50501 #UTAH50501\nPLEASE MASK FOR ACCESSIBILITY",
+    "raw_summary": "The image describes a public protest event titled 'NO KINGS MASS PROTEST' taking place in Salt Lake City, focusing on defending democracy and rights. It highlights various issues and outcomes from current administration actions and promotes a rally with specific details about the location and time."
+  },
+  {
     "id": "fde87026-b462-4372-9e62-09505cabdd8f",
     "title": "4th of July Protest",
     "date": "Friday, July 4, 2025",
@@ -2707,6 +2813,31 @@
     "ical": "https://theblop.org/assets/ical/c2326ce7-0b67-4bf0-a69e-52bad26d2c4a.ics",
     "raw_text": "PATRIOT PROTEST\n4TH OF JULY\nWASHINGTON D.C.\nSPREAD THE NEWS!\nNON-VIOLENT DAY OF ACTION\nBY, FOR, AND OF THE PEOPLE!",
     "raw_summary": "The flyer is promoting a protest named \"Patriot Protest\" scheduled for the 4th of July in Washington D.C. It emphasizes a non-violent day of action by, for, and of the people, urging participants to spread the news."
+  },
+  {
+    "id": "5d594984-6528-4478-bcf1-da6258c410a7",
+    "title": "Elbows Up",
+    "date": "Saturday, July 5, 2025",
+    "time": "12:00 PM",
+    "description": "Join us for a peaceful international demonstration in support of our neighbors to the north. Oh Canada! Meet us at the safest border crossing in the world! For Canada, for America, for democracy.",
+    "city": "Pembina",
+    "state": "ND",
+    "address": "Pembina Port of Entry",
+    "meeting_location": "Pembina Port of Entry",
+    "links": [],
+    "sponsors": [
+      "North Dakota",
+      " Minnesota",
+      " Fearless",
+      " Red River United Indivisible"
+    ],
+    "image_url": "https://theblop.org/assets/images/5d594984-6528-4478-bcf1-da6258c410a7.jpg",
+    "thumbnail_url": "https://theblop.org/assets/images/5d594984-6528-4478-bcf1-da6258c410a7-thumb.jpg",
+    "canonical_id": "",
+    "permalink": "https://theblop.org/events/5d594984-6528-4478-bcf1-da6258c410a7.html",
+    "ical": "https://theblop.org/assets/ical/5d594984-6528-4478-bcf1-da6258c410a7.ics",
+    "raw_text": "NORTH DAKOTA fearless. RED RIVER UNITED INDIVISIBLE MINNESOTA Join us for a peaceful international demonstration in support of our neighbors to the north. Oh Canada! Meet us at the safest border crossing in the world! ELBOWS UP FOR CANADA, FOR AMERICA, FOR DEMOCRACY 7/5 Noon-2 PM Pembina Port of Entry, Pembina, ND",
+    "raw_summary": "The image is an event flyer promoting an international demonstration titled 'Elbows Up,' scheduled on July 5th from noon to 2 PM at the Pembina Port of Entry in Pembina, ND. The event is a peaceful demonstration in support of Canada, America, and democracy. Logos of sponsors such as North Dakota, Minnesota, Fearless, and Red River United Indivisible are included."
   },
   {
     "id": "a0d48580-cf5c-4575-ba08-da8f32b1cdab",
