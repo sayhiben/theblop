@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:d81ec3a4-ea58-41b2-a75d-b42442e5b6d2
+SEQUENCE:0
+DTSTAMP:20250521T032120Z
+DTSTART:20250614T090000
+DTEND:20250614T110000
+SUMMARY:NO KINGS NATIONWIDE DAY OF DEFIANCE
+LOCATION:Hampton Park
+DESCRIPTION:We are organizing a nationwide day of defiance against Donald 
+ Trump's perceived absolute rule. This event is a call to action for citize
+ ns to stand up and voice their opposition.\n\nHampton Park
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Hampton+Park
+ &zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

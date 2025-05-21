@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:0c338e97-c408-4f57-bdbd-9012807d5d80
+SEQUENCE:0
+DTSTAMP:20250521T032120Z
+DTSTART:20250614T090000
+DTEND:20250614T110000
+SUMMARY:Nationwide Day of Defiance
+LOCATION:Hampton Park
+DESCRIPTION:Join us in making your voice heard against perceived authorita
+ rian rule. We stand together in defiance against 'kings' in America.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Hampton+Park
+ &zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:117f25f0-9558-43a2-982a-54d4ac711c91
+SEQUENCE:0
+DTSTAMP:20250521T032120Z
+DTSTART:20250531T170000
+DTEND:20250531T190000
+SUMMARY:Protest Avelo!
+LOCATION:3600 S Las Vegas Blvd\, Las Vegas\, NV
+DESCRIPTION:We are protesting against Avelo Airlines' involvement in depor
+ tation flights\, described as illegal and inhumane\, violating rights with
+ out due process.\n\nFountains at Bellagio
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=3600+S+Las+V
+ egas+Blvd%2C+Las+Vegas%2C+NV&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

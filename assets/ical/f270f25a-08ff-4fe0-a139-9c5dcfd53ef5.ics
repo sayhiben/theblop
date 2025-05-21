@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:22bf6409-764e-459e-8d2a-ba52c2f263b7
+SEQUENCE:0
+DTSTAMP:20250521T032120Z
+DTSTART:20250528T170000
+DTEND:20250528T190000
+SUMMARY:Elected Officials Town Hall Forum
+LOCATION:2851 East Bonanza Road\, Las Vegas\, NV
+DESCRIPTION:Indivisible Las Vegas has invited our elected officials to a s
+ olution-focused town hall forum. An opportunity for our elected officials 
+ to assure their constituents that they’re doing everything in their powe
+ r\, using every creative means possible\, to bravely fight against the dis
+ mantling of our democracy.\n\nEast Las Vegas Library
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=2851+East+Bo
+ nanza+Road%2C+Las+Vegas%2C+NV&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
