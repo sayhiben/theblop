@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:1db377fd-74bc-4e91-b027-f973f2a50926
+SEQUENCE:0
+DTSTAMP:20250521T180325Z
+DTSTART:20250531T110000
+DTEND:20250531T130000
+SUMMARY:No Justice No Peace Rally
+LOCATION:Straub Park\, South End\, St. Pete\, St. Petersburg\, FL
+DESCRIPTION:We will not tolerate ICE raids in our city. Join us to rally a
+ gainst fascism.\n\nStraub Park\, South End\, St. Pete
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Straub+Park%
+ 2C+South+End%2C+St.+Pete%2C+St.+Petersburg%2C+FL&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

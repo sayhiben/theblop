@@ -375,6 +375,30 @@
     "raw_summary": "The image describes a weekly protest event outside Representative Gabe Evans' office, occurring every Friday at 11:00 am in Northglenn, CO. Attendees are encouraged to express their concerns peacefully."
   },
   {
+    "id": "4f4200f1-5cc2-4e77-a2eb-452791c8d11d",
+    "title": "Protest",
+    "date": "Friday, May 23, 2025",
+    "time": "3:00 PM",
+    "description": "We are organizing a protest against Trump's \"Skinny Budget\" which significantly reduces healthcare, education, and environmental funding. We emphasize the impact on all Americans, regardless of political affiliation.",
+    "city": "San Juan Capistrano",
+    "state": "CA",
+    "address": "32051 Camino Capistrano",
+    "meeting_location": "",
+    "links": [
+      "https://bit.ly/ToxicTrump"
+    ],
+    "sponsors": [
+      "SPC"
+    ],
+    "image_url": "https://theblop.org/assets/images/4f4200f1-5cc2-4e77-a2eb-452791c8d11d.jpg",
+    "thumbnail_url": "https://theblop.org/assets/images/4f4200f1-5cc2-4e77-a2eb-452791c8d11d-thumb.jpg",
+    "canonical_id": "",
+    "permalink": "https://theblop.org/events/4f4200f1-5cc2-4e77-a2eb-452791c8d11d.html",
+    "ical": "https://theblop.org/assets/ical/4f4200f1-5cc2-4e77-a2eb-452791c8d11d.ics",
+    "raw_text": "PROTEST\n\n23 MAY 3PM - 4 PM\n32051 CAMINO CAPISTRANO,\nSAN JUAN CAPISTRANO\n\nENOUGH IS ENOUGH\n\nTrump’s “Skinny Budget” starves US so that billionaires can get fatter.\n\n13.7 Million Americans will lose healthcare.\n\nWe didn’t say 13.7 million Democrats. Republicans. Seniors. Children. People.\n\nThis budget cuts $12 Billion in funding for Education, but ADDS $113 Billion to budgets for the Department of Defense and $42 Billion for Homeland Security.\n\nWhen did hating our enemies become more important than educating our children?\n\nThe National Science Foundation will lose 56% of its funding. The Environmental Protection Agency loses 55% of its funding.\n\nCuring diseases and the health of our environment should not be a partisan issue. We should ALL care about these things.",
+    "raw_summary": "The flyer is calling for a protest against Trump's budget cuts, emphasizing the losses in healthcare, education, and environmental funding. It provides event details including the date, time, and location of the protest."
+  },
+  {
     "id": "01353d93-fcd6-43f9-b894-d3549754b69c",
     "title": "Veterans Defending Democracy Rally",
     "date": "Saturday, May 24, 2025",
@@ -1202,6 +1226,32 @@
     "ical": "https://theblop.org/assets/ical/b8f77846-d47c-4c7c-b79c-c6261d42bb78.ics",
     "raw_text": "PROTEST AVELO AIRLINES DEPORTATION FLIGHTS\nA PEACEFUL PROTEST ON UNIVERSITY PKWY SIDEWALKS, OUTSIDE OF SARASOTA-BRADENTON AIRPORT (SRQ)\nSAT, MAY 31\n5 - 7PM\nJOIN US IN A PROTEST OUTSIDE SRQ TO STOP COMMERCIAL AIRLINE AVELO FROM OPERATING ICE DEPORTATION FLIGHTS IN COLLABORATION WITH THIS CORRUPT ADMINISTRATION.\nCONSIDER TAKING COUNTY BUSES TO & FROM THE SRQ AIRPORT\nSTOPAVELO.ORG\nBOYCOTT EVIL BOYCOTT AVELO\n(Various logos: Valkyrie, 50501 SW Florida, Democratic Women's Club of Sarasota County, Voices of Florida, Indivisible Manatee)",
     "raw_summary": "The image is a flyer for a protest against Avelo Airlines' deportation flights. The event is scheduled for May 31, from 5 PM to 7 PM, taking place outside Sarasota-Bradenton Airport (SRQ). The flyer includes a call to action against the airline's collaboration in ICE deportation flights and mentions bus transportation options. Various sponsors and an informational website are listed."
+  },
+  {
+    "id": "c14890f7-cd7a-4324-a9a4-453663dc2c75",
+    "title": "No Justice No Peace Rally",
+    "date": "Saturday, May 31, 2025",
+    "time": "11:00 AM",
+    "description": "We will not tolerate ICE raids in our city. Join us to rally against fascism.",
+    "city": "St. Petersburg",
+    "state": "FL",
+    "address": "Straub Park, South End, St. Pete",
+    "meeting_location": "Straub Park, South End, St. Pete",
+    "links": [],
+    "sponsors": [
+      "Resistance Support Collective Florida",
+      " Progressive Power Collective",
+      " El Pueblo Unido Tampa Bay",
+      " Valkyrie",
+      " Progressive Jewish Coalition"
+    ],
+    "image_url": "https://theblop.org/assets/images/c14890f7-cd7a-4324-a9a4-453663dc2c75.jpg",
+    "thumbnail_url": "https://theblop.org/assets/images/c14890f7-cd7a-4324-a9a4-453663dc2c75-thumb.jpg",
+    "canonical_id": "",
+    "permalink": "https://theblop.org/events/c14890f7-cd7a-4324-a9a4-453663dc2c75.html",
+    "ical": "https://theblop.org/assets/ical/c14890f7-cd7a-4324-a9a4-453663dc2c75.ics",
+    "raw_text": "NO JUSTICE NO PEACE\nWE WILL NOT TOLERATE ICE RAIDS IN OUR CITY\n\nSATURDAY, MAY 31st 2025\n11AM - 2PM\n\nRALLY WITH US AGAINST FASCISM\nSTRAUB PARK, SOUTH END, ST. PETE\n\nRESISTANCE SUPPORT COLLECTIVE FLORIDA, PROGRESSIVE POWER COLLECTIVE, EL PUEBLO UNIDO TAMPA BAY, VALKYRIE, PROGRESSIVE JEWISH COALITION",
+    "raw_summary": "The flyer is about a rally against ICE raids and fascism, scheduled for May 31, 2025, in St. Pete at Straub Park. The event is organized by several groups."
   },
   {
     "id": "c0e0b4a2-bbdc-4d9e-908e-a7397562c5ac",
