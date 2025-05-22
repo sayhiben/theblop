@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:c08f04e5-d20f-459f-90ef-8b1860a83fc5
+SEQUENCE:0
+DTSTAMP:20250522T060354Z
+DTSTART:20250524T194500
+DTEND:20250524T214500
+SUMMARY:Vigil for the Voiceless
+LOCATION:Corner of Krome Ave & SW 12th St\, Miami\, FL
+DESCRIPTION:Join us for a candlelight vigil in Miami to honor the victims 
+ of an unjust deportation system.\n\nCorner of Krome Ave & SW 12th St
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Corner+of+Kr
+ ome+Ave+%26+SW+12th+St%2C+Miami%2C+FL&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

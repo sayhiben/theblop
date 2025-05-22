@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:eb3b983e-151f-4974-8a41-fc92444ed308
+SEQUENCE:0
+DTSTAMP:20250522T060354Z
+DTSTART:20250614T173000
+DTEND:20250614T193000
+SUMMARY:Raise Your Flags\, Raise Your Voice
+LOCATION:Bayfront Park\, Sarasota\, FL
+DESCRIPTION:Join us in Sarasota for a vibrant event featuring a rally\, fl
+ ag waving\, speakers\, and a pride flag assembly\, culminating in a march 
+ across the bridge. We encourage attendees to bring nonperishable donations
+  to support Sarasota's in-need communities.\n\nJD Hamel Park
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Bayfront+Par
+ k%2C+Sarasota%2C+FL&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

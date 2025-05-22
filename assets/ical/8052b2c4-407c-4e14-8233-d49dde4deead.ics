@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:570ab8b9-60da-4b90-b2a2-391d4fc7fce1
+SEQUENCE:0
+DTSTAMP:20250522T060354Z
+DTSTART:20250614T090000
+DTEND:20250614T110000
+SUMMARY:March to Mar-a-Lago: Worst Birthday Ever Protest
+LOCATION:4715 S Dixie Hwy\, West Palm Beach\, FL
+DESCRIPTION:Join us for the 'No Kings Protest' as we caravan\, march\, and
+  rally at Mar-a-Lago. Participate in making a statement and bring school s
+ upplies along with non-perishable food donations.\n\nMar-a-Lago
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=4715+S+Dixie
+ +Hwy%2C+West+Palm+Beach%2C+FL&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

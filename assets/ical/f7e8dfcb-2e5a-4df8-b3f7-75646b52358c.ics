@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:90586124-84fa-46df-af8f-ec0e6a89ce7b
+SEQUENCE:0
+DTSTAMP:20250522T060354Z
+DTSTART:20250531T140000
+DTEND:20250531T160000
+SUMMARY:AVELO AIRLINES Boycott
+LOCATION:Palm Beach International Airport - Level 3 DEPARTURES\, Palm Beac
+ h\, FL
+DESCRIPTION:We are organizing a boycott against Avelo Airlines to stop ICE
+  deportation flights. Join us at Palm Beach International Airport to make 
+ your voice heard.\n\nPalm Beach International Airport - Level 3 DEPARTURES
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Palm+Beach+I
+ nternational+Airport+-+Level+3+DEPARTURES%2C+Palm+Beach%2C+FL&zoom=15&base
+ map=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

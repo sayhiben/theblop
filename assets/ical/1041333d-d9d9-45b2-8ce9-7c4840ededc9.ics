@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:62d3ed4a-0bf5-483f-a50a-d1ae833a08b8
+SEQUENCE:0
+DTSTAMP:20250522T060354Z
+DTSTART:20250525T190000
+DTEND:20250525T210000
+SUMMARY:George Floyd Angelversary
+LOCATION:1706 8th Ave W\, Palmetto\, FL
+DESCRIPTION:Join us for a vigil to remember George Floyd\, whose death at 
+ the hands of police shook the world in 2020. We will also honor local poli
+ ce brutality victim\, Breonte Johnson-Davis\, as well as all the victims o
+ f brutal anti-immigrant policies in the U.S.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=1706+8th+Ave
+ +W%2C+Palmetto%2C+FL&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
