@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:35911844-e88e-4f97-8293-088dc99568a4
+SEQUENCE:0
+DTSTAMP:20250522T180345Z
+DTSTART:20250531T110000
+DTEND:20250531T130000
+SUMMARY:National Single Payer Health Care for All Day of Action
+LOCATION:300 E Randolph\, Chicago\, IL
+DESCRIPTION:Join us for a nationwide day of action advocating for single-p
+ ayer healthcare for all. Stand with us to support Medicare\, Medicaid\, an
+ d the belief that healthcare is a human right.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=300+E+Randol
+ ph%2C+Chicago%2C+IL&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

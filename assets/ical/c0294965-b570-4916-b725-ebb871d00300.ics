@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:084ea913-e8fe-4e4a-9bb5-a3a173c0e63a
+SEQUENCE:0
+DTSTAMP:20250522T180345Z
+DTSTART:20250614T140000
+DTEND:20250614T160000
+SUMMARY:No Kings
+LOCATION:\, Fort Wayne\, IN
+DESCRIPTION:Join us for the No Kings rally that includes a soap\, hope\, a
+ nd dignity drive. This peaceful national protest aims to reclaim the flag 
+ and our national symbols\, showcasing patriotism and supporting veterans. 
+ We’re collecting items for local food banks to aid our community.\n\nAll
+ en County Courthouse
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+Fort+Way
+ ne%2C+IN&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

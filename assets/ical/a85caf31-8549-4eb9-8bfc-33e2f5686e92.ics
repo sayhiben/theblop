@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:49f43ab7-e418-43a2-b567-beda3586162a
+SEQUENCE:0
+DTSTAMP:20250522T180345Z
+DTSTART:20250614T120000
+DTEND:20250614T140000
+SUMMARY:No Kings Nationwide Protest Rally
+LOCATION:2 North Main St.\, Greensburg\, PA
+DESCRIPTION:We are rallying to proclaim that there are no kings in America
+ . Join us as we pressure Congress to uphold justice\, stand for righteousn
+ ess\, and advocate for impeachment\, conviction\, and removal.\n\nWestmore
+ land County Courthouse
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=2+North+Main
+ +St.%2C+Greensburg%2C+PA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

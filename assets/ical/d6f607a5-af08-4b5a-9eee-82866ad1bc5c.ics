@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:d74d432d-fd3d-4fe9-8ca5-c562623da03b
+SEQUENCE:0
+DTSTAMP:20250522T180345Z
+DTSTART:20250524T100000
+DTEND:20250524T120000
+SUMMARY:Indy 500 Peaceful Demonstration
+LOCATION:Section 23 and 24 between North St and Michigan St\, at end of ro
+ ute off Meridian St\, Indianapolis\, IN
+DESCRIPTION:Join us in supporting foreign drivers at the Indy 500 by repre
+ senting their countries with flags\, outfits\, and signs.\n\nSection 23 an
+ d 24
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Section+23+a
+ nd+24+between+North+St+and+Michigan+St%2C+at+end+of+route+off+Meridian+St%
+ 2C+Indianapolis%2C+IN&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
