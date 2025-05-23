@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:17d3a98a-bc83-4bc2-932f-b070a9bac7a0
+SEQUENCE:0
+DTSTAMP:20250523T180327Z
+DTSTART:20250606T090000
+DTEND:20250606T110000
+SUMMARY:Join Cliff Cash and Defenders of Democracy
+LOCATION:Capitol Building\, Washington\, DC
+DESCRIPTION:Join Cliff Cash\, local activists\, and defenders of democracy
+  on the steps of the Capitol Building to peacefully meet representatives a
+ nd demand accountability.\n\nOn the steps of the Capitol Building
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Capitol+Buil
+ ding%2C+Washington%2C+DC&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

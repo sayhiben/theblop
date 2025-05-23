@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:ffaea2a0-79d4-4ec0-b70d-c099013128dd
+SEQUENCE:0
+DTSTAMP:20250523T180327Z
+DTSTART:20250524T120000
+DTEND:20250524T140000
+SUMMARY:Not a Protest\, a Revolution
+LOCATION:7th St/Rangeline\, Big Lots parking lot
+DESCRIPTION:We are organizing a movement to protect our rights\, defend fr
+ ee and fair elections\, hold leaders accountable\, and speak truth to powe
+ r. This event is a call to action for defending democracy and making a sta
+ nd together.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=7th+St%2FRan
+ geline%2C+Big+Lots+parking+lot&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

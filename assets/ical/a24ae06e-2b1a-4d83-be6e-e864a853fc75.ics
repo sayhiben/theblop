@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:24ab93b8-1d7d-486b-9680-aa4eb29e7dbc
+SEQUENCE:0
+DTSTAMP:20250523T180327Z
+DTSTART:20250606T120000
+DTEND:20250606T140000
+SUMMARY:D-Day Rally
+LOCATION:17th and Marine Dr\, Astoria\, OR
+DESCRIPTION:We are gathering to unite for veterans and America. Join us in
+  showing support and solidarity.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=17th+and+Mar
+ ine+Dr%2C+Astoria%2C+OR&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

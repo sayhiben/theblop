@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:2af356ef-21bf-47b7-a28f-6cd88ec7bd42
+SEQUENCE:0
+DTSTAMP:20250523T180327Z
+DTSTART:20250524T110000
+DTEND:20250524T130000
+SUMMARY:Fox Takedown
+LOCATION:100 E Speer Boulevard\, Denver\, 1551 Briarcliff Rd.\, Atlanta\, 
+ 1211 6 Avenue\, Manhattan\, 400 N Capitol St NW\, Washington\, Denver\, At
+ lanta\, Manhattan\, Washington\, CO\, GA\, NY\, DC
+DESCRIPTION:Join us to tell Fox to stop hurting America at the Fox Takedow
+ n protests held in different cities to oppose their influence on democracy
+ .\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=100+E+Speer+
+ Boulevard%2C+Denver%2C+1551+Briarcliff+Rd.%2C+Atlanta%2C+1211+6+Avenue%2C+
+ Manhattan%2C+400+N+Capitol+St+NW%2C+Washington%2C+Denver%2C+Atlanta%2C+Man
+ hattan%2C+Washington%2C+CO%2C+GA%2C+NY%2C+DC&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

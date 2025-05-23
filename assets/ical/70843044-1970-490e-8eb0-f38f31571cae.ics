@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:7110cc5a-5b76-4c00-ae95-7b783867dcd1
+SEQUENCE:0
+DTSTAMP:20250523T180327Z
+DTSTART:20250601T143000
+DTEND:20250601T163000
+SUMMARY:Fascism Isn't Funny
+LOCATION:21a Clinton St\, New York\, NY
+DESCRIPTION:Join us for 'Fascism Isn't Funny\,' a comedy activism show aim
+ ing to provide laughter and engagement for the emotionally exhausted. Feat
+ uring performers Micaela Fagan\, Vickie Wang\, and more\, this Pride Editi
+ on event is in partnership with The Okra Project. Don't miss the afterpart
+ y!\n\nCaveat
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=21a+Clinton+
+ St%2C+New+York%2C+NY&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

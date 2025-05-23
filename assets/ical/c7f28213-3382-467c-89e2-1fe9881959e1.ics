@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:f564d18e-0ecf-4fe7-8bb7-c640357a1d3c
+SEQUENCE:0
+DTSTAMP:20250523T180327Z
+DTSTART:20250524T120000
+DTEND:20250524T140000
+SUMMARY:#TESLAKEDOWN
+LOCATION:901 N Rush\, Chicago\, IL
+DESCRIPTION:We are organizing a protest in Chicago against certain busines
+ ses and figures\, emphasizing that they are "not welcome" due to perceived
+  injustices.\n\n901 N Rush\, Chicago\, IL
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=901+N+Rush%2
+ C+Chicago%2C+IL&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
