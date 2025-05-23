@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:50145b56-6aec-42c8-b08a-fcde74969b71
+SEQUENCE:0
+DTSTAMP:20250523T060323Z
+DTSTART:20250607T100000
+DTEND:20250607T120000
+SUMMARY:Protest to Stop the Cuts
+LOCATION:3315 Tamiami Trail E.\, Naples\, FL
+DESCRIPTION:We are organizing a protest to stop Senate-approved cuts affec
+ ting various social services. Join us to resist these damaging policies. I
+ n remembrance of D-Day\, bring non-perishable food items for veterans.\n\n
+ Collier Courthouse
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=3315+Tamiami
+ +Trail+E.%2C+Naples%2C+FL&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
