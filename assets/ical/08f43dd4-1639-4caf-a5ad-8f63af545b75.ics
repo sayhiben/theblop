@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:47c1cbde-017e-4f5b-840e-801f9c4ca948
+SEQUENCE:0
+DTSTAMP:20250523T000653Z
+DTSTART:20250606T070000
+DTEND:20250606T090000
+SUMMARY:Rally for Veterans on D-Day
+LOCATION:Tucson VA Medical Center\, Tucson\, AZ
+DESCRIPTION:We oppose Trump’s layoff of 80\,000 VA workers who care for 
+ veterans and the attack on their unions. The event includes a vigil\, marc
+ h\, and speeches.\n\n6th Ave. Gate\, 2nd Ave.
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Tucson+VA+Me
+ dical+Center%2C+Tucson%2C+AZ&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
