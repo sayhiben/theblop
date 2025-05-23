@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:4928a1b2-ddec-4265-b118-55511cd84455
+SEQUENCE:0
+DTSTAMP:20250523T150330Z
+DTSTART:20250528T083000
+DTEND:20250528T103000
+SUMMARY:Stop FPL Rate Hike Public Hearing
+LOCATION:11831 Bayshore Rd\, North\, Fort Myers\, FL
+DESCRIPTION:We are organizing a public hearing to oppose the FPL rate hike
+ . Join us to share your story\, bring your power\, and support our cause.\
+ n\nLee County Civic Center\, Davidson House
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=11831+Baysho
+ re+Rd%2C+North%2C+Fort+Myers%2C+FL&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
