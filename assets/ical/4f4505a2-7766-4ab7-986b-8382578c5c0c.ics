@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:7c8291c5-a85d-40a9-b452-9e4cccff1a4c
+SEQUENCE:0
+DTSTAMP:20250523T210323Z
+DTSTART:20250614T100000
+DTEND:20250614T120000
+SUMMARY:Counter Parade Protest
+LOCATION:Lafayette Square\, New Orleans\, LA
+DESCRIPTION:This event is a protest event labeled "No Kings\," likely orga
+ nized to counter a royal or similar-themed celebration in New Orleans.\n\n
+ Lafayette Square
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Lafayette+Sq
+ uare%2C+New+Orleans%2C+LA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
