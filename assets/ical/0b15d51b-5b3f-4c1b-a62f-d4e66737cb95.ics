@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:0c8b595d-8298-47bf-9e53-c81a38f14efd
+SEQUENCE:0
+DTSTAMP:20250524T031855Z
+DTSTART:20250614T120000
+DTEND:20250614T140000
+SUMMARY:Rally & March
+LOCATION:Daley Plaza\, Chicago\, IL
+DESCRIPTION:We are gathering for a rally and march to protest against auth
+ oritarian themes\, encouraging community involvement and civic participati
+ on.\n\nDaley Plaza
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Daley+Plaza%
+ 2C+Chicago%2C+IL&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
