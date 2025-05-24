@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:3bb3e183-5356-45d0-ba4a-cf461221e0ea
+SEQUENCE:0
+DTSTAMP:20250524T150302Z
+DTSTART:20250606T163000
+DTEND:20250606T183000
+SUMMARY:D-Day Veterans Rally
+LOCATION:Intersection of Johnston Street & University Avenue (by Domino’
+ s)\, Lafayette\, LA
+DESCRIPTION:We invite you to join us in honoring the sacrifice and defendi
+ ng the legacy of veterans at the D-Day Veterans Rally. The event will take
+  place at the intersection of Johnston Street & University Avenue in Lafay
+ ette\, LA\, featuring activities to stand for democracy and lead into the 
+ upcoming "No Kings Rally."\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Intersection
+ +of+Johnston+Street+%26+University+Avenue+%28by+Domino%E2%80%99s%29%2C+Laf
+ ayette%2C+LA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

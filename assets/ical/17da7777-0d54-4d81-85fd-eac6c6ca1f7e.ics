@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:75efa828-7dc1-42c9-9d8e-e9237a75f416
+SEQUENCE:0
+DTSTAMP:20250524T150302Z
+DTSTART:20250525T120000
+DTEND:20250525T140000
+SUMMARY:50501 Soldiers: Reinstate Oath\, Rekindle the Promise
+LOCATION:Independence Hall\, Philadelphia\, PA
+DESCRIPTION:Participants will renew their dedication to protecting the Con
+ stitution\, veterans\, and their rights\, emphasizing allegiance to the pe
+ ople.\n\nIndependence Hall\, Philadelphia
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Independence
+ +Hall%2C+Philadelphia%2C+PA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
