@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:9da6d0b6-75af-46be-a3f4-f79115dc5b18
+SEQUENCE:0
+DTSTAMP:20250524T000631Z
+DTSTART:20250526T120000
+DTEND:20250526T140000
+SUMMARY:Memorial Day March & Rally for a Dream
+LOCATION:\, Boston\, MA
+DESCRIPTION:On Memorial Day\, we honor those who defended our rights. Join
+  us for a march and rally to advocate for protecting Constitutional rights
+  regardless of immigration status.\n\nCity Hall Plaza / USCIS Boston
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+Boston%2
+ C+MA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

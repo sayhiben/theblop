@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:25bd2eec-be4c-4822-ae50-bd654f6a35b5
+SEQUENCE:0
+DTSTAMP:20250524T000631Z
+DTSTART:20250614T110000
+DTEND:20250614T130000
+SUMMARY:No Kings
+LOCATION:\, Baton Rouge\, LA
+DESCRIPTION:The flyer lacks a clear description of the event's purpose or 
+ activities.\n\nLA Capitol
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+Baton+Ro
+ uge%2C+LA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:3422dfe9-8f34-4307-a891-d98bb6be1a01
+SEQUENCE:0
+DTSTAMP:20250524T000631Z
+DTSTART:20250628T120000
+DTEND:20250628T140000
+SUMMARY:Protest Festival
+LOCATION:All Souls Church\, Shreveport\, LA
+DESCRIPTION:Join us for the Protest Festival at All Souls Church to celebr
+ ate Pride Month. You'll have the opportunity to engage with music\, speech
+ es\, games\, and learn how to advocate for your community. This event is a
+ bout expressing joy\, community connection\, and fighting for everyone's r
+ ights.\n\nAll Souls Church
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=All+Souls+Ch
+ urch%2C+Shreveport%2C+LA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
