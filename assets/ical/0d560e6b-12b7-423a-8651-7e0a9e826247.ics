@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:67ffff43-8338-4c75-ad83-598c504c7ace
+SEQUENCE:0
+DTSTAMP:20250525T180316Z
+DTSTART:20250614T000000
+DTEND:20250614T020000
+SUMMARY:No Kings: Nationwide Day of Defiance
+LOCATION:\, Nationwide\, Nationwide
+DESCRIPTION:Join us in a nationwide expression of defiance against oppress
+ ive systems. Stand with us to advocate for change by participating in vari
+ ous activities across the nation.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+Nationwi
+ de%2C+Nationwide&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

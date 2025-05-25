@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:358742ea-ccee-443c-90c0-008e544656ea
+SEQUENCE:0
+DTSTAMP:20250525T180316Z
+DTSTART:20250614T000000
+DTEND:20250614T020000
+SUMMARY:No Kings Mass Protest
+DESCRIPTION:We are organizing a mass protest titled "No Kings" to express 
+ our stance against monarchy-like governance or leadership. Join us on this
+  date to participate and make our voices heard.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=&zoom=15&bas
+ emap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
