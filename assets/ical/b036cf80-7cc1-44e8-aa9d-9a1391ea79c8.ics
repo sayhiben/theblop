@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:13f3b296-0d78-41cc-a415-d660d20552e9
+SEQUENCE:0
+DTSTAMP:20250525T210326Z
+DTSTART:20250616T163000
+DTEND:20250616T183000
+SUMMARY:Olympia Visibility Brigade Protest
+LOCATION:Pedestrian bridge over I-5\, Tumwater (near Home Depot)
+DESCRIPTION:Join us for a protest led by Olympia Visibility Brigade. We me
+ et each weekend on overpasses in the Olympia-Tumwater-Lacey area and on Mo
+ ndays during evening rush hour to support Capitol protests. Bring signs\, 
+ flags\, costumes\, and a good mood. Introverts are welcome!\n\nPedestrian 
+ bridge over I-5\, Tumwater (near Home Depot)
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Pedestrian+b
+ ridge+over+I-5%2C+Tumwater+%28near+Home+Depot%29&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:b514aa73-cabb-4782-b8c3-4414abb28a3f
+SEQUENCE:0
+DTSTAMP:20250525T210326Z
+DTSTART:20250614T130000
+DTEND:20250614T150000
+SUMMARY:Freedom March & Community Cookout
+LOCATION:Carroll High\, Monroe\, LA
+DESCRIPTION:Join us for the Juneteenth celebration featuring a Freedom Mar
+ ch and Community Cookout with North Louisiana Indivisible in Monroe. It's 
+ a day to honor and celebrate community and freedom.\n\nPowell Rec. Center
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Carroll+High
+ %2C+Monroe%2C+LA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

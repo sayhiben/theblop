@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:ae9da985-f6cf-47fa-aa1d-e5e74b66f8f7
+SEQUENCE:0
+DTSTAMP:20250525T210326Z
+DTSTART:20250614T110000
+DTEND:20250614T130000
+SUMMARY:NO KINGS
+LOCATION:Boston St. between New Hampshire & Columbia\, Covington\, LA
+DESCRIPTION:We’re standing together against the abuses of power\, cruelt
+ y\, and corruption. Join us in Covington as we gather to remind Trump and 
+ his enablers: America has No King! The event includes a protest and rally 
+ with speakers\, music\, and food.\n\nBogue Falaya Park Pavilion
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Boston+St.+b
+ etween+New+Hampshire+%26+Columbia%2C+Covington%2C+LA&zoom=15&basemap=roadm
+ ap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
