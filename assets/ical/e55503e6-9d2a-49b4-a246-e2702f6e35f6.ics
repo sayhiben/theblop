@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:afdc02a7-6f4a-4a15-ab80-ab09a6ff1659
+SEQUENCE:0
+DTSTAMP:20250525T060323Z
+DTSTART:20250614T000000
+DTEND:20250614T020000
+SUMMARY:No Kings
+DESCRIPTION:The event is a community action fair\, march\, and peaceful pr
+ otest\, promoting solidarity and social action.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=&zoom=15&bas
+ emap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

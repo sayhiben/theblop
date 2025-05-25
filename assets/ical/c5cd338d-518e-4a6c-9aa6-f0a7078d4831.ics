@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:c8da6ed6-8b74-4e95-8b61-8af2d20eb556
+SEQUENCE:0
+DTSTAMP:20250525T060323Z
+DTSTART:20250614T100000
+DTEND:20250614T120000
+SUMMARY:NO KINGS FLAG DAY EVENT
+LOCATION:Tom Hanafan Park\, Council Bluffs\, IA
+DESCRIPTION:We're gathering to defend our Constitution and remind the curr
+ ent administration that the United States has no kings. Join us for music\
+ , speeches\, and family-friendly activities.\n\nTom Hanafan Park
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Tom+Hanafan+
+ Park%2C+Council+Bluffs%2C+IA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
