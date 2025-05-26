@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:b604ff87-3f8f-4e63-9f1e-8af384c6588b
+SEQUENCE:0
+DTSTAMP:20250526T060349Z
+DTSTART:20250628T110000
+DTEND:20250628T130000
+SUMMARY:Tesla Takedown Party
+LOCATION:4330 S Macadam Ave\, Portland\, OR
+DESCRIPTION:Celebrate our success on Elon's Birthday. Tell billionaires to
+  fuck off.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=4330+S+Macad
+ am+Ave%2C+Portland%2C+OR&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
