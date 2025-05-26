@@ -2,15 +2,17 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:b4b48273-6852-4ea9-b77c-6fc2a2adf8b8
+UID:7efda102-ed4e-4983-9063-793797497ee4
 SEQUENCE:0
 DTSTAMP:20250526T091840Z
 DTSTART:20250614T120000
 DTEND:20250614T140000
-SUMMARY:Elect a Clown\, Expect a Circus
+SUMMARY:Elect a Clown - Expect a Circus
 LOCATION:Battleship Oregon Memorial\, Portland\, OR
-DESCRIPTION:Join us for an event filled with lively activities and celebra
- tions\, encouraging participants to bring a flag that represents them.\n\n
+DESCRIPTION:Join us for an event titled "Elect a Clown - Expect a Circus" 
+ on June 14th at the Battleship Oregon Memorial. Bring a flag that represen
+ ts you and be part of the colorful gathering.\n\nBattleship Oregon Memoria
+ l
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Battleship+O
  regon+Memorial%2C+Portland%2C+OR&zoom=15&basemap=roadmap
 STATUS:CONFIRMED
