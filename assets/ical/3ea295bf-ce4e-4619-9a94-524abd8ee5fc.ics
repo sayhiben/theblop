@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:8dd68215-a4d1-4e79-8ce6-a67de2dde061
+SEQUENCE:0
+DTSTAMP:20250526T210306Z
+DTSTART:20250529T120000
+DTEND:20250529T140000
+SUMMARY:Hands Off Yunseo Rally
+LOCATION:\, New York\, NY
+DESCRIPTION:Join us for a rally to support Yunseo and show solidarity with
+  students\, advocating for freedom and justice. This event emphasizes the 
+ importance of student rights and solidarity with Palestine.\n\nFoley Squar
+ e
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+New+York
+ %2C+NY&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
