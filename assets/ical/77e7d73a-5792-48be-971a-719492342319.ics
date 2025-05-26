@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:0625c9f1-fc97-46d3-83ea-ec1aff09731f
+SEQUENCE:0
+DTSTAMP:20250526T032350Z
+DTSTART:20250531T110000
+DTEND:20250531T130000
+SUMMARY:Stand Up\, Superior!
+LOCATION:Intersection of McCaslin Blvd and S. Marshall Rd\, Superior\, CO
+DESCRIPTION:Join us for a Tesla/Trump protest\, held every Saturday. We ga
+ ther at the intersection near the Tesla Showroom to express our stance. Pa
+ rticipate in a food drive with collection bins available.\n\nTesla Showroo
+ m at 2 S. Marshall Rd
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Intersection
+ +of+McCaslin+Blvd+and+S.+Marshall+Rd%2C+Superior%2C+CO&zoom=15&basemap=roa
+ dmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

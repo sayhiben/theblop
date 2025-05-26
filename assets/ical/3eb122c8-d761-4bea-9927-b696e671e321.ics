@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:a2a8910f-70f2-4ef6-81cd-4da098641f91
+SEQUENCE:0
+DTSTAMP:20250526T032350Z
+DTSTART:20250614T120000
+DTEND:20250614T140000
+SUMMARY:No American Kings
+LOCATION:401 S. 2nd Street\, Springfield\, IL
+DESCRIPTION:Join us in a community event to collect non-perishable food an
+ d hygiene products at the Lincoln Statue.\n\nLincoln Statue
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=401+S.+2nd+S
+ treet%2C+Springfield%2C+IL&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
