@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:4616e04c-7991-49e9-af18-5ef599e57e6a
+SEQUENCE:0
+DTSTAMP:20250526T150326Z
+DTSTART:20250614T110000
+DTEND:20250614T130000
+SUMMARY:No Kings Pro Democracy Peaceful Rally
+LOCATION:401 N Trenton St\, Ruston\, LA
+DESCRIPTION:Join us for the No Kings Pro Democracy Peaceful Rally in Louis
+ iana. We are advocating for democracy and gathering in a peaceful demonstr
+ ation.\n\nRuston Civic Center
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=401+N+Trento
+ n+St%2C+Ruston%2C+LA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
