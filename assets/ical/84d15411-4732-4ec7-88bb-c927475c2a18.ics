@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:5e3b06ed-5a3d-4b68-bea2-6fa792e0281b
+SEQUENCE:0
+DTSTAMP:20250526T180325Z
+DTSTART:20250614T110000
+DTEND:20250614T130000
+SUMMARY:March to Kick Out the Clowns
+LOCATION:102050 Overseas Highway\, Key Largo\, Key Largo\, FL
+DESCRIPTION:Join us for the National Day of Defiance on Flag Day. This gra
+ ssroots event is a street circus aimed at exposing chaos and reclaiming de
+ mocracy. March with us in costume\, bring noisemakers\, and be a volunteer
+ . Let's reclaim our flag together!\n\nMurray Nelson Govt. Center
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=102050+Overs
+ eas+Highway%2C+Key+Largo%2C+Key+Largo%2C+FL&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
