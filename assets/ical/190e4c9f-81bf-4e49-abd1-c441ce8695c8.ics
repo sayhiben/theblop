@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:2bd6ec7a-4ad1-4e2a-9d86-c14ecbc174d3
+SEQUENCE:0
+DTSTAMP:20250526T000652Z
+DTSTART:20250614T100000
+DTEND:20250614T120000
+SUMMARY:Overpass Extravaganza
+DESCRIPTION:Join us in an act of defiance and solidarity by flooding local
+  highway/interstate overpasses against the regime and their clown king.\n\
+ nLocal highway/interstate overpasses
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=&zoom=15&bas
+ emap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

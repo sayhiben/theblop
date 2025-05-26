@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:dfd1ac20-7b3a-4e7f-aace-bd8872ec5f7b
+SEQUENCE:0
+DTSTAMP:20250526T000652Z
+DTSTART:20250606T140000
+DTEND:20250606T160000
+SUMMARY:Unite for Veterans\, Unite for America
+LOCATION:National Mall\, Washington\, DC
+DESCRIPTION:Join thousands on June 6th at the National Mall as we honor th
+ e legacy of the Bonus Army and commemorate D-Day. Stand with veterans from
+  across the country in support of their rights and benefits.\n\nNational M
+ all
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=National+Mal
+ l%2C+Washington%2C+DC&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
