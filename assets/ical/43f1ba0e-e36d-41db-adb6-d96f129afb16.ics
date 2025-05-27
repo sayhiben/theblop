@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:a96a84ec-8731-4611-bff1-d414fb462654
+SEQUENCE:0
+DTSTAMP:20250527T210313Z
+DTSTART:20250606T170000
+DTEND:20250606T190000
+SUMMARY:No Kings on D-Day
+LOCATION:Boston Common\, Parkman Bandstand
+DESCRIPTION:Join Mass 50501 as we gather to honor those who fought and die
+ d for democracy and to defend the values they gave their lives for.\n\nPar
+ kman Bandstand
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Boston+Commo
+ n%2C+Parkman+Bandstand&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
