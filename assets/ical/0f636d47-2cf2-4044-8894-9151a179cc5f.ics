@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:9a44c9bd-88dd-4dfe-8f6a-8acd7bdbc449
+SEQUENCE:0
+DTSTAMP:20250527T000643Z
+DTSTART:20250614T113000
+DTEND:20250614T133000
+SUMMARY:No Kings! March & Rally
+LOCATION:Dolores Park\, San Francisco\, CA
+DESCRIPTION:We are organizing a march and rally to promote the theme "No K
+ ings!" on Flag Day. Join us for a gathering at Dolores Park and a march to
+  Civic Center Plaza.\n\nCivic Center Plaza
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Dolores+Park
+ %2C+San+Francisco%2C+CA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
