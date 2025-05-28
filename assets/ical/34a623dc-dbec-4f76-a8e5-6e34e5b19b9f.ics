@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:784c7fe4-ee7c-4711-8394-5e585da941a6
+SEQUENCE:0
+DTSTAMP:20250528T032201Z
+DTSTART:20250614T170000
+DTEND:20250614T190000
+SUMMARY:Kick Out the Clowns
+LOCATION:Texas Capitol\, Austin\, TX
+DESCRIPTION:Join us for a nationwide protest aiming to bring humor and imp
+ act through comedy\, circus arts\, costumes\, speeches\, direct action\, a
+ nd protest to fight against unjust leadership.\n\nTexas Capitol
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Texas+Capito
+ l%2C+Austin%2C+TX&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
