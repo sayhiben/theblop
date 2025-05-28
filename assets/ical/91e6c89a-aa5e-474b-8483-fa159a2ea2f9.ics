@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:134eaff7-4978-4bc0-97e7-11c7d511636c
+SEQUENCE:0
+DTSTAMP:20250528T060339Z
+DTSTART:20250623T150000
+DTEND:20250623T170000
+SUMMARY:Mary Miller is NOT for us!
+LOCATION:604 East Main Street Suite G\, Mahomet\, IL
+DESCRIPTION:We're marching in her office to protest and express dissatisfa
+ ction.\n\nHer office
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=604+East+Mai
+ n+Street+Suite+G%2C+Mahomet%2C+IL&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
