@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:46417c13-f5b7-48ee-a2f0-7d8b5388019c
+SEQUENCE:0
+DTSTAMP:20250528T000700Z
+DTSTART:20250607T130000
+DTEND:20250607T150000
+SUMMARY:D-Day for Democracy
+LOCATION:315 E War Memorial Dr\, Peoria\, IL
+DESCRIPTION:Join us for a demonstration to promote democracy and resist au
+ thoritarian actions. We are a peaceful\, nonviolent resistance movement ca
+ lling on our government to uphold the Constitution and end Executive overr
+ each.\n\nPeoria Stadium
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=315+E+War+Me
+ morial+Dr%2C+Peoria%2C+IL&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
