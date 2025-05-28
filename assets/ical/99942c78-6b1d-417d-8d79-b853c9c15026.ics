@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:1e63e9a2-6ca6-433e-9197-51e54469d162
+SEQUENCE:0
+DTSTAMP:20250528T210321Z
+DTSTART:20250606T160000
+DTEND:20250606T180000
+SUMMARY:D-Day Demonstration to Support Veterans
+LOCATION:35th Avenue & 16th Street\, Greeley\, CO
+DESCRIPTION:Join us as we honor our veterans\, oppose cuts to the VA\, and
+  federal worker firings affecting veterans. We stand with them and accept 
+ food donations.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=35th+Avenue+
+ %26+16th+Street%2C+Greeley%2C+CO&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:6afeff84-8832-41b7-8af7-f04da8509ade
+SEQUENCE:0
+DTSTAMP:20250528T210321Z
+DTSTART:20250531T150000
+DTEND:20250531T170000
+SUMMARY:Rage & Remedy
+LOCATION:350 N State St\, Salt Lake City\, UT
+DESCRIPTION:Join us for the 'Rage & Remedy' march as we gather to honor an
+ d advocate for women. The theme 'March for Her. Rest with Us.' signifies s
+ olidarity and support.\n\nUtah State Capitol
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=350+N+State+
+ St%2C+Salt+Lake+City%2C+UT&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:008771a2-d785-47a8-8692-d4895e643234
+SEQUENCE:0
+DTSTAMP:20250528T210321Z
+DTSTART:20250614T100000
+DTEND:20250614T120000
+SUMMARY:No Kings in America
+LOCATION:401 S Carson St\, Carson City\, NV
+DESCRIPTION:Join 5050INNV for a protest demanding the end of executive ove
+ rreach and the protection of our democracy.\n\nNevada Capitol Complex
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=401+S+Carson
+ +St%2C+Carson+City%2C+NV&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
