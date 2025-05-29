@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:674c65e1-4796-4e98-9237-311c80268a54
+SEQUENCE:0
+DTSTAMP:20250529T210425Z
+DTSTART:20250614T100000
+DTEND:20250614T120000
+SUMMARY:No Kings Day Loveland
+LOCATION:Dwayne Webster Park/Hwy 34\, Loveland\, CO
+DESCRIPTION:Come out to protest the fool-in-charge and visit the Community
+  Resource Fair to get involved locally.\n\nDwayne Webster Park/Hwy 34
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Dwayne+Webst
+ er+Park%2FHwy+34%2C+Loveland%2C+CO&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
