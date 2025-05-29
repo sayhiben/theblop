@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:7a7a0905-6c64-4d21-b612-4522485ae92e
+SEQUENCE:0
+DTSTAMP:20250529T000701Z
+DTSTART:20250614T130000
+DTEND:20250614T150000
+SUMMARY:No Kings! Rally
+LOCATION:21640 Marine View Dr S\, Des Moines\, WA
+DESCRIPTION:Join us for a peaceful rally organized by Seniors for the Cons
+ titution and Des Moines\, WA Indivisible. We aim to fight for the Constitu
+ tion and the Rule of Law. Please bring shelf-stable food for the Des Moine
+ s Area Food Bank.\n\nBig Catch Plaza
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=21640+Marine
+ +View+Dr+S%2C+Des+Moines%2C+WA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
