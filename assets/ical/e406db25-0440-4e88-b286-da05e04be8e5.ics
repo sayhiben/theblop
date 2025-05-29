@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:a13fb1ce-41b6-4eef-88fb-3e855f7a4bc9
+SEQUENCE:0
+DTSTAMP:20250529T180328Z
+DTSTART:20250531T130000
+DTEND:20250531T150000
+SUMMARY:Cultural Gathering
+LOCATION:Corner of Saxon & Enterprise\, Orange City\, FL
+DESCRIPTION:We invite everyone to join us in a symbolic event celebrating 
+ freedom and inclusivity at the corner of Saxon & Enterprise in Orange City
+ \, FL.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Corner+of+Sa
+ xon+%26+Enterprise%2C+Orange+City%2C+FL&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
