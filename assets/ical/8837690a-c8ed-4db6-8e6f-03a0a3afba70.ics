@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:09a1e587-3455-40bd-80b1-77ccc99753ed
+SEQUENCE:0
+DTSTAMP:20250529T032230Z
+DTSTART:20250614T133000
+DTEND:20250614T153000
+SUMMARY:Perry Perseverance Picnic
+LOCATION:Pattee Park\, Evelyn & 3rd\, Perry\, IA
+DESCRIPTION:We invite you to join us at the Perry Perseverance Picnic\, a 
+ community gathering at Pattee Park. There will be a moment of silence held
+  for Principal Dan Marburger and Ahmil "Smiley" Jolliff. Enjoy an afternoo
+ n with family\, friends\, and non-alcoholic drinks.\n\nPattee Park
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Pattee+Park%
+ 2C+Evelyn+%26+3rd%2C+Perry%2C+IA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
