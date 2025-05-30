@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:d264f5ad-93c6-4e9b-b9e2-01b0f4d9db33
+SEQUENCE:0
+DTSTAMP:20250530T060329Z
+DTSTART:20250607T140000
+DTEND:20250607T160000
+SUMMARY:Rise Up & Ride
+LOCATION:Salmon Street Springs\, Portland\, OR
+DESCRIPTION:Join us for a bike ride starting at Salmon Street Springs and 
+ heading to Laurelhurst Park. This event is part of the 'Gays Eating the Ri
+ ch in the Park' festival\, a Queer Resistance Carnival.\n\nSalmon Street S
+ prings
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Salmon+Stree
+ t+Springs%2C+Portland%2C+OR&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
