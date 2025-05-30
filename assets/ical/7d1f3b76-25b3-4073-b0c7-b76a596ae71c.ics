@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:9209f7b8-c0c6-46e6-a502-db20ece30c56
+SEQUENCE:0
+DTSTAMP:20250530T032123Z
+DTSTART:20250614T103000
+DTEND:20250614T123000
+SUMMARY:NO KINGS Visalia
+LOCATION:915 S Mooney Blvd\, Visalia\, CA
+DESCRIPTION:NO KINGS is a national day of action and mass mobilization in 
+ response to increasing authoritarian excesses and corruption from Trump an
+ d his allies.\n\n915 S Mooney Blvd\, Visalia\, CA 93277
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=915+S+Mooney
+ +Blvd%2C+Visalia%2C+CA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
