@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:4f732a17-e6f2-48f2-bcd5-006bfc23984d
+SEQUENCE:0
+DTSTAMP:20250530T210317Z
+DTSTART:20250606T110000
+DTEND:20250606T130000
+SUMMARY:Veterans Rally and March
+LOCATION:S Maestri St\, New Orleans\, LA
+DESCRIPTION:Join us for a Veterans Rally and March on D-Day 2025 to honor 
+ and support veterans.\n\nLafayette Square
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=S+Maestri+St
+ %2C+New+Orleans%2C+LA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

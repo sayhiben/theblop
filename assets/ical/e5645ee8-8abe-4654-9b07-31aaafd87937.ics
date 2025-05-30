@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:d81661f7-fc62-43c6-b296-f2f55cb1babd
+SEQUENCE:0
+DTSTAMP:20250530T210317Z
+DTSTART:20250606T170000
+DTEND:20250606T190000
+SUMMARY:D-Day Protest
+LOCATION:Liberty Park - Rice Terrace Pavilion\, Salt Lake City\, UT
+DESCRIPTION:Join Veterans Against Fascism in America for a nonpartisan pro
+ test on D-Day.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Liberty+Park
+ +-+Rice+Terrace+Pavilion%2C+Salt+Lake+City%2C+UT&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

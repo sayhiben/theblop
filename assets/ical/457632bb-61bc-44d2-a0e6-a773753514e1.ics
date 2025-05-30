@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:5c2c2b97-4dcd-47df-bd18-fc8e0260a2b1
+SEQUENCE:0
+DTSTAMP:20250530T210317Z
+DTSTART:20250614T120000
+DTEND:20250614T140000
+SUMMARY:No Kings! People Power! Rally & Protest
+LOCATION:People's Park\, Tacoma\, WA
+DESCRIPTION:Join us in People’s Park for a family-friendly protest celeb
+ rating free speech with live music\, public art\, powerful speakers\, and 
+ community action.\n\nPeople's Park
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=People%27s+P
+ ark%2C+Tacoma%2C+WA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
