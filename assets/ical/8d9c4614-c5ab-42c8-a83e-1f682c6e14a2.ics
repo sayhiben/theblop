@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:82dd36d9-60ad-4669-8458-fea87fd145f9
+SEQUENCE:0
+DTSTAMP:20250530T000707Z
+DTSTART:20250614T163000
+DTEND:20250614T183000
+SUMMARY:No Kings
+LOCATION:200 Block South Riverfront Park\, Harrisburg\, PA
+DESCRIPTION:Join us for the "No Kings" rally at the 200 Block South Riverf
+ ront Park\, where we will march across the Walnut Street Bridge and hold a
+  rally from 5 PM to 7 PM.\n\nAcross from the Harrisburg Hospital
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=200+Block+So
+ uth+Riverfront+Park%2C+Harrisburg%2C+PA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:c11e0cfd-7026-45a9-bc73-108279170a38
+SEQUENCE:0
+DTSTAMP:20250530T000707Z
+DTSTART:20250608T120000
+DTEND:20250608T140000
+SUMMARY:Stand Against Trump's Attacks: Say No to the “One Big Beautiful 
+ Bill”
+LOCATION:431 SW Madison St\, Portland\, OR
+DESCRIPTION:We are organizing a rally to oppose Trump's "One Big Beautiful
+  Bill\," which impacts Medicaid\, SNAP\, student loans\, immigrants\, and 
+ gender-affirming healthcare. Join us to stand up and fight back.\n\nTerry 
+ Schrunk Plaza
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=431+SW+Madis
+ on+St%2C+Portland%2C+OR&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
