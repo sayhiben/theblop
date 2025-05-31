@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:847063f4-9919-484e-9fe7-96772dfc81c6
+SEQUENCE:0
+DTSTAMP:20250531T000650Z
+DTSTART:20250606T090000
+DTEND:20250606T110000
+SUMMARY:MEET ME IN D.C.
+LOCATION:Various locations including U.S. Capitol steps\, The National Mal
+ l at 6th St\, FOX D.C. HQ 400 N. Capitol St. N.W.\, and 214 Massachusetts 
+ Ave\, Washington\, DC
+DESCRIPTION:Join us for a series of protest events in Washington\, D.C. wh
+ ere we will engage in political demonstrations\, including Congressional v
+ isits\, veterans' protests\, and actions against FOX "NEWS" and the Herita
+ ge Foundation.\n\nU.S. Capitol\, The National Mall at 6th St\, FOX D.C. HQ
+ \, Heritage Foundation
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Various+loca
+ tions+including+U.S.+Capitol+steps%2C+The+National+Mall+at+6th+St%2C+FOX+D
+ .C.+HQ+400+N.+Capitol+St.+N.W.%2C+and+214+Massachusetts+Ave%2C+Washington%
+ 2C+DC&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

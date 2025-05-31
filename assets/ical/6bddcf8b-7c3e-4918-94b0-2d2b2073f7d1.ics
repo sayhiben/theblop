@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:b00776a4-2a68-4dc6-8821-a5ad26f3e456
+SEQUENCE:0
+DTSTAMP:20250531T000650Z
+DTSTART:20250614T110000
+DTEND:20250614T130000
+SUMMARY:Tesla Takedown
+LOCATION:9428 Reisterstown Rd\, Owings Mills\, MD
+DESCRIPTION:Join us for an event where we stand against corporate power. T
+ his event aims to rally the community in a symbolic contest against financ
+ ial dominance.\n\nTesla Owings Mills
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=9428+Reister
+ stown+Rd%2C+Owings+Mills%2C+MD&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
