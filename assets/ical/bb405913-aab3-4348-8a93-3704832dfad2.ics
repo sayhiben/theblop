@@ -2,16 +2,15 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:168ae796-4d51-419e-bac3-3ee5a800776b
+UID:bc6cae98-0a57-489e-a054-ff59cfe44ec2
 SEQUENCE:0
 DTSTAMP:20250531T210314Z
-DTSTART:20250606T000000
-DTEND:20250606T020000
-SUMMARY:Defend the Constitution
+DTSTART:20250614T000000
+DTEND:20250614T020000
+SUMMARY:Day of Defiance
 LOCATION:\, Nationwide\, Nationwide
-DESCRIPTION:We will gather at State Capitols\, Town Halls & City Halls on 
- June 6th with our 50501 Veterans to support and defend the constitution.\n
- \nState Capitols\, Town Halls & City Halls
+DESCRIPTION:Join us as we unite nationwide under the 'No Kings' initiative
+  for a day of defiance on June 14\, 2025.\n\n
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+Nationwi
  de%2C+Nationwide&zoom=15&basemap=roadmap
 STATUS:CONFIRMED
