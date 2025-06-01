@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:a0e67f13-b303-4757-8c9b-4f45622f890e
+SEQUENCE:0
+DTSTAMP:20250601T090326Z
+DTSTART:20250606T190000
+DTEND:20250606T210000
+SUMMARY:Stop Starving Gaza: A Solidarity Shabbat
+LOCATION:815 SW Park Ave\, Portland\, OR
+DESCRIPTION:Join us in sacred protest and calls to action. Please wear bla
+ ck to express our collective grief.\n\nDirector Park
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=815+SW+Park+
+ Ave%2C+Portland%2C+OR&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
