@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:d9f5b935-91de-4b11-95ce-f64bbb4d74c2
+SEQUENCE:0
+DTSTAMP:20250601T180351Z
+DTSTART:20250607T090000
+DTEND:20250607T110000
+SUMMARY:Stand Up Loveland
+LOCATION:\, Loveland\, CO
+DESCRIPTION:A peaceful protest supporting constitutional rights\, immigran
+ t and transgender communities\, and federal workforce. Participants gather
+  every Saturday\, encouraged to bring signs and flags while staying on sid
+ ewalks.\n\nSidewalks from Sprouts to Tesla
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+Loveland
+ %2C+CO&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

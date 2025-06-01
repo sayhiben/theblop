@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:ee5b57e3-51b3-4180-a0e8-68f4e751c170
+SEQUENCE:0
+DTSTAMP:20250601T180351Z
+DTSTART:20250614T150000
+DTEND:20250614T170000
+SUMMARY:No Kings
+LOCATION:Drake Park\, Bend\, OR
+DESCRIPTION:We invite you to join our Community Action Fair and a March an
+ d Peaceful Protest in Bend\, OR.\n\nPeace Corner
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Drake+Park%2
+ C+Bend%2C+OR&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
