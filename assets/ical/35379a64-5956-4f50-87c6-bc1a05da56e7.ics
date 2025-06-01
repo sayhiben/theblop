@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:eafcac59-aed5-4a96-878e-7e6ab10cf368
+SEQUENCE:0
+DTSTAMP:20250601T000830Z
+DTSTART:20250614T100000
+DTEND:20250614T120000
+SUMMARY:NO KINGS NATIONAL PROTEST
+LOCATION:University of Utah\, Marriott Library East Plaza\, Salt Lake City
+ \, UT
+DESCRIPTION:We are organizing a national protest event titled 'NO KINGS' t
+ o be held at the University of Utah\, aiming to rally the community agains
+ t perceived symbols of monarchy.\n\nMarriott Library East Plaza
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=University+o
+ f+Utah%2C+Marriott+Library+East+Plaza%2C+Salt+Lake+City%2C+UT&zoom=15&base
+ map=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

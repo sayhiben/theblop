@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:daff621e-7c02-4a7e-8161-266e26277591
+SEQUENCE:0
+DTSTAMP:20250601T000830Z
+DTSTART:20250614T100000
+DTEND:20250614T120000
+SUMMARY:No Kings Mass Protest
+LOCATION:Mooney Blvd. and Caldwell Ave.\, Visalia\, CA
+DESCRIPTION:Join us for a mass protest on June 14th advocating against mon
+ archical governance. We stand united for democracy under the theme 'Americ
+ a Has No King'.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Mooney+Blvd.
+ +and+Caldwell+Ave.%2C+Visalia%2C+CA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
