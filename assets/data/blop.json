@@ -1,53 +1,5 @@
 [
   {
-    "id": "c0e0b4a2-bbdc-4d9e-908e-a7397562c5ac",
-    "title": "March with Garden State Equality",
-    "date": "Sunday, June 1, 2025",
-    "time": "10:45 AM",
-    "description": "Join the Garden State Equality team as we kick off the 2025 PRIDE season. We'll meet in front of our new headquarters at 308 Main Street across from the Municipal building. March with us and visit our table during the festival from 12-7pm.",
-    "city": "Asbury Park",
-    "state": "NJ",
-    "address": "308 Main St",
-    "meeting_location": "308 Main St, Asbury Park, NJ 07712",
-    "links": [
-      "https://jerseypride.org/"
-    ],
-    "sponsors": [
-      "Garden State Equality"
-    ],
-    "image_url": "https://theblop.org/assets/images/c0e0b4a2-bbdc-4d9e-908e-a7397562c5ac.png",
-    "thumbnail_url": "https://theblop.org/assets/images/c0e0b4a2-bbdc-4d9e-908e-a7397562c5ac-thumb.jpg",
-    "canonical_id": "",
-    "permalink": "https://theblop.org/events/c0e0b4a2-bbdc-4d9e-908e-a7397562c5ac.html",
-    "ical": "https://theblop.org/assets/ical/c0e0b4a2-bbdc-4d9e-908e-a7397562c5ac.ics",
-    "raw_text": "March with Garden State Equality\nCommunity Event - Hosted by Garden State Equality\n\n[Image of flag]\n\nTime\nSunday, June 1\n10:45am – 12pm EDT\n\nLocation\n308 Main St\nAsbury Park, NJ 07712\n\nMap\n\nAbout this event\nJoin the Garden State Equality team as we kick off the 2025 PRIDE season!\nWe'll meet in front of our new headquarters at 308 Main Street across from the Municipal building, and yes, we will be walking with our Garden State Equality mobile this year! To march for equality with us please arrive at our building at 10:45AM.\nThough the parade ends at noon, we encourage you to stick around and visit our table during the rest of the festival from 12-7pm!\n\nThere is no cost to join us for the parade in the morning. You can purchase tickets for the festival here: https://jerseypride.org/",
-    "raw_summary": "The image promotes a community march event hosted by Garden State Equality to kick off the 2025 Pride season, scheduled for June 1st. The event will take place at 308 Main St, Asbury Park, NJ, and includes marching until noon and continuation of activities until 7 PM. Additional details on participation and festival tickets are provided."
-  },
-  {
-    "id": "70843044-1970-490e-8eb0-f38f31571cae",
-    "title": "Fascism Isn't Funny",
-    "date": "Sunday, June 1, 2025",
-    "time": "2:30 PM",
-    "description": "Join us for 'Fascism Isn't Funny,' a comedy activism show aiming to provide laughter and engagement for the emotionally exhausted. Featuring performers Micaela Fagan, Vickie Wang, and more, this Pride Edition event is in partnership with The Okra Project. Don't miss the afterparty!",
-    "city": "New York",
-    "state": "NY",
-    "address": "21a Clinton St",
-    "meeting_location": "Caveat",
-    "links": [
-      "www.Caveat.nyc"
-    ],
-    "sponsors": [
-      "The Okra Project"
-    ],
-    "image_url": "https://theblop.org/assets/images/70843044-1970-490e-8eb0-f38f31571cae.png",
-    "thumbnail_url": "https://theblop.org/assets/images/70843044-1970-490e-8eb0-f38f31571cae-thumb.jpg",
-    "canonical_id": "",
-    "permalink": "https://theblop.org/events/70843044-1970-490e-8eb0-f38f31571cae.html",
-    "ical": "https://theblop.org/assets/ical/70843044-1970-490e-8eb0-f38f31571cae.ics",
-    "raw_text": "Fascism Isn't Funny\nA Comedy Activism Show for the Emotionally Exhausted\nIn partnership with The Okra Project\nMicaela Fagan, Vickie Wang, Gabrielle Inès Souza, Jess Salomon, Edson Montenegro\n+ Activists and more!\nPride Edition\n6.1 2:30p\nCaveat\n21a Clinton St\nLive or livestream tickets at www.Caveat.nyc\nAfterparty to follow!",
-    "raw_summary": "The image is an event flyer for a comedy activism show titled 'Fascism Isn't Funny,' in partnership with The Okra Project. The event features performers like Micaela Fagan and Vickie Wang. It is a Pride Edition event happening on June 1st at 2:30 PM at Caveat, 21a Clinton St, with an afterparty to follow. Tickets are available online."
-  },
-  {
     "id": "6e0584db-7b39-414c-a761-1c643e92ab1c",
     "title": "Olympia Visibility Brigade Event",
     "date": "Monday, June 2, 2025",
@@ -3132,6 +3084,31 @@
     "ical": "https://theblop.org/assets/ical/f0d5c7fb-d05d-4f09-a2db-5df1d23eddb4.ics",
     "raw_text": "NO KINGS\nBEND, OR\n3-4:30PM\nDRAKE PARK\nCOMMUNITY ACTION FAIR\n4:30PM\nPEACE CORNER\nMARCH + PEACEFUL PROTEST\nJUNE 14, 2025",
     "raw_summary": "The flyer promotes a community event called 'No Kings' happening in Bend, OR. The events are a Community Action Fair followed by a March and Peaceful Protest on June 14, 2025, at Drake Park starting at 3 PM and continuing at 4:30 PM at Peace Corner."
+  },
+  {
+    "id": "c4546ec3-b2b1-40a3-a397-b636e8ff3141",
+    "title": "National Day of Defiance",
+    "date": "Saturday, June 14, 2025",
+    "time": "9:30 AM",
+    "description": "We invite you to join the 'National Day of Defiance' organized by No Kings, featuring music, community action tables, speakers, and a march. The event promotes nonviolent action and aims to engage the community in peaceful protest.",
+    "city": "Fort Collins",
+    "state": "CO",
+    "address": "1101 Center Ave Mall, Fort Collins",
+    "meeting_location": "Lory Student Center Plaza CSU Campus",
+    "links": [
+      "IndivisibleNOCO.com"
+    ],
+    "sponsors": [
+      "ydsa",
+      " IndivisibleNOCO"
+    ],
+    "image_url": "https://theblop.org/assets/images/c4546ec3-b2b1-40a3-a397-b636e8ff3141.png",
+    "thumbnail_url": "https://theblop.org/assets/images/c4546ec3-b2b1-40a3-a397-b636e8ff3141-thumb.jpg",
+    "canonical_id": "",
+    "permalink": "https://theblop.org/events/c4546ec3-b2b1-40a3-a397-b636e8ff3141.html",
+    "ical": "https://theblop.org/assets/ical/c4546ec3-b2b1-40a3-a397-b636e8ff3141.ics",
+    "raw_text": "Fort Collins, CO\n\nNO KINGS\n\nJUNE 14, 2025\n\nNATIONAL DAY OF DEFIANCE\n\n9:30am - Noon\n\nRally at the Lory Student Center Plaza CSU Campus\n(1101 Center Ave Mall, Fort Collins)\n\n9:30 : Music and Community Action Tables\n10:00 : Speakers\n10:45 : March to College and up to Oak Street Plaza and back. (2.5 miles w/ shorter loops avail)\n\nScan QR code for all related events & registration\n\nNo Kings! event is committed to nonviolent action. We expect all participants to seek to de-escalate any potential confrontation with those who disagree with our values.\n\nIndivisibleNOCO.com\n\nydsa",
+    "raw_summary": "The flyer promotes an event called the 'National Day of Defiance' on June 14, 2025, in Fort Collins, CO. It includes a rally with music, speakers, and a march, organized by 'No Kings'. The event takes place at the Lory Student Center Plaza at CSU Campus."
   },
   {
     "id": "b036cf80-7cc1-44e8-aa9d-9a1391ea79c8",

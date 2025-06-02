@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:b5172211-dbcd-419d-a46b-3948c860769d
+SEQUENCE:0
+DTSTAMP:20250602T000654Z
+DTSTART:20250614T093000
+DTEND:20250614T113000
+SUMMARY:National Day of Defiance
+LOCATION:1101 Center Ave Mall\, Fort Collins
+DESCRIPTION:We invite you to join the 'National Day of Defiance' organized
+  by No Kings\, featuring music\, community action tables\, speakers\, and 
+ a march. The event promotes nonviolent action and aims to engage the commu
+ nity in peaceful protest.\n\nLory Student Center Plaza CSU Campus
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=1101+Center+
+ Ave+Mall%2C+Fort+Collins&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
