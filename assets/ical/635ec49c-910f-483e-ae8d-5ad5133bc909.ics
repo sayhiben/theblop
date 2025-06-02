@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:9a9edf9b-4ed9-4b01-ab46-e76d673f294c
+SEQUENCE:0
+DTSTAMP:20250602T120709Z
+DTSTART:20250607T120000
+DTEND:20250607T140000
+SUMMARY:FOX TAKEDOWN
+LOCATION:Nationwide locations provided as:\n- New York City: 1211 6th Ave\
+ n- Denver: 100 E Speer Blvd\n- Washington\, D.C.: 400 N Capitol St NW
+DESCRIPTION:Join us to protest against Fox\, demanding they stop hurting A
+ merica. Regular events are held across New York City\, Denver\, and Washin
+ gton\, D.C.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Nationwide+l
+ ocations+provided+as%3A%0A-+New+York+City%3A+1211+6th+Ave%0A-+Denver%3A+10
+ 0+E+Speer+Blvd%0A-+Washington%2C+D.C.%3A+400+N+Capitol+St+NW&zoom=15&basem
+ ap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
