@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:8dd4dba3-fd0a-423c-a615-7227fc5c0178
+SEQUENCE:0
+DTSTAMP:20250602T060332Z
+DTSTART:20250614T130000
+DTEND:20250614T150000
+SUMMARY:No Kings in America
+LOCATION:Corner of Saxon & Enterprise\, Orange City\, FL
+DESCRIPTION:This event promotes the idea of having no monarchial rule in A
+ merica\, expressed through slogans like 'No Thrones. No Crowns. No Kings!'
+ \n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Corner+of+Sa
+ xon+%26+Enterprise%2C+Orange+City%2C+FL&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

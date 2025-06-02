@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:21a2dfc0-9ca8-4198-bd2f-9be0d730dab3
+SEQUENCE:0
+DTSTAMP:20250602T060332Z
+DTSTART:20250614T100000
+DTEND:20250614T120000
+SUMMARY:No Kings in America
+LOCATION:Corner of Woodland & New York\, Deland\, FL
+DESCRIPTION:We are organizing an event to protest against the concept of m
+ onarchy in America with the slogan 'No Thrones\, No Crowns\, No Kings\,' e
+ ncouraging community participation.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Corner+of+Wo
+ odland+%26+New+York%2C+Deland%2C+FL&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

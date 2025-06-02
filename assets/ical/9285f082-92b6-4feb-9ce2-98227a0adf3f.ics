@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:c5d8e21f-7b1c-4242-bb09-f912e4fd14ce
+SEQUENCE:0
+DTSTAMP:20250602T060332Z
+DTSTART:20250613T170000
+DTEND:20250613T190000
+SUMMARY:No Kings in America
+LOCATION:Corner of Normandy & Saxon\, Deltona\, FL
+DESCRIPTION:We are gathering to stand against monarchic symbols with the m
+ essage "No Thrones. No Crowns. No Kings!"\n\nIn front of Walgreens
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Corner+of+No
+ rmandy+%26+Saxon%2C+Deltona%2C+FL&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
