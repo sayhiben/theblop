@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:869210e9-3834-4094-8cf1-a6c0095e196a
+SEQUENCE:0
+DTSTAMP:20250602T210330Z
+DTSTART:20250606T180000
+DTEND:20250606T200000
+SUMMARY:Los Angeles Stands Up
+LOCATION:11000 Wilshire Blvd.\, Los Angeles\, CA
+DESCRIPTION:We are organizing a rally\, march\, and candlelight vigil to s
+ upport veterans. Join us at the Federal Building\, march to Los Angeles Na
+ tional Cemetery\, and partake in a vigil.\n\nFederal Building
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=11000+Wilshi
+ re+Blvd.%2C+Los+Angeles%2C+CA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
