@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:9ed398e5-9d15-499a-8c81-b7bcc75218ec
+SEQUENCE:0
+DTSTAMP:20250603T210328Z
+DTSTART:20250620T083000
+DTEND:20250620T103000
+SUMMARY:Protest against the Illinois State Board of Investments
+LOCATION:180 N. LaSalle St.\, Chicago\, IL
+DESCRIPTION:Join us as we protest against the Illinois State Board of Inve
+ stments and State Treasurer Michael Frerichs\, urging divestment of Illino
+ is tax dollars.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=180+N.+LaSal
+ le+St.%2C+Chicago%2C+IL&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

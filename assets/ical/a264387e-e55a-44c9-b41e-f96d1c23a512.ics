@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:457c7e00-4564-44e4-adb7-9fb79ea805fa
+SEQUENCE:0
+DTSTAMP:20250603T210328Z
+DTSTART:20250607T140000
+DTEND:20250607T160000
+SUMMARY:No Eid During Genocide
+LOCATION:Ida B Wells Dr. and Michigan Ave.\, Chicago\, IL
+DESCRIPTION:The Chicago Coalition for Justice in Palestine is organizing a
+  protest and march to raise awareness and call for action. The event aims 
+ to highlight and protest against ongoing injustices.\n\nIda B Wells Dr. an
+ d Michigan Ave.
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Ida+B+Wells+
+ Dr.+and+Michigan+Ave.%2C+Chicago%2C+IL&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
