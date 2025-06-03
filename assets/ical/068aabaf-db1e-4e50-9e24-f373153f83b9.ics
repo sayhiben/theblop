@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:96c4fa70-182f-4b85-9f52-09851905e9a6
+SEQUENCE:0
+DTSTAMP:20250603T000702Z
+DTSTART:20250614T180000
+DTEND:20250614T200000
+SUMMARY:Orange Alarm
+LOCATION:\, Nationwide\, Nationwide
+DESCRIPTION:We are organizing a nationwide noise protest against authorita
+ rianism. Join us by making noise using pots and pans\, car alarms\, air ho
+ rns\, or by shouting\, chanting\, and playing loud music. This method of p
+ rotest has been effective from Chile to Canada in bringing down dictators 
+ and demanding justice.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+Nationwi
+ de%2C+Nationwide&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

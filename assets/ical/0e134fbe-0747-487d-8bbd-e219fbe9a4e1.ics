@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:72d3850e-88f7-47c1-8eb1-0ac3db96c20a
+SEQUENCE:0
+DTSTAMP:20250603T000702Z
+DTSTART:20250604T170000
+DTEND:20250604T190000
+SUMMARY:Utah Overpass Action!
+LOCATION:I-80 and 13th East\, Salt Lake City\, UT
+DESCRIPTION:Join us for the Utah Overpass Action focused on highlighting c
+ orruption with messages like “Trump – Small Hands\, Giant Bribes.” W
+ e'll display banners and flags. Please bring signs\, but refrain from viol
+ ence or profanity.\n\nParking lot behind Starbucks and Olive Garden (13th 
+ East)
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=I-80+and+13t
+ h+East%2C+Salt+Lake+City%2C+UT&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
