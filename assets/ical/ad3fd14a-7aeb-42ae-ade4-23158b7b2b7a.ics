@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:ea8e93dd-190a-4005-9352-919d63b9bedf
+SEQUENCE:0
+DTSTAMP:20250603T150334Z
+DTSTART:20250614T120000
+DTEND:20250614T140000
+SUMMARY:NO KINGS Senior Event: Chicago Edgewater
+LOCATION:North Sheridan Road & West Berwyn Avenue\, Chicago\, IL
+DESCRIPTION:Join us for the NO KINGS nationwide rally 'Day of Defiance' at
+  the Chicago Edgewater location.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=North+Sherid
+ an+Road+%26+West+Berwyn+Avenue%2C+Chicago%2C+IL&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:96af2c32-a1b2-4302-b0bc-b994a1f4a78e
+SEQUENCE:0
+DTSTAMP:20250603T150333Z
+DTSTART:20250605T194500
+DTEND:20250605T214500
+SUMMARY:Be the Light in the Darkness
+LOCATION:Blair Park\, along Florida/Kirby all the way to Hessel Park\, Cha
+ mpaign-Urbana\, IL
+DESCRIPTION:Join us for a volunteer-organized visibility event to support 
+ Indivisible. We meet every Thursday evening to engage the community.\n\nBl
+ air Park
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Blair+Park%2
+ C+along+Florida%2FKirby+all+the+way+to+Hessel+Park%2C+Champaign-Urbana%2C+
+ IL&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

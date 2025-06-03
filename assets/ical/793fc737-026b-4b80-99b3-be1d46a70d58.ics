@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:ae5c68a5-12f7-4a98-b314-468f67055069
+SEQUENCE:0
+DTSTAMP:20250603T150333Z
+DTSTART:20250607T100000
+DTEND:20250607T120000
+SUMMARY:Say No To USPS Privatization
+LOCATION:7500 Roosevelt Rd\, Forest Park\, IL
+DESCRIPTION:Join us for a rally organized by volunteers with Indivisible t
+ o oppose USPS privatization.\n\nUSPS Roosevelt Road Entrance
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=7500+Rooseve
+ lt+Rd%2C+Forest+Park%2C+IL&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
