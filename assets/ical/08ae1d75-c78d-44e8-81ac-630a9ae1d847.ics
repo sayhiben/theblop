@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:7bcd6b14-69e1-40bf-ad44-f0bc80661c96
+SEQUENCE:0
+DTSTAMP:20250603T180338Z
+DTSTART:20250620T160000
+DTEND:20250620T180000
+SUMMARY:Annual Summer BBQ Bash
+LOCATION:Sunset Park\, 123 Sunshine Road\, Brighton\, MI
+DESCRIPTION:Join us for our Annual Summer BBQ Bash\, featuring BBQ\, games
+ \, and live music\, hosted by the Brighton Community Club.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Sunset+Park%
+ 2C+123+Sunshine+Road%2C+Brighton%2C+MI&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

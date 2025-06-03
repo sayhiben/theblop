@@ -1163,6 +1163,36 @@
     "raw_summary": "The image promotes a recurring protest event titled 'Corner Protest', happening every Tuesday and Thursday. It highlights the importance of positive engagement and offers a specific date and time for an upcoming instance. The event will be held at the SW Corner of Drake and College in Fort Collins."
   },
   {
+    "id": "96280814-a6d2-4d36-8285-c61fc95e6102",
+    "title": "Tuesdays at the VA Hospital",
+    "date": "Tuesday, June 10, 2025",
+    "time": "3:00 PM",
+    "description": "Join veterans, healthcare workers, and others to protest and stand against cuts to VA services and mass firings. Hosted by Federal Building Fridays.",
+    "city": "Seattle",
+    "state": "WA",
+    "address": "1660 S Columbian Way",
+    "meeting_location": "City sidewalk in front of Seattle VA Hospital",
+    "links": [
+      "federalbuildingfridays.org"
+    ],
+    "sponsors": [
+      "AFGE LOCAL 3197",
+      " PROTEC 17",
+      " 350 SEATTLE",
+      " MLK LABOR",
+      " CFPB UNION NTEU 335",
+      " VETERANS FOR PEACE 92",
+      " TROUBLE"
+    ],
+    "image_url": "https://theblop.org/assets/images/96280814-a6d2-4d36-8285-c61fc95e6102.jpg",
+    "thumbnail_url": "https://theblop.org/assets/images/96280814-a6d2-4d36-8285-c61fc95e6102-thumb.jpg",
+    "canonical_id": "",
+    "permalink": "https://theblop.org/events/96280814-a6d2-4d36-8285-c61fc95e6102.html",
+    "ical": "https://theblop.org/assets/ical/96280814-a6d2-4d36-8285-c61fc95e6102.ics",
+    "raw_text": "TUESDAYS AT THE VA HOSPITAL\nHOSTED BY FEDERAL BUILDING FRIDAYS\n\nJOIN VETERANS, HEALTHCARE WORKERS, UNION MEMBERS & SUPPORTERS\nSTAND TOGETHER FIGHT BACK! \n\nSTOP THE Trump/Musk COUP\nNO CUTS TO VA SERVICES\nNO MASS FIRINGS\n\nWhen: Every Tuesday 3:00 - 6:00 PM\nWhere: City sidewalk in front of Seattle VA Hospital\nSeattle VA Medical Center\n1660 S Columbian Way\nSeattle\n\nNeighborhood parking or #50 Metro\n\nfederalbuildingfridays.org\nContact: seattletroublemakers@gmail.com\n\nEndorsed by: AFGE LOCAL 3197, PROTEC 17, 350 SEATTLE, MLK LABOR, CFPB UNION NTEU 335, VETERANS FOR PEACE 92, TROUBLE",
+    "raw_summary": "The flyer announces a recurring protest or gathering event at the Seattle VA Medical Center. It invites veterans, healthcare workers, and supporters to unite against specific political actions the organizers oppose, specifically mentioning protest themes. The event is scheduled for every Tuesday with specified locations and times."
+  },
+  {
     "id": "14451517-83bd-4f79-85de-3dfb66b708ce",
     "title": "Social Justice Empowerment Reception",
     "date": "Wednesday, June 11, 2025",
@@ -3361,6 +3391,30 @@
     "ical": "https://theblop.org/assets/ical/b036cf80-7cc1-44e8-aa9d-9a1391ea79c8.ics",
     "raw_text": "Impatient for the next big protest? Us too! Join us weekly to make good trouble! OLYMPIA VISIBILITY BRIGADE We deploy each weekend on overpasses in the Olympia-Tumwater-Lacey area We also deploy on Mondays during evening rush hour We support Capitol protests when possible Bring your high-viz protest signs, flags, fun costumes, a good mood, and be tolerant of terrible dancing. Introverts welcome! Upcoming Event: Monday, June 16th @ 4:30 - 6:30 pm Pedestrian bridge over I-5, Tumwater (near Home Depot) Look for upcoming Olympia Visibility Brigade events at theblop.org and backbonecampaign.org",
     "raw_summary": "The flyer is announcing an upcoming protest organized by the Olympia Visibility Brigade. It describes weekly deployments at specific locations, invites participation with signs and costumes, and mentions an event on June 16th from 4:30 to 6:30 PM at a pedestrian bridge over I-5 in Tumwater, near Home Depot. Websites theblop.org and backbonecampaign.org are included for more information."
+  },
+  {
+    "id": "08ae1d75-c78d-44e8-81ac-630a9ae1d847",
+    "title": "Annual Summer BBQ Bash",
+    "date": "Friday, June 20, 2025",
+    "time": "4:00 PM",
+    "description": "Join us for our Annual Summer BBQ Bash, featuring BBQ, games, and live music, hosted by the Brighton Community Club.",
+    "city": "Brighton",
+    "state": "MI",
+    "address": "Sunset Park, 123 Sunshine Road",
+    "meeting_location": "",
+    "links": [
+      "www.example.com"
+    ],
+    "sponsors": [
+      "Brighton Community Club"
+    ],
+    "image_url": "https://theblop.org/assets/images/08ae1d75-c78d-44e8-81ac-630a9ae1d847.gif",
+    "thumbnail_url": "https://theblop.org/assets/images/08ae1d75-c78d-44e8-81ac-630a9ae1d847-thumb.jpg",
+    "canonical_id": "",
+    "permalink": "https://theblop.org/events/08ae1d75-c78d-44e8-81ac-630a9ae1d847.html",
+    "ical": "https://theblop.org/assets/ical/08ae1d75-c78d-44e8-81ac-630a9ae1d847.ics",
+    "raw_text": "Join Our Annual Summer BBQ Bash!\nSaturday, June 20, 2025\nTime: 4:00 PM\nLocation: Sunset Park, 123 Sunshine Road, Brighton\nEnjoy BBQ, games, and live music!\nVisit our website for more info: www.example.com\nHosted by the Brighton Community Club",
+    "raw_summary": "The image is a flyer for an Annual Summer BBQ Bash organized by the Brighton Community Club, scheduled for June 20, 2025, at Sunset Park in Brighton. The event includes BBQ, games, and live music, with more information available on their website."
   },
   {
     "id": "c492f114-fe65-4df6-af0d-80c9e9cabdba",
