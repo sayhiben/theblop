@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:c7289bcb-ccb8-4d3e-a0e1-a8f081ff8356
+SEQUENCE:0
+DTSTAMP:20250604T032400Z
+DTSTART:20250705T110000
+DTEND:20250705T130000
+SUMMARY:Elbows Up
+LOCATION:Freedom Park\, Buffalo & Fort Erie\, Buffalo\, NY
+DESCRIPTION:Join the coalition of organizations to rally in solidarity wit
+ h Canadian neighbors from Skagway\, Alaska to Burlington\, VT. This event 
+ is to celebrate friendship between the U.S. and Canada.\n\nFreedom Park\, 
+ Terrapin Point
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Freedom+Park
+ %2C+Buffalo+%26+Fort+Erie%2C+Buffalo%2C+NY&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:994279d6-997d-44d5-bd12-b6680efe3dd2
+SEQUENCE:0
+DTSTAMP:20250604T032400Z
+DTSTART:20250705T110000
+DTEND:20250705T130000
+SUMMARY:Elbows Up
+LOCATION:Terrapin Point\, Niagara Falls\, NY
+DESCRIPTION:Join the coalition of organizations from Skagway\, Alaska to B
+ urlington\, VT\, as we line the longest undefended border in the world to 
+ rally in solidarity and friendship with our Canadian allies and neighbors.
+  This event is for Canada\, for America\, and for democracy.\n\nFreedom Pa
+ rk\, Buffalo & Fort Erie
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Terrapin+Poi
+ nt%2C+Niagara+Falls%2C+NY&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:5c1515ed-b751-4a5e-b1dd-40c35214d331
+SEQUENCE:0
+DTSTAMP:20250604T032400Z
+DTSTART:20250705T110000
+DTEND:20250705T130000
+SUMMARY:Elbows Up
+LOCATION:Freedom Park\, Buffalo & Fort Erie\, Buffalo\, NY
+DESCRIPTION:We rally in solidarity and friendship with our Canadian allies
+  and neighbors\, lining the longest undefended border for democracy.\n\nTe
+ rrapin Point\, Niagara Falls
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Freedom+Park
+ %2C+Buffalo+%26+Fort+Erie%2C+Buffalo%2C+NY&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
