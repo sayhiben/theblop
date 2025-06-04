@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:c67700c7-7c9e-48c7-bbda-dab54cde18ca
+SEQUENCE:0
+DTSTAMP:20250604T180325Z
+DTSTART:20250606T090000
+DTEND:20250606T110000
+SUMMARY:WE’RE GOING TO KNOCK ON THE DOORS OF CONGRESS
+LOCATION:Steps of the Capitol\, Washington\, DC
+DESCRIPTION:Join us on June 6 to advocate for actions like impeaching and 
+ removing officials\, taking action on the steps of the Capitol.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Steps+of+the
+ +Capitol%2C+Washington%2C+DC&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
