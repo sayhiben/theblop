@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:539a7dc4-ab5b-408c-8969-0315ace2612c
+SEQUENCE:0
+DTSTAMP:20250604T120343Z
+DTSTART:20250614T113000
+DTEND:20250614T133000
+SUMMARY:Indivisible Eastside March and Rally
+LOCATION:Downtown Kirkland\, Central Way & 6th St
+DESCRIPTION:Join us for a nationwide Day of Defiance with Indivisible East
+ side\, as we march and rally in Downtown Kirkland. Meet at Central Way & 6
+ th St at 11:30 to march to Marina Park.\n\nCentral Way & 6th St
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Downtown+Kir
+ kland%2C+Central+Way+%26+6th+St&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
