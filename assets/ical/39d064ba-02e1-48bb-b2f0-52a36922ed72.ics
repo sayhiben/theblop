@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:c607b78a-1ab7-4859-8b1f-388662dba350
+SEQUENCE:0
+DTSTAMP:20250604T210315Z
+DTSTART:20250606T120000
+DTEND:20250606T140000
+SUMMARY:All Eyes on ICE
+LOCATION:Terry Schrunk Plaza\, Portland\, OR
+DESCRIPTION:We need you for an emergency rally. A Portland asylum seeker h
+ as been detained by ICE during her appointment. Join us as we stand in sol
+ idarity against these actions.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Terry+Schrun
+ k+Plaza%2C+Portland%2C+OR&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
