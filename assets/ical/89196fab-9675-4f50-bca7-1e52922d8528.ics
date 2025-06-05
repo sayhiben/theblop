@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:f55475fe-3655-436e-9748-5c325b4f69d6
+SEQUENCE:0
+DTSTAMP:20250605T150332Z
+DTSTART:20250607T000000
+DTEND:20250607T020000
+SUMMARY:Family Rally
+LOCATION:Raymond Park\, Evanston\, IL
+DESCRIPTION:Join the Pink Poster Club in a family rally for democracy. We'
+ re coming together to show our support for democracy\, freedom\, and each 
+ other.\n\nRaymond Park\, Evanston
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Raymond+Park
+ %2C+Evanston%2C+IL&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
