@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:04ca8761-18a9-4143-b8c5-b3848668a488
+SEQUENCE:0
+DTSTAMP:20250605T210314Z
+DTSTART:20250614T120000
+DTEND:20250614T140000
+SUMMARY:No Crowns\, No Thrones\, No Kings
+LOCATION:Civic League Park\, San Angelo\, TX
+DESCRIPTION:Join us in Civic League Park for a rally organized by West Tex
+ as Indivisible San Angelo Chapter to promote civic engagement and communit
+ y spirit.\n\nCivic League Park
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Civic+League
+ +Park%2C+San+Angelo%2C+TX&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
