@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:8baa1bfe-3ff8-4185-adae-20e3d22f9f95
+SEQUENCE:0
+DTSTAMP:20250606T120355Z
+DTSTART:20250606T150000
+DTEND:20250606T170000
+SUMMARY:Badgirlpower! - Defend the Constitution
+LOCATION:2100 East Walt Williams Drive\, Pahrump\, NV
+DESCRIPTION:We are gathering to unite veterans and the public to defend th
+ e Constitution at Pahrump Town Hall.\n\nPahrump Town Hall
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=2100+East+Wa
+ lt+Williams+Drive%2C+Pahrump%2C+NV&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

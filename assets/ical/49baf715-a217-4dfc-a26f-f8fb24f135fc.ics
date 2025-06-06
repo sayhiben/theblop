@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:8c486c2a-5e9d-4ef2-953c-c72996dded0e
+SEQUENCE:0
+DTSTAMP:20250606T120355Z
+DTSTART:20250614T170000
+DTEND:20250614T190000
+SUMMARY:No Kings Mass Protest
+LOCATION:333 S Las Vegas Blvd\, Las Vegas\, NV
+DESCRIPTION:On June 14\, 250 years after the creation of the U.S. Army to 
+ resist monarchy\, this protest challenges Donald Trump’s perceived perso
+ nal celebration. We stand for democracy and against absolute power.\n\nFed
+ eral Courthouse
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=333+S+Las+Ve
+ gas+Blvd%2C+Las+Vegas%2C+NV&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
