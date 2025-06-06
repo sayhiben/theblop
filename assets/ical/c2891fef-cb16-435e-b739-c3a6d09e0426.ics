@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:6ddaac67-a4bd-4e3c-9a0c-8d0ac978bdc7
+SEQUENCE:0
+DTSTAMP:20250606T180329Z
+DTSTART:20250614T130000
+DTEND:20250614T150000
+SUMMARY:NO KINGS OAK PARK
+LOCATION:Scoville Park\, Oak Park\, IL
+DESCRIPTION:A protest or public meeting regarding constitutional defiance.
+ \n\nScoville Park
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Scoville+Par
+ k%2C+Oak+Park%2C+IL&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
