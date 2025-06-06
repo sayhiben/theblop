@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:6c3a8551-06db-4838-a2a9-3ff076e92078
+SEQUENCE:0
+DTSTAMP:20250606T032402Z
+DTSTART:20250614T110000
+DTEND:20250614T130000
+SUMMARY:No Kings
+LOCATION:5310 Kietzke Ln\, Reno\, NV
+DESCRIPTION:We are gathering to address corruption\, advocating for no thr
+ ones\, crowns\, or kings.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=5310+Kietzke
+ +Ln%2C+Reno%2C+NV&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
