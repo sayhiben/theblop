@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:bcac2220-9a17-48cf-88fa-669318db644d
+SEQUENCE:0
+DTSTAMP:20250607T060319Z
+DTSTART:20250609T173000
+DTEND:20250609T193000
+SUMMARY:Mobilize Mondays
+LOCATION:Capitol Campus Tivoli Fountain\, Olympia\, WA
+DESCRIPTION:Join us to assemble travel packages for individuals released f
+ rom the Northwest Detention Center who leave in just the clothes they have
+  on. Donations needed for adult-sized items like socks\, underwear\, plain
+  shirts\, pajama pants\, backpacks\, and Tracfones/minutes.\n\nCapitol Cam
+ pus Tivoli Fountain
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Capitol+Camp
+ us+Tivoli+Fountain%2C+Olympia%2C+WA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
