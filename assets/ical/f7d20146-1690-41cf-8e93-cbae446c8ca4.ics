@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:247b056c-bbfe-4811-9364-2d43e6786f35
+SEQUENCE:0
+DTSTAMP:20250607T032237Z
+DTSTART:20250614T140000
+DTEND:20250614T160000
+SUMMARY:Trump Always Chickens Out
+LOCATION:\, Fayetteville\, AR
+DESCRIPTION:Join us to make our voices heard as part of a demonstration in
+  Downtown Fayetteville. We aim to bring together the community in a show o
+ f solidarity\, starting at St. Paul’s Episcopal Church parking lot.\n\nS
+ t. Paul’s Episcopal Church parking lot
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+Fayettev
+ ille%2C+AR&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
