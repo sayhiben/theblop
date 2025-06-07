@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:aa4f0bda-5c93-4110-9447-7380fa8744a3
+SEQUENCE:0
+DTSTAMP:20250607T000708Z
+DTSTART:20250608T140000
+DTEND:20250608T160000
+SUMMARY:Stop ICE and CPD Collaboration
+LOCATION:W 18th St & S Loomis St\, Chicago\, IL
+DESCRIPTION:We are organizing a protest against the collaboration between 
+ ICE and CPD. Join us to stand with immigrants and assert that they are not
+  the enemy. All power to the people\; no human is illegal!\n\nPlaza Tenoch
+ titlán
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=W+18th+St+%2
+ 6+S+Loomis+St%2C+Chicago%2C+IL&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
