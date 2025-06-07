@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:61b7a635-04e6-4bdf-82e7-5efaf13e54b9
+SEQUENCE:0
+DTSTAMP:20250607T210307Z
+DTSTART:20250614T093000
+DTEND:20250614T113000
+SUMMARY:Peaceful Protest: Stop Project 2025
+LOCATION:227 E. Chestnut Expressway\, Springfield\, MO
+DESCRIPTION:Join us on Flag Day to honor military service members and stan
+ d up for democracy\, veterans\, seniors\, students\, families\, and childr
+ en. We protest against Project 2025 and advocate for the protection of vit
+ al social services and human rights.\n\nHistoric City Hall (sidewalk)
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=227+E.+Chest
+ nut+Expressway%2C+Springfield%2C+MO&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
