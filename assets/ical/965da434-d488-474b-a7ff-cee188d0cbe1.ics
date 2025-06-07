@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:ff16fd52-b956-4208-a98a-2367bebc0e25
+SEQUENCE:0
+DTSTAMP:20250607T180319Z
+DTSTART:20250614T160000
+DTEND:20250614T180000
+SUMMARY:NO KINGS! PROTEST
+LOCATION:Corner of Lynn Rd. and Hillcrest Dr. (The Oaks Mall)
+DESCRIPTION:Join us for a protest at the corner of Lynn Rd. and Hillcrest 
+ Dr. Participants are encouraged to wear purple as a symbol of unity\, with
+  the message "WE THE PEOPLE are the royalty."\n\nThe Oaks Mall
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Corner+of+Ly
+ nn+Rd.+and+Hillcrest+Dr.+%28The+Oaks+Mall%29&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

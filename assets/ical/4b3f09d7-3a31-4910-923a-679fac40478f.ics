@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:07117a19-3a1e-464f-99c6-6f7e9a9dbad8
+SEQUENCE:0
+DTSTAMP:20250607T180319Z
+DTSTART:20250616T154500
+DTEND:20250616T174500
+SUMMARY:Peaceful Protest in Front of PDX Tesla & ICE at Rush Hour
+LOCATION:Portland Tesla
+DESCRIPTION:A peaceful protest organized by Indivisible Oregon\, taking pl
+ ace in front of a Tesla location in Portland.\n\nPortland Tesla
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Portland+Tes
+ la&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
