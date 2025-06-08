@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:0c327bbd-c1bc-4da5-b842-7dfd0c9c8769
+SEQUENCE:0
+DTSTAMP:20250608T210328Z
+DTSTART:20250609T120000
+DTEND:20250609T140000
+SUMMARY:Emergency Rally and Protest
+LOCATION:Federal Office\, Tulare Y O St.\, Fresno\, CA
+DESCRIPTION:An emergency rally and protest to stop deportations and demand
+  ICE out of California.\n\nFederal Office
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Federal+Offi
+ ce%2C+Tulare+Y+O+St.%2C+Fresno%2C+CA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
