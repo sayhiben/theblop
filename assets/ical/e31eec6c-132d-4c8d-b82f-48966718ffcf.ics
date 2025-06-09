@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:b9710038-b96d-428f-b22d-01065a2ba72c
+SEQUENCE:0
+DTSTAMP:20250609T032815Z
+DTSTART:20250610T170000
+DTEND:20250610T190000
+SUMMARY:ICE Out of New York!
+LOCATION:\, New York\, NY
+DESCRIPTION:We are organizing a protest to stop deportations and remove IC
+ E from New York.\n\nFoley Square
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+New+York
+ %2C+NY&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
