@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:e0ccc092-9f72-4aee-a67b-43297a02e759
+SEQUENCE:0
+DTSTAMP:20250609T181227Z
+DTSTART:20250614T120000
+DTEND:20250614T140000
+SUMMARY:NO KINGS
+LOCATION:Westmoreland County Courthouse\, Westmoreland\, PA
+DESCRIPTION:Join us for a rally marking the Army's historical rejection of
+  monarchic rule\, presented by WTF Can I Do Westmoreland.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Westmoreland
+ +County+Courthouse%2C+Westmoreland%2C+PA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
