@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:12278364-eeba-4e62-a35c-30ef6efbc75d
+SEQUENCE:0
+DTSTAMP:20250609T060341Z
+DTSTART:20250628T110000
+DTEND:20250628T130000
+SUMMARY:MUSK MUST FALL
+LOCATION:Willamette Park\, Portland\, OR
+DESCRIPTION:We are organizing a 2-mile round trip march to Tesla as part o
+ f the MUSK MUST FALL event.\n\nWillamette Park
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Willamette+P
+ ark%2C+Portland%2C+OR&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
