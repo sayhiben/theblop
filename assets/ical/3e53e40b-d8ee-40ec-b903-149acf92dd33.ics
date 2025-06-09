@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:54e91616-f13e-4ac0-9844-e44d3f565793
+SEQUENCE:0
+DTSTAMP:20250609T210340Z
+DTSTART:20250614T120000
+DTEND:20250614T140000
+SUMMARY:NO KINGS Bel Air
+LOCATION:15 E Churchville Rd\, Bel Air\, MD
+DESCRIPTION:Join us for the NO KINGS rally\, part of the Nationwide Day of
+  Defiance. This volunteer-organized event encourages community engagement 
+ and solidarity.\n\n15 E Churchville Rd
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=15+E+Churchv
+ ille+Rd%2C+Bel+Air%2C+MD&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
