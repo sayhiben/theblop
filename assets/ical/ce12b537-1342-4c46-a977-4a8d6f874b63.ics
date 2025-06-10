@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:f02635bc-9aae-42c6-a0b8-7928e1877cd0
+SEQUENCE:0
+DTSTAMP:20250610T000712Z
+DTSTART:20250611T120000
+DTEND:20250611T140000
+SUMMARY:Solidarity Lunch Hour
+LOCATION:Missoula County Courthouse\, Missoula\, MT
+DESCRIPTION:Join us outside the Missoula County Courthouse on June 11th an
+ d 13th to stand in solidarity with SEIU\, David Huerta\, and Los Angeles f
+ rom 12-1pm. Demonstration along the sidewalk with sign-making materials pr
+ ovided.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Missoula+Cou
+ nty+Courthouse%2C+Missoula%2C+MT&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

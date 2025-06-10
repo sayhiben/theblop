@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:dc8c267d-6eae-4174-896c-160533489bdd
+SEQUENCE:0
+DTSTAMP:20250610T000712Z
+DTSTART:20250614T130000
+DTEND:20250614T150000
+SUMMARY:No Kings Atlantic City
+LOCATION:Missouri Avenue & Boardwalk\, Missouri Ave\, Atlantic City\, NJ
+DESCRIPTION:We have built a grassroots rainbow coalition for this collecti
+ ve day of action on June 14th. This coalition represents diverse communiti
+ es of South Jersey\, with numerous organizations involved to oppose author
+ itarianism and promote nonviolent action.\n\nStarting Point: Missouri Aven
+ ue and the Boardwalk at 1:00pm\, Rally Point: O'Donnell Memorial Park 2:00
+ pm
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Missouri+Ave
+ nue+%26+Boardwalk%2C+Missouri+Ave%2C+Atlantic+City%2C+NJ&zoom=15&basemap=r
+ oadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

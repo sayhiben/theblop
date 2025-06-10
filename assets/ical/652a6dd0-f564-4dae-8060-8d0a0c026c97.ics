@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:89538c62-4848-4d38-8105-9c9c639144ac
+SEQUENCE:0
+DTSTAMP:20250610T000712Z
+DTSTART:20250614T150000
+DTEND:20250614T170000
+SUMMARY:NO KINGS Lacey Township
+LOCATION:818 Lacey Rd\, Lacey Township\, NJ
+DESCRIPTION:NO KINGS is a national day of mass mobilization against author
+ itarian actions and corruption from Trump and allies. The event is a prote
+ st occurring nationwide to oppose these actions and promote a movement aga
+ inst authoritarian influence.\n\nLacey Twp Town Hall
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=818+Lacey+Rd
+ %2C+Lacey+Township%2C+NJ&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:335d7bd5-ba65-41ba-93b4-0dafb0667f13
+SEQUENCE:0
+DTSTAMP:20250610T000712Z
+DTSTART:20250614T110000
+DTEND:20250614T130000
+SUMMARY:NO KINGS Asbury Park
+LOCATION:Springwood Ave. & Atkins Ave.\, Asbury Park\, NJ
+DESCRIPTION:NO KINGS is a national protest against authoritarian excesses 
+ and political corruption. It aims to promote nonviolent action and unity a
+ gainst perceived threats to democracy and free speech.\n\nSpringwood Park
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Springwood+A
+ ve.+%26+Atkins+Ave.%2C+Asbury+Park%2C+NJ&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

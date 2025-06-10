@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:9902ced9-52fb-4d20-9a47-38f24bfcf130
+SEQUENCE:0
+DTSTAMP:20250610T000712Z
+DTSTART:20250614T120000
+DTEND:20250614T140000
+SUMMARY:NO KINGS - Nationwide Day of Defiance
+LOCATION:145 W State St\, Trenton\, NJ
+DESCRIPTION:Join us to have our voices heard with our fellow Americans nat
+ ionwide on our next day of action against authoritarian practices and corr
+ uption. NO KINGS is a national day of action in response to such issues\, 
+ and we are taking to the streets to let the world know our stance.\n\nStat
+ e House Annex
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=145+W+State+
+ St%2C+Trenton%2C+NJ&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

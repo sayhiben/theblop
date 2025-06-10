@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:8ec2f1ca-f4e9-4bc6-99e6-3a363eef7631
+SEQUENCE:0
+DTSTAMP:20250610T000712Z
+DTSTART:20250614T120000
+DTEND:20250614T140000
+SUMMARY:NO KINGS MASS PROTEST
+LOCATION:Perrineville Road & Prospect Plains Road\, Monroe Township\, NJ
+DESCRIPTION:We are organizing a national protest on June 14 to oppose auth
+ oritarianism and corruption linked to Trump and his allies. Our event prom
+ otes nonviolent action and encourages participants to counteract oppressiv
+ e practices peacefully.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Perrineville
+ +Road+%26+Prospect+Plains+Road%2C+Monroe+Township%2C+NJ&zoom=15&basemap=ro
+ admap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

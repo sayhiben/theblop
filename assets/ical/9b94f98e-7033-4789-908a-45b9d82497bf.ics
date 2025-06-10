@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:870309c7-fb03-4030-b30f-28d43a60f5c0
+SEQUENCE:0
+DTSTAMP:20250610T000712Z
+DTSTART:20250614T113000
+DTEND:20250614T133000
+SUMMARY:NO KINGS
+LOCATION:This event's address is private.\, \, NJ
+DESCRIPTION:We are organizing a 'No Kings' protest nationwide\, with a vis
+ ibility brigade on overpasses using banners and posters. Join us in New Je
+ rsey to demonstrate support for democracy.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=This+event%2
+ 7s+address+is+private.%2C+%2C+NJ&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:6e93c0aa-d71a-4746-8627-d378cd020e19
+SEQUENCE:0
+DTSTAMP:20250610T000712Z
+DTSTART:20250614T163000
+DTEND:20250614T183000
+SUMMARY:NO KINGS - TOMS RIVER\, NJ
+LOCATION:1201 Hooper Ave\, Toms River\, NJ
+DESCRIPTION:Hosted by "Where is Chris Smith?" Rallies and Jersey Shore Blu
+ e\, this protest is against perceived authoritarianism\, specifically targ
+ eting Trump. It's a call to action for a day of nationwide demonstration.\
+ n\nOcean County Mall - along Hooper Avenue\, in front of Macy's
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=1201+Hooper+
+ Ave%2C+Toms+River%2C+NJ&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:0e4aca56-b925-496f-aa96-5e512227a84a
+SEQUENCE:0
+DTSTAMP:20250610T000712Z
+DTSTART:20250614T120000
+DTEND:20250614T140000
+SUMMARY:Atlantic City No Kings Rally
+LOCATION:2831 Boardwalk\, Atlantic City\, NJ
+DESCRIPTION:Join us at the Atlantic City No Kings Rally to resist the MAGA
+  regime with creative actions\, face painting\, special guests\, and more.
+  We aim to inspire change and reclaim democracy together.\n\nChickie's & P
+ ete's
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=2831+Boardwa
+ lk%2C+Atlantic+City%2C+NJ&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

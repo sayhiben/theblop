@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:cfd96cff-4d03-466a-8b64-80b2c57eafce
+SEQUENCE:0
+DTSTAMP:20250610T000712Z
+DTSTART:20250614T153000
+DTEND:20250614T173000
+SUMMARY:NO KINGS Princeton\, NJ
+LOCATION:1 Monument Dr\, Princeton\, NJ
+DESCRIPTION:No Kings is a national day of action and mass mobilization in 
+ response to increasing authoritarian excesses. We’re taking to the stree
+ ts nationwide to build a movement free of authoritarian influence. We expe
+ ct participants to de-escalate potential confrontations.\n\nMonument Park
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=1+Monument+D
+ r%2C+Princeton%2C+NJ&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

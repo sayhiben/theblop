@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:75111720-73d4-4ab8-ae25-c537973af5da
+SEQUENCE:0
+DTSTAMP:20250610T000712Z
+DTSTART:20250614T120000
+DTEND:20250614T140000
+SUMMARY:NO KINGS Ocean City NJ
+LOCATION:Stainton Memorial Causeway East\, Pleasure Ave\, 9th and Pleasure
+  Ave\, Ocean City\, NJ
+DESCRIPTION:NO KINGS is a national day of action against authoritarianism\
+ , focusing on June 14\, 2025. The protest aims to oppose the authoritarian
+  measures of Trump and his allies. It is a movement for change.\n\nStainto
+ n Memorial Causeway East
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Stainton+Mem
+ orial+Causeway+East%2C+Pleasure+Ave%2C+9th+and+Pleasure+Ave%2C+Ocean+City%
+ 2C+NJ&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
