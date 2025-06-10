@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:2626bf28-aca2-47dc-8db7-a2db8653ee18
+SEQUENCE:0
+DTSTAMP:20250610T032631Z
+DTSTART:20250614T120000
+DTEND:20250614T140000
+SUMMARY:Reclaim Our Flag Day: No Kings!
+LOCATION:Floods Hill/Meadowland Park\, South Orange\, NJ
+DESCRIPTION:This event is a national day of action to defy authoritarian e
+ xcesses and is hosted by SOMA Action. It includes music\, flag-making\, an
+ d a march through downtown South Orange.\n\nSpiotta Park
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Floods+Hill%
+ 2FMeadowland+Park%2C+South+Orange%2C+NJ&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:33fd7fa7-831e-42ec-b16e-4ec0c6126efe
+SEQUENCE:0
+DTSTAMP:20250610T032631Z
+DTSTART:20250614T110000
+DTEND:20250614T130000
+SUMMARY:NO KINGS MIAMI
+LOCATION:301 Biscayne Blvd\, Miami\, FL
+DESCRIPTION:The flyer is for an event titled "NO KINGS MIAMI" taking place
+  on June 14\, hosted by various local organizations committed to civic eng
+ agement.\n\nTorch of Friendship
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=301+Biscayne
+ +Blvd%2C+Miami%2C+FL&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

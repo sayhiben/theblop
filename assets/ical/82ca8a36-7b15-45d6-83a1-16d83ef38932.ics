@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:0b2aecdb-0218-41ea-a184-f917238f3b3f
+SEQUENCE:0
+DTSTAMP:20250610T032631Z
+DTSTART:20250614T140000
+DTEND:20250614T160000
+SUMMARY:NO KINGS PISCATAWAY
+LOCATION:455 Hoes Ln\, Piscataway\, NJ
+DESCRIPTION:We take to the streets nationally on June 14th to oppose autho
+ ritarian actions and build a movement that rejects current powers. No King
+ s events promote nonviolent action.\n\nPiscataway Municipal Building
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=455+Hoes+Ln%
+ 2C+Piscataway%2C+NJ&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

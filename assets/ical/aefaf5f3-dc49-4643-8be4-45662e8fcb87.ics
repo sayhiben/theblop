@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:bb5fc6d8-8a61-4e2c-b678-1695e90c07fc
+SEQUENCE:0
+DTSTAMP:20250610T032631Z
+DTSTART:20250614T153000
+DTEND:20250614T173000
+SUMMARY:NO KINGS Gloucester County
+LOCATION:Auburn Road & Center Square Road\, Woolwich Township\, NJ
+DESCRIPTION:NO KINGS is a national day of action and mass mobilization aga
+ inst authoritarian excesses and corruption. Join us in Woolwich Township a
+ s we stand against would-be kings and advocate for nonviolent action.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Auburn+Road+
+ %26+Center+Square+Road%2C+Woolwich+Township%2C+NJ&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:3a466931-a426-4019-9d4d-c2e94202b127
+SEQUENCE:0
+DTSTAMP:20250610T032631Z
+DTSTART:20250614T120000
+DTEND:20250614T140000
+SUMMARY:NO KINGS Nationwide Day of Defiance
+LOCATION:4 Spring St\, Newton\, NJ
+DESCRIPTION:This is a Pride month event collaborating with Sussex County P
+ ride. We are organizing a rally and march through the Newton Green to stan
+ d with our marginalized communities and express defiance against tradition
+ al power symbols.\n\nNewton Green
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=4+Spring+St%
+ 2C+Newton%2C+NJ&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:1867284b-5a25-4ff3-8535-a944ead1ad63
+SEQUENCE:0
+DTSTAMP:20250610T032631Z
+DTSTART:20250614T100000
+DTEND:20250614T120000
+SUMMARY:No Kings Milford
+LOCATION:Across the street from Post Office\, 73 Bridge St\, Milford\, NJ
+DESCRIPTION:NO KINGS is a national day of action opposing authoritarianism
+  linked to Trump\, promoting nonviolent protest.\n\nAcross the street from
+  Post Office
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Across+the+s
+ treet+from+Post+Office%2C+73+Bridge+St%2C+Milford%2C+NJ&zoom=15&basemap=ro
+ admap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

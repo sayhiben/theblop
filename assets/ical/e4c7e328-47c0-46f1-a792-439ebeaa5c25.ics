@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:65b98c01-26aa-4e2f-95e5-c59f516356a7
+SEQUENCE:0
+DTSTAMP:20250610T032631Z
+DTSTART:20250614T130000
+DTEND:20250614T150000
+SUMMARY:No Kings Mass Protest
+LOCATION:Roseland Avenue & Bloomfield Avenue\, Caldwell\, NJ
+DESCRIPTION:We’re organizing a national day of action and mass mobilizat
+ ion in response to increasing authoritarian excesses from Trump and his al
+ lies. This event emphasizes nonviolent action to de-escalate potential con
+ frontations.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Roseland+Ave
+ nue+%26+Bloomfield+Avenue%2C+Caldwell%2C+NJ&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

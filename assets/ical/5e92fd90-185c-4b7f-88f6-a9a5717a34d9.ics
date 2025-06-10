@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:2ffce7dd-1f01-4577-baf5-34fd25820c20
+SEQUENCE:0
+DTSTAMP:20250610T032631Z
+DTSTART:20250614T110000
+DTEND:20250614T130000
+SUMMARY:NO KINGS RALLY - MORRISTOWN
+LOCATION:200 South St\, Morristown\, NJ
+DESCRIPTION:Join us for the 'NO KINGS' rally to oppose authoritarian polic
+ ies. We gather at Morristown Town Hall to demonstrate for democracy and hi
+ ghlight issues of free speech and justice.\n\nMorristown Town Hall
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=200+South+St
+ %2C+Morristown%2C+NJ&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

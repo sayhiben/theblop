@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:075120d4-8ace-42ff-8930-b0bee35a5162
+SEQUENCE:0
+DTSTAMP:20250610T032631Z
+DTSTART:20250614T160000
+DTEND:20250614T180000
+SUMMARY:NO KINGS
+LOCATION:151 Knollcroft Rd\, Lyons\, NJ
+DESCRIPTION:Rally outside the Lyons VA to protest H.R. 1\, which threatens
+  veterans’ benefits and federal services\, advocating for nonviolent act
+ ion.\n\nThis event's address is private. Sign up for more details.
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=151+Knollcro
+ ft+Rd%2C+Lyons%2C+NJ&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

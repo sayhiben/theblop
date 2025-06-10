@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:adf72ea8-d29b-4f11-9dac-858b6ee0f94c
+SEQUENCE:0
+DTSTAMP:20250610T032631Z
+DTSTART:20250614T130000
+DTEND:20250614T150000
+SUMMARY:NO KINGS Mass Protest
+LOCATION:6 Highland Cross near Rutherford post office\, Rutherford\, NJ
+DESCRIPTION:NO KINGS is a national day of action and mass mobilization aga
+ inst authoritarian excesses and corruption from Trump and his allies. We
+ ’re gathering on June 14th to demonstrate against abuses of power and to
+  support liberty and justice.\n\nLincoln Park
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=6+Highland+C
+ ross+near+Rutherford+post+office%2C+Rutherford%2C+NJ&zoom=15&basemap=roadm
+ ap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:98b32961-0c78-44cb-9b50-eee781a028a1
+SEQUENCE:0
+DTSTAMP:20250610T032631Z
+DTSTART:20250614T120000
+DTEND:20250614T140000
+SUMMARY:NO KINGS Nationwide Day of Defiance
+LOCATION:25 NJ-31\, Pennington Shopping Center
+DESCRIPTION:We are organizing a national day of action and protest against
+  authoritarian practices and corruption. Events include a protest at noon 
+ and a candlelight vigil at 8:00 p.m. We advocate for nonviolent actions to
+  counter authoritarian excesses.\n\nPennington Shopping Center
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=25+NJ-31%2C+
+ Pennington+Shopping+Center&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

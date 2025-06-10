@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:34af31e9-24db-44aa-9b35-86f53592aea5
+SEQUENCE:0
+DTSTAMP:20250610T032631Z
+DTSTART:20250614T100000
+DTEND:20250614T120000
+SUMMARY:NO KINGS Mass Protest
+LOCATION:Brookdale Park\, Montclair\, NJ
+DESCRIPTION:Join the Montclair Dems\, BluewaveNJ\, and local groups in Mon
+ tclair\, NJ for a mass protest against authoritarianism and corruption. Th
+ is national event aims to defend democracy and oppose would-be kings.\n\nS
+ tage Location TBD
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Brookdale+Pa
+ rk%2C+Montclair%2C+NJ&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

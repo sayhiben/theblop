@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:f72fb394-d704-4c01-b143-36e6cf0cfab6
+SEQUENCE:0
+DTSTAMP:20250610T032631Z
+DTSTART:20250614T100000
+DTEND:20250614T120000
+SUMMARY:NO KINGS NATIONWIDE DAY OF DEFIANCE
+LOCATION:165 Rte 4\, Paramus\, NJ
+DESCRIPTION:Join us for the NO KINGS event at the Route 4 overpass in Para
+ mus\, NJ\, hosted by the Visibility Brigade. We aim to make a bold stateme
+ nt against certain political ideologies and encourage participants to resi
+ st nonviolently. This is a day of defiance where participants are encourag
+ ed to bring signs and stand together. Sign up at VisibilityBrigade.com.\n\
+ n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=165+Rte+4%2C
+ +Paramus%2C+NJ&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

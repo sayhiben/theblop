@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:f8ccf36f-56e7-43fa-89e7-efc725ce6e47
+SEQUENCE:0
+DTSTAMP:20250610T032631Z
+DTSTART:20250616T180000
+DTEND:20250616T200000
+SUMMARY:Protect Free Speech - No Banned Book\, No Banned Words Rally
+LOCATION:\, Denville\, NJ
+DESCRIPTION:Join The Lantern League and other Team No Nonsense friends to 
+ protect and defend free speech. No Banned Books\, No Banned Words. We will
+  have words written on card stock for all to hold\, bring your favorite co
+ mmonly banned book and posters. We are supporting libraries\, the Library 
+ of Congress and decrying the banning of words from government websites\, f
+ rom grant applications and the practice of book banning.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+Denville
+ %2C+NJ&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

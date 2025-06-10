@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:d1cef62c-b152-4576-9a1d-2369777be3ed
+SEQUENCE:0
+DTSTAMP:20250610T032631Z
+DTSTART:20250620T160000
+DTEND:20250620T180000
+SUMMARY:Register NJ Voters with Field Team 6 Postcards
+LOCATION:Glenbrook Brewery\, 95 Morris Ave\, Morristown\, NJ
+DESCRIPTION:Help register Blue Voters for the NJ Governors Race! Field Tea
+ m 6 provides the SCRIPT\, addresses\, postcards\, voter registration QR co
+ de\, and stamps. Snacks provided\, beer or other beverage is on you. Join 
+ like-minded people making a difference. Usual meeting at Fort Nonsense in 
+ Randolph\; potential location at Glenbrook Brewery.\n\nGlenbrook Brewery
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Glenbrook+Br
+ ewery%2C+95+Morris+Ave%2C+Morristown%2C+NJ&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

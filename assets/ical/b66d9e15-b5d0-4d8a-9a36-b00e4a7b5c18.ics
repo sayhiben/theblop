@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:0046eca4-4d1b-4bb0-83d4-1aa1c7bbc0a8
+SEQUENCE:0
+DTSTAMP:20250610T032631Z
+DTSTART:20250614T130000
+DTEND:20250614T150000
+SUMMARY:NO KINGS - Cape May Court House\, NJ
+LOCATION:9 N Main St\, Middle Township\, NJ
+DESCRIPTION:NO KINGS is a nationwide event on June 14\, 2025\, organized a
+ s a response to authoritarian actions and corruption by government officia
+ ls. It promotes nonviolent action and encourages community mobilization.\n
+ \nCape May County Courthouse
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=9+N+Main+St%
+ 2C+Middle+Township%2C+NJ&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

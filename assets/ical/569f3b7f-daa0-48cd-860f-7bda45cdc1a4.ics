@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:856fe40e-015e-444c-9a7c-c8bf8f3db3e4
+SEQUENCE:0
+DTSTAMP:20250610T032631Z
+DTSTART:20250628T090000
+DTEND:20250628T110000
+SUMMARY:Morris County Pride Event
+LOCATION:Full address will be provided upon RSVP\, Randolph\, NJ
+DESCRIPTION:Morris County Pride is an EDGE New Jersey event program that p
+ roduces entertainment-based events in Morris County as a platform for visi
+ bility\, acceptance\, inclusion\, education\, and resources for the LGBTQI
+ + community. Verifying the location\, it is believed to be at County Colle
+ ge of Morris.\n\nCounty College of Morris
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Full+address
+ +will+be+provided+upon+RSVP%2C+Randolph%2C+NJ&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

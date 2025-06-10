@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:a5df7121-bed1-4438-b4df-4ee65aaa932f
+SEQUENCE:0
+DTSTAMP:20250610T032631Z
+DTSTART:20250614T110000
+DTEND:20250614T130000
+SUMMARY:No Kings Springfield - Reclaim the Flag
+LOCATION:135 US-22\, Springfield\, NJ
+DESCRIPTION:Join us to reclaim America's promise by participating in a nat
+ ionwide day of action against authoritarian practices. We're mobilizing to
+  celebrate life\, liberty\, and the pursuit of happiness\, while rejecting
+  any form of dictatorship\, emphasizing nonviolent demonstration.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=135+US-22%2C
+ +Springfield%2C+NJ&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:8973f9f9-1a0d-4c77-b5ce-83a8540469c0
+SEQUENCE:0
+DTSTAMP:20250610T032631Z
+DTSTART:20250614T120000
+DTEND:20250614T140000
+SUMMARY:Reclaim Our Flag Day: No Kings!
+LOCATION:Private\; signup for details\, Nationwide\, Nationwide
+DESCRIPTION:We are organizing a nationwide day of action to oppose authori
+ tarian excesses and reclaim our flag for all. It is a mass mobilization ag
+ ainst abuse of power attributed to Trump\, focusing on nonviolent action.\
+ n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Private%3B+s
+ ignup+for+details%2C+Nationwide%2C+Nationwide&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

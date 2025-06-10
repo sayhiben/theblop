@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:aa4c9e54-3978-43df-8c13-eaf254c781e9
+SEQUENCE:0
+DTSTAMP:20250610T032631Z
+DTSTART:20250614T110000
+DTEND:20250614T130000
+SUMMARY:NO KINGS Pequannock
+LOCATION:\, Pequannock\, NJ
+DESCRIPTION:On June 14th\, we’re taking to the streets nationwide to obj
+ ect to Trump’s actions\, emphasizing nonviolent action and making our vo
+ ices heard publicly.\n\nPrivate location. Sign up for details.
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+Pequanno
+ ck%2C+NJ&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

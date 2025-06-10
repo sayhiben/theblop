@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:c07e7365-b859-462a-bf33-b43dddd95a9e
+SEQUENCE:0
+DTSTAMP:20250610T032631Z
+DTSTART:20250614T110000
+DTEND:20250614T130000
+SUMMARY:NO KINGS Mass Protest
+LOCATION:12 Springfield Ave\, Newark\, NJ
+DESCRIPTION:Join us on June 14 for a national day of action against author
+ itarian excesses. We protest in support of democracy and against corruptio
+ n\, demanding change. Our action centers on the Seated Lincoln Statue in N
+ ewark\, NJ.\n\nSeated Lincoln Statue
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=12+Springfie
+ ld+Ave%2C+Newark%2C+NJ&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

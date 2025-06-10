@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:a63de74d-1b2d-4018-8ab2-9214551e7488
+SEQUENCE:0
+DTSTAMP:20250610T032631Z
+DTSTART:20250614T110000
+DTEND:20250614T130000
+SUMMARY:NO KINGS Mountainside
+LOCATION:1385 US-22\, Mountainside\, NJ
+DESCRIPTION:Join us on a nationwide day of defiance against authoritariani
+ sm. We will be taking to the streets to protest and demand democracy and f
+ reedom.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=1385+US-22%2
+ C+Mountainside%2C+NJ&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

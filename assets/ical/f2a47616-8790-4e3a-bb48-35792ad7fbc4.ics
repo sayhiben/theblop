@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:25f7c548-d918-4c53-a067-80e36d7aaf54
+SEQUENCE:0
+DTSTAMP:20250610T032631Z
+DTSTART:20250614T090000
+DTEND:20250614T110000
+SUMMARY:NO KINGS card stunt
+DESCRIPTION:Join Indivisible Lambertville New Hope for a national day of a
+ ction against authoritarianism. Participate in a card stunt to express dem
+ ocratic values and celebrate with a powerful and joyful event.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=&zoom=15&bas
+ emap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

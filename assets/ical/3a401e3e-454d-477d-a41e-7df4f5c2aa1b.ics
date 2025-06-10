@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:db4cd978-5fba-4f0d-b19b-9b7a3c8234e2
+SEQUENCE:0
+DTSTAMP:20250610T032631Z
+DTSTART:20250614T100000
+DTEND:20250614T120000
+SUMMARY:NO KINGS! Mass Protest
+DESCRIPTION:Join us for a nationwide day of action and mass mobilization a
+ gainst authoritarianism and corruption. We're standing together to reject 
+ would-be kings and affirm our commitment to self-rule and nonviolence. Vis
+ it nokings.org for more details.\n\nPrivate - Sign up for details.
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=&zoom=15&bas
+ emap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

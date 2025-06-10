@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:99615e95-b581-485a-b6dc-c1d7069579ac
+SEQUENCE:0
+DTSTAMP:20250610T032631Z
+DTSTART:20250614T120000
+DTEND:20250614T140000
+SUMMARY:NO KINGS MASS PROTEST
+LOCATION:Intersection of Ridgewood Avenue and Bloomfield Avenue\, Glen Rid
+ ge\, NJ
+DESCRIPTION:NO KINGS is a national day of action and mass mobilization aga
+ inst increasing authoritarian actions by Trump and his allies\, emphasizin
+ g nonviolent protest.\n\nGlen Ridge\, NJ 07028
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Intersection
+ +of+Ridgewood+Avenue+and+Bloomfield+Avenue%2C+Glen+Ridge%2C+NJ&zoom=15&bas
+ emap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

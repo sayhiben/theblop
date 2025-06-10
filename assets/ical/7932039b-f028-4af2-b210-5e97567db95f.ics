@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:2fa1e706-0006-4d2f-b743-eff5702a07f9
+SEQUENCE:0
+DTSTAMP:20250610T032631Z
+DTSTART:20250614T150000
+DTEND:20250614T170000
+SUMMARY:NO KINGS Bloomfield NJ at the Municipal Plaza
+LOCATION:1 Municipal Plaza\, Bloomfield\, NJ
+DESCRIPTION:Join the NO KINGS rally\, a national day of action on June 14\
+ , 2025\, to protest against authoritarian practices and advocate for nonvi
+ olent movement. Organized by volunteers for No Kings\, participants will g
+ ather to express their stance against political excesses.\n\n1 Municipal P
+ laza
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=1+Municipal+
+ Plaza%2C+Bloomfield%2C+NJ&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

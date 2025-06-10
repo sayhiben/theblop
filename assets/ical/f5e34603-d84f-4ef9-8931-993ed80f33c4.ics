@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:d7e23706-eaff-46a4-bfd3-a5aa730d16a9
+SEQUENCE:0
+DTSTAMP:20250610T032631Z
+DTSTART:20250614T140000
+DTEND:20250614T160000
+SUMMARY:NO KINGS! Rahway
+LOCATION:Saint Georges Avenue & West Grand Avenue\, Rahway\, NJ
+DESCRIPTION:Join us for a national day of action and mass mobilization aga
+ inst authoritarianism and corruption\, hosted by Indivisible Rahway. Toget
+ her with Indivisible Central NJ and Indivisible Highland Park\, we will ce
+ lebrate democracy and reclaim the flag with nonviolent protest.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Saint+George
+ s+Avenue+%26+West+Grand+Avenue%2C+Rahway%2C+NJ&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
