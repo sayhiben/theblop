@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:4e18fbf4-08c7-4542-9963-cfd6b2a83af7
+SEQUENCE:0
+DTSTAMP:20250610T210340Z
+DTSTART:20250614T100000
+DTEND:20250614T120000
+SUMMARY:No Kings: Nationwide Day of Peaceful Defiance
+LOCATION:East Sunrise Blvd & A1A\, Fort Lauderdale Beach\, FL
+DESCRIPTION:We are organizing a peaceful defiance event with the theme "No
+  thrones. No crowns. No Kings." Join us to stand against monarchic symbols
+  in America.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=East+Sunrise
+ +Blvd+%26+A1A%2C+Fort+Lauderdale+Beach%2C+FL&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
