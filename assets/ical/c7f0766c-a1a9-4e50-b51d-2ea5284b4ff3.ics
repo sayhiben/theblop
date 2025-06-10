@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:eb6d412c-3fa4-4417-aad0-fb62bd3def95
+SEQUENCE:0
+DTSTAMP:20250610T060337Z
+DTSTART:20250614T110000
+DTEND:20250614T130000
+SUMMARY:I5 Pedestrian Overpass Banner Deployment
+LOCATION:Overpass entrance near S 37th st & S Hosmer st\, Tacoma\, WA
+DESCRIPTION:Join us at the overpass entrance near S 37th st & S Hosmer st 
+ in Tacoma. Let's fill the bridge! Bring an American flag\, your own sign\,
+  or help hold up our large one.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Overpass+ent
+ rance+near+S+37th+st+%26+S+Hosmer+st%2C+Tacoma%2C+WA&zoom=15&basemap=roadm
+ ap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
