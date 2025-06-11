@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:234fbcc6-4d5e-4ee5-ab23-17ca2f489530
+SEQUENCE:0
+DTSTAMP:20250611T180332Z
+DTSTART:20250614T113000
+DTEND:20250614T133000
+SUMMARY:NO KINGS IN PORTLAND
+LOCATION:1000 SW Naito Pkwy\, Portland\, OR
+DESCRIPTION:We are organizing a rally and march featuring music\, performe
+ rs\, and powerful voices as a National Day of Defiance. Join us to stand a
+ gainst authoritative figures.\n\nSalmon Street Springs
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=1000+SW+Nait
+ o+Pkwy%2C+Portland%2C+OR&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

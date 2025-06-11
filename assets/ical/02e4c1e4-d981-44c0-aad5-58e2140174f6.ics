@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:269674be-77a3-49a8-8d09-e58e3e6838e0
+SEQUENCE:0
+DTSTAMP:20250611T180332Z
+DTSTART:20250612T180000
+DTEND:20250612T200000
+SUMMARY:Down with ICE
+LOCATION:4310 S Macadam Ave\, Portland\, OR
+DESCRIPTION:Join us for a rally at the ICE Facility as Portland stands in 
+ solidarity with Los Angeles.\n\nICE Facility
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=4310+S+Macad
+ am+Ave%2C+Portland%2C+OR&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

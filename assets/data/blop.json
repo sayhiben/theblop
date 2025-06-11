@@ -66,6 +66,28 @@
     "raw_summary": "This image flyer advertises a recurring protest event occurring every Tuesday and Thursday from 4:15 PM to 5:45 PM at the SW Corner of Drake and College in Fort Collins, aimed at positive engagement and protecting democracy."
   },
   {
+    "id": "02e4c1e4-d981-44c0-aad5-58e2140174f6",
+    "title": "Down with ICE",
+    "date": "Thursday, June 12, 2025",
+    "time": "6:00 PM",
+    "description": "Join us for a rally at the ICE Facility as Portland stands in solidarity with Los Angeles.",
+    "city": "Portland",
+    "state": "OR",
+    "address": "4310 S Macadam Ave",
+    "meeting_location": "ICE Facility",
+    "links": [],
+    "sponsors": [
+      "Portland Contra Las Deportaciones"
+    ],
+    "image_url": "https://theblop.org/assets/images/02e4c1e4-d981-44c0-aad5-58e2140174f6.jpg",
+    "thumbnail_url": "https://theblop.org/assets/images/02e4c1e4-d981-44c0-aad5-58e2140174f6-thumb.jpg",
+    "canonical_id": "",
+    "permalink": "https://theblop.org/events/02e4c1e4-d981-44c0-aad5-58e2140174f6.html",
+    "ical": "https://theblop.org/assets/ical/02e4c1e4-d981-44c0-aad5-58e2140174f6.ics",
+    "raw_text": "PORTLAND STANDS WITH LOS ANGELES!\nDown with ICE\nRally at the ICE Facility\nThursday 6/12 at 6 PM\n4310 S Macadam Ave\nPortland, OR\nHere for my family that can't be\nFDT\nICE out of LA!\nPortland Contra Las Deportaciones",
+    "raw_summary": "The image promotes a rally event “Down with ICE” happening in Portland as a stand of solidarity with Los Angeles. It's set for Thursday, June 12th, at 6 PM, located at 4310 S Macadam Ave, Portland, OR."
+  },
+  {
     "id": "3cfaa5c3-fd95-4d51-b697-1a723f6a7bbf",
     "title": "Southern Worker Action Summit",
     "date": "Friday, June 13, 2025",
@@ -3487,6 +3509,30 @@
     "ical": "https://theblop.org/assets/ical/7950e8f4-f957-496c-a245-bc5c57b84ad2.ics",
     "raw_text": "NO KINGS\nNATIONWIDE DAY OF PEACEFUL DEFIANCE\nNO THRONES. NO CROWNS. NO KINGS.\nIN AMERICA, WE DON’T DO KINGS.\nRSVP\nFORT LAUDERDALE BEACH, FL\nEAST SUNRISE BLVD & A1A\nJUNE 14TH\n10 AM - 12:30 PM\nNOW!\nHOPEANDACTIONINDIVISIBLE.ORG\nHope & Action Broward County, FL\nResist Broward Democrats\nResist Wilton Manors\nDolphin Democrats\nTruth Matters\nEast Side Dems\n5050 South Florida",
     "raw_summary": "The image is an announcement for a public event titled \"No Kings: Nationwide Day of Peaceful Defiance.\" It encourages a movement with the slogan \"No thrones. No crowns. No Kings.\" Scheduled for June 14th, it will take place from 10 AM to 12:30 PM at the intersection of East Sunrise Blvd and A1A in Fort Lauderdale Beach, Florida. It includes a QR code for RSVP and website information."
+  },
+  {
+    "id": "b9abfeaa-2607-4741-bfc8-829de54a52df",
+    "title": "NO KINGS IN PORTLAND",
+    "date": "Saturday, June 14, 2025",
+    "time": "11:30 AM",
+    "description": "We are organizing a rally and march featuring music, performers, and powerful voices as a National Day of Defiance. Join us to stand against authoritative figures.",
+    "city": "Portland",
+    "state": "OR",
+    "address": "1000 SW Naito Pkwy",
+    "meeting_location": "Salmon Street Springs",
+    "links": [
+      "[]"
+    ],
+    "sponsors": [
+      "Local Indivisible Groups"
+    ],
+    "image_url": "https://theblop.org/assets/images/b9abfeaa-2607-4741-bfc8-829de54a52df.jpg",
+    "thumbnail_url": "https://theblop.org/assets/images/b9abfeaa-2607-4741-bfc8-829de54a52df-thumb.jpg",
+    "canonical_id": "",
+    "permalink": "https://theblop.org/events/b9abfeaa-2607-4741-bfc8-829de54a52df.html",
+    "ical": "https://theblop.org/assets/ical/b9abfeaa-2607-4741-bfc8-829de54a52df.ics",
+    "raw_text": "Join Local Indivisible Groups for a National Day of Defiance\n\nNO KINGS IN PORTLAND\n\nSaturday, June 14\n\nRally & March\nMusic\nPerformers\nPowerful Voices\n\n11:30am - 1pm\n\nSalmon Street Springs\n1000 SW Naito Pkwy",
+    "raw_summary": "The flyer announces a rally and march event titled \"NO KINGS IN PORTLAND\" happening in Portland on June 14. It includes music, performers, and prominent speakers, organized by local Indivisible groups for a \"National Day of Defiance.\""
   },
   {
     "id": "b036cf80-7cc1-44e8-aa9d-9a1391ea79c8",
