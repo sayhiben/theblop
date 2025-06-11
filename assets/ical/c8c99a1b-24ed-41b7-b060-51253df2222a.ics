@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:4dfa16d3-0f9c-4954-ad15-f146bf1c0502
+SEQUENCE:0
+DTSTAMP:20250611T060358Z
+DTSTART:20250623T173000
+DTEND:20250623T193000
+SUMMARY:Celebrate Pride with Evergreen Resistance Olympia
+LOCATION:Capitol Campus - Tivoli Fountain\, Olympia\, WA
+DESCRIPTION:Join us to make signs\, support queer rights\, bring flags\, a
+ nd build community.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Capitol+Camp
+ us+-+Tivoli+Fountain%2C+Olympia%2C+WA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
