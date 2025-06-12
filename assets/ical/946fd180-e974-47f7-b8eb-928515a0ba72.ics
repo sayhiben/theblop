@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:3a7a4661-06b2-4a96-8dbc-9096d281e8b6
+SEQUENCE:0
+DTSTAMP:20250612T000652Z
+DTSTART:20250614T100000
+DTEND:20250614T120000
+SUMMARY:NO KINGS! Howard County
+LOCATION:Intersection of Broken Land Parkway and Little Patuxent Parkway\,
+  Columbia\, MD
+DESCRIPTION:Join us in Howard County for the "NO KINGS!" protest. The even
+ t aims to gather participants to demonstrate and make their voices heard\,
+  starting at 10:00 AM at the Intersection of Broken Land Parkway and Littl
+ e Patuxent Parkway. An overpass protest will follow at Gorman Rd. overpass
+  on I-95.\n\nGorman Rd. overpass over Interstate 95 (I-95)\, Laurel\, MD 2
+ 0723
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Intersection
+ +of+Broken+Land+Parkway+and+Little+Patuxent+Parkway%2C+Columbia%2C+MD&zoom
+ =15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
