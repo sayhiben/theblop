@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:0040038b-5f59-4f33-be9d-d45f8c5e703a
+SEQUENCE:0
+DTSTAMP:20250612T180930Z
+DTSTART:20250618T153000
+DTEND:20250618T173000
+SUMMARY:CHINGA LA MIGRA! Rally
+LOCATION:4310 S Macadam Ave\, Portland\, OR
+DESCRIPTION:Join your community in standing against ICE. Our friends and n
+ eighbors are threatened\, and we say enough.\n\nICE Building
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=4310+S+Macad
+ am+Ave%2C+Portland%2C+OR&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

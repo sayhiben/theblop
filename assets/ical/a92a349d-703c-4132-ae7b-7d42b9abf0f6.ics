@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:3d60cedd-732b-4a06-b704-3e6ed9f0d2ca
+SEQUENCE:0
+DTSTAMP:20250612T180930Z
+DTSTART:20250614T140000
+DTEND:20250614T160000
+SUMMARY:No Kings\, Kick Out the Clowns Protest
+LOCATION:100 E Bromley Ln\, Brighton\, CO 80601-3027\, United States
+DESCRIPTION:Join us in protesting against current issues. Let's stand toge
+ ther for change as part of What Democracy Looks Like in Colorado.\n\nBroml
+ ey Lane and 4th Ave\, Brighton\, CO
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=100+E+Bromle
+ y+Ln%2C+Brighton%2C+CO+80601-3027%2C+United+States&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
