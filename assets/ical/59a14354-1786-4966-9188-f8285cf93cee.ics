@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:1ebd78ca-0389-4efd-be96-87bfafa9544c
+SEQUENCE:0
+DTSTAMP:20250612T120406Z
+DTSTART:20250614T150000
+DTEND:20250614T170000
+SUMMARY:No Kings Nationwide Day of Defiance
+LOCATION:Harris Park\, 10101 Belleville Rd\, Belleville\, MI
+DESCRIPTION:NO KINGS is a National Day of Action in response to authoritar
+ ian excesses and corruption. Supported by Belleville Area Friends Indivisi
+ ble\, this nonviolent protest is against Trump and his allies\, aiming to 
+ build a movement for change.\n\nSidewalk on the east side of Belleville Rd
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Harris+Park%
+ 2C+10101+Belleville+Rd%2C+Belleville%2C+MI&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
