@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:b7e5e334-b2e8-4fcd-a26f-7f6512264283
+SEQUENCE:0
+DTSTAMP:20250613T090320Z
+DTSTART:20250624T190000
+DTEND:20250624T210000
+SUMMARY:Rally & Candlelight Vigil for Palestine
+LOCATION:Medina Square
+DESCRIPTION:Join us in a rally and candlelight vigil for Palestine. The ev
+ ent will start with activities encouraging participants to bring signs\, f
+ lags\, instruments\, and noisemakers\, followed by a vigil providing candl
+ es and opportunities to read poems or statements. Donations are accepted f
+ or PCRF and healpalestine.org.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Medina+Squar
+ e&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

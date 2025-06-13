@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:61a068da-b0e3-4518-9e92-30c5c14131ae
+SEQUENCE:0
+DTSTAMP:20250613T090320Z
+DTSTART:20250617T190000
+DTEND:20250617T210000
+SUMMARY:Rally & Candlelight Vigil for Due Process
+LOCATION:Medina Square
+DESCRIPTION:Join us on Tuesday\, June 17\, for a rally and candlelight vig
+ il at Medina Square from 7-9 PM. We will express ourselves\, honor the Dis
+ appeared\, and accept donations to the ACLU. Activities include bringing s
+ igns\, flags\, instruments\, and readings during the vigil.\n\nMedina Squa
+ re
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Medina+Squar
+ e&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
