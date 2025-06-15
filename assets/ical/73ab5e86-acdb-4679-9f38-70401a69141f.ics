@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:e470b582-4304-4f02-9f57-55965c5926ab
+SEQUENCE:0
+DTSTAMP:20250615T060322Z
+DTSTART:20250620T170000
+DTEND:20250620T190000
+SUMMARY:No Fascist in Volusia
+LOCATION:Corner of N. Normandy & Saxon\, Deltona\, FL
+DESCRIPTION:Join the protest against fascism. We are gathering to oppose a
+ ny fascist military presence in our communities.\n\nIn front of Walgreens
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Corner+of+N.
+ +Normandy+%26+Saxon%2C+Deltona%2C+FL&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:842ede80-5fbe-4d36-aadb-0e29ec8e7954
+SEQUENCE:0
+DTSTAMP:20250615T060322Z
+DTSTART:20250621T100000
+DTEND:20250621T120000
+SUMMARY:NO FASCIST IN VOLUSIA
+LOCATION:Corner of Woodland & New York\, Deland\, FL
+DESCRIPTION:Join the protest against the presence of a fascist military in
+  our communities. The demonstration is designed to gather community suppor
+ t and awareness.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Corner+of+Wo
+ odland+%26+New+York%2C+Deland%2C+FL&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

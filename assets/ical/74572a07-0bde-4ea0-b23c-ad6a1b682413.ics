@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:402f2a26-c582-469b-bf3d-4b0fcc33155a
+SEQUENCE:0
+DTSTAMP:20250615T060322Z
+DTSTART:20250621T130000
+DTEND:20250621T150000
+SUMMARY:NO FASCIST IN VOLUSIA
+LOCATION:Corner of Saxon & Enterprise\, Orange City\, FL
+DESCRIPTION:Join us for a protest against fascist military presence in Vol
+ usia. We aim to rally against these forces in our communities. The event e
+ ncourages community participation to stand against fascism.\n\nCorner of S
+ axon & Enterprise
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Corner+of+Sa
+ xon+%26+Enterprise%2C+Orange+City%2C+FL&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
