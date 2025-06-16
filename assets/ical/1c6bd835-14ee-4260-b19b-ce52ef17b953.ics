@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:67b7421a-0fde-41dc-a4c8-4f1cdd0c9a57
+SEQUENCE:0
+DTSTAMP:20250616T090612Z
+DTSTART:20250618T190000
+DTEND:20250618T210000
+SUMMARY:CHINGA LA MIGRA Protest & Rally
+LOCATION:3508 S Moody Ave
+DESCRIPTION:Join us for a protest and rally against immigration policies.\
+ n\n3508 S Moody Ave
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=3508+S+Moody
+ +Ave&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
