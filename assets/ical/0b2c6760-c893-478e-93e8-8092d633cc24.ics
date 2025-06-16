@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:779389d6-2ef2-4a1d-b59e-3542a333a0e1
+SEQUENCE:0
+DTSTAMP:20250616T180341Z
+DTSTART:20250705T130000
+DTEND:20250705T150000
+SUMMARY:Monthly Protest at Macon County Courthouse
+LOCATION:Macon County Courthouse\, Macon\, GA
+DESCRIPTION:Join us in a protest to fight for freedom and democracy\, foll
+ owing the celebration of Independence Day. The protest aims to continue th
+ e spirit of patriotism with a focus on political action.\n\nMacon County C
+ ourthouse
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Macon+County
+ +Courthouse%2C+Macon%2C+GA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

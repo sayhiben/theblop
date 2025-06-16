@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:e199e73e-e6e3-433a-b2b7-ece024999b2e
+SEQUENCE:0
+DTSTAMP:20250616T180341Z
+DTSTART:20250621T160000
+DTEND:20250621T180000
+SUMMARY:We Are Not Your Prey
+LOCATION:Allen County Courthouse\, Fort Wayne\, IN
+DESCRIPTION:A united protest led by Black and Brown communities in Fort Wa
+ yne\, aimed at expressing unity and resistance.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Allen+County
+ +Courthouse%2C+Fort+Wayne%2C+IN&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
