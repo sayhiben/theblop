@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:42ed141d-5c9b-4b40-acd7-42061311ac82
+SEQUENCE:0
+DTSTAMP:20250618T210309Z
+DTSTART:20250621T000000
+DTEND:20250621T020000
+SUMMARY:Say No to Postal Privatization
+LOCATION:7500 Roosevelt Rd\, Forest Park\, IL
+DESCRIPTION:Join us for an event opposing postal privatization\, hosted by
+  The People’s Post Alliance. This Indivisible event will gather on the s
+ idewalk in front of the Taco Bell.\n\non the sidewalk in front of the Taco
+  Bell
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=7500+Rooseve
+ lt+Rd%2C+Forest+Park%2C+IL&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

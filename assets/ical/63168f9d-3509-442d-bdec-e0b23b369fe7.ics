@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:219a4001-7497-466b-b633-cf206e40eaa5
+SEQUENCE:0
+DTSTAMP:20250618T210309Z
+DTSTART:20250621T100000
+DTEND:20250621T120000
+SUMMARY:The People’s Post Alliance
+LOCATION:7500 Roosevelt Rd\, Forest Park\, IL
+DESCRIPTION:Join us for The People’s Post Alliance in front of the Taco 
+ Bell at 7500 Roosevelt Rd. Organized as part of an Indivisible event\, par
+ ticipate in a gathering to support community and engage in activist discus
+ sions.\n\non the sidewalk in front of the Taco Bell
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=7500+Rooseve
+ lt+Rd%2C+Forest+Park%2C+IL&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
