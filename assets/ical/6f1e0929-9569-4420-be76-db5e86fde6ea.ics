@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:e9371758-9f9c-44e7-9130-e5d00f65dcd6
+SEQUENCE:0
+DTSTAMP:20250619T060326Z
+DTSTART:20250621T100000
+DTEND:20250621T120000
+SUMMARY:Rally for Workers' Rights
+LOCATION:1601 N Clark St.\, Chicago\, IL
+DESCRIPTION:The rally is organized to protest management retaliation again
+ st the Chicago History Museum workers for forming a union. It aims to send
+  a message to management that retaliation is wrong.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=1601+N+Clark
+ +St.%2C+Chicago%2C+IL&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

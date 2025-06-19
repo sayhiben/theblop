@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:f56f7840-4b93-4e91-9384-4a3c25aeb6eb
+SEQUENCE:0
+DTSTAMP:20250619T060326Z
+DTSTART:20250621T120000
+DTEND:20250621T140000
+SUMMARY:US v. Skrmetti
+LOCATION:Federal Plaza\, Chicago\, IL
+DESCRIPTION:Join us in a protest advocating for the rights of trans youth 
+ and healthcare freedom.\n\nFederal Plaza\, Chicago
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Federal+Plaz
+ a%2C+Chicago%2C+IL&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
