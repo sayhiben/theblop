@@ -2,16 +2,15 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:c3476e22-8c44-4e22-a938-d83b1cc9d532
+UID:271313ef-a01e-4361-be30-a61595ee6843
 SEQUENCE:0
 DTSTAMP:20250619T120354Z
-DTSTART:20250707T000000
-DTEND:20250707T020000
-SUMMARY:National Mental Health Call Out Sick Day
+DTSTART:20250701T000000
+DTEND:20250701T020000
+SUMMARY:Nationwide Call: Sick of ICE
 LOCATION:\, Nationwide\, Nationwide
-DESCRIPTION:Join us in observing National Mental Health Call Out Sick Day.
-  This is a public call to action to take a break for mental health awarene
- ss.\n\n
+DESCRIPTION:We are organizing a nationwide protest to call out sick in sol
+ idarity against ICE. Support immigrant businesses and street vendors.\n\n
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+Nationwi
  de%2C+Nationwide&zoom=15&basemap=roadmap
 STATUS:CONFIRMED

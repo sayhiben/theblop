@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:b9093461-67e8-4531-8fe8-d1e58faeecaa
+SEQUENCE:0
+DTSTAMP:20250619T120354Z
+DTSTART:20250704T080000
+DTEND:20250704T100000
+SUMMARY:No Kings 2.0
+LOCATION:Your city\, your streets\, Nationwide\, Nationwide
+DESCRIPTION:Join a nationwide movement to reclaim America’s promise of f
+ reedom and justice for all. Stand against authoritarianism\, corruption\, 
+ racism\, and injustice. Advocate for rights\, transparency\, and equality.
+ \n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Your+city%2C
+ +your+streets%2C+Nationwide%2C+Nationwide&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

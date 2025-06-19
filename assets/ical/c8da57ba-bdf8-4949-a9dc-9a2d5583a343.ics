@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:93816c97-31a0-4620-9f34-9f1196d6ca66
+SEQUENCE:0
+DTSTAMP:20250619T120354Z
+DTSTART:20250627T180000
+DTEND:20250627T200000
+SUMMARY:Townhall Meeting
+LOCATION:1465 Terminal Way #1\, Reno\, NV
+DESCRIPTION:Join the Executive Board at the Washoe DEMS Townhall Meeting f
+ or the 'Fighting for the People Tour' to hear how we are fighting the curr
+ ent administration and putting people over profit.\n\nWashoe DEMS HQ
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=1465+Termina
+ l+Way+%231%2C+Reno%2C+NV&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

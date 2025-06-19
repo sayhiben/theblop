@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:a03e535c-b75e-4c88-8b30-0a0ae463936a
+SEQUENCE:0
+DTSTAMP:20250619T120354Z
+DTSTART:20250717T000000
+DTEND:20250717T020000
+SUMMARY:Good Trouble Lives On
+LOCATION:\, Nationwide\, Nationwide
+DESCRIPTION:Join the 50501 Movement for a 50-state nationwide protest titl
+ ed 'Good Trouble Lives On'\, happening on a Thursday\, July 17th. Find mor
+ e information and your state details on the mentioned websites.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+Nationwi
+ de%2C+Nationwide&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
