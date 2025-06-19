@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:5d80484d-ca60-4231-8922-79ceebe23ce0
+SEQUENCE:0
+DTSTAMP:20250619T000704Z
+DTSTART:20250717T110000
+DTEND:20250717T130000
+SUMMARY:John Lewis Memorial Civil Rights Protest
+LOCATION:1st Ave and Vintage Valley Parkway\, Zillah\, WA
+DESCRIPTION:Wanted 96 people to defend The Constitution of the United Stat
+ es of America by peacefully waving flags and holding signs expressing supp
+ ort.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=1st+Ave+and+
+ Vintage+Valley+Parkway%2C+Zillah%2C+WA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

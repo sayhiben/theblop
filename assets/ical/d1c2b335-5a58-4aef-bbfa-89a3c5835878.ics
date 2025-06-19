@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:089116c8-1382-4f41-b130-eb18485a12c9
+SEQUENCE:0
+DTSTAMP:20250619T000704Z
+DTSTART:20250707T000000
+DTEND:20250707T020000
+SUMMARY:National Mental Health Call Out Sick Day
+LOCATION:\, Nationwide\, Nationwide
+DESCRIPTION:Join us in observing National Mental Health Call Out Sick Day.
+  This is a public call to action to take a break for mental health awarene
+ ss.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+Nationwi
+ de%2C+Nationwide&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

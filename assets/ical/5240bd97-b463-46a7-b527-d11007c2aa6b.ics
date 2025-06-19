@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:362c2363-c83c-4b55-953a-0ffb716d7894
+SEQUENCE:0
+DTSTAMP:20250619T000704Z
+DTSTART:20250704T080000
+DTEND:20250704T100000
+SUMMARY:No Kings 2.0
+LOCATION:\, Nationwide\, Nationwide
+DESCRIPTION:This event aims to reclaim America's promise of freedom and ju
+ stice for all while opposing authoritarianism and corrupt leadership. It's
+  a nationwide movement inviting everyone who believes in true liberty.\n\n
+ Your city\, your streets.
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+Nationwi
+ de%2C+Nationwide&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
