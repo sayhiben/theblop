@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:1e152702-1564-4e15-a702-7c86a0b1af3a
+SEQUENCE:0
+DTSTAMP:20250619T180333Z
+DTSTART:20250727T203000
+DTEND:20250727T223000
+SUMMARY:Lights Out on Dark Money
+LOCATION:\, Denton\, 
+DESCRIPTION:Join us at Denton Square to make your voice heard. Participate
+  in the movement against dark money and vote.\n\nDenton Square
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+Denton%2
+ C+&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

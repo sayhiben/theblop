@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:1b2cea7f-c425-4e7e-b201-58b4a24677c5
+SEQUENCE:0
+DTSTAMP:20250619T180333Z
+DTSTART:20250717T190000
+DTEND:20250717T210000
+SUMMARY:GOOD TROUBLE LIVES ON
+LOCATION:\, Denton\, Nationwide
+DESCRIPTION:Join us at Denton Square as we stand together to protect civil
+  rights. Bring a friend for door prizes!\n\nDenton Square
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+Denton%2
+ C+Nationwide&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

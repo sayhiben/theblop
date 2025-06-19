@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:a663a0f6-a14f-48d3-a922-d3abf6c14222
+SEQUENCE:0
+DTSTAMP:20250619T180333Z
+DTSTART:20250720T160000
+DTEND:20250720T180000
+SUMMARY:Poster Making
+LOCATION:2201 S Interstate 35\, Denton\, TX
+DESCRIPTION:Join us for a creative session to design posters for the occas
+ ion on July 27. It’s an opportunity to collaborate\, bring your ideas\, 
+ and passionately work towards change.\n\nGolden Triangle
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=2201+S+Inter
+ state+35%2C+Denton%2C+TX&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

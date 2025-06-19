@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:ebbd32d9-7b30-4030-a8a1-526f8c13e34e
+SEQUENCE:0
+DTSTAMP:20250619T180333Z
+DTSTART:20250717T190000
+DTEND:20250717T210000
+SUMMARY:Good Trouble Lives On
+LOCATION:Denton Square\, Denton\, TX
+DESCRIPTION:Join us for a rally to address threats to civil rights. This m
+ ovement is for you. Bring a friend for door prizes!\n\nDenton Square
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Denton+Squar
+ e%2C+Denton%2C+TX&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

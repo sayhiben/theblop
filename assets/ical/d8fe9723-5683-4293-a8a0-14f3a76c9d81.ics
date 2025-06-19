@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:a8903520-c826-4b52-b33c-4a4a914ad461
+SEQUENCE:0
+DTSTAMP:20250619T180333Z
+DTSTART:20250628T090000
+DTEND:20250628T110000
+SUMMARY:Yankee Doodle Parade
+LOCATION:Denton Square\, Denton\, TX
+DESCRIPTION:Join us this year for a live parade! Dress in red\, white\, & 
+ blue.\n\nDenton Square
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Denton+Squar
+ e%2C+Denton%2C+TX&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

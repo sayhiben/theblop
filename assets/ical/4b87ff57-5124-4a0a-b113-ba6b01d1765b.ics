@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:1f2754b5-4057-4de1-a037-53283dd75a87
+SEQUENCE:0
+DTSTAMP:20250619T180333Z
+DTSTART:20250704T090000
+DTEND:20250704T110000
+SUMMARY:No Kings Community Rally
+DESCRIPTION:Join us for a community rally as we stand together under the t
+ heme "No Kings\," advocating for unity and communal strength.\n\nUNT Pedes
+ trian Bridge
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=&zoom=15&bas
+ emap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
