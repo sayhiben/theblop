@@ -2,17 +2,16 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:9d3947c8-f5bd-4d95-8baa-bbbd7362ca05
+UID:f426cba0-db3d-4644-b2aa-618ff0fd5522
 SEQUENCE:0
 DTSTAMP:20250620T150534Z
 DTSTART:20250704T080000
 DTEND:20250704T100000
-SUMMARY:No Kings 2.0
+SUMMARY:4TH OF JULY DAY OF COMMUNITY
 LOCATION:\, Nationwide\, Nationwide
-DESCRIPTION:This event aims to reclaim America's promise of freedom and ju
- stice for all while opposing authoritarianism and corrupt leadership. It's
-  a nationwide movement inviting everyone who believes in true liberty.\n\n
- Your city\, your streets.
+DESCRIPTION:This event is a nationwide community gathering taking place on
+  Independence Day. Participants are encouraged to find their state group t
+ hrough the indicated website.\n\n
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+Nationwi
  de%2C+Nationwide&zoom=15&basemap=roadmap
 STATUS:CONFIRMED

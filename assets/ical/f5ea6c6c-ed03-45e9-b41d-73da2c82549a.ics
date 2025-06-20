@@ -2,15 +2,16 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:9112dd22-4955-4402-89df-6d2effa301d7
+UID:290fe825-fe6e-4592-90ee-b74995143c2c
 SEQUENCE:0
 DTSTAMP:20250620T150534Z
-DTSTART:20250701T000000
-DTEND:20250701T020000
-SUMMARY:Nationwide Call: Sick of ICE
+DTSTART:20250704T000000
+DTEND:20250704T020000
+SUMMARY:No Kings 2.0 National Protest
 LOCATION:\, Nationwide\, Nationwide
-DESCRIPTION:We are organizing a nationwide protest to call out sick in sol
- idarity against ICE. Support immigrant businesses and street vendors.\n\n
+DESCRIPTION:A national protest to promote independence without tyranny\, c
+ hallenging leaders above the law\, aiming to reclaim America’s promise.\
+ n\n
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+Nationwi
  de%2C+Nationwide&zoom=15&basemap=roadmap
 STATUS:CONFIRMED
