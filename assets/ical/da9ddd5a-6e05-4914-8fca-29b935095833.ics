@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:9c25b205-6735-444c-94ed-43ebc2506e01
+SEQUENCE:0
+DTSTAMP:20250620T060332Z
+DTSTART:20250628T090000
+DTEND:20250628T110000
+SUMMARY:No Cake for Elon!
+LOCATION:1606 N. Lincoln Ave\, Loveland\, CO
+DESCRIPTION:We are hosting a protest event where attendees will eat cake i
+ n defiance against the rich. Join us at the Loveland Tesla Dealership side
+ walks to show dissatisfaction with billionaires getting richer while other
+ s struggle.\n\nThe sidewalks around the Loveland Tesla Dealership
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=1606+N.+Linc
+ oln+Ave%2C+Loveland%2C+CO&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
