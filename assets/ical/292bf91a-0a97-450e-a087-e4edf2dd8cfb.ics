@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:fa592d9b-7b45-4488-920c-9e86223d3ac8
+SEQUENCE:0
+DTSTAMP:20250622T120336Z
+DTSTART:20250624T143000
+DTEND:20250624T163000
+SUMMARY:Portland City Council Community and Public Safety Committee Meetin
+ g
+LOCATION:1221 SW 4th Ave\, Portland\, OR
+DESCRIPTION:Join Councillor Sameer Kanal and others for the first Portland
+  City Council discussion and presentation about ICE in Portland and what i
+ t means to be a sanctuary city. Show up to put pressure on city councillor
+ s to take action against illegal ICE detentions.\n\nCity Council Chambers\
+ , Second Floor Auditorium
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=1221+SW+4th+
+ Ave%2C+Portland%2C+OR&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
