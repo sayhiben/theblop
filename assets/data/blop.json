@@ -232,6 +232,26 @@
     "raw_summary": "The image is a flyer promoting a town hall meeting organized by Washoe DEMS, scheduled for Friday, June 27 at 6:00 PM at Washoe DEMS HQ, 1465 Terminal Way #1, Reno, Nevada. The event is part of the 'Fighting for the People Tour,' and encourages joining the Executive Board to discuss current administration challenges."
   },
   {
+    "id": "527e7f27-52d9-49f7-994b-63736c4862ea",
+    "title": "The Big BeUTAHful Protest",
+    "date": "Friday, June 27, 2025",
+    "time": "3:00 PM",
+    "description": "This protest event aims to advocate for the protection of public lands.",
+    "city": "Salt Lake City",
+    "state": "UT",
+    "address": "The State Capitol",
+    "meeting_location": "The State Capitol",
+    "links": [],
+    "sponsors": [],
+    "image_url": "https://theblop.org/assets/images/527e7f27-52d9-49f7-994b-63736c4862ea.jpg",
+    "thumbnail_url": "https://theblop.org/assets/images/527e7f27-52d9-49f7-994b-63736c4862ea-thumb.jpg",
+    "canonical_id": "",
+    "permalink": "https://theblop.org/events/527e7f27-52d9-49f7-994b-63736c4862ea.html",
+    "ical": "https://theblop.org/assets/ical/527e7f27-52d9-49f7-994b-63736c4862ea.ics",
+    "raw_text": "PROTECT PUBLIC LANDS\n\nThe Big BeUTAHful PROTEST\n\nFRIDAY @ 3PM\n\nJUNE 27th • @ the STATE CAPITOL",
+    "raw_summary": "The flyer announces a protest to protect public lands. It's titled \"The Big BeUTAHful Protest\" and is scheduled for June 27th at 3 PM, located at the State Capitol."
+  },
+  {
     "id": "0ef85666-6f0e-4e1d-9120-ea3055bcd6e6",
     "title": "Protest Festival",
     "date": "Saturday, June 28, 2025",
@@ -1037,6 +1057,29 @@
     "ical": "https://theblop.org/assets/ical/5262a75f-9034-434a-82ea-0a74c9f4302f.ics",
     "raw_text": "GOOD TROUBLE LIVES ON\nCIVIL RIGHTS ARE UNDER ATTACK. THIS MOVEMENT IS FOR YOU. BRING A FRIEND FOR DOOR PRIZES!\n7/17/25 | 7:00 PM – 9:00 PM | DENTON SQUARE",
     "raw_summary": "The image promotes an event titled 'Good Trouble Lives On,' addressing civil rights concerns. The event will take place on July 17, 2025, from 7:00 PM to 9:00 PM at Denton Square."
+  },
+  {
+    "id": "4379e034-f175-460c-ace8-087c0c545432",
+    "title": "Good Trouble Lives On",
+    "date": "Saturday, July 19, 2025",
+    "time": "12:00 PM",
+    "description": "Join the national call to action following the legacy of John Lewis with a protest rally.",
+    "city": "Greensburg",
+    "state": "PA",
+    "address": "Westmoreland County Courthouse",
+    "meeting_location": "Westmoreland County Courthouse",
+    "links": [
+      "www.wtfcanidowestmoreland.org",
+      " GoodTroubleLivesOn.org"
+    ],
+    "sponsors": [],
+    "image_url": "https://theblop.org/assets/images/4379e034-f175-460c-ace8-087c0c545432.png",
+    "thumbnail_url": "https://theblop.org/assets/images/4379e034-f175-460c-ace8-087c0c545432-thumb.jpg",
+    "canonical_id": "",
+    "permalink": "https://theblop.org/events/4379e034-f175-460c-ace8-087c0c545432.html",
+    "ical": "https://theblop.org/assets/ical/4379e034-f175-460c-ace8-087c0c545432.ics",
+    "raw_text": "PROTEST RALLY\nGREENSBURG, PA\n📍 WESTMORELAND COUNTY COURTHOUSE\n📅 JULY 19\n12-2PM\n\nJOIN THE NATIONAL CALL TO ACTION FOLLOWING THE LEGACY OF JOHN LEWIS.\n\nGood Trouble Lives On\n\nwww.wtfcanidowestmoreland.org\nMARCH IN PEACE. ACT IN POWER.\nGoodTroubleLivesOn.org",
+    "raw_summary": "The image advertises a protest rally called \"Good Trouble Lives On\" happening in Greensburg, PA at the Westmoreland County Courthouse on July 19 from 12 PM to 2 PM. It aims to honor the legacy of John Lewis with a national call to action."
   },
   {
     "id": "9501febe-b2d4-4d0b-ba6e-fb5bab3b7256",

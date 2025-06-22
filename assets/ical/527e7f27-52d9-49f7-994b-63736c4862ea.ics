@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:c939703b-ed63-41ad-9091-4b2c9a4829ae
+SEQUENCE:0
+DTSTAMP:20250622T180324Z
+DTSTART:20250627T150000
+DTEND:20250627T170000
+SUMMARY:The Big BeUTAHful Protest
+LOCATION:The State Capitol\, Salt Lake City\, UT
+DESCRIPTION:This protest event aims to advocate for the protection of publ
+ ic lands.\n\nThe State Capitol
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=The+State+Ca
+ pitol%2C+Salt+Lake+City%2C+UT&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

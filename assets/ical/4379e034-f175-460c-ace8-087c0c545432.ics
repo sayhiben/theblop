@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:bf6f9b26-f219-4e9c-a4eb-187328608110
+SEQUENCE:0
+DTSTAMP:20250622T180324Z
+DTSTART:20250719T120000
+DTEND:20250719T140000
+SUMMARY:Good Trouble Lives On
+LOCATION:Westmoreland County Courthouse\, Greensburg\, PA
+DESCRIPTION:Join the national call to action following the legacy of John 
+ Lewis with a protest rally.\n\nWestmoreland County Courthouse
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Westmoreland
+ +County+Courthouse%2C+Greensburg%2C+PA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
