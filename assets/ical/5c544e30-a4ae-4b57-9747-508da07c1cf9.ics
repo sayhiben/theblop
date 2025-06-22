@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:fb96caf0-0406-4f8b-8f4c-f5a8d035318b
+SEQUENCE:0
+DTSTAMP:20250622T210315Z
+DTSTART:20250622T160000
+DTEND:20250622T180000
+SUMMARY:STOP the WAR ON IRAN!
+LOCATION:Capitol Steps\, Salt Lake City\, UT
+DESCRIPTION:Join us in protest to stop the war on Iran and highlight the a
+ ctions of Trump as a war criminal.\n\nCapitol Steps
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Capitol+Step
+ s%2C+Salt+Lake+City%2C+UT&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
