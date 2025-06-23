@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:6b847eb4-180c-4291-9647-74de3d620788
+SEQUENCE:0
+DTSTAMP:20250623T000708Z
+DTSTART:20250627T170000
+DTEND:20250627T190000
+SUMMARY:Equality for All
+LOCATION:Corner of N. Normandy & Saxon\, Deltona\, FL
+DESCRIPTION:We are gathering to celebrate Pride and fight against fascism.
+ \n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Corner+of+N.
+ +Normandy+%26+Saxon%2C+Deltona%2C+FL&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

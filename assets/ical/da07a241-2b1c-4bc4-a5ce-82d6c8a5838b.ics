@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:3d962f57-c77f-4a4e-85e9-fa35af4fb829
+SEQUENCE:0
+DTSTAMP:20250623T000708Z
+DTSTART:20250628T130000
+DTEND:20250628T150000
+SUMMARY:Equality For All
+LOCATION:Corner of Enterprise & Saxon\, Orange City\, FL
+DESCRIPTION:Celebrate Pride and fight fascism with the community.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Corner+of+En
+ terprise+%26+Saxon%2C+Orange+City%2C+FL&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:109ef459-3016-47bf-b3f3-2d69ccb5df15
+SEQUENCE:0
+DTSTAMP:20250623T000708Z
+DTSTART:20250628T100000
+DTEND:20250628T120000
+SUMMARY:EQUALITY FOR ALL
+LOCATION:Corner of Woodland and New York\, DeLand\, FL
+DESCRIPTION:Celebrate Pride and fight fascism at our upcoming event. Join 
+ us on June 28 at the corner of Woodland and New York for community solidar
+ ity from 10:00 AM to 12:00 PM.\n\nCorner of Woodland and New York
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Corner+of+Wo
+ odland+and+New+York%2C+DeLand%2C+FL&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

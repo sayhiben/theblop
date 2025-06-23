@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:f1d4c499-c12c-48d2-8ff5-34816d85dab9
+SEQUENCE:0
+DTSTAMP:20250623T000708Z
+DTSTART:20250626T160000
+DTEND:20250626T180000
+SUMMARY:Stand Up for the Disappeared
+LOCATION:100100 Overseas Highway\, Key Largo\, Key Largo\, FL
+DESCRIPTION:Join us in standing up against Trump's illegal abductions\, de
+ tentions\, and deportations. We encourage participants to bring posters hi
+ ghlighting disappearances as part of a self-directed\, peaceful protest.\n
+ \nKey Largo Post Office
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=100100+Overs
+ eas+Highway%2C+Key+Largo%2C+Key+Largo%2C+FL&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

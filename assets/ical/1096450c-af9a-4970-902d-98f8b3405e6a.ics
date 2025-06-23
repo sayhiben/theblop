@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:3662132b-7fa6-44c3-89af-884ca0019e34
+SEQUENCE:0
+DTSTAMP:20250623T000708Z
+DTSTART:20250704T000000
+DTEND:20250704T020000
+SUMMARY:National Day of Protest
+LOCATION:\, Nationwide\, Nationwide
+DESCRIPTION:Join us on July 4\, 2025\, for a nationwide protest in Washing
+ ton DC\, at state capitols\, city halls\, and town halls\, advocating for 
+ independence from Trump.\n\nWashington DC\, state capitols\, city halls\, 
+ town halls
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+Nationwi
+ de%2C+Nationwide&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
