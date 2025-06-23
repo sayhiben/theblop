@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:de46fc9c-e22f-465d-bb2b-8632ea82d591
+SEQUENCE:0
+DTSTAMP:20250623T033018Z
+DTSTART:20250623T160000
+DTEND:20250623T180000
+SUMMARY:Art Build
+LOCATION:4310 S. Macadam Ave\, Portland\, OR
+DESCRIPTION:Join us to create signs and banners for the 'ICE OUT OF PORTLA
+ ND' camp and the upcoming city council meeting. Bring your own cardboard a
+ nd art supplies to contribute.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=4310+S.+Maca
+ dam+Ave%2C+Portland%2C+OR&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
