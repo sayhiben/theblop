@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:7ab70fe9-9e45-4229-a0e9-76a62094332f
+SEQUENCE:0
+DTSTAMP:20250623T060330Z
+DTSTART:20250625T110000
+DTEND:20250625T130000
+SUMMARY:Defend Democracy + Defeat Young Kim
+LOCATION:Corner of La Paz / Marguerite\, Mission Viejo\, CA
+DESCRIPTION:Join our weekly protest to defeat the Trump regime and unseat 
+ Rep. Young Kim in CA40.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Corner+of+La
+ +Paz+%2F+Marguerite%2C+Mission+Viejo%2C+CA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
