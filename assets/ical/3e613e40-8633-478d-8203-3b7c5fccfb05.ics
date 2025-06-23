@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:9ed150b8-8135-47e2-8769-4867addad2c7
+SEQUENCE:0
+DTSTAMP:20250623T180334Z
+DTSTART:20250628T120000
+DTEND:20250628T140000
+SUMMARY:Save Our Canyons
+LOCATION:3450 Little Cottonwood Rd\, 3865 Big Cottonwood Cyn Rd\, Sandy\, 
+ Cottonwood Heights\, UT
+DESCRIPTION:Join us in protesting\, gathering signatures\, and spreading a
+ wareness about saving canyons. The events are scheduled for June 28th and 
+ 29th with flexible attendance.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=3450+Little+
+ Cottonwood+Rd%2C+3865+Big+Cottonwood+Cyn+Rd%2C+Sandy%2C+Cottonwood+Heights
+ %2C+UT&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
