@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:d8d9e7fc-cee4-4e36-bb83-5e28fe7c5327
+SEQUENCE:0
+DTSTAMP:20250624T000654Z
+DTSTART:20250715T161500
+DTEND:20250715T181500
+SUMMARY:Corner Protest
+LOCATION:2601 S College Ave\, Fort Collins\, CO
+DESCRIPTION:Join us for a recurring protest every Tuesday and Thursday\, f
+ ocusing on positive engagement and protecting democracy.\n\nSW Corner of D
+ rake and College
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=2601+S+Colle
+ ge+Ave%2C+Fort+Collins%2C+CO&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
