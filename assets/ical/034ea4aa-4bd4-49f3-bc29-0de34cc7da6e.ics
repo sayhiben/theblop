@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:477a5c45-67d2-4a66-8281-6b7293186126
+SEQUENCE:0
+DTSTAMP:20250624T210315Z
+DTSTART:20250704T100000
+DTEND:20250704T120000
+SUMMARY:Get Patriotic with Utah Overpass Action!
+LOCATION:316 E. Winchester Street (64th South)\, adjacent to Red Robin
+DESCRIPTION:Join us for a patriotic demonstration to express national sent
+ iments against monarchy-like leadership. We will display large messages at
+  an overpass location to captivate public attention. Please bring American
+  flags and ensure messages are free from violence or profanity.\n\nPedestr
+ ian Bridge: I-215 & 3rd East
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=316+E.+Winch
+ ester+Street+%2864th+South%29%2C+adjacent+to+Red+Robin&zoom=15&basemap=roa
+ dmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
