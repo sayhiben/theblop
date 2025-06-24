@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:01f0d128-5174-4e81-bcb6-9be900bd750a
+SEQUENCE:0
+DTSTAMP:20250624T180334Z
+DTSTART:20250717T183000
+DTEND:20250717T203000
+SUMMARY:Good Trouble Lives On
+LOCATION:Collier County Courthouse\, Naples\, FL
+DESCRIPTION:Let's get together and make some noise and get in good trouble
+ \, necessary trouble. We demand civil rights for all\, due process for all
+ \, equal rights for all\, addressing issues like voter suppression and mon
+ ey in politics.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Collier+Coun
+ ty+Courthouse%2C+Naples%2C+FL&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

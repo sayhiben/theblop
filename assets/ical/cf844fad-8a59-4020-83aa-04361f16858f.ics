@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:ea850746-e94d-42a0-8882-537064c71434
+SEQUENCE:0
+DTSTAMP:20250624T180334Z
+DTSTART:20250628T160000
+DTEND:20250628T180000
+SUMMARY:Ice Cream Social
+LOCATION:2000 Shorefield Rd\, Wheaton\, MD
+DESCRIPTION:Join us for an afternoon of fun and community!\n\nWheaton Regi
+ onal Park
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=2000+Shorefi
+ eld+Rd%2C+Wheaton%2C+MD&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
