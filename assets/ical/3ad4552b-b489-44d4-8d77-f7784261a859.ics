@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:71e3ac3b-6341-48e5-9b43-2dbe3bdfb000
+SEQUENCE:0
+DTSTAMP:20250624T150334Z
+DTSTART:20250628T100000
+DTEND:20250628T120000
+SUMMARY:No War\, No Genocide\, No Exceptions Rally
+LOCATION:Lucky's Market\, College & Mulberry
+DESCRIPTION:Join us in a demonstration against war and genocide\, emphasiz
+ ing our commitment to peace without exceptions.\n\nLucky's Market\, Colleg
+ e & Mulberry
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Lucky%27s+Ma
+ rket%2C+College+%26+Mulberry&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
