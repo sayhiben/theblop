@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:e1abd61d-5a12-44b2-9ee7-8e5b6fde874c
+SEQUENCE:0
+DTSTAMP:20250625T060346Z
+DTSTART:20250627T160000
+DTEND:20250627T180000
+SUMMARY:2025 Yelm Pride Rally
+LOCATION:1st St & E Yelm Ave\, Yelm\, WA
+DESCRIPTION:Celebrate and support the LGBTQ+ community in Yelm.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=1st+St+%26+E
+ +Yelm+Ave%2C+Yelm%2C+WA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

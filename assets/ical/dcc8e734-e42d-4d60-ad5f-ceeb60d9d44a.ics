@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:36ffe459-ca59-4e20-a768-8f342ec3ba58
+SEQUENCE:0
+DTSTAMP:20250625T060346Z
+DTSTART:20250704T120000
+DTEND:20250704T140000
+SUMMARY:No Kings 2.0
+LOCATION:Walmart sidewalk on Louisiana Ave\, Chehalis\, WA
+DESCRIPTION:Join us for the No Kings 2.0 event to engage in activities and
+  discussions organized by the local community.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Walmart+side
+ walk+on+Louisiana+Ave%2C+Chehalis%2C+WA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
