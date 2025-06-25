@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:79e393f2-e561-4ad2-aa49-0a1cad3c5642
+SEQUENCE:0
+DTSTAMP:20250625T210311Z
+DTSTART:20250705T100000
+DTEND:20250705T120000
+SUMMARY:We the People Will Be Heard
+LOCATION:Travis Park\, San Antonio\, TX
+DESCRIPTION:Join us at Travis Park for a public gathering as we rally to h
+ ave our voices heard. We stand together as a community representing divers
+ e groups such as workers\, educators\, and veterans. There will be a march
+  starting at 11 AM.\n\nTravis Park
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Travis+Park%
+ 2C+San+Antonio%2C+TX&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
