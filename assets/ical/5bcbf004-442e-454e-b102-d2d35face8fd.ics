@@ -2,16 +2,16 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:1223f1b8-d6a7-41da-8079-7632d44c4dee
+UID:87f552d2-1b6b-485e-b038-3d80da8eb4ee
 SEQUENCE:0
 DTSTAMP:20250625T180332Z
 DTSTART:20250625T180000
 DTEND:20250625T200000
-SUMMARY:ICE Out of Portland Community Vigil
+SUMMARY:Ice Out of Portland Community Vigil
 LOCATION:4310 S. Macadam Ave\, Portland\, OR
-DESCRIPTION:Join us for a community vigil to stand against ICE operations 
- in Portland. Bring altar items\, candles\, and protective gear. Share a so
- ng\, story\, or poem by emailing us.\n\n
+DESCRIPTION:Join us for the Ice Out of Portland Community Vigil. Bring alt
+ ar items\, candles\, and protective gear\, and share a song\, story\, or p
+ oem.\n\n
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=4310+S.+Maca
  dam+Ave%2C+Portland%2C+OR&zoom=15&basemap=roadmap
 STATUS:CONFIRMED

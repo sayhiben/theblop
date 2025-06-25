@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:5589c0e3-43cc-4b64-aab6-942857c1b0e3
+SEQUENCE:0
+DTSTAMP:20250625T180332Z
+DTSTART:20250705T120000
+DTEND:20250705T140000
+SUMMARY:Declare Independence from Trump’s Tyranny
+LOCATION:WA State Capitol Bldg\, Tivoli Fountain\, Olympia\, WA
+DESCRIPTION:Come join us for a peaceful protest of Trump’s executive ove
+ rreach! Bring your own sign.\n\nWA State Capitol Bldg\, Tivoli Fountain
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=WA+State+Cap
+ itol+Bldg%2C+Tivoli+Fountain%2C+Olympia%2C+WA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

@@ -42,6 +42,26 @@
     "raw_summary": "The image is a flyer for a community event called \"ICE Out of Portland Community Vigil\" scheduled for Wednesday, June 25 at 6 PM. The address provided is 4310 S. Macadam Ave. Participants are encouraged to bring altar items, candles, and protective gear. There is an invitation to share songs, stories, or poems via email to iceoutofportlandvigil@proton.me."
   },
   {
+    "id": "5bcbf004-442e-454e-b102-d2d35face8fd",
+    "title": "Ice Out of Portland Community Vigil",
+    "date": "Wednesday, June 25, 2025",
+    "time": "6:00 PM",
+    "description": "Join us for the Ice Out of Portland Community Vigil. Bring altar items, candles, and protective gear, and share a song, story, or poem.",
+    "city": "Portland",
+    "state": "OR",
+    "address": "4310 S. Macadam Ave",
+    "meeting_location": "",
+    "links": [],
+    "sponsors": [],
+    "image_url": "https://theblop.org/assets/images/5bcbf004-442e-454e-b102-d2d35face8fd.jpg",
+    "thumbnail_url": "https://theblop.org/assets/images/5bcbf004-442e-454e-b102-d2d35face8fd-thumb.jpg",
+    "canonical_id": "",
+    "permalink": "https://theblop.org/events/5bcbf004-442e-454e-b102-d2d35face8fd.html",
+    "ical": "https://theblop.org/assets/ical/5bcbf004-442e-454e-b102-d2d35face8fd.ics",
+    "raw_text": "ICE OUT OF PORTLAND\nCOMMUNITY VIGIL\n\nWEDNESDAY JUNE 25 @6PM\n4310 S.MACADAM AVE\n\nBRING ALTAR ITEMS, CANDLES &\nPROTECTIVE GEAR\n\nWANT TO SHARE A SONG, STORY OR POEM?\nEMAIL ICEOUTOFPORTLANDVIGIL@PROTON.ME",
+    "raw_summary": "The image promotes a community vigil titled 'Ice Out of Portland.' The event is scheduled for Wednesday, June 25, at 6 PM at 4310 S. Macadam Ave. Participants are encouraged to bring altar items, candles, and protective gear. There is an invitation for attendees to share songs, stories, or poems by contacting the provided email."
+  },
+  {
     "id": "4a6eb422-9cbb-438a-97e3-674688e3034d",
     "title": "Corner Protest",
     "date": "Thursday, June 26, 2025",
@@ -951,6 +971,30 @@
     "ical": "https://theblop.org/assets/ical/c9d7f43d-433c-4f8e-b375-d6a8810ffebd.ics",
     "raw_text": "YOUR COUNTRY NEEDS YOU\n\nAmerica celebrates her birthday on the 4th!\nWe fight for her freedom & democracy on the 5th!\nJoin us at the Macon County Courthouse for our monthly protest:\nJuly 5: 1-3PM",
     "raw_summary": "The image is a call to action for a protest event at Macon County Courthouse on July 5 from 1-3 PM. It mentions celebrating America’s birthday on the 4th and fighting for freedom and democracy on the 5th."
+  },
+  {
+    "id": "a6999fc8-11cc-490d-bc25-f39df3f7cdb7",
+    "title": "Declare Independence From Trump’s Tyranny",
+    "date": "Saturday, July 5, 2025",
+    "time": "12:00 PM",
+    "description": "Come join us for a peaceful protest of Trump’s executive overreach! Bring your own sign.",
+    "city": "Olympia",
+    "state": "WA",
+    "address": "WA State Capitol Bldg, Tivoli Fountain",
+    "meeting_location": "WA State Capitol Bldg, Tivoli Fountain",
+    "links": [
+      "[]"
+    ],
+    "sponsors": [
+      "OLY RESISTORS"
+    ],
+    "image_url": "https://theblop.org/assets/images/a6999fc8-11cc-490d-bc25-f39df3f7cdb7.png",
+    "thumbnail_url": "https://theblop.org/assets/images/a6999fc8-11cc-490d-bc25-f39df3f7cdb7-thumb.jpg",
+    "canonical_id": "",
+    "permalink": "https://theblop.org/events/a6999fc8-11cc-490d-bc25-f39df3f7cdb7.html",
+    "ical": "https://theblop.org/assets/ical/a6999fc8-11cc-490d-bc25-f39df3f7cdb7.ics",
+    "raw_text": "[5th of July] DECLARE INDEPENDENCE FROM TRUMP’S TYRANNY Where: WA State Capitol Bldg, Tivoli Fountain When: July 5th, 12pm-2pm Come join us for a peaceful protest of Trump’s executive overreach! BYO Sign OLY RESISTORS",
+    "raw_summary": "The image is a flyer for a protest event titled \"Declare Independence from Trump’s Tyranny\" happening on July 5th at the WA State Capitol Bldg, Tivoli Fountain. Participants are encouraged to join a peaceful protest with their own signs."
   },
   {
     "id": "d1c2b335-5a58-4aef-bbfa-89a3c5835878",
