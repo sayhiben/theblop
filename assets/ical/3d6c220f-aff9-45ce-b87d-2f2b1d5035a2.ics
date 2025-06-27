@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:d8d6fcf9-73fb-4498-a5fa-72d96fdd455e
+SEQUENCE:0
+DTSTAMP:20250627T060332Z
+DTSTART:20250628T170000
+DTEND:20250628T190000
+SUMMARY:Trans Liberation March
+LOCATION:800 W Buena\, Chicago\, IL
+DESCRIPTION:Join us for the Trans Liberation March hosted by Stop Trans Ge
+ nocide Chicago. This event will feature speakers\, performers\, and a beac
+ h outing afterward. Remember to bring water\, sunscreen\, and a mask.\n\nH
+ aymarket House
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=800+W+Buena%
+ 2C+Chicago%2C+IL&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
