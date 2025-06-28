@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:a0e9b6a3-c3ac-4acb-95f3-4b97f051c409
+SEQUENCE:0
+DTSTAMP:20250628T210318Z
+DTSTART:20250629T160000
+DTEND:20250629T180000
+SUMMARY:Surf's Up Sunday
+LOCATION:I-95 and RT 22 Overpass\, Aberdeen\, MD
+DESCRIPTION:In the US\, we are witnessing the rising tide of authoritarian
+ ism that has eroded democratic norms and is restricting basic civil rights
+ . Join us at the I-95/Rt.22 overpass to call out these damaging actions an
+ d make it clear we will not just "get over it"! Bring your own sign or bor
+ row one of ours as we work together to make some waves and turn the tide. 
+ Together\, we can\; together we will!\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=I-95+and+RT+
+ 22+Overpass%2C+Aberdeen%2C+MD&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

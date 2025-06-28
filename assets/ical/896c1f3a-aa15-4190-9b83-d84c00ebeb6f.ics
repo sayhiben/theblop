@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:ee18aaa0-439a-40b3-add6-2ecaa13cc2b2
+SEQUENCE:0
+DTSTAMP:20250628T210318Z
+DTSTART:20250701T160000
+DTEND:20250701T180000
+SUMMARY:Rush Hour Resistance
+LOCATION:I-95 and RT 22 Overpass\, park across from Royal Farms\, 3710 Chu
+ rchville Rd Aberdeen\, MD
+DESCRIPTION:Join us every Tuesday for Rush Hour Resistance at the Route 22
+  overpass at I-95. We gather to remind neighbors of the national emergency
+  and stand for truth\, justice\, and compassion.\n\nI-95 and RT 22 Overpas
+ s
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=I-95+and+RT+
+ 22+Overpass%2C+park+across+from+Royal+Farms%2C+3710+Churchville+Rd+Aberdee
+ n%2C+MD&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
