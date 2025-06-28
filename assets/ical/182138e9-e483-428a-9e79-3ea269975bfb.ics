@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:d1937dd1-3f90-4865-ae5c-457963c710a5
+SEQUENCE:0
+DTSTAMP:20250628T060335Z
+DTSTART:20250707T163000
+DTEND:20250707T183000
+SUMMARY:Olympia Visibility Brigade Protest
+LOCATION:Pedestrian bridge over I-5\, Lacey\, WA
+DESCRIPTION:Join us for a public protest hosted by the Olympia Visibility 
+ Brigade. Bring your protest signs\, costumes\, and enthusiasm as we stand 
+ up for democracy.\n\nPedestrian bridge over I-5
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Pedestrian+b
+ ridge+over+I-5%2C+Lacey%2C+WA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

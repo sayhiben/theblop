@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:57fc9d5c-2f8c-49cc-b52b-8691fd398bae
+SEQUENCE:0
+DTSTAMP:20250628T060335Z
+DTSTART:20250712T120000
+DTEND:20250712T140000
+SUMMARY:Olympia Visibility Brigade
+LOCATION:\, Tumwater\, WA
+DESCRIPTION:Join us weekly for protests with signs\, flags\, and costumes 
+ at various locations including Capitol protests and overpasses in the Olym
+ pia-Tumwater-Lacey area.\n\nPedestrian bridge over I-5\, Tumwater (near Ho
+ me Depot)
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+Tumwater
+ %2C+WA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
