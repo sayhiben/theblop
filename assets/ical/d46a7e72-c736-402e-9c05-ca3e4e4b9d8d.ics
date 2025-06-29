@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:b6ff1fcc-dbe4-42cf-a9d3-c4acb6b6461c
+SEQUENCE:0
+DTSTAMP:20250629T180329Z
+DTSTART:20250705T100000
+DTEND:20250705T120000
+SUMMARY:I Said No Kings
+LOCATION:\, DeLand\, FL
+DESCRIPTION:Join us in DeLand to reclaim freedom and stand against monarch
+ y. Participate in this gathering to express anti-monarchy sentiments.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+DeLand%2
+ C+FL&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
