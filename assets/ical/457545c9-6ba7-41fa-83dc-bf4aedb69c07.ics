@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:fc4faa9a-04f7-4e63-b199-d83d4742a80b
+SEQUENCE:0
+DTSTAMP:20250630T060403Z
+DTSTART:20250705T150000
+DTEND:20250705T170000
+SUMMARY:Celebrate America Rally
+LOCATION:Medina Square\, Medina\, OH
+DESCRIPTION:We are holding a rally to showcase the essence of democracy in
+  the United States\, emphasizing freedom and bravery.\n\nMedina Square
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Medina+Squar
+ e%2C+Medina%2C+OH&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
