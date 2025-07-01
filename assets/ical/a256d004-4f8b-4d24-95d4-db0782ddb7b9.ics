@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:b33d4ad4-4a12-47b8-8e7e-760975209222
+SEQUENCE:0
+DTSTAMP:20250701T033150Z
+DTSTART:20250712T123000
+DTEND:20250712T143000
+SUMMARY:50 Days of Shame
+LOCATION:Under I/30 Overpass\, Near DT Courtyard Hotel\, Little Rock\, AR
+DESCRIPTION:The event "50 Days of Shame" aims to unify voices under the th
+ eme "One State One Voice" and will be held in Little Rock\, Arkansas.\n\nU
+ nder I/30 Overpass\, Near DT Courtyard Hotel
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Under+I%2F30
+ +Overpass%2C+Near+DT+Courtyard+Hotel%2C+Little+Rock%2C+AR&zoom=15&basemap=
+ roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
