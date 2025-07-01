@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:f8306534-207c-4075-9855-0770ac8223e9
+SEQUENCE:0
+DTSTAMP:20250701T180351Z
+DTSTART:20250705T130000
+DTEND:20250705T150000
+SUMMARY:FOX LIES\, DEMOCRACY DIES
+LOCATION:100 Speer Blvd\, Denver\, CO
+DESCRIPTION:Join us to tell Fox: Stop hurting America. Bring a sign and pe
+ acefully protest Fox lies.\n\nFOX 31 Studio
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=100+Speer+Bl
+ vd%2C+Denver%2C+CO&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

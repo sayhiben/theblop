@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:39ed0c2c-3f41-4a19-a375-91611774c61b
+SEQUENCE:0
+DTSTAMP:20250701T180351Z
+DTSTART:20250704T110000
+DTEND:20250704T130000
+SUMMARY:Make Lunch Not War
+LOCATION:MacGregor Park\, Houston\, TX
+DESCRIPTION:Join us for a community celebration on the 4th of July with fo
+ od\, a swap meet\, and more at MacGregor Park.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=MacGregor+Pa
+ rk%2C+Houston%2C+TX&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
