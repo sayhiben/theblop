@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:8e12aec5-156a-499a-b4a9-a2e0acb2c75f
+SEQUENCE:0
+DTSTAMP:20250701T000751Z
+DTSTART:20250705T093000
+DTEND:20250705T113000
+SUMMARY:NW Detention Center Caravan
+LOCATION:NW Detention Center\, Tacoma\, WA
+DESCRIPTION:Join La Resistencia for a peaceful car caravan from Portland t
+ o Tacoma to visit the NW Detention Center\, raising awareness and respect 
+ for those detained by ICE.\n\nPortland (starting point)
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=NW+Detention
+ +Center%2C+Tacoma%2C+WA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

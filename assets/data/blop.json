@@ -1,30 +1,5 @@
 [
   {
-    "id": "b641ca97-56a5-4aa4-b756-694faaa8145c",
-    "title": "Olympia Visibility Brigade Protest",
-    "date": "Monday, June 30, 2025",
-    "time": "4:30 PM",
-    "description": "Join us for a protest organized by the Olympia Visibility Brigade. We deploy on weekends and during evening rush hours to raise awareness. Bring your protest signs, flags, and a good mood!",
-    "city": "Tumwater",
-    "state": "WA",
-    "address": "Pedestrian bridge over I-5 (near Home Depot)",
-    "meeting_location": "Pedestrian bridge over I-5, Tumwater (near Home Depot)",
-    "links": [
-      "theblop.org",
-      " backbonecampaign.org"
-    ],
-    "sponsors": [
-      "Olympia Visibility Brigade"
-    ],
-    "image_url": "https://theblop.org/assets/images/b641ca97-56a5-4aa4-b756-694faaa8145c.png",
-    "thumbnail_url": "https://theblop.org/assets/images/b641ca97-56a5-4aa4-b756-694faaa8145c-thumb.jpg",
-    "canonical_id": "",
-    "permalink": "https://theblop.org/events/b641ca97-56a5-4aa4-b756-694faaa8145c.html",
-    "ical": "https://theblop.org/assets/ical/b641ca97-56a5-4aa4-b756-694faaa8145c.ics",
-    "raw_text": "Impatient for the next big protest? Us too! Join us weekly to make good trouble!\nOLYMPIA VISIBILITY BRIGADE\nWe deploy each weekend on overpasses in the Olympia-Tumwater-Lacey area\nWe also deploy on Mondays during evening rush hour\nWe support Capitol protests when possible\nBring your high-viz protest signs, flags, fun costumes, a good mood, and be tolerant of terrible dancing. Introverts welcome!\nUpcoming Event: Monday, June 30th @ 4:30 – 6:30 pm Pedestrian bridge over I-5, Tumwater (near Home Depot)\nDEMOCACY IS UNDER ATTACK STAND UP FIGHT BACK!\nLook for upcoming Olympia Visibility Brigade events at theblop.org and backbonecampaign.org",
-    "raw_summary": "The flyer announces an upcoming event organized by the Olympia Visibility Brigade. It encourages participation in protests in the area, specifically mentioning a deployment event on June 30th at a pedestrian bridge over I-5 in Tumwater. Participants are invited to bring protest signs and join the demonstration."
-  },
-  {
     "id": "3f643dfb-1730-4340-886c-97378f37a223",
     "title": "Corner Protest",
     "date": "Tuesday, July 1, 2025",
@@ -395,6 +370,26 @@
     "raw_summary": "The image promotes \"The People's Independence Day\" event, happening on July 4th at 11 AM at Federal Plaza. It is organized by the Coalition Against the Trump Agenda and calls to fight against specific political issues."
   },
   {
+    "id": "4f6cee6e-c5ec-4933-af88-c88bbaaa4ad7",
+    "title": "No Celebration Under ICE Occupation",
+    "date": "Friday, July 4, 2025",
+    "time": "8:00 PM",
+    "description": "We are gathering to protest against ICE's operations and show solidarity. ICE continues to terrorize our communities and rip families apart. We will stand together against these actions.",
+    "city": "Portland",
+    "state": "OR",
+    "address": "4310 SW Macadam",
+    "meeting_location": "",
+    "links": [],
+    "sponsors": [],
+    "image_url": "https://theblop.org/assets/images/4f6cee6e-c5ec-4933-af88-c88bbaaa4ad7.jpg",
+    "thumbnail_url": "https://theblop.org/assets/images/4f6cee6e-c5ec-4933-af88-c88bbaaa4ad7-thumb.jpg",
+    "canonical_id": "",
+    "permalink": "https://theblop.org/events/4f6cee6e-c5ec-4933-af88-c88bbaaa4ad7.html",
+    "ical": "https://theblop.org/assets/ical/4f6cee6e-c5ec-4933-af88-c88bbaaa4ad7.ics",
+    "raw_text": "NO CELEBRATION UNDER ICE OCCUPATION\nJULY 4, 8PM, 4310 SW MACADAM\n\nICE CONTINUES TO TERRORIZE OUR COMMUNITIES AND RIP FAMILIES APART, WE WILL NOT STAND BY WHILE THESE FASCISTS OPERATE IN OUR STATE\n\nStay safe, stay strong, stay together, stay tight",
+    "raw_summary": "The image is a flyer titled \"No Celebration Under ICE Occupation\" for an event taking place on July 4 at 8 PM at 4310 SW Macadam. The flyer calls to action against ICE operations and highlights solidarity within the community."
+  },
+  {
     "id": "5d594984-6528-4478-bcf1-da6258c410a7",
     "title": "Elbows Up",
     "date": "Saturday, July 5, 2025",
@@ -688,6 +683,31 @@
     "ical": "https://theblop.org/assets/ical/457545c9-6ba7-41fa-83dc-bf4aedb69c07.ics",
     "raw_text": "CELEBRATE\nAMERICA\nRALLY\nSAT, JULY 5TH 3-5 PM\nMEDINA SQUARE\nLET'S SHOW 'EM\nWHAT DEMOCRACY LOOKS LIKE\nIN THE LAND OF THE FREE\nAND HOME OF THE BRAVE!\nNO KINGS SINCE 1776\norganized by\nWe the People\nprodemocracy1776@gmail.com",
     "raw_summary": "The image is a flyer for the 'Celebrate America Rally,' happening on Saturday, July 5th, from 3-5 PM at Medina Square. It's organized by 'We the People' with a patriotic theme."
+  },
+  {
+    "id": "b1a70c7c-93f0-4879-8fdd-d433e3cc712e",
+    "title": "NW Detention Center Caravan",
+    "date": "Saturday, July 5, 2025",
+    "time": "9:30 AM",
+    "description": "Join La Resistencia for a peaceful car caravan from Portland to Tacoma to visit the NW Detention Center, raising awareness and respect for those detained by ICE.",
+    "city": "Tacoma",
+    "state": "WA",
+    "address": "NW Detention Center",
+    "meeting_location": "Portland (starting point)",
+    "links": [
+      "https://forms.gle/pKWPUaT388tH6anP6"
+    ],
+    "sponsors": [
+      "La Resistencia",
+      " Portland Contra Las Deportaciones"
+    ],
+    "image_url": "https://theblop.org/assets/images/b1a70c7c-93f0-4879-8fdd-d433e3cc712e.jpg",
+    "thumbnail_url": "https://theblop.org/assets/images/b1a70c7c-93f0-4879-8fdd-d433e3cc712e-thumb.jpg",
+    "canonical_id": "",
+    "permalink": "https://theblop.org/events/b1a70c7c-93f0-4879-8fdd-d433e3cc712e.html",
+    "ical": "https://theblop.org/assets/ical/b1a70c7c-93f0-4879-8fdd-d433e3cc712e.ics",
+    "raw_text": "#TESLATAKEDOWNPDX\nLA RESISTENCIA\nNW DETENTION CENTER\nJoin us on a car caravan from Portland to Tacoma to visit NW Detention Center, the place where Oregonians are sent by ICE. Local group La Resistencia is having a peaceful event for us to join to respect the people in the center.\nhttps://forms.gle/pKWPUaT388tH6anP6\nDepart Portland 9:30 AM\nDepart Tacoma 3:00 PM\nJULY 5 2025",
+    "raw_summary": "The flyer promotes a car caravan event from Portland to Tacoma organized by La Resistencia to visit the NW Detention Center. The event is scheduled for July 5, 2025."
   },
   {
     "id": "d1c2b335-5a58-4aef-bbfa-89a3c5835878",

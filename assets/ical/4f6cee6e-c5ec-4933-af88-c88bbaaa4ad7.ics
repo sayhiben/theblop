@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:14888cfd-1606-4a35-a924-aca65e870008
+SEQUENCE:0
+DTSTAMP:20250701T000751Z
+DTSTART:20250704T200000
+DTEND:20250704T220000
+SUMMARY:No Celebration Under ICE Occupation
+LOCATION:4310 SW Macadam\, Portland\, OR
+DESCRIPTION:We are gathering to protest against ICE's operations and show 
+ solidarity. ICE continues to terrorize our communities and rip families ap
+ art. We will stand together against these actions.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=4310+SW+Maca
+ dam%2C+Portland%2C+OR&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
