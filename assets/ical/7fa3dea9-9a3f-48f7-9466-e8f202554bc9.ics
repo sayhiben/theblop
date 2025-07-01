@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:3cf95067-b60d-45fc-acae-9450c5fcae03
+SEQUENCE:0
+DTSTAMP:20250701T120402Z
+DTSTART:20250706T170000
+DTEND:20250706T190000
+SUMMARY:Surf's Up Sunday
+LOCATION:I-95 and RT 22 Overpass\, Aberdeen\, MD
+DESCRIPTION:Join us at the I-95/RT.22 overpass to protest the rising tide 
+ of authoritarianism\, bring your own sign or borrow one from us. Together\
+ , we will call out these damaging actions and work to make waves and turn 
+ the tide.\n\nSuggested Parking: Park and Ride Lot\, Rt. 22 and Technology 
+ Drive\, 3663 Churchville Rd  Aberdeen\, MD
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=I-95+and+RT+
+ 22+Overpass%2C+Aberdeen%2C+MD&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
