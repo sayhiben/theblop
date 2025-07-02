@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:997a4e37-240a-4b2a-b6fc-150621099622
+SEQUENCE:0
+DTSTAMP:20250702T000658Z
+DTSTART:20250702T093000
+DTEND:20250702T113000
+SUMMARY:Emergency Rally
+LOCATION:585 W 500 S\, Bountiful / 9067 West 1300 South\, West Jordan\, Bo
+ untiful\, West Jordan\, UT
+DESCRIPTION:Join us for an Emergency Rally to 'Stop the Cuts' with gatheri
+ ngs at locations in Bountiful and West Jordan. Organized by Salt Lake Indi
+ visible\, we aim to address critical issues.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=585+W+500+S%
+ 2C+Bountiful+%2F+9067+West+1300+South%2C+West+Jordan%2C+Bountiful%2C+West+
+ Jordan%2C+UT&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
