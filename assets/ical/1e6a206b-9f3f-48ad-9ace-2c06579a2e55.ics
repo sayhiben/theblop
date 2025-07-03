@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:d143859b-7661-43fe-b1f5-ca2f00615fb1
+SEQUENCE:0
+DTSTAMP:20250703T180328Z
+DTSTART:20250717T170000
+DTEND:20250717T190000
+SUMMARY:Good Trouble Rally
+LOCATION:\, Aberdeen\, MD
+DESCRIPTION:Join us for a sign waving event on Route 40 in Aberdeen. Drive
+  by\, honk\, stay for a few minutes\, drop off donations\, or stay the who
+ le time! Donations of diapers\, wipes\, and diaper cream for local familie
+ s are encouraged.\n\nAmtrak Aberdeen Station
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+Aberdeen
+ %2C+MD&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
