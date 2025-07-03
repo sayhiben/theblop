@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:c364a60c-d055-46c0-a290-7462b211c578
+SEQUENCE:0
+DTSTAMP:20250703T210313Z
+DTSTART:20250704T100000
+DTEND:20250704T120000
+SUMMARY:Fight for Liberty: Our Declaration of Independence
+LOCATION:Hartford State Capitol\, Hartford\, CT
+DESCRIPTION:Join us on July 4th at Hartford State Capitol for "Fight for L
+ iberty: Our Declaration of Independence." We aim to unite and express the 
+ spirit of independence. Attendees are encouraged to bring donations for fa
+ milies in need.\n\nHartford State Capitol
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Hartford+Sta
+ te+Capitol%2C+Hartford%2C+CT&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
