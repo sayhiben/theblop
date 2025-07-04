@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:3ea045d7-13e5-43bf-a782-bf5c8ef6e093
+SEQUENCE:0
+DTSTAMP:20250704T120406Z
+DTSTART:20250704T120000
+DTEND:20250704T140000
+SUMMARY:Live & Virtual Die-In Action
+LOCATION:Pioneer Courthouse Sq.\, Portland\, OR
+DESCRIPTION:We are organizing a die-in action to protest against Medicaid 
+ cuts and healthcare policies that threaten public health\, with a focus on
+  the "Big Beautiful Bill."\n\nPioneer Courthouse Square\, Portland\, OR
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Pioneer+Cour
+ thouse+Sq.%2C+Portland%2C+OR&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

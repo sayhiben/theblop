@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:ddbfe5ed-ccf2-4180-8e96-bd69f9ade937
+SEQUENCE:0
+DTSTAMP:20250704T120406Z
+DTSTART:20250704T110000
+DTEND:20250704T130000
+SUMMARY:Protest!
+LOCATION:Corners of Hwys 101 & 20\, Newport\, OR
+DESCRIPTION:We are organizing a protest to rally against inhumane treatmen
+ t of immigrants\, unregulated pollution\, loss of due process\, healthcare
+  vulnerabilities\, attacks on federal workers\, middle-class affordability
+  issues\, and tax breaks for greedy billionaires. Join us in voicing our c
+ oncerns and demanding change.\n\nparking 208 SW 2nd St
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Corners+of+H
+ wys+101+%26+20%2C+Newport%2C+OR&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
