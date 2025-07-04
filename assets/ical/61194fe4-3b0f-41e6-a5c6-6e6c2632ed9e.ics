@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:6cd02fa0-bba0-4a6b-986f-2ad99c9ad6aa
+SEQUENCE:0
+DTSTAMP:20250704T150324Z
+DTSTART:20250705T080000
+DTEND:20250705T100000
+SUMMARY:Free America Weekend Green Valley Rally
+LOCATION:SE corner of La Cañada and Esperanza\, Green Valley\, AZ
+DESCRIPTION:Join us to voice resistance against the Trump administration. 
+ Please maintain peaceful protests\, and bring signs or purchase them there
+ . Volunteers will be available for assistance. Support the Sahuarita Food 
+ Bank by donating food.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=SE+corner+of
+ +La+Ca%C3%B1ada+and+Esperanza%2C+Green+Valley%2C+AZ&zoom=15&basemap=roadma
+ p
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

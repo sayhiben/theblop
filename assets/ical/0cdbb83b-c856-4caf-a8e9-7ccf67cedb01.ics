@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:1bcbb7db-c6a4-4e4c-80aa-523b6cd2a2b0
+SEQUENCE:0
+DTSTAMP:20250704T150324Z
+DTSTART:20250717T080000
+DTEND:20250717T100000
+SUMMARY:National Day of Good Trouble Lives On
+LOCATION:La Cañada and Esperanza\, Tucson\, AZ
+DESCRIPTION:We are hosting a rally to respond to attacks on civil and huma
+ n rights\, empowering people with the belief that 'In America\, the power 
+ lies with the people.'\n\nLa Cañada and Esperanza
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=La+Ca%C3%B1a
+ da+and+Esperanza%2C+Tucson%2C+AZ&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
