@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:5553d485-9cc6-4bd7-b098-8d5b9ca10258
+SEQUENCE:0
+DTSTAMP:20250704T032533Z
+DTSTART:20250711T180000
+DTEND:20250711T200000
+SUMMARY:The Big Beautiful Backlash Rally + March
+LOCATION:Thomas Square Park\, Savannah\, GA
+DESCRIPTION:Join us for a rally and march to stand together in unity and c
+ elebrate our message. We invite the community to gather\, speak out\, and 
+ make a difference.\n\nThomas Square Park
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Thomas+Squar
+ e+Park%2C+Savannah%2C+GA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
