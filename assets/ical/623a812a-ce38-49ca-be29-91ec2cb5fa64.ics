@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:cd3ce593-998b-4350-a3e3-249145b1ec2f
+SEQUENCE:0
+DTSTAMP:20250705T210316Z
+DTSTART:20250813T173000
+DTEND:20250813T193000
+SUMMARY:Town Hall Announcement
+LOCATION:650 Central Ave. Naples\, FL 34102
+DESCRIPTION:We invite you to voice your concerns and have your questions a
+ nswered regarding community and environmental issues by Commissioner Kowal
+  and Rep. Benaroch.\n\nNaples Regional Library
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=650+Central+
+ Ave.+Naples%2C+FL+34102&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
