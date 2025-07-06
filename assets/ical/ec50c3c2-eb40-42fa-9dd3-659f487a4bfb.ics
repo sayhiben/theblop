@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:b3d10a06-98c9-4292-9ba0-df40f499e6cf
+SEQUENCE:0
+DTSTAMP:20250706T180320Z
+DTSTART:20250712T130000
+DTEND:20250712T150000
+SUMMARY:NO KINGS
+LOCATION:\, Orange City\, FL
+DESCRIPTION:This is an event focusing on the theme "No Kings" in Orange Ci
+ ty\, FL\, likely involving community engagement.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+Orange+C
+ ity%2C+FL&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

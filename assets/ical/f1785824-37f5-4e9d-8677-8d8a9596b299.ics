@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:a40d1dfe-b06d-4e45-b8db-be5c578876c5
+SEQUENCE:0
+DTSTAMP:20250706T180320Z
+DTSTART:20250711T170000
+DTEND:20250711T190000
+SUMMARY:NO KINGS
+LOCATION:\, Deltona\, FL
+DESCRIPTION:Participants will gather in Deltona to express solidarity\, as
+  indicated by the imagery and theme "NO KINGS."\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+Deltona%
+ 2C+FL&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

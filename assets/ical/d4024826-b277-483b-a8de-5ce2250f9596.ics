@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:cc7b7bd3-dc1b-4f08-8dc8-22869cf0f5b7
+SEQUENCE:0
+DTSTAMP:20250706T180320Z
+DTSTART:20250712T100000
+DTEND:20250712T120000
+SUMMARY:No Kings
+LOCATION:\, DeLand\, FL
+DESCRIPTION:Join us for the 'No Kings' event aimed at bringing the communi
+ ty together in DeLand\, Florida.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+DeLand%2
+ C+FL&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
