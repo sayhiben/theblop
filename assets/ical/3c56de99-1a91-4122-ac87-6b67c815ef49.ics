@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:86f2b7b9-540c-4b7d-b68e-6b8c82eba38e
+SEQUENCE:0
+DTSTAMP:20250708T180337Z
+DTSTART:20250717T173000
+DTEND:20250717T193000
+SUMMARY:Good Trouble Lives On
+LOCATION:\, Portland\, OR
+DESCRIPTION:Join us for a rally and march to ICE\, encouraging non-violent
+  resistance to continue the work of John Lewis.\n\nWillamette Park
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+Portland
+ %2C+OR&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:efcb539f-1caa-4887-8518-42e2226ca506
+SEQUENCE:0
+DTSTAMP:20250708T180337Z
+DTSTART:20250719T150000
+DTEND:20250719T170000
+SUMMARY:March to Shut Down ICE
+LOCATION:\, Portland\, OR
+DESCRIPTION:Join us to protest against ICE\, demanding the revocation of p
+ ermits and accountability from the city government. Meet at the Battleship
+  Oregon Memorial.\n\nBattleship Oregon Memorial
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+Portland
+ %2C+OR&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
