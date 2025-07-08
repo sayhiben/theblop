@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:94b14b0d-bb51-4cf3-a5a2-d7b46351ed54
+SEQUENCE:0
+DTSTAMP:20250708T060427Z
+DTSTART:20250714T163000
+DTEND:20250714T183000
+SUMMARY:Olympia Visibility Brigade
+LOCATION:The Kiss\, Percival Landing\, Olympia\, WA
+DESCRIPTION:We organize protests on overpasses and support Capitol protest
+ s. Join us for a special event with signs\, flags\, and fun activities.\n\
+ nThe Kiss\, Percival Landing\, Olympia
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=The+Kiss%2C+
+ Percival+Landing%2C+Olympia%2C+WA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

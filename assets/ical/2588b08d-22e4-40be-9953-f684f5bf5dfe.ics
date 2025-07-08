@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:26b52dc5-14b8-4e64-bb52-565e2493baed
+SEQUENCE:0
+DTSTAMP:20250708T060427Z
+DTSTART:20250721T163000
+DTEND:20250721T183000
+SUMMARY:Olympia Visibility Brigade
+LOCATION:College St SE over I-5\, Lacey\, WA
+DESCRIPTION:Join us weekly to make good trouble. We deploy each weekend on
+  overpasses in the Olympia-Tumwater-Lacey area and also during evening rus
+ h hour on Mondays. We support Capitol protests when possible. Bring your h
+ igh-viz protest signs\, flags\, fun costumes\, and a good mood. Introverts
+  welcome!\n\nPark behind Burger King
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=College+St+S
+ E+over+I-5%2C+Lacey%2C+WA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
