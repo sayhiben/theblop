@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:c63ac2c3-e78c-4539-9715-fd15dbd32a6c
+SEQUENCE:0
+DTSTAMP:20250709T090445Z
+DTSTART:20250802T140000
+DTEND:20250802T160000
+SUMMARY:Tax Wealth Fund Health
+LOCATION:Allen County Courthouse\, Fort Wayne\, IN
+DESCRIPTION:Join us for a rally organized by Indivisible Resist Fort Wayne
+  to support taxing wealth and funding healthcare.\n\nAllen County Courthou
+ se
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Allen+County
+ +Courthouse%2C+Fort+Wayne%2C+IN&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
