@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:21e5ba0a-6025-4fbd-9844-e211c5ce36c1
+SEQUENCE:0
+DTSTAMP:20250711T210316Z
+DTSTART:20250728T120000
+DTEND:20250728T140000
+SUMMARY:Celebrating 57 years of the American Indian Movement
+LOCATION:4310 S Macadam Ave\, Portland\, OR
+DESCRIPTION:Join us as we celebrate 57 years of the American Indian Moveme
+ nt and 500+ years of Indigenous resistance. This event is dedicated to Ind
+ igenous people and their allies.\n\nICE Building
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=4310+S+Macad
+ am+Ave%2C+Portland%2C+OR&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

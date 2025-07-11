@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:3021fd1b-5058-4eb0-979a-9012181dc837
+SEQUENCE:0
+DTSTAMP:20250711T210316Z
+DTSTART:20250727T133000
+DTEND:20250727T153000
+SUMMARY:Solidarity with Immigrants Bike Ride
+LOCATION:Colonel Summers Park\, Portland\, OR
+DESCRIPTION:Join us for a family-paced and no-drop bike ride in solidarity
+  with immigrants. All bikes are welcome for a 6-8 mile ride. \n\nColonel S
+ ummers Park
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Colonel+Summ
+ ers+Park%2C+Portland%2C+OR&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
