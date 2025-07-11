@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:95dca741-e5ab-4f86-a0c2-57ea33c76a56
+SEQUENCE:0
+DTSTAMP:20250711T000652Z
+DTSTART:20250802T130000
+DTEND:20250802T150000
+SUMMARY:We Rise in protest
+LOCATION:253 E Wood St\, Decatur\, IL
+DESCRIPTION:Hate won't make America great! Join us as we protest against T
+ rump's lies\, aiming to stand for truth and unity at Decatur IL Courthouse
+ .\n\nDecatur IL Courthouse
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=253+E+Wood+S
+ t%2C+Decatur%2C+IL&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
