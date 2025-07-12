@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:bfe60af3-806c-41f4-b202-dcb190c85d8b
+SEQUENCE:0
+DTSTAMP:20250712T210306Z
+DTSTART:20250713T120000
+DTEND:20250713T140000
+SUMMARY:Anti-Authoritarian Bracelet Making
+LOCATION:331 E Hickory St\, Denton\, TX
+DESCRIPTION:Join us to make bracelets for rallies\, protests\, and everyda
+ y wear. Supplies provided for free bracelets. Let's meet\, have fun\, and 
+ create together.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=331+E+Hickor
+ y+St%2C+Denton%2C+TX&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
