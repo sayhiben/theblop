@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:b60877c0-335a-4bd2-a13e-fcbca0408393
+SEQUENCE:0
+DTSTAMP:20250713T000740Z
+DTSTART:20250717T190000
+DTEND:20250717T210000
+SUMMARY:Candlelight Vigil
+LOCATION:3344 W Carey\, Las Vegas\, NV
+DESCRIPTION:We invite you to join us for a candlelight vigil at the MLK st
+ atue\, honoring "Good Trouble." The event is hosted by Indivisible Las Veg
+ as and the National Action Network.\n\nThe MLK Statue
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=3344+W+Carey
+ %2C+Las+Vegas%2C+NV&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
