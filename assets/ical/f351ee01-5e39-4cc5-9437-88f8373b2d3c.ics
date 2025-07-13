@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:efcaf0f8-ed26-4d8a-9900-17a27c121b50
+SEQUENCE:0
+DTSTAMP:20250713T210315Z
+DTSTART:20250717T170000
+DTEND:20250717T190000
+SUMMARY:Novi Rally: Good Trouble
+LOCATION:Corner of Grand River Ave & Novi Road\, Novi\, MI
+DESCRIPTION:Bring your signs to rally against attacks on our civil and hum
+ an rights by the Trump administration and to remind them that in America\,
+  the power lies with the people!\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Corner+of+Gr
+ and+River+Ave+%26+Novi+Road%2C+Novi%2C+MI&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
