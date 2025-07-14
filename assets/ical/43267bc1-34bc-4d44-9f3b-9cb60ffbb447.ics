@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:f2a55c41-09fb-4431-b6e8-07e9126a698c
+SEQUENCE:0
+DTSTAMP:20250714T210321Z
+DTSTART:20250719T120000
+DTEND:20250719T140000
+SUMMARY:Good Trouble Rally
+LOCATION:Morehead Fountain Park-Across From Wendy's
+DESCRIPTION:Join us as we commemorate the legacy of Congressman John Lewis
+  by advocating for justice\, voting rights\, and dignity. Communities acro
+ ss the country will gather to continue his fight.\n\nPark at the Courthous
+ e
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Morehead+Fou
+ ntain+Park-Across+From+Wendy%27s&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
