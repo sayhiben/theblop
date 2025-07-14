@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:e9019837-8266-4e8b-8573-49e3ec026dee
+SEQUENCE:0
+DTSTAMP:20250714T060503Z
+DTSTART:20250717T080000
+DTEND:20250717T100000
+SUMMARY:Make Good Trouble with Utah Overpass Action
+LOCATION:Pedestrian Bridge: I-215 & 3rd East\, Salt Lake City\, UT
+DESCRIPTION:Join us for a protest on the pedestrian bridge at I-215 & 3rd 
+ East to make your voice heard. Bring your American flags and take a stand 
+ against tyranny\, with evening protests at the Capitol.\n\nAdjacent to Red
+  Robin at 316 E. Winchester Street (64th South)
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Pedestrian+B
+ ridge%3A+I-215+%26+3rd+East%2C+Salt+Lake+City%2C+UT&zoom=15&basemap=roadma
+ p
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
