@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:2271fbc4-4696-4573-a3f9-b970a7584509
+SEQUENCE:0
+DTSTAMP:20250715T000713Z
+DTSTART:20250717T180000
+DTEND:20250717T200000
+SUMMARY:Rally & March
+LOCATION:400 N Citrus Ave\, Covina\, CA
+DESCRIPTION:Join us for a rally and march organized by SGVOICES to continu
+ e the legacy of 'Good Trouble'.\n\nHeritage Plaza / Civic Center Park
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=400+N+Citrus
+ +Ave%2C+Covina%2C+CA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
