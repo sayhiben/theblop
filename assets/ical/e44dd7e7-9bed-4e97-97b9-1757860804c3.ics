@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:b9436fa2-445b-4135-976a-997e21a5ffef
+SEQUENCE:0
+DTSTAMP:20250715T150400Z
+DTSTART:20250717T173000
+DTEND:20250717T193000
+SUMMARY:March on ICE
+LOCATION:4310 S Macadam Ave\, Portland\, OR
+DESCRIPTION:Join us for a march and rally to protest ICE activities. Bring
+  a flower to represent our kidnapped brethren.\n\nWillamette Park
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=4310+S+Macad
+ am+Ave%2C+Portland%2C+OR&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
