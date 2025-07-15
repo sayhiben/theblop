@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:b473ff32-0cd5-4be5-bb54-e351822ef561
+SEQUENCE:0
+DTSTAMP:20250715T210310Z
+DTSTART:20250718T190000
+DTEND:20250718T210000
+SUMMARY:ICE OUT OF PORTLAND COMMUNITY VIGIL
+LOCATION:4310 S MACADAM\, Portland\, OR
+DESCRIPTION:We invite you to join the community vigil to express solidarit
+ y. Bring items to create a mandala and altar\, as well as protective gear.
+  Share songs\, stories\, or poems.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=4310+S+MACAD
+ AM%2C+Portland%2C+OR&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

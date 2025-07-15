@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:ccf4ddf0-5ecd-405b-a497-e7963af3fe2c
+SEQUENCE:0
+DTSTAMP:20250715T210310Z
+DTSTART:20250726T170000
+DTEND:20250726T190000
+SUMMARY:GAYS EATING THE RICH IN THE PARK
+LOCATION:Laurelhurst Park\, Portland\, OR
+DESCRIPTION:Join us for an engaging event featuring drag\, crafts\, carniv
+ al games\, potluck\, clothing swap\, and book swap. Hosted by PDX Queer Me
+ etup & Rose City Indivisible at Laurelhurst Park.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Laurelhurst+
+ Park%2C+Portland%2C+OR&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
