@@ -1,23 +1,25 @@
 [
   {
-    "id": "64047434-13db-4be5-87ca-52863ed37f31",
-    "title": "Corner Protest",
-    "date": "Tuesday, July 15, 2025",
-    "time": "4:15 PM",
-    "description": "Join us for a recurring protest every Tuesday and Thursday, focusing on positive engagement and protecting democracy.",
-    "city": "Fort Collins",
-    "state": "CO",
-    "address": "2601 S College Ave",
-    "meeting_location": "SW Corner of Drake and College",
+    "id": "d342f3a4-a093-4f58-8694-4c18c2dc77e1",
+    "title": "Revoke the ICE Permit",
+    "date": "Wednesday, July 16, 2025",
+    "time": "5:00 PM",
+    "description": "The Portland City Council is organizing a rally and press conference to demand the revocation of ICE's conditional use permit due to violations. Attendees will gather outside Portland City Hall before moving to the city council meeting.",
+    "city": "Portland",
+    "state": "OR",
+    "address": "1211 SW 5th Ave",
+    "meeting_location": "Portland City Hall",
     "links": [],
-    "sponsors": [],
-    "image_url": "https://theblop.org/assets/images/64047434-13db-4be5-87ca-52863ed37f31.png",
-    "thumbnail_url": "https://theblop.org/assets/images/64047434-13db-4be5-87ca-52863ed37f31-thumb.jpg",
+    "sponsors": [
+      "Portland City Council"
+    ],
+    "image_url": "https://theblop.org/assets/images/d342f3a4-a093-4f58-8694-4c18c2dc77e1.jpg",
+    "thumbnail_url": "https://theblop.org/assets/images/d342f3a4-a093-4f58-8694-4c18c2dc77e1-thumb.jpg",
     "canonical_id": "",
-    "permalink": "https://theblop.org/events/64047434-13db-4be5-87ca-52863ed37f31.html",
-    "ical": "https://theblop.org/assets/ical/64047434-13db-4be5-87ca-52863ed37f31.ics",
-    "raw_text": "Join the Corner Protest every Tuesday and Thursday 4:15-5:45 PM\nSW Corner of Drake and College in Fort Collins\nPositive engagement\nPROTECT DEMOCRACY\nOMG GOP WTF\nRight or Left ... we all know this is WRONG!\nWE THE PEOPLE\nTuesday, July 15, 2025\n4:15 - 5:45 pm\n2601 S College Ave, Fort Collins, CO",
-    "raw_summary": "The flyer advertises a recurring protest event held every Tuesday and Thursday from 4:15 to 5:45 PM at the southwest corner of Drake and College in Fort Collins. It emphasizes themes like 'Protect Democracy' and 'Positive Engagement.'"
+    "permalink": "https://theblop.org/events/d342f3a4-a093-4f58-8694-4c18c2dc77e1.html",
+    "ical": "https://theblop.org/assets/ical/d342f3a4-a093-4f58-8694-4c18c2dc77e1.ics",
+    "raw_text": "PORTLAND CITY COUNCIL\n\nREVOKE THE ICE PERMIT!\n\nPress conference and rally\n\nJuly 16th - 5 PM - Portland City Hall\n1211 SW 5th Ave, Portland\n\nICE has violated the conditional use permit for it's facility on Macadam. Join us as we rally outside of \ncity hall and then go to the city council meeting to demand ICE out of Portland!",
+    "raw_summary": "The flyer announces a press conference and rally organized by the Portland City Council titled \"Revoke the ICE Permit.\" It will take place on July 16th at 5 PM at Portland City Hall, addressing concerns about the ICE facility's use permit violation."
   },
   {
     "id": "cb86b183-a2d3-4fc3-b39a-6cfcc958c0a1",
@@ -446,6 +448,31 @@
     "ical": "https://theblop.org/assets/ical/e44dd7e7-9bed-4e97-97b9-1757860804c3.ics",
     "raw_text": "July 17 March on ICE 5:30 PM Rally in Willamette Park 6:00 PM March, past ICE Office, 4310 S Macadam Ave Bring a flower to represent our kidnapped brethren A Good Trouble Lives On Action",
     "raw_summary": "The flyer announces an event called 'March on ICE,' scheduled for July 17. It includes timing and location details for a rally and a march."
+  },
+  {
+    "id": "86929b06-2558-499f-8722-d7eba0012d11",
+    "title": "Good Trouble Lives On JOHN LEWIS",
+    "date": "Thursday, July 17, 2025",
+    "time": "5:00 PM",
+    "description": "Join us for a rally in honor of John Lewis, focusing on the theme 'Good Trouble Lives On'. We will gather on the corner of 21st Street and 19th Avenue to celebrate his legacy and promote democratic principles.",
+    "city": "Lewiston",
+    "state": "ID",
+    "address": "",
+    "meeting_location": "Corner of 21st Street and 19th Avenue",
+    "links": [
+      "www.asotincodems.org",
+      " www.npcdems.org"
+    ],
+    "sponsors": [
+      "Nez Perce and Asotin County Democrats"
+    ],
+    "image_url": "https://theblop.org/assets/images/86929b06-2558-499f-8722-d7eba0012d11.png",
+    "thumbnail_url": "https://theblop.org/assets/images/86929b06-2558-499f-8722-d7eba0012d11-thumb.jpg",
+    "canonical_id": "",
+    "permalink": "https://theblop.org/events/86929b06-2558-499f-8722-d7eba0012d11.html",
+    "ical": "https://theblop.org/assets/ical/86929b06-2558-499f-8722-d7eba0012d11.ics",
+    "raw_text": "Good Trouble Lives On JOHN LEWIS\nJoin our rally on\nJuly 17th in Lewiston,\non the corner of 21st Street\nand\n19th Avenue,\nat 5 p.m. to 7 p.m.\nSponsored by Nez Perce and Asotin County Democrats\nwww.asotincodems.org\nwww.npcdems.org",
+    "raw_summary": "The flyer announces a rally titled 'Good Trouble Lives On John Lewis' taking place on July 17th in Lewiston, at the corner of 21st Street and 19th Avenue, from 5 p.m. to 7 p.m. It is sponsored by Nez Perce and Asotin County Democrats. Links for more information are provided."
   },
   {
     "id": "95bc9789-fcf0-418b-ad31-9407b519ea01",

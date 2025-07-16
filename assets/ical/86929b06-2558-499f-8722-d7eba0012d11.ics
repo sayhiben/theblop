@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:4a0288ac-a226-4efa-9f04-7c5a25e6e3dd
+SEQUENCE:0
+DTSTAMP:20250716T000709Z
+DTSTART:20250717T170000
+DTEND:20250717T190000
+SUMMARY:Good Trouble Lives On JOHN LEWIS
+LOCATION:\, Lewiston\, ID
+DESCRIPTION:Join us for a rally in honor of John Lewis\, focusing on the t
+ heme 'Good Trouble Lives On'. We will gather on the corner of 21st Street 
+ and 19th Avenue to celebrate his legacy and promote democratic principles.
+ \n\nCorner of 21st Street and 19th Avenue
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+Lewiston
+ %2C+ID&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

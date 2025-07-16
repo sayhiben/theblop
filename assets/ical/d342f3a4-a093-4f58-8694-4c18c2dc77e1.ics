@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:7dd2bb54-ed96-4870-a638-216c132a6b51
+SEQUENCE:0
+DTSTAMP:20250716T000709Z
+DTSTART:20250716T170000
+DTEND:20250716T190000
+SUMMARY:Revoke the ICE Permit
+LOCATION:1211 SW 5th Ave\, Portland\, OR
+DESCRIPTION:The Portland City Council is organizing a rally and press conf
+ erence to demand the revocation of ICE's conditional use permit due to vio
+ lations. Attendees will gather outside Portland City Hall before moving to
+  the city council meeting.\n\nPortland City Hall
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=1211+SW+5th+
+ Ave%2C+Portland%2C+OR&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
