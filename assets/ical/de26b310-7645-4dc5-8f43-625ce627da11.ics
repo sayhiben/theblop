@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:a0ac8977-2db7-47df-8d52-e865a2ded2b4
+SEQUENCE:0
+DTSTAMP:20250716T210328Z
+DTSTART:20250717T163000
+DTEND:20250717T183000
+SUMMARY:Good Trouble Lives On
+LOCATION:Copley Square\, Liberty Mall\, Boston Common\, corner of Park St.
+  and Beacon St.
+DESCRIPTION:On the anniversary of Congressman John Lewis’s passing\, we 
+ take action to defend democracy and carry on his legacy of good trouble by
+  organizing a march and rally.\n\nCopley Square\, Liberty Mall
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Copley+Squar
+ e%2C+Liberty+Mall%2C+Boston+Common%2C+corner+of+Park+St.+and+Beacon+St.&zo
+ om=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
