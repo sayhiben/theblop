@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:e61cf41f-51ca-4a85-9469-b83b7838de16
+SEQUENCE:0
+DTSTAMP:20250717T180344Z
+DTSTART:20250719T130000
+DTEND:20250719T150000
+SUMMARY:GOOD TROUBLE LIVES ON
+LOCATION:\, Orange City\, FL
+DESCRIPTION:We invite you to join us in Orange City\, FL\, from 1 PM to 3 
+ PM\, to honor and continue the legacy of creating 'Good Trouble.'\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+Orange+C
+ ity%2C+FL&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
