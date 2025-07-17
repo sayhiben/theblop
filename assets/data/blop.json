@@ -1,27 +1,5 @@
 [
   {
-    "id": "d342f3a4-a093-4f58-8694-4c18c2dc77e1",
-    "title": "Revoke the ICE Permit",
-    "date": "Wednesday, July 16, 2025",
-    "time": "5:00 PM",
-    "description": "The Portland City Council is organizing a rally and press conference to demand the revocation of ICE's conditional use permit due to violations. Attendees will gather outside Portland City Hall before moving to the city council meeting.",
-    "city": "Portland",
-    "state": "OR",
-    "address": "1211 SW 5th Ave",
-    "meeting_location": "Portland City Hall",
-    "links": [],
-    "sponsors": [
-      "Portland City Council"
-    ],
-    "image_url": "https://theblop.org/assets/images/d342f3a4-a093-4f58-8694-4c18c2dc77e1.jpg",
-    "thumbnail_url": "https://theblop.org/assets/images/d342f3a4-a093-4f58-8694-4c18c2dc77e1-thumb.jpg",
-    "canonical_id": "",
-    "permalink": "https://theblop.org/events/d342f3a4-a093-4f58-8694-4c18c2dc77e1.html",
-    "ical": "https://theblop.org/assets/ical/d342f3a4-a093-4f58-8694-4c18c2dc77e1.ics",
-    "raw_text": "PORTLAND CITY COUNCIL\n\nREVOKE THE ICE PERMIT!\n\nPress conference and rally\n\nJuly 16th - 5 PM - Portland City Hall\n1211 SW 5th Ave, Portland\n\nICE has violated the conditional use permit for it's facility on Macadam. Join us as we rally outside of \ncity hall and then go to the city council meeting to demand ICE out of Portland!",
-    "raw_summary": "The flyer announces a press conference and rally organized by the Portland City Council titled \"Revoke the ICE Permit.\" It will take place on July 16th at 5 PM at Portland City Hall, addressing concerns about the ICE facility's use permit violation."
-  },
-  {
     "id": "cb86b183-a2d3-4fc3-b39a-6cfcc958c0a1",
     "title": "John Lewis Memorial Civil Rights Protest",
     "date": "Thursday, July 17, 2025",
@@ -507,6 +485,28 @@
     "ical": "https://theblop.org/assets/ical/de26b310-7645-4dc5-8f43-625ce627da11.ics",
     "raw_text": "Boston, let’s make Good Trouble.\n\nGood Trouble Lives On\n\nOn the anniversary of Congressman John Lewis’s passing, take action to defend democracy and carry on his legacy of good trouble.\n\nRSVP:\n\n[QR Code]\n\nThu, July 17\n\nMarch:\n4:30pm\n📍Copley Square\n\nRally:\n6pm\n📍Liberty Mall\nBoston Common, corner of Park St. and Beacon St.\n\nAccepting Donations of:\n• Unused medical supplies (lightweight)\n• Socks\n• Individual snacks\n\nSponsors:\nACLU Massachusetts, Mass 501, New Democracy Coalition, Embrace Boston, Indivisible Somerville, Indivisible Mass Coalition, 801 Boston Indivisible, Massachusetts AFL-CIO, Arlington Street Church, UMass Action, Greater Boston Chapter of the AFL-CIO, Good Trouble Boston, Swing Blue Alliance",
     "raw_summary": "The image announces a gathering in Boston titled \"Good Trouble Lives On\" to commemorate Congressman John Lewis’s passing. A march and rally will be held to promote democracy and continue his legacy of \"good trouble\". The event takes place on July 17, starting at Copley Square, moving to Liberty Mall. It involves multiple sponsors and calls for donations of medical supplies, socks, and snacks."
+  },
+  {
+    "id": "e9b0da2c-8503-4608-b8cf-cddd2780f755",
+    "title": "Good Trouble Lives On",
+    "date": "Thursday, July 17, 2025",
+    "time": "9:00 AM",
+    "description": "Join us for a peaceful march and community gathering where we will connect through art, activism, and empowerment. Gather at Houston City Hall, and march to Discovery Green Park.",
+    "city": "Houston",
+    "state": "TX",
+    "address": "901 Bagby",
+    "meeting_location": "Houston City Hall",
+    "links": [],
+    "sponsors": [
+      "5050 Houston"
+    ],
+    "image_url": "https://theblop.org/assets/images/e9b0da2c-8503-4608-b8cf-cddd2780f755.png",
+    "thumbnail_url": "https://theblop.org/assets/images/e9b0da2c-8503-4608-b8cf-cddd2780f755-thumb.jpg",
+    "canonical_id": "",
+    "permalink": "https://theblop.org/events/e9b0da2c-8503-4608-b8cf-cddd2780f755.html",
+    "ical": "https://theblop.org/assets/ical/e9b0da2c-8503-4608-b8cf-cddd2780f755.ics",
+    "raw_text": "GOOD TROUBLE LIVES ON\nMarch in Peace. Act in Power.\nThursday July 17, 2025 9AM – 2PM\nGather at Houston City Hall, 901 Bagby\nConnect thru art, activism, community\nMarch to Discovery Green Park",
+    "raw_summary": "The flyer promotes an event called 'Good Trouble Lives On.' It invites participants to a peaceful march and community gathering focused on art, activism, and community engagement scheduled for July 17, 2025, in Houston, Texas."
   },
   {
     "id": "95bc9789-fcf0-418b-ad31-9407b519ea01",

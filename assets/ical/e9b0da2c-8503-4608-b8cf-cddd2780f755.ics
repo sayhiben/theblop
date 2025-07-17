@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:080379f3-4f76-4202-8973-fc4418ebfd67
+SEQUENCE:0
+DTSTAMP:20250717T001018Z
+DTSTART:20250717T090000
+DTEND:20250717T110000
+SUMMARY:Good Trouble Lives On
+LOCATION:901 Bagby\, Houston\, TX
+DESCRIPTION:Join us for a peaceful march and community gathering where we 
+ will connect through art\, activism\, and empowerment. Gather at Houston C
+ ity Hall\, and march to Discovery Green Park.\n\nHouston City Hall
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=901+Bagby%2C
+ +Houston%2C+TX&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
