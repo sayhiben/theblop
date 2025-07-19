@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:91952351-5f01-4315-8839-e7a29aaa8e28
+SEQUENCE:0
+DTSTAMP:20250719T180325Z
+DTSTART:20250721T173000
+DTEND:20250721T193000
+SUMMARY:Public School Support Drive + Protest
+LOCATION:Tivoli Fountain\, Capitol Campus\, Olympia\, WA
+DESCRIPTION:We are organizing a donation drive and sign-waving event to su
+ pport both North Thurston and Olympia schools. Feel free to bring signs fo
+ cusing on any issue troubling you. All are welcome.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Tivoli+Fount
+ ain%2C+Capitol+Campus%2C+Olympia%2C+WA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
