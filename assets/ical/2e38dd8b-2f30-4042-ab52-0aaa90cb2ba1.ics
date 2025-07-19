@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:abe115dd-c100-45b9-9218-254058760e0b
+SEQUENCE:0
+DTSTAMP:20250719T000708Z
+DTSTART:20250817T120000
+DTEND:20250817T140000
+SUMMARY:Come Together NOCO
+LOCATION:City Park\, Fort Collins\, CO
+DESCRIPTION:We invite families to enjoy food\, resources\, games\, and act
+ ivities while getting involved in the local community.\n\nCity Park: Fort 
+ Collins\, CO
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=City+Park%2C
+ +Fort+Collins%2C+CO&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
