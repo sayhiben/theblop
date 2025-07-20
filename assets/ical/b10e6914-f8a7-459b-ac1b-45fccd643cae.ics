@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:bf61d128-cafc-4d39-b627-2d25da2353ee
+SEQUENCE:0
+DTSTAMP:20250720T000745Z
+DTSTART:20250726T100000
+DTEND:20250726T120000
+SUMMARY:North County Unity Rally & Day of Action
+LOCATION:Corner of N. Coast Hwy & Pier View Way\, Oceanside\, CA
+DESCRIPTION:Join us for the North County Unity Rally & Day of Action to ad
+ vocate for progress and unity. A message and movement for equality and vot
+ ing rights\, featuring speakers from North County's progressive coalitions
+ \, local candidates\, and elected officials. Organized by the Democratic C
+ lub of Carlsbad Oceanside.\n\nOceanside Civic Center
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Corner+of+N.
+ +Coast+Hwy+%26+Pier+View+Way%2C+Oceanside%2C+CA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
