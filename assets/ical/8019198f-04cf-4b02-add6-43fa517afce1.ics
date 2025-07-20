@@ -2,17 +2,15 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:7e6623a5-1274-4015-b02e-931cc2b383c2
+UID:f1d255d4-8484-414e-90be-063b96fbd331
 SEQUENCE:0
 DTSTAMP:20250720T120413Z
 DTSTART:20250802T123000
 DTEND:20250802T143000
-SUMMARY:Rights for All! Civic Engagement
+SUMMARY:Derechos Para Todos! Participación Cívica
 LOCATION:George Washington Park\, Centralia\, WA
-DESCRIPTION:We are organizing a free community event featuring resources a
- nd speakers to support Washington immigrant and migrant rights. The event 
- aims to engage the community and promote civic involvement.\n\nGeorge Wash
- ington Park
+DESCRIPTION:Join us for a free community event offering resources and spea
+ kers in support of immigrants and migrant rights in Washington.\n\n
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=George+Washi
  ngton+Park%2C+Centralia%2C+WA&zoom=15&basemap=roadmap
 STATUS:CONFIRMED
