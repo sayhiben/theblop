@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:c8a54482-857b-46a2-909b-95e27a60516e
+SEQUENCE:0
+DTSTAMP:20250721T180341Z
+DTSTART:20250726T090000
+DTEND:20250726T110000
+SUMMARY:Families First in Zillah\, WA
+LOCATION:1st Avenue & Vintage Valley Parkway\, Zillah\, WA
+DESCRIPTION:Join us for a day of peaceful action to support families acros
+ s the nation. This rally is part of a 50-state initiative to promote famil
+ y well-being and unity.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=1st+Avenue+%
+ 26+Vintage+Valley+Parkway%2C+Zillah%2C+WA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
