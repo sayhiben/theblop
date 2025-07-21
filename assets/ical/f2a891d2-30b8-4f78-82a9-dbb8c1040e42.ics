@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:765a5e2d-ec98-4349-8939-3de91e8d2386
+SEQUENCE:0
+DTSTAMP:20250721T060404Z
+DTSTART:20250802T120000
+DTEND:20250802T140000
+SUMMARY:Rage Against the Regime
+LOCATION:1225 Capitol Way S\, Olympia\, WA
+DESCRIPTION:Join us for a non-violent protest organized by Evergreen Resis
+ tance to stand against the regime. This gathering is a peaceful demonstrat
+ ion.\n\nTivoli Fountain
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=1225+Capitol
+ +Way+S%2C+Olympia%2C+WA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
