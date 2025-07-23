@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:1be58656-4dd8-4c4c-a8cb-7e7077349db3
+SEQUENCE:0
+DTSTAMP:20250723T150403Z
+DTSTART:20250726T170000
+DTEND:20250726T190000
+SUMMARY:Stop Avelo Save the Everglades
+LOCATION:Intersection of Harden Blvd & Town Center Dr\, Lakeland\, FL
+DESCRIPTION:We are organizing a peaceful demonstration to oppose the contr
+ acts awarded to Avelo for removal flights\, which affect the Everglades\, 
+ and to challenge government actions. Join us to stand for the rights of in
+ dividuals and the protection of our environment.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Intersection
+ +of+Harden+Blvd+%26+Town+Center+Dr%2C+Lakeland%2C+FL&zoom=15&basemap=roadm
+ ap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
