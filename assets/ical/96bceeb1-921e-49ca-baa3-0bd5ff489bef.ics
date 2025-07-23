@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:7a91f67e-e9b9-42ae-97f5-130d7de80560
+SEQUENCE:0
+DTSTAMP:20250723T033127Z
+DTSTART:20250725T190000
+DTEND:20250725T210000
+SUMMARY:ANTI- ICE -Protest!
+LOCATION:2975 Decker Lake Dr.\, West Valley City\, UT
+DESCRIPTION:Join us in a protest against ICE practices to demand freedom a
+ nd justice for all.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=2975+Decker+
+ Lake+Dr.%2C+West+Valley+City%2C+UT&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
