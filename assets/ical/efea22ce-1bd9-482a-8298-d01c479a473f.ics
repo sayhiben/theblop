@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:ca1c8cae-098f-4f4d-a668-60b2fd037bcc
+SEQUENCE:0
+DTSTAMP:20250724T000710Z
+DTSTART:20250802T000000
+DTEND:20250802T020000
+SUMMARY:Honk for the Constitution
+LOCATION:1st Ave\, Vintage Valley Parkway\, in front of Burger King\, Zill
+ ah\, WA
+DESCRIPTION:Join us to express support for constitutional principles\; bri
+ ng flags\, signs\, and a non-violent attitude at the traffic light near Bu
+ rger King in Zillah. Participate by briefly stopping by or showing support
+  from your vehicle.\n\nTraffic light at 1st Ave and Vintage Valley Parkway
+ \, in front of Burger King
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=1st+Ave%2C+V
+ intage+Valley+Parkway%2C+in+front+of+Burger+King%2C+Zillah%2C+WA&zoom=15&b
+ asemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
