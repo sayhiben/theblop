@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:d407ae03-f324-43f2-a52b-76369a3113b3
+SEQUENCE:0
+DTSTAMP:20250724T090536Z
+DTSTART:20250726T080000
+DTEND:20250726T100000
+SUMMARY:Families First Las Vegas
+LOCATION:333 S Las Vegas Blvd\, Las Vegas\, NV
+DESCRIPTION:Join us for a community-focused event in Las Vegas to highligh
+ t and support local families. The event will feature activities and engage
+ ments organized by local and national groups.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=333+S+Las+Ve
+ gas+Blvd%2C+Las+Vegas%2C+NV&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
