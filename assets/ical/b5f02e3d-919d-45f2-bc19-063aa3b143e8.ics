@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:a752d82f-7f51-433f-9296-371bca112b79
+SEQUENCE:0
+DTSTAMP:20250724T060339Z
+DTSTART:20250802T110000
+DTEND:20250802T130000
+SUMMARY:Proud to Fight Fascism
+LOCATION:Gravelly Lake Dr SW & Main St SW\, Lakewood\, WA
+DESCRIPTION:We are hosting a national day of non-violent resistance to sta
+ nd against fascism. Join us to make your voice heard.\n\nOutside the Lakew
+ ood Towne Center
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Gravelly+Lak
+ e+Dr+SW+%26+Main+St+SW%2C+Lakewood%2C+WA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
