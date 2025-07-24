@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:0d73c326-fe9e-4c4d-a98b-b9f55ae7e68e
+SEQUENCE:0
+DTSTAMP:20250724T033103Z
+DTSTART:20250802T120000
+DTEND:20250802T140000
+SUMMARY:Rage Against the Regime
+LOCATION:Westmoreland County Courthouse\, Greensburg\, PA
+DESCRIPTION:We encourage the public to join us in a protest against the re
+ gime.\n\nWestmoreland County Courthouse
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Westmoreland
+ +County+Courthouse%2C+Greensburg%2C+PA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
