@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:8285129d-a59a-44cb-a56e-5b9db928f142
+SEQUENCE:0
+DTSTAMP:20250725T060343Z
+DTSTART:20250802T100000
+DTEND:20250802T120000
+SUMMARY:Rage Against the Regime
+LOCATION:Woodland & New York\, DeLand\, FL
+DESCRIPTION:This is an event titled "Rage Against the Regime" promoting a 
+ gathering in DeLand\, FL.\n\nWoodland & New York
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Woodland+%26
+ +New+York%2C+DeLand%2C+FL&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

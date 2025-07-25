@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:36007e24-76b8-4000-af1f-f89af4d0142d
+SEQUENCE:0
+DTSTAMP:20250725T060343Z
+DTSTART:20250802T153000
+DTEND:20250802T173000
+SUMMARY:Dare to Fight Fascism
+LOCATION:\, \, OR
+DESCRIPTION:Join the movement to fight fascism with a canned food drive. W
+ ear red\, white\, or blue and support a local cause.\n\nPeace Corner
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+%2C+OR&z
+ oom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

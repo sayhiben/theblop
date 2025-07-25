@@ -403,6 +403,28 @@
     "raw_summary": "This flyer is an announcement for a recurring protest happening every Tuesday and Thursday. The event location is specified, and the goal is termed as \"positive engagement.\" The flyer mentions a specific date for an upcoming protest."
   },
   {
+    "id": "bf40f1b9-8622-452d-8938-c88b3754322a",
+    "title": "Rage Against The Regime",
+    "date": "Friday, August 1, 2025",
+    "time": "5:00 PM",
+    "description": "The event seems to be a rally or gathering opposing certain policies or governance, given the theme.",
+    "city": "Deltona",
+    "state": "FL",
+    "address": "Saxon & N Normandy",
+    "meeting_location": "Saxon & N Normandy",
+    "links": [],
+    "sponsors": [
+      "5050 Volusia"
+    ],
+    "image_url": "https://theblop.org/assets/images/bf40f1b9-8622-452d-8938-c88b3754322a.png",
+    "thumbnail_url": "https://theblop.org/assets/images/bf40f1b9-8622-452d-8938-c88b3754322a-thumb.jpg",
+    "canonical_id": "",
+    "permalink": "https://theblop.org/events/bf40f1b9-8622-452d-8938-c88b3754322a.html",
+    "ical": "https://theblop.org/assets/ical/bf40f1b9-8622-452d-8938-c88b3754322a.ics",
+    "raw_text": "RAGE AGAINST\nTHE REGIME\nDELTONA, FL\nAUGUST 1 - 5P-7P\nSAXON & N NORMANDY\n5050 Volusia",
+    "raw_summary": "The image is a flyer for an event titled 'Rage Against The Regime' in Deltona, FL, on August 1st, from 5 PM to 7 PM at Saxon & N Normandy, with a logo for '5050 Volusia' and a QR code."
+  },
+  {
     "id": "236a058d-291b-41ff-bbb9-e377f96f0214",
     "title": "Tax Wealth Fund Health",
     "date": "Saturday, August 2, 2025",
@@ -630,6 +652,78 @@
     "ical": "https://theblop.org/assets/ical/b5f02e3d-919d-45f2-bc19-063aa3b143e8.ics",
     "raw_text": "PROUD TO FIGHT FASCISM\nA National Day of Non-violent Resistance\nSaturday, August 2 ♦ 11 am - 1 pm\nOutside the Lakewood Towne Center\nGravelly Lake Dr SW & Main St SW\nLakewood, WA\nSCAN ME\nDEMOCRACY: EARTH: JUSTICE INDIVISIBLE TACOMA",
     "raw_summary": "The event titled \"Proud to Fight Fascism\" involves a national day of non-violent resistance with details including date, time, and location for gathering."
+  },
+  {
+    "id": "12fd23a8-1917-4056-8bb3-5b73eb4aed72",
+    "title": "Race Against the Regime",
+    "date": "Saturday, August 2, 2025",
+    "time": "1:00 PM",
+    "description": "Join us in a protest event against the current regime, fighting for justice and change.",
+    "city": "Orange City",
+    "state": "FL",
+    "address": "Saxon and Enterprise",
+    "meeting_location": "",
+    "links": [
+      "[]"
+    ],
+    "sponsors": [
+      "[]"
+    ],
+    "image_url": "https://theblop.org/assets/images/12fd23a8-1917-4056-8bb3-5b73eb4aed72.png",
+    "thumbnail_url": "https://theblop.org/assets/images/12fd23a8-1917-4056-8bb3-5b73eb4aed72-thumb.jpg",
+    "canonical_id": "",
+    "permalink": "https://theblop.org/events/12fd23a8-1917-4056-8bb3-5b73eb4aed72.html",
+    "ical": "https://theblop.org/assets/ical/12fd23a8-1917-4056-8bb3-5b73eb4aed72.ics",
+    "raw_text": "RACE AGAINST THE REGIME\nPOLICE LINE • DO NOT CROSS • POLICE LINE • DO NOT CROSS • POLICE LINE\nAUG 2 - 1P-3P\nORANGE CITY, FL\nSAXON AND ENTERPRISE",
+    "raw_summary": "The image announces a protest or event titled \"Race Against the Regime\" set to take place on August 2, from 1 PM to 3 PM in Orange City, FL, located at Saxon and Enterprise. It features graffiti-styled art and suggests activism motifs."
+  },
+  {
+    "id": "965a7844-7427-4c83-ad2d-407d75a8a82a",
+    "title": "Rage Against the Regime",
+    "date": "Saturday, August 2, 2025",
+    "time": "10:00 AM",
+    "description": "This is an event titled \"Rage Against the Regime\" promoting a gathering in DeLand, FL.",
+    "city": "DeLand",
+    "state": "FL",
+    "address": "Woodland & New York",
+    "meeting_location": "Woodland & New York",
+    "links": [],
+    "sponsors": [
+      "50 Volusia"
+    ],
+    "image_url": "https://theblop.org/assets/images/965a7844-7427-4c83-ad2d-407d75a8a82a.png",
+    "thumbnail_url": "https://theblop.org/assets/images/965a7844-7427-4c83-ad2d-407d75a8a82a-thumb.jpg",
+    "canonical_id": "",
+    "permalink": "https://theblop.org/events/965a7844-7427-4c83-ad2d-407d75a8a82a.html",
+    "ical": "https://theblop.org/assets/ical/965a7844-7427-4c83-ad2d-407d75a8a82a.ics",
+    "raw_text": "RAGE AGAINST THE REGIME\nDELAND, FL\n8/2 - 10A-12P\nWOODLAND & NEW YORK\n50 VOLUSIA\n[QR code present, no visible URL]",
+    "raw_summary": "The image is an announcement for an event titled \"Rage Against the Regime\" held in DeLand, FL on August 2 from 10:00 AM to 12:00 PM."
+  },
+  {
+    "id": "4510734c-53d4-4698-8d6e-4d1bc9e826b0",
+    "title": "Dare to Fight Fascism",
+    "date": "Saturday, August 2, 2025",
+    "time": "3:30 PM",
+    "description": "Join the movement to fight fascism with a canned food drive. Wear red, white, or blue and support a local cause.",
+    "city": "",
+    "state": "OR",
+    "address": "",
+    "meeting_location": "Peace Corner",
+    "links": [
+      "[]"
+    ],
+    "sponsors": [
+      "Central Oregon 501",
+      " Deschutes Youth Climate Coalition",
+      " Indivisible Bend"
+    ],
+    "image_url": "https://theblop.org/assets/images/4510734c-53d4-4698-8d6e-4d1bc9e826b0.jpg",
+    "thumbnail_url": "https://theblop.org/assets/images/4510734c-53d4-4698-8d6e-4d1bc9e826b0-thumb.jpg",
+    "canonical_id": "",
+    "permalink": "https://theblop.org/events/4510734c-53d4-4698-8d6e-4d1bc9e826b0.html",
+    "ical": "https://theblop.org/assets/ical/4510734c-53d4-4698-8d6e-4d1bc9e826b0.ics",
+    "raw_text": "Canned food drive JOIN THE MOVEMENT AUG 2ND DARE TO FIGHT FASCISM Peace Corner 3:30-5pm Wear Red, White or Blue With support from INDIVISIBLE BEND DESCHUTES YOUTH CLIMATE COALITION",
+    "raw_summary": "The image is an event flyer promoting a gathering with the theme 'Dare to Fight Fascism.' It includes a canned food drive and encourages participants to join the movement. Attendees are asked to wear red, white, or blue and bring canned food. The event is supported by local organizations DESCHUTES YOUTH CLIMATE COALITION and INDIVISIBLE BEND."
   },
   {
     "id": "fe1b9fa9-7099-46d0-926a-65f56815c783",

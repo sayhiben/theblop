@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:c9c23222-8c8d-4f74-9aa9-915ce61e666d
+SEQUENCE:0
+DTSTAMP:20250725T060343Z
+DTSTART:20250802T130000
+DTEND:20250802T150000
+SUMMARY:Race Against the Regime
+LOCATION:Saxon and Enterprise\, Orange City\, FL
+DESCRIPTION:Join us in a protest event against the current regime\, fighti
+ ng for justice and change.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Saxon+and+En
+ terprise%2C+Orange+City%2C+FL&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

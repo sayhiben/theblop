@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:1c782b4a-9a26-4bb0-b067-eddedb14105a
+SEQUENCE:0
+DTSTAMP:20250725T060343Z
+DTSTART:20250801T170000
+DTEND:20250801T190000
+SUMMARY:Rage Against The Regime
+LOCATION:Saxon & N Normandy\, Deltona\, FL
+DESCRIPTION:The event seems to be a rally or gathering opposing certain po
+ licies or governance\, given the theme.\n\nSaxon & N Normandy
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Saxon+%26+N+
+ Normandy%2C+Deltona%2C+FL&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
