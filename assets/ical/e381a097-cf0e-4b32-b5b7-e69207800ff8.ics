@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:e34dd580-ebf9-42c5-a40b-619485fabc2a
+SEQUENCE:0
+DTSTAMP:20250726T033038Z
+DTSTART:20250816T120000
+DTEND:20250816T140000
+SUMMARY:Olympia Visibility Brigade Overpass Bannering
+LOCATION:Chehalis Western Trail\, Pedestrian Bridge over I-5\, Lacey\, WA
+DESCRIPTION:Join us on the pedestrian bridge over the I-5\, Lacey\, on Aug
+ ust 16\, 2025\, from 12 to 2 at the Chehalis Western Trail. Bring high-vis
+ ibility protest signs\, flags\, and a good mood to make good trouble!\n\nC
+ hehalis Western Trail\, Pedestrian Bridge over I-5\, Lacey
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Chehalis+Wes
+ tern+Trail%2C+Pedestrian+Bridge+over+I-5%2C+Lacey%2C+WA&zoom=15&basemap=ro
+ admap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

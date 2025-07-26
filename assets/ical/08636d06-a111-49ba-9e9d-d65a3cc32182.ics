@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:c70797a7-188a-44e0-b125-0c659aad7402
+SEQUENCE:0
+DTSTAMP:20250726T033038Z
+DTSTART:20250809T120000
+DTEND:20250809T140000
+SUMMARY:Olympia Visibility Brigade - Overpass Bannering
+LOCATION:Pedestrian Bridge / I-5\, Tumwater\, WA
+DESCRIPTION:Join us to make good trouble with high-visibility protest sign
+ s and flags on the bridge.\n\nPedestrian Bridge / I-5
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Pedestrian+B
+ ridge+%2F+I-5%2C+Tumwater%2C+WA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

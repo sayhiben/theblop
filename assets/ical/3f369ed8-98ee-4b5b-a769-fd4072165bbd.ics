@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:84d338c1-47ea-4bd0-b5af-7289ba36cee8
+SEQUENCE:0
+DTSTAMP:20250726T033038Z
+DTSTART:20250804T163000
+DTEND:20250804T183000
+SUMMARY:Olympia Visibility Brigade
+LOCATION:Boulevard Rd / I-5\, Olympia\, WA
+DESCRIPTION:Join us on the bridge for a visibility protest with signs and 
+ flags\, aiming to create a powerful statement.\n\nEast Olympia
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Boulevard+Rd
+ +%2F+I-5%2C+Olympia%2C+WA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

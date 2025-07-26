@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:ea59d0d5-6ade-4ae7-9aa9-9b6160288c17
+SEQUENCE:0
+DTSTAMP:20250726T033038Z
+DTSTART:20250811T163000
+DTEND:20250811T183000
+SUMMARY:Olympia Visibility Brigade Overpass Bannering
+LOCATION:Percival Landing\, Downtown Olympia\, Olympia\, WA
+DESCRIPTION:We invite you to bring your high-visibility protest signs\, fl
+ ags\, & a good mood to join us on the bridge to make good trouble.\n\nThe 
+ Kissing Couple
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Percival+Lan
+ ding%2C+Downtown+Olympia%2C+Olympia%2C+WA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
