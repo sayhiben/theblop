@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:ad985148-ccf2-4379-8f0a-9d05e78d3a8c
+SEQUENCE:0
+DTSTAMP:20250726T000705Z
+DTSTART:20250809T120000
+DTEND:20250809T140000
+SUMMARY:Protest Against Trump's Attacks on Native Tribes
+LOCATION:Washington State Capitol Building\, Olympia\, WA
+DESCRIPTION:We invite you to a peaceful permitted protest at the sidewalk 
+ by Tivoli Fountain. Remember to bring water\, sunscreen\, and protest sign
+ s. Limited amenities and signs will be available.\n\nSidewalk by Tivoli Fo
+ untain
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Washington+S
+ tate+Capitol+Building%2C+Olympia%2C+WA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

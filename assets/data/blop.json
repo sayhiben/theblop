@@ -1,51 +1,5 @@
 [
   {
-    "id": "e5f770d5-be4f-47ad-abb0-0f063688703d",
-    "title": "No Kings",
-    "date": "Friday, July 25, 2025",
-    "time": "5:00 PM",
-    "description": "The flyer suggests an event, hosted by '501 Volusia' and titled 'No Kings,' probably with a community or artistic focus (assumed from imagery and context).",
-    "city": "Deltona",
-    "state": "FL",
-    "address": "",
-    "meeting_location": "",
-    "links": [],
-    "sponsors": [
-      "501 Volusia"
-    ],
-    "image_url": "https://theblop.org/assets/images/e5f770d5-be4f-47ad-abb0-0f063688703d.png",
-    "thumbnail_url": "https://theblop.org/assets/images/e5f770d5-be4f-47ad-abb0-0f063688703d-thumb.jpg",
-    "canonical_id": "",
-    "permalink": "https://theblop.org/events/e5f770d5-be4f-47ad-abb0-0f063688703d.html",
-    "ical": "https://theblop.org/assets/ical/e5f770d5-be4f-47ad-abb0-0f063688703d.ics",
-    "raw_text": "NO KINGS\nDELTONA, FL\nJULY 25 • 5P-7P\n501 Volusia",
-    "raw_summary": "The image advertises an event called 'No Kings' in Deltona, FL, on July 25 from 5 PM to 7 PM, hosted by '501 Volusia.'"
-  },
-  {
-    "id": "96bceeb1-921e-49ca-baa3-0bd5ff489bef",
-    "title": "ANTI- ICE -Protest!",
-    "date": "Friday, July 25, 2025",
-    "time": "7:00 PM",
-    "description": "Join us in a protest against ICE practices to demand freedom and justice for all.",
-    "city": "West Valley City",
-    "state": "UT",
-    "address": "2975 Decker Lake Dr.",
-    "meeting_location": "",
-    "links": [
-      "[]"
-    ],
-    "sponsors": [
-      "[]"
-    ],
-    "image_url": "https://theblop.org/assets/images/96bceeb1-921e-49ca-baa3-0bd5ff489bef.jpg",
-    "thumbnail_url": "https://theblop.org/assets/images/96bceeb1-921e-49ca-baa3-0bd5ff489bef-thumb.jpg",
-    "canonical_id": "",
-    "permalink": "https://theblop.org/events/96bceeb1-921e-49ca-baa3-0bd5ff489bef.html",
-    "ical": "https://theblop.org/assets/ical/96bceeb1-921e-49ca-baa3-0bd5ff489bef.ics",
-    "raw_text": "🚨 ANTI- ICE -Protest! 🚨\n¡VIVA!\nNO ONE IS FREE UNTIL WE ARE ALL FREE\nFriday\nJuly 25Th\n7pm\n2975 Decker Lake Dr.\nWest Valley City, UT 84119",
-    "raw_summary": "This image is an announcement for an 'ANTI-ICE-Protest' with details about date, time, and location."
-  },
-  {
     "id": "957bd6d6-bc6e-4fa2-b397-b57171e2a2fc",
     "title": "GAYS EATING THE RICH IN THE PARK",
     "date": "Saturday, July 26, 2025",
@@ -749,6 +703,28 @@
     "ical": "https://theblop.org/assets/ical/fe1b9fa9-7099-46d0-926a-65f56815c783.ics",
     "raw_text": "IT’S SMOKEY’S BIRTHDAY! COME PROTEST! AUGUST 9 #SaveOurParks #SmokeySaysProtest 50/50 1 (logo) INDIVISIBLE (logo) (map of USA in flag colors) ALT US NATIONAL PARK SERVICE (logo) SERGEANT RHODES (logo)",
     "raw_summary": "The flyer promotes a protest event on Smokey's Birthday, encouraging actions to save parks. It features recognizable figures associated with environmental causes and uses hashtags like #SaveOurParks and #SmokeySaysProtest. The protest is scheduled for August 9."
+  },
+  {
+    "id": "8bb205e8-6026-4ba8-9cf6-8e57968fcb3f",
+    "title": "Protest Against Trump's Attacks on Native Tribes",
+    "date": "Saturday, August 9, 2025",
+    "time": "12:00 PM",
+    "description": "We invite you to a peaceful permitted protest at the sidewalk by Tivoli Fountain. Remember to bring water, sunscreen, and protest signs. Limited amenities and signs will be available.",
+    "city": "Olympia",
+    "state": "WA",
+    "address": "Washington State Capitol Building",
+    "meeting_location": "Sidewalk by Tivoli Fountain",
+    "links": [],
+    "sponsors": [
+      "Oly Resistors"
+    ],
+    "image_url": "https://theblop.org/assets/images/8bb205e8-6026-4ba8-9cf6-8e57968fcb3f.png",
+    "thumbnail_url": "https://theblop.org/assets/images/8bb205e8-6026-4ba8-9cf6-8e57968fcb3f-thumb.jpg",
+    "canonical_id": "",
+    "permalink": "https://theblop.org/events/8bb205e8-6026-4ba8-9cf6-8e57968fcb3f.html",
+    "ical": "https://theblop.org/assets/ical/8bb205e8-6026-4ba8-9cf6-8e57968fcb3f.ics",
+    "raw_text": "PROTEST!\nTRUMP’S ATTACKS ON NATIVE TRIBES\nCOME JOIN US FOR A PEACEFUL PERMITTED PROTEST AT THE SIDEWALK BY TIVOLI FOUNTAIN!\nDON’T FORGET TO BRING WATER, SUNSCREEN AND PROTEST SIGNS!\nLIMITED AMENITIES AND SIGNS WILL BE AVAILABLE AT THE TABLE.\n\nWHEN: SATURDAY 8/9, 12-2PM\nWHERE: WA STATE CAPITOL BLDG.\nUN International Day of Indigenous Peoples, 8/9/2025\n\nOly Resistors\nSPEAK UP FOR THE RIGHTS OF INDIGENOUS COMMUNITIES!",
+    "raw_summary": "A protest organized against former President Trump's attacks on Native Tribes. It will be held on Saturday, August 9, 2025, from 12 PM to 2 PM at the Washington State Capitol Building. The event coincides with the UN International Day of Indigenous Peoples and includes a peaceful permitted protest with amenities provided. Organized by Oly Resistors."
   },
   {
     "id": "623a812a-ce38-49ca-be29-91ec2cb5fa64",
