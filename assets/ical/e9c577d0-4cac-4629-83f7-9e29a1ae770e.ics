@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:d68b6bd3-84f4-40dc-9da0-c073ee560fb4
+SEQUENCE:0
+DTSTAMP:20250727T000744Z
+DTSTART:20250802T120000
+DTEND:20250802T140000
+SUMMARY:Rage Against the Regime
+LOCATION:Colorado State Capitol\, West Steps\, Denver\, CO
+DESCRIPTION:Join us for a national day of peaceful and powerful protest\, 
+ defending democracy against Trump\, ICE\, and oligarchs at the Colorado St
+ ate Capitol\, West Steps. The event will feature a rally\, speeches\, and 
+ a march.\n\nColorado State Capitol\, West Steps
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Colorado+Sta
+ te+Capitol%2C+West+Steps%2C+Denver%2C+CO&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
