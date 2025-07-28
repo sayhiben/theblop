@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:b2b8e04e-4f64-4063-b08b-99e4748a46c7
+SEQUENCE:0
+DTSTAMP:20250728T180348Z
+DTSTART:20250802T110000
+DTEND:20250802T130000
+SUMMARY:Protest Against ICE in Colorado
+LOCATION:401 Main Street\, Walsenburg\, CO
+DESCRIPTION:Join 'The Friday Protest Group' to protest against proposed IC
+ E concentration camps in Huerfano County and other locations.\n\nThe Huerf
+ ano County Courthouse
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=401+Main+Str
+ eet%2C+Walsenburg%2C+CO&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

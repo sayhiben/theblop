@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:b879457c-25fe-4547-8d83-8bd14ba2aa0b
+SEQUENCE:0
+DTSTAMP:20250728T180348Z
+DTSTART:20250817T000000
+DTEND:20250817T020000
+SUMMARY:Benefits Over Billionaires
+LOCATION:\, Reno\, NV
+DESCRIPTION:Join Congressman Ro Khanna and Protect Our Care in prioritizin
+ g people over special interests. The event aims to advocate for benefits o
+ ver billionaires with the support of several partners.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+Reno%2C+
+ NV&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
