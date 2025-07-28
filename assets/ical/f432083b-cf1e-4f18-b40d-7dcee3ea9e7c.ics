@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:15252529-8c00-4e19-9a44-106b426b9b9c
+SEQUENCE:0
+DTSTAMP:20250728T090608Z
+DTSTART:20250730T163000
+DTEND:20250730T183000
+SUMMARY:ICE OUT OF OUR WORKPLACE
+LOCATION:431 SW Madison Street\, Portland\, OR
+DESCRIPTION:Join us to demand an end to ICE raids and arrests in workplace
+ s\, due process for all\, and safer federal buildings. Participate in an i
+ nformational picket at Terry Schrunk Plaza.\n\nTerry Schrunk Plaza
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=431+SW+Madis
+ on+Street%2C+Portland%2C+OR&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

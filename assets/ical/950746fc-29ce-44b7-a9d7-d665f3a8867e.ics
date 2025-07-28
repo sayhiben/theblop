@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:09d153be-a9bc-45b3-aafc-50b60bf437f4
+SEQUENCE:0
+DTSTAMP:20250728T090608Z
+DTSTART:20250802T120000
+DTEND:20250802T140000
+SUMMARY:Rally & March
+LOCATION:Battleship Oregon Memorial\, Portland\, OR
+DESCRIPTION:We are organizing a rally and march to voice our demands for s
+ afety and justice. Join us as we stand against oppressive regimes and advo
+ cate for community safety.\n\nBattleship Oregon Memorial
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Battleship+O
+ regon+Memorial%2C+Portland%2C+OR&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
