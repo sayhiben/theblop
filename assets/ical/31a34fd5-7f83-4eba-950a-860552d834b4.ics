@@ -2,16 +2,16 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:24f61c54-0e22-4881-ab24-7b12187f65d3
+UID:c0890733-9903-459b-89d4-4aab28f6507e
 SEQUENCE:0
 DTSTAMP:20250731T060422Z
 DTSTART:20250802T140000
 DTEND:20250802T160000
-SUMMARY:Tax Wealth Fund Health
+SUMMARY:Rage Against the Regime
 LOCATION:Allen County Courthouse\, Fort Wayne\, IN
-DESCRIPTION:Join us for a rally organized by Indivisible Resist Fort Wayne
-  to support taxing wealth and funding healthcare.\n\nAllen County Courthou
- se
+DESCRIPTION:Join us for a demonstration titled "Rage Against the Regime" a
+ t the Allen County Courthouse to stand against social injustice and bring 
+ new school supplies.\n\n
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Allen+County
  +Courthouse%2C+Fort+Wayne%2C+IN&zoom=15&basemap=roadmap
 STATUS:CONFIRMED
