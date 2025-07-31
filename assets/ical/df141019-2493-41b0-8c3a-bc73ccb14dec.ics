@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:99e4ec59-c11d-412a-8e78-d1d8b91d08d0
+SEQUENCE:0
+DTSTAMP:20250731T033234Z
+DTSTART:20250801T160000
+DTEND:20250801T180000
+SUMMARY:Silence The Violence Rally
+LOCATION:Outside the Supreme Court\, Washington\, DC
+DESCRIPTION:Join the Feminist Alliance for Inclusive Rights and our partne
+ rs for an inspiring event featuring powerful voices like Scout Cardillo\, 
+ Edie Young\, and more.\n\nOutside the Supreme Court
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Outside+the+
+ Supreme+Court%2C+Washington%2C+DC&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
