@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:7959eef0-a124-48ee-8832-a2f5bea6d45c
+SEQUENCE:0
+DTSTAMP:20250731T180338Z
+DTSTART:20250802T090000
+DTEND:20250802T110000
+SUMMARY:Rage Against the Regime
+LOCATION:1917 W Lake Ave\, Peoria\, IL
+DESCRIPTION:Join us for a Rage-Out event against the current regime. Chann
+ el your outrage into courage as part of a community gathering.\n\nLakeview
+  Park
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=1917+W+Lake+
+ Ave%2C+Peoria%2C+IL&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
