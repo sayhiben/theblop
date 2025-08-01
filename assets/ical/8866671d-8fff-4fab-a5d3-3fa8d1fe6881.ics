@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:92a8e430-0c45-4ab2-805d-cb6033284c68
+SEQUENCE:0
+DTSTAMP:20250801T180343Z
+DTSTART:20250802T100000
+DTEND:20250802T120000
+SUMMARY:Rise Against the Regime
+LOCATION:290 W River Dr\, San Angelo\, TX
+DESCRIPTION:We are organizing a protest event to stand together against th
+ e current regime\, opposing Donald Trump's influence.\n\nKids Kingdom
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=290+W+River+
+ Dr%2C+San+Angelo%2C+TX&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
