@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:b2fb1f39-5325-45d3-b073-31ef6300088b
+SEQUENCE:0
+DTSTAMP:20250801T060454Z
+DTSTART:20250802T180000
+DTEND:20250802T200000
+SUMMARY:Rage Against The Regime
+LOCATION:451 S State St.\, Salt Lake City\, UT
+DESCRIPTION:We are holding a protest or rally to stand against certain pol
+ icies\, join us to make a change.\n\nWashington Square Park
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=451+S+State+
+ St.%2C+Salt+Lake+City%2C+UT&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

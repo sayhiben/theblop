@@ -482,6 +482,30 @@
     "raw_summary": "The flyer is for an event titled 'Rage Against the Regime,' occurring on August 2nd from 10 am to 12 pm at the CT State Capitol."
   },
   {
+    "id": "b38a93fa-6603-4aaa-95ef-7265bb8d4e9b",
+    "title": "Rage Against The Regime",
+    "date": "Saturday, August 2, 2025",
+    "time": "6:00 PM",
+    "description": "We are holding a protest or rally to stand against certain policies, join us to make a change.",
+    "city": "Salt Lake City",
+    "state": "UT",
+    "address": "451 S State St.",
+    "meeting_location": "Washington Square Park",
+    "links": [
+      "[]"
+    ],
+    "sponsors": [
+      "[]"
+    ],
+    "image_url": "https://theblop.org/assets/images/b38a93fa-6603-4aaa-95ef-7265bb8d4e9b.jpg",
+    "thumbnail_url": "https://theblop.org/assets/images/b38a93fa-6603-4aaa-95ef-7265bb8d4e9b-thumb.jpg",
+    "canonical_id": "",
+    "permalink": "https://theblop.org/events/b38a93fa-6603-4aaa-95ef-7265bb8d4e9b.html",
+    "ical": "https://theblop.org/assets/ical/b38a93fa-6603-4aaa-95ef-7265bb8d4e9b.ics",
+    "raw_text": "Rage Against The Regime\nAugust 2nd\n6:00 P.M.\nWashington Square Park\n451 S State St. Salt Lake City, UT 84111",
+    "raw_summary": "The image advertises an event titled \"Rage Against The Regime\", planned to take place on August 2nd at 6:00 PM. The location for the event is Washington Square Park, 451 S State St, Salt Lake City, UT 84111. It appears to be a protest or rally."
+  },
+  {
     "id": "3f369ed8-98ee-4b5b-a769-fd4072165bbd",
     "title": "Olympia Visibility Brigade",
     "date": "Monday, August 4, 2025",
