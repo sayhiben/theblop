@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:e725fb5a-55e8-4dd9-9e80-134efc769ef5
+SEQUENCE:0
+DTSTAMP:20250801T033756Z
+DTSTART:20250802T100000
+DTEND:20250802T120000
+SUMMARY:Rage Against the Regime
+LOCATION:CT State Capitol\, Hartford\, CT
+DESCRIPTION:Join us in expressing our stance and rallying for change at th
+ e CT State Capitol.\n\nCT State Capitol
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=CT+State+Cap
+ itol%2C+Hartford%2C+CT&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
