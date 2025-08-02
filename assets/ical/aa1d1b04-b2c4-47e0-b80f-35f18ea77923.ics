@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:bfba1108-2539-43dc-a8f7-477ca1dd64e4
+SEQUENCE:0
+DTSTAMP:20250802T090441Z
+DTSTART:20250802T140000
+DTEND:20250802T160000
+SUMMARY:Rage Against the Regime
+LOCATION:123 W Washington St\, Downtown Oswego\, Oswego\, IL
+DESCRIPTION:We are organizing a protest event called "Rage Against the Reg
+ ime" to gather supporters and make a statement. The event will include com
+ munity engagement activities.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=123+W+Washin
+ gton+St%2C+Downtown+Oswego%2C+Oswego%2C+IL&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
