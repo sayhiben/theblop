@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:6fc0d6f7-2f70-46f9-b700-85d179c3a76b
+SEQUENCE:0
+DTSTAMP:20250803T000804Z
+DTSTART:20250816T103000
+DTEND:20250816T123000
+SUMMARY:Rock Painting
+LOCATION:500 Fort Worth Dr #150\, Denton\, TX
+DESCRIPTION:Join us for a rock painting event where we create and share me
+ ssages of resistance\, solidarity\, and justice.\n\nAvoca Coffee
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=500+Fort+Wor
+ th+Dr+%23150%2C+Denton%2C+TX&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
