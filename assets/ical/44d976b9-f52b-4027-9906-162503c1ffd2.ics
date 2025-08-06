@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:41570308-491a-4e71-b4b4-cf1a2b668474
+SEQUENCE:0
+DTSTAMP:20250806T120439Z
+DTSTART:20250807T160000
+DTEND:20250807T180000
+SUMMARY:93 overpass protest
+LOCATION:Roosevelt Circle at Exit 24\, Medford\, MA
+DESCRIPTION:Join us at Roosevelt Circle at Exit 24 for a peaceful protest 
+ against fascism and hate. We welcome all those with a conscience.\n\nRoose
+ velt Circle at Exit 24
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Roosevelt+Ci
+ rcle+at+Exit+24%2C+Medford%2C+MA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
