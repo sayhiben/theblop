@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:7f40c2de-4a06-45a6-ab9b-80aecb77c658
+SEQUENCE:0
+DTSTAMP:20250806T000719Z
+DTSTART:20250807T080000
+DTEND:20250807T100000
+SUMMARY:Speak Out Against ICE with Utah Overpass Action
+LOCATION:I-215 & 13th East Overpass
+DESCRIPTION:Join us at the I-215 & 13th East Overpass to oppose ICE terror
+  in our communities. Bring your American flags and homemade signs.\n\nPark
+ ing lot at 6710 S 1300 E
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=I-215+%26+13
+ th+East+Overpass&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
