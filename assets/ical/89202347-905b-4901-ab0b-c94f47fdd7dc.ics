@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:716e9521-6280-41dc-ad83-7cc9ffb6b151
+SEQUENCE:0
+DTSTAMP:20250806T060437Z
+DTSTART:20250810T100000
+DTEND:20250810T120000
+SUMMARY:Voter Registration at Northern Colorado Pride
+LOCATION:421 N 15th Ave\, Greeley\, CO
+DESCRIPTION:Join us in Greeley\, CO\, as we celebrate Northern Colorado Pr
+ ide! We will be encouraging festival-goers to register to vote\, check the
+ ir voter registration\, receive election alerts\, or get involved in their
+  community via our Democracy Check Up page!\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=421+N+15th+A
+ ve%2C+Greeley%2C+CO&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
