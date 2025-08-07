@@ -402,6 +402,28 @@
     "raw_summary": "The image advertises a protest event called the 'Labor Day Protest' scheduled for September 1, from 12 PM to 2 PM at the Westmoreland County Courthouse in Greensburg. It is organized by WTFCanIDoWestmoreland."
   },
   {
+    "id": "1bc97cd7-c904-4065-b4ed-fd3d230f7eee",
+    "title": "Chicken Taco Cookoff",
+    "date": "Monday, September 1, 2025",
+    "time": "11:00 AM",
+    "description": "Join us for a fiery gathering where flavor meets resistance at the Chicken Taco Cookoff.",
+    "city": "Denton",
+    "state": "TX",
+    "address": "Fred Moore Park",
+    "meeting_location": "Fred Moore Park",
+    "links": [],
+    "sponsors": [
+      "Indivisible Denton"
+    ],
+    "image_url": "https://theblop.org/assets/images/1bc97cd7-c904-4065-b4ed-fd3d230f7eee.png",
+    "thumbnail_url": "https://theblop.org/assets/images/1bc97cd7-c904-4065-b4ed-fd3d230f7eee-thumb.jpg",
+    "canonical_id": "",
+    "permalink": "https://theblop.org/events/1bc97cd7-c904-4065-b4ed-fd3d230f7eee.html",
+    "ical": "https://theblop.org/assets/ical/1bc97cd7-c904-4065-b4ed-fd3d230f7eee.ics",
+    "raw_text": "CHICKEN TACO COOKOFF\nA FIERY GATHERING WHERE FLAVOR MEETS RESISTANCE\nMON\n9/1/25\n11:00 AM – 1:00 PM\nFRED MOORE PARK\nINDIVISIBLE DENTON",
+    "raw_summary": "The flyer announces a Chicken Taco Cookoff event organized by Indivisible Denton. It is set to take place on Monday, September 1, 2025, from 11:00 AM to 1:00 PM at Fred Moore Park."
+  },
+  {
     "id": "d49c6311-81ec-491e-9fe7-ac78cf6217b6",
     "title": "Christmas Wonderland Market",
     "date": "Monday, December 15, 2025",
