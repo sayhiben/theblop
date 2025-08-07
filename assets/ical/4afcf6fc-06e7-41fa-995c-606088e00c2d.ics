@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:817694a8-2655-4067-953e-a2818697ef61
+SEQUENCE:0
+DTSTAMP:20250807T000725Z
+DTSTART:20250808T080000
+DTEND:20250808T100000
+SUMMARY:Bridge Brigade
+LOCATION:I-93 overpass\, Marble St\, Stoneham\, MA
+DESCRIPTION:Join us at the Bridge Brigade to wave and hear honks from pass
+ ing vehicles. Wear bright colors!\n\nGPS: 140 Marble St
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=I-93+overpas
+ s%2C+Marble+St%2C+Stoneham%2C+MA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
