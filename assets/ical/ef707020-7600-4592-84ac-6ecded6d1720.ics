@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:f7a5735e-a9c2-407f-aa28-a49bf7f4940f
+SEQUENCE:0
+DTSTAMP:20250808T180341Z
+DTSTART:20250816T130000
+DTEND:20250816T150000
+SUMMARY:Indivisible ‘Big\, Beautiful Bill’ Townhall
+LOCATION:2925 Old Missouri Rd.\, Fayetteville\, AR
+DESCRIPTION:Join us for a townhall at the Alton Center\, Good Shepherd Lut
+ heran Church. We are gathering to discuss important community issues. Seat
+ ing is limited\, and protest signs are not permitted on the church premise
+ s.\n\nAlton Center\, Good Shepherd Lutheran Church
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=2925+Old+Mis
+ souri+Rd.%2C+Fayetteville%2C+AR&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
