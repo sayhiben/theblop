@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:0b17a01a-5a2b-4176-bc51-b602068a5b6f
+SEQUENCE:0
+DTSTAMP:20250809T180342Z
+DTSTART:20250901T140000
+DTEND:20250901T160000
+SUMMARY:Workers Over Billionaires
+LOCATION:1N. Main Street\, Brigham City\, UT
+DESCRIPTION:We are organizing an event on Labor Day to emphasize the impor
+ tance of workers over billionaires. Our aim is to foster nonviolent action
+  and reduce potential confrontations with those with differing values.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=1N.+Main+Str
+ eet%2C+Brigham+City%2C+UT&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
