@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:3a84e792-4ae6-48e2-a26e-905e7820f68c
+SEQUENCE:0
+DTSTAMP:20250810T033230Z
+DTSTART:20250901T000000
+DTEND:20250901T020000
+SUMMARY:Labor Day Nationwide Protest
+LOCATION:\, Nationwide\, Nationwide
+DESCRIPTION:Join us for a nationwide protest on Labor Day to stand up for 
+ workers' rights.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+Nationwi
+ de%2C+Nationwide&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
