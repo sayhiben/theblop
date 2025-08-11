@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:38fe25aa-d92c-49ed-9bc9-2053a5ae34ce
+SEQUENCE:0
+DTSTAMP:20250811T060352Z
+DTSTART:20250813T000000
+DTEND:20250813T020000
+SUMMARY:Pataskala Street Fair
+LOCATION:S Main St\, Pataskala\, OH
+DESCRIPTION:Help staff our booth at the 78th annual West Licking Firefight
+ ers Association Pataskala Street Fair! Connect with residents\, register v
+ oters\, promote our candidates and Democratic values\, and represent the L
+ icking County Democratic Party.\n\nSouth Main Street
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=S+Main+St%2C
+ +Pataskala%2C+OH&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
