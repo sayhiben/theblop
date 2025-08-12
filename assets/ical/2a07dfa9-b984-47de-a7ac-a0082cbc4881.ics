@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:f02e0608-2173-4854-891e-192ba148672e
+SEQUENCE:0
+DTSTAMP:20250812T210326Z
+DTSTART:20250816T100000
+DTEND:20250816T120000
+SUMMARY:National Day of Action
+LOCATION:3600 S Las Vegas Blvd\, Las Vegas\, NV
+DESCRIPTION:Join us for a National Day of Action to keep gerrymandering ou
+ t of our elections\, hosted by Indivisible Las Vegas.\n\nFountains of Bell
+ agio
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=3600+S+Las+V
+ egas+Blvd%2C+Las+Vegas%2C+NV&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
