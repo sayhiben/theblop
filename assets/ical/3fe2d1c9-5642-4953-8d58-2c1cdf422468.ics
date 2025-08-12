@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:05191697-9d61-4e18-a8ef-5d95d631c65e
+SEQUENCE:0
+DTSTAMP:20250812T060403Z
+DTSTART:20250817T180000
+DTEND:20250817T200000
+SUMMARY:Expand Democracy Rally
+LOCATION:Medina Square\, Medina\, OH
+DESCRIPTION:Join us for the Expand Democracy Rally at Medina Square. Bring
+  neighbors\, coworkers\, cousins\, and friends to support the cause!\n\nMe
+ dina Square
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Medina+Squar
+ e%2C+Medina%2C+OH&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
