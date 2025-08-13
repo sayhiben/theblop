@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:22ab0220-0637-461d-b49b-0786b24aea1c
+SEQUENCE:0
+DTSTAMP:20250813T060352Z
+DTSTART:20250815T080000
+DTEND:20250815T100000
+SUMMARY:Be Brave Call to Action!
+LOCATION:\, Rutherford\, NJ
+DESCRIPTION:Be brave and stand with us as we take action against fascism. 
+ Join us on the Rutherford-Passaic Rte. 21 overpass. We'll gather on the so
+ uthside of the southbound entrance ramp (#10). Bring your signs\, flags\, 
+ fluids\, & sun protection. A core principle behind all Indivisible events 
+ is a commitment to nonviolent action. We expect participants to de-escalat
+ e confrontation.\n\nRutherford-Passaic Rte. 21 overpass\, southside of the
+  southbound entrance ramp (#10)
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+Rutherfo
+ rd%2C+NJ&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
