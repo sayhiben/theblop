@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:d5d36e54-0053-430c-8591-771b3c8bdf01
+SEQUENCE:0
+DTSTAMP:20250813T001308Z
+DTSTART:20250814T160000
+DTEND:20250814T180000
+SUMMARY:Gathering at 93 Overpass
+LOCATION:93 overpass\, Exit 24\, Roosevelt Circle\, Medford\, MA
+DESCRIPTION:People are gathering for an event at the Roosevelt Circle over
+ pass.\n\nRoosevelt Circle
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=93+overpass%
+ 2C+Exit+24%2C+Roosevelt+Circle%2C+Medford%2C+MA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
