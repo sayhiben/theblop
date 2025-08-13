@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:41b28b53-9f66-4807-ade2-5ffac3be517c
+SEQUENCE:0
+DTSTAMP:20250813T180352Z
+DTSTART:20250816T130000
+DTEND:20250816T150000
+SUMMARY:Community Skill-Share & Swap Meet
+LOCATION:1560 Veterans of Foreign Wars Way\, Houston\, TX
+DESCRIPTION:Join 50501-Houston in community learning and sharing skills li
+ ke needlework\, cooking\, crafting\, and CPR. Bring goods to exchange for 
+ what you need.\n\nVFW Post 8790
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=1560+Veteran
+ s+of+Foreign+Wars+Way%2C+Houston%2C+TX&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
