@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:21b19b66-25ce-41dc-8622-d98b39c99093
+SEQUENCE:0
+DTSTAMP:20250814T032734Z
+DTSTART:20250816T173000
+DTEND:20250816T193000
+SUMMARY:Gaza Sunbirds: International Prisoner Solidarity Ride
+LOCATION:Laurelhurst Park\, Portland\, OR
+DESCRIPTION:We are riding in solidarity with Palestine and all oppressed p
+ eople and prisoners everywhere. The event features food\, screenprinting\,
+  speakers\, and film screening.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Laurelhurst+
+ Park%2C+Portland%2C+OR&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:f2f4baa7-2cfa-4f98-82af-9fa79575289f
+SEQUENCE:0
+DTSTAMP:20250814T032734Z
+DTSTART:20250901T120000
+DTEND:20250901T140000
+SUMMARY:Portland Rally & March
+LOCATION:Battleship Oregon Memorial\, Portland\, OR
+DESCRIPTION:We invite you to join us for the Labor Day kickoff event as pa
+ rt of #SolidaritySeptember at the Battleship Oregon Memorial.\n\nBattleshi
+ p Oregon Memorial
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Battleship+O
+ regon+Memorial%2C+Portland%2C+OR&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

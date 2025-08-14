@@ -204,6 +204,33 @@
     "raw_summary": "The image is an event flyer for a \"Community Skill-Share & Swap Meet\" hosted by 50501-Houston, focusing on learning and skills like cooking, crafting, and CPR. It's scheduled for August 16, 2025, from 1 PM to 5:30 PM at VFW Post 8790 in Houston, TX. Canned food donations for \"Food Not Bombs\" are welcome."
   },
   {
+    "id": "0115e9bc-f590-4e73-bf23-b2f15b38c697",
+    "title": "Gaza Sunbirds: International Prisoner Solidarity Ride",
+    "date": "Saturday, August 16, 2025",
+    "time": "5:30 PM",
+    "description": "We are riding in solidarity with Palestine and all oppressed people and prisoners everywhere. The event features food, screenprinting, speakers, and film screening.",
+    "city": "Portland",
+    "state": "OR",
+    "address": "Laurelhurst Park",
+    "meeting_location": "",
+    "links": [
+      "shift2bikes.org"
+    ],
+    "sponsors": [
+      "Gaza Sunbirds",
+      " Al-Awda",
+      " PCHRP",
+      " Rainbow Bloc"
+    ],
+    "image_url": "https://theblop.org/assets/images/0115e9bc-f590-4e73-bf23-b2f15b38c697.jpg",
+    "thumbnail_url": "https://theblop.org/assets/images/0115e9bc-f590-4e73-bf23-b2f15b38c697-thumb.jpg",
+    "canonical_id": "",
+    "permalink": "https://theblop.org/events/0115e9bc-f590-4e73-bf23-b2f15b38c697.html",
+    "ical": "https://theblop.org/assets/ical/0115e9bc-f590-4e73-bf23-b2f15b38c697.ics",
+    "raw_text": "GAZA SUNBIRDS:\nINTERNATIONAL PRISONER SOLIDARITY RIDE\nSATURDAY AUGUST 16\nMEET 5:30\nRIDE 6PM\nLAURELHURST PARK\nRIDE IS A LOOP\nWE ARE RIDING IN SOLIDARITY WITH PALESTINE AND ALL OPPRESSED PEOPLE AND PRISONERS EVERYWHERE!\nGAZA SUNBIRDS, AL-AWDA\nPCHRP, RAINBOW BLOC\nMORE INFO ON SHIFT2BIKES.ORG",
+    "raw_summary": "The flyer promotes a bicycle ride event titled \"Gaza Sunbirds: International Prisoner Solidarity Ride,\" scheduled for August 16. The event is a solidarity action for Palestine, featuring food, screenprinting, speakers, and film screening at Laurelhurst Park."
+  },
+  {
     "id": "2e38dd8b-2f30-4042-ab52-0aaa90cb2ba1",
     "title": "Come Together NOCO",
     "date": "Sunday, August 17, 2025",
@@ -298,6 +325,31 @@
     "raw_summary": "The image advertises a rally event called \"Expand Democracy Rally\" scheduled for Sun, August 17, from 6 PM to 8 PM at Medina Square. The event encourages people to bring neighbors, coworkers, cousins, and friends. It seems to be organized by \"We the People,\" with an email contact provided."
   },
   {
+    "id": "aeaf6fe4-27db-4c2a-ad68-237d5861d6ce",
+    "title": "Rally to Abolish ICE",
+    "date": "Sunday, August 17, 2025",
+    "time": "12:00 PM",
+    "description": "Join us at a rally against ICE and fascism in Portland. Engage with your community and participate in the movement.",
+    "city": "Portland",
+    "state": "OR",
+    "address": "Oregon Battleship Memorial",
+    "meeting_location": "Oregon Battleship Memorial",
+    "links": [],
+    "sponsors": [
+      "MEChA de PSU",
+      " Portland Immigrant Rights Coalition",
+      " Democratic Socialists of America",
+      " Al-Awda"
+    ],
+    "image_url": "https://theblop.org/assets/images/aeaf6fe4-27db-4c2a-ad68-237d5861d6ce.jpg",
+    "thumbnail_url": "https://theblop.org/assets/images/aeaf6fe4-27db-4c2a-ad68-237d5861d6ce-thumb.jpg",
+    "canonical_id": "",
+    "permalink": "https://theblop.org/events/aeaf6fe4-27db-4c2a-ad68-237d5861d6ce.html",
+    "ical": "https://theblop.org/assets/ical/aeaf6fe4-27db-4c2a-ad68-237d5861d6ce.ics",
+    "raw_text": "RALLY TO ABOLISH ICE\nA GATHERING AGAINST FASCISM IN PORTLAND.\nPICK YOUR LANE\nFIND YOUR COMMUNITY\nAugust 17th @ 12:00\nOregon Battleship Memorial\n[Logos of sponsors]\n",
+    "raw_summary": "The flyer advertises a rally titled 'Rally to Abolish ICE', focusing on anti-fascism in Portland. It is scheduled for August 17th at 12:00 PM at the Oregon Battleship Memorial, with multiple sponsors or organizations involved."
+  },
+  {
     "id": "c3d457cf-61d1-497a-b2b1-3ee6d330a44f",
     "title": "Corner Protest",
     "date": "Tuesday, August 19, 2025",
@@ -316,6 +368,30 @@
     "ical": "https://theblop.org/assets/ical/c3d457cf-61d1-497a-b2b1-3ee6d330a44f.ics",
     "raw_text": "Join the Corner Protest every Tuesday and Thursday 4:15-5:45 PM\nSW Corner of Drake and College in Fort Collins\nPositive engagement\nPROTECT DEMOCRACY\nOMG GOP WTF\nRight or Left … we all know this is WRONG!\nWE THE PEOPLE\nTuesday, August 19, 2025\n4:15 - 5:45 pm\n2601 S College Ave, Fort Collins, CO",
     "raw_summary": "The image is an invitation to join a protest that occurs every Tuesday and Thursday from 4:15 to 5:45 PM. It provides a specific date (August 19, 2025) and location details in Fort Collins, CO."
+  },
+  {
+    "id": "191ce015-1ee3-4a4c-b9ff-abc9e796d3aa",
+    "title": "Revoke the ICE Permit & Bring Back DEI",
+    "date": "Wednesday, August 20, 2025",
+    "time": "5:00 PM",
+    "description": "Join us as we rally at the Portland City Hall to demand Mayor Keith Wilson and the Portland City Council revoke the ICE permits and reinstate DEI initiatives.",
+    "city": "Portland",
+    "state": "OR",
+    "address": "1221 SW 4th Avenue",
+    "meeting_location": "Portland City Hall",
+    "links": [
+      "[]"
+    ],
+    "sponsors": [
+      "Revoke the ICE Permit PDX"
+    ],
+    "image_url": "https://theblop.org/assets/images/191ce015-1ee3-4a4c-b9ff-abc9e796d3aa.jpg",
+    "thumbnail_url": "https://theblop.org/assets/images/191ce015-1ee3-4a4c-b9ff-abc9e796d3aa-thumb.jpg",
+    "canonical_id": "",
+    "permalink": "https://theblop.org/events/191ce015-1ee3-4a4c-b9ff-abc9e796d3aa.html",
+    "ical": "https://theblop.org/assets/ical/191ce015-1ee3-4a4c-b9ff-abc9e796d3aa.ics",
+    "raw_text": "Tell Mayor Keith Wilson and Portland City Council REVOKE THE ICE PERMIT & BRING BACK DEI! RALLY AT CITY COUNCIL MEETING AUGUST 20TH 5 PM Portland City Hall 1221 SW 4th Avenue Mayor Keith Wilson's first executive order was to comply with Trump and get rid of DEI, while doing nothing to get ICE out of Portland! Demand he and city council use their powers to fight back, not give in! REVOKE THE ICE PERMIT PDX",
+    "raw_summary": "The image is a flyer calling for a rally at the Portland City Hall on August 20th at 5 PM. It is addressed to Mayor Keith Wilson and Portland City Council, urging them to revoke ICE permits and restore DEI (Diversity, Equity, Inclusion) initiatives."
   },
   {
     "id": "04921f76-fc99-4c95-a512-ef2b5ae115a1",
@@ -468,6 +544,30 @@
     "ical": "https://theblop.org/assets/ical/cea1d7a2-ce34-407e-a40e-a0313918dccb.ics",
     "raw_text": "LABOR DAY\nSEPTEMBER 1ST\nFIFTYFIFTY.ONE\nNATIONWIDE PROTEST\n50501",
     "raw_summary": "Labor Day protest happening on September 1st, organized nationwide."
+  },
+  {
+    "id": "bf589ae1-83b8-424e-b242-fb085811b5e5",
+    "title": "Portland Rally & March",
+    "date": "Monday, September 1, 2025",
+    "time": "12:00 PM",
+    "description": "We invite you to join us for the Labor Day kickoff event as part of #SolidaritySeptember at the Battleship Oregon Memorial.",
+    "city": "Portland",
+    "state": "OR",
+    "address": "Battleship Oregon Memorial",
+    "meeting_location": "Battleship Oregon Memorial",
+    "links": [
+      "mobilize.us/mayday/event/823275/"
+    ],
+    "sponsors": [
+      "[]"
+    ],
+    "image_url": "https://theblop.org/assets/images/bf589ae1-83b8-424e-b242-fb085811b5e5.jpg",
+    "thumbnail_url": "https://theblop.org/assets/images/bf589ae1-83b8-424e-b242-fb085811b5e5-thumb.jpg",
+    "canonical_id": "",
+    "permalink": "https://theblop.org/events/bf589ae1-83b8-424e-b242-fb085811b5e5.html",
+    "ical": "https://theblop.org/assets/ical/bf589ae1-83b8-424e-b242-fb085811b5e5.ics",
+    "raw_text": "Portland Rally & March\n#SolidaritySeptember\nLabor Day Kickoff\n\nLocation: Battleship Oregon Memorial\nTime: Noon on Monday September 1st\n\nLABOR DAY\n#SOLIDARITYSEPTEMBER\n\nmobilize.us/mayday/event/823275/",
+    "raw_summary": "The image is an announcement for a 'Portland Rally & March' event scheduled for Labor Day as a part of the #SolidaritySeptember initiative. It will be held at the Battleship Oregon Memorial, starting at noon on September 1st."
   },
   {
     "id": "d49c6311-81ec-491e-9fe7-ac78cf6217b6",
