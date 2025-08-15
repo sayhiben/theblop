@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:203d293b-3212-4cd7-b0ad-eec66e95ce40
+SEQUENCE:0
+DTSTAMP:20250815T180341Z
+DTSTART:20250901T150000
+DTEND:20250901T170000
+SUMMARY:Workers Over Billionaires
+LOCATION:Tree Lane at Gammon Road\, Madison\, WI
+DESCRIPTION:Join the Silver Badgers in rallying to support workers and def
+ end democracy. This demonstration is wheelchair accessible and open to eve
+ ryone.\n\nTree Lane at Gammon Road
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Tree+Lane+at
+ +Gammon+Road%2C+Madison%2C+WI&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

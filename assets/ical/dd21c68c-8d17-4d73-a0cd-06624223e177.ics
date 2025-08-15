@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:606aeadb-a84d-45be-9e8f-318c3bf141e0
+SEQUENCE:0
+DTSTAMP:20250815T180341Z
+DTSTART:20250901T100000
+DTEND:20250901T120000
+SUMMARY:Fascist Fighter Fun Run
+LOCATION:Liberty Park\, Salt Lake City\, UT
+DESCRIPTION:Join us for the Fascist Fighter Fun Run on Labor Day! Dress up
+  as your favorite historical\, contemporary\, or fictional character and s
+ end a powerful message while participating in a fun run. Proceeds from the
+  entry fee will be donated to local organizations.\n\nLiberty Park
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Liberty+Park
+ %2C+Salt+Lake+City%2C+UT&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
