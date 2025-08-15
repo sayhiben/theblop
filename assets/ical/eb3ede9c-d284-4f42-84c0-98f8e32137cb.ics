@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:db95c3aa-5cda-4e33-8a50-b03e2f86fda1
+SEQUENCE:0
+DTSTAMP:20250815T000953Z
+DTSTART:20250901T100000
+DTEND:20250901T120000
+SUMMARY:Rally for the Working Class
+LOCATION:5th St & Duff Ave\, Ames\, Ames\, IA
+DESCRIPTION:Join us for a Labor Day event with sign-making\, music\, speec
+ hes\, and a rally with Ames Visibility Brigade. Get involved\, take action
+ \, and learn about local organizations!\n\nBandshell Park
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=5th+St+%26+D
+ uff+Ave%2C+Ames%2C+Ames%2C+IA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
