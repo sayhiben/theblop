@@ -2,16 +2,16 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:6a1fab74-5597-4902-af1a-bcb3c10a58c0
+UID:5845c404-fa06-4e4c-a490-269da91ecbcf
 SEQUENCE:0
 DTSTAMP:20250817T060338Z
 DTSTART:20250817T120000
 DTEND:20250817T140000
 SUMMARY:Rally to Abolish ICE
 LOCATION:Oregon Battleship Memorial\, Portland\, OR
-DESCRIPTION:Join us at a rally against ICE and fascism in Portland. Engage
-  with your community and participate in the movement.\n\nOregon Battleship
-  Memorial
+DESCRIPTION:Join us for a rally against ICE and fascism in Portland. Find 
+ your community and take part in this important gathering.\n\nOregon Battle
+ ship Memorial
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Oregon+Battl
  eship+Memorial%2C+Portland%2C+OR&zoom=15&basemap=roadmap
 STATUS:CONFIRMED
