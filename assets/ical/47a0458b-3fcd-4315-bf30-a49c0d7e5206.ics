@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:86560f85-fccf-4953-a86d-deec21aae0e4
+SEQUENCE:0
+DTSTAMP:20250817T210332Z
+DTSTART:20250901T120000
+DTEND:20250901T140000
+SUMMARY:Labor Day Rally
+LOCATION:100 W Kirkwood\, Bloomington\, IN
+DESCRIPTION:Join us in a national movement to support working-class power 
+ in the fight for social justice\, featuring musical performances and a dia
+ per and formula drive.\n\nCourthouse Square
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=100+W+Kirkwo
+ od%2C+Bloomington%2C+IN&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

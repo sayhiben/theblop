@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:5ec35423-8cbc-41c8-8ac8-ed25290ce58e
+SEQUENCE:0
+DTSTAMP:20250817T210332Z
+DTSTART:20250901T120000
+DTEND:20250901T140000
+SUMMARY:Labor Day Rally
+LOCATION:Courthouse Square\, 100 W Kirkwood\, Bloomington\, IN
+DESCRIPTION:Join us for a Labor Day rally featuring speakers\, singing\, a
+ nd activities such as postcard writing and sign making. Enjoy musical perf
+ ormances by Christy Crandall\, Sharla June\, and Marc Haggerty while suppo
+ rting worker solidarity.\n\nCourthouse Square
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Courthouse+S
+ quare%2C+100+W+Kirkwood%2C+Bloomington%2C+IN&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
