@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:3d8a36a1-06bd-428c-a2ab-da6b77fca1af
+SEQUENCE:0
+DTSTAMP:20250818T120404Z
+DTSTART:20250901T180000
+DTEND:20250901T200000
+SUMMARY:Workers Over Billionaires
+LOCATION:Utah State Capitol\, Salt Lake City\, UT
+DESCRIPTION:We are organizing a rally and march to promote worker solidari
+ ty over billionaires. United\, we are strong!\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Utah+State+C
+ apitol%2C+Salt+Lake+City%2C+UT&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
