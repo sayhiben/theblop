@@ -2,16 +2,16 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:14056055-5dd5-4a6e-9636-cb05aea9ecda
+UID:8ce89d55-7859-4c20-b1da-6f9dd10c66b0
 SEQUENCE:0
 DTSTAMP:20250820T060400Z
-DTSTART:20250828T161500
-DTEND:20250828T181500
+DTSTART:20250904T161500
+DTEND:20250904T181500
 SUMMARY:Corner Protest
 LOCATION:2601 S College Ave\, Fort Collins\, CO
-DESCRIPTION:Join us for a recurring protest for positive engagement\, happ
- ening every Tuesday and Thursday in Fort Collins. The protest aims to prom
- ote democracy and civil discourse.\n\nSW Corner of Drake and College
+DESCRIPTION:Join us at the Corner Protest for positive engagement as we ai
+ m to protect democracy and express our concerns about current issues.\n\nS
+ W Corner of Drake and College
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=2601+S+Colle
  ge+Ave%2C+Fort+Collins%2C+CO&zoom=15&basemap=roadmap
 STATUS:CONFIRMED

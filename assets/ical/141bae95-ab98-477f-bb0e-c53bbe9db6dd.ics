@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:cf9ed874-d877-4dc3-8195-1a5c6bef3d58
+SEQUENCE:0
+DTSTAMP:20250820T060400Z
+DTSTART:20250920T090000
+DTEND:20250920T110000
+SUMMARY:ACT UP Protest
+LOCATION:Harmony Rd & Weitzel St\, Timnath\, CO
+DESCRIPTION:Join us in a recurring protest to make a difference. Bring fla
+ gs or signs\, or use extras provided. Upcoming dates include October 4 & 1
+ 8\, and November 15.\n\nCorner of Harmony Road & Weitzel
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Harmony+Rd+%
+ 26+Weitzel+St%2C+Timnath%2C+CO&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

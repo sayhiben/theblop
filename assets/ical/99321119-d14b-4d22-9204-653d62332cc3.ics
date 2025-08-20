@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:49ce0015-2940-4141-8a41-ef28c0d7001f
+SEQUENCE:0
+DTSTAMP:20250820T060400Z
+DTSTART:20250901T100000
+DTEND:20250901T120000
+SUMMARY:Loveland #WorkersOverBillionaires Labor Day
+LOCATION:400-422 W Eisenhower Blvd\, Pavilions 1 & 2\, Loveland\, CO
+DESCRIPTION:Join us for a rally organized by May Day Strong to celebrate L
+ abor Day and promote the interests of workers over billionaires.\n\nDwayne
+  Webster Veterans Park
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=400-422+W+Ei
+ senhower+Blvd%2C+Pavilions+1+%26+2%2C+Loveland%2C+CO&zoom=15&basemap=roadm
+ ap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

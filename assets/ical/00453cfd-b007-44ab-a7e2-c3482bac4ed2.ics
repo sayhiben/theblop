@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:fc1f4d38-2f33-4604-ba0d-63d964ce6d26
+SEQUENCE:0
+DTSTAMP:20250820T060400Z
+DTSTART:20250830T100000
+DTEND:20250830T120000
+SUMMARY:STOP The Deportation Machine! (Solidarity Warriors) Rally in front
+  of Immigration Court
+LOCATION:1961 Stout St\, Denver\, CO
+DESCRIPTION:Join us in front of the Immigration Court for a rally to stop 
+ the deportation machine. This event is organized for Indivisible to show s
+ olidarity and support for immigration rights.\n\nPlaza in front of the Byr
+ on Rogers Federal Building
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=1961+Stout+S
+ t%2C+Denver%2C+CO&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
