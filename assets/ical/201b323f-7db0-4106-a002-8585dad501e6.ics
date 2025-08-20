@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:52219d7d-79c0-4aaf-bf14-2d62b7b822ce
+SEQUENCE:0
+DTSTAMP:20250820T180350Z
+DTSTART:20250901T110000
+DTEND:20250901T130000
+SUMMARY:Workers Over Billionaires
+LOCATION:2501 Wall Ave\, Ogden\, UT
+DESCRIPTION:Attend a gathering promoting workers' rights over billionaire 
+ interests. Join us at Union Station for this Labor Day event to make your 
+ voice heard.\n\nUnion Station
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=2501+Wall+Av
+ e%2C+Ogden%2C+UT&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
