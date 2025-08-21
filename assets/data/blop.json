@@ -42,6 +42,54 @@
     "raw_summary": "The image outlines a recurring protest event at the corner of Harmony Road and Weitzel in Timnath, Colorado. The event takes place every other Saturday from 9:00 to 10:00 AM starting on August 23, 2025, with additional dates listed."
   },
   {
+    "id": "ff0a1107-6fb5-4f6d-9d99-b3b676ab0947",
+    "title": "Olympia Visibility Brigade Overpass Bannering",
+    "date": "Saturday, August 23, 2025",
+    "time": "12:00 PM",
+    "description": "Join us for an 'Overpass Bannering' event organized by the Olympia Visibility Brigade. Bring your high-visibility protest signs, flags, and a good mood as we gather on the bridge to make good trouble.",
+    "city": "East Olympia",
+    "state": "WA",
+    "address": "Boulevard Rd SE / I-5",
+    "meeting_location": "",
+    "links": [
+      "backbonecampaign.org",
+      " theblop.org"
+    ],
+    "sponsors": [
+      "Olympia Visibility Brigade"
+    ],
+    "image_url": "https://theblop.org/assets/images/ff0a1107-6fb5-4f6d-9d99-b3b676ab0947.png",
+    "thumbnail_url": "https://theblop.org/assets/images/ff0a1107-6fb5-4f6d-9d99-b3b676ab0947-thumb.jpg",
+    "canonical_id": "",
+    "permalink": "https://theblop.org/events/ff0a1107-6fb5-4f6d-9d99-b3b676ab0947.html",
+    "ical": "https://theblop.org/assets/ical/ff0a1107-6fb5-4f6d-9d99-b3b676ab0947.ics",
+    "raw_text": "OLYMPIA VISIBILITY BRIGADE\nOVERPASS BANNERING\n\n23 AUGUST 2025\nFROM 12 TO 2\nBOULEVARD RD SE / I-5\nEAST OLYMPIA\n\nOVB\n\nBRING YOUR HIGH-VISIBILITY PROTEST SIGNS, FLAGS, &\nA GOOD MOOD, AND JOIN US ON THE BRIDGE\nTO MAKE GOOD TROUBLE!\n\nMORE INFORMATION: BACKBONECAMPAIGN.ORG AND THEBLOP.ORG\n\nDEMOCRACY IS UNDER ATTACK\nSTAND UP FIGHT BACK!",
+    "raw_summary": "The image advertises an event organized by the Olympia Visibility Brigade. It details an 'Overpass Bannering' event happening on August 23, 2025, at the Boulevard Rd SE / I-5 in East Olympia. Participants are encouraged to bring high-visibility protest signs, flags, and a positive attitude. More information is available on BackboneCampaign.org and TheBLOP.org."
+  },
+  {
+    "id": "2371af22-4fce-4bc3-b5a4-84e4671bd788",
+    "title": "Olympia Visibility Brigade",
+    "date": "Monday, August 25, 2025",
+    "time": "4:30 PM",
+    "description": "Bring your high-visibility protest signs, flags, and a good mood to join us on the bridge to make good trouble.",
+    "city": "Olympia",
+    "state": "WA",
+    "address": "Capitol Blvd / I-5",
+    "meeting_location": "",
+    "links": [
+      "backbonecampaign.org",
+      " theblop.org"
+    ],
+    "sponsors": [],
+    "image_url": "https://theblop.org/assets/images/2371af22-4fce-4bc3-b5a4-84e4671bd788.png",
+    "thumbnail_url": "https://theblop.org/assets/images/2371af22-4fce-4bc3-b5a4-84e4671bd788-thumb.jpg",
+    "canonical_id": "",
+    "permalink": "https://theblop.org/events/2371af22-4fce-4bc3-b5a4-84e4671bd788.html",
+    "ical": "https://theblop.org/assets/ical/2371af22-4fce-4bc3-b5a4-84e4671bd788.ics",
+    "raw_text": "OLYMPIA VISIBILITY BRIGADE\nOVERPASS BANNERING\n25 AUGUST 2025\nFROM 4:30 TO 6:30\nCAPITOL BLVD / I-5\nOLYMPIA\n\nBRING YOUR HIGH-VISIBILITY PROTEST SIGNS, FLAGS, & A GOOD MOOD, AND JOIN US ON THE BRIDGE TO MAKE GOOD TROUBLE!\n\nDEMOCRACY IS UNDER ATTACK\nSTAND UP FIGHT BACK!\n\nMORE INFORMATION: BACKBONECAMPAIGN.ORG AND THEBLOP.ORG",
+    "raw_summary": "The image is an event flyer for 'Olympia Visibility Brigade,' which is an overpass bannering event happening on 25 August 2025. Participants are encouraged to bring protest signs and flags to Capitol Blvd / I-5, Olympia, from 4:30 to 6:30. More information can be found on two websites."
+  },
+  {
     "id": "847477e1-c8bd-4e2d-bf26-bccde4a5a98a",
     "title": "Corner Protest",
     "date": "Tuesday, August 26, 2025",
@@ -104,6 +152,31 @@
     "ical": "https://theblop.org/assets/ical/00453cfd-b007-44ab-a7e2-c3482bac4ed2.ics",
     "raw_text": "www.mobilize.us/mobilize/event/828961/\n\nRSVP NOW\n\nJOIN US!\n\nSTOP The Deportation Machine! \n(Solidarity Warriors) Rally in front \nof Immigration Court\n\nRally • Volunteer organized for Indivisible\n\n📅 Saturday, August 30\n10am – 12pm MDT\n\n📍 Plaza in front of the Byron Rogers Federal Building\n1961 Stout St\nDenver, CO 80294",
     "raw_summary": "The flyer announces a rally event titled \"STOP The Deportation Machine! (Solidarity Warriors)\" organized in front of an Immigration Court. It's scheduled for August 30th, from 10 AM to 12 PM, at the Plaza in front of the Byron Rogers Federal Building in Denver, CO."
+  },
+  {
+    "id": "37962be1-5b8d-4bdb-8f47-e666caed0cd4",
+    "title": "Olympia Visibility Brigade Overpass Bannering",
+    "date": "Saturday, August 30, 2025",
+    "time": "12:00 PM",
+    "description": "Join us for an overpass bannering protest event where we rally with high-visibility signs and flags to raise awareness on important issues at the Chehalis Western Trail pedestrian bridge.",
+    "city": "Lacey",
+    "state": "WA",
+    "address": "Chehalis Western Trail Pedestrian Bridge over I-5",
+    "meeting_location": "",
+    "links": [
+      "backbonecampaign.org",
+      " theblop.org"
+    ],
+    "sponsors": [
+      "Olympia Visibility Brigade"
+    ],
+    "image_url": "https://theblop.org/assets/images/37962be1-5b8d-4bdb-8f47-e666caed0cd4.png",
+    "thumbnail_url": "https://theblop.org/assets/images/37962be1-5b8d-4bdb-8f47-e666caed0cd4-thumb.jpg",
+    "canonical_id": "",
+    "permalink": "https://theblop.org/events/37962be1-5b8d-4bdb-8f47-e666caed0cd4.html",
+    "ical": "https://theblop.org/assets/ical/37962be1-5b8d-4bdb-8f47-e666caed0cd4.ics",
+    "raw_text": "OLYMPIA VISIBILITY BRIGADE\nOVERPASS BANNERING\n\n30 AUGUST 2025\nFROM 12 TO 2\nCHEHALIS WESTERN TRAIL\nPEDESTRIAN BRIDGE OVER I-5, LACEY\n\nBRING YOUR HIGH-VISIBILITY PROTEST SIGNS, FLAGS, & A GOOD MOOD, AND JOIN US ON THE BRIDGE TO MAKE GOOD TROUBLE!\n\nMORE INFORMATION: BACKBONECAMPAIGN.ORG AND THEBLOP.ORG",
+    "raw_summary": "The flyer advertises an overpass bannering event by Olympia Visibility Brigade, scheduled for August 30, 2025, from 12 PM to 2 PM at the Chehalis Western Trail pedestrian bridge over I-5 in Lacey. Participants are encouraged to bring high-visibility protest signs and flags. More information can be found on backbonecampaign.org and theblop.org."
   },
   {
     "id": "f29cf038-22ae-4ac5-845d-53abb7d58e3d",
@@ -450,6 +523,28 @@
     "ical": "https://theblop.org/assets/ical/461df88c-54c8-4c5c-944e-0b7b34fbfbab.ics",
     "raw_text": "SHARE YOUR VOICES FOR WORKING FAMILIES\n#WorkersOverBillionaires\n\nMON, SEPT. 1, 2025\nLabor Day rally 6:00-7:30 PM\nHISTORIC COURTHOUSE, 199 N Main, LOGAN, UTAH\n\nBe a musician, poet, or labor speaker\nExpress your views on working and living in today's America\n\nWe the People Cache Valley\nSIGN UP: ATTEND\nINDIVISIBLE OF CACHE VALLEY\n\nSIGN UP HERE TO SING, SPEAK, READ POETRY, OR PERFORM\nRevive Democracy – Fairness, Freedom, Equal Rights, Justice, Restore Earth\n\nA core principle behind all our INDIVISIBLE events is a commitment to nonviolent action. We expect all participants to seek to de-escalate any potential confrontation with those who disagree with our values. Weapons of any kind, including those legally permitted, should not be brought to events.\nIf there are too many volunteers, we may request that you present at a future event.",
     "raw_summary": "The image announces a Labor Day rally event themed \"Share Your Voices for Working Families\" to be held on September 1, 2025, at the Historic Courthouse, 199 N Main, Logan, Utah. The event invites musicians, poets, and labor speakers to express their views on working and living in America. It is organized by \"We the People Cache Valley\" and \"Indivisible of Cache Valley.\" There are also QR codes for sign-up, emphasizing nonviolent participation."
+  },
+  {
+    "id": "7a516ffd-9496-4ce5-8dc6-d704be38ae4e",
+    "title": "We Are Over It",
+    "date": "Monday, September 1, 2025",
+    "time": "See Flyer",
+    "description": "Join us for a peaceful protest called 'We Are Over It,' where we unite to express our dissatisfaction with political issues through overpass bannering. This Labor Day, let your voice be heard across the nation.",
+    "city": "Nationwide",
+    "state": "Nationwide",
+    "address": "",
+    "meeting_location": "An overpass near you",
+    "links": [],
+    "sponsors": [
+      "Evergreen Resistance"
+    ],
+    "image_url": "https://theblop.org/assets/images/7a516ffd-9496-4ce5-8dc6-d704be38ae4e.png",
+    "thumbnail_url": "https://theblop.org/assets/images/7a516ffd-9496-4ce5-8dc6-d704be38ae4e-thumb.jpg",
+    "canonical_id": "",
+    "permalink": "https://theblop.org/events/7a516ffd-9496-4ce5-8dc6-d704be38ae4e.html",
+    "ical": "https://theblop.org/assets/ical/7a516ffd-9496-4ce5-8dc6-d704be38ae4e.ics",
+    "raw_text": "WE ARE OVER IT\nWHEN: Labor Day 9/1\nWHERE: An overpass near you\nWHAT: Overpass Bannering\nWHO: We the people\nWHY:\nWe’re over the kidnappings.\nWe’re over the corruption.\nWe’re over the gaslighting.\nWe’re over the destruction of our Constitution.\nSEPTEMBER 1, 2025 • WE’RE #OVERIT\nWe are committed to peaceful protest.\nWhile bannering, please do not leave banners unattended or hang banners over bridge rails.\nPlease be considerate of pedestrians + don’t feed the trolls.\nEVERGREEN RESISTANCE\nYOU ARE THE RESISTANCE",
+    "raw_summary": "This flyer is promoting an event called \"We Are Over It,\" involving overpass bannering on Labor Day, September 1, 2025. It encourages participants to express dissatisfaction over political issues. The event is organized by \"We the people\" and takes place at various locations on overpasses nationwide."
   },
   {
     "id": "28afa066-d5da-44d7-b739-f29245fb2b0c",

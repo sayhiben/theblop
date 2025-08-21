@@ -2,15 +2,17 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:e0d8ccd8-90fb-4dea-a4e4-0427590d11c6
+UID:fbe3bd16-ea66-4283-b0ea-fee501275f73
 SEQUENCE:0
 DTSTAMP:20250821T031948Z
 DTSTART:20250901T000000
 DTEND:20250901T020000
-SUMMARY:Labor Day Nationwide Protest
+SUMMARY:We Are Over It
 LOCATION:\, Nationwide\, Nationwide
-DESCRIPTION:Join us for a nationwide protest on Labor Day to stand up for 
- workers' rights.\n\n
+DESCRIPTION:Join us for a peaceful protest called 'We Are Over It\,' where
+  we unite to express our dissatisfaction with political issues through ove
+ rpass bannering. This Labor Day\, let your voice be heard across the natio
+ n.\n\nAn overpass near you
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+Nationwi
  de%2C+Nationwide&zoom=15&basemap=roadmap
 STATUS:CONFIRMED
