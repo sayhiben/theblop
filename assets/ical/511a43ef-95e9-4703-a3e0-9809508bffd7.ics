@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:7cb96933-0d77-4a26-bca8-50a60fd53282
+SEQUENCE:0
+DTSTAMP:20250824T000728Z
+DTSTART:20250901T100000
+DTEND:20250901T120000
+SUMMARY:Labor Day Actions
+LOCATION:Corner of Novi Rd & Grand River\, Novi\, MI
+DESCRIPTION:An event promoting labor solidarity as part of #SolidaritySept
+ ember on Labor Day.\n\nCorner of Novi Rd & Grand River\, Novi\, MI
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Corner+of+No
+ vi+Rd+%26+Grand+River%2C+Novi%2C+MI&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
