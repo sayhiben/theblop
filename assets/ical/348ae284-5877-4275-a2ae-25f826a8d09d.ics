@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:544e4e9c-6e4c-40c3-889d-3eac15f59d1d
+SEQUENCE:0
+DTSTAMP:20250824T180333Z
+DTSTART:20250901T143000
+DTEND:20250901T163000
+SUMMARY:Workers Over Billionaires
+LOCATION:14211 37th Ave S\, Tukwila\, Tukwila\, WA
+DESCRIPTION:Rally and march to Tukwila ICE Field Office as part of a natio
+ nwide protest advocating for workers' rights over billionaires' interests.
+ \n\nTukwila Int'l Blvd Light Rail
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=14211+37th+A
+ ve+S%2C+Tukwila%2C+Tukwila%2C+WA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
