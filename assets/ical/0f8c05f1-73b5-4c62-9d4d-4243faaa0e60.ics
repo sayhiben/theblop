@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:dd71eed4-3673-4665-a5fd-d430669f7d04
+SEQUENCE:0
+DTSTAMP:20250825T032357Z
+DTSTART:20250829T170000
+DTEND:20250829T190000
+SUMMARY:Loveland Labor Night Out
+LOCATION:2750 N Taft Avenue\, Loveland\, CO
+DESCRIPTION:Join us to kick off Labor Day weekend by meeting your local un
+ ions. Enjoy food trucks and announcements of unions joining us for the eve
+ ning.\n\nNorth Lake Park
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=2750+N+Taft+
+ Avenue%2C+Loveland%2C+CO&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
