@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:6cebf9d4-ca4d-4863-ac7e-d9c698ad8ff4
+SEQUENCE:0
+DTSTAMP:20250825T120353Z
+DTSTART:20250901T100000
+DTEND:20250901T120000
+SUMMARY:Labor Day March
+LOCATION:30 North Virginia St\, Reno\, NV
+DESCRIPTION:Join 50501 NNV for a silent march in support and solidarity fo
+ r workers and families who have gone missing due to unlawful ICE activitie
+ s. Wear black and receive a yellow mask at the event to symbolize support.
+ \n\nCity Plaza
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=30+North+Vir
+ ginia+St%2C+Reno%2C+NV&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
