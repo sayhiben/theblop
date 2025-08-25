@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:37bc718c-6993-465a-9452-57989a28de45
+SEQUENCE:0
+DTSTAMP:20250825T180420Z
+DTSTART:20250829T170000
+DTEND:20250829T190000
+SUMMARY:Labor Day 2025 Event
+LOCATION:4th and Lincoln\, E 4th St\, Loveland\, CO
+DESCRIPTION:Join us to raise awareness against a bill associated with Laur
+ en Boebert that impacts health insurance\, food stamp benefits\, and incre
+ ases national debt.\n\n4th and Lincoln
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=4th+and+Linc
+ oln%2C+E+4th+St%2C+Loveland%2C+CO&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
