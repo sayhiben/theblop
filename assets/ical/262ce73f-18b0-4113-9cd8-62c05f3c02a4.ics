@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:9eb302a8-087f-4584-a3d4-ed6f435c5ddf
+SEQUENCE:0
+DTSTAMP:20250826T150406Z
+DTSTART:20250920T120000
+DTEND:20250920T140000
+SUMMARY:Olympia Visibility Brigade Overpass Bannering
+LOCATION:Custer Way / I-5\, Tumwater\, WA
+DESCRIPTION:Join the Olympia Visibility Brigade for an overpass bannering 
+ protest to stand against threats to democracy. Bring your protest signs an
+ d flags to Custer Way/I-5 in Tumwater for a show of solidarity.\n\nCuster 
+ Way / I-5
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Custer+Way+%
+ 2F+I-5%2C+Tumwater%2C+WA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

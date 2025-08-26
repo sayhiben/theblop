@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:4560681a-3bb0-4c6c-98cd-0cf7b791d84c
+SEQUENCE:0
+DTSTAMP:20250826T150406Z
+DTSTART:20250901T000000
+DTEND:20250901T020000
+SUMMARY:Labor Day 2025
+DESCRIPTION:We are organizing a nonviolent action on Labor Day hosted by I
+ ndivisible NWA to stand against the billionaire takeover. Join us in plann
+ ing an impactful event beyond a simple barbecue.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=&zoom=15&bas
+ emap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
