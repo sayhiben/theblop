@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:338399fc-62d4-44a6-a1e6-6b4909b7a882
+SEQUENCE:0
+DTSTAMP:20250827T060559Z
+DTSTART:20250901T173000
+DTEND:20250901T193000
+SUMMARY:Labor Day March & Rally
+LOCATION:5308 S Moody Ave\, Portland\, OR
+DESCRIPTION:A rally in support of workers and migrants held at Elizabeth C
+ aruthers Park\, followed by a march to the ICE office.\n\nElizabeth Caruth
+ ers Park
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=5308+S+Moody
+ +Ave%2C+Portland%2C+OR&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

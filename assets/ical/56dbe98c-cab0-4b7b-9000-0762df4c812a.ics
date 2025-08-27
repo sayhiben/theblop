@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:6539c058-9b83-4371-ab64-630263657b8f
+SEQUENCE:0
+DTSTAMP:20250827T060559Z
+DTSTART:20250828T163000
+DTEND:20250828T183000
+SUMMARY:ICE OUT OF PORTLAND! REVOKE THE ICE PERMIT!
+LOCATION:1900 SW 4th Ave\, Portland\, OR
+DESCRIPTION:Join us to protest ICE's violation of the conditional use perm
+ it. We are rallying to demand the Portland Permitting and Development Offi
+ ce revokes the permit.\n\nPortland Permitting and Development Office
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=1900+SW+4th+
+ Ave%2C+Portland%2C+OR&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
