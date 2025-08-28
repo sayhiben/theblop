@@ -2,19 +2,19 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:2d67a0d7-f8a7-4cc4-8407-d8480c7aaf67
+UID:b4ef7a30-77e3-42d1-b1a5-8d518ba41a9b
 SEQUENCE:0
 DTSTAMP:20250828T180359Z
-DTSTART:20250901T180000
-DTEND:20250901T200000
-SUMMARY:Labor Day Kickoff
-LOCATION:350 N State Street\, Salt Lake City\, UT
+DTSTART:20250901T140000
+DTEND:20250901T160000
+SUMMARY:Labor Day Rally
+LOCATION:715 Calhoun St\, Fort Wayne\, IN
 DESCRIPTION:Join the national movement for working class power to stand ag
  ainst rising fascism\, for racial justice\, immigrant rights\, LGBTQIA+ eq
  uality\, gender justice\, public services\, and human rights throughout th
- e US and the world.\n\nUtah State Capitol
-URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=350+N+State+
- Street%2C+Salt+Lake+City%2C+UT&zoom=15&basemap=roadmap
+ e US and the world.\n\nAllen County Courthouse
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=715+Calhoun+
+ St%2C+Fort+Wayne%2C+IN&zoom=15&basemap=roadmap
 STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR
