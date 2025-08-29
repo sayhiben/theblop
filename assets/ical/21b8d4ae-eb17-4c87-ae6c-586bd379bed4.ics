@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:1628ca6a-2909-48a5-a389-fba30126556f
+SEQUENCE:0
+DTSTAMP:20250829T180349Z
+DTSTART:20250917T193000
+DTEND:20250917T213000
+SUMMARY:We The People
+LOCATION:510 N Main\, Wichita\, KS
+DESCRIPTION:Join us to stand together and protect the Constitution\, inspi
+ red by Thomas Jefferson's words.\n\nSedgwick County Historical Courthouse
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=510+N+Main%2
+ C+Wichita%2C+KS&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
