@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:26d8dd02-4a86-46ab-b78d-6688f4ab266f
+SEQUENCE:0
+DTSTAMP:20250829T031705Z
+DTSTART:20250901T140000
+DTEND:20250901T160000
+SUMMARY:Rally for Working Class Power
+LOCATION:1 N. Main Street\, Brigham City\, UT
+DESCRIPTION:Join us in Brigham City on September 1st to empower working cl
+ ass power against rising fascism. We emphasize nonviolent action and colle
+ ctive strength.\n\n1 N. Main Street
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=1+N.+Main+St
+ reet%2C+Brigham+City%2C+UT&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
