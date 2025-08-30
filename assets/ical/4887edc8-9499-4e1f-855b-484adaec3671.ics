@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:e1af251d-c53e-4931-bd24-0090fdf564da
+SEQUENCE:0
+DTSTAMP:20250830T060341Z
+DTSTART:20250901T170000
+DTEND:20250901T190000
+SUMMARY:Labor Day Community Gathering
+LOCATION:600 N Bluff St\, St. George\, UT
+DESCRIPTION:Join Southern Utah Indivisible as we celebrate workers with ou
+ r labor and community partners. Get to know your community\, discuss your 
+ concerns\, and learn more about Indivisible and other local community grou
+ ps.\n\nSandtown Park Pavilion
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=600+N+Bluff+
+ St%2C+St.+George%2C+UT&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
