@@ -2,15 +2,16 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:04e35ccf-7fc3-4d0e-8479-e605d43741ed
+UID:0cdda5c6-cf4d-4dff-9fc4-6b840fd638f3
 SEQUENCE:0
 DTSTAMP:20250831T060345Z
-DTSTART:20251018T000000
-DTEND:20251018T020000
-SUMMARY:NO KINGS 2.0
+DTSTART:20250906T000000
+DTEND:20250906T020000
+SUMMARY:Reno Pride March
 LOCATION:\, Reno\, NV
-DESCRIPTION:Join us on October 18 to ensure our voices are heard loudly an
- d clearly. Organized by Indivisible Northern Nevada.\n\n
+DESCRIPTION:We are forming a huge coalition of allies this year to show ou
+ r unwavering support for Northern Nevada’s LGBTQIA+ community. Join our 
+ crew!\n\n
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+Reno%2C+
  NV&zoom=15&basemap=roadmap
 STATUS:CONFIRMED
