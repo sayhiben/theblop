@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:40540019-281a-4ec5-900e-2529d7233389
+SEQUENCE:0
+DTSTAMP:20250901T090348Z
+DTSTART:20250901T170000
+DTEND:20250901T190000
+SUMMARY:Labor Day Rally and March
+LOCATION:Oklahoma State Capitol South Plaza - 2300 N Lincoln\, Oklahoma Ci
+ ty\, OK
+DESCRIPTION:Join us in the national movement for working-class power to st
+ and against rising fascism\, for racial justice\, immigrant rights\, LGBTQ
+ IA+ equality\, gender justice\, public services\, and human rights through
+ out the US and the world.\n\nOklahoma State Capitol South Plaza
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Oklahoma+Sta
+ te+Capitol+South+Plaza+-+2300+N+Lincoln%2C+Oklahoma+City%2C+OK&zoom=15&bas
+ emap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
