@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:36d1c9e0-63fc-41a2-b64b-d3e0fc370064
+SEQUENCE:0
+DTSTAMP:20250903T211136Z
+DTSTART:20251018T120000
+DTEND:20251018T140000
+SUMMARY:No Kings
+LOCATION:2 North Main St.\, Greensburg\, PA
+DESCRIPTION:We are organizing a nationwide protest at the Westmoreland Cou
+ nty Courthouse to pressure Congress\, stand up for righteousness\, and adv
+ ocate for the impeachment and removal of those in power if necessary. Join
+  us to uphold justice and affirm that there are no kings in America.\n\nWe
+ stmoreland County Courthouse
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=2+North+Main
+ +St.%2C+Greensburg%2C+PA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
