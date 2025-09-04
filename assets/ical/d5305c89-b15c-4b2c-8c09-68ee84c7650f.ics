@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:e51e8082-8e7e-46f0-88e1-4dfb79a5e049
+SEQUENCE:0
+DTSTAMP:20250904T180357Z
+DTSTART:20250920T130000
+DTEND:20250920T150000
+SUMMARY:INDIVISIBLE NWA Monthly Meeting
+LOCATION:Alton Center\, Fayetteville\, AR
+DESCRIPTION:Join us for our monthly meeting hosted by INDIVISIBLE NWA. Eng
+ age with our community and participate in discussions.\n\nAlton Center
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Alton+Center
+ %2C+Fayetteville%2C+AR&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
