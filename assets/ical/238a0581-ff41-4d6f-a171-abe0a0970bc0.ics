@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:48322e73-ba7a-49eb-90bf-680d7327a490
+SEQUENCE:0
+DTSTAMP:20250905T060356Z
+DTSTART:20250906T140000
+DTEND:20250906T160000
+SUMMARY:Our Babies Deserve the Skies
+LOCATION:3508 S Moody Ave\, Portland\, OR
+DESCRIPTION:Join us to stand for a world where our babies deserve the skie
+ s and live without fear. Bring your courage\, love\, and voice to support 
+ this cause.\n\nElizabeth Caruthers Park
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=3508+S+Moody
+ +Ave%2C+Portland%2C+OR&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
