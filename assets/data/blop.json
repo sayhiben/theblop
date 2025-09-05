@@ -1,25 +1,5 @@
 [
   {
-    "id": "06046ef1-3250-4361-9bd4-95c92b3f77b9",
-    "title": "Corner Protest",
-    "date": "Thursday, September 4, 2025",
-    "time": "4:15 PM",
-    "description": "Join us at the Corner Protest for positive engagement as we aim to protect democracy and express our concerns about current issues.",
-    "city": "Fort Collins",
-    "state": "CO",
-    "address": "2601 S College Ave",
-    "meeting_location": "SW Corner of Drake and College",
-    "links": [],
-    "sponsors": [],
-    "image_url": "https://theblop.org/assets/images/06046ef1-3250-4361-9bd4-95c92b3f77b9.png",
-    "thumbnail_url": "https://theblop.org/assets/images/06046ef1-3250-4361-9bd4-95c92b3f77b9-thumb.jpg",
-    "canonical_id": "",
-    "permalink": "https://theblop.org/events/06046ef1-3250-4361-9bd4-95c92b3f77b9.html",
-    "ical": "https://theblop.org/assets/ical/06046ef1-3250-4361-9bd4-95c92b3f77b9.ics",
-    "raw_text": "Join the Corner Protest every Tuesday and Thursday 4:15-5:45 PM \nSW Corner of Drake and College in Fort Collins\nPositive engagement\nPROTECT DEMOCRACY\nRight or Left ... we all know this is WRONG!\nWE THE PEOPLE\nOMG GOP WTF\nThursday, September 4, 2025\n4:15 - 5:45 pm\n2601 S College Ave, Fort Collins, CO",
-    "raw_summary": "The image promotes a recurring protest event known as the \"Corner Protest,\" specifying its timing, location in Fort Collins, and the message of \"Positive engagement.\""
-  },
-  {
     "id": "01f3a90d-e165-42dc-a304-45737e6f7823",
     "title": "NOW Is the Time to ACT UP!",
     "date": "Saturday, September 6, 2025",
@@ -112,6 +92,50 @@
     "raw_summary": "The image is an event flyer for the Olympia Visibility Brigade's Overpass Bannering event. It is scheduled for September 8, 2025, from 4:30 to 6:30 at Kissing Couple, Percival Landing in Downtown Olympia. Participants are encouraged to bring protest signs and flags."
   },
   {
+    "id": "e385f338-e19f-4831-a3e6-d18f3835fa9e",
+    "title": "Corner Protest",
+    "date": "Tuesday, September 9, 2025",
+    "time": "4:15 PM",
+    "description": "Join us for the Corner Protest every Tuesday and Thursday. Engage positively and stand for democracy at the southwest corner of Drake and College.",
+    "city": "Fort Collins",
+    "state": "CO",
+    "address": "2601 S College Ave",
+    "meeting_location": "SW Corner of Drake and College",
+    "links": [],
+    "sponsors": [],
+    "image_url": "https://theblop.org/assets/images/e385f338-e19f-4831-a3e6-d18f3835fa9e.png",
+    "thumbnail_url": "https://theblop.org/assets/images/e385f338-e19f-4831-a3e6-d18f3835fa9e-thumb.jpg",
+    "canonical_id": "",
+    "permalink": "https://theblop.org/events/e385f338-e19f-4831-a3e6-d18f3835fa9e.html",
+    "ical": "https://theblop.org/assets/ical/e385f338-e19f-4831-a3e6-d18f3835fa9e.ics",
+    "raw_text": "Join the Corner Protest every Tuesday and Thursday 4:15-5:45 PM\n\nSW Corner of Drake and College in Fort Collins\n\nPositive engagement\n\nPROTECT DEMOCRACY\n\nRight or Left ... we all know this is WRONG!\n\nOMG GOP WTF\n\nWE THE PEOPLE\n\nTuesday, September 9, 2025 4:15 - 5:45 pm 2601 S College Ave, Fort Collins, CO",
+    "raw_summary": "The image describes a protest event called \"Corner Protest\" held every Tuesday and Thursday from 4:15 to 5:45 PM at the southwest corner of Drake and College in Fort Collins, Colorado. It mentions positive engagement, emphasizing themes like \"Protect Democracy\" and \"We the People.\""
+  },
+  {
+    "id": "7b6f3770-ac07-47c2-8068-259b1df370ed",
+    "title": "Corner Protest",
+    "date": "Thursday, September 11, 2025",
+    "time": "4:15 PM",
+    "description": "We gather every Tuesday and Thursday for a positive engagement protest at the southwest corner of Drake and College in Fort Collins, advocating for democracy and unity.",
+    "city": "Fort Collins",
+    "state": "CO",
+    "address": "2601 S College Ave",
+    "meeting_location": "SW Corner of Drake and College",
+    "links": [
+      "[]"
+    ],
+    "sponsors": [
+      "[]"
+    ],
+    "image_url": "https://theblop.org/assets/images/7b6f3770-ac07-47c2-8068-259b1df370ed.png",
+    "thumbnail_url": "https://theblop.org/assets/images/7b6f3770-ac07-47c2-8068-259b1df370ed-thumb.jpg",
+    "canonical_id": "",
+    "permalink": "https://theblop.org/events/7b6f3770-ac07-47c2-8068-259b1df370ed.html",
+    "ical": "https://theblop.org/assets/ical/7b6f3770-ac07-47c2-8068-259b1df370ed.ics",
+    "raw_text": "Join the Corner Protest every Tuesday and Thursday 4:15-5:45 PM\nSW Corner of Drake and College in Fort Collins\nPositive engagement\n\nPROTECT DEMOCRACY\n\nOMG GOP WTF\n\nRight or Left ... we all know this is WRONG!\n\nWE THE PEOPLE\n\nThursday, September 11, 2025\n4:15 - 5:45 pm\n2601 S College Ave, Fort Collins, CO",
+    "raw_summary": "The flyer advertises a recurring protest event scheduled every Tuesday and Thursday from 4:15 PM to 5:45 PM at the southwest corner of Drake and College in Fort Collins. The flyer mentions \"positive engagement\" and includes messages like \"Protect Democracy,\" \"Right or Left ... we all know this is WRONG!,\" and provides a specific date: Thursday, September 11, 2025. The address mentioned is 2601 S College Ave, Fort Collins, CO."
+  },
+  {
     "id": "6ae1c965-74f5-499c-9d54-47ee1b9eb1ac",
     "title": "Olympia Visibility Brigade Overpass Bannering",
     "date": "Saturday, September 13, 2025",
@@ -160,6 +184,26 @@
     "raw_summary": "The Olympia Visibility Brigade is hosting an Overpass Bannering event on September 15, 2025, from 4:30 PM to 6:30 PM at the Chehalis Western Trail Footbridge over I-5 in Lacey. Participants are encouraged to bring high-visibility protest signs, flags, and a good mood. More information is available on backbonecampaign.org and theblop.org."
   },
   {
+    "id": "aa968ff7-af64-4679-bc31-aaed25eecb3a",
+    "title": "Corner Protest",
+    "date": "Tuesday, September 16, 2025",
+    "time": "4:15 PM",
+    "description": "Join us for a recurring protest every Tuesday and Thursday. This event emphasizes the need for positive engagement on important issues, drawing attention to democracy and civic dialogue.",
+    "city": "Fort Collins",
+    "state": "CO",
+    "address": "2601 S College Ave",
+    "meeting_location": "SW Corner of Drake and College",
+    "links": [],
+    "sponsors": [],
+    "image_url": "https://theblop.org/assets/images/aa968ff7-af64-4679-bc31-aaed25eecb3a.png",
+    "thumbnail_url": "https://theblop.org/assets/images/aa968ff7-af64-4679-bc31-aaed25eecb3a-thumb.jpg",
+    "canonical_id": "",
+    "permalink": "https://theblop.org/events/aa968ff7-af64-4679-bc31-aaed25eecb3a.html",
+    "ical": "https://theblop.org/assets/ical/aa968ff7-af64-4679-bc31-aaed25eecb3a.ics",
+    "raw_text": "Join the Corner Protest every Tuesday and Thursday 4:15-5:45 PM\nSW Corner of Drake and College in Fort Collins\nPositive engagement\nPROTECT DEMOCRACY\nOMG GOP WTF\nRight or Left ... we all know this is WRONG!\nWE THE PEOPLE\nTuesday, September 16, 2025\n4:15 - 5:45 pm\n2601 S College Ave, Fort Collins, CO",
+    "raw_summary": "The image promotes a recurring protest event at the southwest corner of Drake and College in Fort Collins, occurring every Tuesday and Thursday from 4:15 PM to 5:45 PM. The image specifically highlights an occurrence on Tuesday, September 16, 2025, aiming for positive engagement."
+  },
+  {
     "id": "21b8d4ae-eb17-4c87-ae6c-586bd379bed4",
     "title": "We The People",
     "date": "Wednesday, September 17, 2025",
@@ -180,6 +224,26 @@
     "ical": "https://theblop.org/assets/ical/21b8d4ae-eb17-4c87-ae6c-586bd379bed4.ics",
     "raw_text": "We The People\n\n“The people are the only sure reliance for the preservation of our liberty.” - Thomas Jefferson\nStand with us. Protect the Constitution.\nSept 17, 7:30-9PM • Sedgwick County Historical Courthouse\n510 N Main, Wichita, KS 67203\n\nLEADING KANSAS",
     "raw_summary": "The image is a flyer for an event titled \"We The People,\" quoting Thomas Jefferson. It encourages people to stand together and protect the Constitution. The event is scheduled for September 17th from 7:30 to 9 PM, taking place at the Sedgwick County Historical Courthouse in Wichita, KS. The flyer is associated with \"Leading Kansas.\""
+  },
+  {
+    "id": "3ce09f59-3a83-42e4-9716-ca5e2524b7c3",
+    "title": "Corner Protest",
+    "date": "Thursday, September 18, 2025",
+    "time": "4:15 PM",
+    "description": "Join our protest for democratic values every Tuesday and Thursday at a central location in Fort Collins. We aim for positive engagement and raising awareness about key issues.",
+    "city": "Fort Collins",
+    "state": "CO",
+    "address": "2601 S College Ave",
+    "meeting_location": "SW Corner of Drake and College",
+    "links": [],
+    "sponsors": [],
+    "image_url": "https://theblop.org/assets/images/3ce09f59-3a83-42e4-9716-ca5e2524b7c3.png",
+    "thumbnail_url": "https://theblop.org/assets/images/3ce09f59-3a83-42e4-9716-ca5e2524b7c3-thumb.jpg",
+    "canonical_id": "",
+    "permalink": "https://theblop.org/events/3ce09f59-3a83-42e4-9716-ca5e2524b7c3.html",
+    "ical": "https://theblop.org/assets/ical/3ce09f59-3a83-42e4-9716-ca5e2524b7c3.ics",
+    "raw_text": "Join the Corner Protest every Tuesday and Thursday 4:15-5:45 PM\nSW Corner of Drake and College in Fort Collins\nPositive engagement\nPROTECT DEMOCRACY\nRight or Left ... we all know this is WRONG!\nWE THE PEOPLE\nOMG GOP WTF\nThursday, September 18, 2025\n4:15 - 5:45 pm\n2601 S College Ave, Fort Collins, CO",
+    "raw_summary": "The image invites people to join the Corner Protest every Tuesday and Thursday at a specific location in Fort Collins. The protest aims for positive engagement. A specific upcoming date is provided for an event at this protest location."
   },
   {
     "id": "141bae95-ab98-477f-bb0e-c53bbe9db6dd",
