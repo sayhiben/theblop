@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:5d1af27a-e2ee-43af-9e5c-a7bddf852238
+SEQUENCE:0
+DTSTAMP:20250906T150344Z
+DTSTART:20250913T100000
+DTEND:20250913T120000
+SUMMARY:Walk Against ICE
+LOCATION:3337 NW Byron St.\, Silverdale\, WA
+DESCRIPTION:Join us for a countywide joint action featuring a rally\, info
+  tables\, a march\, and music. We aim to unite the community in protest ag
+ ainst ICE policies.\n\nSilverdale Waterfront Park
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=3337+NW+Byro
+ n+St.%2C+Silverdale%2C+WA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
