@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:01c832a5-890e-49ea-afde-6ca9ff7905a6
+SEQUENCE:0
+DTSTAMP:20250907T031628Z
+DTSTART:20251018T110000
+DTEND:20251018T130000
+SUMMARY:Down With The King & The Billionaire Regime
+LOCATION:7th & Rangeline\, Joplin\, MO
+DESCRIPTION:Join us in Joplin for a rally against the alleged ruling class
+  and their influence.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=7th+%26+Rang
+ eline%2C+Joplin%2C+MO&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
