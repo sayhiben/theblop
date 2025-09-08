@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:12fa0e2c-b2e2-46da-a3a8-2e8afecd792c
+SEQUENCE:0
+DTSTAMP:20250908T210323Z
+DTSTART:20251018T130000
+DTEND:20251018T150000
+SUMMARY:No Kings 2.0
+LOCATION:George Washington Park Sidewalk on S. Pearl St.\, Centralia\, WA
+DESCRIPTION:The event promotes the constitutional principle that no indivi
+ dual should be above the law and discourages monarchy or privileges based 
+ on birth or title. Organized by LD #20 Democrats\, Centralia.Mobilize\, an
+ d Rural Lewis Indivisible.\n\nGeorge Washington Park Sidewalk
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=George+Washi
+ ngton+Park+Sidewalk+on+S.+Pearl+St.%2C+Centralia%2C+WA&zoom=15&basemap=roa
+ dmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
