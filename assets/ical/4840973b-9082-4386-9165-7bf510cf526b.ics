@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:b7d7839f-383d-4743-9a4e-8ea73c7e7132
+SEQUENCE:0
+DTSTAMP:20250910T120434Z
+DTSTART:20250918T180000
+DTEND:20250918T200000
+SUMMARY:Stop Trump
+LOCATION:The Meadows (near the Meadows Cafe)\, Edinburgh\, GBR
+DESCRIPTION:Join us in protest against Trump's state visit to Edinburgh. B
+ e part of the movement to voice your concerns at The Meadows\, a significa
+ nt gathering place.\n\nThe Meadows
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=The+Meadows+
+ %28near+the+Meadows+Cafe%29%2C+Edinburgh%2C+GBR&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
