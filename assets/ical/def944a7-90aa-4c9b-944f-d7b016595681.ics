@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:4c0e2241-6c95-4b8a-b8c8-f6d8511ae8a6
+SEQUENCE:0
+DTSTAMP:20250913T180325Z
+DTSTART:20251018T110000
+DTEND:20251018T130000
+SUMMARY:No Kings in Northern NV
+LOCATION:400 S. Virginia St.\, Reno\, NV
+DESCRIPTION:Join us at the Bruce Thompson Courthouse & Federal Building in
+  Reno to assert the message 'No Thrones\, No Crowns'. An event standing ag
+ ainst monarchy and celebrating independence since 1776.\n\nBruce Thompson 
+ Courthouse & Federal Building
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=400+S.+Virgi
+ nia+St.%2C+Reno%2C+NV&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
