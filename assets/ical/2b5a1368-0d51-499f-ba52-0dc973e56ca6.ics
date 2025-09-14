@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:78f04bed-97dc-4b94-8fa5-60ac769b4870
+SEQUENCE:0
+DTSTAMP:20250914T000735Z
+DTSTART:20251018T000000
+DTEND:20251018T020000
+SUMMARY:NO KINGS
+LOCATION:Waterfront Park
+DESCRIPTION:This event\, titled "NO KINGS"\, is set to take place at Water
+ front Park.\n\nWaterfront Park
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Waterfront+P
+ ark&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
