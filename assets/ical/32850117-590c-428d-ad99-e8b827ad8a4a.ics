@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:56e77f91-63c6-4e70-a74a-9e4f1a0f6a3b
+SEQUENCE:0
+DTSTAMP:20250915T031940Z
+DTSTART:20250920T120000
+DTEND:20250920T140000
+SUMMARY:Tesla Takedown Northbrook
+LOCATION:1200 Skokie Blvd\, Northbrook\, IL
+DESCRIPTION:Join us as we protest against Elon Musk’s influence and its 
+ consequences. Let's keep the pressure on and impact the stock price. Stand
+  with us in Northbrook!\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=1200+Skokie+
+ Blvd%2C+Northbrook%2C+IL&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
