@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:b3151600-c781-4671-962e-a778bb3889ea
+SEQUENCE:0
+DTSTAMP:20250916T180421Z
+DTSTART:20250921T000000
+DTEND:20250921T020000
+SUMMARY:Seize the Sun (Day)!
+LOCATION:\, Bentonville\, AR
+DESCRIPTION:Join our rally for unlimited clean energy. We encourage partic
+ ipation to promote clean energy initiatives.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+Bentonvi
+ lle%2C+AR&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
