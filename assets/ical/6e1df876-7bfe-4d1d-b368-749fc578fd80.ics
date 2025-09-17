@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:08a22173-250c-4a34-a655-b27381d98122
+SEQUENCE:0
+DTSTAMP:20250917T000626Z
+DTSTART:20251012T100000
+DTEND:20251012T120000
+SUMMARY:The Internet's October Surprise
+LOCATION:LaFayette Park in front of the White House\, Washington\, DC
+DESCRIPTION:Trump's powerful online opposition puts down the mouse and get
+ s out of the house.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=LaFayette+Pa
+ rk+in+front+of+the+White+House%2C+Washington%2C+DC&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
