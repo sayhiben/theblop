@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:e0e59f43-36ce-4997-b3d9-e7473dee5612
+SEQUENCE:0
+DTSTAMP:20250919T000620Z
+DTSTART:20250920T120000
+DTEND:20250920T140000
+SUMMARY:Rally for Free Speech
+LOCATION:Pioneer Park\, Rhinelander\, WI
+DESCRIPTION:Join us as we gather to exercise our First Amendment right to 
+ free speech.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Pioneer+Park
+ %2C+Rhinelander%2C+WI&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
