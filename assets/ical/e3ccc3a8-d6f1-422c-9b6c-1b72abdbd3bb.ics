@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:dae7de96-8f36-4177-9f87-e302edd86d6c
+SEQUENCE:0
+DTSTAMP:20250919T090351Z
+DTSTART:20251018T120000
+DTEND:20251018T140000
+SUMMARY:NO KINGS 2.0
+LOCATION:George Washington Park Sidewalk on S. Pearl St.\, Centralia\, WA
+DESCRIPTION:Join us in promoting the principle that no individual is above
+  the law\, and discouraging any system granting special privileges based o
+ n birth or title.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=George+Washi
+ ngton+Park+Sidewalk+on+S.+Pearl+St.%2C+Centralia%2C+WA&zoom=15&basemap=roa
+ dmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
