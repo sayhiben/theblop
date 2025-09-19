@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:096fd61e-fd78-4cf8-925f-27ca1daf9a72
+SEQUENCE:0
+DTSTAMP:20250919T180411Z
+DTSTART:20251011T180000
+DTEND:20251011T200000
+SUMMARY:Bridge Brigade
+LOCATION:UNT Pedestrian Bridge
+DESCRIPTION:Join us as we gather to promote themes of defending democracy 
+ and freedom.\n\nUNT Pedestrian Bridge
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=UNT+Pedestri
+ an+Bridge&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
