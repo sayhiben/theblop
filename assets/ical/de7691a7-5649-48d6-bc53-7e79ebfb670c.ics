@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:ad5db524-609e-4f80-ae90-c4bda8efdce7
+SEQUENCE:0
+DTSTAMP:20250921T000755Z
+DTSTART:20251018T130000
+DTEND:20251018T150000
+SUMMARY:No Kings Rally
+LOCATION:Battleship Oregon Memorial\, Portland\, OR
+DESCRIPTION:Join us for the "No Kings" rally at the Battleship Oregon Memo
+ rial to engage in a public demonstration.\n\nBattleship Oregon Memorial
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Battleship+O
+ regon+Memorial%2C+Portland%2C+OR&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
