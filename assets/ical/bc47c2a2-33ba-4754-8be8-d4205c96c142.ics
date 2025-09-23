@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:11be495f-8560-479e-a5ce-ac7206768176
+SEQUENCE:0
+DTSTAMP:20250923T060434Z
+DTSTART:20251018T120000
+DTEND:20251018T140000
+SUMMARY:NO KINGS
+LOCATION:Franklin Street\, Westerly\, RI
+DESCRIPTION:We're lining the sidewalks on Franklin Street to show that Ame
+ rica has no kings. Bring a friend\, a young person\, or an instrument to j
+ oin the event.\n\nFranklin Plaza or Mill Pond Plaza
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Franklin+Str
+ eet%2C+Westerly%2C+RI&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

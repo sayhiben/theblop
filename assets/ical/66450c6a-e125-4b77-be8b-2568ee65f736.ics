@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:0fe24024-8556-45fa-b6b5-778bf76ccf7a
+SEQUENCE:0
+DTSTAMP:20250923T060434Z
+DTSTART:20251018T100000
+DTEND:20251018T120000
+SUMMARY:NO KINGS
+LOCATION:80 Boston Neck Road\, North Kingstown\, RI
+DESCRIPTION:We are organizing a public gathering to express that power bel
+ ongs to the people\, with a focus on community engagement.\n\nPublic Sidew
+ alk
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=80+Boston+Ne
+ ck+Road%2C+North+Kingstown%2C+RI&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

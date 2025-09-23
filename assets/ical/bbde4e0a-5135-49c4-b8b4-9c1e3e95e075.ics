@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:b70e5248-2302-4e0b-bd76-2b3c738893c6
+SEQUENCE:0
+DTSTAMP:20250923T060434Z
+DTSTART:20251018T130000
+DTEND:20251018T150000
+SUMMARY:Rhode Island Says No Kings March and Rally
+LOCATION:\, Providence\, RI
+DESCRIPTION:Join us for a march and rally advocating unity\, joy\, and emp
+ owerment. Bus tickets to the State House are available.\n\nState House
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+Providen
+ ce%2C+RI&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
