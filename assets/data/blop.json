@@ -567,6 +567,37 @@
     "raw_summary": "This flyer announces a march and rally event titled 'Rhode Island Says No Kings' happening on October 18, 2025, at the State House. The event is promoted with a theme of 'Unity, Joy, Empowerment.' There is an offer for bus tickets to the Providence State House, and a QR code is included for obtaining tickets."
   },
   {
+    "id": "7236810a-6af6-4239-834b-2f91659cebe2",
+    "title": "No Kings",
+    "date": "Saturday, October 18, 2025",
+    "time": "11:00 AM",
+    "description": "Join us at Niagara Square for the \"No Kings\" event featuring activities and perspectives from various organizations.",
+    "city": "Buffalo",
+    "state": "NY",
+    "address": "",
+    "meeting_location": "Niagara Square",
+    "links": [],
+    "sponsors": [
+      "WNYCOSH",
+      " 501",
+      " Power to the People New York",
+      " Clean Air Coalition",
+      " WNY Environmental Alliance",
+      " Standing Our Ground",
+      " Buffalo Prenatal Perinatal Network",
+      " 1199 SEIU",
+      " Elbows Up!",
+      " Rainbow Collective"
+    ],
+    "image_url": "https://theblop.org/assets/images/7236810a-6af6-4239-834b-2f91659cebe2.jpg",
+    "thumbnail_url": "https://theblop.org/assets/images/7236810a-6af6-4239-834b-2f91659cebe2-thumb.jpg",
+    "canonical_id": "",
+    "permalink": "https://theblop.org/events/7236810a-6af6-4239-834b-2f91659cebe2.html",
+    "ical": "https://theblop.org/assets/ical/7236810a-6af6-4239-834b-2f91659cebe2.ics",
+    "raw_text": "NO KINGS\nNIAGARA SQUARE\nBUFFALO NY\n11AM-1PM\nSAT 10/18",
+    "raw_summary": "The image announces an event called \"No Kings\" taking place at Niagara Square, Buffalo, NY, from 11 AM to 1 PM on Saturday, October 18th. Multiple logos on the flyer indicate various sponsors or affiliated organizations."
+  },
+  {
     "id": "9a08466d-965e-4911-9d7b-6fe7558c1814",
     "title": "Olympia Visibility Brigade: Overpass Bannering",
     "date": "Monday, October 20, 2025",

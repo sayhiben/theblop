@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:a5ed04f7-bda1-4641-ba60-b821c1e31ec5
+SEQUENCE:0
+DTSTAMP:20250923T150421Z
+DTSTART:20251018T110000
+DTEND:20251018T130000
+SUMMARY:No Kings
+LOCATION:\, Buffalo\, NY
+DESCRIPTION:Join us at Niagara Square for the "No Kings" event featuring a
+ ctivities and perspectives from various organizations.\n\nNiagara Square
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+Buffalo%
+ 2C+NY&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
