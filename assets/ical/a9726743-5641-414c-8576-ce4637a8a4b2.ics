@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:2622264d-c1e3-4e80-9786-76f968abc3cc
+SEQUENCE:0
+DTSTAMP:20250923T180403Z
+DTSTART:20250924T100000
+DTEND:20250924T120000
+SUMMARY:No Kings: Offices of Senator Tom Cotton and Representative Steve W
+ omack
+LOCATION:3333 S Pinnacle Hills Pkwy\, Rogers\, AR
+DESCRIPTION:Join us for a series of gatherings organized by Indivisible NW
+ A on public sidewalks to voice our concerns near the offices of Senator To
+ m Cotton and Representative Steve Womack.\n\nPublic sidewalks near the off
+ ices of Senator Tom Cotton and Representative Steve Womack
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=3333+S+Pinna
+ cle+Hills+Pkwy%2C+Rogers%2C+AR&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
