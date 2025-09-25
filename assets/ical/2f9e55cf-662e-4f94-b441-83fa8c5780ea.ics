@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:71f549a8-cba0-448f-998f-5b79a8e82933
+SEQUENCE:0
+DTSTAMP:20250925T180439Z
+DTSTART:20251018T130000
+DTEND:20251018T150000
+SUMMARY:No Kings!
+LOCATION:Vernon Worthen Park\, St. George\, UT
+DESCRIPTION:Join us for an event emphasizing freedom of speech\, featuring
+  a quote by George Washington. Supported by Together Works\, Indivisible\,
+  and the Washington County Democratic Party.\n\nVernon Worthen Park
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Vernon+Worth
+ en+Park%2C+St.+George%2C+UT&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:0e41a248-65ec-468a-87eb-312719c63516
+SEQUENCE:0
+DTSTAMP:20250925T180439Z
+DTSTART:20251018T100000
+DTEND:20251018T120000
+SUMMARY:NO KINGS 2
+LOCATION:2549 S Washington\, Ogden\, UT
+DESCRIPTION:Join us for a peaceful protest to unite against undesired powe
+ r structures.\n\nMunicipal Building
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=2549+S+Washi
+ ngton%2C+Ogden%2C+UT&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

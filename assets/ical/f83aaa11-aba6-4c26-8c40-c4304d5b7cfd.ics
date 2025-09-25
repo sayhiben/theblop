@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:87f03862-8dd9-4e49-a2bc-83e3552e637e
+SEQUENCE:0
+DTSTAMP:20250925T180439Z
+DTSTART:20251018T130000
+DTEND:20251018T150000
+SUMMARY:Join the Movement - No Kings
+LOCATION:199 N Main\, Logan\, UT
+DESCRIPTION:We invite you to join us at the Historic Cache Courthouse to r
+ evive democracy through fairness\, freedom\, equal rights\, justice\, and 
+ environmental restoration. Participants are expected to practice nonviolen
+ ce.\n\nHistoric Cache Courthouse
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=199+N+Main%2
+ C+Logan%2C+UT&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
