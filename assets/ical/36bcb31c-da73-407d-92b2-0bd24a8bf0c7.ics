@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:61899b06-8e94-4b65-95c7-08f3f7827b4a
+SEQUENCE:0
+DTSTAMP:20250926T180328Z
+DTSTART:20251018T100000
+DTEND:20251018T120000
+SUMMARY:No Thrones. No Crowns. No Kings.
+LOCATION:800 10th Ave\, Greeley\, CO
+DESCRIPTION:The event emphasizes a theme of rejecting traditional power sy
+ mbols. It takes place on October 18.\n\n800 10th Ave\, Greeley\, CO 80631
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=800+10th+Ave
+ %2C+Greeley%2C+CO&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:9ef0d57a-9e3a-439f-83bd-4229309589ed
+SEQUENCE:0
+DTSTAMP:20250926T180328Z
+DTSTART:20251018T110000
+DTEND:20251018T130000
+SUMMARY:NO KINGS
+LOCATION:7th Street & Main Street\, Windsor\, CO
+DESCRIPTION:Our peaceful movement is only getting bigger and stronger. “
+ NO KINGS” is more than just a slogan—it’s the foundation our nation 
+ was built upon. Born in the streets\, carried by millions in chants and on
+  posters\, it echoes from city blocks to rural town squares\, uniting peop
+ le across this country to fight dictatorship together. In America\, we don
+ ’t have kings\, and we won’t back down against chaos\, corruption\, an
+ d cruelty. Grow our movement and join us. A core principle behind all No K
+ ings events is a commitment to nonviolent action. We expect all participan
+ ts to seek to de-escalate any potential confrontation with those who disag
+ ree with our values and to act lawfully at these events. Weapons of any ki
+ nd\, including those legally permitted\, should not be brought to events.\
+ n\n7th Street & Main Street
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=7th+Street+%
+ 26+Main+Street%2C+Windsor%2C+CO&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
