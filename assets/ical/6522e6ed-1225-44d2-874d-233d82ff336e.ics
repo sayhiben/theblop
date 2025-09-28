@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:8a50a02d-8c38-4e73-9eec-6657702c38d5
+SEQUENCE:0
+DTSTAMP:20250928T000756Z
+DTSTART:20250928T160000
+DTEND:20250928T180000
+SUMMARY:FEDS OUT OF PORTLAND! ICE OUT OF PORTLAND!
+LOCATION:4310 S Macadam Ave\, Portland\, OR
+DESCRIPTION:This rally is aimed at protesting the presence of federal agen
+ ts and ICE in Portland\, Oregon. Participants are gathering to demand the 
+ removal of these forces from the city.\n\nThe ICE Facility
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=4310+S+Macad
+ am+Ave%2C+Portland%2C+OR&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
