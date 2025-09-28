@@ -2,15 +2,16 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:c283dd7e-1bed-4288-8470-7becb54129ef
+UID:1e68ca85-aea2-4611-89b4-959ff03e131c
 SEQUENCE:0
 DTSTAMP:20250928T060407Z
-DTSTART:20251018T130000
-DTEND:20251018T150000
-SUMMARY:No Kings Rally
+DTSTART:20250928T150000
+DTEND:20250928T170000
+SUMMARY:No Federal Forces in Portland
 LOCATION:Battleship Oregon Memorial\, Portland\, OR
-DESCRIPTION:Join us for the "No Kings" rally at the Battleship Oregon Memo
- rial to engage in a public demonstration.\n\nBattleship Oregon Memorial
+DESCRIPTION:Join us for a peaceful protest and rally against federal force
+ s in Portland. We are committed to a family-friendly\, all-inclusive\, non
+ violent action.\n\nBattleship Oregon Memorial
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Battleship+O
  regon+Memorial%2C+Portland%2C+OR&zoom=15&basemap=roadmap
 STATUS:CONFIRMED
