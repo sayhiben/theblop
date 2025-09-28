@@ -103,6 +103,28 @@
     "raw_summary": "The flyer is an announcement for a recurring event called 'Join the Corner Protest' happening every Tuesday and Thursday from 4:15 to 5:45 PM at the southwest corner of Drake and College in Fort Collins. It promotes positive engagement and includes messages about democracy."
   },
   {
+    "id": "3eb82bc8-d13e-4462-9ef7-815a9e81cc30",
+    "title": "No Kings",
+    "date": "Wednesday, October 1, 2025",
+    "time": "11:00 AM",
+    "description": "A gathering on public sidewalks near the offices of Senator Tom Cotton and Representative Steve Womack, organized by Indivisible NWA, to likely discuss or protest policies.",
+    "city": "Rogers",
+    "state": "AR",
+    "address": "3333 S Pinnacle Hills Pkwy",
+    "meeting_location": "Public sidewalks near offices",
+    "links": [],
+    "sponsors": [
+      "Indivisible NWA"
+    ],
+    "image_url": "https://theblop.org/assets/images/3eb82bc8-d13e-4462-9ef7-815a9e81cc30.png",
+    "thumbnail_url": "https://theblop.org/assets/images/3eb82bc8-d13e-4462-9ef7-815a9e81cc30-thumb.jpg",
+    "canonical_id": "",
+    "permalink": "https://theblop.org/events/3eb82bc8-d13e-4462-9ef7-815a9e81cc30.html",
+    "ical": "https://theblop.org/assets/ical/3eb82bc8-d13e-4462-9ef7-815a9e81cc30.ics",
+    "raw_text": "INDIVISIBLE NWA\nNo Kings: Offices of Senator Tom Cotton and Representative Steve Womack\nPublic sidewalks near\n3333 S Pinnacle Hills Pkwy, Rogers, AR 72758\nWednesdays, 11:00am-11:45am\nOctober 1st, 8th, and 15th\nRAIN OR SHINE, BUT BE WEATHER AWARE.",
+    "raw_summary": "The image advertises a public gathering by Indivisible NWA titled \"No Kings,\" held near the offices of Senator Tom Cotton and Representative Steve Womack at a specific address in Rogers, AR. The event occurs on select Wednesdays in October from 11:00 am to 11:45 am."
+  },
+  {
     "id": "b64a2b21-9e34-4f48-b264-83dd8fd69562",
     "title": "Corner Protest",
     "date": "Thursday, October 2, 2025",

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:2035f651-2897-473f-8793-f5ae7dd548bd
+SEQUENCE:0
+DTSTAMP:20250928T180359Z
+DTSTART:20251001T110000
+DTEND:20251001T130000
+SUMMARY:No Kings
+LOCATION:3333 S Pinnacle Hills Pkwy\, Rogers\, AR
+DESCRIPTION:A gathering on public sidewalks near the offices of Senator To
+ m Cotton and Representative Steve Womack\, organized by Indivisible NWA\, 
+ to likely discuss or protest policies.\n\nPublic sidewalks near offices
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=3333+S+Pinna
+ cle+Hills+Pkwy%2C+Rogers%2C+AR&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
