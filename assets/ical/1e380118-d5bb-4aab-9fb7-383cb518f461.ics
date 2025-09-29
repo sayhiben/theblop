@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:cba76a2a-2452-46d5-9251-76958ed97414
+SEQUENCE:0
+DTSTAMP:20250929T060439Z
+DTSTART:20251002T100000
+DTEND:20251002T120000
+SUMMARY:Protest: ICE Out of SA!
+LOCATION:3523 Crosspoint\, San Antonio\, TX
+DESCRIPTION:Join us in demanding safety and fair treatment for all immigra
+ nts. ICE and private prison company GEO Group are breaking international h
+ uman rights laws by detaining people without due process\, imprisoning ref
+ ugees\, and separating families.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=3523+Crosspo
+ int%2C+San+Antonio%2C+TX&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

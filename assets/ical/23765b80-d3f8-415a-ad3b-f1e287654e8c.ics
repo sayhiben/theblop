@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:b0bed18f-2693-4dc8-89e1-73ea355541c8
+SEQUENCE:0
+DTSTAMP:20250929T060439Z
+DTSTART:20251018T120000
+DTEND:20251018T140000
+SUMMARY:No Kings 2.0
+LOCATION:3110 Farnam St\, Omaha\, NE
+DESCRIPTION:Join us to stand against tyranny\, rally for our rights\, and 
+ demand a democracy by the people\, for the people. Activities include loca
+ l activism\, mutual aid\, civic engagement\, and volunteering opportunitie
+ s\, with featured speakers\, live music\, food\, and games.\n\nTurner Park
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=3110+Farnam+
+ St%2C+Omaha%2C+NE&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

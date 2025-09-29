@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:9a258029-a27d-498f-8222-a09c0ce8c383
+SEQUENCE:0
+DTSTAMP:20250929T060439Z
+DTSTART:20251018T160000
+DTEND:20251018T180000
+SUMMARY:NO KINGS Rally
+LOCATION:Travis Park\, San Antonio\, TX
+DESCRIPTION:Join us at Travis Park to stand against monarchical power. The
+  rally advocates for power belonging to the people\, with activities inclu
+ ding a march expressing resistance to monarchy.\n\nTravis Park
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Travis+Park%
+ 2C+San+Antonio%2C+TX&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

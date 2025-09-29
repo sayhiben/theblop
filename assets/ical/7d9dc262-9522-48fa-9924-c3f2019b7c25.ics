@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:6e862da2-4804-44e9-b9de-b83d46e4fcb0
+SEQUENCE:0
+DTSTAMP:20250929T060439Z
+DTSTART:20251018T160000
+DTEND:20251018T180000
+SUMMARY:Down with the King
+LOCATION:205 Government St.\, Mobile\, AL
+DESCRIPTION:Join us for a Halloween-themed protest. Wear a costume or dres
+ s in all black to participate!\n\nGovernment Plaza
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=205+Governme
+ nt+St.%2C+Mobile%2C+AL&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

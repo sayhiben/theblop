@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:9f93e787-11dd-4cf0-b0e9-5a13a0820abd
+SEQUENCE:0
+DTSTAMP:20250929T060439Z
+DTSTART:20251001T170000
+DTEND:20251001T190000
+SUMMARY:ICE OUT OF IOWA! Rally & Demonstration
+LOCATION:The Water Street Park\, Decorah\, IA
+DESCRIPTION:Join us to rally and demonstrate for immigrant rights at The W
+ ater Street Park.\n\nThe Water Street Park
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=The+Water+St
+ reet+Park%2C+Decorah%2C+IA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

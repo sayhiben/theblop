@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:93f48d3f-b8d2-44bb-bfc7-70808a855595
+SEQUENCE:0
+DTSTAMP:20250929T060439Z
+DTSTART:20251018T000000
+DTEND:20251018T020000
+SUMMARY:No Kings 2 Mass Protest
+DESCRIPTION:We are organizing a mass protest to stand against military occ
+ upation of cities\, secret police operations\, kidnapping of citizens\, pr
+ otection of sex traffickers\, and election interference. Join millions def
+ ending the Constitution\, rights\, and lives.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=&zoom=15&bas
+ emap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

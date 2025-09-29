@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:7a2f4902-30a7-4544-ab87-1cbb439a0717
+SEQUENCE:0
+DTSTAMP:20250929T060439Z
+DTSTART:20251018T100000
+DTEND:20251018T120000
+SUMMARY:We Say No Dictators
+LOCATION:[Details in different locations]\, [Various Locations in Hawaii]\
+ , HI
+DESCRIPTION:We are organizing an anti-dictatorship rally across islands on
+  October 18\, 2025\, to stand against dictatorship.\n\nMultiple details pe
+ r island
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%5BDetails+i
+ n+different+locations%5D%2C+%5BVarious+Locations+in+Hawaii%5D%2C+HI&zoom=1
+ 5&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
