@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:65b88c95-7fe6-42be-935e-b5270a34bef0
+SEQUENCE:0
+DTSTAMP:20250930T000705Z
+DTSTART:20251018T140000
+DTEND:20251018T160000
+SUMMARY:No Kings 2.0
+LOCATION:\, Bend\, OR
+DESCRIPTION:This is a PEACEFUL protest dedicated to positive change throug
+ h nonviolent action. Join us for activities including a gathering at Drake
+  Park\, a Sidewalk March\, and a congregation at Peace Corner.\n\nDrake Pa
+ rk
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+Bend%2C+
+ OR&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
