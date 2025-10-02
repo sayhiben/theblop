@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:7e5516d6-0d2f-42d4-bbd5-1294891c3d4d
+SEQUENCE:0
+DTSTAMP:20251002T031251Z
+DTSTART:20251018T163000
+DTEND:20251018T183000
+SUMMARY:Fighting Dictatorship Together
+LOCATION:At the big flag where Pacific Ave & 19th Way split\, Forest Grove
+ \, OR
+DESCRIPTION:We are organizing a protest against the administration's actio
+ ns\, including court defiance\, deportations\, and service cuts. This move
+ ment is for those who think the government has gone too far.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=At+the+big+f
+ lag+where+Pacific+Ave+%26+19th+Way+split%2C+Forest+Grove%2C+OR&zoom=15&bas
+ emap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
