@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:ea811c33-d40a-45de-b91a-2fb9f5c0b46a
+SEQUENCE:0
+DTSTAMP:20251002T001239Z
+DTSTART:20251004T120000
+DTEND:20251004T140000
+SUMMARY:Rally and March to ICE Facility
+LOCATION:3508 S Moody Ave\, Portland\, OR
+DESCRIPTION:Join us for a rally and march to protest the presence of the N
+ ational Guard in Portland and call for political changes. We stand against
+  ICE and demand troop withdrawal.\n\nElizabeth Caruthers Park
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=3508+S+Moody
+ +Ave%2C+Portland%2C+OR&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

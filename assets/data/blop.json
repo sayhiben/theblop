@@ -1,51 +1,5 @@
 [
   {
-    "id": "3eb82bc8-d13e-4462-9ef7-815a9e81cc30",
-    "title": "No Kings",
-    "date": "Wednesday, October 1, 2025",
-    "time": "11:00 AM",
-    "description": "A gathering on public sidewalks near the offices of Senator Tom Cotton and Representative Steve Womack, organized by Indivisible NWA, to likely discuss or protest policies.",
-    "city": "Rogers",
-    "state": "AR",
-    "address": "3333 S Pinnacle Hills Pkwy",
-    "meeting_location": "Public sidewalks near offices",
-    "links": [],
-    "sponsors": [
-      "Indivisible NWA"
-    ],
-    "image_url": "https://theblop.org/assets/images/3eb82bc8-d13e-4462-9ef7-815a9e81cc30.png",
-    "thumbnail_url": "https://theblop.org/assets/images/3eb82bc8-d13e-4462-9ef7-815a9e81cc30-thumb.jpg",
-    "canonical_id": "",
-    "permalink": "https://theblop.org/events/3eb82bc8-d13e-4462-9ef7-815a9e81cc30.html",
-    "ical": "https://theblop.org/assets/ical/3eb82bc8-d13e-4462-9ef7-815a9e81cc30.ics",
-    "raw_text": "INDIVISIBLE NWA\nNo Kings: Offices of Senator Tom Cotton and Representative Steve Womack\nPublic sidewalks near\n3333 S Pinnacle Hills Pkwy, Rogers, AR 72758\nWednesdays, 11:00am-11:45am\nOctober 1st, 8th, and 15th\nRAIN OR SHINE, BUT BE WEATHER AWARE.",
-    "raw_summary": "The image advertises a public gathering by Indivisible NWA titled \"No Kings,\" held near the offices of Senator Tom Cotton and Representative Steve Womack at a specific address in Rogers, AR. The event occurs on select Wednesdays in October from 11:00 am to 11:45 am."
-  },
-  {
-    "id": "ac0d575a-a2ed-4609-a211-3f6d1385dbc9",
-    "title": "ICE OUT OF IOWA! Rally & Demonstration",
-    "date": "Wednesday, October 1, 2025",
-    "time": "5:00 PM",
-    "description": "Join us to rally and demonstrate for immigrant rights at The Water Street Park.",
-    "city": "Decorah",
-    "state": "IA",
-    "address": "The Water Street Park",
-    "meeting_location": "The Water Street Park",
-    "links": [],
-    "sponsors": [
-      "50/50",
-      " Decorah Community for Immigrant Rights",
-      " IOWA Coalition"
-    ],
-    "image_url": "https://theblop.org/assets/images/ac0d575a-a2ed-4609-a211-3f6d1385dbc9.jpg",
-    "thumbnail_url": "https://theblop.org/assets/images/ac0d575a-a2ed-4609-a211-3f6d1385dbc9-thumb.jpg",
-    "canonical_id": "",
-    "permalink": "https://theblop.org/events/ac0d575a-a2ed-4609-a211-3f6d1385dbc9.html",
-    "ical": "https://theblop.org/assets/ical/ac0d575a-a2ed-4609-a211-3f6d1385dbc9.ics",
-    "raw_text": "ICE OUT OF IOWA!\nRally & Demonstration\nOctober 1st\n5:00 pm\n@ The Water Street Park\nDecorah, IA\n\n[Logos]\n50/50\nDecorah Community for Immigrant Rights\nIOWA Coalition",
-    "raw_summary": "The image appears to announce an event titled \"ICE OUT OF IOWA! Rally & Demonstration,\" scheduled for October 1st at 5:00 PM. It will take place at The Water Street Park in Decorah, IA. The image features logos of sponsors: 50/50, Decorah Community for Immigrant Rights, and IOWA Coalition."
-  },
-  {
     "id": "b64a2b21-9e34-4f48-b264-83dd8fd69562",
     "title": "Corner Protest",
     "date": "Thursday, October 2, 2025",
@@ -117,6 +71,31 @@
     "ical": "https://theblop.org/assets/ical/76bdaba3-7a88-457d-ab4c-871cf0803ebd.ics",
     "raw_text": "OLYMPIA VISIBILITY BRIGADE\nOVERPASS BANNERING\n\n4 OCTOBER 2025\nFROM 12:00 TO 2:00\n\nPEDESTRIAN BRIDGE / I-5\nTUMWATER\n\nBRING YOUR HIGH-VISIBILITY PROTEST SIGNS, FLAGS, & A GOOD MOOD, AND JOIN US ON THE BRIDGE TO MAKE GOOD TROUBLE!\n\nMORE INFORMATION: BACKBONECAMPAIGN.ORG AND THEBLOP.ORG",
     "raw_summary": "The flyer announces an event by the Olympia Visibility Brigade for an overpass bannering activity. It provides the date, time, and location for participants to bring visibility protest signs and join a bridge demonstration to voice concerns about democracy being under attack."
+  },
+  {
+    "id": "4a6bbaaf-5336-4987-8adb-400d7415e09d",
+    "title": "Rally and March to ICE Facility",
+    "date": "Saturday, October 4, 2025",
+    "time": "12:00 PM",
+    "description": "Join us for a rally and march to protest the presence of the National Guard in Portland and call for political changes. We stand against ICE and demand troop withdrawal.",
+    "city": "Portland",
+    "state": "OR",
+    "address": "3508 S Moody Ave",
+    "meeting_location": "Elizabeth Caruthers Park",
+    "links": [
+      "[]"
+    ],
+    "sponsors": [
+      "Portland",
+      " Portland Contra Las Deportaciones"
+    ],
+    "image_url": "https://theblop.org/assets/images/4a6bbaaf-5336-4987-8adb-400d7415e09d.jpg",
+    "thumbnail_url": "https://theblop.org/assets/images/4a6bbaaf-5336-4987-8adb-400d7415e09d-thumb.jpg",
+    "canonical_id": "",
+    "permalink": "https://theblop.org/events/4a6bbaaf-5336-4987-8adb-400d7415e09d.html",
+    "ical": "https://theblop.org/assets/ical/4a6bbaaf-5336-4987-8adb-400d7415e09d.ics",
+    "raw_text": "NO NATIONAL GUARD IN PORTLAND!\nTROOPS OUT!\nTRUMP OUT!\nICE OUT!\n\nRALLY AND MARCH TO ICE FACILITY\n\nSATURDAY, OCTOBER 4TH | 12 PM\n\nELIZABETH CARUTHERS PARK\n3508 S MOODY AVE, PORTLAND, OR\n\nPORTLAND\nPORTLAND CONTRA LAS DEPORTACIONES",
+    "raw_summary": "The image is a flyer for a rally and march event against the National Guard's presence in Portland. It includes details about the date, time, location, and slogans/protests about removing certain political elements."
   },
   {
     "id": "7693ed46-6306-4e11-b943-3c71d5f209c6",
