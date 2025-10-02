@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:415673bd-d662-4b05-82ac-f731db813633
+SEQUENCE:0
+DTSTAMP:20251002T060409Z
+DTSTART:20251004T130000
+DTEND:20251004T150000
+SUMMARY:Healthcare Not Authoritarianism: Shutdown Showdown
+LOCATION:George Washington Park Sidewalk\, Centralia\, WA
+DESCRIPTION:Join us as we gather to discuss and promote healthcare as oppo
+ sed to authoritarianism. Be part of the Shutdown Showdown event.\n\nGeorge
+  Washington Park Sidewalk
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=George+Washi
+ ngton+Park+Sidewalk%2C+Centralia%2C+WA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
