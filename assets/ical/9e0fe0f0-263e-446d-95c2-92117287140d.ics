@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:f4109b08-9315-404b-a6ec-b68346bda98a
+SEQUENCE:0
+DTSTAMP:20251003T210327Z
+DTSTART:20251018T110000
+DTEND:20251018T130000
+SUMMARY:No Kings
+LOCATION:N Broadway Ave & Van Fleet Dr\, Bartow\, FL
+DESCRIPTION:Join us for a rally advocating for peace against war crimes an
+ d genocide. We demand our government use funds for peace and not war. Cost
+ umes\, instruments\, and kids are welcome.\n\nN Broadway Ave & Van Fleet D
+ r
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=N+Broadway+A
+ ve+%26+Van+Fleet+Dr%2C+Bartow%2C+FL&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
