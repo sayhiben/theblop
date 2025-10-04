@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:662b03bf-1a6a-4ad6-97b0-e1fc6d0e7b77
+SEQUENCE:0
+DTSTAMP:20251004T180341Z
+DTSTART:20251005T140000
+DTEND:20251005T160000
+SUMMARY:Duty to Disobey
+LOCATION:Portland City Hall
+DESCRIPTION:Veterans Stand Against War on American Soil with Councilor Mit
+ ch Green\n\nPortland City Hall
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Portland+Cit
+ y+Hall&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:72ae296e-d3a2-4843-a382-76e874f215a4
+SEQUENCE:0
+DTSTAMP:20251004T180341Z
+DTSTART:20251007T163000
+DTEND:20251007T183000
+SUMMARY:Two Years of Genocide Rally and March
+LOCATION:Wallace Park\, NW 25th Ave\, Portland\, OR
+DESCRIPTION:We are organizing a rally and march to mourn the dead and hono
+ r Palestinian resistance. Portland is critiqued for complicity\, and we ai
+ m to bring awareness and action through this event.\n\nWallace Park
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Wallace+Park
+ %2C+NW+25th+Ave%2C+Portland%2C+OR&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
