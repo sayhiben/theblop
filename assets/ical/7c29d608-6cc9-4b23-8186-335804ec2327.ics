@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:7beee707-701d-4aa5-9b9f-9a9890265d57
+SEQUENCE:0
+DTSTAMP:20251004T090323Z
+DTSTART:20251004T100000
+DTEND:20251004T120000
+SUMMARY:Shutdown Showdown
+LOCATION:333 S Las Vegas Blvd\, Las Vegas\, NV
+DESCRIPTION:Join us in opposing authoritarianism at the 'Shutdown Showdown
+ ' event. We aim to advocate for healthcare and voice our concerns against 
+ authoritarian practices.\n\nFederal Courthouse
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=333+S+Las+Ve
+ gas+Blvd%2C+Las+Vegas%2C+NV&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

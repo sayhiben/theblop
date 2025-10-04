@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:763f7e71-8ded-43b0-8cb3-d8de5b7978ce
+SEQUENCE:0
+DTSTAMP:20251004T090323Z
+DTSTART:20251018T110000
+DTEND:20251018T130000
+SUMMARY:No Kings 2
+LOCATION:Federal Courthouse\, Las Vegas\, NV
+DESCRIPTION:We are organizing a protest at the Federal Courthouse in Las V
+ egas to demonstrate our unity and opposition to perceived unjust authority
+ . We rise to make our voices heard.\n\nFederal Courthouse - Las Vegas
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Federal+Cour
+ thouse%2C+Las+Vegas%2C+NV&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
