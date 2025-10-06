@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:fbb254be-5582-43ec-9207-fa07539b1dc8
+SEQUENCE:0
+DTSTAMP:20251006T180412Z
+DTSTART:20251018T140000
+DTEND:20251018T160000
+SUMMARY:Power Belongs to the People
+LOCATION:100 W Kirkwood\, Bloomington\, IN
+DESCRIPTION:Join the movement to gather donations for another billboard an
+ d the MCCSC school lunch debt fund.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=100+W+Kirkwo
+ od%2C+Bloomington%2C+IN&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
