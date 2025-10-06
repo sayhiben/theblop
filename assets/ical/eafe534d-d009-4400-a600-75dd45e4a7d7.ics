@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:5416e7a8-9af8-4c85-9b6f-a1660e2349ad
+SEQUENCE:0
+DTSTAMP:20251006T090636Z
+DTSTART:20251018T120000
+DTEND:20251018T140000
+SUMMARY:No Kings 2: Peaceful Mass Protest
+LOCATION:Washington State Capitol\, Olympia\, WA
+DESCRIPTION:Join us for a peaceful mass protest at the Washington State Ca
+ pitol. Experience live music from Stella Jay and Next Stop: Cosmos\, hear 
+ powerful speeches\, and participate in action opportunities with community
+  groups. Bring your decorated rain gear!\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Washington+S
+ tate+Capitol%2C+Olympia%2C+WA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
