@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:39332bae-6c4f-413d-a3f1-ff606bdcfb06
+SEQUENCE:0
+DTSTAMP:20251006T210404Z
+DTSTART:20251013T173000
+DTEND:20251013T193000
+SUMMARY:We Can Win the Fight for Union Rights at GHC
+LOCATION:1919 Alliant Energy Center Way\, Madison\, WI
+DESCRIPTION:Our attendance at this meeting will help end GHC's anti-union 
+ policies and win GHC workers their union!\n\nAlliant Energy Center\, Mendo
+ ta Rooms 5-7
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=1919+Alliant
+ +Energy+Center+Way%2C+Madison%2C+WI&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
