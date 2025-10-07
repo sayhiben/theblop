@@ -1,30 +1,5 @@
 [
   {
-    "id": "7693ed46-6306-4e11-b943-3c71d5f209c6",
-    "title": "Olympia Visibility Brigade Overpass Bannering",
-    "date": "Monday, October 6, 2025",
-    "time": "4:30 PM",
-    "description": "Join us at The Kiss, Percival Landing, in downtown Olympia with your high-visibility protest signs and flags to make good trouble. This event aims to raise awareness and encourage political activism.",
-    "city": "Olympia",
-    "state": "WA",
-    "address": "The Kiss, Percival Landing",
-    "meeting_location": "The Kiss, Percival Landing",
-    "links": [
-      "backbonecampaign.org",
-      " theblop.org"
-    ],
-    "sponsors": [
-      "Backbone Campaign"
-    ],
-    "image_url": "https://theblop.org/assets/images/7693ed46-6306-4e11-b943-3c71d5f209c6.png",
-    "thumbnail_url": "https://theblop.org/assets/images/7693ed46-6306-4e11-b943-3c71d5f209c6-thumb.jpg",
-    "canonical_id": "",
-    "permalink": "https://theblop.org/events/7693ed46-6306-4e11-b943-3c71d5f209c6.html",
-    "ical": "https://theblop.org/assets/ical/7693ed46-6306-4e11-b943-3c71d5f209c6.ics",
-    "raw_text": "OLYMPIA VISIBILITY BRIGADE  \nOVERPASS BANNERING  \n\n6 OCTOBER 2025  \nFROM 4:30 TO 6:30  \n\nTHE KISS, PERCIVAL LANDING  \nDOWNTOWN OLYMPIA  \n\nBRING YOUR HIGH-VISIBILITY PROTEST SIGNS, FLAGS, &  \nA GOOD MOOD, AND JOIN US ON THE BRIDGE  \nTO MAKE GOOD TROUBLE!  \n\nDEMOCRACY IS  \nUNDER ATTACK  \nSTAND UP FIGHT BACK!  \n\nMORE INFORMATION:  \nBACKBONECAMPAIGN.ORG AND THEBLOP.ORG",
-    "raw_summary": "The image is a flyer announcing an event organized by the Olympia Visibility Brigade for an Overpass Bannering on October 6, 2025, from 4:30 to 6:30 at \"The Kiss, Percival Landing\" in downtown Olympia. Participants are encouraged to bring protest signs and flags."
-  },
-  {
     "id": "5e0479cd-8624-493b-bde9-a635d27bafaf",
     "title": "Corner Protest",
     "date": "Tuesday, October 7, 2025",
@@ -136,6 +111,26 @@
     "ical": "https://theblop.org/assets/ical/1e14e0b9-e9e8-4c7c-977b-2038300d89de.ics",
     "raw_text": "BRIDGE BRIGADE\n*****\nDEFEND DEMOCRACY FREEDOM\n*****\nSAT OCT 11 * 6:00 PM - 8:00 PM\nUNT PEDESTRIAN BRIDGE",
     "raw_summary": "The event is named \"Bridge Brigade\" and is scheduled for Saturday, October 11, from 6:00 PM to 8:00 PM at the UNT Pedestrian Bridge. It promotes themes of \"Defend Democracy\" and \"Freedom\"."
+  },
+  {
+    "id": "21e2c973-9af2-4cac-b27b-2859629d1ef2",
+    "title": "Stop the Detainments Rally",
+    "date": "Saturday, October 11, 2025",
+    "time": "2:00 PM",
+    "description": "Join us in a rally at Elizabeth Caruthers Park to protest unlawful detainments. The event starts at 2 PM on October 11, and a march will follow at 3 PM. Remember to bring PPE if participating.",
+    "city": "Portland",
+    "state": "OR",
+    "address": "Elizabeth Caruthers Park",
+    "meeting_location": "Elizabeth Caruthers Park",
+    "links": [],
+    "sponsors": [],
+    "image_url": "https://theblop.org/assets/images/21e2c973-9af2-4cac-b27b-2859629d1ef2.jpg",
+    "thumbnail_url": "https://theblop.org/assets/images/21e2c973-9af2-4cac-b27b-2859629d1ef2-thumb.jpg",
+    "canonical_id": "",
+    "permalink": "https://theblop.org/events/21e2c973-9af2-4cac-b27b-2859629d1ef2.html",
+    "ical": "https://theblop.org/assets/ical/21e2c973-9af2-4cac-b27b-2859629d1ef2.ics",
+    "raw_text": "ELIZABETH CARUTHERS PARK\n\nSTOP\n\nTHE\n\nDETANMENTS!\n\nOCT 11 2PM\n\nNO MORE UNLAWFUL CONFINEMENT\n\nMARCH AT 3, BRING PPE IF JOINING\n\nFEDERAL BEHAVIOR IS OUT OF CONTROL!!",
+    "raw_summary": "The event is a rally against unlawful detainments, set to take place at Elizabeth Caruthers Park on October 11 at 2 PM. Participants are advised to bring PPE if they plan to join a march that will occur at 3 PM."
   },
   {
     "id": "6e1df876-7bfe-4d1d-b368-749fc578fd80",
