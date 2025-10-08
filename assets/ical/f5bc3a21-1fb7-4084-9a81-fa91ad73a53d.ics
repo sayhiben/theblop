@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:5b1d7ca6-e8a2-41f2-aa1a-316c64ffefb8
+SEQUENCE:0
+DTSTAMP:20251008T000624Z
+DTSTART:20251010T170000
+DTEND:20251010T190000
+SUMMARY:Palestine Rally
+LOCATION:\, Salt Lake City\, UT
+DESCRIPTION:Gathering for a rally in support of Palestine at the Utah Stat
+ e Capitol.\n\nUtah State Capitol
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+Salt+Lak
+ e+City%2C+UT&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
