@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:5e6e86d8-36fa-4554-a8fc-7d333ec2909e
+SEQUENCE:0
+DTSTAMP:20251009T031516Z
+DTSTART:20251012T140000
+DTEND:20251012T160000
+SUMMARY:ICE OUT OF PORTLAND Rally
+LOCATION:3508 S Moody Ave\, Portland\, OR
+DESCRIPTION:We are organizing a rally to oppose ICE presence and the Natio
+ nal Guard in Portland\, and to demand charges on ICE protestors be dropped
+ . Join us as we rally and march to the ICE facility.\n\nElizabeth Caruther
+ s Park
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=3508+S+Moody
+ +Ave%2C+Portland%2C+OR&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
