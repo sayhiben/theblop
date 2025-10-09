@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:d2fb14d0-0abe-4628-89df-7cd941d361f4
+SEQUENCE:0
+DTSTAMP:20251009T000626Z
+DTSTART:20251025T160000
+DTEND:20251025T180000
+SUMMARY:The Truth Behind Domestic Violence
+LOCATION:Utah State Capitol\, Salt Lake City\, UT
+DESCRIPTION:Join us to hear the untold stories behind domestic violence at
+  the Utah State Capitol. Show your support by wearing purple and black.\n\
+ nUtah State Capitol
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Utah+State+C
+ apitol%2C+Salt+Lake+City%2C+UT&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
