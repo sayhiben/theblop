@@ -2,15 +2,15 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:96fdf9be-70e5-4cb4-8457-59c2474d1dd3
+UID:ca8dc05b-9392-49df-964b-b6f1e5d66ca7
 SEQUENCE:0
 DTSTAMP:20251009T210417Z
-DTSTART:20251010T170000
-DTEND:20251010T190000
-SUMMARY:Palestine Rally
+DTSTART:20251213T120000
+DTEND:20251213T140000
+SUMMARY:Shine with Pride
 LOCATION:\, Salt Lake City\, UT
-DESCRIPTION:Gathering for a rally in support of Palestine at the Utah Stat
- e Capitol.\n\nUtah State Capitol
+DESCRIPTION:Join us to speak out against conversion camps. Stand with othe
+ rs at the Utah Capitol to make your voice heard.\n\nUtah Capitol
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+Salt+Lak
  e+City%2C+UT&zoom=15&basemap=roadmap
 STATUS:CONFIRMED

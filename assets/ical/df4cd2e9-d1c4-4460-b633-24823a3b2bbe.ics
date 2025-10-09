@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:42a7a495-c878-40ec-94bc-76eea4704dd4
+SEQUENCE:0
+DTSTAMP:20251009T210417Z
+DTSTART:20251213T120000
+DTEND:20251213T140000
+SUMMARY:Shine with Pride
+LOCATION:Utah Capitol\, Salt Lake City\, UT
+DESCRIPTION:Join us as we speak out against conversion camps. This event a
+ ims to raise awareness and support for change. Organized by People for Cha
+ nge Utah.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Utah+Capitol
+ %2C+Salt+Lake+City%2C+UT&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
