@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:e34eb3f9-87df-413e-88b7-b10df31b5968
+SEQUENCE:0
+DTSTAMP:20251010T000740Z
+DTSTART:20251021T170000
+DTEND:20251021T190000
+SUMMARY:Planting Hope: Honoring Utah Lives Lost to Gun Violence
+LOCATION:5415 W 3100 S\, West Valley City\, West Valley City\, UT
+DESCRIPTION:Join us in a vigil and daffodil planting to honor the 450 live
+ s lost to gun violence in the past year.\n\nFamily Fitness Center
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=5415+W+3100+
+ S%2C+West+Valley+City%2C+West+Valley+City%2C+UT&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

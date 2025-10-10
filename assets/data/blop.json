@@ -1,29 +1,5 @@
 [
   {
-    "id": "7434ec89-e312-4bb7-8bb9-3cade8bf2e98",
-    "title": "Corner Protest",
-    "date": "Thursday, October 9, 2025",
-    "time": "4:15 PM",
-    "description": "Join us for a peaceful protest aiming for positive engagement at the corner of Drake and College in Fort Collins. We address issues affecting democracy and encourage community participation.",
-    "city": "Fort Collins",
-    "state": "CO",
-    "address": "2601 S College Ave",
-    "meeting_location": "SW Corner of Drake and College",
-    "links": [
-      "[]"
-    ],
-    "sponsors": [
-      "[]"
-    ],
-    "image_url": "https://theblop.org/assets/images/7434ec89-e312-4bb7-8bb9-3cade8bf2e98.png",
-    "thumbnail_url": "https://theblop.org/assets/images/7434ec89-e312-4bb7-8bb9-3cade8bf2e98-thumb.jpg",
-    "canonical_id": "",
-    "permalink": "https://theblop.org/events/7434ec89-e312-4bb7-8bb9-3cade8bf2e98.html",
-    "ical": "https://theblop.org/assets/ical/7434ec89-e312-4bb7-8bb9-3cade8bf2e98.ics",
-    "raw_text": "Join the Corner Protest every Tuesday and Thursday 4:15-5:45 PM\nSW Corner of Drake and College in Fort Collins\nPositive engagement\nPROTECT DEMOCRACY\nRight or Left … we all know this is WRONG!\nOMG GOP WTF\nWE THE PEOPLE\nThursday, October 9, 2025\n4:15 - 5:45 pm\n2601 S College Ave, Fort Collins, CO",
-    "raw_summary": "The image promotes a recurring protest event called \"Corner Protest\" in Fort Collins. It is scheduled for specific days and times with a focus on positive engagement."
-  },
-  {
     "id": "f5bc3a21-1fb7-4084-9a81-fa91ad73a53d",
     "title": "Palestine Rally",
     "date": "Friday, October 10, 2025",
@@ -1020,6 +996,28 @@
     "raw_summary": "The flyer announces a public gathering under the theme \"Power Belongs to the People.\" It invites people to join the movement on Saturday, October 18th, from 2 PM to 4:30 PM at 100 W Kirkwood, Bloomington, IN. The event includes gathering donations for another billboard and the MCCSC school lunch debt fund."
   },
   {
+    "id": "01e744ec-1bb8-4b4f-a0bc-1df299b92cd5",
+    "title": "NO KINGS",
+    "date": "Saturday, October 18, 2025",
+    "time": "1:00 PM",
+    "description": "Join us for a rally, march, a food drive, voter registration and information, and tell your stories. We focus on nonviolent action and de-escalation.",
+    "city": "Logan",
+    "state": "UT",
+    "address": "199 N Main",
+    "meeting_location": "Historic Cache Courthouse",
+    "links": [],
+    "sponsors": [
+      "NO KINGS"
+    ],
+    "image_url": "https://theblop.org/assets/images/01e744ec-1bb8-4b4f-a0bc-1df299b92cd5.jpg",
+    "thumbnail_url": "https://theblop.org/assets/images/01e744ec-1bb8-4b4f-a0bc-1df299b92cd5-thumb.jpg",
+    "canonical_id": "",
+    "permalink": "https://theblop.org/events/01e744ec-1bb8-4b4f-a0bc-1df299b92cd5.html",
+    "ical": "https://theblop.org/assets/ical/01e744ec-1bb8-4b4f-a0bc-1df299b92cd5.ics",
+    "raw_text": "POWER BELONGS TO THE PEOPLE.\nJOIN THE MOVEMENT\nNO KINGS\nSATURDAY, OCT. 18\n1:00-2:30 pm\nHistoric Cache Courthouse\n199 N Main, Logan UT\n\nJoin us for a rally, march, a food drive, voter registration and information, and tell your stories.\n\nPlease bring non-perishable food items if you can.\n\nMore info\nA core principle behind all our events is a commitment to nonviolent action. We expect all participants to seek to de-escalate any potential confrontation with those who disagree with our values. Weapons of any kind, including those legally permitted, should not be brought to events.",
+    "raw_summary": "The image promotes a rally event titled 'NO KINGS' that will include activities like a march, food drive, voter registration, and storytelling. It specifies that power belongs to the people and encourages joining the movement."
+  },
+  {
     "id": "9a08466d-965e-4911-9d7b-6fe7558c1814",
     "title": "Olympia Visibility Brigade: Overpass Bannering",
     "date": "Monday, October 20, 2025",
@@ -1043,6 +1041,28 @@
     "ical": "https://theblop.org/assets/ical/9a08466d-965e-4911-9d7b-6fe7558c1814.ics",
     "raw_text": "OLYMPIA VISIBILITY BRIGADE\nOVERPASS BANNERING\n\n20 OCTOBER 2025\nFROM 4:30 TO 6:30\n\nCHEHALIS WESTERN TRAIL / I-5 LACEY\n\nOVB\n\nBRING YOUR HIGH-VISIBILITY PROTEST SIGNS, FLAGS, & A GOOD MOOD, AND JOIN US ON THE BRIDGE TO MAKE GOOD TROUBLE!\n\nDEMOCRACY IS UNDER ATTACK\nSTAND UP FIGHT BACK!\n\nMORE INFORMATION: BACKBONECAMPAIGN.ORG AND THEBLOP.ORG",
     "raw_summary": "The flyer promotes a public event called \"Olympia Visibility Brigade: Overpass Bannering\" occurring on October 20, 2025, from 4:30 to 6:30. Participants are encouraged to bring signs and flags to protest visibly at the Chehalis Western Trail / I-5 in Lacey. The flyer emphasizes community involvement in standing up against attacks on democracy, with more details provided on BackboneCampaign.org and TheBlop.org."
+  },
+  {
+    "id": "fa87f7a9-9d07-459c-9a6d-57e607082a35",
+    "title": "Planting Hope: Honoring Utah Lives Lost to Gun Violence",
+    "date": "Tuesday, October 21, 2025",
+    "time": "5:00 PM",
+    "description": "Join us in a vigil and daffodil planting to honor the 450 lives lost to gun violence in the past year.",
+    "city": "West Valley City",
+    "state": "UT",
+    "address": "5415 W 3100 S, West Valley City",
+    "meeting_location": "Family Fitness Center",
+    "links": [],
+    "sponsors": [
+      "Gun Violence Prevention Center"
+    ],
+    "image_url": "https://theblop.org/assets/images/fa87f7a9-9d07-459c-9a6d-57e607082a35.jpg",
+    "thumbnail_url": "https://theblop.org/assets/images/fa87f7a9-9d07-459c-9a6d-57e607082a35-thumb.jpg",
+    "canonical_id": "",
+    "permalink": "https://theblop.org/events/fa87f7a9-9d07-459c-9a6d-57e607082a35.html",
+    "ical": "https://theblop.org/assets/ical/fa87f7a9-9d07-459c-9a6d-57e607082a35.ics",
+    "raw_text": "Planting Hope: Honoring Utah Lives Lost to Gun Violence\n\nJoin the Gun Violence Prevention Center in a vigil and daffodil planting to honor the 450 lives lost in the past year.\n\nDate: Oct. 21, 2025 Time: 5 pm Place: West Valley City\nFamily Fitness Center, 5415 W 3100 S, West Valley City",
+    "raw_summary": "The flyer announces an event called \"Planting Hope: Honoring Utah Lives Lost to Gun Violence.\" It’s a vigil and daffodil planting organized by the Gun Violence Prevention Center to honor lives lost to gun violence in the past year. The event is scheduled for October 21, 2025, at 5 PM, at the Family Fitness Center, 5415 W 3100 S, West Valley City."
   },
   {
     "id": "b5f58afa-e947-4a54-9f1a-6b56ca1465ad",
