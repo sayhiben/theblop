@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:280cca86-b290-4708-8549-da73cec1a246
+SEQUENCE:0
+DTSTAMP:20251012T180453Z
+DTSTART:20251025T190000
+DTEND:20251025T210000
+SUMMARY:Halloween Ball
+LOCATION:123 Main St\, Springfield\, IL
+DESCRIPTION:Join us for an unforgettable evening of dance and Halloween sp
+ irit with a costume contest offering a $500 prize.\n\nGrand Ballroom
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=123+Main+St%
+ 2C+Springfield%2C+IL&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

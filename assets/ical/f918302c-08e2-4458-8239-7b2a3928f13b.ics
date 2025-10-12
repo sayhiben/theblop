@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:802cd122-d3ad-4480-b7a0-191ae7cbdeb7
+SEQUENCE:0
+DTSTAMP:20251012T180453Z
+DTSTART:20251018T120000
+DTEND:20251018T140000
+SUMMARY:We Say No Kings
+LOCATION:Corner of 1st & E Yelm Ave\, Yelm\, WA
+DESCRIPTION:Join us on October 18\, 2025\, to voice our stance against opp
+ ression and promote freedom. Gather at the corner of 1st and E Yelm Ave to
+  stand united in Yelm\, WA.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Corner+of+1s
+ t+%26+E+Yelm+Ave%2C+Yelm%2C+WA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
