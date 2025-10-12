@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:fc60360a-0049-4a7b-85db-e15cad9fcd7a
+SEQUENCE:0
+DTSTAMP:20251012T060358Z
+DTSTART:20251018T173000
+DTEND:20251018T193000
+SUMMARY:Frogs Say No Kings
+LOCATION:4310 South Macadam Ave\, Portland\, OR
+DESCRIPTION:A demonstration or gathering themed 'Frogs Say No Kings' is ta
+ king place. The focus or purpose isn't explicitly stated but may imply opp
+ osition or protest.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=4310+South+M
+ acadam+Ave%2C+Portland%2C+OR&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

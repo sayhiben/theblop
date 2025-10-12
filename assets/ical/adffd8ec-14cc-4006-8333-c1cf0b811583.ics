@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:4ca1e6a9-1970-456e-a4f9-e557672e05e7
+SEQUENCE:0
+DTSTAMP:20251012T060358Z
+DTSTART:20251012T143000
+DTEND:20251012T163000
+SUMMARY:Portland Melts Ice
+LOCATION:\, Portland\, OR
+DESCRIPTION:Join us for a community biking event in Portland. The event wi
+ ll take place rain or shine\, welcoming participants to ride together and 
+ promote community fun.\n\nFollow @worldnakedbikerideportland for start loc
+ ation
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+Portland
+ %2C+OR&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
