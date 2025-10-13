@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:e6e70d84-f2a1-45a0-be58-4d1f7a433649
+SEQUENCE:0
+DTSTAMP:20251013T060409Z
+DTSTART:20251111T100000
+DTEND:20251111T120000
+SUMMARY:Veterans Day Overpass Bannering
+LOCATION:\, Olympia\, WA
+DESCRIPTION:Join us for an overpass bannering event on Veterans Day to sta
+ nd with veterans in defending our constitution\, streets\, and oaths. The 
+ event involves displaying banners reading 'No Oath to Trump' on various ov
+ erpasses in the Olympia-Lacey-Tumwater area.\n\nVarious overpasses along I
+ -5
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+Olympia%
+ 2C+WA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
