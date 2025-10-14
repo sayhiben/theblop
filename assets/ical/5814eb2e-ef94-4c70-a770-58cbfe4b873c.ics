@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:bc59869e-e8c2-49b3-8ca2-d81654dcf7bc
+SEQUENCE:0
+DTSTAMP:20251014T210348Z
+DTSTART:20251018T130000
+DTEND:20251018T150000
+SUMMARY:NO KINGS
+LOCATION:Corner of 1st and Norfolk\, Next to Old Mill\, 5th St.
+DESCRIPTION:Join us for a peaceful march starting at the corner of 1st and
+  Norfolk on October 18\, 2025. Participants can choose to stay at Old Mill
+  or march to 5th St. American Flags and percussion instruments are welcome
+ . Preparatory activities will occur on October 17\, 2025\, at 126 S. 4th S
+ t.\, where we’ll make signs and learn songs.\n\nOn the corner of 1st and
+  Norfolk
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Corner+of+1s
+ t+and+Norfolk%2C+Next+to+Old+Mill%2C+5th+St.&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

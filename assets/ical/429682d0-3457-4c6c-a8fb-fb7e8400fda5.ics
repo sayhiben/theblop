@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:56a0c9a6-5ce7-4977-9683-4c3dcc88175e
+SEQUENCE:0
+DTSTAMP:20251014T210348Z
+DTSTART:20251018T130000
+DTEND:20251018T150000
+SUMMARY:No Kings March
+LOCATION:Corner of 1st and Norfolk
+DESCRIPTION:Join us for a peaceful march under the theme "No Kings" starti
+ ng at 1st and Norfolk. Participants are encouraged to bring American flags
+  and percussion instruments. There will also be a preparation session on O
+ ctober 17th to make signs and learn songs.\n\nOld Mill
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Corner+of+1s
+ t+and+Norfolk&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
