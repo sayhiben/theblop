@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:23604cfb-9efe-4f3f-9c1d-45c1bffd0145
+SEQUENCE:0
+DTSTAMP:20251014T000614Z
+DTSTART:20251018T090000
+DTEND:20251018T110000
+SUMMARY:No Kings
+LOCATION:Civic Center Park\, Fort Collins\, CO
+DESCRIPTION:We are organizing a rally and march focused on community invol
+ vement. Join us to help feed the community by bringing boxed and canned fo
+ ods for donation. The event is committed to nonviolent action.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Civic+Center
+ +Park%2C+Fort+Collins%2C+CO&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
