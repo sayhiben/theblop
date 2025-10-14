@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:180176b4-14b3-4c4a-b740-768f38f023a3
+SEQUENCE:0
+DTSTAMP:20251014T120433Z
+DTSTART:20251018T083000
+DTEND:20251018T103000
+SUMMARY:We Say No Kings
+LOCATION:101 N. Carson Street\, Carson City\; 400 S. Virginia St\, Reno\, 
+ Carson City\, Reno\, NV
+DESCRIPTION:Join us in a public demonstration across two locations to expr
+ ess our stance against authoritarian rule. The event emphasizes the slogan
+  'We Say No Kings' to address concerns about political governance.\n\nNeva
+ da State Capital\, Bruce Thompson Courthouse & Federal Building
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=101+N.+Carso
+ n+Street%2C+Carson+City%3B+400+S.+Virginia+St%2C+Reno%2C+Carson+City%2C+Re
+ no%2C+NV&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
