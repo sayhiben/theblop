@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:3868f60c-0f32-4229-88d1-d4a8d2c6b145
+SEQUENCE:0
+DTSTAMP:20251015T060436Z
+DTSTART:20251018T130000
+DTEND:20251018T150000
+SUMMARY:NO KINGS
+LOCATION:Corner of 1st and Norfolk. Preparatory event at 126 S. 4th St.
+DESCRIPTION:Join us on October 18th\, 2025\, for the NO KINGS event. Engag
+ e in a peaceful march starting from the corner of 1st and Norfolk. For tho
+ se preferring to stay put\, hold the fort at Old Mill. Join us on October 
+ 17th to make signs and learn songs at 126 S. 4th St. American Flags and pe
+ rcussion instruments are welcome.\n\nCorner of 1st and Norfolk
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Corner+of+1s
+ t+and+Norfolk.+Preparatory+event+at+126+S.+4th+St.&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
