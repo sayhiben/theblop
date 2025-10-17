@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:2c883d96-928f-41f6-9b13-8c6e92574568
+SEQUENCE:0
+DTSTAMP:20251017T180342Z
+DTSTART:20251018T130000
+DTEND:20251018T150000
+SUMMARY:No Kings
+LOCATION:Corner of 1st and Norfolk\; 126 S. 4th St.
+DESCRIPTION:Join us for a peaceful march starting from the corner of 1st a
+ nd Norfolk Ave. Participants will march down Norfolk Ave to 5th St and bac
+ k\, accompanied by American Flags and percussion instruments. The day prio
+ r\, help us make signs and learn songs at 126 S. 4th St.\n\nCorner of 1st 
+ and Norfolk
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Corner+of+1s
+ t+and+Norfolk%3B+126+S.+4th+St.&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
