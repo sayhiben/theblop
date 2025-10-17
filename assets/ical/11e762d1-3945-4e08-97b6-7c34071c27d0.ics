@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:66f6151a-435b-4993-bacd-cb45d313a98f
+SEQUENCE:0
+DTSTAMP:20251017T000626Z
+DTSTART:20251018T120000
+DTEND:20251018T140000
+SUMMARY:NO KINGS
+LOCATION:State\, Main\, and 6th\, Alamosa\, CO
+DESCRIPTION:Join Indivisible Alamosa for a protest against the Trump Admin
+ istration's actions on October 18th from 12:00 PM to 1:30 PM at State\, Ma
+ in\, and 6th in Alamosa\, CO. We stand against the dismantling of democrac
+ y and rule of law.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=State%2C+Mai
+ n%2C+and+6th%2C+Alamosa%2C+CO&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
