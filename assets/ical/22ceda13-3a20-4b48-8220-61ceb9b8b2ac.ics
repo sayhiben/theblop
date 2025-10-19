@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:0606da5a-0dba-49c8-bedd-e9a2c6b24ab6
+SEQUENCE:0
+DTSTAMP:20251019T180429Z
+DTSTART:20251120T000000
+DTEND:20251120T020000
+SUMMARY:Remove the Regime
+LOCATION:\, Washington\, DC
+DESCRIPTION:Join us for a series of congressional visits\, a rally\, and a
+  march in Washington\, D.C.\, featuring live entertainment by The Dropkick
+  Murphys. The event aims to advocate for impeachment and removal.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+Washingt
+ on%2C+DC&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
