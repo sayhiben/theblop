@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:190c3f10-1534-4251-9efc-981a46637918
+SEQUENCE:0
+DTSTAMP:20251021T031924Z
+DTSTART:20251024T160000
+DTEND:20251024T180000
+SUMMARY:Protest ICE
+LOCATION:2975 S Decker Lake Dr\, West Valley\, UT
+DESCRIPTION:We are organizing a weekly protest against ICE to stand agains
+ t immigration policies. The protest takes place every Friday.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=2975+S+Decke
+ r+Lake+Dr%2C+West+Valley%2C+UT&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

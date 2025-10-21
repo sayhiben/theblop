@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:fae60401-09f4-43b4-94c8-95981d8d9a0a
+SEQUENCE:0
+DTSTAMP:20251021T031924Z
+DTSTART:20251022T163000
+DTEND:20251022T183000
+SUMMARY:Overpass Resistance
+LOCATION:Meet at Macaroni Grill by Fashion Place Mall
+DESCRIPTION:A gathering to discuss and resist themes like 'Trump craps on 
+ Americans' and 'Resist fascism.'\n\nMacaroni Grill by Fashion Place Mall
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Meet+at+Maca
+ roni+Grill+by+Fashion+Place+Mall&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
