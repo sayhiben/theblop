@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:da10740f-32d6-432f-8e1c-3e5c973cf0f8
+SEQUENCE:0
+DTSTAMP:20251026T150334Z
+DTSTART:20251105T160000
+DTEND:20251105T180000
+SUMMARY:March for Health & Science
+LOCATION:\, Washington\, DC
+DESCRIPTION:This event is a march organized by multiple health-focused org
+ anizations to advocate for science-based public policies and oppose RFK Jr
+ .'s initiatives.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+Washingt
+ on%2C+DC&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
