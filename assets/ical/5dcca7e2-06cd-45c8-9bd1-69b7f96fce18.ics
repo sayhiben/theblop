@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:90ad83f9-2563-49eb-8616-2c32d5cfe735
+SEQUENCE:0
+DTSTAMP:20251027T060418Z
+DTSTART:20251101T130000
+DTEND:20251101T150000
+SUMMARY:Disappeared In America Day of Action
+LOCATION:136 Fall St\, Seneca Falls\, NY
+DESCRIPTION:Join us for the Disappeared In America Day of Action rally\, o
+ rganized by volunteers\, to raise awareness and take action.\n\nWomen’s 
+ Rights National Historical Park
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=136+Fall+St%
+ 2C+Seneca+Falls%2C+NY&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
