@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:45923f23-426b-463c-ac02-cc3d549b26c6
+SEQUENCE:0
+DTSTAMP:20251029T060421Z
+DTSTART:20251101T103000
+DTEND:20251101T123000
+SUMMARY:Know Your Rights
+LOCATION:9125 Rainier Beach Ave South\, Seattle\, WA
+DESCRIPTION:A community training and canvassing event to educate attendees
+  on their rights.\n\nRainier Beach Public Library
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=9125+Rainier
+ +Beach+Ave+South%2C+Seattle%2C+WA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
