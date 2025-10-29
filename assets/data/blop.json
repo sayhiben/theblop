@@ -1,25 +1,5 @@
 [
   {
-    "id": "e3cc44d3-8380-4d2c-b89d-951c13555123",
-    "title": "Corner Protest",
-    "date": "Tuesday, October 28, 2025",
-    "time": "4:15 PM",
-    "description": "Join us for a Corner Protest aiming for positive engagement and to protect democracy. Whether you're Right or Left, this is an opportunity to express your stance every Tuesday and Thursday at the SW Corner of Drake and College. Participate in fostering community awareness and dialogue.",
-    "city": "Fort Collins",
-    "state": "CO",
-    "address": "2601 S College Ave",
-    "meeting_location": "SW Corner of Drake and College",
-    "links": [],
-    "sponsors": [],
-    "image_url": "https://theblop.org/assets/images/e3cc44d3-8380-4d2c-b89d-951c13555123.png",
-    "thumbnail_url": "https://theblop.org/assets/images/e3cc44d3-8380-4d2c-b89d-951c13555123-thumb.jpg",
-    "canonical_id": "",
-    "permalink": "https://theblop.org/events/e3cc44d3-8380-4d2c-b89d-951c13555123.html",
-    "ical": "https://theblop.org/assets/ical/e3cc44d3-8380-4d2c-b89d-951c13555123.ics",
-    "raw_text": "Join the Corner Protest every Tuesday and Thursday 4:15-5:45 PM\nSW Corner of Drake and College in Fort Collins\nPositive engagement\n\nPROTECT DEMOCRACY\nRight or Left... we all know this is WRONG!\nOMG GOP WTF\nWE THE PEOPLE\n\nTuesday, October 28, 2025\n4:15 - 5:45 pm\n2601 S College Ave, Fort Collins, CO",
-    "raw_summary": "The flyer invites people to join the \"Corner Protest\" happening every Tuesday and Thursday from 4:15 PM to 5:45 PM at the SW Corner of Drake and College in Fort Collins. The event aims for \"Positive engagement\" with additional slogans promoting democracy and citizen participation. It features a specific date, October 28, 2025, encouraging attendance at 2601 S College Ave, Fort Collins, CO."
-  },
-  {
     "id": "41e001b1-775a-42d8-992d-49f94117c62c",
     "title": "Corner Protest",
     "date": "Thursday, October 30, 2025",
@@ -312,6 +292,30 @@
     "ical": "https://theblop.org/assets/ical/0e59934a-f438-45f6-972b-aafc114ff95a.ics",
     "raw_text": "OLYMPIA VISIBILITY BRIGADE\nOVERPASS BANNERING\n15 NOVEMBER 2025\nFROM 12:00 TO 2:00\nBOULEVARD RD SE / I-5\nEAST OLYMPIA\nBRING YOUR HIGH-VISIBILITY PROTEST SIGNS, FLAGS, & A GOOD MOOD, AND JOIN US ON THE BRIDGE TO MAKE GOOD TROUBLE!\nDEMOCRACY IS UNDER ATTACK STAND UP FIGHT BACK!\nMORE INFORMATION: OLYMPIA INDIVISIBLE, BACKBONECAMPAIGN.ORG, AND THEBLOP.ORG",
     "raw_summary": "The flyer announces an event called 'Olympia Visibility Brigade: Overpass Bannering' happening on November 15, 2025. The event will be held from 12:00 PM to 2:00 PM at Boulevard RD SE / I-5 in East Olympia. Participants are encouraged to bring protest signs and flags. Further information can be found through Olympia Indivisible, BackboneCampaign.org, and TheBlop.org."
+  },
+  {
+    "id": "1e1a4018-06f5-4e86-a213-690c60d9c0c6",
+    "title": "Resistance Art Show",
+    "date": "Sunday, November 16, 2025",
+    "time": "7:00 PM",
+    "description": "Join us for the opening of the Resistance Art Show — where creativity meets civic power. This event celebrates how the First Amendment protects our right to dissent, protest injustice, and imagine a freer world. Experience art that speaks truth to power — and help us plan our next bold act of public resistance.",
+    "city": "Forest Hills",
+    "state": "NY",
+    "address": "72-50 Austin Street",
+    "meeting_location": "Yant Art Space",
+    "links": [
+      "[]"
+    ],
+    "sponsors": [
+      "Yant Art Space"
+    ],
+    "image_url": "https://theblop.org/assets/images/1e1a4018-06f5-4e86-a213-690c60d9c0c6.png",
+    "thumbnail_url": "https://theblop.org/assets/images/1e1a4018-06f5-4e86-a213-690c60d9c0c6-thumb.jpg",
+    "canonical_id": "",
+    "permalink": "https://theblop.org/events/1e1a4018-06f5-4e86-a213-690c60d9c0c6.html",
+    "ical": "https://theblop.org/assets/ical/1e1a4018-06f5-4e86-a213-690c60d9c0c6.ics",
+    "raw_text": "RESISTANCE ART SHOW\nOPENING: SUN, NOV 16, 7 - 9 PM\n\nJoin us for the opening of the Resistance Art Show — where creativity meets civic power. This event celebrates how the First Amendment protects our right to dissent, protest injustice, and imagine a freer world. Experience art that speaks truth to power — and help us plan our next bold act of public resistance.\n\nYANT ART SPACE\n72-50 AUSTIN STREET\nFOREST HILLS NY 11375\n\nQUEENS SAYS NO KINGS",
+    "raw_summary": "The image is promoting an art show opening titled \"Resistance Art Show,\" occurring on November 16 from 7 to 9 PM. It discusses themes of civic power and protest art, and the location is Yant Art Space, Forest Hills, NY."
   },
   {
     "id": "6deb9a91-3647-4830-951b-b5fbba542680",

@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:06211432-11e9-425e-b2ea-846f73cf2f5a
+SEQUENCE:0
+DTSTAMP:20251029T000815Z
+DTSTART:20251116T190000
+DTEND:20251116T210000
+SUMMARY:Resistance Art Show
+LOCATION:72-50 Austin Street\, Forest Hills\, NY
+DESCRIPTION:Join us for the opening of the Resistance Art Show — where c
+ reativity meets civic power. This event celebrates how the First Amendment
+  protects our right to dissent\, protest injustice\, and imagine a freer w
+ orld. Experience art that speaks truth to power — and help us plan our n
+ ext bold act of public resistance.\n\nYant Art Space
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=72-50+Austin
+ +Street%2C+Forest+Hills%2C+NY&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
