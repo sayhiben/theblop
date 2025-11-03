@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:948e8591-0fc0-4244-bb32-51f77847cb8d
+SEQUENCE:0
+DTSTAMP:20251103T210329Z
+DTSTART:20251111T090000
+DTEND:20251111T110000
+SUMMARY:Nationwide Gathering
+LOCATION:Paseo del Norte and Kit Carson\, Taos\, NM
+DESCRIPTION:We invite you to join us in Taos for a nationwide day of honor
+  and respect for our veterans. This event aims to show gratitude and suppo
+ rt for our veterans.\n\nPaseo del Norte and Kit Carson
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Paseo+del+No
+ rte+and+Kit+Carson%2C+Taos%2C+NM&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
