@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:2122c93e-31cd-40cf-9d59-c6c01e71ceda
+SEQUENCE:0
+DTSTAMP:20251105T090354Z
+DTSTART:20251105T173000
+DTEND:20251105T193000
+SUMMARY:Emergency Rally
+LOCATION:1221 SW 4th Ave\, Portland\, OR
+DESCRIPTION:We are organizing an emergency rally to demand the removal of 
+ ICE from Portland. This follows the sudden cancellation of a crucial meeti
+ ng on a detention fee ordinance. Join us to ensure Portland's voice is hea
+ rd.\n\nPortland City Hall
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=1221+SW+4th+
+ Ave%2C+Portland%2C+OR&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
