@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:61ba886c-a03e-4771-afc2-692eee5c5daa
+SEQUENCE:0
+DTSTAMP:20251105T032215Z
+DTSTART:20251108T120000
+DTEND:20251108T140000
+SUMMARY:OLYMPIA VISIBILITY BRIGADE
+LOCATION:\, Tumwater\, WA
+DESCRIPTION:Join us for an overpass bannering event to raise visibility wi
+ th signs and flags. Bring a positive attitude to make good trouble for dem
+ ocracy.\n\nPedestrian Bridge / I-5
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+Tumwater
+ %2C+WA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
