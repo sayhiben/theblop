@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:07ee3fd3-3200-4e7a-8a1a-6517131bb328
+SEQUENCE:0
+DTSTAMP:20251106T210329Z
+DTSTART:20251107T100000
+DTEND:20251107T120000
+SUMMARY:National Day of Action to Support Higher Education
+LOCATION:CSU LSC Plaza\, Fort Collins\, CO
+DESCRIPTION:Join us at CSU LSC Plaza for a day of action to support higher
+  education. Participate in information tables\, a rally\, a march\, and a 
+ film screening. Help raise awareness and bring donations for local aid org
+ anizations.\n\nCSU LSC Plaza
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=CSU+LSC+Plaz
+ a%2C+Fort+Collins%2C+CO&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
