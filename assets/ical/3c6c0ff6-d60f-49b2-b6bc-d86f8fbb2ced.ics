@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:20cc4ea2-20d3-434e-9bff-482384761b89
+SEQUENCE:0
+DTSTAMP:20251107T210345Z
+DTSTART:20251111T110000
+DTEND:20251111T130000
+SUMMARY:Veterans Day Protest
+LOCATION:SE corner of College and North\, Fayetteville\, AR
+DESCRIPTION:We are organizing a protest by veterans at the SE corner of Co
+ llege and North in Fayetteville. Join us as we honor Veterans Day and stan
+ d in solidarity with "Vets—the original Antifa."\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=SE+corner+of
+ +College+and+North%2C+Fayetteville%2C+AR&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
