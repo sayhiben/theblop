@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:bcce73a7-3fbe-4fc5-9b54-90101feb4150
+SEQUENCE:0
+DTSTAMP:20251109T210321Z
+DTSTART:20251121T110000
+DTEND:20251121T130000
+SUMMARY:No Concentration Camps in Colorado Protest
+LOCATION:I-25 Exit 49\, Walsenburg\, CO
+DESCRIPTION:Join us in protesting against concentration camps in Colorado.
+  Let's stand together to express our opposition.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=I-25+Exit+49
+ %2C+Walsenburg%2C+CO&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
