@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:328fd96a-e5cb-4051-82b4-7e9a1d24b499
+SEQUENCE:0
+DTSTAMP:20251110T180420Z
+DTSTART:20251111T140000
+DTEND:20251111T160000
+SUMMARY:Solidarity Action - Vets Say No
+LOCATION:North Lincoln Avenue & East U.S. 34\, Loveland\, CO
+DESCRIPTION:Join us for a solidarity action on Veterans Day\, where we sta
+ nd together to express our message of 'Vets Say No.' Meet at the specified
+  location to participate in this significant event.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=North+Lincol
+ n+Avenue+%26+East+U.S.+34%2C+Loveland%2C+CO&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
