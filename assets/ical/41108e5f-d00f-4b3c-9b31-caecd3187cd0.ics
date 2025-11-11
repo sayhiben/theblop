@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:4bd6f145-272e-44bd-8fb0-ef53686674d8
+SEQUENCE:0
+DTSTAMP:20251111T150412Z
+DTSTART:20251115T090000
+DTEND:20251115T110000
+SUMMARY:NOW is the time to ACT UP!
+LOCATION:Harmony Rd & Weitzel St\, Timnath\, CO
+DESCRIPTION:Join us every other Saturday to make a difference. Bring your 
+ protest sign or flag and stand with us at Harmony Road & Weitzel. Extras a
+ re available.\n\nCorner of Harmony Road & Weitzel
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Harmony+Rd+%
+ 26+Weitzel+St%2C+Timnath%2C+CO&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
