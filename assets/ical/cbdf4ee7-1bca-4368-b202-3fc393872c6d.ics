@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:51a2fd3b-1245-43e6-b44e-70fe101361cb
+SEQUENCE:0
+DTSTAMP:20251112T210405Z
+DTSTART:20251115T080000
+DTEND:20251115T100000
+SUMMARY:Indivisible NWA Food Collection
+LOCATION:Fayetteville Town Square
+DESCRIPTION:Indivisible Northwest Arkansas is organizing a food collection
+  event at the Fayetteville Farmers Market to gather donations for the Nort
+ hwest Arkansas Food Bank. Volunteers will assist in collecting and deliver
+ ing contributions.\n\nNear the table for Washington County Democrats
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Fayetteville
+ +Town+Square&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
