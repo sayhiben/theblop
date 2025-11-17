@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:1fd48798-b281-4c28-a758-fce55a68b703
+SEQUENCE:0
+DTSTAMP:20251117T090425Z
+DTSTART:20251121T160000
+DTEND:20251121T180000
+SUMMARY:Join the Resistance
+LOCATION:2975 Decker Lake Dr\, West Valley\, UT
+DESCRIPTION:Join us to show solidarity and resistance against the notion t
+ hat any human is illegal\, underlining the message "No Human is Illegal."\
+ n\nIce Field Office
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=2975+Decker+
+ Lake+Dr%2C+West+Valley%2C+UT&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
