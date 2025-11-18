@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:4ab25b28-1003-4e07-8e41-1fbd8cd47e0e
+SEQUENCE:0
+DTSTAMP:20251118T032255Z
+DTSTART:20251122T120000
+DTEND:20251122T140000
+SUMMARY:WE THE PEOPLE
+LOCATION:Battleship Oregon Memorial\, Portland\, OR
+DESCRIPTION:A community rally and march organized by No Kings Portland\, a
+ imed at action and engagement.\n\nBattleship Oregon Memorial
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Battleship+O
+ regon+Memorial%2C+Portland%2C+OR&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
