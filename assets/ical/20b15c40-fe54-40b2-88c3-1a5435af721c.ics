@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:8208a234-26d5-42ae-99b5-de54f5b07a89
+SEQUENCE:0
+DTSTAMP:20251120T150403Z
+DTSTART:20251121T150000
+DTEND:20251121T170000
+SUMMARY:Fight Fascism Fridays: Ice Out Edition
+LOCATION:Federal Courthouse Downtown\, Las Vegas\, NV
+DESCRIPTION:Join Indivisible Las Vegas to stand up against fascism and bri
+ ng communities together. This event aims to engage the public in a rally a
+ t the Federal Courthouse Downtown.\n\nFederal Courthouse Downtown
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Federal+Cour
+ thouse+Downtown%2C+Las+Vegas%2C+NV&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
