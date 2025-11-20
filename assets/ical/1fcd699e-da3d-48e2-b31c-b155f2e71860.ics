@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:421f41d8-9eca-47b3-a0ea-d5b5a9e7804a
+SEQUENCE:0
+DTSTAMP:20251120T032128Z
+DTSTART:20251129T140000
+DTEND:20251129T160000
+SUMMARY:Peaceful Rally at Washington Square Park
+LOCATION:Washington Square Park\, New York\, NY
+DESCRIPTION:We gather to end the unlawful occupation of Palestinian territ
+ ories and to celebrate the International Day of Solidarity with the Palest
+ inian People. Join us for a peaceful rally.\n\nWashington Square Park
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Washington+S
+ quare+Park%2C+New+York%2C+NY&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
