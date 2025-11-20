@@ -2,17 +2,16 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:72b30f67-6bad-4ade-9fc1-0d807a66fe1b
+UID:1b7775cb-087a-4b25-ab73-68b1bc22e2fa
 SEQUENCE:0
 DTSTAMP:20251120T180456Z
 DTSTART:20251129T120000
 DTEND:20251129T140000
 SUMMARY:Peaceful Protest for Children of Gaza
 LOCATION:Veterans Park\, Loveland\, CO
-DESCRIPTION:Join us in Loveland for a peaceful protest to stand in solidar
- ity with the Palestinian people on the International Day of Solidarity. Cr
- eate a picture that represents hope and innocence to bring to the event. W
- ear black in mourning.\n\nVeterans Park\, Loveland\, CO
+DESCRIPTION:Join us in a peaceful protest to reclaim the promise of the fu
+ ture for children affected by conflict. Wear black in mourning and partici
+ pate by creating pictures symbolizing hope and innocence.\n\n
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Veterans+Par
  k%2C+Loveland%2C+CO&zoom=15&basemap=roadmap
 STATUS:CONFIRMED
