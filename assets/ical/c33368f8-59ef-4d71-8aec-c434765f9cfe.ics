@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:c338a655-b511-4c8c-8050-01a7de912c6e
+SEQUENCE:0
+DTSTAMP:20251127T032241Z
+DTSTART:20251222T163000
+DTEND:20251222T183000
+SUMMARY:Overpass Bannering: Dark Mode
+LOCATION:Chehalis Western Trail / I-5\, Lacey\, WA
+DESCRIPTION:Join us for an overpass bannering event to spread a message of
+  love. Bring warm clothing and a good mood to help make good trouble.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Chehalis+Wes
+ tern+Trail+%2F+I-5%2C+Lacey%2C+WA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

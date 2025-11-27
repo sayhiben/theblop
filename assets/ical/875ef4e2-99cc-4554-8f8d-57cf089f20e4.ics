@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:2915664a-3921-4324-a60f-b84c3ff0631e
+SEQUENCE:0
+DTSTAMP:20251127T032241Z
+DTSTART:20251213T120000
+DTEND:20251213T140000
+SUMMARY:Olympia Visibility Brigade Overpass Bannering
+LOCATION:The Kiss\, Percival Landing\, Olympia\, WA
+DESCRIPTION:We invite you to bring your high-visibility protest signs\, fl
+ ags\, and a good mood to join us on the bridge to make good trouble.\n\nDo
+ wntown Olympia
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=The+Kiss%2C+
+ Percival+Landing%2C+Olympia%2C+WA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

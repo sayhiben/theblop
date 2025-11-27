@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:c7ba6bc9-f838-47ac-8561-86403ea51b09
+SEQUENCE:0
+DTSTAMP:20251127T032241Z
+DTSTART:20251208T163000
+DTEND:20251208T183000
+SUMMARY:Overpass Bannering: Dark Mode
+LOCATION:Chehalis Western Trail / I-5\, Lacey\, WA
+DESCRIPTION:Olympia Visibility Brigade is hosting an event to make a posit
+ ive impact. Attendees are encouraged to bring warm clothing and a good moo
+ d to join the effort against hate.\n\nChehalis Western Trail / I-5
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Chehalis+Wes
+ tern+Trail+%2F+I-5%2C+Lacey%2C+WA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:8dc9ce45-9946-4c3f-8125-a53676939608
+SEQUENCE:0
+DTSTAMP:20251127T032241Z
+DTSTART:20251201T163000
+DTEND:20251201T183000
+SUMMARY:Olympia Visibility Brigade
+LOCATION:Pedestrian Bridge / I-5\, Tumwater\, WA
+DESCRIPTION:We are organizing an overpass bannering event titled 'Dark Mod
+ e.' Bring warm clothing and join us for a social cause demonstration to ma
+ ke good trouble.\n\nPedestrian Bridge / I-5
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Pedestrian+B
+ ridge+%2F+I-5%2C+Tumwater%2C+WA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

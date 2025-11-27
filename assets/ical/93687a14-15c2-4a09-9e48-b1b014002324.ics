@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:4ae13c56-a173-46b1-9cd5-c14137b4c592
+SEQUENCE:0
+DTSTAMP:20251127T032241Z
+DTSTART:20251227T120000
+DTEND:20251227T140000
+SUMMARY:Olympia Visibility Brigade
+LOCATION:Boulevard Rd SE / I-5\, Olympia\, WA
+DESCRIPTION:We are organizing an overpass bannering event to stand against
+  threats to democracy. Join us with high-visibility protest signs and flag
+ s on the bridge.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Boulevard+Rd
+ +SE+%2F+I-5%2C+Olympia%2C+WA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
