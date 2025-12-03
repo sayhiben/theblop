@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:2f9b0cac-8f43-4ed9-99f2-ddde27af74be
+SEQUENCE:0
+DTSTAMP:20251203T180427Z
+DTSTART:20251205T150000
+DTEND:20251205T170000
+SUMMARY:Fight Fascism Fridays
+LOCATION:Federal Courthouse\, Las Vegas\, NV
+DESCRIPTION:Join Indivisible Las Vegas as we gather at the Federal Courtho
+ use to stand against fascism\, calling for impeachment\, conviction\, and 
+ removal of those in power. Let's unite for change.\n\nFederal Courthouse
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Federal+Cour
+ thouse%2C+Las+Vegas%2C+NV&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
