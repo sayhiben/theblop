@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:b77b22d4-6d19-4e3a-8290-063761d3b53d
+SEQUENCE:0
+DTSTAMP:20251203T210431Z
+DTSTART:20251220T130000
+DTEND:20251220T150000
+SUMMARY:Indivisible NWA Meeting
+LOCATION:405 S Main St\, Bentonville\, AR 72712
+DESCRIPTION:Join us for our next monthly meeting aimed at empowering Arkan
+ sans to participate in democracy.\n\nBentonville Public Library\, Walton F
+ oundation Community Room
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=405+S+Main+S
+ t%2C+Bentonville%2C+AR+72712&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
