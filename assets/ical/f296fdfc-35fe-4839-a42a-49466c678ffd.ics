@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:f23ffb7d-3d29-49f4-81d3-b67172f9b093
+SEQUENCE:0
+DTSTAMP:20251205T060437Z
+DTSTART:20251216T191500
+DTEND:20251216T211500
+SUMMARY:Boston ICE Tea Party
+LOCATION:24 School St\, Boston\, MA
+DESCRIPTION:Join us in celebrating the 252nd anniversary of the Boston Tea
+  Party. We will gather to express dissatisfaction with modern parallels to
+  historic grievances\, emphasizing a call to action against current author
+ itative measures. The evening includes a short march to the Waterfront Pla
+ za after gathering.\n\nAcross from the Old South Meeting House. March to W
+ aterfront Plaza.
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=24+School+St
+ %2C+Boston%2C+MA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
