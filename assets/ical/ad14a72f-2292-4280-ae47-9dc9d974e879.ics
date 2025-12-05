@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:ad889d5c-eafa-466a-b1ec-663440643a86
+SEQUENCE:0
+DTSTAMP:20251205T180419Z
+DTSTART:20251220T120000
+DTEND:20251220T140000
+SUMMARY:Stand Up Loveland
+LOCATION:1606 N Lincoln Ave & along US-34\, Loveland\, CO
+DESCRIPTION:A peaceful protest in support of constitutional rights\, immig
+ rant\, transgender communities\, and federal workforce. The event encourag
+ es participants to bring signs and flags.\n\nSprouts to Tesla
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=1606+N+Linco
+ ln+Ave+%26+along+US-34%2C+Loveland%2C+CO&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
