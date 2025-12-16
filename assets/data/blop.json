@@ -1,27 +1,5 @@
 [
   {
-    "id": "d49c6311-81ec-491e-9fe7-ac78cf6217b6",
-    "title": "Christmas Wonderland Market",
-    "date": "Monday, December 15, 2025",
-    "time": "10:00 AM",
-    "description": "Join us for a festive day of holiday shopping, food, and fun.",
-    "city": "Springfield",
-    "state": "",
-    "address": "123 River Rd",
-    "meeting_location": "Riverside Park",
-    "links": [],
-    "sponsors": [
-      "Springfield Community Center"
-    ],
-    "image_url": "https://theblop.org/assets/images/d49c6311-81ec-491e-9fe7-ac78cf6217b6.gif",
-    "thumbnail_url": "https://theblop.org/assets/images/d49c6311-81ec-491e-9fe7-ac78cf6217b6-thumb.jpg",
-    "canonical_id": "",
-    "permalink": "https://theblop.org/events/d49c6311-81ec-491e-9fe7-ac78cf6217b6.html",
-    "ical": "https://theblop.org/assets/ical/d49c6311-81ec-491e-9fe7-ac78cf6217b6.ics",
-    "raw_text": "Christmas Wonderland Market\nJoin us for a festive day of holiday shopping, food, and fun\nLocation: Riverside Park, 123 River Rd, Springfield\nDate: December 15, 2025\nTime: 10:00 AM to 5:00 PM\nHosted by: Springfield Community Center",
-    "raw_summary": "The image contains details about an event, namely the \"Christmas Wonderland Market,\" which provides an opportunity for attendees to shop for holiday gifts from various vendors and enjoy festive activities and cuisine."
-  },
-  {
     "id": "f296fdfc-35fe-4839-a42a-49466c678ffd",
     "title": "Boston ICE Tea Party",
     "date": "Tuesday, December 16, 2025",
