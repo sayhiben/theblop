@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:3cea2f94-48b6-4997-9d61-5b2054cb8b21
+SEQUENCE:0
+DTSTAMP:20251223T060431Z
+DTSTART:20260119T120000
+DTEND:20260119T140000
+SUMMARY:Olympia Visibility Brigade: Overpass Bannering
+LOCATION:Chehalis Western Trail / I-5\, Lacey\, WA
+DESCRIPTION:Join us for high-visibility protest signs and flags to make go
+ od trouble on Chehalis Western Trail / I-5 in Lacey. Olympia Indivisible i
+ nvites participants to gather in support of democracy.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Chehalis+Wes
+ tern+Trail+%2F+I-5%2C+Lacey%2C+WA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:ed0c3094-7588-4b01-b1cb-3481feda2bac
+SEQUENCE:0
+DTSTAMP:20251223T060431Z
+DTSTART:20260124T120000
+DTEND:20260124T140000
+SUMMARY:Olympia Visibility Brigade
+LOCATION:Eastside St / I-5\, Olympia\, WA
+DESCRIPTION:Join us for an overpass bannering event. Bring high-visibility
+  protest signs and flags to make good trouble!\n\nEastside St / I-5
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Eastside+St+
+ %2F+I-5%2C+Olympia%2C+WA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

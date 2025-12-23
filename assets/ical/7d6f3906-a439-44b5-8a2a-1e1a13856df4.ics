@@ -2,16 +2,17 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:dbb978d1-32ae-4695-9d51-4a5553b15d24
+UID:caf54b5e-42ed-46ac-968a-657a96953c89
 SEQUENCE:0
 DTSTAMP:20251223T060431Z
-DTSTART:20251229T163000
-DTEND:20251229T183000
+DTSTART:20260112T163000
+DTEND:20260112T183000
 SUMMARY:Olympia Visibility Brigade Overpass Bannering: Dark Mode
 LOCATION:Pedestrian Bridge / I-5\, Tumwater\, WA
-DESCRIPTION:Join us for an overpass bannering event to promote visibility 
- and community action. Bring warm clothing and a good mood to participate i
- n making good trouble.\n\n
+DESCRIPTION:Join us for an overpass bannering event with the Olympia Visib
+ ility Brigade. Bring warm clothing and a good mood as we gather on the Ped
+ estrian Bridge over I-5 in Tumwater to make good trouble.\n\nPedestrian Br
+ idge / I-5\, Tumwater
 URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Pedestrian+B
  ridge+%2F+I-5%2C+Tumwater%2C+WA&zoom=15&basemap=roadmap
 STATUS:CONFIRMED
