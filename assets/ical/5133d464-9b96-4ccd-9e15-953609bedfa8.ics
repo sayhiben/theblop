@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:efb639de-68f3-4e7b-923c-8411ff56b8b8
+SEQUENCE:0
+DTSTAMP:20251231T180437Z
+DTSTART:20260106T120000
+DTEND:20260106T140000
+SUMMARY:Corner Protests
+LOCATION:425 S College Ave.\, Fort Collins\, CO
+DESCRIPTION:Join us for corner protests in Fort Collins. Bring signs\, fla
+ gs\, and your enthusiasm.\n\nMulberry & College\; Drake & College
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=425+S+Colleg
+ e+Ave.%2C+Fort+Collins%2C+CO&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
