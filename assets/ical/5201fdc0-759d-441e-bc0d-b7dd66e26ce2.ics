@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:6e500ccc-c373-433f-9cbc-a2e0874e8ea6
+SEQUENCE:0
+DTSTAMP:20260101T060425Z
+DTSTART:20260120T140000
+DTEND:20260120T160000
+SUMMARY:Stand Up Loveland: Free America Walkout
+LOCATION:Line highway 34 going East and West of highway 287.\, Loveland\, 
+ CO
+DESCRIPTION:Join us in Loveland for the Free America Walkout. We're gather
+ ing on January 20th to make our voices heard. Line up on Highway 34 going 
+ East and West of Highway 287.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Line+highway
+ +34+going+East+and+West+of+highway+287.%2C+Loveland%2C+CO&zoom=15&basemap=
+ roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
