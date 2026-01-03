@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:645589c2-9043-4e45-b6cd-e36c59223e3f
+SEQUENCE:0
+DTSTAMP:20260103T210400Z
+DTSTART:20260104T140000
+DTEND:20260104T160000
+SUMMARY:Emergency Houston Protest
+LOCATION:Post Oak & Westheimer\, Houston\, TX
+DESCRIPTION:Join us for a protest in Houston against the war on Venezuela.
+  We aim to stop further bombings and raise awareness.\n\nPost Oak & Westhe
+ imer
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Post+Oak+%26
+ +Westheimer%2C+Houston%2C+TX&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
