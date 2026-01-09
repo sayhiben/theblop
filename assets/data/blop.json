@@ -1,25 +1,5 @@
 [
   {
-    "id": "ae7dbfca-2be2-499b-b68a-b003740dc25e",
-    "title": "Corner Protest",
-    "date": "Thursday, January 8, 2026",
-    "time": "3:15 PM",
-    "description": "Join us for the Corner Protest happening every Tuesday and Thursday from 3:15 to 5:15 PM at the southwest corner of Drake and College. We engage positively and advocate for democracy, with the upcoming event on January 8, 2026.",
-    "city": "Fort Collins",
-    "state": "CO",
-    "address": "2601 S College Ave",
-    "meeting_location": "SW Corner of Drake and College",
-    "links": [],
-    "sponsors": [],
-    "image_url": "https://theblop.org/assets/images/ae7dbfca-2be2-499b-b68a-b003740dc25e.png",
-    "thumbnail_url": "https://theblop.org/assets/images/ae7dbfca-2be2-499b-b68a-b003740dc25e-thumb.jpg",
-    "canonical_id": "",
-    "permalink": "https://theblop.org/events/ae7dbfca-2be2-499b-b68a-b003740dc25e.html",
-    "ical": "https://theblop.org/assets/ical/ae7dbfca-2be2-499b-b68a-b003740dc25e.ics",
-    "raw_text": "Join the Corner Protest every Tuesday and Thursday 3:15-5:15 PM\nSW Corner of Drake and College in Fort Collins\nPositive engagement\nPROTECT DEMOCRACY\nRight or Left ... we all know this is WRONG!\nOMG GOP WTF\nThursday, Jan 8, 2026\n3:15 - 5:15 pm\n2601 S College Ave, Fort Collins, CO",
-    "raw_summary": "The flyer invites participation in the Corner Protest happening every Tuesday and Thursday from 3:15 to 5:15 PM at the southwest corner of Drake and College in Fort Collins. The event promotes positive engagement and emphasizes messages like protecting democracy. An upcoming event is specifically on Thursday, January 8, 2026, taking place at 2601 S College Ave, Fort Collins, CO."
-  },
-  {
     "id": "4635a67d-95ab-4e9b-ac63-25b91b7b724e",
     "title": "Olympia Visibility Brigade - Overpass Bannering",
     "date": "Saturday, January 10, 2026",
@@ -143,6 +123,30 @@
     "ical": "https://theblop.org/assets/ical/5201fdc0-759d-441e-bc0d-b7dd66e26ce2.ics",
     "raw_text": "STAND UP\nLOVELAND: FREE\nAMERICA WALKOUT\n\nSTAND UP LOVELAND: FREE AMERICA WALKOUT\nJanuary 20th @ 2pm - 4pm\nLine highway 34 going East and West of highway 287.\nLoveland, Colorado\nFIND YOUR LOCAL WALK OUT! https://bit.ly/findawalkout",
     "raw_summary": "This flyer announces \"Stand Up Loveland: Free America Walkout\" scheduled for January 20th from 2 PM to 4 PM. Participants are encouraged to line Highway 34 going east and west of Highway 287 in Loveland, Colorado. The flyer suggests finding local walkouts with a provided link."
+  },
+  {
+    "id": "c1a5f09e-bcd8-45fe-9e5d-3b94987954a5",
+    "title": "Women's Day Walk Out Protest",
+    "date": "Tuesday, January 20, 2026",
+    "time": "2:00 PM",
+    "description": "Join us for the Women's Day Walk Out Protest as we walk away from fascism and toward a Free America. We aim to fight for a future that belongs to all. Everybody in. Nobody out.",
+    "city": "Centralia",
+    "state": "WA",
+    "address": "George Washington Park Sidewalk on S. Pearl St.",
+    "meeting_location": "",
+    "links": [
+      "lewislocallodger.blogspot.com"
+    ],
+    "sponsors": [
+      "lewislocallodger"
+    ],
+    "image_url": "https://theblop.org/assets/images/c1a5f09e-bcd8-45fe-9e5d-3b94987954a5.png",
+    "thumbnail_url": "https://theblop.org/assets/images/c1a5f09e-bcd8-45fe-9e5d-3b94987954a5-thumb.jpg",
+    "canonical_id": "",
+    "permalink": "https://theblop.org/events/c1a5f09e-bcd8-45fe-9e5d-3b94987954a5.html",
+    "ical": "https://theblop.org/assets/ical/c1a5f09e-bcd8-45fe-9e5d-3b94987954a5.ics",
+    "raw_text": "WOMEN’S DAY\nWalk Out Protest\nJanuary 20th 2 PM - 3 PM\nGeorge Washington Park Sidewalk on S. Pearl St.\nCentralia, Washington\nWe walk away from fascism.\nWe walk toward a Free America.\nWe fight for a future that belongs to all of us.\nEverybody in. Nobody out.\nOrganized by lewislocallodger.blogspot.com",
+    "raw_summary": "A protest event titled 'Women's Day Walk Out Protest' is happening on January 20th from 2 PM to 3 PM at George Washington Park Sidewalk, Centralia, Washington. The event promotes walking away from fascism and fighting for a free America. It is organized by a blog site."
   },
   {
     "id": "ff2ab210-bac1-47b0-aa0a-29c1457c92cd",

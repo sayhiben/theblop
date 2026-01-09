@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:1edee742-2225-4135-bc32-b01cd564dc96
+SEQUENCE:0
+DTSTAMP:20260109T000737Z
+DTSTART:20260120T140000
+DTEND:20260120T160000
+SUMMARY:Women's Day Walk Out Protest
+LOCATION:George Washington Park Sidewalk on S. Pearl St.\, Centralia\, WA
+DESCRIPTION:Join us for the Women's Day Walk Out Protest as we walk away f
+ rom fascism and toward a Free America. We aim to fight for a future that b
+ elongs to all. Everybody in. Nobody out.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=George+Washi
+ ngton+Park+Sidewalk+on+S.+Pearl+St.%2C+Centralia%2C+WA&zoom=15&basemap=roa
+ dmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
