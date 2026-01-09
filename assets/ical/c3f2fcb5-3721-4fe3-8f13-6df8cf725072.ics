@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:84498d6b-a14a-4c25-864c-86903361c77e
+SEQUENCE:0
+DTSTAMP:20260109T120433Z
+DTSTART:20260110T000000
+DTEND:20260110T020000
+SUMMARY:Ice Out for Good
+LOCATION:\, Carson City\, NV
+DESCRIPTION:Join us as we stand against ICE and remember Renee Good.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+Carson+C
+ ity%2C+NV&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
