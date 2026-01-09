@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:daea01fb-157c-4891-ba31-13e8392a6788
+SEQUENCE:0
+DTSTAMP:20260109T180447Z
+DTSTART:20260110T150000
+DTEND:20260110T170000
+SUMMARY:Remember the Victims Protest
+LOCATION:Old Town Square\, Fort Collins\, CO
+DESCRIPTION:Join us to remember victims and protest crimes\, calling on el
+ ected officials to take action.\n\nOld Town Square
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Old+Town+Squ
+ are%2C+Fort+Collins%2C+CO&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

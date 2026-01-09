@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:a5cb2b01-88b1-4cc5-b1fc-4cce7049f419
+SEQUENCE:0
+DTSTAMP:20260109T180447Z
+DTSTART:20260110T120000
+DTEND:20260110T140000
+SUMMARY:Stand Up Loveland: No Occupation of Venezuela\, No ICE Occupation
+LOCATION:WB Eisenhower & Lincoln\, Loveland\, CO
+DESCRIPTION:We stand united demanding an end to the Venezuelan occupation 
+ and the removal of reckless untrained ICE agents from our communities. Joi
+ n us\, stand strong and speak up. We emphasize nonviolent action and expec
+ t all participants to de-escalate potential confrontations.\n\nWB Eisenhow
+ er & Lincoln
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=WB+Eisenhowe
+ r+%26+Lincoln%2C+Loveland%2C+CO&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:59f569b1-0402-4c54-a57f-0c3c62b8518e
+SEQUENCE:0
+DTSTAMP:20260109T180447Z
+DTSTART:20260110T110000
+DTEND:20260110T130000
+SUMMARY:ICE OUT FOR GOOD
+LOCATION:Intersection of Harmony and Timberline\, Fort Collins\, CO
+DESCRIPTION:Join us for a peaceful demonstration to demand that ICE stop t
+ errorizing U.S. cities and to hold accountable those responsible for Renee
+  Nicole Good's murder and other innocent victims. We will line the streets
+  dressed in black to mourn the loss of lives and freedoms.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Intersection
+ +of+Harmony+and+Timberline%2C+Fort+Collins%2C+CO&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
