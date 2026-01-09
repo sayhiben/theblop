@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:e9b3be11-72b7-4d08-acf6-4daf262d5a4e
+SEQUENCE:0
+DTSTAMP:20260109T150354Z
+DTSTART:20260110T123000
+DTEND:20260110T143000
+SUMMARY:ICE OUT FOR GOOD
+LOCATION:\, Las Vegas\, NV
+DESCRIPTION:The "Weekend of Action" event encourages participation over th
+ ree days with activities at different locations in Las Vegas to promote so
+ cial causes.\n\nFriday: Corner of LVB & Clark\, Saturday: Boca Park Summer
+ lin\, Sunday: Federal Courthouse
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+Las+Vega
+ s%2C+NV&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
