@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:d6f04c47-cbc4-48a2-9196-0cc9ad40aa31
+SEQUENCE:0
+DTSTAMP:20260110T180420Z
+DTSTART:20260111T123000
+DTEND:20260111T143000
+SUMMARY:Enough is Enough
+LOCATION:corner of I St & 14th St\, Bentonville\, AR
+DESCRIPTION:Join us for the 'Enough is Enough' event to engage and empower
+  the community in democratic activities.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=corner+of+I+
+ St+%26+14th+St%2C+Bentonville%2C+AR&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

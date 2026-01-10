@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:561f67e1-1739-473c-af94-d8b26b01cdb5
+SEQUENCE:0
+DTSTAMP:20260110T180420Z
+DTSTART:20260111T123000
+DTEND:20260111T143000
+SUMMARY:Enough is Enough
+LOCATION:Corner of I St & 14th St\, Bentonville\, AR
+DESCRIPTION:We invite you to join us for a public gathering titled "Enough
+  is Enough" organized by Indivisible NWA to empower Arkansans in democrati
+ c participation.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Corner+of+I+
+ St+%26+14th+St%2C+Bentonville%2C+AR&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
