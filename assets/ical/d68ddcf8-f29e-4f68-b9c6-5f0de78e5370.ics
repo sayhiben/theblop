@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:57b2b467-0ba4-45d5-a0da-871e8c164eec
+SEQUENCE:0
+DTSTAMP:20260110T033039Z
+DTSTART:20260110T110000
+DTEND:20260110T130000
+SUMMARY:ICE OUT FOR GOOD
+LOCATION:451 S State\, Salt Lake City\, UT
+DESCRIPTION:Join us for 'ICE OUT FOR GOOD' at Washington Square Park in Sa
+ lt Lake City. This event aims to bring the community together for a day of
+  activism.\n\nWashington Square Park
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=451+S+State%
+ 2C+Salt+Lake+City%2C+UT&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
