@@ -1,53 +1,5 @@
 [
   {
-    "id": "c0240509-b3df-4443-901b-2803ff15ed50",
-    "title": "Enough Is Enough",
-    "date": "Sunday, January 11, 2026",
-    "time": "12:30 PM",
-    "description": "Join us for the 'Enough is Enough' event to engage and empower the community in democratic activities.",
-    "city": "Bentonville",
-    "state": "AR",
-    "address": "corner of I St & 14th St",
-    "meeting_location": "",
-    "links": [
-      "IndivisibleNWA.org"
-    ],
-    "sponsors": [
-      "Indivisible NWA"
-    ],
-    "image_url": "https://theblop.org/assets/images/c0240509-b3df-4443-901b-2803ff15ed50.png",
-    "thumbnail_url": "https://theblop.org/assets/images/c0240509-b3df-4443-901b-2803ff15ed50-thumb.jpg",
-    "canonical_id": "",
-    "permalink": "https://theblop.org/events/c0240509-b3df-4443-901b-2803ff15ed50.html",
-    "ical": "https://theblop.org/assets/ical/c0240509-b3df-4443-901b-2803ff15ed50.ics",
-    "raw_text": "INDIVISIBLE NWA\nEmpowering Arkansans to do democracy\nIndivisibleNWA.org\nEnough is Enough\nSunday, January 11, 2026, 12:30 – 2:00 PM\nBentonville, AR, corner of I St & 14th St\nSee the Mobilize link for more details",
-    "raw_summary": "The flyer announces an event titled 'Enough is Enough' organized by Indivisible NWA. It takes place on January 11, 2026, in Bentonville, AR, at the corner of I St & 14th St, from 12:30 PM to 2:00 PM. Further details can be found through a Mobilize link."
-  },
-  {
-    "id": "59d2d327-e7de-486a-9b4d-89a68804a220",
-    "title": "Enough Is Enough",
-    "date": "Sunday, January 11, 2026",
-    "time": "12:30 PM",
-    "description": "We invite you to join us for a public gathering titled \"Enough is Enough\" organized by Indivisible NWA to empower Arkansans in democratic participation.",
-    "city": "Bentonville",
-    "state": "AR",
-    "address": "Corner of I St & 14th St",
-    "meeting_location": "",
-    "links": [
-      "IndivisibleNWA.org"
-    ],
-    "sponsors": [
-      "Indivisible NWA"
-    ],
-    "image_url": "https://theblop.org/assets/images/59d2d327-e7de-486a-9b4d-89a68804a220.png",
-    "thumbnail_url": "https://theblop.org/assets/images/59d2d327-e7de-486a-9b4d-89a68804a220-thumb.jpg",
-    "canonical_id": "",
-    "permalink": "https://theblop.org/events/59d2d327-e7de-486a-9b4d-89a68804a220.html",
-    "ical": "https://theblop.org/assets/ical/59d2d327-e7de-486a-9b4d-89a68804a220.ics",
-    "raw_text": "INDIVISIBLE NWA\nEmpowering Arkansans to do democracy\nIndivisibleNWA.org\nEnough is Enough\nSunday, January 11, 2026, 12:30 – 2:00 PM\nBentonville, AR, corner of I St & 14th St\nSee the Mobilize link for more details",
-    "raw_summary": "The image is an event flyer announcing a public gathering named \"Enough is Enough\". It is organized by Indivisible NWA and is scheduled for Sunday, January 11, 2026, in Bentonville, Arkansas, from 12:30 to 2:00 PM. More details can be found at the Indivisible NWA website."
-  },
-  {
     "id": "7d6f3906-a439-44b5-8a2a-1e1a13856df4",
     "title": "Olympia Visibility Brigade Overpass Bannering: Dark Mode",
     "date": "Monday, January 12, 2026",
@@ -375,5 +327,27 @@
     "ical": "https://theblop.org/assets/ical/4a0efead-1559-45a1-b1a4-0b6d4e03244f.ics",
     "raw_text": "OLYMPIA VISIBILITY BRIGADE\nOVERPASS BANNERING\n31 JANUARY 2026\nFROM 12:00 TO 2:00\nBOULEVARD RD SE / I-5\nOLYMPIA\nBRING YOUR HIGH-VISIBILITY PROTEST SIGNS, FLAGS, & A GOOD MOOD, AND JOIN US ON THE BRIDGE TO MAKE GOOD TROUBLE!\nDEMOCRACY IS UNDER ATTACK\nSTAND UP FIGHT BACK!\nMORE INFORMATION:\nOLYMPIA INDIVISIBLE, BACKBONECAMPAIGN.ORG, AND THEBLOP.ORG",
     "raw_summary": "The image describes an upcoming event called \"Olympia Visibility Brigade\" for an overpass bannering demonstration to occur on January 31, 2026, from 12:00 PM to 2:00 PM at Boulevard Rd SE / I-5, Olympia. Participants are invited to bring protest signs and flags."
+  },
+  {
+    "id": "2a9423f3-ed79-4d90-ab9b-66f54cf962b4",
+    "title": "The Big Beautiful Boo",
+    "date": "Wednesday, April 15, 2026",
+    "time": "8:00 PM",
+    "description": "We are organizing a nationwide synchronized protest called \"The Big Beautiful Boo\" where citizens will make noise from their homes at 8:00 PM EST on April 15th. This is a safe, easy way to protest without marching or needing permits.",
+    "city": "Nationwide",
+    "state": "Nationwide",
+    "address": "",
+    "meeting_location": "",
+    "links": [
+      "www.bbbboo.info"
+    ],
+    "sponsors": [],
+    "image_url": "https://theblop.org/assets/images/2a9423f3-ed79-4d90-ab9b-66f54cf962b4.jpg",
+    "thumbnail_url": "https://theblop.org/assets/images/2a9423f3-ed79-4d90-ab9b-66f54cf962b4-thumb.jpg",
+    "canonical_id": "",
+    "permalink": "https://theblop.org/events/2a9423f3-ed79-4d90-ab9b-66f54cf962b4.html",
+    "ical": "https://theblop.org/assets/ical/2a9423f3-ed79-4d90-ab9b-66f54cf962b4.ics",
+    "raw_text": "THE BIG BEAUTIFUL BOO\nWEDNESDAY, APRIL 15TH\n8:00PM EST- ZERO HOUR\n\nA Nationwide Synchronized Protest\n\nWHEN WE'RE LOUD TOGETHER\nTHEY CAN'T IGNORE US\n\n*No Marching, No Permits, No Travel*\n\nA Safe & Easy Way To Protest From Home\n\nOn WEDNESDAY, APRIL 15TH, 8pm. EST Citizens across the country will step onto their porches\n, balconies, and roofs to let out a collective \"Boo\" and make a ruckus. It is a low-risk, high-impact way\nfor the \"silent majority\" to become the \"loud majority\" without needing to march or face confrontation.\n\nMore Info: www.bbbboo.info",
+    "raw_summary": "The image advertises a nationwide synchronized protest called \"The Big Beautiful Boo,\" scheduled for April 15th at 8:00 PM EST. It encourages people to make noise from their homes instead of marching, representing a low-risk protest method. More information can be found on the website provided."
   }
 ]

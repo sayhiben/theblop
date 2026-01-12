@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:87c7f08d-f90b-4a6f-afb1-bbc8bc0242ff
+SEQUENCE:0
+DTSTAMP:20260112T000744Z
+DTSTART:20260415T200000
+DTEND:20260415T220000
+SUMMARY:The Big Beautiful Boo
+LOCATION:\, Nationwide\, Nationwide
+DESCRIPTION:We are organizing a nationwide synchronized protest called "Th
+ e Big Beautiful Boo" where citizens will make noise from their homes at 8:
+ 00 PM EST on April 15th. This is a safe\, easy way to protest without marc
+ hing or needing permits.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=%2C+Nationwi
+ de%2C+Nationwide&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
