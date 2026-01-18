@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:e340afc6-54fe-4b0c-9009-3738d383a332
+SEQUENCE:0
+DTSTAMP:20260118T210329Z
+DTSTART:20260126T120000
+DTEND:20260126T140000
+SUMMARY:Healthcare Under Attack
+LOCATION:Corner of SW I St & SW 14th St\, Bentonville\, AR
+DESCRIPTION:Join us in Bentonville to raise awareness and advocate for hea
+ lthcare rights. Organized by Indivisible NWA.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Corner+of+SW
+ +I+St+%26+SW+14th+St%2C+Bentonville%2C+AR&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
