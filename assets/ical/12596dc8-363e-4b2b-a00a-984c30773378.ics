@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:c9f2a2d7-4a75-4388-90e9-2c422dfd130d
+SEQUENCE:0
+DTSTAMP:20260119T000755Z
+DTSTART:20260221T120000
+DTEND:20260221T140000
+SUMMARY:Olympia Visibility Brigade Overpass Banning
+LOCATION:Eastside St SE / I-5\, Olympia\, WA
+DESCRIPTION:We invite you to join the Olympia Visibility Brigade for a ban
+ nering event. Bring your protest signs and flags to stand up and make good
+  trouble on the overpass.\n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Eastside+St+
+ SE+%2F+I-5%2C+Olympia%2C+WA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

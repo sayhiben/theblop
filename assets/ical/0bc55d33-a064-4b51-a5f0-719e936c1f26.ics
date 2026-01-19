@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:ab9745a0-97f6-4ec5-ba15-9fe05d29b12c
+SEQUENCE:0
+DTSTAMP:20260119T000755Z
+DTSTART:20260216T163000
+DTEND:20260216T183000
+SUMMARY:Olympia Visibility Brigade - Overpass Bannering: Dark Mode
+LOCATION:Chehalis Western Trail / I-5\, Lacey\, WA
+DESCRIPTION:Join us on February 16\, 2026\, for an overpass bannering even
+ t at the Chehalis Western Trail/I-5 in Lacey from 4:30 to 6:30 PM. Bring w
+ arm clothing and a good mood to make good trouble and fight hate with love
+ . More information and updates available via the provided contact details.
+ \n\n
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Chehalis+Wes
+ tern+Trail+%2F+I-5%2C+Lacey%2C+WA&zoom=15&basemap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

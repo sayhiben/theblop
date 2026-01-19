@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:aa119369-8e94-4dc3-b094-a555c5244635
+SEQUENCE:0
+DTSTAMP:20260119T000755Z
+DTSTART:20260228T120000
+DTEND:20260228T140000
+SUMMARY:Olympia Visibility Brigade: Overpass Bannering
+LOCATION:Percival Landing\, The Kiss Statue\, Downtown Olympia\, Olympia\,
+  WA
+DESCRIPTION:Join us for the Overpass Bannering event organized by the Olym
+ pia Visibility Brigade. Bring your protest signs and flags to help make an
+  impact. Let's get together on the bridge to promote good trouble!\n\nPerc
+ ival Landing\, The Kiss Statue
+URL;VALUE=URI:https://www.google.com/maps/search/?api=1&query=Percival+Lan
+ ding%2C+The+Kiss+Statue%2C+Downtown+Olympia%2C+Olympia%2C+WA&zoom=15&basem
+ ap=roadmap
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
